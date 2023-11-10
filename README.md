@@ -4,7 +4,7 @@ This project outlines efforts to build and evaluate a recommendation system usin
 See the [report](https://github.com/champioz/twitchrecommender/blob/main/report.pdf) for a full description of the background research, methodology, and results.
 
 _Please note that the data folder is left blank on this repository. Evaluations were performed using Julian McAuley's (UCSD) "Recommender Systems and Personalization_
-_Datasets: Twitch," available [here](https://cseweb.ucsd.edu/~jmcauley/datasets.html)._
+_Datasets: Twitch," available [here](https://cseweb.ucsd.edu/~jmcauley/datasets.html), as well as data collected via web scraping from SullyGnome.com._
 
 ## Utils
 
