@@ -29,7 +29,7 @@ def clean_streams(file):
     file.sort_values(by=['Start Time'], inplace=True)
 
     file['Time since'] = file['Start Time'].diff(
-        periods=-1).astype('timedelta64[m]')
+        periods=-1).values.astype('timedelta64[m]')
 
     avg_gap = file['Time since'].mean()
     avg_length = file['Stream length (mins)'].mean()

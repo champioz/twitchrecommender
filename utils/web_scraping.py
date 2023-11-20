@@ -17,21 +17,21 @@ import pandas as pd
 np.random.seed(13)
 
 
-def gen_candidates(path):
+def gen_candidates(evaluation_dataset, sample_size):
 
-    done = []
+    previously_done = []
     for file in os.listdir('./data/channel_stats'):
-        chan = file.split('.')[0]
-        done.append(chan)
+        channel = file.split('.')[0]
+        previously_done.append(channel)
 
-    print(len(done))
-    all_chan = pd.read_csv(
-        path, names=['User', 'Stream', 'Channel', 'Start', 'End'])['Channel'].unique()
+    all_channels = pd.read_csv(
+        evaluation_dataset, 
+        names=['User', 'Stream', 'Channel', 'Start', 'End']
+        )['Channel'].unique()
 
-    print(len(all_chan))
-    all_chan = [chan for chan in all_chan if chan not in done]
-    print(len(all_chan))
-    return np.random.choice(all_chan, size=3000, replace=False)
+    all_channels = [channel for channel in all_channels if channel not in previously_done]
+
+    return np.random.choice(all_channels, size=sample_size, replace=False)
 
 
 def is_active(button):
@@ -139,7 +139,7 @@ driver = webdriver.Chrome(executable_path=PATH)
 driver.get('https://sullygnome.com/channels/2019july/mostfollowers')
 url = 'https://sullygnome.com/channel/'
 present = datetime.strptime('1 Aug 2019', '%d %b %Y')
-allstats = []
+
 # Set visible results to 100
 time.sleep(5)
 driver.find_element(By.XPATH,
@@ -157,7 +157,7 @@ for channel in todo:
     window_before = driver.window_handles[0]
 
     try:
-        allstats.append(get_stats(driver, stats, channel))
+        get_stats(driver, stats, channel)
         driver.switch_to.window(window_before)
     except Exception as e:
         ERRORLOG.write(f'{channel}\n')
@@ -191,6 +191,3 @@ for channel in todo:
 
 driver.quit()
 ERRORLOG.close()
-
-
-pd.DataFrame(allstats).to_csv('./data/stats.csv')
