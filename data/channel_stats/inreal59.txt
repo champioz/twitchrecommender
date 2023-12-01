@@ -1,0 +1,1 @@
+{"channel": "inreal59", "avg_viewers": 16, "followers_gained": 87, "peak_viewers": 72, "hours_streamed": 151, "streams": 48, "mature": 1, "language": "French", "account_age": 3204000.0}

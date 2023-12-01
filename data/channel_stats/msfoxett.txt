@@ -1,0 +1,1 @@
+{"channel": "msfoxett", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 10, "hours_streamed": 18, "streams": 6, "mature": 1, "language": "English", "account_age": 1573920.0}

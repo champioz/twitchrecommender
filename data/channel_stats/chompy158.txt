@@ -1,0 +1,1 @@
+{"channel": "chompy158", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 10, "hours_streamed": 9, "streams": 5, "mature": 1, "language": "English", "account_age": 3947040.0}

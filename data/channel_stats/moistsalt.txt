@@ -1,0 +1,1 @@
+{"channel": "moistsalt", "avg_viewers": 14, "followers_gained": 441, "peak_viewers": 34, "hours_streamed": 44, "streams": 16, "mature": 0, "language": "English", "account_age": 1851840.0}

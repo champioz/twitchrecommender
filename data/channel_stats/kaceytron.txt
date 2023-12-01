@@ -1,0 +1,1 @@
+{"channel": "kaceytron", "avg_viewers": 671, "followers_gained": 2899, "peak_viewers": 5383, "hours_streamed": 112, "streams": 24, "mature": 0, "language": "English", "account_age": 3807360.0}

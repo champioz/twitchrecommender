@@ -1,0 +1,1 @@
+{"channel": "atrocity__tv", "avg_viewers": 2, "followers_gained": 52, "peak_viewers": 27, "hours_streamed": 48, "streams": 16, "mature": 0, "language": "English", "account_age": 812160.0}

@@ -1,0 +1,1 @@
+{"channel": "yolonou", "avg_viewers": 26, "followers_gained": 11, "peak_viewers": 117, "hours_streamed": 92, "streams": 22, "mature": 1, "language": "French", "account_age": 2249280.0}

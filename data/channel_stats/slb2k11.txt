@@ -1,0 +1,1 @@
+{"channel": "slb2k11", "avg_viewers": 24, "followers_gained": 164, "peak_viewers": 113, "hours_streamed": 76, "streams": 24, "mature": 1, "language": "German", "account_age": 1730880.0}

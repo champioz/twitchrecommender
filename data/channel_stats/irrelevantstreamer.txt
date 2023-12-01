@@ -1,0 +1,1 @@
+{"channel": "irrelevantstreamer", "avg_viewers": 9, "followers_gained": 64, "peak_viewers": 33, "hours_streamed": 65, "streams": 15, "mature": 1, "language": "English", "account_age": 915840.0}

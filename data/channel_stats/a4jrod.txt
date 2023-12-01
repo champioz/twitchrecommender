@@ -1,0 +1,1 @@
+{"channel": "a4jrod", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 13, "hours_streamed": 6, "streams": 4, "mature": 1, "language": "English", "account_age": 2460960.0}

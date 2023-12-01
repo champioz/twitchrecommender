@@ -1,0 +1,1 @@
+{"channel": "sicronius", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 2, "hours_streamed": 2, "streams": 2, "mature": 1, "language": "English", "account_age": 2930400.0}

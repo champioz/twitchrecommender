@@ -1,0 +1,1 @@
+{"channel": "mkingr6", "avg_viewers": 14, "followers_gained": 94, "peak_viewers": 67, "hours_streamed": 21, "streams": 4, "mature": 1, "language": "Portuguese", "account_age": 1782720.0}

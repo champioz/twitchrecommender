@@ -1,0 +1,1 @@
+{"channel": "ccolddaddy", "avg_viewers": 21, "followers_gained": 43, "peak_viewers": 237, "hours_streamed": 48, "streams": 9, "mature": 1, "language": "German", "account_age": 2230560.0}

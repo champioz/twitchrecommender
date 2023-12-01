@@ -1,0 +1,1 @@
+{"channel": "nocold", "avg_viewers": 8, "followers_gained": 15, "peak_viewers": 28, "hours_streamed": 13, "streams": 4, "mature": 1, "language": "Chinese", "account_age": 3113280.0}

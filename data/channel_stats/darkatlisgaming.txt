@@ -1,0 +1,1 @@
+{"channel": "darkatlisgaming", "avg_viewers": 8, "followers_gained": 141, "peak_viewers": 31, "hours_streamed": 96, "streams": 29, "mature": 1, "language": "English", "account_age": 637920.0}

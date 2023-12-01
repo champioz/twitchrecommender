@@ -1,0 +1,1 @@
+{"channel": "dapanotv", "avg_viewers": 2, "followers_gained": 24, "peak_viewers": 13, "hours_streamed": 244, "streams": 55, "mature": 1, "language": "English", "account_age": 1000800.0}

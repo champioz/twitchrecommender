@@ -1,0 +1,1 @@
+{"channel": "ramzaes", "avg_viewers": 27, "followers_gained": 222, "peak_viewers": 72, "hours_streamed": 24, "streams": 11, "mature": 0, "language": "English", "account_age": 1812960.0}

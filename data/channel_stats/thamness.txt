@@ -1,0 +1,1 @@
+{"channel": "thamness", "avg_viewers": 113, "followers_gained": 1740, "peak_viewers": 677, "hours_streamed": 120, "streams": 16, "mature": 1, "language": "Arabic", "account_age": 743040.0}

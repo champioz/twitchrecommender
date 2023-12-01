@@ -1,0 +1,1 @@
+{"channel": "militiaspack", "avg_viewers": 15, "followers_gained": 78, "peak_viewers": 88, "hours_streamed": 121, "streams": 22, "mature": 1, "language": "English", "account_age": 3781440.0}

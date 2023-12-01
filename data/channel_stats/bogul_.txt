@@ -1,0 +1,1 @@
+{"channel": "bogul_", "avg_viewers": 3, "followers_gained": 27, "peak_viewers": 13, "hours_streamed": 69, "streams": 32, "mature": 0, "language": "Polish", "account_age": 2386080.0}

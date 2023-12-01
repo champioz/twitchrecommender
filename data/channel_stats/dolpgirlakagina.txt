@@ -1,0 +1,1 @@
+{"channel": "dolpgirlakagina", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 0, "streams": 0, "mature": 0, "language": "English", "account_age": 3372480.0}

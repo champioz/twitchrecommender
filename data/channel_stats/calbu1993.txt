@@ -1,0 +1,1 @@
+{"channel": "calbu1993", "avg_viewers": 54, "followers_gained": 16, "peak_viewers": 61, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 3149280.0}

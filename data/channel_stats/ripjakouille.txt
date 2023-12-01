@@ -1,0 +1,1 @@
+{"channel": "ripjakouille", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 9, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "French", "account_age": 466560.0}

@@ -1,0 +1,1 @@
+{"channel": "oskarr_", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 10, "hours_streamed": 39, "streams": 18, "mature": 1, "language": "English", "account_age": 767520.0}

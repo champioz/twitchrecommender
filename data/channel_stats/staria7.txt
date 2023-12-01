@@ -1,0 +1,1 @@
+{"channel": "staria7", "avg_viewers": 68, "followers_gained": 683, "peak_viewers": 135, "hours_streamed": 23, "streams": 8, "mature": 0, "language": "Arabic", "account_age": 848160.0}

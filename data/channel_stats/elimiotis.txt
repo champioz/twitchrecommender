@@ -1,0 +1,1 @@
+{"channel": "elimiotis", "avg_viewers": 29, "followers_gained": 223, "peak_viewers": 61, "hours_streamed": 131, "streams": 29, "mature": 0, "language": "Greek", "account_age": 2327040.0}

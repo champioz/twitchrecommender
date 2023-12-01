@@ -1,0 +1,1 @@
+{"channel": "mmargaritast", "avg_viewers": 10, "followers_gained": 67, "peak_viewers": 23, "hours_streamed": 27, "streams": 13, "mature": 1, "language": "Spanish", "account_age": 822240.0}

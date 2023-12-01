@@ -1,0 +1,1 @@
+{"channel": "justguany", "avg_viewers": 7, "followers_gained": 184, "peak_viewers": 33, "hours_streamed": 199, "streams": 39, "mature": 0, "language": "English", "account_age": 545760.0}

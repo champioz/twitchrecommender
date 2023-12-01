@@ -1,0 +1,1 @@
+{"channel": "ethanoce", "avg_viewers": 8, "followers_gained": 22, "peak_viewers": 39, "hours_streamed": 4, "streams": 6, "mature": 0, "language": "English", "account_age": 1594080.0}

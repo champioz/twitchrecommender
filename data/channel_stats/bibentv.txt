@@ -1,0 +1,1 @@
+{"channel": "bibentv", "avg_viewers": 47, "followers_gained": 29, "peak_viewers": 114, "hours_streamed": 14, "streams": 4, "mature": 0, "language": "Russian", "account_age": 1388160.0}

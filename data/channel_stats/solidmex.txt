@@ -1,0 +1,1 @@
+{"channel": "solidmex", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 7, "hours_streamed": 35, "streams": 11, "mature": 1, "language": "Spanish", "account_age": 1088640.0}

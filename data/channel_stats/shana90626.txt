@@ -1,0 +1,1 @@
+{"channel": "shana90626", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 56, "streams": 16, "mature": 1, "language": "Chinese", "account_age": 4644000.0}

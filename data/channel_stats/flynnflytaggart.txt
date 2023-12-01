@@ -1,0 +1,1 @@
+{"channel": "flynnflytaggart", "avg_viewers": 253, "followers_gained": 1659, "peak_viewers": 763, "hours_streamed": 126, "streams": 26, "mature": 0, "language": "Russian", "account_age": 2172960.0}

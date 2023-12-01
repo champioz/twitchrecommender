@@ -1,0 +1,1 @@
+{"channel": "lady_dianaaa", "avg_viewers": 214, "followers_gained": 728, "peak_viewers": 309, "hours_streamed": 6, "streams": 5, "mature": 1, "language": "German", "account_age": 725760.0}

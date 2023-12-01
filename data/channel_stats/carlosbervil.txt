@@ -1,0 +1,1 @@
+{"channel": "carlosbervil", "avg_viewers": 11, "followers_gained": 3, "peak_viewers": 18, "hours_streamed": 5, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 4008960.0}

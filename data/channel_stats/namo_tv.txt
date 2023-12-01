@@ -1,0 +1,1 @@
+{"channel": "namo_tv", "avg_viewers": 1, "followers_gained": 13, "peak_viewers": 6, "hours_streamed": 21, "streams": 10, "mature": 1, "language": "German", "account_age": 1726560.0}

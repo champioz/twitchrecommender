@@ -1,0 +1,1 @@
+{"channel": "chazostatue", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 31, "hours_streamed": 50, "streams": 17, "mature": 0, "language": "English", "account_age": 3627360.0}

@@ -1,0 +1,1 @@
+{"channel": "wildkilmister", "avg_viewers": 10, "followers_gained": 1, "peak_viewers": 20, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "French", "account_age": 3196800.0}

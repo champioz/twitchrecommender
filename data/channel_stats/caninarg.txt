@@ -1,0 +1,1 @@
+{"channel": "caninarg", "avg_viewers": 141, "followers_gained": 4507, "peak_viewers": 747, "hours_streamed": 145, "streams": 37, "mature": 0, "language": "Spanish", "account_age": 754560.0}

@@ -1,0 +1,1 @@
+{"channel": "carolessi", "avg_viewers": 8, "followers_gained": 22, "peak_viewers": 19, "hours_streamed": 41, "streams": 16, "mature": 1, "language": "Spanish", "account_age": 1653120.0}

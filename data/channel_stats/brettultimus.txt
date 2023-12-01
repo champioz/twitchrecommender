@@ -1,0 +1,1 @@
+{"channel": "brettultimus", "avg_viewers": 140, "followers_gained": 731, "peak_viewers": 1245, "hours_streamed": 180, "streams": 30, "mature": 0, "language": "English", "account_age": 5345280.0}

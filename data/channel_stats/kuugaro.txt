@@ -1,0 +1,1 @@
+{"channel": "kuugaro", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 17, "hours_streamed": 20, "streams": 8, "mature": 1, "language": "English", "account_age": 1055520.0}

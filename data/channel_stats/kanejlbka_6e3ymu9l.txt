@@ -1,0 +1,1 @@
+{"channel": "kanejlbka_6e3ymu9l", "avg_viewers": 4, "followers_gained": 37, "peak_viewers": 30, "hours_streamed": 89, "streams": 22, "mature": 0, "language": "Russian", "account_age": 318240.0}

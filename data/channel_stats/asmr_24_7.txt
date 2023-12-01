@@ -1,0 +1,1 @@
+{"channel": "asmr_24_7", "avg_viewers": 18, "followers_gained": 17, "peak_viewers": 33, "hours_streamed": 10, "streams": 1, "mature": 0, "language": "Japanese", "account_age": 280800.0}

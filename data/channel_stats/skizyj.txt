@@ -1,0 +1,1 @@
+{"channel": "skizyj", "avg_viewers": 10, "followers_gained": 99, "peak_viewers": 38, "hours_streamed": 105, "streams": 23, "mature": 0, "language": "English", "account_age": 2681280.0}

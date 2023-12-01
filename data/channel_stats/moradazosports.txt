@@ -1,0 +1,1 @@
+{"channel": "moradazosports", "avg_viewers": 361, "followers_gained": 231, "peak_viewers": 3228, "hours_streamed": 12, "streams": 8, "mature": 0, "language": "English", "account_age": 112320.0}

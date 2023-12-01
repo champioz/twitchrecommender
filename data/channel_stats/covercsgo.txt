@@ -1,0 +1,1 @@
+{"channel": "covercsgo", "avg_viewers": 10, "followers_gained": 1, "peak_viewers": 19, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "German", "account_age": 1896480.0}

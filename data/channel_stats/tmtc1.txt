@@ -1,0 +1,1 @@
+{"channel": "tmtc1", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 22, "hours_streamed": 67, "streams": 25, "mature": 0, "language": "English", "account_age": 3533760.0}

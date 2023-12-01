@@ -1,0 +1,1 @@
+{"channel": "d4cr0k", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 15, "hours_streamed": 44, "streams": 11, "mature": 1, "language": "French", "account_age": 1150560.0}

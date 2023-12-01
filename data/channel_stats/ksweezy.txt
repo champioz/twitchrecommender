@@ -1,0 +1,1 @@
+{"channel": "ksweezy", "avg_viewers": 9, "followers_gained": 4, "peak_viewers": 140, "hours_streamed": 36, "streams": 10, "mature": 1, "language": "English", "account_age": 2246400.0}

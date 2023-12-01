@@ -1,0 +1,1 @@
+{"channel": "toxicjamai", "avg_viewers": 38, "followers_gained": 17, "peak_viewers": 96, "hours_streamed": 20, "streams": 6, "mature": 1, "language": "Polish", "account_age": 1910880.0}

@@ -1,0 +1,1 @@
+{"channel": "p_b_usagi", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 27, "hours_streamed": 72, "streams": 19, "mature": 0, "language": "Japanese", "account_age": 1059840.0}

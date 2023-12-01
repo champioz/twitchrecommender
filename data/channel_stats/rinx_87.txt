@@ -1,0 +1,1 @@
+{"channel": "rinx_87", "avg_viewers": 3, "followers_gained": 45, "peak_viewers": 17, "hours_streamed": 150, "streams": 37, "mature": 1, "language": "Italian", "account_age": 1389600.0}

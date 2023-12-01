@@ -1,0 +1,1 @@
+{"channel": "resp21", "avg_viewers": 12, "followers_gained": 12, "peak_viewers": 82, "hours_streamed": 58, "streams": 18, "mature": 0, "language": "English", "account_age": 3391200.0}

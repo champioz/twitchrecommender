@@ -1,0 +1,1 @@
+{"channel": "a_ocelot", "avg_viewers": 7, "followers_gained": 13, "peak_viewers": 25, "hours_streamed": 52, "streams": 19, "mature": 0, "language": "English", "account_age": 1352160.0}

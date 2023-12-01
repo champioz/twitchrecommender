@@ -1,0 +1,1 @@
+{"channel": "ouille", "avg_viewers": 40, "followers_gained": 124, "peak_viewers": 98, "hours_streamed": 98, "streams": 24, "mature": 0, "language": "French", "account_age": 2152800.0}

@@ -1,0 +1,1 @@
+{"channel": "zduduh", "avg_viewers": 4, "followers_gained": 92, "peak_viewers": 82, "hours_streamed": 61, "streams": 21, "mature": 0, "language": "Portuguese", "account_age": 1998720.0}

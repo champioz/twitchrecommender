@@ -1,0 +1,1 @@
+{"channel": "norap", "avg_viewers": 4, "followers_gained": 26, "peak_viewers": 18, "hours_streamed": 182, "streams": 36, "mature": 0, "language": "Korean", "account_age": 1712160.0}

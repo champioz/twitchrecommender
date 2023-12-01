@@ -1,0 +1,1 @@
+{"channel": "sixation", "avg_viewers": 40, "followers_gained": 118, "peak_viewers": 73, "hours_streamed": 114, "streams": 18, "mature": 1, "language": "English", "account_age": 3051360.0}

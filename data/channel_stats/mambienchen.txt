@@ -1,0 +1,1 @@
+{"channel": "mambienchen", "avg_viewers": 10, "followers_gained": 13, "peak_viewers": 31, "hours_streamed": 9, "streams": 4, "mature": 1, "language": "German", "account_age": 2391840.0}

@@ -1,0 +1,1 @@
+{"channel": "timkalation", "avg_viewers": 138, "followers_gained": 2517, "peak_viewers": 810, "hours_streamed": 185, "streams": 41, "mature": 0, "language": "German", "account_age": 1830240.0}

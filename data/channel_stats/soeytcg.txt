@@ -1,0 +1,1 @@
+{"channel": "soeytcg", "avg_viewers": 23, "followers_gained": 210, "peak_viewers": 97, "hours_streamed": 126, "streams": 36, "mature": 1, "language": "French", "account_age": 4309920.0}

@@ -1,0 +1,1 @@
+{"channel": "silkkiapina", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 1, "streams": 2, "mature": 1, "language": "Finnish", "account_age": 3745440.0}

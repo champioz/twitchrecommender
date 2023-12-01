@@ -1,0 +1,1 @@
+{"channel": "kreshnik", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 22, "hours_streamed": 59, "streams": 21, "mature": 0, "language": "English", "account_age": 2036160.0}

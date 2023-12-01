@@ -1,0 +1,1 @@
+{"channel": "refute", "avg_viewers": 27, "followers_gained": 385, "peak_viewers": 223, "hours_streamed": 135, "streams": 16, "mature": 1, "language": "English", "account_age": 4033440.0}

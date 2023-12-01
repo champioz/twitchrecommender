@@ -1,0 +1,1 @@
+{"channel": "charismagame", "avg_viewers": 47, "followers_gained": 29, "peak_viewers": 120, "hours_streamed": 81, "streams": 21, "mature": 1, "language": "Russian", "account_age": 1962720.0}

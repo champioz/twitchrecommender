@@ -1,0 +1,1 @@
+{"channel": "mrhebel", "avg_viewers": 48, "followers_gained": 565, "peak_viewers": 1463, "hours_streamed": 81, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 2183040.0}

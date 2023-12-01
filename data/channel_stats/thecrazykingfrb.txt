@@ -1,0 +1,1 @@
+{"channel": "thecrazykingfrb", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 14, "streams": 2, "mature": 0, "language": "Danish", "account_age": 3394080.0}

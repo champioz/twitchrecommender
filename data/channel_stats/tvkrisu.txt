@@ -1,0 +1,1 @@
+{"channel": "tvkrisu", "avg_viewers": 7, "followers_gained": 71, "peak_viewers": 16, "hours_streamed": 165, "streams": 29, "mature": 0, "language": "Polish", "account_age": 829440.0}

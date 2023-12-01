@@ -1,0 +1,1 @@
+{"channel": "norastamarley", "avg_viewers": 1, "followers_gained": 16, "peak_viewers": 7, "hours_streamed": 68, "streams": 23, "mature": 0, "language": "French", "account_age": 2092320.0}

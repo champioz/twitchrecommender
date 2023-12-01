@@ -1,0 +1,1 @@
+{"channel": "danyelly", "avg_viewers": 8, "followers_gained": 4, "peak_viewers": 11, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "English", "account_age": 3373920.0}

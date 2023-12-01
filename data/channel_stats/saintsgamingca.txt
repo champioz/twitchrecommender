@@ -1,0 +1,1 @@
+{"channel": "saintsgamingca", "avg_viewers": 10, "followers_gained": 9, "peak_viewers": 28, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "English", "account_age": 3450240.0}

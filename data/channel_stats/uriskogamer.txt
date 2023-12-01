@@ -1,0 +1,1 @@
+{"channel": "uriskogamer", "avg_viewers": 9, "followers_gained": 70, "peak_viewers": 21, "hours_streamed": 24, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 1630080.0}

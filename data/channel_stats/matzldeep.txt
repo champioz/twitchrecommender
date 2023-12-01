@@ -1,0 +1,1 @@
+{"channel": "matzldeep", "avg_viewers": 18, "followers_gained": 21, "peak_viewers": 40, "hours_streamed": 64, "streams": 13, "mature": 1, "language": "German", "account_age": 2397600.0}

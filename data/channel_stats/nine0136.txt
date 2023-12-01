@@ -1,0 +1,1 @@
+{"channel": "nine0136", "avg_viewers": 136, "followers_gained": 168, "peak_viewers": 405, "hours_streamed": 27, "streams": 11, "mature": 0, "language": "Chinese", "account_age": 3061440.0}

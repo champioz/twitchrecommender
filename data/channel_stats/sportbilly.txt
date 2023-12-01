@@ -1,0 +1,1 @@
+{"channel": "sportbilly", "avg_viewers": 24, "followers_gained": 0, "peak_viewers": 361, "hours_streamed": 52, "streams": 13, "mature": 1, "language": "English", "account_age": 1869120.0}

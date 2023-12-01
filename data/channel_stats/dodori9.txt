@@ -1,0 +1,1 @@
+{"channel": "dodori9", "avg_viewers": 9, "followers_gained": 33, "peak_viewers": 19, "hours_streamed": 157, "streams": 25, "mature": 0, "language": "Korean", "account_age": 360000.0}

@@ -1,0 +1,1 @@
+{"channel": "glandheadcity", "avg_viewers": 51, "followers_gained": 276, "peak_viewers": 251, "hours_streamed": 78, "streams": 11, "mature": 1, "language": "English", "account_age": 1902240.0}

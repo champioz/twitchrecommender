@@ -1,0 +1,1 @@
+{"channel": "mipo_mapo_meepo", "avg_viewers": 339, "followers_gained": 298, "peak_viewers": 544, "hours_streamed": 78, "streams": 16, "mature": 0, "language": "Russian", "account_age": 2357280.0}

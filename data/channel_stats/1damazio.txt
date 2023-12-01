@@ -1,0 +1,1 @@
+{"channel": "1damazio", "avg_viewers": 12, "followers_gained": 422, "peak_viewers": 130, "hours_streamed": 127, "streams": 37, "mature": 1, "language": "Portuguese", "account_age": 2489760.0}

@@ -1,0 +1,1 @@
+{"channel": "enhaii", "avg_viewers": 3, "followers_gained": 9, "peak_viewers": 7, "hours_streamed": 8, "streams": 6, "mature": 1, "language": "English", "account_age": 2626560.0}

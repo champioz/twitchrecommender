@@ -1,0 +1,1 @@
+{"channel": "epic_loot", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 7, "hours_streamed": 22, "streams": 10, "mature": 1, "language": "English", "account_age": 3322080.0}

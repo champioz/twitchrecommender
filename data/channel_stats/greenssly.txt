@@ -1,0 +1,1 @@
+{"channel": "greenssly", "avg_viewers": 3, "followers_gained": 122, "peak_viewers": 34, "hours_streamed": 85, "streams": 25, "mature": 0, "language": "Spanish", "account_age": 1360800.0}

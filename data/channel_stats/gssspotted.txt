@@ -1,0 +1,1 @@
+{"channel": "gssspotted", "avg_viewers": 1891, "followers_gained": 9742, "peak_viewers": 5975, "hours_streamed": 172, "streams": 23, "mature": 0, "language": "Thai", "account_age": 905760.0}

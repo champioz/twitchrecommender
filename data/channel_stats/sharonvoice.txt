@@ -1,0 +1,1 @@
+{"channel": "sharonvoice", "avg_viewers": 95, "followers_gained": 1240, "peak_viewers": 640, "hours_streamed": 50, "streams": 20, "mature": 0, "language": "Russian", "account_age": 2134080.0}

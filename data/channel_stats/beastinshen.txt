@@ -1,0 +1,1 @@
+{"channel": "beastinshen", "avg_viewers": 6, "followers_gained": 0, "peak_viewers": 64, "hours_streamed": 63, "streams": 26, "mature": 0, "language": "English", "account_age": 4703040.0}

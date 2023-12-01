@@ -1,0 +1,1 @@
+{"channel": "hutchephant", "avg_viewers": 48, "followers_gained": 215, "peak_viewers": 87, "hours_streamed": 73, "streams": 11, "mature": 1, "language": "English", "account_age": 240480.0}

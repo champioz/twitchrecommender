@@ -1,0 +1,1 @@
+{"channel": "annolyin", "avg_viewers": 6, "followers_gained": 0, "peak_viewers": 10, "hours_streamed": 4, "streams": 1, "mature": 1, "language": "English", "account_age": 969120.0}

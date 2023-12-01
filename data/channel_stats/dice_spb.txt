@@ -1,0 +1,1 @@
+{"channel": "dice_spb", "avg_viewers": 15, "followers_gained": 8, "peak_viewers": 52, "hours_streamed": 8, "streams": 6, "mature": 1, "language": "Russian", "account_age": 1591200.0}

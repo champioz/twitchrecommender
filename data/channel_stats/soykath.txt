@@ -1,0 +1,1 @@
+{"channel": "soykath", "avg_viewers": 13, "followers_gained": 119, "peak_viewers": 54, "hours_streamed": 45, "streams": 18, "mature": 1, "language": "Spanish", "account_age": 1255680.0}

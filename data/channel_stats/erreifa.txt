@@ -1,0 +1,1 @@
+{"channel": "erreifa", "avg_viewers": 25, "followers_gained": 984, "peak_viewers": 130, "hours_streamed": 182, "streams": 37, "mature": 1, "language": "French", "account_age": 1512000.0}

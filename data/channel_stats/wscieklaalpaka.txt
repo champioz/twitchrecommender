@@ -1,0 +1,1 @@
+{"channel": "wscieklaalpaka", "avg_viewers": 15, "followers_gained": 355, "peak_viewers": 32, "hours_streamed": 85, "streams": 20, "mature": 0, "language": "Polish", "account_age": 233280.0}

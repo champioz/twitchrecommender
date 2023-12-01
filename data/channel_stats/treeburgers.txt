@@ -1,0 +1,1 @@
+{"channel": "treeburgers", "avg_viewers": 18, "followers_gained": 56, "peak_viewers": 47, "hours_streamed": 31, "streams": 8, "mature": 0, "language": "English", "account_age": 1823040.0}

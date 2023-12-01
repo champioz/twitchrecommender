@@ -1,0 +1,1 @@
+{"channel": "hotfingers", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 8, "streams": 3, "mature": 1, "language": "English", "account_age": 4597920.0}

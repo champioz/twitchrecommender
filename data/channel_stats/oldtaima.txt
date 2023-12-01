@@ -1,0 +1,1 @@
+{"channel": "oldtaima", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 19, "streams": 11, "mature": 1, "language": "English", "account_age": 272160.0}

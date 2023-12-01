@@ -1,0 +1,1 @@
+{"channel": "natttsume", "avg_viewers": 18, "followers_gained": 154, "peak_viewers": 83, "hours_streamed": 95, "streams": 38, "mature": 1, "language": "English", "account_age": 1016640.0}

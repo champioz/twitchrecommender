@@ -1,0 +1,1 @@
+{"channel": "salsatheone", "avg_viewers": 40, "followers_gained": 150, "peak_viewers": 89, "hours_streamed": 103, "streams": 21, "mature": 0, "language": "Portuguese", "account_age": 4099680.0}

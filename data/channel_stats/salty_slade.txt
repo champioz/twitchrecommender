@@ -1,0 +1,1 @@
+{"channel": "salty_slade", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 11, "hours_streamed": 5, "streams": 4, "mature": 1, "language": "English", "account_age": 1918080.0}

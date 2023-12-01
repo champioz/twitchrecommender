@@ -1,0 +1,1 @@
+{"channel": "siki62", "avg_viewers": 97, "followers_gained": 98, "peak_viewers": 257, "hours_streamed": 156, "streams": 24, "mature": 1, "language": "Chinese", "account_age": 2121120.0}

@@ -1,0 +1,1 @@
+{"channel": "nasolin", "avg_viewers": 19, "followers_gained": 10, "peak_viewers": 36, "hours_streamed": 27, "streams": 8, "mature": 1, "language": "Finnish", "account_age": 3428640.0}

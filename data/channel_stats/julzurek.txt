@@ -1,0 +1,1 @@
+{"channel": "julzurek", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 2, "hours_streamed": 4, "streams": 3, "mature": 1, "language": "German", "account_age": 897120.0}

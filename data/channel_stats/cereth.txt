@@ -1,0 +1,1 @@
+{"channel": "cereth", "avg_viewers": 66, "followers_gained": 35, "peak_viewers": 90, "hours_streamed": 13, "streams": 3, "mature": 0, "language": "English", "account_age": 4397760.0}

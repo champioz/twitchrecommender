@@ -1,0 +1,1 @@
+{"channel": "general_pooooo", "avg_viewers": 8, "followers_gained": 64, "peak_viewers": 35, "hours_streamed": 208, "streams": 49, "mature": 1, "language": "English", "account_age": 576000.0}

@@ -1,0 +1,1 @@
+{"channel": "gapptv", "avg_viewers": 78, "followers_gained": 2390, "peak_viewers": 151, "hours_streamed": 61, "streams": 18, "mature": 1, "language": "English", "account_age": 1720800.0}

@@ -1,0 +1,1 @@
+{"channel": "pueppili454", "avg_viewers": 30, "followers_gained": 38, "peak_viewers": 101, "hours_streamed": 112, "streams": 22, "mature": 0, "language": "German", "account_age": 2233440.0}

@@ -1,0 +1,1 @@
+{"channel": "khaoz00", "avg_viewers": 32, "followers_gained": 235, "peak_viewers": 145, "hours_streamed": 54, "streams": 11, "mature": 0, "language": "Portuguese", "account_age": 1586880.0}

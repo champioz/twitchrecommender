@@ -1,0 +1,1 @@
+{"channel": "colelep", "avg_viewers": 18, "followers_gained": 45, "peak_viewers": 45, "hours_streamed": 61, "streams": 16, "mature": 1, "language": "English", "account_age": 3150720.0}

@@ -1,0 +1,1 @@
+{"channel": "kakeo", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 12, "hours_streamed": 39, "streams": 17, "mature": 1, "language": "English", "account_age": 3414240.0}

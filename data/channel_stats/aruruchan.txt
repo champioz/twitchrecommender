@@ -1,0 +1,1 @@
+{"channel": "aruruchan", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 6, "streams": 1, "mature": 0, "language": "Other", "account_age": 2401920.0}

@@ -1,0 +1,1 @@
+{"channel": "kuraryaba", "avg_viewers": 41, "followers_gained": 46, "peak_viewers": 114, "hours_streamed": 45, "streams": 14, "mature": 0, "language": "Russian", "account_age": 2014560.0}

@@ -1,0 +1,1 @@
+{"channel": "ngld_", "avg_viewers": 7, "followers_gained": 331, "peak_viewers": 240, "hours_streamed": 165, "streams": 36, "mature": 0, "language": "Arabic", "account_age": 724320.0}

@@ -1,0 +1,1 @@
+{"channel": "formjeds", "avg_viewers": 3, "followers_gained": 665, "peak_viewers": 33, "hours_streamed": 125, "streams": 50, "mature": 1, "language": "English", "account_age": 1792800.0}

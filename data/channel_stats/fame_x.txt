@@ -1,0 +1,1 @@
+{"channel": "fame_x", "avg_viewers": 6, "followers_gained": 73, "peak_viewers": 24, "hours_streamed": 136, "streams": 28, "mature": 0, "language": "Russian", "account_age": 1427040.0}

@@ -1,0 +1,1 @@
+{"channel": "marcovanwien", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 30, "streams": 21, "mature": 1, "language": "German", "account_age": 617760.0}

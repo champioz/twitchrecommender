@@ -1,0 +1,1 @@
+{"channel": "masleechko", "avg_viewers": 15, "followers_gained": 173, "peak_viewers": 871, "hours_streamed": 109, "streams": 22, "mature": 0, "language": "Russian", "account_age": 1879200.0}

@@ -1,0 +1,1 @@
+{"channel": "qttoo", "avg_viewers": 14, "followers_gained": 229, "peak_viewers": 35, "hours_streamed": 143, "streams": 27, "mature": 1, "language": "Russian", "account_age": 247680.0}

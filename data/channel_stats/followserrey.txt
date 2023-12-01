@@ -1,0 +1,1 @@
+{"channel": "followserrey", "avg_viewers": 6, "followers_gained": 17, "peak_viewers": 80, "hours_streamed": 36, "streams": 20, "mature": 0, "language": "English", "account_age": 1468800.0}

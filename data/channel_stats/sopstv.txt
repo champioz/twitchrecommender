@@ -1,0 +1,1 @@
+{"channel": "sopstv", "avg_viewers": 21, "followers_gained": 124, "peak_viewers": 229, "hours_streamed": 20, "streams": 8, "mature": 1, "language": "French", "account_age": 763200.0}

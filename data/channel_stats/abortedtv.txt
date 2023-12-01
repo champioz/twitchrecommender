@@ -1,0 +1,1 @@
+{"channel": "abortedtv", "avg_viewers": 3, "followers_gained": 12, "peak_viewers": 12, "hours_streamed": 114, "streams": 19, "mature": 0, "language": "German", "account_age": 1814400.0}

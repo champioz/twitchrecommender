@@ -1,0 +1,1 @@
+{"channel": "sanguatv", "avg_viewers": 18, "followers_gained": 38, "peak_viewers": 39, "hours_streamed": 30, "streams": 11, "mature": 1, "language": "French", "account_age": 2466720.0}

@@ -1,0 +1,1 @@
+{"channel": "senvale", "avg_viewers": 77, "followers_gained": 1817, "peak_viewers": 272, "hours_streamed": 182, "streams": 29, "mature": 0, "language": "English", "account_age": 1254240.0}

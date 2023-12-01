@@ -1,0 +1,1 @@
+{"channel": "rikfunk", "avg_viewers": 5, "followers_gained": 27, "peak_viewers": 19, "hours_streamed": 200, "streams": 41, "mature": 1, "language": "Spanish", "account_age": 1211040.0}

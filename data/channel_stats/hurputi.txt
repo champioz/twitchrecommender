@@ -1,0 +1,1 @@
+{"channel": "hurputi", "avg_viewers": 7, "followers_gained": 14, "peak_viewers": 24, "hours_streamed": 67, "streams": 12, "mature": 0, "language": "Finnish", "account_age": 2639520.0}

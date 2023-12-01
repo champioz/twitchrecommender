@@ -1,0 +1,1 @@
+{"channel": "gn_rak", "avg_viewers": 72, "followers_gained": 30, "peak_viewers": 169, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "Bulgarian", "account_age": 1330560.0}

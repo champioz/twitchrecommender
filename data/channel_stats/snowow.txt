@@ -1,0 +1,1 @@
+{"channel": "snowow", "avg_viewers": 7, "followers_gained": 15, "peak_viewers": 15, "hours_streamed": 24, "streams": 8, "mature": 0, "language": "English", "account_age": 1667520.0}

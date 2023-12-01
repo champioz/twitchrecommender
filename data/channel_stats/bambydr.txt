@@ -1,0 +1,1 @@
+{"channel": "bambydr", "avg_viewers": 21, "followers_gained": 125, "peak_viewers": 68, "hours_streamed": 25, "streams": 11, "mature": 0, "language": "Thai", "account_age": 1082880.0}

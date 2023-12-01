@@ -1,0 +1,1 @@
+{"channel": "kappnkyro", "avg_viewers": 4, "followers_gained": 13, "peak_viewers": 16, "hours_streamed": 20, "streams": 9, "mature": 0, "language": "English", "account_age": 2941920.0}

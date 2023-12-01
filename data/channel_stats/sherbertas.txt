@@ -1,0 +1,1 @@
+{"channel": "sherbertas", "avg_viewers": 4, "followers_gained": 10, "peak_viewers": 12, "hours_streamed": 62, "streams": 16, "mature": 1, "language": "German", "account_age": 1388160.0}

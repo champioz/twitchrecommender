@@ -1,0 +1,1 @@
+{"channel": "aeolux", "avg_viewers": 8, "followers_gained": 37, "peak_viewers": 53, "hours_streamed": 130, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 2802240.0}

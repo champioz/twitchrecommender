@@ -1,0 +1,1 @@
+{"channel": "poolko_tv", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 14, "hours_streamed": 313, "streams": 38, "mature": 1, "language": "French", "account_age": 2360160.0}

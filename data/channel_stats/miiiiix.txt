@@ -1,0 +1,1 @@
+{"channel": "miiiiix", "avg_viewers": 26, "followers_gained": 388, "peak_viewers": 91, "hours_streamed": 89, "streams": 19, "mature": 1, "language": "Portuguese", "account_age": 1077120.0}

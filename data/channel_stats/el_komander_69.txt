@@ -1,0 +1,1 @@
+{"channel": "el_komander_69", "avg_viewers": 5, "followers_gained": 63, "peak_viewers": 70, "hours_streamed": 168, "streams": 38, "mature": 1, "language": "Spanish", "account_age": 1990080.0}

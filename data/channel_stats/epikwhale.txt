@@ -1,0 +1,1 @@
+{"channel": "epikwhale", "avg_viewers": 151, "followers_gained": 1272, "peak_viewers": 286, "hours_streamed": 24, "streams": 8, "mature": 0, "language": "English", "account_age": 1324800.0}

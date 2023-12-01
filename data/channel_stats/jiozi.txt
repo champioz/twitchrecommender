@@ -1,0 +1,1 @@
+{"channel": "jiozi", "avg_viewers": 167, "followers_gained": 1018, "peak_viewers": 282, "hours_streamed": 120, "streams": 35, "mature": 0, "language": "Italian", "account_age": 1131840.0}

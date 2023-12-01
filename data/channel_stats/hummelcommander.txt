@@ -1,0 +1,1 @@
+{"channel": "hummelcommander", "avg_viewers": 52, "followers_gained": 24, "peak_viewers": 247, "hours_streamed": 40, "streams": 11, "mature": 1, "language": "German", "account_age": 2377440.0}

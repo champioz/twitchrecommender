@@ -1,0 +1,1 @@
+{"channel": "battlefield", "avg_viewers": 45, "followers_gained": 221, "peak_viewers": 96, "hours_streamed": 6, "streams": 5, "mature": 1, "language": "English", "account_age": 5591520.0}

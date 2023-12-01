@@ -1,0 +1,1 @@
+{"channel": "kestnuts", "avg_viewers": 6, "followers_gained": 0, "peak_viewers": 46, "hours_streamed": 64, "streams": 14, "mature": 1, "language": "English", "account_age": 4183200.0}

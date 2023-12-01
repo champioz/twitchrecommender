@@ -1,0 +1,1 @@
+{"channel": "loka19966", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 14, "hours_streamed": 17, "streams": 12, "mature": 0, "language": "English", "account_age": 1630080.0}

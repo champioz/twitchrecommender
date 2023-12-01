@@ -1,0 +1,1 @@
+{"channel": "sparktv_mtg", "avg_viewers": 169, "followers_gained": 593, "peak_viewers": 661, "hours_streamed": 337, "streams": 46, "mature": 0, "language": "French", "account_age": 165600.0}

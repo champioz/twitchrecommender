@@ -1,0 +1,1 @@
+{"channel": "tristnal", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 6, "hours_streamed": 6, "streams": 4, "mature": 1, "language": "English", "account_age": 3634560.0}

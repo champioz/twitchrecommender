@@ -1,0 +1,1 @@
+{"channel": "x2twins", "avg_viewers": 1084, "followers_gained": 9105, "peak_viewers": 3251, "hours_streamed": 71, "streams": 14, "mature": 0, "language": "English", "account_age": 823680.0}

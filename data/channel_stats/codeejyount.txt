@@ -1,0 +1,1 @@
+{"channel": "codeejyount", "avg_viewers": 107, "followers_gained": 870, "peak_viewers": 268, "hours_streamed": 41, "streams": 13, "mature": 0, "language": "English", "account_age": 1229760.0}

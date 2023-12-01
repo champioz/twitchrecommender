@@ -1,0 +1,1 @@
+{"channel": "ncbzesport", "avg_viewers": 4, "followers_gained": 115, "peak_viewers": 81, "hours_streamed": 93, "streams": 40, "mature": 0, "language": "French", "account_age": 708480.0}

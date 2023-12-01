@@ -1,0 +1,1 @@
+{"channel": "melock", "avg_viewers": 8, "followers_gained": 127, "peak_viewers": 28, "hours_streamed": 122, "streams": 29, "mature": 1, "language": "German", "account_age": 738720.0}

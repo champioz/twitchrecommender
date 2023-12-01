@@ -1,0 +1,1 @@
+{"channel": "cadu_romao", "avg_viewers": 24, "followers_gained": 71, "peak_viewers": 74, "hours_streamed": 33, "streams": 11, "mature": 0, "language": "Portuguese", "account_age": 1182240.0}

@@ -1,0 +1,1 @@
+{"channel": "3vangelion", "avg_viewers": 30, "followers_gained": 241, "peak_viewers": 71, "hours_streamed": 99, "streams": 22, "mature": 1, "language": "Russian", "account_age": 721440.0}

@@ -1,0 +1,1 @@
+{"channel": "i_breadstick", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 12, "hours_streamed": 209, "streams": 63, "mature": 1, "language": "English", "account_age": 2070720.0}

@@ -1,0 +1,1 @@
+{"channel": "lordblight", "avg_viewers": 7, "followers_gained": 33, "peak_viewers": 34, "hours_streamed": 41, "streams": 13, "mature": 0, "language": "English", "account_age": 1535040.0}

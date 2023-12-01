@@ -1,0 +1,1 @@
+{"channel": "elvallowon", "avg_viewers": 60, "followers_gained": 496, "peak_viewers": 118, "hours_streamed": 22, "streams": 7, "mature": 0, "language": "Spanish", "account_age": 3402720.0}

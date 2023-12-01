@@ -1,0 +1,1 @@
+{"channel": "cooliebk18", "avg_viewers": 29, "followers_gained": 41, "peak_viewers": 344, "hours_streamed": 55, "streams": 14, "mature": 1, "language": "English", "account_age": 2412000.0}

@@ -1,0 +1,1 @@
+{"channel": "topgamingeu", "avg_viewers": 81, "followers_gained": 102, "peak_viewers": 146, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Czech", "account_age": 2724480.0}

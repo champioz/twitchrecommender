@@ -1,0 +1,1 @@
+{"channel": "goldenlumia", "avg_viewers": 9, "followers_gained": 4, "peak_viewers": 54, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "English", "account_age": 2017440.0}

@@ -1,0 +1,1 @@
+{"channel": "munibug", "avg_viewers": 61, "followers_gained": 596, "peak_viewers": 140, "hours_streamed": 97, "streams": 25, "mature": 0, "language": "English", "account_age": 895680.0}

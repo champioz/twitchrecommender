@@ -1,0 +1,1 @@
+{"channel": "minniecsgo", "avg_viewers": 15, "followers_gained": 10, "peak_viewers": 42, "hours_streamed": 13, "streams": 6, "mature": 1, "language": "Norwegian", "account_age": 2960640.0}

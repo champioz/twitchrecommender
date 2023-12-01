@@ -1,0 +1,1 @@
+{"channel": "xerrass", "avg_viewers": 62, "followers_gained": 76, "peak_viewers": 195, "hours_streamed": 13, "streams": 7, "mature": 1, "language": "German", "account_age": 4465440.0}

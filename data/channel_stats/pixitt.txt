@@ -1,0 +1,1 @@
+{"channel": "pixitt", "avg_viewers": 0, "followers_gained": 43, "peak_viewers": 27, "hours_streamed": 226, "streams": 93, "mature": 0, "language": "French", "account_age": 1735200.0}

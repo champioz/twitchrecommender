@@ -1,0 +1,1 @@
+{"channel": "kolu_pen", "avg_viewers": 19, "followers_gained": 172, "peak_viewers": 45, "hours_streamed": 14, "streams": 11, "mature": 0, "language": "Japanese", "account_age": 974880.0}

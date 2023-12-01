@@ -1,0 +1,1 @@
+{"channel": "projectconquerorstv1", "avg_viewers": 18, "followers_gained": 4, "peak_viewers": 43, "hours_streamed": 17, "streams": 5, "mature": 1, "language": "French", "account_age": 3016800.0}

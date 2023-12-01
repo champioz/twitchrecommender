@@ -1,0 +1,1 @@
+{"channel": "asmr_ear_eating", "avg_viewers": 97, "followers_gained": 945, "peak_viewers": 259, "hours_streamed": 176, "streams": 2, "mature": 0, "language": "English", "account_age": 86400.0}

@@ -1,0 +1,1 @@
+{"channel": "vgotayy", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 22, "streams": 21, "mature": 1, "language": "Spanish", "account_age": 768960.0}

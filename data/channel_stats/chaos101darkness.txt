@@ -1,0 +1,1 @@
+{"channel": "chaos101darkness", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 19, "hours_streamed": 61, "streams": 27, "mature": 0, "language": "English", "account_age": 1781280.0}

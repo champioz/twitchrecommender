@@ -1,0 +1,1 @@
+{"channel": "farodgames", "avg_viewers": 418, "followers_gained": 3991, "peak_viewers": 942, "hours_streamed": 38, "streams": 9, "mature": 0, "language": "French", "account_age": 2960640.0}

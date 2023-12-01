@@ -1,0 +1,1 @@
+{"channel": "firemanruby2", "avg_viewers": 912, "followers_gained": 196, "peak_viewers": 3163, "hours_streamed": 77, "streams": 19, "mature": 0, "language": "Chinese", "account_age": 3676320.0}

@@ -1,0 +1,1 @@
+{"channel": "n0xsen", "avg_viewers": 6, "followers_gained": 55, "peak_viewers": 22, "hours_streamed": 27, "streams": 12, "mature": 0, "language": "Swedish", "account_age": 724320.0}

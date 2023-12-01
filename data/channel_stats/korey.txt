@@ -1,0 +1,1 @@
+{"channel": "korey", "avg_viewers": 90, "followers_gained": 553, "peak_viewers": 158, "hours_streamed": 27, "streams": 19, "mature": 1, "language": "German", "account_age": 2027520.0}

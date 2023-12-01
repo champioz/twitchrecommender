@@ -1,0 +1,1 @@
+{"channel": "kayjii", "avg_viewers": 110, "followers_gained": 921, "peak_viewers": 1022, "hours_streamed": 131, "streams": 35, "mature": 0, "language": "English", "account_age": 1396800.0}

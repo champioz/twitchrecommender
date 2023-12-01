@@ -1,0 +1,1 @@
+{"channel": "hotdamn", "avg_viewers": 13, "followers_gained": 21, "peak_viewers": 46, "hours_streamed": 100, "streams": 19, "mature": 1, "language": "English", "account_age": 2442240.0}

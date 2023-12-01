@@ -1,0 +1,1 @@
+{"channel": "blade7012", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 96, "streams": 35, "mature": 0, "language": "Chinese", "account_age": 2959200.0}

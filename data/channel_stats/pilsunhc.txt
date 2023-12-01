@@ -1,0 +1,1 @@
+{"channel": "pilsunhc", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 16, "hours_streamed": 260, "streams": 25, "mature": 1, "language": "English", "account_age": 1923840.0}

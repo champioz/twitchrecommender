@@ -1,0 +1,1 @@
+{"channel": "salcompeixe", "avg_viewers": 18, "followers_gained": 64, "peak_viewers": 43, "hours_streamed": 15, "streams": 5, "mature": 1, "language": "Portuguese", "account_age": 3101760.0}

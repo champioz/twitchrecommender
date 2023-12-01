@@ -1,0 +1,1 @@
+{"channel": "pokeracademie", "avg_viewers": 29, "followers_gained": 43, "peak_viewers": 75, "hours_streamed": 24, "streams": 10, "mature": 0, "language": "French", "account_age": 3852000.0}

@@ -1,0 +1,1 @@
+{"channel": "krederlol", "avg_viewers": 3, "followers_gained": 74, "peak_viewers": 47, "hours_streamed": 83, "streams": 40, "mature": 0, "language": "Spanish", "account_age": 3062880.0}

@@ -1,0 +1,1 @@
+{"channel": "06wallst", "avg_viewers": 77, "followers_gained": 17, "peak_viewers": 130, "hours_streamed": 25, "streams": 7, "mature": 1, "language": "English", "account_age": 2851200.0}

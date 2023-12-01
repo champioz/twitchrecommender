@@ -1,0 +1,1 @@
+{"channel": "qiwi_russia", "avg_viewers": 256, "followers_gained": 114, "peak_viewers": 1160, "hours_streamed": 36, "streams": 9, "mature": 0, "language": "Russian", "account_age": 957600.0}

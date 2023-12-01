@@ -1,0 +1,1 @@
+{"channel": "roosesr", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 16, "hours_streamed": 15, "streams": 6, "mature": 1, "language": "English", "account_age": 2275200.0}

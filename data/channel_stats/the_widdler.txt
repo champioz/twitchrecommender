@@ -1,0 +1,1 @@
+{"channel": "the_widdler", "avg_viewers": 68, "followers_gained": 139, "peak_viewers": 131, "hours_streamed": 34, "streams": 8, "mature": 1, "language": "English", "account_age": 3323520.0}

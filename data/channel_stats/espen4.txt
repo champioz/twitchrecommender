@@ -1,0 +1,1 @@
+{"channel": "espen4", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 21, "streams": 4, "mature": 0, "language": "Norwegian", "account_age": 2204640.0}

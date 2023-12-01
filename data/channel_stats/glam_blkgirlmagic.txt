@@ -1,0 +1,1 @@
+{"channel": "glam_blkgirlmagic", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 13, "hours_streamed": 14, "streams": 4, "mature": 1, "language": "English", "account_age": 853920.0}

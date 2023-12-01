@@ -1,0 +1,1 @@
+{"channel": "xbritzg", "avg_viewers": 35, "followers_gained": 702, "peak_viewers": 141, "hours_streamed": 126, "streams": 26, "mature": 1, "language": "Spanish", "account_age": 694080.0}

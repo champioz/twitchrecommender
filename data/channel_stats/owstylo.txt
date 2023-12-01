@@ -1,0 +1,1 @@
+{"channel": "owstylo", "avg_viewers": 34, "followers_gained": 51, "peak_viewers": 130, "hours_streamed": 20, "streams": 8, "mature": 0, "language": "Portuguese", "account_age": 1520640.0}

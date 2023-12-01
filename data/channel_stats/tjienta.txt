@@ -1,0 +1,1 @@
+{"channel": "tjienta", "avg_viewers": 3, "followers_gained": 14, "peak_viewers": 33, "hours_streamed": 113, "streams": 19, "mature": 0, "language": "English", "account_age": 3283200.0}

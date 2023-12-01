@@ -1,0 +1,1 @@
+{"channel": "opa_ludel", "avg_viewers": 23, "followers_gained": 61, "peak_viewers": 75, "hours_streamed": 38, "streams": 21, "mature": 0, "language": "German", "account_age": 426240.0}

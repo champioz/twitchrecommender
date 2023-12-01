@@ -1,0 +1,1 @@
+{"channel": "hicks_hun", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 12, "streams": 7, "mature": 1, "language": "Hungarian", "account_age": 2154240.0}

@@ -1,0 +1,1 @@
+{"channel": "polk122", "avg_viewers": 9, "followers_gained": 24, "peak_viewers": 22, "hours_streamed": 19, "streams": 9, "mature": 0, "language": "Polish", "account_age": 2892960.0}

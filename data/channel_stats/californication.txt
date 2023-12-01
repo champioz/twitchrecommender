@@ -1,0 +1,1 @@
+{"channel": "californication", "avg_viewers": 38, "followers_gained": 126, "peak_viewers": 150, "hours_streamed": 261, "streams": 40, "mature": 0, "language": "Russian", "account_age": 3581280.0}

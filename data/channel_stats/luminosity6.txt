@@ -1,0 +1,1 @@
+{"channel": "luminosity6", "avg_viewers": 29, "followers_gained": 64, "peak_viewers": 75, "hours_streamed": 75, "streams": 20, "mature": 1, "language": "English", "account_age": 3994560.0}

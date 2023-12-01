@@ -1,0 +1,1 @@
+{"channel": "vendetta66", "avg_viewers": 8, "followers_gained": 10, "peak_viewers": 17, "hours_streamed": 16, "streams": 6, "mature": 1, "language": "German", "account_age": 835200.0}

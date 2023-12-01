@@ -1,0 +1,1 @@
+{"channel": "teraloveless", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 2, "hours_streamed": 6, "streams": 10, "mature": 0, "language": "English", "account_age": 145440.0}

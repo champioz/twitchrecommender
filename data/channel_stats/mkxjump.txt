@@ -1,0 +1,1 @@
+{"channel": "mkxjump", "avg_viewers": 40, "followers_gained": 96, "peak_viewers": 179, "hours_streamed": 23, "streams": 9, "mature": 0, "language": "English", "account_age": 882720.0}

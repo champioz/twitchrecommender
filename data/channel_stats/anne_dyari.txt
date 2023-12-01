@@ -1,0 +1,1 @@
+{"channel": "anne_dyari", "avg_viewers": 11, "followers_gained": 38, "peak_viewers": 68, "hours_streamed": 49, "streams": 12, "mature": 0, "language": "English", "account_age": 2515680.0}

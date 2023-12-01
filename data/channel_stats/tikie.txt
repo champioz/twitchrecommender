@@ -1,0 +1,1 @@
+{"channel": "tikie", "avg_viewers": 10, "followers_gained": 12, "peak_viewers": 22, "hours_streamed": 17, "streams": 7, "mature": 1, "language": "French", "account_age": 2452320.0}

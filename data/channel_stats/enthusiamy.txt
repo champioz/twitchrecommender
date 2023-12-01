@@ -1,0 +1,1 @@
+{"channel": "enthusiamy", "avg_viewers": 124, "followers_gained": 1, "peak_viewers": 164, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "English", "account_age": 2731680.0}

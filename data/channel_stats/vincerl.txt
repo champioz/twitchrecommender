@@ -1,0 +1,1 @@
+{"channel": "vincerl", "avg_viewers": 45, "followers_gained": 135, "peak_viewers": 280, "hours_streamed": 65, "streams": 28, "mature": 1, "language": "English", "account_age": 1658880.0}

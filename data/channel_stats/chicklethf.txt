@@ -1,0 +1,1 @@
+{"channel": "chicklethf", "avg_viewers": 103, "followers_gained": 3672, "peak_viewers": 1539, "hours_streamed": 66, "streams": 20, "mature": 0, "language": "English", "account_age": 900000.0}

@@ -1,0 +1,1 @@
+{"channel": "silvertreeconsortium", "avg_viewers": 30, "followers_gained": 34, "peak_viewers": 80, "hours_streamed": 71, "streams": 17, "mature": 1, "language": "English", "account_age": 1260000.0}

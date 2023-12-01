@@ -1,0 +1,1 @@
+{"channel": "cheed", "avg_viewers": 310, "followers_gained": 1914, "peak_viewers": 3703, "hours_streamed": 146, "streams": 26, "mature": 1, "language": "Portuguese", "account_age": 3327840.0}

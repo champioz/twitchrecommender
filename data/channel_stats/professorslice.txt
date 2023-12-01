@@ -1,0 +1,1 @@
+{"channel": "professorslice", "avg_viewers": 5, "followers_gained": 41, "peak_viewers": 16, "hours_streamed": 96, "streams": 21, "mature": 0, "language": "English", "account_age": 610560.0}

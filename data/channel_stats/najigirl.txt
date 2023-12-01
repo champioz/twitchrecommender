@@ -1,0 +1,1 @@
+{"channel": "najigirl", "avg_viewers": 28, "followers_gained": 66, "peak_viewers": 73, "hours_streamed": 24, "streams": 9, "mature": 0, "language": "English", "account_age": 1523520.0}

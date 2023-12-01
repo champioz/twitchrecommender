@@ -1,0 +1,1 @@
+{"channel": "barish92", "avg_viewers": 2, "followers_gained": 18, "peak_viewers": 11, "hours_streamed": 109, "streams": 35, "mature": 0, "language": "German", "account_age": 2446560.0}

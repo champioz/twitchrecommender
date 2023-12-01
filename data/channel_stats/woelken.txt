@@ -1,0 +1,1 @@
+{"channel": "woelken", "avg_viewers": 286, "followers_gained": 24, "peak_viewers": 323, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "German", "account_age": 228960.0}

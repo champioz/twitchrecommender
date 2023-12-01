@@ -1,0 +1,1 @@
+{"channel": "thomason366", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 23, "hours_streamed": 79, "streams": 32, "mature": 0, "language": "Japanese", "account_age": 2963520.0}

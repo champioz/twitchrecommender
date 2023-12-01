@@ -1,0 +1,1 @@
+{"channel": "lepijopi", "avg_viewers": 28, "followers_gained": 15, "peak_viewers": 91, "hours_streamed": 31, "streams": 8, "mature": 1, "language": "Finnish", "account_age": 3039840.0}

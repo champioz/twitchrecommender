@@ -1,0 +1,1 @@
+{"channel": "hellspatrol", "avg_viewers": 12, "followers_gained": 30, "peak_viewers": 67, "hours_streamed": 155, "streams": 22, "mature": 1, "language": "French", "account_age": 2609280.0}

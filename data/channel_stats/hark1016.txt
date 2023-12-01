@@ -1,0 +1,1 @@
+{"channel": "hark1016", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 4, "streams": 4, "mature": 0, "language": "Japanese", "account_age": 904320.0}

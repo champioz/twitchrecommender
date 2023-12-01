@@ -1,0 +1,1 @@
+{"channel": "domenicgt", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 3, "hours_streamed": 16, "streams": 6, "mature": 1, "language": "Italian", "account_age": 1850400.0}

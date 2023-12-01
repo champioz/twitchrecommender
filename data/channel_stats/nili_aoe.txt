@@ -1,0 +1,1 @@
+{"channel": "nili_aoe", "avg_viewers": 197, "followers_gained": 182, "peak_viewers": 672, "hours_streamed": 85, "streams": 17, "mature": 0, "language": "German", "account_age": 4037760.0}

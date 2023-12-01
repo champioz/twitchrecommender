@@ -1,0 +1,1 @@
+{"channel": "gartasstwitch", "avg_viewers": 11, "followers_gained": 228, "peak_viewers": 30, "hours_streamed": 117, "streams": 25, "mature": 0, "language": "English", "account_age": 1028160.0}

@@ -1,0 +1,1 @@
+{"channel": "chickenface_02", "avg_viewers": 13, "followers_gained": 81, "peak_viewers": 40, "hours_streamed": 142, "streams": 26, "mature": 1, "language": "Hungarian", "account_age": 2880000.0}

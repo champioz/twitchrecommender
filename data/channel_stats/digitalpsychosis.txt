@@ -1,0 +1,1 @@
+{"channel": "digitalpsychosis", "avg_viewers": 41, "followers_gained": 63, "peak_viewers": 151, "hours_streamed": 54, "streams": 11, "mature": 1, "language": "English", "account_age": 4419360.0}

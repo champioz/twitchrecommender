@@ -1,0 +1,1 @@
+{"channel": "batulins", "avg_viewers": 225, "followers_gained": 1622, "peak_viewers": 913, "hours_streamed": 127, "streams": 38, "mature": 0, "language": "Russian", "account_age": 2489760.0}

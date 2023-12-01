@@ -1,0 +1,1 @@
+{"channel": "tomcat2048", "avg_viewers": 13, "followers_gained": 66, "peak_viewers": 30, "hours_streamed": 13, "streams": 6, "mature": 0, "language": "English", "account_age": 2432160.0}

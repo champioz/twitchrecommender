@@ -1,0 +1,1 @@
+{"channel": "paradizza", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 10, "hours_streamed": 41, "streams": 17, "mature": 1, "language": "Russian", "account_age": 1352160.0}

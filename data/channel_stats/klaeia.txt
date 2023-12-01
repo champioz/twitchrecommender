@@ -1,0 +1,1 @@
+{"channel": "klaeia", "avg_viewers": 30, "followers_gained": 79, "peak_viewers": 63, "hours_streamed": 29, "streams": 8, "mature": 0, "language": "English", "account_age": 3129120.0}

@@ -1,0 +1,1 @@
+{"channel": "celticraven", "avg_viewers": 3, "followers_gained": 11, "peak_viewers": 10, "hours_streamed": 65, "streams": 18, "mature": 1, "language": "English", "account_age": 1964160.0}

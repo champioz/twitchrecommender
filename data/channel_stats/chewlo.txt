@@ -1,0 +1,1 @@
+{"channel": "chewlo", "avg_viewers": 10, "followers_gained": 11, "peak_viewers": 52, "hours_streamed": 53, "streams": 20, "mature": 1, "language": "English", "account_age": 1098720.0}

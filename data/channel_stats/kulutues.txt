@@ -1,0 +1,1 @@
+{"channel": "kulutues", "avg_viewers": 14, "followers_gained": 38, "peak_viewers": 40, "hours_streamed": 73, "streams": 19, "mature": 1, "language": "English", "account_age": 2178720.0}

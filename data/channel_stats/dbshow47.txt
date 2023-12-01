@@ -1,0 +1,1 @@
+{"channel": "dbshow47", "avg_viewers": 6, "followers_gained": 94, "peak_viewers": 39, "hours_streamed": 117, "streams": 26, "mature": 1, "language": "English", "account_age": 1033920.0}

@@ -1,0 +1,1 @@
+{"channel": "jipperymccloud", "avg_viewers": 2, "followers_gained": 15, "peak_viewers": 16, "hours_streamed": 100, "streams": 35, "mature": 1, "language": "English", "account_age": 3306240.0}

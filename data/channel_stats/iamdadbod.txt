@@ -1,0 +1,1 @@
+{"channel": "iamdadbod", "avg_viewers": 7, "followers_gained": 20, "peak_viewers": 17, "hours_streamed": 16, "streams": 7, "mature": 1, "language": "English", "account_age": 357120.0}

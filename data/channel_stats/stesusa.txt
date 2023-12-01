@@ -1,0 +1,1 @@
+{"channel": "stesusa", "avg_viewers": 27, "followers_gained": 85, "peak_viewers": 114, "hours_streamed": 185, "streams": 44, "mature": 1, "language": "German", "account_age": 2590560.0}

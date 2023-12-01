@@ -1,0 +1,1 @@
+{"channel": "walnuttyreview", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 0, "hours_streamed": 0, "streams": 0, "mature": 0, "language": "Thai", "account_age": 879840.0}

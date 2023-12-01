@@ -1,0 +1,1 @@
+{"channel": "super_boy1021", "avg_viewers": 98, "followers_gained": 36, "peak_viewers": 235, "hours_streamed": 36, "streams": 11, "mature": 0, "language": "Japanese", "account_age": 1464480.0}

@@ -1,0 +1,1 @@
+{"channel": "maximilian_dood", "avg_viewers": 7568, "followers_gained": 14052, "peak_viewers": 16051, "hours_streamed": 159, "streams": 25, "mature": 0, "language": "English", "account_age": 3818880.0}

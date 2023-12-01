@@ -1,0 +1,1 @@
+{"channel": "buli", "avg_viewers": 106, "followers_gained": 84, "peak_viewers": 204, "hours_streamed": 9, "streams": 9, "mature": 1, "language": "Polish", "account_age": 2420640.0}

@@ -1,0 +1,1 @@
+{"channel": "justalazygamer", "avg_viewers": 102, "followers_gained": 76, "peak_viewers": 411, "hours_streamed": 99, "streams": 25, "mature": 0, "language": "English", "account_age": 1922400.0}

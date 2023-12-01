@@ -1,0 +1,1 @@
+{"channel": "antisolarflare", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 14, "hours_streamed": 181, "streams": 27, "mature": 1, "language": "English", "account_age": 3728160.0}

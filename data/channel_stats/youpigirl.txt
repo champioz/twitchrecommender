@@ -1,0 +1,1 @@
+{"channel": "youpigirl", "avg_viewers": 4, "followers_gained": 73, "peak_viewers": 12, "hours_streamed": 88, "streams": 43, "mature": 0, "language": "French", "account_age": 1347840.0}

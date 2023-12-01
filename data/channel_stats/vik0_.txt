@@ -1,0 +1,1 @@
+{"channel": "vik0_", "avg_viewers": 5, "followers_gained": 50, "peak_viewers": 65, "hours_streamed": 45, "streams": 9, "mature": 1, "language": "German", "account_age": 967680.0}

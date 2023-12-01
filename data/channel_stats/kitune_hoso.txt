@@ -1,0 +1,1 @@
+{"channel": "kitune_hoso", "avg_viewers": 23, "followers_gained": 64, "peak_viewers": 56, "hours_streamed": 138, "streams": 36, "mature": 0, "language": "Japanese", "account_age": 1814400.0}

@@ -1,0 +1,1 @@
+{"channel": "plunderthabooty", "avg_viewers": 27, "followers_gained": 285, "peak_viewers": 62, "hours_streamed": 80, "streams": 16, "mature": 0, "language": "English", "account_age": 192960.0}

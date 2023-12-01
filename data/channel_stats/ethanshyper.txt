@@ -1,0 +1,1 @@
+{"channel": "ethanshyper", "avg_viewers": 11, "followers_gained": 49, "peak_viewers": 53, "hours_streamed": 56, "streams": 27, "mature": 0, "language": "English", "account_age": 2417760.0}

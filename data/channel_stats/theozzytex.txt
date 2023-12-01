@@ -1,0 +1,1 @@
+{"channel": "theozzytex", "avg_viewers": 8, "followers_gained": 92, "peak_viewers": 54, "hours_streamed": 116, "streams": 20, "mature": 1, "language": "English", "account_age": 1651680.0}

@@ -1,0 +1,1 @@
+{"channel": "vesmicgaming", "avg_viewers": 10, "followers_gained": 41, "peak_viewers": 43, "hours_streamed": 252, "streams": 28, "mature": 1, "language": "English", "account_age": 1272960.0}

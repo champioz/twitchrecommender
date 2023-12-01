@@ -1,0 +1,1 @@
+{"channel": "zehrof", "avg_viewers": 14, "followers_gained": 855, "peak_viewers": 104, "hours_streamed": 87, "streams": 38, "mature": 1, "language": "Turkish", "account_age": 1676160.0}

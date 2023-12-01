@@ -1,0 +1,1 @@
+{"channel": "firebaguette", "avg_viewers": 18, "followers_gained": 2, "peak_viewers": 30, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "French", "account_age": 1452960.0}

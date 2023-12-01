@@ -1,0 +1,1 @@
+{"channel": "kz0t", "avg_viewers": 60, "followers_gained": 1149, "peak_viewers": 347, "hours_streamed": 158, "streams": 27, "mature": 0, "language": "Russian", "account_age": 1830240.0}

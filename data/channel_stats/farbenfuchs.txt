@@ -1,0 +1,1 @@
+{"channel": "farbenfuchs", "avg_viewers": 282, "followers_gained": 267, "peak_viewers": 467, "hours_streamed": 53, "streams": 13, "mature": 0, "language": "German", "account_age": 2079360.0}

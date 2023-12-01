@@ -1,0 +1,1 @@
+{"channel": "speedgaming", "avg_viewers": 337, "followers_gained": 1482, "peak_viewers": 3983, "hours_streamed": 381, "streams": 98, "mature": 0, "language": "English", "account_age": 2386080.0}

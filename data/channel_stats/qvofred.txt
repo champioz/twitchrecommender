@@ -1,0 +1,1 @@
+{"channel": "qvofred", "avg_viewers": 152, "followers_gained": 1195, "peak_viewers": 714, "hours_streamed": 144, "streams": 40, "mature": 0, "language": "English", "account_age": 3337920.0}

@@ -1,0 +1,1 @@
+{"channel": "war_savage85", "avg_viewers": 10, "followers_gained": 524, "peak_viewers": 222, "hours_streamed": 175, "streams": 47, "mature": 1, "language": "English", "account_age": 129600.0}

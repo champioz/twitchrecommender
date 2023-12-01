@@ -1,0 +1,1 @@
+{"channel": "bayleejae", "avg_viewers": 130, "followers_gained": 230, "peak_viewers": 269, "hours_streamed": 28, "streams": 6, "mature": 1, "language": "English", "account_age": 2455200.0}

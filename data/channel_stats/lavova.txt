@@ -1,0 +1,1 @@
+{"channel": "lavova", "avg_viewers": 16, "followers_gained": 43, "peak_viewers": 46, "hours_streamed": 60, "streams": 23, "mature": 1, "language": "German", "account_age": 4029120.0}

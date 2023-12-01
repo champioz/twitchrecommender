@@ -1,0 +1,1 @@
+{"channel": "mitsuki_han", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "English", "account_age": 2033280.0}

@@ -1,0 +1,1 @@
+{"channel": "yunphx15", "avg_viewers": 2, "followers_gained": 44, "peak_viewers": 105, "hours_streamed": 113, "streams": 36, "mature": 0, "language": "English", "account_age": 2413440.0}

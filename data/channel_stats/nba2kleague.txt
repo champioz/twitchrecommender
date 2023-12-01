@@ -1,0 +1,1 @@
+{"channel": "nba2kleague", "avg_viewers": 8075, "followers_gained": 4296, "peak_viewers": 17508, "hours_streamed": 50, "streams": 18, "mature": 0, "language": "English", "account_age": 707040.0}

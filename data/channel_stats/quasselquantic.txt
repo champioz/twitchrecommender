@@ -1,0 +1,1 @@
+{"channel": "quasselquantic", "avg_viewers": 41, "followers_gained": 39, "peak_viewers": 100, "hours_streamed": 79, "streams": 13, "mature": 1, "language": "German", "account_age": 2054880.0}

@@ -1,0 +1,1 @@
+{"channel": "thedrogbazooka", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 4, "hours_streamed": 32, "streams": 24, "mature": 0, "language": "French", "account_age": 3978720.0}

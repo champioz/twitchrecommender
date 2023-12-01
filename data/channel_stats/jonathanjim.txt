@@ -1,0 +1,1 @@
+{"channel": "jonathanjim", "avg_viewers": 20, "followers_gained": 385, "peak_viewers": 62, "hours_streamed": 83, "streams": 32, "mature": 0, "language": "Turkish", "account_age": 1177920.0}

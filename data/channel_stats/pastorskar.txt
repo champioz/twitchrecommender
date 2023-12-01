@@ -1,0 +1,1 @@
+{"channel": "pastorskar", "avg_viewers": 37, "followers_gained": 413, "peak_viewers": 72, "hours_streamed": 64, "streams": 14, "mature": 0, "language": "English", "account_age": 1131840.0}

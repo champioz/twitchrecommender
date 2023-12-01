@@ -1,0 +1,1 @@
+{"channel": "thalwarus", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 10, "hours_streamed": 98, "streams": 39, "mature": 1, "language": "German", "account_age": 540000.0}

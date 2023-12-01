@@ -1,0 +1,1 @@
+{"channel": "tashn3", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 16, "hours_streamed": 10, "streams": 6, "mature": 0, "language": "English", "account_age": 976320.0}

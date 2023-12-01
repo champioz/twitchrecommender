@@ -1,0 +1,1 @@
+{"channel": "condiefly", "avg_viewers": 24, "followers_gained": 78, "peak_viewers": 55, "hours_streamed": 78, "streams": 17, "mature": 0, "language": "English", "account_age": 2908800.0}

@@ -1,0 +1,1 @@
+{"channel": "phyxiuswings", "avg_viewers": 3, "followers_gained": 43, "peak_viewers": 19, "hours_streamed": 276, "streams": 41, "mature": 1, "language": "Spanish", "account_age": 1474560.0}

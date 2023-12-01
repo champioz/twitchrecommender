@@ -1,0 +1,1 @@
+{"channel": "meg4volt", "avg_viewers": 31, "followers_gained": 33, "peak_viewers": 227, "hours_streamed": 40, "streams": 6, "mature": 1, "language": "German", "account_age": 2560320.0}

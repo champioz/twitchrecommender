@@ -1,0 +1,1 @@
+{"channel": "bwittany", "avg_viewers": 51, "followers_gained": 245, "peak_viewers": 102, "hours_streamed": 93, "streams": 17, "mature": 1, "language": "English", "account_age": 760320.0}

@@ -1,0 +1,1 @@
+{"channel": "doncup", "avg_viewers": 545, "followers_gained": 83, "peak_viewers": 1025, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "Japanese", "account_age": 819360.0}

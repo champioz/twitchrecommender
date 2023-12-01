@@ -1,0 +1,1 @@
+{"channel": "kristikates", "avg_viewers": 65, "followers_gained": 193, "peak_viewers": 164, "hours_streamed": 66, "streams": 22, "mature": 0, "language": "English", "account_age": 2384640.0}

@@ -1,0 +1,1 @@
+{"channel": "fhangeo", "avg_viewers": 19, "followers_gained": 48, "peak_viewers": 38, "hours_streamed": 94, "streams": 16, "mature": 0, "language": "Chinese", "account_age": 1859040.0}

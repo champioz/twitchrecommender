@@ -1,0 +1,1 @@
+{"channel": "onetwo_ru", "avg_viewers": 0, "followers_gained": 80, "peak_viewers": 5, "hours_streamed": 32, "streams": 12, "mature": 0, "language": "Russian", "account_age": 1061280.0}

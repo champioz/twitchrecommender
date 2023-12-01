@@ -1,0 +1,1 @@
+{"channel": "plarte", "avg_viewers": 7, "followers_gained": 51, "peak_viewers": 38, "hours_streamed": 100, "streams": 27, "mature": 1, "language": "English", "account_age": 3340800.0}

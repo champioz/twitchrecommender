@@ -1,0 +1,1 @@
+{"channel": "van_hinten88", "avg_viewers": 479, "followers_gained": 2105, "peak_viewers": 1230, "hours_streamed": 160, "streams": 59, "mature": 1, "language": "German", "account_age": 2430720.0}

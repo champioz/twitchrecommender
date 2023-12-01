@@ -1,0 +1,1 @@
+{"channel": "cho100su", "avg_viewers": 6, "followers_gained": 16, "peak_viewers": 17, "hours_streamed": 135, "streams": 25, "mature": 0, "language": "Korean", "account_age": 845280.0}

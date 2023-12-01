@@ -1,0 +1,1 @@
+{"channel": "versatilis", "avg_viewers": 85, "followers_gained": 116, "peak_viewers": 143, "hours_streamed": 57, "streams": 15, "mature": 1, "language": "French", "account_age": 3342240.0}

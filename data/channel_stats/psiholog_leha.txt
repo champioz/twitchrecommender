@@ -1,0 +1,1 @@
+{"channel": "psiholog_leha", "avg_viewers": 65, "followers_gained": 189, "peak_viewers": 473, "hours_streamed": 80, "streams": 28, "mature": 0, "language": "Russian", "account_age": 552960.0}

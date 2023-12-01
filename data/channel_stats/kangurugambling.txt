@@ -1,0 +1,1 @@
+{"channel": "kangurugambling", "avg_viewers": 39, "followers_gained": 66, "peak_viewers": 99, "hours_streamed": 57, "streams": 16, "mature": 1, "language": "Turkish", "account_age": 928800.0}

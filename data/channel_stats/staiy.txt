@@ -1,0 +1,1 @@
+{"channel": "staiy", "avg_viewers": 4718, "followers_gained": 2456, "peak_viewers": 7241, "hours_streamed": 161, "streams": 30, "mature": 0, "language": "German", "account_age": 3096000.0}

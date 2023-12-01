@@ -1,0 +1,1 @@
+{"channel": "intenzx", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 9, "hours_streamed": 19, "streams": 6, "mature": 0, "language": "English", "account_age": 269280.0}

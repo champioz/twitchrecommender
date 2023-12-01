@@ -1,0 +1,1 @@
+{"channel": "amouranth", "avg_viewers": 2158, "followers_gained": 24952, "peak_viewers": 3489, "hours_streamed": 264, "streams": 30, "mature": 0, "language": "English", "account_age": 1668960.0}

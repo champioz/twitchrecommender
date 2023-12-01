@@ -1,0 +1,1 @@
+{"channel": "esportsuniverse", "avg_viewers": 93, "followers_gained": 81, "peak_viewers": 218, "hours_streamed": 15, "streams": 3, "mature": 0, "language": "English", "account_age": 856800.0}

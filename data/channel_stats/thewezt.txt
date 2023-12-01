@@ -1,0 +1,1 @@
+{"channel": "thewezt", "avg_viewers": 9, "followers_gained": 55, "peak_viewers": 24, "hours_streamed": 166, "streams": 30, "mature": 0, "language": "Swedish", "account_age": 3162240.0}

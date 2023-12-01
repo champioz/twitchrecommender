@@ -1,0 +1,1 @@
+{"channel": "mboze", "avg_viewers": 186, "followers_gained": 141, "peak_viewers": 310, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "English", "account_age": 4024800.0}

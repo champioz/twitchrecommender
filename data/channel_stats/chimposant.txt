@@ -1,0 +1,1 @@
+{"channel": "chimposant", "avg_viewers": 17, "followers_gained": 1, "peak_viewers": 38, "hours_streamed": 46, "streams": 9, "mature": 1, "language": "German", "account_age": 2399040.0}

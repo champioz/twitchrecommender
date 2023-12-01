@@ -1,0 +1,1 @@
+{"channel": "wesbtw", "avg_viewers": 313, "followers_gained": 2533, "peak_viewers": 2538, "hours_streamed": 100, "streams": 22, "mature": 1, "language": "English", "account_age": 2944800.0}

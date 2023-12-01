@@ -1,0 +1,1 @@
+{"channel": "smiiirb", "avg_viewers": 6, "followers_gained": 48, "peak_viewers": 19, "hours_streamed": 192, "streams": 53, "mature": 1, "language": "German", "account_age": 2340000.0}

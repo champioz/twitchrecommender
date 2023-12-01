@@ -1,0 +1,1 @@
+{"channel": "thebrianj", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 21, "hours_streamed": 20, "streams": 6, "mature": 0, "language": "English", "account_age": 4364640.0}

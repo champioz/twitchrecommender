@@ -1,0 +1,1 @@
+{"channel": "jammi95", "avg_viewers": 2688, "followers_gained": 8446, "peak_viewers": 3946, "hours_streamed": 31, "streams": 9, "mature": 0, "language": "Korean", "account_age": 623520.0}

@@ -1,0 +1,1 @@
+{"channel": "yakooki", "avg_viewers": 12, "followers_gained": 15, "peak_viewers": 26, "hours_streamed": 35, "streams": 11, "mature": 0, "language": "German", "account_age": 3080160.0}

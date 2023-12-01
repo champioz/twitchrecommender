@@ -1,0 +1,1 @@
+{"channel": "ecoliespresso", "avg_viewers": 55, "followers_gained": 52, "peak_viewers": 81, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "English", "account_age": 3916800.0}

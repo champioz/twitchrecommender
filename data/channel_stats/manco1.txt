@@ -1,0 +1,1 @@
+{"channel": "manco1", "avg_viewers": 112, "followers_gained": 697, "peak_viewers": 750, "hours_streamed": 84, "streams": 19, "mature": 0, "language": "English", "account_age": 3340800.0}

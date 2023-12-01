@@ -1,0 +1,1 @@
+{"channel": "harveymccloud", "avg_viewers": 6, "followers_gained": 24, "peak_viewers": 23, "hours_streamed": 49, "streams": 21, "mature": 1, "language": "English", "account_age": 2878560.0}

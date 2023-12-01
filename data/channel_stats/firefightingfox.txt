@@ -1,0 +1,1 @@
+{"channel": "firefightingfox", "avg_viewers": 7, "followers_gained": 112, "peak_viewers": 62, "hours_streamed": 42, "streams": 21, "mature": 0, "language": "German", "account_age": 1342080.0}

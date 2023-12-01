@@ -1,0 +1,1 @@
+{"channel": "miskhero_tv", "avg_viewers": 6, "followers_gained": 51, "peak_viewers": 18, "hours_streamed": 81, "streams": 44, "mature": 1, "language": "French", "account_age": 2033280.0}

@@ -1,0 +1,1 @@
+{"channel": "darkgamep", "avg_viewers": 50, "followers_gained": 137, "peak_viewers": 154, "hours_streamed": 213, "streams": 39, "mature": 0, "language": "Russian", "account_age": 4108320.0}

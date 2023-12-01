@@ -1,0 +1,1 @@
+{"channel": "tv_brocast", "avg_viewers": 28, "followers_gained": 324, "peak_viewers": 74, "hours_streamed": 48, "streams": 16, "mature": 0, "language": "German", "account_age": 148320.0}

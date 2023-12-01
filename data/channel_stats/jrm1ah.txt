@@ -1,0 +1,1 @@
+{"channel": "jrm1ah", "avg_viewers": 49, "followers_gained": 28, "peak_viewers": 129, "hours_streamed": 39, "streams": 14, "mature": 0, "language": "English", "account_age": 1185120.0}

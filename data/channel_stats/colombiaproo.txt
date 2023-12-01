@@ -1,0 +1,1 @@
+{"channel": "colombiaproo", "avg_viewers": 5, "followers_gained": 13, "peak_viewers": 26, "hours_streamed": 33, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 2374560.0}

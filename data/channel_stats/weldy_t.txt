@@ -1,0 +1,1 @@
+{"channel": "weldy_t", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 6, "streams": 5, "mature": 1, "language": "Italian", "account_age": 911520.0}

@@ -1,0 +1,1 @@
+{"channel": "badassgaminglive", "avg_viewers": 148, "followers_gained": 464, "peak_viewers": 271, "hours_streamed": 113, "streams": 19, "mature": 0, "language": "English", "account_age": 3074400.0}

@@ -1,0 +1,1 @@
+{"channel": "nano_ttv", "avg_viewers": 8, "followers_gained": 171, "peak_viewers": 24, "hours_streamed": 57, "streams": 31, "mature": 1, "language": "Italian", "account_age": 740160.0}

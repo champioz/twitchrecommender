@@ -1,0 +1,1 @@
+{"channel": "lucidfoxx", "avg_viewers": 815, "followers_gained": 790, "peak_viewers": 8439, "hours_streamed": 68, "streams": 16, "mature": 0, "language": "English", "account_age": 3644640.0}

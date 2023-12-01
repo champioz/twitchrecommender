@@ -1,0 +1,1 @@
+{"channel": "lmiramel", "avg_viewers": 63, "followers_gained": 260, "peak_viewers": 879, "hours_streamed": 83, "streams": 20, "mature": 1, "language": "English", "account_age": 259200.0}

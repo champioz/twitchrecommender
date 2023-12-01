@@ -1,0 +1,1 @@
+{"channel": "bogusdonuts", "avg_viewers": 17, "followers_gained": 82, "peak_viewers": 34, "hours_streamed": 16, "streams": 5, "mature": 1, "language": "English", "account_age": 914400.0}

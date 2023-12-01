@@ -1,0 +1,1 @@
+{"channel": "le0islive", "avg_viewers": 10, "followers_gained": 24, "peak_viewers": 24, "hours_streamed": 28, "streams": 9, "mature": 0, "language": "English", "account_age": 596160.0}

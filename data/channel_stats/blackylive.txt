@@ -1,0 +1,1 @@
+{"channel": "blackylive", "avg_viewers": 24, "followers_gained": 15, "peak_viewers": 97, "hours_streamed": 40, "streams": 13, "mature": 1, "language": "German", "account_age": 2736000.0}

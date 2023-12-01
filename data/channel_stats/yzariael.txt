@@ -1,0 +1,1 @@
+{"channel": "yzariael", "avg_viewers": 97, "followers_gained": 61, "peak_viewers": 176, "hours_streamed": 37, "streams": 9, "mature": 1, "language": "German", "account_age": 2460960.0}

@@ -1,0 +1,1 @@
+{"channel": "arcadum", "avg_viewers": 136, "followers_gained": 183, "peak_viewers": 3108, "hours_streamed": 179, "streams": 35, "mature": 0, "language": "English", "account_age": 4049280.0}

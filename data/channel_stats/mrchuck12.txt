@@ -1,0 +1,1 @@
+{"channel": "mrchuck12", "avg_viewers": 215, "followers_gained": 318, "peak_viewers": 468, "hours_streamed": 114, "streams": 27, "mature": 0, "language": "Italian", "account_age": 2846880.0}

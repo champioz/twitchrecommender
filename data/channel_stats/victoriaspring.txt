@@ -1,0 +1,1 @@
+{"channel": "victoriaspring", "avg_viewers": 15, "followers_gained": 411, "peak_viewers": 74, "hours_streamed": 105, "streams": 41, "mature": 1, "language": "Hungarian", "account_age": 681120.0}

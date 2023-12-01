@@ -1,0 +1,1 @@
+{"channel": "danteefps", "avg_viewers": 2, "followers_gained": 114, "peak_viewers": 14, "hours_streamed": 88, "streams": 30, "mature": 0, "language": "Turkish", "account_age": 354240.0}

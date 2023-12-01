@@ -1,0 +1,1 @@
+{"channel": "benny", "avg_viewers": 151, "followers_gained": 663, "peak_viewers": 802, "hours_streamed": 79, "streams": 14, "mature": 0, "language": "English", "account_age": 1919520.0}

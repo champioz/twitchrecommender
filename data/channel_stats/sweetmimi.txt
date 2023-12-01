@@ -1,0 +1,1 @@
+{"channel": "sweetmimi", "avg_viewers": 21, "followers_gained": 7, "peak_viewers": 70, "hours_streamed": 21, "streams": 3, "mature": 0, "language": "English", "account_age": 996480.0}

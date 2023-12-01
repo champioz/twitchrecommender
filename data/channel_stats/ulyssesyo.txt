@@ -1,0 +1,1 @@
+{"channel": "ulyssesyo", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 20, "hours_streamed": 35, "streams": 7, "mature": 0, "language": "Chinese", "account_age": 3195360.0}

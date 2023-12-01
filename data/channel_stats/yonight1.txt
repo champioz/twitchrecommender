@@ -1,0 +1,1 @@
+{"channel": "yonight1", "avg_viewers": 7, "followers_gained": 184, "peak_viewers": 23, "hours_streamed": 132, "streams": 42, "mature": 0, "language": "French", "account_age": 332640.0}

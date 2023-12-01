@@ -1,0 +1,1 @@
+{"channel": "cynicalrt", "avg_viewers": 26, "followers_gained": 116, "peak_viewers": 374, "hours_streamed": 93, "streams": 26, "mature": 0, "language": "English", "account_age": 2420640.0}

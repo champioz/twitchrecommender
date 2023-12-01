@@ -1,0 +1,1 @@
+{"channel": "jjot5", "avg_viewers": 56, "followers_gained": 128, "peak_viewers": 174, "hours_streamed": 262, "streams": 26, "mature": 0, "language": "Korean", "account_age": 915840.0}

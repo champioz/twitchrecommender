@@ -1,0 +1,1 @@
+{"channel": "w1ckk_", "avg_viewers": 37, "followers_gained": 14, "peak_viewers": 62, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "German", "account_age": 2132640.0}

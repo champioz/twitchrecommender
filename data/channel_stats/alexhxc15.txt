@@ -1,0 +1,1 @@
+{"channel": "alexhxc15", "avg_viewers": 11, "followers_gained": 7, "peak_viewers": 22, "hours_streamed": 54, "streams": 17, "mature": 1, "language": "English", "account_age": 4338720.0}

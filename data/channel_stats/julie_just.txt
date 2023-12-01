@@ -1,0 +1,1 @@
+{"channel": "julie_just", "avg_viewers": 11, "followers_gained": 225, "peak_viewers": 49, "hours_streamed": 74, "streams": 14, "mature": 0, "language": "Danish", "account_age": 1467360.0}

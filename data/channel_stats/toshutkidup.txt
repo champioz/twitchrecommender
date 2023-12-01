@@ -1,0 +1,1 @@
+{"channel": "toshutkidup", "avg_viewers": 6, "followers_gained": 5, "peak_viewers": 22, "hours_streamed": 18, "streams": 7, "mature": 1, "language": "English", "account_age": 2678400.0}

@@ -1,0 +1,1 @@
+{"channel": "edita_gritskikh", "avg_viewers": 40, "followers_gained": 40, "peak_viewers": 170, "hours_streamed": 87, "streams": 22, "mature": 0, "language": "Russian", "account_age": 594720.0}

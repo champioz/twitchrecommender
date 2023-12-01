@@ -1,0 +1,1 @@
+{"channel": "dreamangelcore", "avg_viewers": 29, "followers_gained": 12, "peak_viewers": 74, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "English", "account_age": 2253600.0}

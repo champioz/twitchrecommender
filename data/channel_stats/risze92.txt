@@ -1,0 +1,1 @@
+{"channel": "risze92", "avg_viewers": 105, "followers_gained": 85, "peak_viewers": 177, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "French", "account_age": 3319200.0}

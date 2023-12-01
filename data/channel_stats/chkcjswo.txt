@@ -1,0 +1,1 @@
+{"channel": "chkcjswo", "avg_viewers": 40, "followers_gained": 89, "peak_viewers": 85, "hours_streamed": 57, "streams": 14, "mature": 1, "language": "Korean", "account_age": 2782080.0}

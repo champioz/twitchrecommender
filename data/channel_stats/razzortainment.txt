@@ -1,0 +1,1 @@
+{"channel": "razzortainment", "avg_viewers": 60, "followers_gained": 84, "peak_viewers": 140, "hours_streamed": 46, "streams": 13, "mature": 0, "language": "German", "account_age": 1948320.0}

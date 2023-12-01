@@ -1,0 +1,1 @@
+{"channel": "chikalove", "avg_viewers": 4, "followers_gained": 46, "peak_viewers": 24, "hours_streamed": 105, "streams": 26, "mature": 0, "language": "English", "account_age": 1974240.0}

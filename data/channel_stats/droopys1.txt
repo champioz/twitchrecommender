@@ -1,0 +1,1 @@
+{"channel": "droopys1", "avg_viewers": 11, "followers_gained": 290, "peak_viewers": 49, "hours_streamed": 213, "streams": 55, "mature": 1, "language": "French", "account_age": 1958400.0}

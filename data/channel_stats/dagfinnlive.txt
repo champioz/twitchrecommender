@@ -1,0 +1,1 @@
+{"channel": "dagfinnlive", "avg_viewers": 36, "followers_gained": 79, "peak_viewers": 91, "hours_streamed": 57, "streams": 16, "mature": 1, "language": "Norwegian", "account_age": 1598400.0}

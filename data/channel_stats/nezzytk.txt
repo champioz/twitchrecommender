@@ -1,0 +1,1 @@
+{"channel": "nezzytk", "avg_viewers": 16, "followers_gained": 64, "peak_viewers": 46, "hours_streamed": 88, "streams": 26, "mature": 0, "language": "English", "account_age": 1368000.0}

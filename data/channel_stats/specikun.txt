@@ -1,0 +1,1 @@
+{"channel": "specikun", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 19, "streams": 6, "mature": 1, "language": "German", "account_age": 849600.0}

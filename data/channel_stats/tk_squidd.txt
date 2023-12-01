@@ -1,0 +1,1 @@
+{"channel": "tk_squidd", "avg_viewers": 6, "followers_gained": 35, "peak_viewers": 17, "hours_streamed": 49, "streams": 14, "mature": 0, "language": "English", "account_age": 601920.0}

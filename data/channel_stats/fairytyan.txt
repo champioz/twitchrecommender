@@ -1,0 +1,1 @@
+{"channel": "fairytyan", "avg_viewers": 12, "followers_gained": 154, "peak_viewers": 56, "hours_streamed": 82, "streams": 16, "mature": 1, "language": "Russian", "account_age": 822240.0}

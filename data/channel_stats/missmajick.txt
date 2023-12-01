@@ -1,0 +1,1 @@
+{"channel": "missmajick", "avg_viewers": 10, "followers_gained": 179, "peak_viewers": 23, "hours_streamed": 102, "streams": 21, "mature": 1, "language": "English", "account_age": 721440.0}

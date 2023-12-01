@@ -1,0 +1,1 @@
+{"channel": "mrafflixion", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 19, "hours_streamed": 67, "streams": 19, "mature": 1, "language": "English", "account_age": 1247040.0}

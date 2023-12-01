@@ -1,0 +1,1 @@
+{"channel": "tocata", "avg_viewers": 166, "followers_gained": 1230, "peak_viewers": 535, "hours_streamed": 54, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 3324960.0}

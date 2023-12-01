@@ -1,0 +1,1 @@
+{"channel": "stealthops19", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "English", "account_age": 2384640.0}

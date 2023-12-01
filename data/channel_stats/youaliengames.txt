@@ -1,0 +1,1 @@
+{"channel": "youaliengames", "avg_viewers": 4, "followers_gained": 11, "peak_viewers": 13, "hours_streamed": 7, "streams": 8, "mature": 0, "language": "German", "account_age": 2198880.0}

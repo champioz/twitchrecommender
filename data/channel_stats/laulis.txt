@@ -1,0 +1,1 @@
+{"channel": "laulis", "avg_viewers": 37, "followers_gained": 447, "peak_viewers": 147, "hours_streamed": 118, "streams": 27, "mature": 0, "language": "Portuguese", "account_age": 2900160.0}

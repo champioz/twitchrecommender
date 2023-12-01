@@ -1,0 +1,1 @@
+{"channel": "justinfishertv", "avg_viewers": 34, "followers_gained": 880, "peak_viewers": 113, "hours_streamed": 187, "streams": 31, "mature": 1, "language": "English", "account_age": 2976480.0}

@@ -1,0 +1,1 @@
+{"channel": "nilson1489", "avg_viewers": 20, "followers_gained": 179, "peak_viewers": 182, "hours_streamed": 68, "streams": 18, "mature": 0, "language": "German", "account_age": 2208960.0}

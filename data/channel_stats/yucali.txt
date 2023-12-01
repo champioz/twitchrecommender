@@ -1,0 +1,1 @@
+{"channel": "yucali", "avg_viewers": 19, "followers_gained": 120, "peak_viewers": 73, "hours_streamed": 31, "streams": 11, "mature": 0, "language": "Italian", "account_age": 3261600.0}

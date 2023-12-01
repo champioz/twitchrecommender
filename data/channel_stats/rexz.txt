@@ -1,0 +1,1 @@
+{"channel": "rexz", "avg_viewers": 145, "followers_gained": 435, "peak_viewers": 970, "hours_streamed": 119, "streams": 32, "mature": 1, "language": "German", "account_age": 2818080.0}

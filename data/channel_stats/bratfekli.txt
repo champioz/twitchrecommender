@@ -1,0 +1,1 @@
+{"channel": "bratfekli", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 59, "hours_streamed": 24, "streams": 22, "mature": 0, "language": "Russian", "account_age": 2463840.0}

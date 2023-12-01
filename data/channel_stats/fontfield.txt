@@ -1,0 +1,1 @@
+{"channel": "fontfield", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 9, "hours_streamed": 16, "streams": 14, "mature": 0, "language": "Spanish", "account_age": 564480.0}

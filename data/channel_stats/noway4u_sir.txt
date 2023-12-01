@@ -1,0 +1,1 @@
+{"channel": "noway4u_sir", "avg_viewers": 5629, "followers_gained": 6866, "peak_viewers": 13114, "hours_streamed": 179, "streams": 60, "mature": 0, "language": "German", "account_age": 2304000.0}

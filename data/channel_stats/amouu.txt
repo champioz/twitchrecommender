@@ -1,0 +1,1 @@
+{"channel": "amouu", "avg_viewers": 46, "followers_gained": 279, "peak_viewers": 377, "hours_streamed": 111, "streams": 21, "mature": 1, "language": "English", "account_age": 2121120.0}

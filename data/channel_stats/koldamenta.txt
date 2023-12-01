@@ -1,0 +1,1 @@
+{"channel": "koldamenta", "avg_viewers": 88, "followers_gained": 229, "peak_viewers": 149, "hours_streamed": 23, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 1241280.0}

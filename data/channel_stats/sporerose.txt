@@ -1,0 +1,1 @@
+{"channel": "sporerose", "avg_viewers": 6, "followers_gained": 13, "peak_viewers": 24, "hours_streamed": 160, "streams": 25, "mature": 1, "language": "English", "account_age": 4701600.0}

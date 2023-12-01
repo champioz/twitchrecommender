@@ -1,0 +1,1 @@
+{"channel": "dreaming_death", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 10, "hours_streamed": 131, "streams": 45, "mature": 0, "language": "German", "account_age": 2302560.0}

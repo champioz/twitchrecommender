@@ -1,0 +1,1 @@
+{"channel": "doggerry", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 17, "hours_streamed": 24, "streams": 7, "mature": 1, "language": "German", "account_age": 2026080.0}

@@ -1,0 +1,1 @@
+{"channel": "penguin8r", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 14, "hours_streamed": 36, "streams": 18, "mature": 0, "language": "English", "account_age": 3545280.0}

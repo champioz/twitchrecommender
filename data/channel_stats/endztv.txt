@@ -1,0 +1,1 @@
+{"channel": "endztv", "avg_viewers": 13, "followers_gained": 1, "peak_viewers": 77, "hours_streamed": 31, "streams": 8, "mature": 1, "language": "German", "account_age": 2610720.0}

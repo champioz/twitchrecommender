@@ -1,0 +1,1 @@
+{"channel": "redfanny_", "avg_viewers": 27, "followers_gained": 8, "peak_viewers": 56, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "French", "account_age": 2204640.0}

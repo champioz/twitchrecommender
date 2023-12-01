@@ -1,0 +1,1 @@
+{"channel": "qmgsaint", "avg_viewers": 22, "followers_gained": 20, "peak_viewers": 125, "hours_streamed": 115, "streams": 23, "mature": 0, "language": "English", "account_age": 3775680.0}

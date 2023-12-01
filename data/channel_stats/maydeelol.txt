@@ -1,0 +1,1 @@
+{"channel": "maydeelol", "avg_viewers": 16, "followers_gained": 361, "peak_viewers": 59, "hours_streamed": 172, "streams": 33, "mature": 1, "language": "English", "account_age": 1903680.0}

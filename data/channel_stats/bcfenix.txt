@@ -1,0 +1,1 @@
+{"channel": "bcfenix", "avg_viewers": 18, "followers_gained": 200, "peak_viewers": 64, "hours_streamed": 92, "streams": 27, "mature": 0, "language": "English", "account_age": 2532960.0}

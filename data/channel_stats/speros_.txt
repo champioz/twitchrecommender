@@ -1,0 +1,1 @@
+{"channel": "speros_", "avg_viewers": 850, "followers_gained": 8131, "peak_viewers": 1772, "hours_streamed": 137, "streams": 34, "mature": 0, "language": "English", "account_age": 1467360.0}

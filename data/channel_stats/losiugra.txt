@@ -1,0 +1,1 @@
+{"channel": "losiugra", "avg_viewers": 498, "followers_gained": 786, "peak_viewers": 1213, "hours_streamed": 141, "streams": 31, "mature": 0, "language": "Polish", "account_age": 2599200.0}

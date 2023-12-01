@@ -1,0 +1,1 @@
+{"channel": "thanks4dying", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 21, "hours_streamed": 12, "streams": 4, "mature": 1, "language": "English", "account_age": 3336480.0}

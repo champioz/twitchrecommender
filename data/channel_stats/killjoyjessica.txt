@@ -1,0 +1,1 @@
+{"channel": "killjoyjessica", "avg_viewers": 11, "followers_gained": 11, "peak_viewers": 45, "hours_streamed": 17, "streams": 9, "mature": 1, "language": "English", "account_age": 2518560.0}

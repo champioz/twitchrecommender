@@ -1,0 +1,1 @@
+{"channel": "franzbake", "avg_viewers": 10, "followers_gained": 10, "peak_viewers": 37, "hours_streamed": 94, "streams": 18, "mature": 0, "language": "Russian", "account_age": 3232800.0}

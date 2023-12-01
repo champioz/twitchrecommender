@@ -1,0 +1,1 @@
+{"channel": "nespose", "avg_viewers": 13, "followers_gained": 183, "peak_viewers": 66, "hours_streamed": 135, "streams": 31, "mature": 0, "language": "French", "account_age": 3031200.0}

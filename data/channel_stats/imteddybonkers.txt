@@ -1,0 +1,1 @@
+{"channel": "imteddybonkers", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 7, "hours_streamed": 48, "streams": 18, "mature": 1, "language": "English", "account_age": 1360800.0}

@@ -1,0 +1,1 @@
+{"channel": "grelos", "avg_viewers": 23, "followers_gained": 182, "peak_viewers": 85, "hours_streamed": 19, "streams": 12, "mature": 1, "language": "Spanish", "account_age": 937440.0}

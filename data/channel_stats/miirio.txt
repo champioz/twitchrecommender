@@ -1,0 +1,1 @@
+{"channel": "miirio", "avg_viewers": 140, "followers_gained": 372, "peak_viewers": 333, "hours_streamed": 92, "streams": 29, "mature": 0, "language": "English", "account_age": 4596480.0}

@@ -1,0 +1,1 @@
+{"channel": "lulalalulula", "avg_viewers": 287, "followers_gained": 52, "peak_viewers": 394, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "Chinese", "account_age": 3556800.0}

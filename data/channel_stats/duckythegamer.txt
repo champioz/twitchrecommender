@@ -1,0 +1,1 @@
+{"channel": "duckythegamer", "avg_viewers": 696, "followers_gained": 21867, "peak_viewers": 19696, "hours_streamed": 105, "streams": 22, "mature": 0, "language": "English", "account_age": 1882080.0}

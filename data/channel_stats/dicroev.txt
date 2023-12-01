@@ -1,0 +1,1 @@
+{"channel": "dicroev", "avg_viewers": 25, "followers_gained": 26, "peak_viewers": 60, "hours_streamed": 60, "streams": 15, "mature": 0, "language": "Russian", "account_age": 2995200.0}

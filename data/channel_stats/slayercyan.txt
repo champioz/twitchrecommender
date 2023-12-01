@@ -1,0 +1,1 @@
+{"channel": "slayercyan", "avg_viewers": 3, "followers_gained": 12, "peak_viewers": 17, "hours_streamed": 58, "streams": 12, "mature": 1, "language": "English", "account_age": 1566720.0}

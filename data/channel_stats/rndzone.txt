@@ -1,0 +1,1 @@
+{"channel": "rndzone", "avg_viewers": 8, "followers_gained": 71, "peak_viewers": 32, "hours_streamed": 121, "streams": 27, "mature": 0, "language": "Portuguese", "account_age": 3450240.0}

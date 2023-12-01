@@ -1,0 +1,1 @@
+{"channel": "mauricio_wt", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 22, "hours_streamed": 50, "streams": 18, "mature": 0, "language": "Russian", "account_age": 1111680.0}

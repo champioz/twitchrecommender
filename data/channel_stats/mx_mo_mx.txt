@@ -1,0 +1,1 @@
+{"channel": "mx_mo_mx", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 15, "streams": 11, "mature": 1, "language": "German", "account_age": 2036160.0}

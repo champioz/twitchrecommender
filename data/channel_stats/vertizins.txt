@@ -1,0 +1,1 @@
+{"channel": "vertizins", "avg_viewers": 2, "followers_gained": 15, "peak_viewers": 16, "hours_streamed": 85, "streams": 35, "mature": 0, "language": "Norwegian", "account_age": 699840.0}

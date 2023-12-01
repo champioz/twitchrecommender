@@ -1,0 +1,1 @@
+{"channel": "halfmysticgames", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 7, "hours_streamed": 9, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 1224000.0}

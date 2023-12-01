@@ -1,0 +1,1 @@
+{"channel": "avokati", "avg_viewers": 18, "followers_gained": 194, "peak_viewers": 78, "hours_streamed": 82, "streams": 16, "mature": 1, "language": "German", "account_age": 1615680.0}

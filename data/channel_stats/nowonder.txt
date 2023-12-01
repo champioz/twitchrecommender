@@ -1,0 +1,1 @@
+{"channel": "nowonder", "avg_viewers": 23, "followers_gained": 19, "peak_viewers": 404, "hours_streamed": 173, "streams": 29, "mature": 0, "language": "English", "account_age": 4707360.0}

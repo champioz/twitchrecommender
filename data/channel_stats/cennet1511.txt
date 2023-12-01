@@ -1,0 +1,1 @@
+{"channel": "cennet1511", "avg_viewers": 10, "followers_gained": 7, "peak_viewers": 26, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "German", "account_age": 1137600.0}

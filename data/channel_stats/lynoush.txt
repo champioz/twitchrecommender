@@ -1,0 +1,1 @@
+{"channel": "lynoush", "avg_viewers": 5, "followers_gained": 32, "peak_viewers": 16, "hours_streamed": 36, "streams": 19, "mature": 1, "language": "French", "account_age": 1199520.0}

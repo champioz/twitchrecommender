@@ -1,0 +1,1 @@
+{"channel": "emkay", "avg_viewers": 20, "followers_gained": 3, "peak_viewers": 72, "hours_streamed": 46, "streams": 11, "mature": 1, "language": "German", "account_age": 2568960.0}

@@ -1,0 +1,1 @@
+{"channel": "daco_ow", "avg_viewers": 20, "followers_gained": 21, "peak_viewers": 36, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Korean", "account_age": 1319040.0}

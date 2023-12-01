@@ -1,0 +1,1 @@
+{"channel": "ddalgabe", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 20, "hours_streamed": 26, "streams": 14, "mature": 1, "language": "Korean", "account_age": 1447200.0}

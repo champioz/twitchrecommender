@@ -1,0 +1,1 @@
+{"channel": "deamonmachine", "avg_viewers": 147, "followers_gained": 589, "peak_viewers": 504, "hours_streamed": 193, "streams": 25, "mature": 1, "language": "English", "account_age": 4118400.0}

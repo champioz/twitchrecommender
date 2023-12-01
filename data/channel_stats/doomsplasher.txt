@@ -1,0 +1,1 @@
+{"channel": "doomsplasher", "avg_viewers": 94, "followers_gained": 109, "peak_viewers": 391, "hours_streamed": 20, "streams": 9, "mature": 1, "language": "German", "account_age": 2341440.0}

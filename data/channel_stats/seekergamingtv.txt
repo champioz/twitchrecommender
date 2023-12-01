@@ -1,0 +1,1 @@
+{"channel": "seekergamingtv", "avg_viewers": 14, "followers_gained": 29, "peak_viewers": 32, "hours_streamed": 39, "streams": 7, "mature": 1, "language": "English", "account_age": 2160000.0}

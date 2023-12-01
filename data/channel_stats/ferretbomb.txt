@@ -1,0 +1,1 @@
+{"channel": "ferretbomb", "avg_viewers": 155, "followers_gained": 43, "peak_viewers": 1178, "hours_streamed": 211, "streams": 26, "mature": 0, "language": "English", "account_age": 3693600.0}

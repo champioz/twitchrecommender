@@ -1,0 +1,1 @@
+{"channel": "petterongo", "avg_viewers": 7, "followers_gained": 20, "peak_viewers": 19, "hours_streamed": 37, "streams": 16, "mature": 0, "language": "Spanish", "account_age": 2508480.0}

@@ -1,0 +1,1 @@
+{"channel": "mrmario08", "avg_viewers": 7, "followers_gained": 217, "peak_viewers": 22, "hours_streamed": 197, "streams": 42, "mature": 1, "language": "Spanish", "account_age": 1837440.0}

@@ -1,0 +1,1 @@
+{"channel": "uselessfodder", "avg_viewers": 11, "followers_gained": 44, "peak_viewers": 42, "hours_streamed": 28, "streams": 13, "mature": 0, "language": "English", "account_age": 3345120.0}

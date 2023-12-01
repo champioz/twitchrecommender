@@ -1,0 +1,1 @@
+{"channel": "rkd6757", "avg_viewers": 9, "followers_gained": 80, "peak_viewers": 42, "hours_streamed": 172, "streams": 33, "mature": 0, "language": "Korean", "account_age": 907200.0}

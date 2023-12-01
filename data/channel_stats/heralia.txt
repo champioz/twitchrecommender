@@ -1,0 +1,1 @@
+{"channel": "heralia", "avg_viewers": 4, "followers_gained": 26, "peak_viewers": 18, "hours_streamed": 155, "streams": 45, "mature": 1, "language": "German", "account_age": 3360960.0}

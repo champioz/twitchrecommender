@@ -1,0 +1,1 @@
+{"channel": "tiddly", "avg_viewers": 84, "followers_gained": 196, "peak_viewers": 177, "hours_streamed": 62, "streams": 18, "mature": 1, "language": "English", "account_age": 2213280.0}

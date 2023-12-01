@@ -1,0 +1,1 @@
+{"channel": "mr_wolfe", "avg_viewers": 68, "followers_gained": 222, "peak_viewers": 108, "hours_streamed": 60, "streams": 20, "mature": 0, "language": "English", "account_age": 2737440.0}

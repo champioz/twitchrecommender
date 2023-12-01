@@ -1,0 +1,1 @@
+{"channel": "atomiksky1976", "avg_viewers": 1, "followers_gained": 23, "peak_viewers": 7, "hours_streamed": 61, "streams": 18, "mature": 1, "language": "French", "account_age": 2407680.0}

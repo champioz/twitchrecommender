@@ -1,0 +1,1 @@
+{"channel": "mshlchk", "avg_viewers": 15, "followers_gained": 37, "peak_viewers": 77, "hours_streamed": 96, "streams": 24, "mature": 1, "language": "Russian", "account_age": 2666880.0}

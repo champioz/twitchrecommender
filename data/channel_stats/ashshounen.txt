@@ -1,0 +1,1 @@
+{"channel": "ashshounen", "avg_viewers": 37, "followers_gained": 174, "peak_viewers": 140, "hours_streamed": 79, "streams": 12, "mature": 0, "language": "Portuguese", "account_age": 283680.0}

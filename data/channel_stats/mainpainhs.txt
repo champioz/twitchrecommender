@@ -1,0 +1,1 @@
+{"channel": "mainpainhs", "avg_viewers": 12, "followers_gained": 36, "peak_viewers": 27, "hours_streamed": 13, "streams": 4, "mature": 1, "language": "Greek", "account_age": 2378880.0}

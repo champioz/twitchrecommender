@@ -1,0 +1,1 @@
+{"channel": "swampnugg", "avg_viewers": 19, "followers_gained": 265, "peak_viewers": 44, "hours_streamed": 28, "streams": 12, "mature": 0, "language": "English", "account_age": 2832480.0}

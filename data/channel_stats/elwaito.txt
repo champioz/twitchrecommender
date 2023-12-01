@@ -1,0 +1,1 @@
+{"channel": "elwaito", "avg_viewers": 13, "followers_gained": 180, "peak_viewers": 49, "hours_streamed": 123, "streams": 25, "mature": 1, "language": "Spanish", "account_age": 989280.0}

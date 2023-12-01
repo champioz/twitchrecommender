@@ -1,0 +1,1 @@
+{"channel": "kriegsgottyato", "avg_viewers": 2, "followers_gained": 19, "peak_viewers": 15, "hours_streamed": 296, "streams": 39, "mature": 1, "language": "German", "account_age": 486720.0}

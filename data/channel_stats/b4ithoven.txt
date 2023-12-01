@@ -1,0 +1,1 @@
+{"channel": "b4ithoven", "avg_viewers": 77, "followers_gained": 210, "peak_viewers": 183, "hours_streamed": 217, "streams": 29, "mature": 0, "language": "German", "account_age": 1530720.0}

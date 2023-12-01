@@ -1,0 +1,1 @@
+{"channel": "cheffrey4", "avg_viewers": 4, "followers_gained": 36, "peak_viewers": 13, "hours_streamed": 71, "streams": 30, "mature": 0, "language": "English", "account_age": 737280.0}

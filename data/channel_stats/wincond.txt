@@ -1,0 +1,1 @@
+{"channel": "wincond", "avg_viewers": 12, "followers_gained": 45, "peak_viewers": 41, "hours_streamed": 76, "streams": 24, "mature": 0, "language": "Russian", "account_age": 1481760.0}

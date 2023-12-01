@@ -1,0 +1,1 @@
+{"channel": "dinkandginas", "avg_viewers": 3, "followers_gained": 10, "peak_viewers": 16, "hours_streamed": 91, "streams": 28, "mature": 1, "language": "English", "account_age": 789120.0}

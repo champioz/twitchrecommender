@@ -1,0 +1,1 @@
+{"channel": "ry6kagop", "avg_viewers": 147, "followers_gained": 149, "peak_viewers": 264, "hours_streamed": 179, "streams": 29, "mature": 0, "language": "Russian", "account_age": 1913760.0}

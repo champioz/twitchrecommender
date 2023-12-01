@@ -1,0 +1,1 @@
+{"channel": "snugglepuffle", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 11, "hours_streamed": 22, "streams": 8, "mature": 0, "language": "English", "account_age": 3119040.0}

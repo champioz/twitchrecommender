@@ -1,0 +1,1 @@
+{"channel": "iamthanh", "avg_viewers": 396, "followers_gained": 48, "peak_viewers": 2084, "hours_streamed": 215, "streams": 35, "mature": 0, "language": "German", "account_age": 3576960.0}

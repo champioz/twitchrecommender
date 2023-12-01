@@ -1,0 +1,1 @@
+{"channel": "explosivo115", "avg_viewers": 7, "followers_gained": 331, "peak_viewers": 20, "hours_streamed": 136, "streams": 32, "mature": 1, "language": "Spanish", "account_age": 838080.0}

@@ -1,0 +1,1 @@
+{"channel": "ohmwrecker", "avg_viewers": 1897, "followers_gained": 3967, "peak_viewers": 3470, "hours_streamed": 24, "streams": 6, "mature": 0, "language": "English", "account_age": 4269600.0}

@@ -1,0 +1,1 @@
+{"channel": "paca__", "avg_viewers": 8, "followers_gained": 50, "peak_viewers": 54, "hours_streamed": 62, "streams": 20, "mature": 0, "language": "Czech", "account_age": 1480320.0}

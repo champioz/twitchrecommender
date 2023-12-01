@@ -1,0 +1,1 @@
+{"channel": "amazonian", "avg_viewers": 556, "followers_gained": 1550, "peak_viewers": 1660, "hours_streamed": 181, "streams": 29, "mature": 0, "language": "English", "account_age": 2460960.0}

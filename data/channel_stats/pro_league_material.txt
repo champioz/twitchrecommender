@@ -1,0 +1,1 @@
+{"channel": "pro_league_material", "avg_viewers": 27, "followers_gained": 375, "peak_viewers": 123, "hours_streamed": 12, "streams": 12, "mature": 0, "language": "English", "account_age": 511200.0}

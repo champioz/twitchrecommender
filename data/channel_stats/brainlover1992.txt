@@ -1,0 +1,1 @@
+{"channel": "brainlover1992", "avg_viewers": 19, "followers_gained": 2, "peak_viewers": 27, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "English", "account_age": 3876480.0}

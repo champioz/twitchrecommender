@@ -1,0 +1,1 @@
+{"channel": "itzfrostiiii", "avg_viewers": 9, "followers_gained": 1242, "peak_viewers": 68, "hours_streamed": 306, "streams": 34, "mature": 0, "language": "English", "account_age": 1386720.0}

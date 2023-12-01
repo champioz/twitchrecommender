@@ -1,0 +1,1 @@
+{"channel": "affilatehosting4u", "avg_viewers": 44, "followers_gained": 576, "peak_viewers": 99, "hours_streamed": 531, "streams": 12, "mature": 1, "language": "English", "account_age": 161280.0}

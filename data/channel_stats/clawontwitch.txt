@@ -1,0 +1,1 @@
+{"channel": "clawontwitch", "avg_viewers": 70, "followers_gained": 34, "peak_viewers": 307, "hours_streamed": 100, "streams": 21, "mature": 1, "language": "English", "account_age": 3497760.0}

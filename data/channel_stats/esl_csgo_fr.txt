@@ -1,0 +1,1 @@
+{"channel": "esl_csgo_fr", "avg_viewers": 4642, "followers_gained": 7437, "peak_viewers": 22748, "hours_streamed": 96, "streams": 11, "mature": 0, "language": "French", "account_age": 3641760.0}

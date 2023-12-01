@@ -1,0 +1,1 @@
+{"channel": "multitaparchive", "avg_viewers": 0, "followers_gained": 25, "peak_viewers": 7, "hours_streamed": 618, "streams": 83, "mature": 0, "language": "English", "account_age": 954720.0}

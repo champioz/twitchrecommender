@@ -1,0 +1,1 @@
+{"channel": "seakelvinnl", "avg_viewers": 2, "followers_gained": 15, "peak_viewers": 10, "hours_streamed": 68, "streams": 33, "mature": 0, "language": "Dutch", "account_age": 2833920.0}

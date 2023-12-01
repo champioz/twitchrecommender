@@ -1,0 +1,1 @@
+{"channel": "carpe", "avg_viewers": 717, "followers_gained": 3782, "peak_viewers": 1872, "hours_streamed": 48, "streams": 20, "mature": 0, "language": "Korean", "account_age": 1288800.0}

@@ -1,0 +1,1 @@
+{"channel": "shaleeny88", "avg_viewers": 10, "followers_gained": 79, "peak_viewers": 27, "hours_streamed": 54, "streams": 15, "mature": 0, "language": "English", "account_age": 154080.0}

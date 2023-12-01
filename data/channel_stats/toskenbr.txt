@@ -1,0 +1,1 @@
+{"channel": "toskenbr", "avg_viewers": 2, "followers_gained": 24, "peak_viewers": 13, "hours_streamed": 158, "streams": 25, "mature": 1, "language": "Portuguese", "account_age": 2098080.0}

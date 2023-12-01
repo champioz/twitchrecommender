@@ -1,0 +1,1 @@
+{"channel": "niffonen", "avg_viewers": 25, "followers_gained": 31, "peak_viewers": 54, "hours_streamed": 42, "streams": 12, "mature": 1, "language": "Swedish", "account_age": 2446560.0}

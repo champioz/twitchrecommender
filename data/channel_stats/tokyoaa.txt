@@ -1,0 +1,1 @@
+{"channel": "tokyoaa", "avg_viewers": 8, "followers_gained": 1, "peak_viewers": 19, "hours_streamed": 7, "streams": 4, "mature": 0, "language": "Russian", "account_age": 3000960.0}

@@ -1,0 +1,1 @@
+{"channel": "gremlingamin", "avg_viewers": 9, "followers_gained": 54, "peak_viewers": 71, "hours_streamed": 82, "streams": 23, "mature": 1, "language": "English", "account_age": 2154240.0}

@@ -1,0 +1,1 @@
+{"channel": "playerone_fr", "avg_viewers": 9, "followers_gained": 6, "peak_viewers": 24, "hours_streamed": 40, "streams": 10, "mature": 1, "language": "French", "account_age": 2678400.0}

@@ -1,0 +1,1 @@
+{"channel": "tiltabi", "avg_viewers": 7, "followers_gained": 84, "peak_viewers": 24, "hours_streamed": 69, "streams": 23, "mature": 1, "language": "Turkish", "account_age": 869760.0}

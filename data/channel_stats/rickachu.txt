@@ -1,0 +1,1 @@
+{"channel": "rickachu", "avg_viewers": 78, "followers_gained": 192, "peak_viewers": 127, "hours_streamed": 35, "streams": 9, "mature": 1, "language": "Dutch", "account_age": 1683360.0}

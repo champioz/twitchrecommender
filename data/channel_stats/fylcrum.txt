@@ -1,0 +1,1 @@
+{"channel": "fylcrum", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 51, "hours_streamed": 12, "streams": 7, "mature": 0, "language": "Danish", "account_age": 751680.0}

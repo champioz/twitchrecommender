@@ -1,0 +1,1 @@
+{"channel": "itssksg", "avg_viewers": 7, "followers_gained": 123, "peak_viewers": 27, "hours_streamed": 172, "streams": 40, "mature": 0, "language": "English", "account_age": 731520.0}

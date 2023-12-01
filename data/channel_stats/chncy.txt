@@ -1,0 +1,1 @@
+{"channel": "chncy", "avg_viewers": 4, "followers_gained": 59, "peak_viewers": 21, "hours_streamed": 91, "streams": 38, "mature": 0, "language": "English", "account_age": 806400.0}

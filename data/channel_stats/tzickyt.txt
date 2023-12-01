@@ -1,0 +1,1 @@
+{"channel": "tzickyt", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 11, "streams": 9, "mature": 1, "language": "English", "account_age": 3797280.0}

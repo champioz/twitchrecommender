@@ -1,0 +1,1 @@
+{"channel": "kefir_gaming", "avg_viewers": 0, "followers_gained": 17, "peak_viewers": 6, "hours_streamed": 147, "streams": 34, "mature": 1, "language": "Russian", "account_age": 3326400.0}

@@ -1,0 +1,1 @@
+{"channel": "mrpicklepot", "avg_viewers": 1, "followers_gained": 16, "peak_viewers": 18, "hours_streamed": 26, "streams": 12, "mature": 0, "language": "English", "account_age": 678240.0}

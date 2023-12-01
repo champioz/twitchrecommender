@@ -1,0 +1,1 @@
+{"channel": "carriexxmichelle", "avg_viewers": 7, "followers_gained": 46, "peak_viewers": 18, "hours_streamed": 66, "streams": 30, "mature": 1, "language": "English", "account_age": 1221120.0}

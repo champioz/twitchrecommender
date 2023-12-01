@@ -1,0 +1,1 @@
+{"channel": "illayaya", "avg_viewers": 13, "followers_gained": 23, "peak_viewers": 32, "hours_streamed": 53, "streams": 11, "mature": 0, "language": "English", "account_age": 4347360.0}

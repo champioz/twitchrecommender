@@ -1,0 +1,1 @@
+{"channel": "sandholm", "avg_viewers": 22, "followers_gained": 49, "peak_viewers": 54, "hours_streamed": 87, "streams": 32, "mature": 0, "language": "English", "account_age": 3746880.0}

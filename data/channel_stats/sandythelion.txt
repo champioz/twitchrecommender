@@ -1,0 +1,1 @@
+{"channel": "sandythelion", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "English", "account_age": 2255040.0}

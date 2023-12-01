@@ -1,0 +1,1 @@
+{"channel": "nickolasreynolds", "avg_viewers": 11, "followers_gained": 21, "peak_viewers": 33, "hours_streamed": 33, "streams": 25, "mature": 0, "language": "English", "account_age": 2720160.0}

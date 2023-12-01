@@ -1,0 +1,1 @@
+{"channel": "milkbag", "avg_viewers": 5, "followers_gained": 33, "peak_viewers": 33, "hours_streamed": 65, "streams": 19, "mature": 1, "language": "English", "account_age": 3882240.0}

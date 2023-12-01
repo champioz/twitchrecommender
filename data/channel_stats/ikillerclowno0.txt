@@ -1,0 +1,1 @@
+{"channel": "ikillerclowno0", "avg_viewers": 2, "followers_gained": 57, "peak_viewers": 18, "hours_streamed": 208, "streams": 54, "mature": 1, "language": "German", "account_age": 1982880.0}

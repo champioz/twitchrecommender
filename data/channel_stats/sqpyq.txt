@@ -1,0 +1,1 @@
+{"channel": "sqpyq", "avg_viewers": 6, "followers_gained": 6, "peak_viewers": 20, "hours_streamed": 10, "streams": 12, "mature": 0, "language": "Russian", "account_age": 1065600.0}

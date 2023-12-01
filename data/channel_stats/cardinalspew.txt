@@ -1,0 +1,1 @@
+{"channel": "cardinalspew", "avg_viewers": 5, "followers_gained": 100, "peak_viewers": 31, "hours_streamed": 44, "streams": 26, "mature": 0, "language": "Arabic", "account_age": 280800.0}

@@ -1,0 +1,1 @@
+{"channel": "m11zz", "avg_viewers": 150, "followers_gained": 561, "peak_viewers": 326, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "French", "account_age": 1916640.0}

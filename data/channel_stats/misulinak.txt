@@ -1,0 +1,1 @@
+{"channel": "misulinak", "avg_viewers": 4, "followers_gained": 97, "peak_viewers": 21, "hours_streamed": 131, "streams": 57, "mature": 1, "language": "Czech", "account_age": 1301760.0}

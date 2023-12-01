@@ -1,0 +1,1 @@
+{"channel": "i_saw_a_bear", "avg_viewers": 4, "followers_gained": 22, "peak_viewers": 17, "hours_streamed": 19, "streams": 9, "mature": 0, "language": "English", "account_age": 4547520.0}

@@ -1,0 +1,1 @@
+{"channel": "selfish77", "avg_viewers": 77, "followers_gained": 118, "peak_viewers": 248, "hours_streamed": 43, "streams": 5, "mature": 1, "language": "Chinese", "account_age": 1493280.0}

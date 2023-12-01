@@ -1,0 +1,1 @@
+{"channel": "liaxrose", "avg_viewers": 165, "followers_gained": 107973, "peak_viewers": 602, "hours_streamed": 219, "streams": 31, "mature": 1, "language": "German", "account_age": 3291840.0}

@@ -1,0 +1,1 @@
+{"channel": "squmm", "avg_viewers": 10, "followers_gained": 35, "peak_viewers": 27, "hours_streamed": 38, "streams": 11, "mature": 1, "language": "Dutch", "account_age": 3035520.0}

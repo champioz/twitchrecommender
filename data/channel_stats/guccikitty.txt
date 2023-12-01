@@ -1,0 +1,1 @@
+{"channel": "guccikitty", "avg_viewers": 45, "followers_gained": 98, "peak_viewers": 75, "hours_streamed": 11, "streams": 2, "mature": 1, "language": "Greek", "account_age": 1637280.0}

@@ -1,0 +1,1 @@
+{"channel": "pootie33", "avg_viewers": 209, "followers_gained": 1117, "peak_viewers": 298, "hours_streamed": 80, "streams": 20, "mature": 0, "language": "English", "account_age": 3411360.0}

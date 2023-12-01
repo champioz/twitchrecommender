@@ -1,0 +1,1 @@
+{"channel": "pay4thatv", "avg_viewers": 10, "followers_gained": 26, "peak_viewers": 35, "hours_streamed": 85, "streams": 18, "mature": 1, "language": "German", "account_age": 3464640.0}

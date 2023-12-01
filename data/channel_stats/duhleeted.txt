@@ -1,0 +1,1 @@
+{"channel": "duhleeted", "avg_viewers": 7, "followers_gained": 5, "peak_viewers": 16, "hours_streamed": 67, "streams": 15, "mature": 0, "language": "English", "account_age": 1440000.0}

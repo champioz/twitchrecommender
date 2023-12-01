@@ -1,0 +1,1 @@
+{"channel": "kaegartv", "avg_viewers": 6, "followers_gained": 52, "peak_viewers": 22, "hours_streamed": 40, "streams": 12, "mature": 0, "language": "French", "account_age": 351360.0}

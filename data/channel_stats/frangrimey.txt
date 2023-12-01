@@ -1,0 +1,1 @@
+{"channel": "frangrimey", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 2, "hours_streamed": 2, "streams": 2, "mature": 1, "language": "Spanish", "account_age": 2171520.0}

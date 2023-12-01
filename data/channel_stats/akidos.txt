@@ -1,0 +1,1 @@
+{"channel": "akidos", "avg_viewers": 9, "followers_gained": 2, "peak_viewers": 20, "hours_streamed": 16, "streams": 5, "mature": 1, "language": "Swedish", "account_age": 3335040.0}

@@ -1,0 +1,1 @@
+{"channel": "baileyreichenberg", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 32, "streams": 12, "mature": 1, "language": "English", "account_age": 1748160.0}

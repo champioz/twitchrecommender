@@ -1,0 +1,1 @@
+{"channel": "dowright", "avg_viewers": 31, "followers_gained": 396, "peak_viewers": 73, "hours_streamed": 180, "streams": 27, "mature": 1, "language": "English", "account_age": 2943360.0}

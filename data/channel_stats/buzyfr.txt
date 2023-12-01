@@ -1,0 +1,1 @@
+{"channel": "buzyfr", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 45, "streams": 18, "mature": 0, "language": "French", "account_age": 3195360.0}

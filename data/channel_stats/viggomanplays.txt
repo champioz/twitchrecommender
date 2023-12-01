@@ -1,0 +1,1 @@
+{"channel": "viggomanplays", "avg_viewers": 30, "followers_gained": 72, "peak_viewers": 59, "hours_streamed": 11, "streams": 6, "mature": 0, "language": "English", "account_age": 2397600.0}

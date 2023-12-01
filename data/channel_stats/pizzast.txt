@@ -1,0 +1,1 @@
+{"channel": "pizzast", "avg_viewers": 8, "followers_gained": 11, "peak_viewers": 36, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "English", "account_age": 3087360.0}

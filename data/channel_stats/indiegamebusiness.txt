@@ -1,0 +1,1 @@
+{"channel": "indiegamebusiness", "avg_viewers": 9, "followers_gained": 16, "peak_viewers": 15, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "English", "account_age": 698400.0}

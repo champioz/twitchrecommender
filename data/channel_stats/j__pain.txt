@@ -1,0 +1,1 @@
+{"channel": "j__pain", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "English", "account_age": 2135520.0}

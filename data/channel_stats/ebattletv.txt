@@ -1,0 +1,1 @@
+{"channel": "ebattletv", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 567360.0}

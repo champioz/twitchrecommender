@@ -1,0 +1,1 @@
+{"channel": "anger_", "avg_viewers": 92, "followers_gained": 102, "peak_viewers": 507, "hours_streamed": 39, "streams": 4, "mature": 0, "language": "English", "account_age": 1134720.0}

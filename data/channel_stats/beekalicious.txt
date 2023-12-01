@@ -1,0 +1,1 @@
+{"channel": "beekalicious", "avg_viewers": 2, "followers_gained": 26, "peak_viewers": 55, "hours_streamed": 142, "streams": 40, "mature": 1, "language": "English", "account_age": 2306880.0}

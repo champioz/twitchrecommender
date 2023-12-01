@@ -1,0 +1,1 @@
+{"channel": "koogs46", "avg_viewers": 399, "followers_gained": 1382, "peak_viewers": 594, "hours_streamed": 23, "streams": 9, "mature": 0, "language": "English", "account_age": 3656160.0}

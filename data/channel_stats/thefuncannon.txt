@@ -1,0 +1,1 @@
+{"channel": "thefuncannon", "avg_viewers": 133, "followers_gained": 280, "peak_viewers": 547, "hours_streamed": 87, "streams": 18, "mature": 1, "language": "English", "account_age": 3738240.0}

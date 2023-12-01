@@ -1,0 +1,1 @@
+{"channel": "ultraarcade", "avg_viewers": 30, "followers_gained": 183, "peak_viewers": 266, "hours_streamed": 137, "streams": 41, "mature": 0, "language": "English", "account_age": 2966400.0}

@@ -1,0 +1,1 @@
+{"channel": "garfew_", "avg_viewers": 2, "followers_gained": 41, "peak_viewers": 11, "hours_streamed": 100, "streams": 25, "mature": 1, "language": "Thai", "account_age": 931680.0}

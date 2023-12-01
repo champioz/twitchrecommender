@@ -1,0 +1,1 @@
+{"channel": "hellboardyt", "avg_viewers": 11, "followers_gained": 9, "peak_viewers": 29, "hours_streamed": 7, "streams": 1, "mature": 0, "language": "Russian", "account_age": 2563200.0}

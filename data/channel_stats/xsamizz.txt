@@ -1,0 +1,1 @@
+{"channel": "xsamizz", "avg_viewers": 6, "followers_gained": 5, "peak_viewers": 21, "hours_streamed": 111, "streams": 26, "mature": 0, "language": "German", "account_age": 3905280.0}

@@ -1,0 +1,1 @@
+{"channel": "emma822522", "avg_viewers": 7, "followers_gained": 7, "peak_viewers": 21, "hours_streamed": 21, "streams": 13, "mature": 1, "language": "Chinese", "account_age": 1798560.0}

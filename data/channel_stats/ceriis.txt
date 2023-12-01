@@ -1,0 +1,1 @@
+{"channel": "ceriis", "avg_viewers": 8, "followers_gained": 22, "peak_viewers": 24, "hours_streamed": 11, "streams": 3, "mature": 1, "language": "English", "account_age": 897120.0}

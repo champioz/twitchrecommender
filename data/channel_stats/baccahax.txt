@@ -1,0 +1,1 @@
+{"channel": "baccahax", "avg_viewers": 21, "followers_gained": 809, "peak_viewers": 128, "hours_streamed": 60, "streams": 22, "mature": 0, "language": "Italian", "account_age": 1434240.0}

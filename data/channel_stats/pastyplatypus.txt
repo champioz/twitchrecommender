@@ -1,0 +1,1 @@
+{"channel": "pastyplatypus", "avg_viewers": 9, "followers_gained": 71, "peak_viewers": 122, "hours_streamed": 87, "streams": 25, "mature": 1, "language": "English", "account_age": 432000.0}

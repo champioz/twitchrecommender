@@ -1,0 +1,1 @@
+{"channel": "bigjawnz", "avg_viewers": 9, "followers_gained": 11, "peak_viewers": 21, "hours_streamed": 5, "streams": 7, "mature": 0, "language": "Norwegian", "account_age": 2283840.0}

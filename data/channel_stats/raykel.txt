@@ -1,0 +1,1 @@
+{"channel": "raykel", "avg_viewers": 40, "followers_gained": 41, "peak_viewers": 81, "hours_streamed": 76, "streams": 15, "mature": 1, "language": "English", "account_age": 2126880.0}

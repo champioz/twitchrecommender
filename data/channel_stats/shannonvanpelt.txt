@@ -1,0 +1,1 @@
+{"channel": "shannonvanpelt", "avg_viewers": 48, "followers_gained": 51, "peak_viewers": 134, "hours_streamed": 9, "streams": 2, "mature": 1, "language": "English", "account_age": 3896640.0}

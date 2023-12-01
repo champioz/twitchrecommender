@@ -1,0 +1,1 @@
+{"channel": "lappypoker", "avg_viewers": 28, "followers_gained": 7, "peak_viewers": 55, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 1553760.0}

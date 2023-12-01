@@ -1,0 +1,1 @@
+{"channel": "manulm80", "avg_viewers": 9, "followers_gained": 310, "peak_viewers": 17, "hours_streamed": 16, "streams": 5, "mature": 1, "language": "German", "account_age": 2358720.0}

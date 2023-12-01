@@ -1,0 +1,1 @@
+{"channel": "eclipia", "avg_viewers": 238, "followers_gained": 433, "peak_viewers": 505, "hours_streamed": 97, "streams": 22, "mature": 0, "language": "Korean", "account_age": 2486880.0}

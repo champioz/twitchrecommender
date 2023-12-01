@@ -1,0 +1,1 @@
+{"channel": "yukikooki", "avg_viewers": 4, "followers_gained": 13, "peak_viewers": 10, "hours_streamed": 21, "streams": 13, "mature": 1, "language": "French", "account_age": 2813760.0}

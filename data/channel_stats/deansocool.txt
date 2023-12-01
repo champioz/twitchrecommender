@@ -1,0 +1,1 @@
+{"channel": "deansocool", "avg_viewers": 14, "followers_gained": 6, "peak_viewers": 23, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 4088160.0}

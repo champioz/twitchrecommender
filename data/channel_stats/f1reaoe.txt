@@ -1,0 +1,1 @@
+{"channel": "f1reaoe", "avg_viewers": 79, "followers_gained": 462, "peak_viewers": 672, "hours_streamed": 126, "streams": 40, "mature": 1, "language": "English", "account_age": 4036320.0}

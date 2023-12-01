@@ -1,0 +1,1 @@
+{"channel": "meanseason", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 10, "hours_streamed": 51, "streams": 21, "mature": 0, "language": "English", "account_age": 3931200.0}

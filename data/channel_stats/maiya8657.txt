@@ -1,0 +1,1 @@
+{"channel": "maiya8657", "avg_viewers": 29, "followers_gained": 6, "peak_viewers": 59, "hours_streamed": 26, "streams": 10, "mature": 1, "language": "Chinese", "account_age": 3175200.0}

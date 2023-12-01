@@ -1,0 +1,1 @@
+{"channel": "orijanti", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 8, "hours_streamed": 11, "streams": 8, "mature": 0, "language": "Turkish", "account_age": 3384000.0}

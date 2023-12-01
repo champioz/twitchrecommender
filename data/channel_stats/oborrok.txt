@@ -1,0 +1,1 @@
+{"channel": "oborrok", "avg_viewers": 8, "followers_gained": 29, "peak_viewers": 37, "hours_streamed": 27, "streams": 21, "mature": 1, "language": "English", "account_age": 806400.0}

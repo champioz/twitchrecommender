@@ -1,0 +1,1 @@
+{"channel": "wiperhg", "avg_viewers": 15, "followers_gained": 232, "peak_viewers": 34, "hours_streamed": 108, "streams": 27, "mature": 1, "language": "Turkish", "account_age": 1023840.0}

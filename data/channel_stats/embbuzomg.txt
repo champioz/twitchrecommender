@@ -1,0 +1,1 @@
+{"channel": "embbuzomg", "avg_viewers": 29, "followers_gained": 20, "peak_viewers": 54, "hours_streamed": 16, "streams": 4, "mature": 1, "language": "English", "account_age": 3576960.0}

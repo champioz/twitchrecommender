@@ -1,0 +1,1 @@
+{"channel": "sanosake", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 12, "hours_streamed": 17, "streams": 9, "mature": 1, "language": "French", "account_age": 3294720.0}

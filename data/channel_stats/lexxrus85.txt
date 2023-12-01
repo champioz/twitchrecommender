@@ -1,0 +1,1 @@
+{"channel": "lexxrus85", "avg_viewers": 10, "followers_gained": 78, "peak_viewers": 46, "hours_streamed": 228, "streams": 33, "mature": 0, "language": "Russian", "account_age": 1046880.0}

@@ -1,0 +1,1 @@
+{"channel": "geotropian", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 14, "hours_streamed": 111, "streams": 25, "mature": 1, "language": "English", "account_age": 898560.0}

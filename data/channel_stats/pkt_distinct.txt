@@ -1,0 +1,1 @@
+{"channel": "pkt_distinct", "avg_viewers": 4, "followers_gained": 14, "peak_viewers": 27, "hours_streamed": 48, "streams": 21, "mature": 0, "language": "French", "account_age": 1274400.0}

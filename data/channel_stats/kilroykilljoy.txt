@@ -1,0 +1,1 @@
+{"channel": "kilroykilljoy", "avg_viewers": 13, "followers_gained": 60, "peak_viewers": 38, "hours_streamed": 103, "streams": 17, "mature": 0, "language": "English", "account_age": 4410720.0}

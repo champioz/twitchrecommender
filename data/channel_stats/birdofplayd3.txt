@@ -1,0 +1,1 @@
+{"channel": "birdofplayd3", "avg_viewers": 6, "followers_gained": 4, "peak_viewers": 12, "hours_streamed": 15, "streams": 4, "mature": 1, "language": "German", "account_age": 2360160.0}

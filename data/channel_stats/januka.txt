@@ -1,0 +1,1 @@
+{"channel": "januka", "avg_viewers": 11, "followers_gained": 20, "peak_viewers": 35, "hours_streamed": 14, "streams": 6, "mature": 1, "language": "English", "account_age": 2484000.0}

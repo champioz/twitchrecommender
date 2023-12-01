@@ -1,0 +1,1 @@
+{"channel": "s7735061", "avg_viewers": 441, "followers_gained": 252, "peak_viewers": 991, "hours_streamed": 30, "streams": 7, "mature": 0, "language": "Chinese", "account_age": 2777760.0}

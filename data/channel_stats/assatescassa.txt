@@ -1,0 +1,1 @@
+{"channel": "assatescassa", "avg_viewers": 42, "followers_gained": 673, "peak_viewers": 158, "hours_streamed": 24, "streams": 11, "mature": 0, "language": "Italian", "account_age": 645120.0}

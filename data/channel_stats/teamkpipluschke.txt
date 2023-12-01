@@ -1,0 +1,1 @@
+{"channel": "teamkpipluschke", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 6, "hours_streamed": 21, "streams": 7, "mature": 1, "language": "German", "account_age": 2501280.0}

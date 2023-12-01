@@ -1,0 +1,1 @@
+{"channel": "thefranchiselive", "avg_viewers": 24, "followers_gained": 67, "peak_viewers": 88, "hours_streamed": 360, "streams": 40, "mature": 0, "language": "English", "account_age": 637920.0}

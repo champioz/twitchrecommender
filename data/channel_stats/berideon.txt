@@ -1,0 +1,1 @@
+{"channel": "berideon", "avg_viewers": 0, "followers_gained": 9, "peak_viewers": 5, "hours_streamed": 38, "streams": 19, "mature": 0, "language": "Spanish", "account_age": 253440.0}

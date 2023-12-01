@@ -1,0 +1,1 @@
+{"channel": "kjhusson", "avg_viewers": 7, "followers_gained": 20, "peak_viewers": 20, "hours_streamed": 40, "streams": 12, "mature": 1, "language": "English", "account_age": 1411200.0}

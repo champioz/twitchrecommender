@@ -1,0 +1,1 @@
+{"channel": "angrysebbe", "avg_viewers": 10, "followers_gained": 66, "peak_viewers": 28, "hours_streamed": 44, "streams": 11, "mature": 0, "language": "Polish", "account_age": 3189600.0}

@@ -1,0 +1,1 @@
+{"channel": "velcra", "avg_viewers": 283, "followers_gained": 238, "peak_viewers": 432, "hours_streamed": 15, "streams": 4, "mature": 0, "language": "Japanese", "account_age": 3149280.0}

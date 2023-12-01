@@ -1,0 +1,1 @@
+{"channel": "tenzenator", "avg_viewers": 2, "followers_gained": 28, "peak_viewers": 13, "hours_streamed": 160, "streams": 20, "mature": 1, "language": "Slovak", "account_age": 4098240.0}

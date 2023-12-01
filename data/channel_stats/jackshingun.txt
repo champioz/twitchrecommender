@@ -1,0 +1,1 @@
+{"channel": "jackshingun", "avg_viewers": 20, "followers_gained": 724, "peak_viewers": 52, "hours_streamed": 191, "streams": 34, "mature": 1, "language": "Spanish", "account_age": 640800.0}

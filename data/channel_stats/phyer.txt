@@ -1,0 +1,1 @@
+{"channel": "phyer", "avg_viewers": 11, "followers_gained": 40, "peak_viewers": 25, "hours_streamed": 45, "streams": 26, "mature": 0, "language": "English", "account_age": 1458720.0}

@@ -1,0 +1,1 @@
+{"channel": "lightningzet", "avg_viewers": 0, "followers_gained": 22, "peak_viewers": 6, "hours_streamed": 154, "streams": 41, "mature": 1, "language": "Spanish", "account_age": 1684800.0}

@@ -1,0 +1,1 @@
+{"channel": "officialpixelade", "avg_viewers": 97, "followers_gained": 1028, "peak_viewers": 194, "hours_streamed": 63, "streams": 20, "mature": 1, "language": "English", "account_age": 1128960.0}

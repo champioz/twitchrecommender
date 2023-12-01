@@ -1,0 +1,1 @@
+{"channel": "angkorkor", "avg_viewers": 12, "followers_gained": 19, "peak_viewers": 35, "hours_streamed": 183, "streams": 31, "mature": 0, "language": "Korean", "account_age": 1499040.0}

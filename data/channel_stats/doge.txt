@@ -1,0 +1,1 @@
+{"channel": "doge", "avg_viewers": 108, "followers_gained": 270, "peak_viewers": 242, "hours_streamed": 267, "streams": 46, "mature": 1, "language": "English", "account_age": 3093120.0}

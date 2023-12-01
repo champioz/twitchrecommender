@@ -1,0 +1,1 @@
+{"channel": "shanncanyounot", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 18, "hours_streamed": 37, "streams": 10, "mature": 1, "language": "English", "account_age": 2416320.0}

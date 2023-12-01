@@ -1,0 +1,1 @@
+{"channel": "calmydota", "avg_viewers": 75, "followers_gained": 304, "peak_viewers": 233, "hours_streamed": 75, "streams": 18, "mature": 0, "language": "Turkish", "account_age": 3221280.0}

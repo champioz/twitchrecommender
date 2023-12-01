@@ -1,0 +1,1 @@
+{"channel": "overlordcalona", "avg_viewers": 23, "followers_gained": 153, "peak_viewers": 152, "hours_streamed": 160, "streams": 31, "mature": 0, "language": "Russian", "account_age": 2612160.0}

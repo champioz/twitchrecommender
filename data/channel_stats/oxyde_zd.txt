@@ -1,0 +1,1 @@
+{"channel": "oxyde_zd", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 8, "streams": 3, "mature": 1, "language": "French", "account_age": 2367360.0}

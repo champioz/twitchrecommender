@@ -1,0 +1,1 @@
+{"channel": "aaronescloudtt", "avg_viewers": 4, "followers_gained": 22, "peak_viewers": 18, "hours_streamed": 47, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 168480.0}

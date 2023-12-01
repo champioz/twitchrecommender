@@ -1,0 +1,1 @@
+{"channel": "klyder", "avg_viewers": 10, "followers_gained": 38, "peak_viewers": 23, "hours_streamed": 40, "streams": 15, "mature": 1, "language": "Spanish", "account_age": 1131840.0}

@@ -1,0 +1,1 @@
+{"channel": "adumplaze", "avg_viewers": 78, "followers_gained": 251, "peak_viewers": 237, "hours_streamed": 78, "streams": 14, "mature": 0, "language": "English", "account_age": 2962080.0}

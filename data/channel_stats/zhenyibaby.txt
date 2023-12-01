@@ -1,0 +1,1 @@
+{"channel": "zhenyibaby", "avg_viewers": 346, "followers_gained": 1311, "peak_viewers": 553, "hours_streamed": 20, "streams": 6, "mature": 0, "language": "Chinese", "account_age": 2291040.0}

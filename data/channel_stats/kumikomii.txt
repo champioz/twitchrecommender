@@ -1,0 +1,1 @@
+{"channel": "kumikomii", "avg_viewers": 1140, "followers_gained": 5734, "peak_viewers": 3418, "hours_streamed": 167, "streams": 32, "mature": 0, "language": "Korean", "account_age": 2288160.0}

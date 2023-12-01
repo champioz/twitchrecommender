@@ -1,0 +1,1 @@
+{"channel": "voolchara", "avg_viewers": 10, "followers_gained": 77, "peak_viewers": 33, "hours_streamed": 74, "streams": 22, "mature": 1, "language": "Ukrainian", "account_age": 1591200.0}

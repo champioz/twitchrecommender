@@ -1,0 +1,1 @@
+{"channel": "misakitv_", "avg_viewers": 21, "followers_gained": 196, "peak_viewers": 72, "hours_streamed": 58, "streams": 16, "mature": 0, "language": "Italian", "account_age": 1959840.0}

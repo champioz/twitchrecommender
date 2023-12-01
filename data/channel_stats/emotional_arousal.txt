@@ -1,0 +1,1 @@
+{"channel": "emotional_arousal", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "Japanese", "account_age": 1716480.0}

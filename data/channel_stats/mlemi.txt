@@ -1,0 +1,1 @@
+{"channel": "mlemi", "avg_viewers": 3, "followers_gained": 22, "peak_viewers": 74, "hours_streamed": 90, "streams": 31, "mature": 0, "language": "Czech", "account_age": 3277440.0}

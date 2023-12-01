@@ -1,0 +1,1 @@
+{"channel": "tasty_steve", "avg_viewers": 128, "followers_gained": 616, "peak_viewers": 948, "hours_streamed": 20, "streams": 8, "mature": 0, "language": "English", "account_age": 2570400.0}

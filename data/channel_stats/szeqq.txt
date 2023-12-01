@@ -1,0 +1,1 @@
+{"channel": "szeqq", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 9, "streams": 7, "mature": 0, "language": "Polish", "account_age": 878400.0}

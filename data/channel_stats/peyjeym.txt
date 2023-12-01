@@ -1,0 +1,1 @@
+{"channel": "peyjeym", "avg_viewers": 41, "followers_gained": 111, "peak_viewers": 250, "hours_streamed": 53, "streams": 14, "mature": 0, "language": "French", "account_age": 3166560.0}

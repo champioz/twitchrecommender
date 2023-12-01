@@ -1,0 +1,1 @@
+{"channel": "mrfrumps", "avg_viewers": 14, "followers_gained": 92, "peak_viewers": 43, "hours_streamed": 115, "streams": 24, "mature": 1, "language": "English", "account_age": 2616480.0}

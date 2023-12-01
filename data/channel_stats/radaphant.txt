@@ -1,0 +1,1 @@
+{"channel": "radaphant", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 1, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 724320.0}

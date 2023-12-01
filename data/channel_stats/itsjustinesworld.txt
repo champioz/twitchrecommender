@@ -1,0 +1,1 @@
+{"channel": "itsjustinesworld", "avg_viewers": 6, "followers_gained": 160, "peak_viewers": 54, "hours_streamed": 72, "streams": 25, "mature": 0, "language": "English", "account_age": 264960.0}

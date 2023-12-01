@@ -1,0 +1,1 @@
+{"channel": "tanisb", "avg_viewers": 11, "followers_gained": 18, "peak_viewers": 33, "hours_streamed": 76, "streams": 24, "mature": 1, "language": "German", "account_age": 3104640.0}

@@ -1,0 +1,1 @@
+{"channel": "game2eye", "avg_viewers": 1586, "followers_gained": 227, "peak_viewers": 2589, "hours_streamed": 87, "streams": 19, "mature": 0, "language": "Korean", "account_age": 2482560.0}

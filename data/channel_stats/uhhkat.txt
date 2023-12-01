@@ -1,0 +1,1 @@
+{"channel": "uhhkat", "avg_viewers": 7, "followers_gained": 59, "peak_viewers": 241, "hours_streamed": 42, "streams": 16, "mature": 1, "language": "English", "account_age": 2268000.0}

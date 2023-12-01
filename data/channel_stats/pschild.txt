@@ -1,0 +1,1 @@
+{"channel": "pschild", "avg_viewers": 25, "followers_gained": 63, "peak_viewers": 70, "hours_streamed": 23, "streams": 6, "mature": 1, "language": "Spanish", "account_age": 1599840.0}

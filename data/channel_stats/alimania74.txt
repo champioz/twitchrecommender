@@ -1,0 +1,1 @@
+{"channel": "alimania74", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 55, "hours_streamed": 29, "streams": 8, "mature": 1, "language": "German", "account_age": 1977120.0}

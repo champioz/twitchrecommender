@@ -1,0 +1,1 @@
+{"channel": "eddanielthemoonkin", "avg_viewers": 50, "followers_gained": 138, "peak_viewers": 116, "hours_streamed": 131, "streams": 23, "mature": 0, "language": "Russian", "account_age": 1837440.0}

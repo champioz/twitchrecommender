@@ -1,0 +1,1 @@
+{"channel": "metalmeetsgaming", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 16, "hours_streamed": 23, "streams": 6, "mature": 1, "language": "German", "account_age": 1085760.0}

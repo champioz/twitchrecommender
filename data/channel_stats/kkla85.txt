@@ -1,0 +1,1 @@
+{"channel": "kkla85", "avg_viewers": 12, "followers_gained": 7, "peak_viewers": 50, "hours_streamed": 229, "streams": 37, "mature": 1, "language": "Korean", "account_age": 3009600.0}

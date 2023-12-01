@@ -1,0 +1,1 @@
+{"channel": "pausenhoflegende_ttv", "avg_viewers": 3, "followers_gained": 15, "peak_viewers": 13, "hours_streamed": 21, "streams": 7, "mature": 0, "language": "German", "account_age": 557280.0}

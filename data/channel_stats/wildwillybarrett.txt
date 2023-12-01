@@ -1,0 +1,1 @@
+{"channel": "wildwillybarrett", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 16, "hours_streamed": 4, "streams": 5, "mature": 0, "language": "English", "account_age": 168480.0}

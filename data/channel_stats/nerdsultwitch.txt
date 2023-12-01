@@ -1,0 +1,1 @@
+{"channel": "nerdsultwitch", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 24, "hours_streamed": 32, "streams": 19, "mature": 0, "language": "Italian", "account_age": 730080.0}

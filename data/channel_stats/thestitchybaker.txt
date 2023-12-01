@@ -1,0 +1,1 @@
+{"channel": "thestitchybaker", "avg_viewers": 11, "followers_gained": 29, "peak_viewers": 32, "hours_streamed": 17, "streams": 11, "mature": 1, "language": "English", "account_age": 809280.0}

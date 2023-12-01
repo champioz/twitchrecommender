@@ -1,0 +1,1 @@
+{"channel": "thesaucedr", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 10, "hours_streamed": 56, "streams": 19, "mature": 1, "language": "English", "account_age": 653760.0}

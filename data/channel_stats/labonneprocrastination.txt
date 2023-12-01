@@ -1,0 +1,1 @@
+{"channel": "labonneprocrastination", "avg_viewers": 17, "followers_gained": 1049, "peak_viewers": 202, "hours_streamed": 172, "streams": 32, "mature": 0, "language": "French", "account_age": 188640.0}

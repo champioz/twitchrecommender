@@ -1,0 +1,1 @@
+{"channel": "zalanrithnovszky", "avg_viewers": 492, "followers_gained": 4256, "peak_viewers": 1504, "hours_streamed": 207, "streams": 42, "mature": 1, "language": "Hungarian", "account_age": 1039680.0}

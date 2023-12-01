@@ -1,0 +1,1 @@
+{"channel": "mikestan", "avg_viewers": 23, "followers_gained": 67, "peak_viewers": 47, "hours_streamed": 75, "streams": 18, "mature": 0, "language": "English", "account_age": 3028320.0}

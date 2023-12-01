@@ -1,0 +1,1 @@
+{"channel": "slimshadiibdo", "avg_viewers": 71, "followers_gained": 324, "peak_viewers": 274, "hours_streamed": 101, "streams": 23, "mature": 0, "language": "English", "account_age": 1054080.0}

@@ -1,0 +1,1 @@
+{"channel": "immortalkk", "avg_viewers": 82, "followers_gained": 265, "peak_viewers": 150, "hours_streamed": 175, "streams": 22, "mature": 0, "language": "Korean", "account_age": 1147680.0}

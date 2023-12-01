@@ -1,0 +1,1 @@
+{"channel": "yarodomo", "avg_viewers": 28, "followers_gained": 105, "peak_viewers": 89, "hours_streamed": 83, "streams": 24, "mature": 1, "language": "English", "account_age": 1745280.0}

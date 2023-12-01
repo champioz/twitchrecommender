@@ -1,0 +1,1 @@
+{"channel": "lordkingcai", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 2, "hours_streamed": 7, "streams": 5, "mature": 0, "language": "English", "account_age": 964800.0}

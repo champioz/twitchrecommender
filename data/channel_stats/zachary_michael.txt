@@ -1,0 +1,1 @@
+{"channel": "zachary_michael", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 5, "hours_streamed": 13, "streams": 15, "mature": 0, "language": "English", "account_age": 112320.0}

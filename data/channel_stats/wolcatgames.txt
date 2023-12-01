@@ -1,0 +1,1 @@
+{"channel": "wolcatgames", "avg_viewers": 44, "followers_gained": 36, "peak_viewers": 178, "hours_streamed": 220, "streams": 44, "mature": 0, "language": "Italian", "account_age": 2485440.0}

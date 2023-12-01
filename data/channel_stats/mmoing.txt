@@ -1,0 +1,1 @@
+{"channel": "mmoing", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 7, "hours_streamed": 48, "streams": 21, "mature": 1, "language": "English", "account_age": 2404800.0}

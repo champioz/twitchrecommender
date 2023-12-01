@@ -1,0 +1,1 @@
+{"channel": "renanbarros", "avg_viewers": 12, "followers_gained": 497, "peak_viewers": 42, "hours_streamed": 108, "streams": 22, "mature": 0, "language": "Portuguese", "account_age": 709920.0}

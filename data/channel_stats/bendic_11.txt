@@ -1,0 +1,1 @@
+{"channel": "bendic_11", "avg_viewers": 34, "followers_gained": 189, "peak_viewers": 139, "hours_streamed": 49, "streams": 15, "mature": 0, "language": "Czech", "account_age": 2473920.0}

@@ -1,0 +1,1 @@
+{"channel": "roadranner", "avg_viewers": 0, "followers_gained": 20, "peak_viewers": 3, "hours_streamed": 61, "streams": 23, "mature": 0, "language": "German", "account_age": 2689920.0}

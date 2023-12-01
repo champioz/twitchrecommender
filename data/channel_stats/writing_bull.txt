@@ -1,0 +1,1 @@
+{"channel": "writing_bull", "avg_viewers": 151, "followers_gained": 535, "peak_viewers": 388, "hours_streamed": 59, "streams": 15, "mature": 1, "language": "German", "account_age": 3204000.0}

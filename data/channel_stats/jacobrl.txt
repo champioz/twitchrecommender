@@ -1,0 +1,1 @@
+{"channel": "jacobrl", "avg_viewers": 230, "followers_gained": 324, "peak_viewers": 563, "hours_streamed": 22, "streams": 7, "mature": 0, "language": "English", "account_age": 4727520.0}

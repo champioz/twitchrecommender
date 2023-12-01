@@ -1,0 +1,1 @@
+{"channel": "clutchcodie", "avg_viewers": 3, "followers_gained": 11, "peak_viewers": 19, "hours_streamed": 13, "streams": 12, "mature": 0, "language": "English", "account_age": 1212480.0}

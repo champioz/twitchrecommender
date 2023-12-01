@@ -1,0 +1,1 @@
+{"channel": "sailor_southharbor", "avg_viewers": 3, "followers_gained": 26, "peak_viewers": 18, "hours_streamed": 60, "streams": 32, "mature": 1, "language": "Swedish", "account_age": 2063520.0}

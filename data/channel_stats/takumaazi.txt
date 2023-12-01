@@ -1,0 +1,1 @@
+{"channel": "takumaazi", "avg_viewers": 8, "followers_gained": 2, "peak_viewers": 19, "hours_streamed": 47, "streams": 22, "mature": 0, "language": "Japanese", "account_age": 1075680.0}

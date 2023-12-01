@@ -1,0 +1,1 @@
+{"channel": "matthewgrizzly", "avg_viewers": 19, "followers_gained": 108, "peak_viewers": 111, "hours_streamed": 259, "streams": 32, "mature": 0, "language": "English", "account_age": 2917440.0}

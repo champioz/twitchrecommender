@@ -1,0 +1,1 @@
+{"channel": "spac3crafter", "avg_viewers": 6, "followers_gained": 19, "peak_viewers": 27, "hours_streamed": 67, "streams": 21, "mature": 1, "language": "Russian", "account_age": 577440.0}

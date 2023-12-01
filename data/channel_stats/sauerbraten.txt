@@ -1,0 +1,1 @@
+{"channel": "sauerbraten", "avg_viewers": 12, "followers_gained": 23, "peak_viewers": 46, "hours_streamed": 35, "streams": 10, "mature": 1, "language": "German", "account_age": 1255680.0}

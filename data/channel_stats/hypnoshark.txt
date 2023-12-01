@@ -1,0 +1,1 @@
+{"channel": "hypnoshark", "avg_viewers": 158, "followers_gained": 883, "peak_viewers": 389, "hours_streamed": 115, "streams": 32, "mature": 0, "language": "English", "account_age": 3582720.0}

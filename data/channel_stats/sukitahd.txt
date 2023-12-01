@@ -1,0 +1,1 @@
+{"channel": "sukitahd", "avg_viewers": 6, "followers_gained": 27, "peak_viewers": 20, "hours_streamed": 44, "streams": 14, "mature": 1, "language": "German", "account_age": 1428480.0}

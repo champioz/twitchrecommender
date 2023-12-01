@@ -1,0 +1,1 @@
+{"channel": "dove_7", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 57, "hours_streamed": 78, "streams": 18, "mature": 0, "language": "English", "account_age": 1755360.0}

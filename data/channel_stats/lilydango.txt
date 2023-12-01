@@ -1,0 +1,1 @@
+{"channel": "lilydango", "avg_viewers": 11, "followers_gained": 14, "peak_viewers": 56, "hours_streamed": 23, "streams": 11, "mature": 0, "language": "English", "account_age": 4803840.0}

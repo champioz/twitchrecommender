@@ -1,0 +1,1 @@
+{"channel": "taoreegar", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 8, "hours_streamed": 32, "streams": 15, "mature": 1, "language": "English", "account_age": 2301120.0}

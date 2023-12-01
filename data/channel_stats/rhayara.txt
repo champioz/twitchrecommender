@@ -1,0 +1,1 @@
+{"channel": "rhayara", "avg_viewers": 44, "followers_gained": 280, "peak_viewers": 136, "hours_streamed": 53, "streams": 18, "mature": 1, "language": "English", "account_age": 1638720.0}

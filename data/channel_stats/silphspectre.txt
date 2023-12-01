@@ -1,0 +1,1 @@
+{"channel": "silphspectre", "avg_viewers": 25, "followers_gained": 143, "peak_viewers": 179, "hours_streamed": 35, "streams": 14, "mature": 0, "language": "English", "account_age": 2705760.0}

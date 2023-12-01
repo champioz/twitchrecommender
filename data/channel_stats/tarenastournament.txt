@@ -1,0 +1,1 @@
+{"channel": "tarenastournament", "avg_viewers": 29, "followers_gained": 180, "peak_viewers": 75, "hours_streamed": 18, "streams": 6, "mature": 0, "language": "Portuguese", "account_age": 208800.0}

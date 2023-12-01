@@ -1,0 +1,1 @@
+{"channel": "febbydoto", "avg_viewers": 367, "followers_gained": 2053, "peak_viewers": 4773, "hours_streamed": 141, "streams": 17, "mature": 1, "language": "English", "account_age": 2270880.0}

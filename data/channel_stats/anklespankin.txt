@@ -1,0 +1,1 @@
+{"channel": "anklespankin", "avg_viewers": 354, "followers_gained": 382, "peak_viewers": 619, "hours_streamed": 89, "streams": 22, "mature": 0, "language": "English", "account_age": 4001760.0}

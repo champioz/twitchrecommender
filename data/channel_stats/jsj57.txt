@@ -1,0 +1,1 @@
+{"channel": "jsj57", "avg_viewers": 9, "followers_gained": 6, "peak_viewers": 20, "hours_streamed": 12, "streams": 13, "mature": 0, "language": "Korean", "account_age": 534240.0}

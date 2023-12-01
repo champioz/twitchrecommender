@@ -1,0 +1,1 @@
+{"channel": "sirshishkebab", "avg_viewers": 95, "followers_gained": 273, "peak_viewers": 181, "hours_streamed": 139, "streams": 25, "mature": 0, "language": "English", "account_age": 194400.0}

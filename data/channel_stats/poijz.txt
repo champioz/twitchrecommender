@@ -1,0 +1,1 @@
+{"channel": "poijz", "avg_viewers": 25, "followers_gained": 192, "peak_viewers": 60, "hours_streamed": 75, "streams": 28, "mature": 0, "language": "English", "account_age": 2237760.0}

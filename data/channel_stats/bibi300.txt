@@ -1,0 +1,1 @@
+{"channel": "bibi300", "avg_viewers": 94, "followers_gained": 156, "peak_viewers": 214, "hours_streamed": 31, "streams": 10, "mature": 0, "language": "French", "account_age": 5427360.0}

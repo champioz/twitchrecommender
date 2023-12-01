@@ -1,0 +1,1 @@
+{"channel": "doloresrodrigues", "avg_viewers": 15, "followers_gained": 265, "peak_viewers": 62, "hours_streamed": 104, "streams": 30, "mature": 0, "language": "Portuguese", "account_age": 347040.0}

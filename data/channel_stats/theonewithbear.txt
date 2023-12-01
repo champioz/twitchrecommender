@@ -1,0 +1,1 @@
+{"channel": "theonewithbear", "avg_viewers": 52, "followers_gained": 52, "peak_viewers": 140, "hours_streamed": 46, "streams": 10, "mature": 0, "language": "English", "account_age": 2100960.0}

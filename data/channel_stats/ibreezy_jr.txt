@@ -1,0 +1,1 @@
+{"channel": "ibreezy_jr", "avg_viewers": 2, "followers_gained": 23, "peak_viewers": 11, "hours_streamed": 178, "streams": 38, "mature": 0, "language": "German", "account_age": 577440.0}

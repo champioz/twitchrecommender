@@ -1,0 +1,1 @@
+{"channel": "alinchen_techno", "avg_viewers": 79, "followers_gained": 331, "peak_viewers": 476, "hours_streamed": 113, "streams": 30, "mature": 1, "language": "German", "account_age": 1820160.0}

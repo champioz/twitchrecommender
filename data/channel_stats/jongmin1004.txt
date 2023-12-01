@@ -1,0 +1,1 @@
+{"channel": "jongmin1004", "avg_viewers": 12, "followers_gained": 262, "peak_viewers": 76, "hours_streamed": 128, "streams": 53, "mature": 0, "language": "Korean", "account_age": 1035360.0}

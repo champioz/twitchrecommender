@@ -1,0 +1,1 @@
+{"channel": "inickyy", "avg_viewers": 6, "followers_gained": 117, "peak_viewers": 25, "hours_streamed": 131, "streams": 31, "mature": 1, "language": "Finnish", "account_age": 931680.0}

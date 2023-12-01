@@ -1,0 +1,1 @@
+{"channel": "xmisfitx", "avg_viewers": 13, "followers_gained": 51, "peak_viewers": 53, "hours_streamed": 39, "streams": 11, "mature": 1, "language": "English", "account_age": 766080.0}

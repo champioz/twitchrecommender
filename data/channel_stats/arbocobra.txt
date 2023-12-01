@@ -1,0 +1,1 @@
+{"channel": "arbocobra", "avg_viewers": 42, "followers_gained": 48, "peak_viewers": 74, "hours_streamed": 10, "streams": 2, "mature": 1, "language": "German", "account_age": 2894400.0}

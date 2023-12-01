@@ -1,0 +1,1 @@
+{"channel": "spoonpai", "avg_viewers": 221, "followers_gained": 18, "peak_viewers": 300, "hours_streamed": 10, "streams": 1, "mature": 0, "language": "German", "account_age": 2040480.0}

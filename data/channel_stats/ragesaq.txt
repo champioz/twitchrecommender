@@ -1,0 +1,1 @@
+{"channel": "ragesaq", "avg_viewers": 272, "followers_gained": 978, "peak_viewers": 11622, "hours_streamed": 74, "streams": 32, "mature": 0, "language": "English", "account_age": 2535840.0}

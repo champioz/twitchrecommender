@@ -1,0 +1,1 @@
+{"channel": "myasnayazabava", "avg_viewers": 20, "followers_gained": 121, "peak_viewers": 76, "hours_streamed": 110, "streams": 25, "mature": 1, "language": "Russian", "account_age": 1886400.0}

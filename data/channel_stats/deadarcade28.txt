@@ -1,0 +1,1 @@
+{"channel": "deadarcade28", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "French", "account_age": 3157920.0}

@@ -1,0 +1,1 @@
+{"channel": "rizarn1", "avg_viewers": 63, "followers_gained": 1144, "peak_viewers": 256, "hours_streamed": 352, "streams": 39, "mature": 0, "language": "German", "account_age": 3506400.0}

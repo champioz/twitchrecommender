@@ -1,0 +1,1 @@
+{"channel": "stripedsweaterlive", "avg_viewers": 14, "followers_gained": 170, "peak_viewers": 51, "hours_streamed": 96, "streams": 14, "mature": 0, "language": "English", "account_age": 3182400.0}

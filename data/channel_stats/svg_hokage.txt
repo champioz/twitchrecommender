@@ -1,0 +1,1 @@
+{"channel": "svg_hokage", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 4, "hours_streamed": 32, "streams": 7, "mature": 1, "language": "English", "account_age": 4021920.0}

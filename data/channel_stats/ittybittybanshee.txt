@@ -1,0 +1,1 @@
+{"channel": "ittybittybanshee", "avg_viewers": 12, "followers_gained": 68, "peak_viewers": 27, "hours_streamed": 65, "streams": 17, "mature": 0, "language": "English", "account_age": 1131840.0}

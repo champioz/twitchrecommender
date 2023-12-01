@@ -1,0 +1,1 @@
+{"channel": "apowerproductions", "avg_viewers": 8, "followers_gained": 3, "peak_viewers": 22, "hours_streamed": 72, "streams": 25, "mature": 0, "language": "English", "account_age": 1408320.0}

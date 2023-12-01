@@ -1,0 +1,1 @@
+{"channel": "thedarktongo", "avg_viewers": 1, "followers_gained": 34, "peak_viewers": 6, "hours_streamed": 31, "streams": 10, "mature": 0, "language": "English", "account_age": 3961440.0}

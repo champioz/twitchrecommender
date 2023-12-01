@@ -1,0 +1,1 @@
+{"channel": "ruslanponomariov", "avg_viewers": 41, "followers_gained": 108, "peak_viewers": 136, "hours_streamed": 26, "streams": 12, "mature": 1, "language": "English", "account_age": 635040.0}

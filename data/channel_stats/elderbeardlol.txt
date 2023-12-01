@@ -1,0 +1,1 @@
+{"channel": "elderbeardlol", "avg_viewers": 7, "followers_gained": 24, "peak_viewers": 15, "hours_streamed": 31, "streams": 7, "mature": 1, "language": "Portuguese", "account_age": 1347840.0}

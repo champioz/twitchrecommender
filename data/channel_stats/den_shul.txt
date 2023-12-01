@@ -1,0 +1,1 @@
+{"channel": "den_shul", "avg_viewers": 16, "followers_gained": 128, "peak_viewers": 40, "hours_streamed": 66, "streams": 13, "mature": 0, "language": "Russian", "account_age": 2456640.0}

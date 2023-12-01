@@ -1,0 +1,1 @@
+{"channel": "arennthia", "avg_viewers": 28, "followers_gained": 163, "peak_viewers": 139, "hours_streamed": 128, "streams": 29, "mature": 1, "language": "Czech", "account_age": 640800.0}

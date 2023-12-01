@@ -1,0 +1,1 @@
+{"channel": "loafymolasses", "avg_viewers": 19, "followers_gained": 79, "peak_viewers": 49, "hours_streamed": 172, "streams": 26, "mature": 1, "language": "English", "account_age": 2638080.0}

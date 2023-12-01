@@ -1,0 +1,1 @@
+{"channel": "lomelinde", "avg_viewers": 33, "followers_gained": 21, "peak_viewers": 115, "hours_streamed": 30, "streams": 8, "mature": 1, "language": "French", "account_age": 3204000.0}

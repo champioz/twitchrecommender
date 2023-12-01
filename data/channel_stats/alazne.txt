@@ -1,0 +1,1 @@
+{"channel": "alazne", "avg_viewers": 80, "followers_gained": 3997, "peak_viewers": 207, "hours_streamed": 92, "streams": 31, "mature": 0, "language": "Spanish", "account_age": 862560.0}

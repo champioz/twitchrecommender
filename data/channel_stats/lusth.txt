@@ -1,0 +1,1 @@
+{"channel": "lusth", "avg_viewers": 64, "followers_gained": 35, "peak_viewers": 143, "hours_streamed": 58, "streams": 10, "mature": 1, "language": "French", "account_age": 2465280.0}

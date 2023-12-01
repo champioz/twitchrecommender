@@ -1,0 +1,1 @@
+{"channel": "slots4fun777", "avg_viewers": 31, "followers_gained": 131, "peak_viewers": 373, "hours_streamed": 39, "streams": 10, "mature": 1, "language": "English", "account_age": 282240.0}

@@ -1,0 +1,1 @@
+{"channel": "jassy666", "avg_viewers": 136, "followers_gained": 75, "peak_viewers": 397, "hours_streamed": 45, "streams": 14, "mature": 0, "language": "German", "account_age": 4891680.0}

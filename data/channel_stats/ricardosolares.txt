@@ -1,0 +1,1 @@
+{"channel": "ricardosolares", "avg_viewers": 5, "followers_gained": 143, "peak_viewers": 28, "hours_streamed": 99, "streams": 39, "mature": 0, "language": "Portuguese", "account_age": 1504800.0}

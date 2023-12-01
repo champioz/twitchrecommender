@@ -1,0 +1,1 @@
+{"channel": "friiyo", "avg_viewers": 130, "followers_gained": 48, "peak_viewers": 204, "hours_streamed": 22, "streams": 5, "mature": 0, "language": "German", "account_age": 2436480.0}

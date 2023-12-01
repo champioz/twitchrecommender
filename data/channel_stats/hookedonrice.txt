@@ -1,0 +1,1 @@
+{"channel": "hookedonrice", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 3, "hours_streamed": 56, "streams": 12, "mature": 1, "language": "English", "account_age": 4160160.0}

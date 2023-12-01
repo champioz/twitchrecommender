@@ -1,0 +1,1 @@
+{"channel": "maarqz", "avg_viewers": 4, "followers_gained": 50, "peak_viewers": 19, "hours_streamed": 134, "streams": 25, "mature": 0, "language": "Portuguese", "account_age": 1290240.0}

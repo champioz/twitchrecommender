@@ -1,0 +1,1 @@
+{"channel": "mappytv", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "French", "account_age": 2040480.0}

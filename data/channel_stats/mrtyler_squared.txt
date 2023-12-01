@@ -1,0 +1,1 @@
+{"channel": "mrtyler_squared", "avg_viewers": 5, "followers_gained": 8, "peak_viewers": 11, "hours_streamed": 17, "streams": 6, "mature": 0, "language": "English", "account_age": 2325600.0}

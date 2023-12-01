@@ -1,0 +1,1 @@
+{"channel": "peterlive", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 28, "streams": 18, "mature": 0, "language": "Slovak", "account_age": 1560960.0}

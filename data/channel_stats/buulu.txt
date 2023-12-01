@@ -1,0 +1,1 @@
+{"channel": "buulu", "avg_viewers": 13, "followers_gained": 96, "peak_viewers": 105, "hours_streamed": 182, "streams": 25, "mature": 1, "language": "Finnish", "account_age": 2357280.0}

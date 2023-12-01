@@ -1,0 +1,1 @@
+{"channel": "taketv", "avg_viewers": 734, "followers_gained": 210, "peak_viewers": 15823, "hours_streamed": 121, "streams": 34, "mature": 1, "language": "German", "account_age": 3814560.0}

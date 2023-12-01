@@ -1,0 +1,1 @@
+{"channel": "hade_gute", "avg_viewers": 23, "followers_gained": 9, "peak_viewers": 62, "hours_streamed": 95, "streams": 37, "mature": 0, "language": "Japanese", "account_age": 1300320.0}

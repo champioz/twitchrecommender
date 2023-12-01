@@ -1,0 +1,1 @@
+{"channel": "studioj7", "avg_viewers": 54, "followers_gained": 188, "peak_viewers": 167, "hours_streamed": 70, "streams": 18, "mature": 0, "language": "English", "account_age": 1162080.0}

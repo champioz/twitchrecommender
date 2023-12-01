@@ -1,0 +1,1 @@
+{"channel": "backhan1218", "avg_viewers": 39, "followers_gained": 55, "peak_viewers": 108, "hours_streamed": 98, "streams": 35, "mature": 0, "language": "Korean", "account_age": 1418400.0}

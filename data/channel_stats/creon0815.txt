@@ -1,0 +1,1 @@
+{"channel": "creon0815", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 17, "hours_streamed": 47, "streams": 19, "mature": 1, "language": "German", "account_age": 2450880.0}

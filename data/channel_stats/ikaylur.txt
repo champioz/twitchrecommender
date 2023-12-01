@@ -1,0 +1,1 @@
+{"channel": "ikaylur", "avg_viewers": 16, "followers_gained": 70, "peak_viewers": 30, "hours_streamed": 17, "streams": 7, "mature": 0, "language": "English", "account_age": 1618560.0}

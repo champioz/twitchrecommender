@@ -1,0 +1,1 @@
+{"channel": "xzanzo", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 2, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Italian", "account_age": 691200.0}

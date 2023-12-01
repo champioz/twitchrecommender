@@ -1,0 +1,1 @@
+{"channel": "juanitoale7", "avg_viewers": 22, "followers_gained": 462, "peak_viewers": 271, "hours_streamed": 118, "streams": 28, "mature": 0, "language": "Spanish", "account_age": 1985760.0}

@@ -1,0 +1,1 @@
+{"channel": "hitfrost", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 11, "hours_streamed": 5, "streams": 4, "mature": 1, "language": "Portuguese", "account_age": 2576160.0}

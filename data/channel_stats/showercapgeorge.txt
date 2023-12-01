@@ -1,0 +1,1 @@
+{"channel": "showercapgeorge", "avg_viewers": 7, "followers_gained": 43, "peak_viewers": 34, "hours_streamed": 80, "streams": 49, "mature": 0, "language": "English", "account_age": 1657440.0}

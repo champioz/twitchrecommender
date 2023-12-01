@@ -1,0 +1,1 @@
+{"channel": "bahamutgaming", "avg_viewers": 86, "followers_gained": 227, "peak_viewers": 620, "hours_streamed": 51, "streams": 14, "mature": 0, "language": "English", "account_age": 1379520.0}

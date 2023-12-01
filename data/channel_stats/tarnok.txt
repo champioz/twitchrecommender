@@ -1,0 +1,1 @@
+{"channel": "tarnok", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 37, "streams": 10, "mature": 1, "language": "Portuguese", "account_age": 1644480.0}

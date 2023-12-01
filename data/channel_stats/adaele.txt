@@ -1,0 +1,1 @@
+{"channel": "adaele", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 10, "hours_streamed": 21, "streams": 5, "mature": 0, "language": "German", "account_age": 1038240.0}

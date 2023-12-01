@@ -1,0 +1,1 @@
+{"channel": "charleystown", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 7, "streams": 5, "mature": 1, "language": "French", "account_age": 1605600.0}

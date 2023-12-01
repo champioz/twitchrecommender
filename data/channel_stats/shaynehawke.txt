@@ -1,0 +1,1 @@
+{"channel": "shaynehawke", "avg_viewers": 171, "followers_gained": 246, "peak_viewers": 1504, "hours_streamed": 91, "streams": 12, "mature": 1, "language": "English", "account_age": 4115520.0}

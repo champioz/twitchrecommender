@@ -1,0 +1,1 @@
+{"channel": "tougevr", "avg_viewers": 135, "followers_gained": 149, "peak_viewers": 1980, "hours_streamed": 46, "streams": 11, "mature": 0, "language": "English", "account_age": 1519200.0}

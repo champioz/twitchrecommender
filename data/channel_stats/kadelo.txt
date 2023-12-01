@@ -1,0 +1,1 @@
+{"channel": "kadelo", "avg_viewers": 858, "followers_gained": 4600, "peak_viewers": 1928, "hours_streamed": 187, "streams": 27, "mature": 0, "language": "Portuguese", "account_age": 3195360.0}

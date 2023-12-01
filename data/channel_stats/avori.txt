@@ -1,0 +1,1 @@
+{"channel": "avori", "avg_viewers": 289, "followers_gained": 4133, "peak_viewers": 888, "hours_streamed": 195, "streams": 30, "mature": 0, "language": "English", "account_age": 970560.0}

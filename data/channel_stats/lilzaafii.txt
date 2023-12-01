@@ -1,0 +1,1 @@
+{"channel": "lilzaafii", "avg_viewers": 5, "followers_gained": 21, "peak_viewers": 16, "hours_streamed": 7, "streams": 2, "mature": 1, "language": "Spanish", "account_age": 2599200.0}

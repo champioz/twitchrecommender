@@ -1,0 +1,1 @@
+{"channel": "stm_jr", "avg_viewers": 17, "followers_gained": 95, "peak_viewers": 68, "hours_streamed": 92, "streams": 59, "mature": 0, "language": "Portuguese", "account_age": 1130400.0}

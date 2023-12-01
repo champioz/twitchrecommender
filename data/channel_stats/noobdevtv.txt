@@ -1,0 +1,1 @@
+{"channel": "noobdevtv", "avg_viewers": 9, "followers_gained": 10, "peak_viewers": 16, "hours_streamed": 21, "streams": 8, "mature": 0, "language": "German", "account_age": 1094400.0}

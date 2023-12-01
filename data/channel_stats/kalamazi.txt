@@ -1,0 +1,1 @@
+{"channel": "kalamazi", "avg_viewers": 47, "followers_gained": 349, "peak_viewers": 176, "hours_streamed": 139, "streams": 22, "mature": 1, "language": "English", "account_age": 2895840.0}

@@ -1,0 +1,1 @@
+{"channel": "straight_life", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 28, "streams": 8, "mature": 0, "language": "German", "account_age": 1880640.0}

@@ -1,0 +1,1 @@
+{"channel": "fisloduflams", "avg_viewers": 7, "followers_gained": 13, "peak_viewers": 20, "hours_streamed": 46, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 2593440.0}

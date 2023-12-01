@@ -1,0 +1,1 @@
+{"channel": "sushifishninja", "avg_viewers": 11, "followers_gained": 51, "peak_viewers": 55, "hours_streamed": 80, "streams": 14, "mature": 1, "language": "English", "account_age": 1988640.0}

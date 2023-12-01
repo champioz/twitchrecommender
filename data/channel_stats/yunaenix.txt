@@ -1,0 +1,1 @@
+{"channel": "yunaenix", "avg_viewers": 12, "followers_gained": 64, "peak_viewers": 160, "hours_streamed": 64, "streams": 14, "mature": 1, "language": "German", "account_age": 2312640.0}

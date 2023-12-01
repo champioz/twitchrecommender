@@ -1,0 +1,1 @@
+{"channel": "captain_wolfpak", "avg_viewers": 9, "followers_gained": 44, "peak_viewers": 27, "hours_streamed": 45, "streams": 12, "mature": 0, "language": "English", "account_age": 1563840.0}

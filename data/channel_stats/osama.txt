@@ -1,0 +1,1 @@
+{"channel": "osama", "avg_viewers": 48, "followers_gained": 20, "peak_viewers": 184, "hours_streamed": 61, "streams": 19, "mature": 0, "language": "English", "account_age": 3015360.0}

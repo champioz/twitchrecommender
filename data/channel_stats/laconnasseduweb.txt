@@ -1,0 +1,1 @@
+{"channel": "laconnasseduweb", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 50, "streams": 28, "mature": 0, "language": "French", "account_age": 1667520.0}

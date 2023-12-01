@@ -1,0 +1,1 @@
+{"channel": "ovadu", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 1, "hours_streamed": 4, "streams": 6, "mature": 0, "language": "English", "account_age": 2213280.0}

@@ -1,0 +1,1 @@
+{"channel": "kusqt", "avg_viewers": 43, "followers_gained": 8, "peak_viewers": 107, "hours_streamed": 33, "streams": 15, "mature": 0, "language": "English", "account_age": 2839680.0}

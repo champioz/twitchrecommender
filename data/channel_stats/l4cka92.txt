@@ -1,0 +1,1 @@
+{"channel": "l4cka92", "avg_viewers": 1, "followers_gained": 29, "peak_viewers": 6, "hours_streamed": 64, "streams": 35, "mature": 1, "language": "Hungarian", "account_age": 1321920.0}

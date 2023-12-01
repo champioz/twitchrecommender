@@ -1,0 +1,1 @@
+{"channel": "ms0319612", "avg_viewers": 6, "followers_gained": 23, "peak_viewers": 18, "hours_streamed": 32, "streams": 6, "mature": 1, "language": "Chinese", "account_age": 3192480.0}

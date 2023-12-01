@@ -1,0 +1,1 @@
+{"channel": "kritze", "avg_viewers": 30, "followers_gained": 76, "peak_viewers": 119, "hours_streamed": 102, "streams": 19, "mature": 1, "language": "German", "account_age": 2423520.0}

@@ -1,0 +1,1 @@
+{"channel": "stary_gracz", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 12, "hours_streamed": 58, "streams": 20, "mature": 0, "language": "Polish", "account_age": 2014560.0}

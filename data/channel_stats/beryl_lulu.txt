@@ -1,0 +1,1 @@
+{"channel": "beryl_lulu", "avg_viewers": 966, "followers_gained": 1850, "peak_viewers": 1842, "hours_streamed": 103, "streams": 20, "mature": 0, "language": "Chinese", "account_age": 2576160.0}

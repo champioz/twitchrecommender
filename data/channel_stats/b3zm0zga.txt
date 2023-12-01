@@ -1,0 +1,1 @@
+{"channel": "b3zm0zga", "avg_viewers": 8, "followers_gained": 10, "peak_viewers": 32, "hours_streamed": 19, "streams": 8, "mature": 0, "language": "Russian", "account_age": 1784160.0}

@@ -1,0 +1,1 @@
+{"channel": "creakz", "avg_viewers": 2, "followers_gained": 84, "peak_viewers": 11, "hours_streamed": 82, "streams": 37, "mature": 1, "language": "English", "account_age": 750240.0}

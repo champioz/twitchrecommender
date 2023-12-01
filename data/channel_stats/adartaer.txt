@@ -1,0 +1,1 @@
+{"channel": "adartaer", "avg_viewers": 7, "followers_gained": 37, "peak_viewers": 152, "hours_streamed": 37, "streams": 11, "mature": 0, "language": "Polish", "account_age": 665280.0}

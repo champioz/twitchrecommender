@@ -1,0 +1,1 @@
+{"channel": "vulcanstorm", "avg_viewers": 2, "followers_gained": 22, "peak_viewers": 10, "hours_streamed": 47, "streams": 20, "mature": 0, "language": "Portuguese", "account_age": 3068640.0}

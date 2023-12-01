@@ -1,0 +1,1 @@
+{"channel": "hulkgamerrd", "avg_viewers": 15, "followers_gained": 224, "peak_viewers": 41, "hours_streamed": 57, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 2083680.0}

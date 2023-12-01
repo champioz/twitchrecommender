@@ -1,0 +1,1 @@
+{"channel": "green_souls", "avg_viewers": 4, "followers_gained": 9, "peak_viewers": 9, "hours_streamed": 35, "streams": 8, "mature": 0, "language": "Ukrainian", "account_age": 560160.0}

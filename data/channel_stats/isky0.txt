@@ -1,0 +1,1 @@
+{"channel": "isky0", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 8, "streams": 8, "mature": 0, "language": "English", "account_age": 2157120.0}

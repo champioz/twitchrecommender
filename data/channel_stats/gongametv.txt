@@ -1,0 +1,1 @@
+{"channel": "gongametv", "avg_viewers": 8, "followers_gained": 70, "peak_viewers": 39, "hours_streamed": 60, "streams": 18, "mature": 1, "language": "Portuguese", "account_age": 1324800.0}

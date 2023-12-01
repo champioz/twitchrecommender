@@ -1,0 +1,1 @@
+{"channel": "illxsincex92", "avg_viewers": 4, "followers_gained": 89, "peak_viewers": 14, "hours_streamed": 99, "streams": 32, "mature": 0, "language": "English", "account_age": 2242080.0}

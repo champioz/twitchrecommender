@@ -1,0 +1,1 @@
+{"channel": "teamvash", "avg_viewers": 105, "followers_gained": 2753, "peak_viewers": 235, "hours_streamed": 594, "streams": 25, "mature": 0, "language": "English", "account_age": 2358720.0}

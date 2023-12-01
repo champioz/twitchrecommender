@@ -1,0 +1,1 @@
+{"channel": "loganatorxyz", "avg_viewers": 9, "followers_gained": 20, "peak_viewers": 22, "hours_streamed": 22, "streams": 11, "mature": 0, "language": "English", "account_age": 2966400.0}

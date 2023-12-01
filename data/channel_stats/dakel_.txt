@@ -1,0 +1,1 @@
+{"channel": "dakel_", "avg_viewers": 31, "followers_gained": 718, "peak_viewers": 78, "hours_streamed": 32, "streams": 16, "mature": 0, "language": "Arabic", "account_age": 565920.0}

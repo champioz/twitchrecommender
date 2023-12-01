@@ -1,0 +1,1 @@
+{"channel": "kanji520", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 23, "streams": 17, "mature": 1, "language": "English", "account_age": 2633760.0}

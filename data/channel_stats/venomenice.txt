@@ -1,0 +1,1 @@
+{"channel": "venomenice", "avg_viewers": 172, "followers_gained": 5, "peak_viewers": 242, "hours_streamed": 36, "streams": 8, "mature": 0, "language": "German", "account_age": 2306880.0}

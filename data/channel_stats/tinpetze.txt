@@ -1,0 +1,1 @@
+{"channel": "tinpetze", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 21, "streams": 11, "mature": 0, "language": "Finnish", "account_age": 2992320.0}

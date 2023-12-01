@@ -1,0 +1,1 @@
+{"channel": "mgam3z", "avg_viewers": 56, "followers_gained": 668, "peak_viewers": 228, "hours_streamed": 18, "streams": 12, "mature": 0, "language": "Arabic", "account_age": 2306880.0}

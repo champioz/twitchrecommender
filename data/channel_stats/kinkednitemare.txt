@@ -1,0 +1,1 @@
+{"channel": "kinkednitemare", "avg_viewers": 27, "followers_gained": 25, "peak_viewers": 131, "hours_streamed": 58, "streams": 13, "mature": 1, "language": "English", "account_age": 2574720.0}

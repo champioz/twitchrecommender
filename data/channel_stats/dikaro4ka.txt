@@ -1,0 +1,1 @@
+{"channel": "dikaro4ka", "avg_viewers": 17, "followers_gained": 5, "peak_viewers": 35, "hours_streamed": 39, "streams": 10, "mature": 1, "language": "Russian", "account_age": 2638080.0}

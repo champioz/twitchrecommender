@@ -1,0 +1,1 @@
+{"channel": "dimo0os", "avg_viewers": 43, "followers_gained": 372, "peak_viewers": 68, "hours_streamed": 11, "streams": 4, "mature": 0, "language": "Arabic", "account_age": 2514240.0}

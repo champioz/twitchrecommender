@@ -1,0 +1,1 @@
+{"channel": "uglyduck2k4", "avg_viewers": 13, "followers_gained": 68, "peak_viewers": 75, "hours_streamed": 135, "streams": 26, "mature": 0, "language": "English", "account_age": 3720960.0}

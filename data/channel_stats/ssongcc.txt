@@ -1,0 +1,1 @@
+{"channel": "ssongcc", "avg_viewers": 12, "followers_gained": 14, "peak_viewers": 49, "hours_streamed": 127, "streams": 34, "mature": 1, "language": "Korean", "account_age": 1133280.0}

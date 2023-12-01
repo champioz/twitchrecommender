@@ -1,0 +1,1 @@
+{"channel": "itzzzat", "avg_viewers": 5, "followers_gained": 38, "peak_viewers": 16, "hours_streamed": 16, "streams": 7, "mature": 0, "language": "Arabic", "account_age": 2594880.0}

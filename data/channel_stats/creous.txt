@@ -1,0 +1,1 @@
+{"channel": "creous", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 68, "streams": 18, "mature": 1, "language": "Chinese", "account_age": 2616480.0}

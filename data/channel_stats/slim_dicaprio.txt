@@ -1,0 +1,1 @@
+{"channel": "slim_dicaprio", "avg_viewers": 1, "followers_gained": 16, "peak_viewers": 7, "hours_streamed": 46, "streams": 23, "mature": 1, "language": "English", "account_age": 192960.0}

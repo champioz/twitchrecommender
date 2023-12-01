@@ -1,0 +1,1 @@
+{"channel": "tfjypss05", "avg_viewers": 24, "followers_gained": 66, "peak_viewers": 219, "hours_streamed": 213, "streams": 35, "mature": 0, "language": "Chinese", "account_age": 4361760.0}

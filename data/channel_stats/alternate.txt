@@ -1,0 +1,1 @@
+{"channel": "alternate", "avg_viewers": 616, "followers_gained": 836, "peak_viewers": 3175, "hours_streamed": 68, "streams": 17, "mature": 1, "language": "German", "account_age": 3794400.0}

@@ -1,0 +1,1 @@
+{"channel": "vitrollarlol", "avg_viewers": 5, "followers_gained": 5, "peak_viewers": 27, "hours_streamed": 46, "streams": 15, "mature": 0, "language": "Swedish", "account_age": 4144320.0}

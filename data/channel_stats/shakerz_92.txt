@@ -1,0 +1,1 @@
+{"channel": "shakerz_92", "avg_viewers": 4, "followers_gained": 135, "peak_viewers": 14, "hours_streamed": 94, "streams": 29, "mature": 0, "language": "Arabic", "account_age": 3002400.0}

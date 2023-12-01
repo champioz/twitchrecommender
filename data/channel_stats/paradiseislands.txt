@@ -1,0 +1,1 @@
+{"channel": "paradiseislands", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 1, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "English", "account_age": 1745280.0}

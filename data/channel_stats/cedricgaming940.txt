@@ -1,0 +1,1 @@
+{"channel": "cedricgaming940", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 32, "streams": 18, "mature": 0, "language": "French", "account_age": 2266560.0}

@@ -1,0 +1,1 @@
+{"channel": "anthonymood", "avg_viewers": 6, "followers_gained": 22, "peak_viewers": 32, "hours_streamed": 33, "streams": 14, "mature": 1, "language": "Spanish", "account_age": 1421280.0}

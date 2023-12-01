@@ -1,0 +1,1 @@
+{"channel": "mata", "avg_viewers": 172, "followers_gained": 911, "peak_viewers": 834, "hours_streamed": 30, "streams": 9, "mature": 0, "language": "Korean", "account_age": 3448800.0}

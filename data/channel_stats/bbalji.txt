@@ -1,0 +1,1 @@
+{"channel": "bbalji", "avg_viewers": 6, "followers_gained": 52, "peak_viewers": 234, "hours_streamed": 133, "streams": 30, "mature": 0, "language": "Korean", "account_age": 948960.0}

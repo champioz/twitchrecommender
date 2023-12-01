@@ -1,0 +1,1 @@
+{"channel": "ykman0131", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 26, "streams": 18, "mature": 1, "language": "Chinese (Hong Kong SAR)", "account_age": 2190240.0}

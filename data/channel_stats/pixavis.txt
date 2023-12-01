@@ -1,0 +1,1 @@
+{"channel": "pixavis", "avg_viewers": 11, "followers_gained": 37, "peak_viewers": 33, "hours_streamed": 58, "streams": 12, "mature": 0, "language": "German", "account_age": 937440.0}

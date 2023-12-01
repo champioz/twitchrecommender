@@ -1,0 +1,1 @@
+{"channel": "yihhkes", "avg_viewers": 7, "followers_gained": 25, "peak_viewers": 40, "hours_streamed": 53, "streams": 17, "mature": 0, "language": "English", "account_age": 1088640.0}

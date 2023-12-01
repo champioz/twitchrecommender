@@ -1,0 +1,1 @@
+{"channel": "wasied", "avg_viewers": 19, "followers_gained": 70, "peak_viewers": 36, "hours_streamed": 20, "streams": 6, "mature": 1, "language": "French", "account_age": 506880.0}

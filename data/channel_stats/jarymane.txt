@@ -1,0 +1,1 @@
+{"channel": "jarymane", "avg_viewers": 11, "followers_gained": 118, "peak_viewers": 31, "hours_streamed": 110, "streams": 29, "mature": 1, "language": "English", "account_age": 784800.0}

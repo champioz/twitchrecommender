@@ -1,0 +1,1 @@
+{"channel": "krokotasche", "avg_viewers": 41, "followers_gained": 195, "peak_viewers": 191, "hours_streamed": 79, "streams": 19, "mature": 0, "language": "English", "account_age": 1859040.0}

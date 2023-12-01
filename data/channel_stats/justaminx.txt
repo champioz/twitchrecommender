@@ -1,0 +1,1 @@
+{"channel": "justaminx", "avg_viewers": 67, "followers_gained": 521, "peak_viewers": 175, "hours_streamed": 45, "streams": 17, "mature": 0, "language": "English", "account_age": 1514880.0}

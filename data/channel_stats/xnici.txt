@@ -1,0 +1,1 @@
+{"channel": "xnici", "avg_viewers": 4, "followers_gained": 194, "peak_viewers": 37, "hours_streamed": 127, "streams": 48, "mature": 0, "language": "German", "account_age": 2247840.0}

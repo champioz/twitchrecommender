@@ -1,0 +1,1 @@
+{"channel": "watermelon77777", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 1, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "English", "account_age": 1212480.0}

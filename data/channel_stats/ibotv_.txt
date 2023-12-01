@@ -1,0 +1,1 @@
+{"channel": "ibotv_", "avg_viewers": 43, "followers_gained": 180, "peak_viewers": 220, "hours_streamed": 61, "streams": 18, "mature": 0, "language": "German", "account_age": 960480.0}

@@ -1,0 +1,1 @@
+{"channel": "dealjb", "avg_viewers": 9, "followers_gained": 131, "peak_viewers": 124, "hours_streamed": 74, "streams": 21, "mature": 0, "language": "French", "account_age": 4302720.0}

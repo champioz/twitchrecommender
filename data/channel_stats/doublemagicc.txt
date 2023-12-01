@@ -1,0 +1,1 @@
+{"channel": "doublemagicc", "avg_viewers": 8, "followers_gained": 4, "peak_viewers": 17, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "Bulgarian", "account_age": 3075840.0}

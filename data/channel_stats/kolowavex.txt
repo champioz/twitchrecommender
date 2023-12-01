@@ -1,0 +1,1 @@
+{"channel": "kolowavex", "avg_viewers": 19, "followers_gained": 37, "peak_viewers": 56, "hours_streamed": 56, "streams": 21, "mature": 1, "language": "English", "account_age": 3267360.0}

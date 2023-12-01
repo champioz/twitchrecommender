@@ -1,0 +1,1 @@
+{"channel": "relinquishedlive", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 26, "hours_streamed": 147, "streams": 25, "mature": 0, "language": "Swedish", "account_age": 3880800.0}

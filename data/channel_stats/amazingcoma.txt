@@ -1,0 +1,1 @@
+{"channel": "amazingcoma", "avg_viewers": 13, "followers_gained": 15, "peak_viewers": 26, "hours_streamed": 12, "streams": 6, "mature": 1, "language": "English", "account_age": 378720.0}

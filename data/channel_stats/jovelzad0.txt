@@ -1,0 +1,1 @@
+{"channel": "jovelzad0", "avg_viewers": 11, "followers_gained": 82, "peak_viewers": 52, "hours_streamed": 105, "streams": 17, "mature": 1, "language": "Portuguese", "account_age": 3916800.0}

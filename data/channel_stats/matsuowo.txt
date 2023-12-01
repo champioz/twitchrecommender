@@ -1,0 +1,1 @@
+{"channel": "matsuowo", "avg_viewers": 7, "followers_gained": 7, "peak_viewers": 17, "hours_streamed": 45, "streams": 14, "mature": 1, "language": "Chinese", "account_age": 2486880.0}

@@ -1,0 +1,1 @@
+{"channel": "softwerker", "avg_viewers": 35, "followers_gained": 59, "peak_viewers": 71, "hours_streamed": 63, "streams": 10, "mature": 1, "language": "German", "account_age": 4860000.0}

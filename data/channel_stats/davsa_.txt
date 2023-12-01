@@ -1,0 +1,1 @@
+{"channel": "davsa_", "avg_viewers": 35, "followers_gained": 82, "peak_viewers": 64, "hours_streamed": 42, "streams": 9, "mature": 0, "language": "Czech", "account_age": 2289600.0}

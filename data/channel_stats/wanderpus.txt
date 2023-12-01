@@ -1,0 +1,1 @@
+{"channel": "wanderpus", "avg_viewers": 91, "followers_gained": 511, "peak_viewers": 161, "hours_streamed": 40, "streams": 11, "mature": 0, "language": "English", "account_age": 2774880.0}

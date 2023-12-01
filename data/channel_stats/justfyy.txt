@@ -1,0 +1,1 @@
+{"channel": "justfyy", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "Portuguese", "account_age": 2885760.0}

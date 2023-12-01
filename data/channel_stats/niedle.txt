@@ -1,0 +1,1 @@
+{"channel": "niedle", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 12, "hours_streamed": 17, "streams": 9, "mature": 1, "language": "Japanese", "account_age": 3929760.0}

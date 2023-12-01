@@ -1,0 +1,1 @@
+{"channel": "billy_mitchell", "avg_viewers": 142, "followers_gained": 361, "peak_viewers": 647, "hours_streamed": 52, "streams": 7, "mature": 0, "language": "English", "account_age": 668160.0}

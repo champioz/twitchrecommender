@@ -1,0 +1,1 @@
+{"channel": "m1zpepper", "avg_viewers": 16, "followers_gained": 873, "peak_viewers": 52, "hours_streamed": 141, "streams": 24, "mature": 1, "language": "Spanish", "account_age": 577440.0}

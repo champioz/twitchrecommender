@@ -1,0 +1,1 @@
+{"channel": "coffeedranka", "avg_viewers": 4, "followers_gained": 153, "peak_viewers": 19, "hours_streamed": 373, "streams": 58, "mature": 0, "language": "English", "account_age": 884160.0}

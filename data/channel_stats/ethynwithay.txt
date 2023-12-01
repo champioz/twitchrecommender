@@ -1,0 +1,1 @@
+{"channel": "ethynwithay", "avg_viewers": 5, "followers_gained": 32, "peak_viewers": 16, "hours_streamed": 69, "streams": 17, "mature": 0, "language": "English", "account_age": 1905120.0}

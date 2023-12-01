@@ -1,0 +1,1 @@
+{"channel": "grumpei", "avg_viewers": 106, "followers_gained": 395, "peak_viewers": 282, "hours_streamed": 112, "streams": 26, "mature": 0, "language": "German", "account_age": 2734560.0}

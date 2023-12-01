@@ -1,0 +1,1 @@
+{"channel": "shelnyan", "avg_viewers": 38, "followers_gained": 465, "peak_viewers": 225, "hours_streamed": 85, "streams": 29, "mature": 1, "language": "Russian", "account_age": 2070720.0}

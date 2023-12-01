@@ -1,0 +1,1 @@
+{"channel": "aeod1407", "avg_viewers": 124, "followers_gained": 3789, "peak_viewers": 564, "hours_streamed": 113, "streams": 26, "mature": 0, "language": "Arabic", "account_age": 1782720.0}

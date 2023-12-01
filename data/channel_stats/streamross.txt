@@ -1,0 +1,1 @@
+{"channel": "streamross", "avg_viewers": 117, "followers_gained": 13, "peak_viewers": 508, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Russian", "account_age": 2854080.0}

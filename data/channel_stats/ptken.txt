@@ -1,0 +1,1 @@
+{"channel": "ptken", "avg_viewers": 98, "followers_gained": 29, "peak_viewers": 205, "hours_streamed": 189, "streams": 39, "mature": 1, "language": "Chinese", "account_age": 4145760.0}

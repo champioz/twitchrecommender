@@ -1,0 +1,1 @@
+{"channel": "lancelotarcher", "avg_viewers": 5, "followers_gained": 18, "peak_viewers": 19, "hours_streamed": 107, "streams": 31, "mature": 1, "language": "English", "account_age": 1784160.0}

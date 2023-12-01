@@ -1,0 +1,1 @@
+{"channel": "lukezzz", "avg_viewers": 0, "followers_gained": 7, "peak_viewers": 7, "hours_streamed": 106, "streams": 38, "mature": 1, "language": "German", "account_age": 1522080.0}

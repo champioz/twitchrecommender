@@ -1,0 +1,1 @@
+{"channel": "love_55508", "avg_viewers": 18, "followers_gained": 24, "peak_viewers": 58, "hours_streamed": 91, "streams": 18, "mature": 1, "language": "Chinese", "account_age": 2329920.0}

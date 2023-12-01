@@ -1,0 +1,1 @@
+{"channel": "pepe0x0", "avg_viewers": 7, "followers_gained": 10, "peak_viewers": 16, "hours_streamed": 20, "streams": 4, "mature": 0, "language": "Japanese", "account_age": 851040.0}

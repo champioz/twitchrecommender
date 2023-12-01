@@ -1,0 +1,1 @@
+{"channel": "kuvartz", "avg_viewers": 31, "followers_gained": 165, "peak_viewers": 87, "hours_streamed": 9, "streams": 5, "mature": 1, "language": "Turkish", "account_age": 2573280.0}

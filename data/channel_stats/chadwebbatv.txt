@@ -1,0 +1,1 @@
+{"channel": "chadwebbatv", "avg_viewers": 67, "followers_gained": 30, "peak_viewers": 167, "hours_streamed": 4, "streams": 8, "mature": 0, "language": "English", "account_age": 685440.0}

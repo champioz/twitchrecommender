@@ -1,0 +1,1 @@
+{"channel": "neon_genesis_", "avg_viewers": 22, "followers_gained": 35, "peak_viewers": 54, "hours_streamed": 120, "streams": 19, "mature": 1, "language": "English", "account_age": 2620800.0}

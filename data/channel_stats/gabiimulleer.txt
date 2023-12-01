@@ -1,0 +1,1 @@
+{"channel": "gabiimulleer", "avg_viewers": 13, "followers_gained": 401, "peak_viewers": 67, "hours_streamed": 82, "streams": 17, "mature": 1, "language": "Portuguese", "account_age": 246240.0}

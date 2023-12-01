@@ -1,0 +1,1 @@
+{"channel": "winnei_bear", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 16, "hours_streamed": 70, "streams": 23, "mature": 1, "language": "Chinese", "account_age": 2445120.0}

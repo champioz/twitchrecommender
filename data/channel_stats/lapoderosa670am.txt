@@ -1,0 +1,1 @@
+{"channel": "lapoderosa670am", "avg_viewers": 26, "followers_gained": 57, "peak_viewers": 88, "hours_streamed": 707, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 626400.0}

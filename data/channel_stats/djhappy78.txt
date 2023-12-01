@@ -1,0 +1,1 @@
+{"channel": "djhappy78", "avg_viewers": 23, "followers_gained": 61, "peak_viewers": 90, "hours_streamed": 53, "streams": 16, "mature": 1, "language": "German", "account_age": 1382400.0}

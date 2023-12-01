@@ -1,0 +1,1 @@
+{"channel": "grifono4ka", "avg_viewers": 5, "followers_gained": 39, "peak_viewers": 36, "hours_streamed": 189, "streams": 43, "mature": 0, "language": "Russian", "account_age": 397440.0}

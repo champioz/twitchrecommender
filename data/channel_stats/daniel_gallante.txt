@@ -1,0 +1,1 @@
+{"channel": "daniel_gallante", "avg_viewers": 56, "followers_gained": 84, "peak_viewers": 178, "hours_streamed": 62, "streams": 7, "mature": 0, "language": "Portuguese", "account_age": 3729600.0}

@@ -1,0 +1,1 @@
+{"channel": "politesniper", "avg_viewers": 471, "followers_gained": 1779, "peak_viewers": 976, "hours_streamed": 256, "streams": 30, "mature": 0, "language": "Russian", "account_age": 4636800.0}

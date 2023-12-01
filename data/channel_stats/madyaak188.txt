@@ -1,0 +1,1 @@
+{"channel": "madyaak188", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 26, "hours_streamed": 21, "streams": 15, "mature": 1, "language": "German", "account_age": 2725920.0}

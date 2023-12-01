@@ -1,0 +1,1 @@
+{"channel": "mafermtg", "avg_viewers": 24, "followers_gained": 129, "peak_viewers": 68, "hours_streamed": 42, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 1735200.0}

@@ -1,0 +1,1 @@
+{"channel": "iamahijinx", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 9, "hours_streamed": 13, "streams": 8, "mature": 0, "language": "English", "account_age": 263520.0}

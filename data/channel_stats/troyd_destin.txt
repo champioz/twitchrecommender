@@ -1,0 +1,1 @@
+{"channel": "troyd_destin", "avg_viewers": 17, "followers_gained": 16, "peak_viewers": 71, "hours_streamed": 61, "streams": 14, "mature": 0, "language": "English", "account_age": 2283840.0}

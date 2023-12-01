@@ -1,0 +1,1 @@
+{"channel": "rbdjellyfish", "avg_viewers": 8, "followers_gained": 29, "peak_viewers": 23, "hours_streamed": 50, "streams": 13, "mature": 0, "language": "English", "account_age": 3915360.0}

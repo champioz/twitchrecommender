@@ -1,0 +1,1 @@
+{"channel": "xrusher_19", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 8, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "German", "account_age": 2272320.0}

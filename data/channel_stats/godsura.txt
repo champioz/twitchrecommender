@@ -1,0 +1,1 @@
+{"channel": "godsura", "avg_viewers": 121, "followers_gained": 186, "peak_viewers": 368, "hours_streamed": 13, "streams": 12, "mature": 0, "language": "English", "account_age": 227520.0}

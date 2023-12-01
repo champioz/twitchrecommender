@@ -1,0 +1,1 @@
+{"channel": "san_guesh", "avg_viewers": 16, "followers_gained": 108, "peak_viewers": 49, "hours_streamed": 99, "streams": 29, "mature": 1, "language": "French", "account_age": 1824480.0}

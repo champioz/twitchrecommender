@@ -1,0 +1,1 @@
+{"channel": "dutchonidas", "avg_viewers": 30, "followers_gained": 41, "peak_viewers": 77, "hours_streamed": 76, "streams": 13, "mature": 1, "language": "English", "account_age": 2969280.0}

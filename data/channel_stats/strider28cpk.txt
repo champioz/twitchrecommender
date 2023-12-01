@@ -1,0 +1,1 @@
+{"channel": "strider28cpk", "avg_viewers": 2, "followers_gained": 33, "peak_viewers": 12, "hours_streamed": 95, "streams": 41, "mature": 0, "language": "English", "account_age": 874080.0}

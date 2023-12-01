@@ -1,0 +1,1 @@
+{"channel": "evosays", "avg_viewers": 128, "followers_gained": 569, "peak_viewers": 371, "hours_streamed": 109, "streams": 25, "mature": 0, "language": "Russian", "account_age": 2844000.0}

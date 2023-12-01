@@ -1,0 +1,1 @@
+{"channel": "hegone4eh", "avg_viewers": 5, "followers_gained": 107, "peak_viewers": 93, "hours_streamed": 86, "streams": 24, "mature": 1, "language": "Bulgarian", "account_age": 2413440.0}

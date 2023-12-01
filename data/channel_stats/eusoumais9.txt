@@ -1,0 +1,1 @@
+{"channel": "eusoumais9", "avg_viewers": 46, "followers_gained": 508, "peak_viewers": 263, "hours_streamed": 207, "streams": 41, "mature": 1, "language": "Portuguese", "account_age": 937440.0}

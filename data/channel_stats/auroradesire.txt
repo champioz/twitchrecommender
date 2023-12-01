@@ -1,0 +1,1 @@
+{"channel": "auroradesire", "avg_viewers": 8, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "English", "account_age": 826560.0}

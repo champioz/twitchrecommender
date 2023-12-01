@@ -1,0 +1,1 @@
+{"channel": "kuehn00b", "avg_viewers": 16, "followers_gained": 10, "peak_viewers": 32, "hours_streamed": 103, "streams": 19, "mature": 1, "language": "German", "account_age": 2370240.0}

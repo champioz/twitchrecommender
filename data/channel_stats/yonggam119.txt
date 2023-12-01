@@ -1,0 +1,1 @@
+{"channel": "yonggam119", "avg_viewers": 32, "followers_gained": 144, "peak_viewers": 96, "hours_streamed": 83, "streams": 25, "mature": 0, "language": "Korean", "account_age": 1088640.0}

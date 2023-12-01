@@ -1,0 +1,1 @@
+{"channel": "vesperarcade", "avg_viewers": 108, "followers_gained": 61, "peak_viewers": 375, "hours_streamed": 78, "streams": 12, "mature": 0, "language": "English", "account_age": 4988160.0}

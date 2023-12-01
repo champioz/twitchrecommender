@@ -1,0 +1,1 @@
+{"channel": "hgdd_", "avg_viewers": 0, "followers_gained": 19, "peak_viewers": 5, "hours_streamed": 17, "streams": 25, "mature": 0, "language": "English", "account_age": 190080.0}

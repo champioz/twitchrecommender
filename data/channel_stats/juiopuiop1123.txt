@@ -1,0 +1,1 @@
+{"channel": "juiopuiop1123", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 7, "hours_streamed": 117, "streams": 49, "mature": 0, "language": "Chinese", "account_age": 1124640.0}

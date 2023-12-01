@@ -1,0 +1,1 @@
+{"channel": "anikovagyok", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 2, "streams": 5, "mature": 0, "language": "Hungarian", "account_age": 1179360.0}

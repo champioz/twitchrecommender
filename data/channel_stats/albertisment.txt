@@ -1,0 +1,1 @@
+{"channel": "albertisment", "avg_viewers": 15, "followers_gained": 28, "peak_viewers": 30, "hours_streamed": 5, "streams": 6, "mature": 0, "language": "Spanish", "account_age": 730080.0}

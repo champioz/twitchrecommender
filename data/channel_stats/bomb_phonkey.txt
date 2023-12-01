@@ -1,0 +1,1 @@
+{"channel": "bomb_phonkey", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 17, "hours_streamed": 10, "streams": 5, "mature": 1, "language": "English", "account_age": 947520.0}

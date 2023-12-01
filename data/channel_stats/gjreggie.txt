@@ -1,0 +1,1 @@
+{"channel": "gjreggie", "avg_viewers": 120, "followers_gained": 747, "peak_viewers": 1575, "hours_streamed": 133, "streams": 21, "mature": 1, "language": "English", "account_age": 1968480.0}

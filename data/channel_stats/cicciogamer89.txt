@@ -1,0 +1,1 @@
+{"channel": "cicciogamer89", "avg_viewers": 1777, "followers_gained": 14105, "peak_viewers": 3551, "hours_streamed": 72, "streams": 23, "mature": 0, "language": "Italian", "account_age": 3715200.0}

@@ -1,0 +1,1 @@
+{"channel": "nynonn", "avg_viewers": 0, "followers_gained": 7, "peak_viewers": 6, "hours_streamed": 94, "streams": 39, "mature": 1, "language": "Korean", "account_age": 211680.0}

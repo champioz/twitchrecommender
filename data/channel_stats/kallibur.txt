@@ -1,0 +1,1 @@
+{"channel": "kallibur", "avg_viewers": 116, "followers_gained": 288, "peak_viewers": 251, "hours_streamed": 153, "streams": 19, "mature": 1, "language": "English", "account_age": 2874240.0}

@@ -1,0 +1,1 @@
+{"channel": "piter_penn", "avg_viewers": 7, "followers_gained": 22, "peak_viewers": 27, "hours_streamed": 70, "streams": 15, "mature": 0, "language": "Russian", "account_age": 1897920.0}

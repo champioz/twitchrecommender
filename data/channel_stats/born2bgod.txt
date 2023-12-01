@@ -1,0 +1,1 @@
+{"channel": "born2bgod", "avg_viewers": 8, "followers_gained": 54, "peak_viewers": 46, "hours_streamed": 130, "streams": 32, "mature": 1, "language": "Thai", "account_age": 3134880.0}

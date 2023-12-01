@@ -1,0 +1,1 @@
+{"channel": "gallantgamersorg", "avg_viewers": 348, "followers_gained": 73, "peak_viewers": 3350, "hours_streamed": 62, "streams": 16, "mature": 0, "language": "English", "account_age": 1684800.0}

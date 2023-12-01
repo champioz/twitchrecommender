@@ -1,0 +1,1 @@
+{"channel": "m0xyy", "avg_viewers": 1749, "followers_gained": 17556, "peak_viewers": 5637, "hours_streamed": 244, "streams": 25, "mature": 0, "language": "English", "account_age": 2610720.0}

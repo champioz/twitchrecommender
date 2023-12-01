@@ -1,0 +1,1 @@
+{"channel": "relaxing234", "avg_viewers": 3954, "followers_gained": 4224, "peak_viewers": 6833, "hours_streamed": 45, "streams": 9, "mature": 0, "language": "Chinese", "account_age": 4013280.0}

@@ -1,0 +1,1 @@
+{"channel": "yang69", "avg_viewers": 5, "followers_gained": 18, "peak_viewers": 20, "hours_streamed": 32, "streams": 7, "mature": 1, "language": "German", "account_age": 2499840.0}

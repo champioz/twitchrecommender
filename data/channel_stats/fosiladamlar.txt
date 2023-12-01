@@ -1,0 +1,1 @@
+{"channel": "fosiladamlar", "avg_viewers": 15, "followers_gained": 1681, "peak_viewers": 71, "hours_streamed": 321, "streams": 83, "mature": 1, "language": "Turkish", "account_age": 491040.0}

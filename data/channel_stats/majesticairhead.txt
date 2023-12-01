@@ -1,0 +1,1 @@
+{"channel": "majesticairhead", "avg_viewers": 7, "followers_gained": 25, "peak_viewers": 22, "hours_streamed": 248, "streams": 32, "mature": 1, "language": "English", "account_age": 2296800.0}

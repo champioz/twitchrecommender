@@ -1,0 +1,1 @@
+{"channel": "akyhahamatata", "avg_viewers": 87, "followers_gained": 106, "peak_viewers": 339, "hours_streamed": 119, "streams": 23, "mature": 1, "language": "Russian", "account_age": 2070720.0}

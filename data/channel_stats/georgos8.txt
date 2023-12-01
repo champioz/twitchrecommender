@@ -1,0 +1,1 @@
+{"channel": "georgos8", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 6, "hours_streamed": 31, "streams": 12, "mature": 0, "language": "Czech", "account_age": 2044800.0}

@@ -1,0 +1,1 @@
+{"channel": "mymildeiei", "avg_viewers": 10, "followers_gained": 130, "peak_viewers": 26, "hours_streamed": 87, "streams": 20, "mature": 1, "language": "Thai", "account_age": 1586880.0}

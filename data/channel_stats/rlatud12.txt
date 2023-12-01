@@ -1,0 +1,1 @@
+{"channel": "rlatud12", "avg_viewers": 49, "followers_gained": 7, "peak_viewers": 91, "hours_streamed": 301, "streams": 36, "mature": 0, "language": "Korean", "account_age": 2342880.0}

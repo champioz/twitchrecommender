@@ -1,0 +1,1 @@
+{"channel": "michytsk", "avg_viewers": 18, "followers_gained": 444, "peak_viewers": 54, "hours_streamed": 142, "streams": 25, "mature": 0, "language": "Spanish", "account_age": 1560960.0}

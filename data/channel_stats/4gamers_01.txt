@@ -1,0 +1,1 @@
+{"channel": "4gamers_01", "avg_viewers": 102, "followers_gained": 76, "peak_viewers": 164, "hours_streamed": 7, "streams": 1, "mature": 0, "language": "Chinese", "account_age": 3186720.0}

@@ -1,0 +1,1 @@
+{"channel": "powiz11", "avg_viewers": 5, "followers_gained": 82, "peak_viewers": 15, "hours_streamed": 52, "streams": 16, "mature": 1, "language": "English", "account_age": 2967840.0}

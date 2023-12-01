@@ -1,0 +1,1 @@
+{"channel": "phantom8631", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "German", "account_age": 756000.0}

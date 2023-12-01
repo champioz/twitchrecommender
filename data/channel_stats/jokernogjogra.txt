@@ -1,0 +1,1 @@
+{"channel": "jokernogjogra", "avg_viewers": 36, "followers_gained": 38, "peak_viewers": 57, "hours_streamed": 31, "streams": 8, "mature": 0, "language": "Norwegian", "account_age": 2308320.0}

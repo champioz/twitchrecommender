@@ -1,0 +1,1 @@
+{"channel": "opegasuss", "avg_viewers": 2, "followers_gained": 34, "peak_viewers": 11, "hours_streamed": 48, "streams": 23, "mature": 1, "language": "Portuguese", "account_age": 1558080.0}

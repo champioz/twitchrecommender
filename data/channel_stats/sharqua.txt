@@ -1,0 +1,1 @@
+{"channel": "sharqua", "avg_viewers": 7, "followers_gained": 36, "peak_viewers": 19, "hours_streamed": 26, "streams": 7, "mature": 1, "language": "English", "account_age": 2384640.0}

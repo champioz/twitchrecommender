@@ -1,0 +1,1 @@
+{"channel": "epley", "avg_viewers": 2, "followers_gained": 107, "peak_viewers": 13, "hours_streamed": 80, "streams": 20, "mature": 0, "language": "English", "account_age": 2291040.0}

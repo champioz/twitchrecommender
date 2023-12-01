@@ -1,0 +1,1 @@
+{"channel": "tulavin", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 38, "streams": 9, "mature": 1, "language": "Ukrainian", "account_age": 2966400.0}

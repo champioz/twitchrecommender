@@ -1,0 +1,1 @@
+{"channel": "splitseclive", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 15, "hours_streamed": 53, "streams": 19, "mature": 1, "language": "English", "account_age": 1677600.0}

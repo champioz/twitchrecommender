@@ -1,0 +1,1 @@
+{"channel": "felipebras07", "avg_viewers": 18, "followers_gained": 70, "peak_viewers": 64, "hours_streamed": 24, "streams": 19, "mature": 1, "language": "Portuguese", "account_age": 2037600.0}

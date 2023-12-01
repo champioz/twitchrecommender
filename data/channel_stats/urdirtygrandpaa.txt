@@ -1,0 +1,1 @@
+{"channel": "urdirtygrandpaa", "avg_viewers": 19, "followers_gained": 118, "peak_viewers": 50, "hours_streamed": 56, "streams": 12, "mature": 0, "language": "English", "account_age": 3048480.0}

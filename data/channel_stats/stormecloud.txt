@@ -1,0 +1,1 @@
+{"channel": "stormecloud", "avg_viewers": 13, "followers_gained": 125, "peak_viewers": 48, "hours_streamed": 64, "streams": 19, "mature": 0, "language": "English", "account_age": 2619360.0}

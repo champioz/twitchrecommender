@@ -1,0 +1,1 @@
+{"channel": "multi192", "avg_viewers": 11, "followers_gained": 278, "peak_viewers": 30, "hours_streamed": 100, "streams": 36, "mature": 0, "language": "German", "account_age": 1342080.0}

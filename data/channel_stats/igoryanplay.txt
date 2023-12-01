@@ -1,0 +1,1 @@
+{"channel": "igoryanplay", "avg_viewers": 98, "followers_gained": 8323, "peak_viewers": 249, "hours_streamed": 69, "streams": 20, "mature": 0, "language": "Russian", "account_age": 504000.0}

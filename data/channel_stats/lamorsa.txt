@@ -1,0 +1,1 @@
+{"channel": "lamorsa", "avg_viewers": 24, "followers_gained": 54, "peak_viewers": 84, "hours_streamed": 93, "streams": 31, "mature": 0, "language": "Spanish", "account_age": 2947680.0}

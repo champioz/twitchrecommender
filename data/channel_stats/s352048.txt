@@ -1,0 +1,1 @@
+{"channel": "s352048", "avg_viewers": 8, "followers_gained": 43, "peak_viewers": 286, "hours_streamed": 307, "streams": 31, "mature": 0, "language": "Chinese", "account_age": 794880.0}

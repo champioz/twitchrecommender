@@ -1,0 +1,1 @@
+{"channel": "ginkies", "avg_viewers": 6, "followers_gained": 66, "peak_viewers": 16, "hours_streamed": 49, "streams": 17, "mature": 1, "language": "English", "account_age": 2659680.0}

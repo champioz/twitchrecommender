@@ -1,0 +1,1 @@
+{"channel": "dnevil97", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 3, "hours_streamed": 37, "streams": 27, "mature": 0, "language": "Russian", "account_age": 200160.0}

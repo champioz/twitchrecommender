@@ -1,0 +1,1 @@
+{"channel": "kamyabs94", "avg_viewers": 20, "followers_gained": 76, "peak_viewers": 39, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "English", "account_age": 891360.0}

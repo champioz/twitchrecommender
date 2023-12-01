@@ -1,0 +1,1 @@
+{"channel": "smgxprincess", "avg_viewers": 173, "followers_gained": 47, "peak_viewers": 231, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "English", "account_age": 2239200.0}

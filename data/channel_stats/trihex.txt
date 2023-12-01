@@ -1,0 +1,1 @@
+{"channel": "trihex", "avg_viewers": 4203, "followers_gained": 52232, "peak_viewers": 16303, "hours_streamed": 299, "streams": 38, "mature": 1, "language": "English", "account_age": 4345920.0}

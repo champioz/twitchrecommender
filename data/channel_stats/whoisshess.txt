@@ -1,0 +1,1 @@
+{"channel": "whoisshess", "avg_viewers": 4, "followers_gained": 64, "peak_viewers": 84, "hours_streamed": 194, "streams": 40, "mature": 0, "language": "German", "account_age": 881280.0}

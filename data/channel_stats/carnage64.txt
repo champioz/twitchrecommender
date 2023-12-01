@@ -1,0 +1,1 @@
+{"channel": "carnage64", "avg_viewers": 114, "followers_gained": 62, "peak_viewers": 845, "hours_streamed": 154, "streams": 27, "mature": 0, "language": "English", "account_age": 4116960.0}

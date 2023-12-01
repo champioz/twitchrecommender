@@ -1,0 +1,1 @@
+{"channel": "frankgeppitv", "avg_viewers": 8, "followers_gained": 25, "peak_viewers": 68, "hours_streamed": 151, "streams": 30, "mature": 0, "language": "English", "account_age": 2154240.0}

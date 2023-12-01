@@ -1,0 +1,1 @@
+{"channel": "imper04120", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 12, "streams": 9, "mature": 0, "language": "Hungarian", "account_age": 1379520.0}

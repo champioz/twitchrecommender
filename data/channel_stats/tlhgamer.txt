@@ -1,0 +1,1 @@
+{"channel": "tlhgamer", "avg_viewers": 5, "followers_gained": 10, "peak_viewers": 15, "hours_streamed": 38, "streams": 12, "mature": 1, "language": "English", "account_age": 4236480.0}

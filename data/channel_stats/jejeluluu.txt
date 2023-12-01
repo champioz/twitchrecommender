@@ -1,0 +1,1 @@
+{"channel": "jejeluluu", "avg_viewers": 21, "followers_gained": 263, "peak_viewers": 47, "hours_streamed": 92, "streams": 21, "mature": 1, "language": "French", "account_age": 2485440.0}

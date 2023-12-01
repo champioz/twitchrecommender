@@ -1,0 +1,1 @@
+{"channel": "mikisabes", "avg_viewers": 2, "followers_gained": 21, "peak_viewers": 10, "hours_streamed": 44, "streams": 15, "mature": 1, "language": "Czech", "account_age": 1903680.0}

@@ -1,0 +1,1 @@
+{"channel": "bankai", "avg_viewers": 37, "followers_gained": 691, "peak_viewers": 163, "hours_streamed": 180, "streams": 29, "mature": 1, "language": "English", "account_age": 2306880.0}

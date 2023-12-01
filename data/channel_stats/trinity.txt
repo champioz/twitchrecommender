@@ -1,0 +1,1 @@
+{"channel": "trinity", "avg_viewers": 522, "followers_gained": 1368, "peak_viewers": 946, "hours_streamed": 132, "streams": 25, "mature": 1, "language": "French", "account_age": 3394080.0}

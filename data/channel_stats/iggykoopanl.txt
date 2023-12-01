@@ -1,0 +1,1 @@
+{"channel": "iggykoopanl", "avg_viewers": 9, "followers_gained": 43, "peak_viewers": 24, "hours_streamed": 108, "streams": 22, "mature": 0, "language": "Dutch", "account_age": 1362240.0}

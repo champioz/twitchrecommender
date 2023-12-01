@@ -1,0 +1,1 @@
+{"channel": "chausette45", "avg_viewers": 240, "followers_gained": 361, "peak_viewers": 443, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "French", "account_age": 1951200.0}

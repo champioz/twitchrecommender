@@ -1,0 +1,1 @@
+{"channel": "sinbbad", "avg_viewers": 18, "followers_gained": 40, "peak_viewers": 39, "hours_streamed": 28, "streams": 9, "mature": 0, "language": "English", "account_age": 4317120.0}

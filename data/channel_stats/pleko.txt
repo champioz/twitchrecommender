@@ -1,0 +1,1 @@
+{"channel": "pleko", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 11, "streams": 3, "mature": 1, "language": "German", "account_age": 3762720.0}

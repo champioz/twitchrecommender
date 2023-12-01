@@ -1,0 +1,1 @@
+{"channel": "shins0n", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 0, "hours_streamed": 0, "streams": 0, "mature": 1, "language": "German", "account_age": 391680.0}

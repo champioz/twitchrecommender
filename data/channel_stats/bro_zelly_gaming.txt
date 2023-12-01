@@ -1,0 +1,1 @@
+{"channel": "bro_zelly_gaming", "avg_viewers": 14, "followers_gained": 44, "peak_viewers": 43, "hours_streamed": 50, "streams": 16, "mature": 0, "language": "English", "account_age": 960480.0}

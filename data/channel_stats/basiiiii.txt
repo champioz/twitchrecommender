@@ -1,0 +1,1 @@
+{"channel": "basiiiii", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 5, "hours_streamed": 17, "streams": 14, "mature": 0, "language": "Spanish", "account_age": 630720.0}

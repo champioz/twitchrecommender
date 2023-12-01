@@ -1,0 +1,1 @@
+{"channel": "axisrevolution", "avg_viewers": 6, "followers_gained": 27, "peak_viewers": 39, "hours_streamed": 36, "streams": 17, "mature": 1, "language": "French", "account_age": 970560.0}

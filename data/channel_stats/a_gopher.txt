@@ -1,0 +1,1 @@
+{"channel": "a_gopher", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 11, "streams": 8, "mature": 0, "language": "English", "account_age": 1814400.0}

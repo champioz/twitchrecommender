@@ -1,0 +1,1 @@
+{"channel": "wowy", "avg_viewers": 61, "followers_gained": 101, "peak_viewers": 284, "hours_streamed": 72, "streams": 18, "mature": 0, "language": "English", "account_age": 2836800.0}

@@ -1,0 +1,1 @@
+{"channel": "dota_ixtiandr", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 0, "hours_streamed": 8, "streams": 7, "mature": 0, "language": "Russian", "account_age": 109440.0}

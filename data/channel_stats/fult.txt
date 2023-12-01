@@ -1,0 +1,1 @@
+{"channel": "fult", "avg_viewers": 10, "followers_gained": 19, "peak_viewers": 174, "hours_streamed": 17, "streams": 9, "mature": 0, "language": "English", "account_age": 964800.0}

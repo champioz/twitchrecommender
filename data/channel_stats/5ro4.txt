@@ -1,0 +1,1 @@
+{"channel": "5ro4", "avg_viewers": 44, "followers_gained": 60, "peak_viewers": 61, "hours_streamed": 5, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 3254400.0}

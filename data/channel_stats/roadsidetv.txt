@@ -1,0 +1,1 @@
+{"channel": "roadsidetv", "avg_viewers": 2, "followers_gained": 15, "peak_viewers": 14, "hours_streamed": 28, "streams": 10, "mature": 1, "language": "English", "account_age": 1850400.0}

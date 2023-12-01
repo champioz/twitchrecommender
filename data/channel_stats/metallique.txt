@@ -1,0 +1,1 @@
+{"channel": "metallique", "avg_viewers": 4, "followers_gained": 68, "peak_viewers": 16, "hours_streamed": 78, "streams": 26, "mature": 0, "language": "Turkish", "account_age": 2522880.0}

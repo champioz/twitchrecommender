@@ -1,0 +1,1 @@
+{"channel": "caseyucwb", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 8, "hours_streamed": 24, "streams": 13, "mature": 0, "language": "English", "account_age": 790560.0}

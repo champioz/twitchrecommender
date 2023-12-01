@@ -1,0 +1,1 @@
+{"channel": "adrive", "avg_viewers": 525, "followers_gained": 3439, "peak_viewers": 877, "hours_streamed": 81, "streams": 22, "mature": 0, "language": "English", "account_age": 4728960.0}

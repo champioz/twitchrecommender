@@ -1,0 +1,1 @@
+{"channel": "knuspergemeindetv", "avg_viewers": 6, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 4, "streams": 1, "mature": 1, "language": "German", "account_age": 1895040.0}

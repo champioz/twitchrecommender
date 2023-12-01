@@ -1,0 +1,1 @@
+{"channel": "drlee_kor", "avg_viewers": 520, "followers_gained": 881, "peak_viewers": 1222, "hours_streamed": 243, "streams": 38, "mature": 0, "language": "Korean", "account_age": 2613600.0}

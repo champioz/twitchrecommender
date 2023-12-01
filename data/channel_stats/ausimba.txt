@@ -1,0 +1,1 @@
+{"channel": "ausimba", "avg_viewers": 6, "followers_gained": 34, "peak_viewers": 31, "hours_streamed": 139, "streams": 23, "mature": 1, "language": "English", "account_age": 924480.0}

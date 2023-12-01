@@ -1,0 +1,1 @@
+{"channel": "breadwitchery", "avg_viewers": 39, "followers_gained": 510, "peak_viewers": 184, "hours_streamed": 71, "streams": 15, "mature": 1, "language": "English", "account_age": 849600.0}

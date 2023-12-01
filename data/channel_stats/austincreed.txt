@@ -1,0 +1,1 @@
+{"channel": "austincreed", "avg_viewers": 191, "followers_gained": 1271, "peak_viewers": 879, "hours_streamed": 14, "streams": 7, "mature": 1, "language": "English", "account_age": 2619360.0}

@@ -1,0 +1,1 @@
+{"channel": "nypram", "avg_viewers": 3, "followers_gained": 26, "peak_viewers": 12, "hours_streamed": 78, "streams": 30, "mature": 0, "language": "Thai", "account_age": 1094400.0}

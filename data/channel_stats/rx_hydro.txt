@@ -1,0 +1,1 @@
+{"channel": "rx_hydro", "avg_viewers": 10, "followers_gained": 2, "peak_viewers": 21, "hours_streamed": 37, "streams": 14, "mature": 1, "language": "English", "account_age": 3327840.0}

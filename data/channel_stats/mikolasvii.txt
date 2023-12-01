@@ -1,0 +1,1 @@
+{"channel": "mikolasvii", "avg_viewers": 3, "followers_gained": 28, "peak_viewers": 40, "hours_streamed": 111, "streams": 24, "mature": 1, "language": "English", "account_age": 2702880.0}

@@ -1,0 +1,1 @@
+{"channel": "moboknight", "avg_viewers": 4, "followers_gained": 42, "peak_viewers": 19, "hours_streamed": 117, "streams": 38, "mature": 0, "language": "German", "account_age": 1169280.0}

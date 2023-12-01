@@ -1,0 +1,1 @@
+{"channel": "aehon", "avg_viewers": 5, "followers_gained": 23, "peak_viewers": 15, "hours_streamed": 102, "streams": 28, "mature": 1, "language": "English", "account_age": 1628640.0}

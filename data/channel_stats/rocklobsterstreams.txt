@@ -1,0 +1,1 @@
+{"channel": "rocklobsterstreams", "avg_viewers": 11, "followers_gained": 21, "peak_viewers": 28, "hours_streamed": 58, "streams": 15, "mature": 1, "language": "English", "account_age": 1876320.0}

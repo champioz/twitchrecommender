@@ -1,0 +1,1 @@
+{"channel": "ilexc", "avg_viewers": 4, "followers_gained": 13, "peak_viewers": 12, "hours_streamed": 15, "streams": 6, "mature": 0, "language": "English", "account_age": 606240.0}

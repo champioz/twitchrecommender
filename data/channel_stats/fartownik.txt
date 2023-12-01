@@ -1,0 +1,1 @@
+{"channel": "fartownik", "avg_viewers": 15, "followers_gained": 4, "peak_viewers": 20, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Polish", "account_age": 3781440.0}

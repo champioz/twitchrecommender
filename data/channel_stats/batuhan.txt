@@ -1,0 +1,1 @@
+{"channel": "batuhan", "avg_viewers": 18, "followers_gained": 243, "peak_viewers": 44, "hours_streamed": 108, "streams": 22, "mature": 1, "language": "Turkish", "account_age": 2270880.0}

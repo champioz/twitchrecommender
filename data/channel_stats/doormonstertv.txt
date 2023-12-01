@@ -1,0 +1,1 @@
+{"channel": "doormonstertv", "avg_viewers": 4, "followers_gained": 39, "peak_viewers": 11, "hours_streamed": 31, "streams": 12, "mature": 0, "language": "English", "account_age": 1465920.0}

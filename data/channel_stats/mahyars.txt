@@ -1,0 +1,1 @@
+{"channel": "mahyars", "avg_viewers": 452, "followers_gained": 394, "peak_viewers": 893, "hours_streamed": 60, "streams": 11, "mature": 1, "language": "French", "account_age": 2620800.0}

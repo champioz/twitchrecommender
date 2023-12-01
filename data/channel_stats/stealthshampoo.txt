@@ -1,0 +1,1 @@
+{"channel": "stealthshampoo", "avg_viewers": 5, "followers_gained": 37, "peak_viewers": 13, "hours_streamed": 27, "streams": 13, "mature": 1, "language": "English", "account_age": 3060000.0}

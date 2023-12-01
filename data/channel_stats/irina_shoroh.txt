@@ -1,0 +1,1 @@
+{"channel": "irina_shoroh", "avg_viewers": 15, "followers_gained": 33, "peak_viewers": 71, "hours_streamed": 13, "streams": 5, "mature": 0, "language": "Russian", "account_age": 698400.0}

@@ -1,0 +1,1 @@
+{"channel": "gtrix55", "avg_viewers": 66, "followers_gained": 6, "peak_viewers": 84, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "English", "account_age": 758880.0}

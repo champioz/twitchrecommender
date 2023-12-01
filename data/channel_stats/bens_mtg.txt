@@ -1,0 +1,1 @@
+{"channel": "bens_mtg", "avg_viewers": 1120, "followers_gained": 1662, "peak_viewers": 1874, "hours_streamed": 62, "streams": 10, "mature": 0, "language": "English", "account_age": 342720.0}

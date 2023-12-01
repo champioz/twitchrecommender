@@ -1,0 +1,1 @@
+{"channel": "tev_et_louis", "avg_viewers": 95, "followers_gained": 623, "peak_viewers": 191, "hours_streamed": 18, "streams": 9, "mature": 0, "language": "French", "account_age": 545760.0}

@@ -1,0 +1,1 @@
+{"channel": "wisherfox", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 5, "hours_streamed": 78, "streams": 14, "mature": 0, "language": "Spanish", "account_age": 1490400.0}

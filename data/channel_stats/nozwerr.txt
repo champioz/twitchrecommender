@@ -1,0 +1,1 @@
+{"channel": "nozwerr", "avg_viewers": 9, "followers_gained": 10, "peak_viewers": 21, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 2233440.0}

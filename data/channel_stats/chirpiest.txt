@@ -1,0 +1,1 @@
+{"channel": "chirpiest", "avg_viewers": 18, "followers_gained": 225, "peak_viewers": 55, "hours_streamed": 92, "streams": 19, "mature": 0, "language": "English", "account_age": 1612800.0}

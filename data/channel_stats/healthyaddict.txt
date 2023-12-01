@@ -1,0 +1,1 @@
+{"channel": "healthyaddict", "avg_viewers": 28, "followers_gained": 25, "peak_viewers": 87, "hours_streamed": 29, "streams": 14, "mature": 0, "language": "English", "account_age": 2679840.0}

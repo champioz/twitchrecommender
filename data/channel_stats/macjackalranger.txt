@@ -1,0 +1,1 @@
+{"channel": "macjackalranger", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 13, "hours_streamed": 19, "streams": 7, "mature": 1, "language": "English", "account_age": 2132640.0}

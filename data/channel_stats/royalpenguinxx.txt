@@ -1,0 +1,1 @@
+{"channel": "royalpenguinxx", "avg_viewers": 9, "followers_gained": 281, "peak_viewers": 28, "hours_streamed": 48, "streams": 26, "mature": 0, "language": "English", "account_age": 1902240.0}

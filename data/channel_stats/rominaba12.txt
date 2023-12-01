@@ -1,0 +1,1 @@
+{"channel": "rominaba12", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 14, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "Spanish", "account_age": 989280.0}

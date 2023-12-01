@@ -1,0 +1,1 @@
+{"channel": "l3on_esp", "avg_viewers": 3, "followers_gained": 26, "peak_viewers": 12, "hours_streamed": 100, "streams": 49, "mature": 0, "language": "Spanish", "account_age": 982080.0}

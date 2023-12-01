@@ -1,0 +1,1 @@
+{"channel": "yaslw", "avg_viewers": 7, "followers_gained": 288, "peak_viewers": 29, "hours_streamed": 92, "streams": 30, "mature": 0, "language": "French", "account_age": 300960.0}

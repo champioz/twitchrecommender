@@ -1,0 +1,1 @@
+{"channel": "rainbow6jp", "avg_viewers": 814, "followers_gained": 825, "peak_viewers": 2020, "hours_streamed": 53, "streams": 11, "mature": 0, "language": "Japanese", "account_age": 709920.0}

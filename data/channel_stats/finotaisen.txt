@@ -1,0 +1,1 @@
+{"channel": "finotaisen", "avg_viewers": 185, "followers_gained": 558, "peak_viewers": 576, "hours_streamed": 110, "streams": 18, "mature": 0, "language": "English", "account_age": 1779840.0}

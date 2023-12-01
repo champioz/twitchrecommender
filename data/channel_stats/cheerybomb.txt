@@ -1,0 +1,1 @@
+{"channel": "cheerybomb", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 9, "hours_streamed": 111, "streams": 20, "mature": 0, "language": "English", "account_age": 3294720.0}

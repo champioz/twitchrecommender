@@ -1,0 +1,1 @@
+{"channel": "kyoshi2", "avg_viewers": 9, "followers_gained": 12, "peak_viewers": 75, "hours_streamed": 122, "streams": 27, "mature": 1, "language": "Japanese", "account_age": 1231200.0}

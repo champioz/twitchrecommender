@@ -1,0 +1,1 @@
+{"channel": "ain_game", "avg_viewers": 54, "followers_gained": 18, "peak_viewers": 113, "hours_streamed": 71, "streams": 24, "mature": 0, "language": "Japanese", "account_age": 954720.0}

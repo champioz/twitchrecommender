@@ -1,0 +1,1 @@
+{"channel": "sixentv", "avg_viewers": 51, "followers_gained": 216, "peak_viewers": 227, "hours_streamed": 92, "streams": 32, "mature": 0, "language": "French", "account_age": 3512160.0}

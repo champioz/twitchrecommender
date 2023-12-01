@@ -1,0 +1,1 @@
+{"channel": "therealbnard", "avg_viewers": 28, "followers_gained": 55, "peak_viewers": 50, "hours_streamed": 1, "streams": 3, "mature": 1, "language": "English", "account_age": 1751040.0}

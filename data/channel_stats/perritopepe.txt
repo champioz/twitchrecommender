@@ -1,0 +1,1 @@
+{"channel": "perritopepe", "avg_viewers": 1, "followers_gained": 30, "peak_viewers": 9, "hours_streamed": 78, "streams": 27, "mature": 0, "language": "Spanish", "account_age": 976320.0}

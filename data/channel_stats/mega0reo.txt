@@ -1,0 +1,1 @@
+{"channel": "mega0reo", "avg_viewers": 7, "followers_gained": 66, "peak_viewers": 20, "hours_streamed": 149, "streams": 26, "mature": 1, "language": "English", "account_age": 2288160.0}

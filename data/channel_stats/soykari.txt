@@ -1,0 +1,1 @@
+{"channel": "soykari", "avg_viewers": 13, "followers_gained": 122, "peak_viewers": 167, "hours_streamed": 36, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 910080.0}

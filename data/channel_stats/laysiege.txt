@@ -1,0 +1,1 @@
+{"channel": "laysiege", "avg_viewers": 43, "followers_gained": 135, "peak_viewers": 88, "hours_streamed": 69, "streams": 22, "mature": 1, "language": "English", "account_age": 378720.0}

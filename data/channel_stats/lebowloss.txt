@@ -1,0 +1,1 @@
+{"channel": "lebowloss", "avg_viewers": 1, "followers_gained": 23, "peak_viewers": 10, "hours_streamed": 148, "streams": 18, "mature": 1, "language": "French", "account_age": 2291040.0}

@@ -1,0 +1,1 @@
+{"channel": "jiawc_fps", "avg_viewers": 6, "followers_gained": 24, "peak_viewers": 20, "hours_streamed": 101, "streams": 45, "mature": 1, "language": "Chinese", "account_age": 2999520.0}

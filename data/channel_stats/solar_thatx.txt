@@ -1,0 +1,1 @@
+{"channel": "solar_thatx", "avg_viewers": 0, "followers_gained": 15, "peak_viewers": 4, "hours_streamed": 54, "streams": 34, "mature": 0, "language": "English", "account_age": 489600.0}

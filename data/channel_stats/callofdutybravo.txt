@@ -1,0 +1,1 @@
+{"channel": "callofdutybravo", "avg_viewers": 8229, "followers_gained": 3513, "peak_viewers": 43260, "hours_streamed": 15, "streams": 2, "mature": 1, "language": "English", "account_age": 3339360.0}

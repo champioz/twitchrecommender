@@ -1,0 +1,1 @@
+{"channel": "mr_banana_hat", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 28, "streams": 6, "mature": 1, "language": "Russian", "account_age": 1807200.0}

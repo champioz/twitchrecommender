@@ -1,0 +1,1 @@
+{"channel": "mikailstream", "avg_viewers": 6, "followers_gained": 24, "peak_viewers": 32, "hours_streamed": 95, "streams": 36, "mature": 0, "language": "Russian", "account_age": 960480.0}

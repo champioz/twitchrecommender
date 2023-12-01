@@ -1,0 +1,1 @@
+{"channel": "kahmul78", "avg_viewers": 219, "followers_gained": 57, "peak_viewers": 370, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "English", "account_age": 3324960.0}

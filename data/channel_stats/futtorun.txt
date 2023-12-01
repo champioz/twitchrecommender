@@ -1,0 +1,1 @@
+{"channel": "futtorun", "avg_viewers": 22, "followers_gained": 41, "peak_viewers": 70, "hours_streamed": 16, "streams": 6, "mature": 0, "language": "Turkish", "account_age": 3764160.0}

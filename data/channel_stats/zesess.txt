@@ -1,0 +1,1 @@
+{"channel": "zesess", "avg_viewers": 8, "followers_gained": 481, "peak_viewers": 37, "hours_streamed": 67, "streams": 31, "mature": 1, "language": "Turkish", "account_age": 573120.0}

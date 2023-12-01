@@ -1,0 +1,1 @@
+{"channel": "swimbananas", "avg_viewers": 18, "followers_gained": 25, "peak_viewers": 29, "hours_streamed": 12, "streams": 4, "mature": 0, "language": "English", "account_age": 2913120.0}

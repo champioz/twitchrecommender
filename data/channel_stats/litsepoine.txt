@@ -1,0 +1,1 @@
+{"channel": "litsepoine", "avg_viewers": 16, "followers_gained": 84, "peak_viewers": 33, "hours_streamed": 7, "streams": 5, "mature": 0, "language": "Turkish", "account_age": 2204640.0}

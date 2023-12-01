@@ -1,0 +1,1 @@
+{"channel": "kobe0802", "avg_viewers": 360, "followers_gained": 1319, "peak_viewers": 1524, "hours_streamed": 95, "streams": 19, "mature": 1, "language": "English", "account_age": 2854080.0}

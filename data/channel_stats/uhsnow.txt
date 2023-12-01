@@ -1,0 +1,1 @@
+{"channel": "uhsnow", "avg_viewers": 2796, "followers_gained": 8468, "peak_viewers": 6494, "hours_streamed": 145, "streams": 22, "mature": 1, "language": "English", "account_age": 1715040.0}

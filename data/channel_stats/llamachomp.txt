@@ -1,0 +1,1 @@
+{"channel": "llamachomp", "avg_viewers": 84, "followers_gained": 2, "peak_viewers": 166, "hours_streamed": 138, "streams": 23, "mature": 0, "language": "English", "account_age": 2838240.0}

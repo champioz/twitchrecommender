@@ -1,0 +1,1 @@
+{"channel": "producerivanov", "avg_viewers": 44, "followers_gained": 366, "peak_viewers": 92, "hours_streamed": 57, "streams": 17, "mature": 1, "language": "Russian", "account_age": 751680.0}

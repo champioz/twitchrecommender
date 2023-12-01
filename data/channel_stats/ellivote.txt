@@ -1,0 +1,1 @@
+{"channel": "ellivote", "avg_viewers": 24, "followers_gained": 240, "peak_viewers": 63, "hours_streamed": 35, "streams": 13, "mature": 0, "language": "Swedish", "account_age": 1977120.0}

@@ -1,0 +1,1 @@
+{"channel": "hlballn1223", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 25, "hours_streamed": 21, "streams": 14, "mature": 0, "language": "English", "account_age": 587520.0}

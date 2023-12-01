@@ -1,0 +1,1 @@
+{"channel": "toktak1221", "avg_viewers": 15, "followers_gained": 40, "peak_viewers": 58, "hours_streamed": 94, "streams": 35, "mature": 0, "language": "Korean", "account_age": 360000.0}

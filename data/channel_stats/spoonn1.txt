@@ -1,0 +1,1 @@
+{"channel": "spoonn1", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 148, "streams": 50, "mature": 1, "language": "English", "account_age": 3794400.0}

@@ -1,0 +1,1 @@
+{"channel": "pokelawls", "avg_viewers": 3091, "followers_gained": 12477, "peak_viewers": 6557, "hours_streamed": 153, "streams": 26, "mature": 1, "language": "English", "account_age": 4815360.0}

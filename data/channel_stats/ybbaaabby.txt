@@ -1,0 +1,1 @@
+{"channel": "ybbaaabby", "avg_viewers": 108, "followers_gained": 301, "peak_viewers": 164, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "English", "account_age": 2802240.0}

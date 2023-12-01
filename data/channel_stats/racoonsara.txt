@@ -1,0 +1,1 @@
+{"channel": "racoonsara", "avg_viewers": 13, "followers_gained": 59, "peak_viewers": 35, "hours_streamed": 23, "streams": 7, "mature": 0, "language": "Dutch", "account_age": 197280.0}

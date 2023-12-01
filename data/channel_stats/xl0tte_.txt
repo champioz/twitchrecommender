@@ -1,0 +1,1 @@
+{"channel": "xl0tte_", "avg_viewers": 17, "followers_gained": 7, "peak_viewers": 30, "hours_streamed": 6, "streams": 2, "mature": 1, "language": "Dutch", "account_age": 1032480.0}

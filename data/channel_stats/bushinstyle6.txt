@@ -1,0 +1,1 @@
+{"channel": "bushinstyle6", "avg_viewers": 22, "followers_gained": 113, "peak_viewers": 64, "hours_streamed": 135, "streams": 78, "mature": 0, "language": "English", "account_age": 2181600.0}

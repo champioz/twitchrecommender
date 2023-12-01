@@ -1,0 +1,1 @@
+{"channel": "kmk494", "avg_viewers": 7, "followers_gained": 40, "peak_viewers": 25, "hours_streamed": 127, "streams": 28, "mature": 0, "language": "Korean", "account_age": 878400.0}

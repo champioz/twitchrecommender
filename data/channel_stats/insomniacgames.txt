@@ -1,0 +1,1 @@
+{"channel": "insomniacgames", "avg_viewers": 32, "followers_gained": 67, "peak_viewers": 99, "hours_streamed": 5, "streams": 5, "mature": 0, "language": "English", "account_age": 4292640.0}

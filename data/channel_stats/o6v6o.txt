@@ -1,0 +1,1 @@
+{"channel": "o6v6o", "avg_viewers": 5, "followers_gained": 121, "peak_viewers": 88, "hours_streamed": 279, "streams": 69, "mature": 0, "language": "Japanese", "account_age": 1429920.0}

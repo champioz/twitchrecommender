@@ -1,0 +1,1 @@
+{"channel": "yougotmarin", "avg_viewers": 13, "followers_gained": 4, "peak_viewers": 22, "hours_streamed": 9, "streams": 2, "mature": 1, "language": "English", "account_age": 1704960.0}

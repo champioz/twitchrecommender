@@ -1,0 +1,1 @@
+{"channel": "stopannya", "avg_viewers": 180, "followers_gained": 48, "peak_viewers": 288, "hours_streamed": 26, "streams": 9, "mature": 0, "language": "Russian", "account_age": 2407680.0}

@@ -1,0 +1,1 @@
+{"channel": "mrneolix", "avg_viewers": 3, "followers_gained": 19, "peak_viewers": 15, "hours_streamed": 75, "streams": 21, "mature": 1, "language": "German", "account_age": 2305440.0}

@@ -1,0 +1,1 @@
+{"channel": "craysor1", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 0, "hours_streamed": 0, "streams": 0, "mature": 0, "language": "French", "account_age": 1706400.0}

@@ -1,0 +1,1 @@
+{"channel": "exxausto", "avg_viewers": 29, "followers_gained": 23, "peak_viewers": 64, "hours_streamed": 26, "streams": 15, "mature": 1, "language": "Portuguese", "account_age": 289440.0}

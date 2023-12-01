@@ -1,0 +1,1 @@
+{"channel": "barkiyo", "avg_viewers": 31, "followers_gained": 284, "peak_viewers": 146, "hours_streamed": 144, "streams": 42, "mature": 1, "language": "Spanish", "account_age": 3172320.0}

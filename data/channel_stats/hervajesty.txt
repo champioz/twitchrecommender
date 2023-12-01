@@ -1,0 +1,1 @@
+{"channel": "hervajesty", "avg_viewers": 29, "followers_gained": 73, "peak_viewers": 60, "hours_streamed": 44, "streams": 13, "mature": 1, "language": "English", "account_age": 2784960.0}

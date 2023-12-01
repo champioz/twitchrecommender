@@ -1,0 +1,1 @@
+{"channel": "tweetythis", "avg_viewers": 25, "followers_gained": 90, "peak_viewers": 61, "hours_streamed": 50, "streams": 17, "mature": 0, "language": "English", "account_age": 724320.0}

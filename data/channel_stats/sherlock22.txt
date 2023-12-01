@@ -1,0 +1,1 @@
+{"channel": "sherlock22", "avg_viewers": 41, "followers_gained": 200, "peak_viewers": 147, "hours_streamed": 58, "streams": 7, "mature": 0, "language": "Portuguese", "account_age": 3083040.0}

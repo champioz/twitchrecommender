@@ -1,0 +1,1 @@
+{"channel": "razorredd", "avg_viewers": 73, "followers_gained": 467, "peak_viewers": 153, "hours_streamed": 66, "streams": 21, "mature": 0, "language": "English", "account_age": 799200.0}

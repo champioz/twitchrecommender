@@ -1,0 +1,1 @@
+{"channel": "bonzooitje", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 16, "hours_streamed": 79, "streams": 8, "mature": 1, "language": "English", "account_age": 2560320.0}

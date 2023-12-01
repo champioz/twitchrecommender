@@ -1,0 +1,1 @@
+{"channel": "ded_kolbaster", "avg_viewers": 3, "followers_gained": 33, "peak_viewers": 35, "hours_streamed": 72, "streams": 30, "mature": 0, "language": "Russian", "account_age": 1281600.0}

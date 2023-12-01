@@ -1,0 +1,1 @@
+{"channel": "tiramishuga", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 13, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "Russian", "account_age": 322560.0}

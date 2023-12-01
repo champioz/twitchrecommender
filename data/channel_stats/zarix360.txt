@@ -1,0 +1,1 @@
+{"channel": "zarix360", "avg_viewers": 12, "followers_gained": 40, "peak_viewers": 24, "hours_streamed": 18, "streams": 7, "mature": 0, "language": "English", "account_age": 792000.0}

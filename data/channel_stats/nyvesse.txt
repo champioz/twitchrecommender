@@ -1,0 +1,1 @@
+{"channel": "nyvesse", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 4, "hours_streamed": 32, "streams": 17, "mature": 0, "language": "English", "account_age": 1440000.0}

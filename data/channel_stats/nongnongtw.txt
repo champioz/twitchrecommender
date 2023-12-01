@@ -1,0 +1,1 @@
+{"channel": "nongnongtw", "avg_viewers": 50, "followers_gained": 78, "peak_viewers": 136, "hours_streamed": 155, "streams": 17, "mature": 0, "language": "Chinese", "account_age": 1468800.0}

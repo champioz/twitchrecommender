@@ -1,0 +1,1 @@
+{"channel": "aarondizon", "avg_viewers": 6, "followers_gained": 7, "peak_viewers": 37, "hours_streamed": 76, "streams": 14, "mature": 1, "language": "English", "account_age": 1473120.0}

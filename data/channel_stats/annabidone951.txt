@@ -1,0 +1,1 @@
+{"channel": "annabidone951", "avg_viewers": 5, "followers_gained": 34, "peak_viewers": 13, "hours_streamed": 32, "streams": 15, "mature": 0, "language": "Italian", "account_age": 263520.0}

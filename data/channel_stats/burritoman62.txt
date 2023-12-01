@@ -1,0 +1,1 @@
+{"channel": "burritoman62", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 99, "streams": 14, "mature": 1, "language": "English", "account_age": 2069280.0}

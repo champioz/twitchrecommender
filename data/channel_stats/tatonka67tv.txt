@@ -1,0 +1,1 @@
+{"channel": "tatonka67tv", "avg_viewers": 4, "followers_gained": 20, "peak_viewers": 32, "hours_streamed": 139, "streams": 41, "mature": 1, "language": "German", "account_age": 381600.0}

@@ -1,0 +1,1 @@
+{"channel": "momentumot", "avg_viewers": 14, "followers_gained": 78, "peak_viewers": 34, "hours_streamed": 79, "streams": 15, "mature": 0, "language": "English", "account_age": 348480.0}

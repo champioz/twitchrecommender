@@ -1,0 +1,1 @@
+{"channel": "higoma99", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 35, "streams": 12, "mature": 1, "language": "Chinese", "account_age": 2141280.0}

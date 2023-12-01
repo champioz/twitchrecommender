@@ -1,0 +1,1 @@
+{"channel": "mango1119", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 3, "streams": 2, "mature": 1, "language": "Chinese", "account_age": 2291040.0}

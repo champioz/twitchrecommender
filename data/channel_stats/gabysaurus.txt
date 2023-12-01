@@ -1,0 +1,1 @@
+{"channel": "gabysaurus", "avg_viewers": 12, "followers_gained": 9, "peak_viewers": 17, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 3634560.0}

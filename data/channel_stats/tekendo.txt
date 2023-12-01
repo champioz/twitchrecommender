@@ -1,0 +1,1 @@
+{"channel": "tekendo", "avg_viewers": 50, "followers_gained": 273, "peak_viewers": 90, "hours_streamed": 3, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 688320.0}

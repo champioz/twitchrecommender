@@ -1,0 +1,1 @@
+{"channel": "kayamja", "avg_viewers": 13, "followers_gained": 86, "peak_viewers": 25, "hours_streamed": 88, "streams": 16, "mature": 1, "language": "English", "account_age": 1362240.0}

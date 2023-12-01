@@ -1,0 +1,1 @@
+{"channel": "lsd69c", "avg_viewers": 3, "followers_gained": 50, "peak_viewers": 14, "hours_streamed": 87, "streams": 35, "mature": 1, "language": "Hungarian", "account_age": 2044800.0}

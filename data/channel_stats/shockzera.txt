@@ -1,0 +1,1 @@
+{"channel": "shockzera", "avg_viewers": 2, "followers_gained": 31, "peak_viewers": 10, "hours_streamed": 78, "streams": 32, "mature": 1, "language": "Portuguese", "account_age": 2795040.0}

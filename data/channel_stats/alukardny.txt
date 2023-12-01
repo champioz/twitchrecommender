@@ -1,0 +1,1 @@
+{"channel": "alukardny", "avg_viewers": 80, "followers_gained": 256, "peak_viewers": 462, "hours_streamed": 64, "streams": 17, "mature": 1, "language": "English", "account_age": 5287680.0}

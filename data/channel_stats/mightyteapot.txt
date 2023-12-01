@@ -1,0 +1,1 @@
+{"channel": "mightyteapot", "avg_viewers": 332, "followers_gained": 266, "peak_viewers": 829, "hours_streamed": 154, "streams": 30, "mature": 0, "language": "English", "account_age": 3250080.0}

@@ -1,0 +1,1 @@
+{"channel": "adusir", "avg_viewers": 8, "followers_gained": 99, "peak_viewers": 33, "hours_streamed": 113, "streams": 21, "mature": 1, "language": "German", "account_age": 666720.0}

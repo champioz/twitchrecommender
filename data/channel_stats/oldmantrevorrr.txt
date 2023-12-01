@@ -1,0 +1,1 @@
+{"channel": "oldmantrevorrr", "avg_viewers": 4, "followers_gained": 10, "peak_viewers": 16, "hours_streamed": 24, "streams": 12, "mature": 0, "language": "English", "account_age": 1072800.0}

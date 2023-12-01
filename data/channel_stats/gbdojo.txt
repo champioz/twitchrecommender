@@ -1,0 +1,1 @@
+{"channel": "gbdojo", "avg_viewers": 12, "followers_gained": 15, "peak_viewers": 57, "hours_streamed": 14, "streams": 2, "mature": 0, "language": "English", "account_age": 2809440.0}

@@ -1,0 +1,1 @@
+{"channel": "cz4der", "avg_viewers": 27, "followers_gained": 91, "peak_viewers": 92, "hours_streamed": 150, "streams": 30, "mature": 1, "language": "Polish", "account_age": 3045600.0}

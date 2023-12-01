@@ -1,0 +1,1 @@
+{"channel": "qmnkz", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 28, "streams": 6, "mature": 1, "language": "Spanish", "account_age": 2800800.0}

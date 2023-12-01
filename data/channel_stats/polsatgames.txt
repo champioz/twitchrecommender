@@ -1,0 +1,1 @@
+{"channel": "polsatgames", "avg_viewers": 2372, "followers_gained": 2275, "peak_viewers": 6824, "hours_streamed": 93, "streams": 23, "mature": 0, "language": "Polish", "account_age": 485280.0}

@@ -1,0 +1,1 @@
+{"channel": "nemewheel", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 25, "hours_streamed": 48, "streams": 18, "mature": 1, "language": "French", "account_age": 2116800.0}

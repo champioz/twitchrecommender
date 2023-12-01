@@ -1,0 +1,1 @@
+{"channel": "trustno0ne", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 13, "hours_streamed": 78, "streams": 19, "mature": 1, "language": "German", "account_age": 3159360.0}

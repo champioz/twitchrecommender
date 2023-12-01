@@ -1,0 +1,1 @@
+{"channel": "runium", "avg_viewers": 16, "followers_gained": 3, "peak_viewers": 68, "hours_streamed": 27, "streams": 9, "mature": 0, "language": "Russian", "account_age": 1317600.0}

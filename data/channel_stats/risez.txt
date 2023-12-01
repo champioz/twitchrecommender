@@ -1,0 +1,1 @@
+{"channel": "risez", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 21, "hours_streamed": 10, "streams": 3, "mature": 1, "language": "Finnish", "account_age": 3860640.0}

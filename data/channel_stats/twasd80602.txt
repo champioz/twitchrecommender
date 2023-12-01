@@ -1,0 +1,1 @@
+{"channel": "twasd80602", "avg_viewers": 33, "followers_gained": 26, "peak_viewers": 103, "hours_streamed": 41, "streams": 19, "mature": 1, "language": "Chinese", "account_age": 3458880.0}

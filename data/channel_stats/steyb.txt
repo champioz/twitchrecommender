@@ -1,0 +1,1 @@
+{"channel": "steyb", "avg_viewers": 39, "followers_gained": 952, "peak_viewers": 81, "hours_streamed": 59, "streams": 28, "mature": 0, "language": "Spanish", "account_age": 2535840.0}

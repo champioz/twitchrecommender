@@ -1,0 +1,1 @@
+{"channel": "aesmatv", "avg_viewers": 195, "followers_gained": 1398, "peak_viewers": 790, "hours_streamed": 238, "streams": 28, "mature": 0, "language": "English", "account_age": 2862720.0}

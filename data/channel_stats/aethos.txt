@@ -1,0 +1,1 @@
+{"channel": "aethos", "avg_viewers": 27, "followers_gained": 66, "peak_viewers": 105, "hours_streamed": 234, "streams": 27, "mature": 1, "language": "English", "account_age": 3733920.0}

@@ -1,0 +1,1 @@
+{"channel": "godjj", "avg_viewers": 4633, "followers_gained": 1689, "peak_viewers": 9497, "hours_streamed": 144, "streams": 32, "mature": 0, "language": "Chinese", "account_age": 4906080.0}

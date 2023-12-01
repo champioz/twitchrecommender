@@ -1,0 +1,1 @@
+{"channel": "iceman862", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 11, "streams": 7, "mature": 0, "language": "German", "account_age": 1941120.0}

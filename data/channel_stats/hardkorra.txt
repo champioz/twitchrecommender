@@ -1,0 +1,1 @@
+{"channel": "hardkorra", "avg_viewers": 122, "followers_gained": 50, "peak_viewers": 268, "hours_streamed": 165, "streams": 25, "mature": 1, "language": "Russian", "account_age": 1856160.0}

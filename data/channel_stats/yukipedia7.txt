@@ -1,0 +1,1 @@
+{"channel": "yukipedia7", "avg_viewers": 82, "followers_gained": 359, "peak_viewers": 166, "hours_streamed": 124, "streams": 17, "mature": 0, "language": "Japanese", "account_age": 234720.0}

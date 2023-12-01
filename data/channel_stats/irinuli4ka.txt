@@ -1,0 +1,1 @@
+{"channel": "irinuli4ka", "avg_viewers": 17, "followers_gained": 47, "peak_viewers": 496, "hours_streamed": 59, "streams": 21, "mature": 0, "language": "Russian", "account_age": 227520.0}

@@ -1,0 +1,1 @@
+{"channel": "dangoms", "avg_viewers": 72, "followers_gained": 1345, "peak_viewers": 319, "hours_streamed": 186, "streams": 46, "mature": 0, "language": "Portuguese", "account_age": 728640.0}

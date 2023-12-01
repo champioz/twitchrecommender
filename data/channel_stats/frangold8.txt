@@ -1,0 +1,1 @@
+{"channel": "frangold8", "avg_viewers": 7, "followers_gained": 21, "peak_viewers": 16, "hours_streamed": 12, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 1297440.0}

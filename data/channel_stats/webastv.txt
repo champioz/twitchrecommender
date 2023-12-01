@@ -1,0 +1,1 @@
+{"channel": "webastv", "avg_viewers": 5, "followers_gained": 17, "peak_viewers": 11, "hours_streamed": 78, "streams": 24, "mature": 0, "language": "Spanish", "account_age": 290880.0}

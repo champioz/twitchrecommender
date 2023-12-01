@@ -1,0 +1,1 @@
+{"channel": "drake0sugar", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 1, "streams": 1, "mature": 1, "language": "German", "account_age": 2943360.0}

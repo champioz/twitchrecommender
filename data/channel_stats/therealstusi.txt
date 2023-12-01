@@ -1,0 +1,1 @@
+{"channel": "therealstusi", "avg_viewers": 3, "followers_gained": 13, "peak_viewers": 12, "hours_streamed": 49, "streams": 17, "mature": 1, "language": "German", "account_age": 2070720.0}

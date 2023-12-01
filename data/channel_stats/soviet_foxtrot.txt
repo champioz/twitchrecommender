@@ -1,0 +1,1 @@
+{"channel": "soviet_foxtrot", "avg_viewers": 5, "followers_gained": 26, "peak_viewers": 17, "hours_streamed": 28, "streams": 10, "mature": 1, "language": "English", "account_age": 2682720.0}

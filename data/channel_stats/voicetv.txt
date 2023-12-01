@@ -1,0 +1,1 @@
+{"channel": "voicetv", "avg_viewers": 261, "followers_gained": 172, "peak_viewers": 1680, "hours_streamed": 730, "streams": 8, "mature": 0, "language": "Thai", "account_age": 704160.0}

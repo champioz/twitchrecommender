@@ -1,0 +1,1 @@
+{"channel": "evanescence_fanr", "avg_viewers": 253, "followers_gained": 21, "peak_viewers": 431, "hours_streamed": 5, "streams": 3, "mature": 1, "language": "Chinese", "account_age": 2865600.0}

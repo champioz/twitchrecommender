@@ -1,0 +1,1 @@
+{"channel": "frejz1993", "avg_viewers": 3, "followers_gained": 24, "peak_viewers": 20, "hours_streamed": 191, "streams": 17, "mature": 1, "language": "Czech", "account_age": 2288160.0}

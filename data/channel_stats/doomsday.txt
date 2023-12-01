@@ -1,0 +1,1 @@
+{"channel": "doomsday", "avg_viewers": 43, "followers_gained": 68, "peak_viewers": 140, "hours_streamed": 81, "streams": 19, "mature": 1, "language": "English", "account_age": 4176000.0}

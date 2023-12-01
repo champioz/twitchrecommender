@@ -1,0 +1,1 @@
+{"channel": "blacknero", "avg_viewers": 5, "followers_gained": 37, "peak_viewers": 17, "hours_streamed": 112, "streams": 31, "mature": 1, "language": "German", "account_age": 1689120.0}

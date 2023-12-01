@@ -1,0 +1,1 @@
+{"channel": "dalgyu123", "avg_viewers": 11, "followers_gained": 19, "peak_viewers": 40, "hours_streamed": 188, "streams": 23, "mature": 0, "language": "Korean", "account_age": 224640.0}

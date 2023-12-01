@@ -1,0 +1,1 @@
+{"channel": "zivader", "avg_viewers": 6, "followers_gained": 4, "peak_viewers": 13, "hours_streamed": 18, "streams": 9, "mature": 1, "language": "English", "account_age": 3502080.0}

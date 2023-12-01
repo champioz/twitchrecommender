@@ -1,0 +1,1 @@
+{"channel": "thatsonicgamer", "avg_viewers": 3, "followers_gained": 45, "peak_viewers": 12, "hours_streamed": 108, "streams": 31, "mature": 0, "language": "English", "account_age": 2986560.0}

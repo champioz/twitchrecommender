@@ -1,0 +1,1 @@
+{"channel": "daut", "avg_viewers": 281, "followers_gained": 328, "peak_viewers": 506, "hours_streamed": 40, "streams": 12, "mature": 0, "language": "English", "account_age": 3863520.0}

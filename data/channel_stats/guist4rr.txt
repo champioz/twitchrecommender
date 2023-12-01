@@ -1,0 +1,1 @@
+{"channel": "guist4rr", "avg_viewers": 31, "followers_gained": 8, "peak_viewers": 69, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "Portuguese", "account_age": 3327840.0}

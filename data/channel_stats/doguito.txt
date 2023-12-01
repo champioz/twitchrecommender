@@ -1,0 +1,1 @@
+{"channel": "doguito", "avg_viewers": 6, "followers_gained": 57, "peak_viewers": 155, "hours_streamed": 37, "streams": 17, "mature": 1, "language": "Spanish", "account_age": 2433600.0}

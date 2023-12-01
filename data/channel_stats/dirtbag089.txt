@@ -1,0 +1,1 @@
+{"channel": "dirtbag089", "avg_viewers": 3, "followers_gained": 125, "peak_viewers": 12, "hours_streamed": 150, "streams": 36, "mature": 0, "language": "English", "account_age": 2394720.0}

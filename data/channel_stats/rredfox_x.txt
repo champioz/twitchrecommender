@@ -1,0 +1,1 @@
+{"channel": "rredfox_x", "avg_viewers": 21, "followers_gained": 55, "peak_viewers": 106, "hours_streamed": 148, "streams": 36, "mature": 1, "language": "German", "account_age": 3512160.0}

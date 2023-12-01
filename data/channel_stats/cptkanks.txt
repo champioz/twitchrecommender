@@ -1,0 +1,1 @@
+{"channel": "cptkanks", "avg_viewers": 19, "followers_gained": 52, "peak_viewers": 54, "hours_streamed": 109, "streams": 20, "mature": 1, "language": "English", "account_age": 2128320.0}

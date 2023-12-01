@@ -1,0 +1,1 @@
+{"channel": "mosse_", "avg_viewers": 13, "followers_gained": 26, "peak_viewers": 62, "hours_streamed": 13, "streams": 4, "mature": 1, "language": "Finnish", "account_age": 1055520.0}

@@ -1,0 +1,1 @@
+{"channel": "nopeej", "avg_viewers": 49, "followers_gained": 253, "peak_viewers": 154, "hours_streamed": 23, "streams": 9, "mature": 0, "language": "Portuguese", "account_age": 2430720.0}

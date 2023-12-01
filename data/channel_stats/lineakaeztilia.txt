@@ -1,0 +1,1 @@
+{"channel": "lineakaeztilia", "avg_viewers": 6, "followers_gained": 40, "peak_viewers": 17, "hours_streamed": 65, "streams": 15, "mature": 1, "language": "English", "account_age": 2753280.0}

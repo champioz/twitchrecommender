@@ -1,0 +1,1 @@
+{"channel": "kuluneken", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 12, "hours_streamed": 18, "streams": 6, "mature": 1, "language": "Spanish", "account_age": 3175200.0}

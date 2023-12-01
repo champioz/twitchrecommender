@@ -1,0 +1,1 @@
+{"channel": "thebeardoftwitch", "avg_viewers": 8, "followers_gained": 32, "peak_viewers": 18, "hours_streamed": 52, "streams": 8, "mature": 1, "language": "English", "account_age": 2285280.0}

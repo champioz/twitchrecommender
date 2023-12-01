@@ -1,0 +1,1 @@
+{"channel": "chechu14guti", "avg_viewers": 351, "followers_gained": 3514, "peak_viewers": 1355, "hours_streamed": 136, "streams": 23, "mature": 1, "language": "Spanish", "account_age": 3424320.0}

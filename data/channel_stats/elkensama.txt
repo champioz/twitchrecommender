@@ -1,0 +1,1 @@
+{"channel": "elkensama", "avg_viewers": 25, "followers_gained": 285, "peak_viewers": 88, "hours_streamed": 80, "streams": 26, "mature": 0, "language": "Spanish", "account_age": 698400.0}

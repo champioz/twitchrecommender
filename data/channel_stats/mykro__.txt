@@ -1,0 +1,1 @@
+{"channel": "mykro__", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 55, "streams": 14, "mature": 0, "language": "French", "account_age": 2197440.0}

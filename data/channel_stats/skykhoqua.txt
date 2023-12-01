@@ -1,0 +1,1 @@
+{"channel": "skykhoqua", "avg_viewers": 62, "followers_gained": 226, "peak_viewers": 172, "hours_streamed": 112, "streams": 27, "mature": 1, "language": "French", "account_age": 2589120.0}

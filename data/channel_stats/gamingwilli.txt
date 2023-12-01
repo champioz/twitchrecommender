@@ -1,0 +1,1 @@
+{"channel": "gamingwilli", "avg_viewers": 20, "followers_gained": 751, "peak_viewers": 104, "hours_streamed": 79, "streams": 25, "mature": 0, "language": "Danish", "account_age": 1756800.0}

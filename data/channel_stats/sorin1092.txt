@@ -1,0 +1,1 @@
+{"channel": "sorin1092", "avg_viewers": 12, "followers_gained": 27, "peak_viewers": 35, "hours_streamed": 22, "streams": 6, "mature": 1, "language": "English", "account_age": 2571840.0}

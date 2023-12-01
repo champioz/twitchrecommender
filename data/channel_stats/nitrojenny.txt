@@ -1,0 +1,1 @@
+{"channel": "nitrojenny", "avg_viewers": 25, "followers_gained": 301, "peak_viewers": 200, "hours_streamed": 81, "streams": 19, "mature": 1, "language": "English", "account_age": 804960.0}

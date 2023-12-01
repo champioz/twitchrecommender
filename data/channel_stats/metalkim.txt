@@ -1,0 +1,1 @@
+{"channel": "metalkim", "avg_viewers": 37, "followers_gained": 15, "peak_viewers": 66, "hours_streamed": 9, "streams": 5, "mature": 0, "language": "Korean", "account_age": 3182400.0}

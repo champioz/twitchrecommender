@@ -1,0 +1,1 @@
+{"channel": "adanalife_", "avg_viewers": 6, "followers_gained": 116, "peak_viewers": 19, "hours_streamed": 743, "streams": 5, "mature": 0, "language": "English", "account_age": 626400.0}

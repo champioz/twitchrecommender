@@ -1,0 +1,1 @@
+{"channel": "flamegoat", "avg_viewers": 8, "followers_gained": 3, "peak_viewers": 20, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "English", "account_age": 5964480.0}

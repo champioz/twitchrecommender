@@ -1,0 +1,1 @@
+{"channel": "solacelegacy", "avg_viewers": 2, "followers_gained": 23, "peak_viewers": 13, "hours_streamed": 65, "streams": 25, "mature": 1, "language": "English", "account_age": 2167200.0}

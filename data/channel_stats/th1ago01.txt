@@ -1,0 +1,1 @@
+{"channel": "th1ago01", "avg_viewers": 28, "followers_gained": 244, "peak_viewers": 85, "hours_streamed": 37, "streams": 20, "mature": 0, "language": "Portuguese", "account_age": 1568160.0}

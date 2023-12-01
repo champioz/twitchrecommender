@@ -1,0 +1,1 @@
+{"channel": "makcoh7", "avg_viewers": 22, "followers_gained": 31, "peak_viewers": 52, "hours_streamed": 93, "streams": 27, "mature": 0, "language": "Russian", "account_age": 2208960.0}

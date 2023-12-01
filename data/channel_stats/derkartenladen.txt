@@ -1,0 +1,1 @@
+{"channel": "derkartenladen", "avg_viewers": 10, "followers_gained": 7, "peak_viewers": 23, "hours_streamed": 19, "streams": 8, "mature": 1, "language": "German", "account_age": 3123360.0}

@@ -1,0 +1,1 @@
+{"channel": "rod_royal", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 28, "hours_streamed": 21, "streams": 9, "mature": 0, "language": "English", "account_age": 2792160.0}

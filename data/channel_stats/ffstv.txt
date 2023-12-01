@@ -1,0 +1,1 @@
+{"channel": "ffstv", "avg_viewers": 152, "followers_gained": 21, "peak_viewers": 587, "hours_streamed": 55, "streams": 11, "mature": 1, "language": "English", "account_age": 4577760.0}

@@ -1,0 +1,1 @@
+{"channel": "sidehome", "avg_viewers": 22, "followers_gained": 91, "peak_viewers": 59, "hours_streamed": 59, "streams": 25, "mature": 1, "language": "Korean", "account_age": 961920.0}

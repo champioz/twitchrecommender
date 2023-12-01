@@ -1,0 +1,1 @@
+{"channel": "kangaskid18", "avg_viewers": 25, "followers_gained": 38, "peak_viewers": 54, "hours_streamed": 27, "streams": 11, "mature": 0, "language": "English", "account_age": 1977120.0}

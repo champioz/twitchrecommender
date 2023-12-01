@@ -1,0 +1,1 @@
+{"channel": "iscythe_yt", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 6, "hours_streamed": 93, "streams": 45, "mature": 0, "language": "English", "account_age": 2185920.0}

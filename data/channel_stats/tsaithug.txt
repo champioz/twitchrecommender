@@ -1,0 +1,1 @@
+{"channel": "tsaithug", "avg_viewers": 5, "followers_gained": 76, "peak_viewers": 14, "hours_streamed": 71, "streams": 29, "mature": 1, "language": "French", "account_age": 645120.0}

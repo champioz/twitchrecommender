@@ -1,0 +1,1 @@
+{"channel": "mako", "avg_viewers": 297, "followers_gained": 165, "peak_viewers": 527, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "English", "account_age": 2790720.0}

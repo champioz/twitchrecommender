@@ -1,0 +1,1 @@
+{"channel": "botmoding", "avg_viewers": 32, "followers_gained": 17, "peak_viewers": 72, "hours_streamed": 7, "streams": 4, "mature": 0, "language": "English", "account_age": 3425760.0}

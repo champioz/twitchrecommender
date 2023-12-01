@@ -1,0 +1,1 @@
+{"channel": "thatsoalykat", "avg_viewers": 14, "followers_gained": 89, "peak_viewers": 97, "hours_streamed": 149, "streams": 25, "mature": 0, "language": "English", "account_age": 2331360.0}

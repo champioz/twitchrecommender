@@ -1,0 +1,1 @@
+{"channel": "balansgame", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 194, "streams": 43, "mature": 1, "language": "Russian", "account_age": 1620000.0}

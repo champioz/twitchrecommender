@@ -1,0 +1,1 @@
+{"channel": "poneyrasta", "avg_viewers": 13, "followers_gained": 5, "peak_viewers": 71, "hours_streamed": 28, "streams": 5, "mature": 1, "language": "Portuguese", "account_age": 1491840.0}

@@ -1,0 +1,1 @@
+{"channel": "run18", "avg_viewers": 5, "followers_gained": 35, "peak_viewers": 26, "hours_streamed": 32, "streams": 11, "mature": 1, "language": "English", "account_age": 695520.0}

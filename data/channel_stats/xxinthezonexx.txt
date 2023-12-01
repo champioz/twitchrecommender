@@ -1,0 +1,1 @@
+{"channel": "xxinthezonexx", "avg_viewers": 3, "followers_gained": 17, "peak_viewers": 14, "hours_streamed": 74, "streams": 20, "mature": 1, "language": "English", "account_age": 2666880.0}

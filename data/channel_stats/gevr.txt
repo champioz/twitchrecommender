@@ -1,0 +1,1 @@
+{"channel": "gevr", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "English", "account_age": 2833920.0}

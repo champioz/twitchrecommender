@@ -1,0 +1,1 @@
+{"channel": "gdmkaida", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 8, "hours_streamed": 21, "streams": 10, "mature": 1, "language": "English", "account_age": 3575520.0}

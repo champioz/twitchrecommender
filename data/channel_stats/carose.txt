@@ -1,0 +1,1 @@
+{"channel": "carose", "avg_viewers": 132, "followers_gained": 1300, "peak_viewers": 453, "hours_streamed": 32, "streams": 19, "mature": 0, "language": "English", "account_age": 3039840.0}

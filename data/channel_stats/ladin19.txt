@@ -1,0 +1,1 @@
+{"channel": "ladin19", "avg_viewers": 26, "followers_gained": 75, "peak_viewers": 218, "hours_streamed": 138, "streams": 34, "mature": 0, "language": "Korean", "account_age": 1241280.0}

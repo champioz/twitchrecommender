@@ -1,0 +1,1 @@
+{"channel": "linksnipes", "avg_viewers": 5, "followers_gained": 31, "peak_viewers": 22, "hours_streamed": 197, "streams": 37, "mature": 0, "language": "English", "account_age": 1647360.0}

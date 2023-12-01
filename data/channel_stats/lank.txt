@@ -1,0 +1,1 @@
+{"channel": "lank", "avg_viewers": 17, "followers_gained": 40, "peak_viewers": 46, "hours_streamed": 81, "streams": 18, "mature": 0, "language": "English", "account_age": 2845440.0}

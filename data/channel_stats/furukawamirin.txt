@@ -1,0 +1,1 @@
+{"channel": "furukawamirin", "avg_viewers": 800, "followers_gained": 58, "peak_viewers": 903, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Japanese", "account_age": 1185120.0}

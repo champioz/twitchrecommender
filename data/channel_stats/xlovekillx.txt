@@ -1,0 +1,1 @@
+{"channel": "xlovekillx", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 21, "streams": 14, "mature": 1, "language": "German", "account_age": 779040.0}

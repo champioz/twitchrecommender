@@ -1,0 +1,1 @@
+{"channel": "iscenario", "avg_viewers": 15, "followers_gained": 72, "peak_viewers": 54, "hours_streamed": 11, "streams": 3, "mature": 0, "language": "English", "account_age": 3100320.0}

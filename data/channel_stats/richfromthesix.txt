@@ -1,0 +1,1 @@
+{"channel": "richfromthesix", "avg_viewers": 54, "followers_gained": 383, "peak_viewers": 148, "hours_streamed": 37, "streams": 9, "mature": 1, "language": "English", "account_age": 3104640.0}

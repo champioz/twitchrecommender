@@ -1,0 +1,1 @@
+{"channel": "alcohalsey", "avg_viewers": 9, "followers_gained": 57, "peak_viewers": 25, "hours_streamed": 48, "streams": 14, "mature": 1, "language": "English", "account_age": 884160.0}

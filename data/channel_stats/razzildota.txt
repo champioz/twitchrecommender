@@ -1,0 +1,1 @@
+{"channel": "razzildota", "avg_viewers": 3, "followers_gained": 22, "peak_viewers": 28, "hours_streamed": 25, "streams": 8, "mature": 1, "language": "Russian", "account_age": 538560.0}

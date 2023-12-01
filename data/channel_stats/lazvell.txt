@@ -1,0 +1,1 @@
+{"channel": "lazvell", "avg_viewers": 91, "followers_gained": 127, "peak_viewers": 160, "hours_streamed": 27, "streams": 7, "mature": 0, "language": "Japanese", "account_age": 3101760.0}

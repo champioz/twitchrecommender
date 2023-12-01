@@ -1,0 +1,1 @@
+{"channel": "zealothockey", "avg_viewers": 18, "followers_gained": 1, "peak_viewers": 27, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "English", "account_age": 2730240.0}

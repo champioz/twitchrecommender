@@ -1,0 +1,1 @@
+{"channel": "diyavolica", "avg_viewers": 65, "followers_gained": 143, "peak_viewers": 88, "hours_streamed": 182, "streams": 44, "mature": 1, "language": "Russian", "account_age": 2306880.0}

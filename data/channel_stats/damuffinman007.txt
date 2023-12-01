@@ -1,0 +1,1 @@
+{"channel": "damuffinman007", "avg_viewers": 23, "followers_gained": 87, "peak_viewers": 38, "hours_streamed": 9, "streams": 5, "mature": 0, "language": "English", "account_age": 1599840.0}

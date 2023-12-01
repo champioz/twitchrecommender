@@ -1,0 +1,1 @@
+{"channel": "swissarma", "avg_viewers": 13, "followers_gained": 20, "peak_viewers": 28, "hours_streamed": 25, "streams": 10, "mature": 1, "language": "Finnish", "account_age": 2128320.0}

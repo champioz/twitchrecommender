@@ -1,0 +1,1 @@
+{"channel": "mhis", "avg_viewers": 6, "followers_gained": 25, "peak_viewers": 22, "hours_streamed": 12, "streams": 4, "mature": 0, "language": "Arabic", "account_age": 2134080.0}

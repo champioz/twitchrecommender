@@ -1,0 +1,1 @@
+{"channel": "lisalaurden", "avg_viewers": 28, "followers_gained": 1904, "peak_viewers": 51, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "Italian", "account_age": 357120.0}

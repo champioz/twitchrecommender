@@ -1,0 +1,1 @@
+{"channel": "indianabroad94", "avg_viewers": 30, "followers_gained": 122, "peak_viewers": 138, "hours_streamed": 81, "streams": 22, "mature": 0, "language": "English", "account_age": 941760.0}

@@ -1,0 +1,1 @@
+{"channel": "strike33", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 9, "hours_streamed": 27, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 1349280.0}

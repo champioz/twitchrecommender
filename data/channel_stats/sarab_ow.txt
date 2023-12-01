@@ -1,0 +1,1 @@
+{"channel": "sarab_ow", "avg_viewers": 4, "followers_gained": 14, "peak_viewers": 18, "hours_streamed": 35, "streams": 13, "mature": 0, "language": "Arabic", "account_age": 443520.0}

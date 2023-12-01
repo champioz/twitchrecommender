@@ -1,0 +1,1 @@
+{"channel": "xenoxga", "avg_viewers": 349, "followers_gained": 1716, "peak_viewers": 1147, "hours_streamed": 245, "streams": 25, "mature": 0, "language": "French", "account_age": 2769120.0}

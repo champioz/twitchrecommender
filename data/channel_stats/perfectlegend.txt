@@ -1,0 +1,1 @@
+{"channel": "perfectlegend", "avg_viewers": 71, "followers_gained": 65, "peak_viewers": 300, "hours_streamed": 181, "streams": 58, "mature": 1, "language": "English", "account_age": 5794560.0}

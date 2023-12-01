@@ -1,0 +1,1 @@
+{"channel": "liquidcandyy", "avg_viewers": 11, "followers_gained": 184, "peak_viewers": 37, "hours_streamed": 63, "streams": 17, "mature": 0, "language": "English", "account_age": 1620000.0}

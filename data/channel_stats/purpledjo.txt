@@ -1,0 +1,1 @@
+{"channel": "purpledjo", "avg_viewers": 54, "followers_gained": 2937, "peak_viewers": 153, "hours_streamed": 179, "streams": 54, "mature": 0, "language": "French", "account_age": 1595520.0}

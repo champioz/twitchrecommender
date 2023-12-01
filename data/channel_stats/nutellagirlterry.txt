@@ -1,0 +1,1 @@
+{"channel": "nutellagirlterry", "avg_viewers": 5, "followers_gained": 72, "peak_viewers": 42, "hours_streamed": 258, "streams": 29, "mature": 1, "language": "German", "account_age": 1895040.0}

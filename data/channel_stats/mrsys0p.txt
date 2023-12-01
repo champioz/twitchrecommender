@@ -1,0 +1,1 @@
+{"channel": "mrsys0p", "avg_viewers": 111, "followers_gained": 80, "peak_viewers": 215, "hours_streamed": 45, "streams": 16, "mature": 0, "language": "Finnish", "account_age": 777600.0}

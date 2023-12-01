@@ -1,0 +1,1 @@
+{"channel": "yaya3_", "avg_viewers": 336, "followers_gained": 113, "peak_viewers": 634, "hours_streamed": 21, "streams": 7, "mature": 0, "language": "Japanese", "account_age": 773280.0}

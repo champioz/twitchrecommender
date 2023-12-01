@@ -1,0 +1,1 @@
+{"channel": "cuenolife", "avg_viewers": 8, "followers_gained": 66, "peak_viewers": 1736, "hours_streamed": 212, "streams": 26, "mature": 1, "language": "English", "account_age": 2206080.0}

@@ -1,0 +1,1 @@
+{"channel": "tama2_liveztyle", "avg_viewers": 53, "followers_gained": 23, "peak_viewers": 69, "hours_streamed": 3, "streams": 3, "mature": 0, "language": "Thai", "account_age": 1251360.0}

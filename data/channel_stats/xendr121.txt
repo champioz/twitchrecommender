@@ -1,0 +1,1 @@
+{"channel": "xendr121", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 13, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "Czech", "account_age": 3775680.0}

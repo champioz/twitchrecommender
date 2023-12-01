@@ -1,0 +1,1 @@
+{"channel": "fuuka_", "avg_viewers": 53, "followers_gained": 17, "peak_viewers": 76, "hours_streamed": 4, "streams": 1, "mature": 1, "language": "German", "account_age": 1170720.0}

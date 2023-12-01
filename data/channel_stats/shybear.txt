@@ -1,0 +1,1 @@
+{"channel": "shybear", "avg_viewers": 25, "followers_gained": 48, "peak_viewers": 46, "hours_streamed": 54, "streams": 21, "mature": 1, "language": "English", "account_age": 2825280.0}

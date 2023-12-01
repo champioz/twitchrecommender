@@ -1,0 +1,1 @@
+{"channel": "kim60237", "avg_viewers": 7, "followers_gained": 9, "peak_viewers": 16, "hours_streamed": 115, "streams": 27, "mature": 0, "language": "Korean", "account_age": 1454400.0}

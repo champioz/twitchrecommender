@@ -1,0 +1,1 @@
+{"channel": "misstrashes", "avg_viewers": 49, "followers_gained": 177, "peak_viewers": 102, "hours_streamed": 159, "streams": 28, "mature": 1, "language": "English", "account_age": 3467520.0}

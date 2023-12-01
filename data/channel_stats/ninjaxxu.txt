@@ -1,0 +1,1 @@
+{"channel": "ninjaxxu", "avg_viewers": 62, "followers_gained": 382, "peak_viewers": 123, "hours_streamed": 18, "streams": 14, "mature": 0, "language": "French", "account_age": 2665440.0}

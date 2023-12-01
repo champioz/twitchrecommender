@@ -1,0 +1,1 @@
+{"channel": "dzarwinn", "avg_viewers": 11, "followers_gained": 11, "peak_viewers": 97, "hours_streamed": 26, "streams": 10, "mature": 1, "language": "English", "account_age": 2715840.0}

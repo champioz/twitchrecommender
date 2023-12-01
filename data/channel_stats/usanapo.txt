@@ -1,0 +1,1 @@
+{"channel": "usanapo", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "Japanese", "account_age": 596160.0}

@@ -1,0 +1,1 @@
+{"channel": "kaomis", "avg_viewers": 37, "followers_gained": 1106, "peak_viewers": 74, "hours_streamed": 114, "streams": 32, "mature": 1, "language": "Russian", "account_age": 1392480.0}

@@ -1,0 +1,1 @@
+{"channel": "fernando09xx", "avg_viewers": 5, "followers_gained": 55, "peak_viewers": 17, "hours_streamed": 43, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 727200.0}

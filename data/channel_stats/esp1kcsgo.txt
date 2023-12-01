@@ -1,0 +1,1 @@
+{"channel": "esp1kcsgo", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 25, "hours_streamed": 17, "streams": 9, "mature": 0, "language": "Russian", "account_age": 3450240.0}

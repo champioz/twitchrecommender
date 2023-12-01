@@ -1,0 +1,1 @@
+{"channel": "bombcatwombat", "avg_viewers": 7, "followers_gained": 15, "peak_viewers": 14, "hours_streamed": 36, "streams": 21, "mature": 0, "language": "English", "account_age": 352800.0}

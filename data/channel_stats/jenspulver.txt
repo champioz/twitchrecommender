@@ -1,0 +1,1 @@
+{"channel": "jenspulver", "avg_viewers": 76, "followers_gained": 1500, "peak_viewers": 573, "hours_streamed": 77, "streams": 19, "mature": 0, "language": "English", "account_age": 2846880.0}

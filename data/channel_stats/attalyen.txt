@@ -1,0 +1,1 @@
+{"channel": "attalyen", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 23, "hours_streamed": 12, "streams": 9, "mature": 1, "language": "Spanish", "account_age": 3539520.0}

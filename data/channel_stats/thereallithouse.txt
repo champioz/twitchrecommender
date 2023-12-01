@@ -1,0 +1,1 @@
+{"channel": "thereallithouse", "avg_viewers": 10, "followers_gained": 4, "peak_viewers": 23, "hours_streamed": 74, "streams": 20, "mature": 1, "language": "English", "account_age": 1951200.0}

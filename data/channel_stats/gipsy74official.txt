@@ -1,0 +1,1 @@
+{"channel": "gipsy74official", "avg_viewers": 254, "followers_gained": 198, "peak_viewers": 355, "hours_streamed": 22, "streams": 4, "mature": 1, "language": "Russian", "account_age": 144000.0}

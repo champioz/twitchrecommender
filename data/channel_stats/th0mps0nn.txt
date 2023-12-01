@@ -1,0 +1,1 @@
+{"channel": "th0mps0nn", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 9, "hours_streamed": 39, "streams": 13, "mature": 1, "language": "Finnish", "account_age": 1385280.0}

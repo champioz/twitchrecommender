@@ -1,0 +1,1 @@
+{"channel": "westpointstevegaming", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 28, "hours_streamed": 36, "streams": 14, "mature": 0, "language": "English", "account_age": 2180160.0}

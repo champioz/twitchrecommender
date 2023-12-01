@@ -1,0 +1,1 @@
+{"channel": "mcgunski", "avg_viewers": 250, "followers_gained": 643, "peak_viewers": 378, "hours_streamed": 12, "streams": 5, "mature": 0, "language": "English", "account_age": 1801440.0}

@@ -1,0 +1,1 @@
+{"channel": "wowbaedk", "avg_viewers": 6, "followers_gained": 6, "peak_viewers": 30, "hours_streamed": 10, "streams": 6, "mature": 0, "language": "Korean", "account_age": 156960.0}

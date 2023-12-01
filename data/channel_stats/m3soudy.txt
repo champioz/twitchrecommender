@@ -1,0 +1,1 @@
+{"channel": "m3soudy", "avg_viewers": 64, "followers_gained": 105, "peak_viewers": 99, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "Arabic", "account_age": 797760.0}

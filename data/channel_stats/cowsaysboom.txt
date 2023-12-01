@@ -1,0 +1,1 @@
+{"channel": "cowsaysboom", "avg_viewers": 9, "followers_gained": 12, "peak_viewers": 24, "hours_streamed": 34, "streams": 9, "mature": 1, "language": "English", "account_age": 2507040.0}

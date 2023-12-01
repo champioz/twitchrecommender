@@ -1,0 +1,1 @@
+{"channel": "ginkotv", "avg_viewers": 17, "followers_gained": 11, "peak_viewers": 42, "hours_streamed": 96, "streams": 25, "mature": 0, "language": "Spanish", "account_age": 2926080.0}

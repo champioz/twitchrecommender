@@ -1,0 +1,1 @@
+{"channel": "spicy_fr", "avg_viewers": 15, "followers_gained": 356, "peak_viewers": 38, "hours_streamed": 172, "streams": 53, "mature": 1, "language": "French", "account_age": 587520.0}

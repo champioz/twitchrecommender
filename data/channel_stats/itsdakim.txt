@@ -1,0 +1,1 @@
+{"channel": "itsdakim", "avg_viewers": 29, "followers_gained": 181, "peak_viewers": 178, "hours_streamed": 116, "streams": 14, "mature": 1, "language": "English", "account_age": 3054240.0}

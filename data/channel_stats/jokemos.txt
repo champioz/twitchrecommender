@@ -1,0 +1,1 @@
+{"channel": "jokemos", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 1, "hours_streamed": 2, "streams": 5, "mature": 0, "language": "Bulgarian", "account_age": 491040.0}

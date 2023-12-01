@@ -1,0 +1,1 @@
+{"channel": "devil", "avg_viewers": 70, "followers_gained": 148, "peak_viewers": 181, "hours_streamed": 61, "streams": 19, "mature": 0, "language": "French", "account_age": 3096000.0}

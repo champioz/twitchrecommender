@@ -1,0 +1,1 @@
+{"channel": "yagihiko", "avg_viewers": 31, "followers_gained": 118, "peak_viewers": 76, "hours_streamed": 159, "streams": 33, "mature": 0, "language": "Japanese", "account_age": 205920.0}

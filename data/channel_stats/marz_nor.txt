@@ -1,0 +1,1 @@
+{"channel": "marz_nor", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 11, "hours_streamed": 38, "streams": 19, "mature": 0, "language": "Norwegian", "account_age": 1317600.0}

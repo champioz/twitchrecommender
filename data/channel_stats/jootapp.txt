@@ -1,0 +1,1 @@
+{"channel": "jootapp", "avg_viewers": 69, "followers_gained": 217, "peak_viewers": 145, "hours_streamed": 12, "streams": 7, "mature": 0, "language": "Portuguese", "account_age": 1189440.0}

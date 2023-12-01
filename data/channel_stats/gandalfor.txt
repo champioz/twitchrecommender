@@ -1,0 +1,1 @@
+{"channel": "gandalfor", "avg_viewers": 82, "followers_gained": 251, "peak_viewers": 273, "hours_streamed": 40, "streams": 11, "mature": 1, "language": "Spanish", "account_age": 3312000.0}

@@ -1,0 +1,1 @@
+{"channel": "thepoon", "avg_viewers": 227, "followers_gained": 460, "peak_viewers": 781, "hours_streamed": 14, "streams": 6, "mature": 1, "language": "English", "account_age": 3594240.0}

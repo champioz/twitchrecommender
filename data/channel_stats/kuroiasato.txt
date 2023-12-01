@@ -1,0 +1,1 @@
+{"channel": "kuroiasato", "avg_viewers": 10, "followers_gained": 5, "peak_viewers": 19, "hours_streamed": 14, "streams": 4, "mature": 1, "language": "Russian", "account_age": 3245760.0}

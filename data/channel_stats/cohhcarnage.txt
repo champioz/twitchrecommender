@@ -1,0 +1,1 @@
+{"channel": "cohhcarnage", "avg_viewers": 9032, "followers_gained": 6556, "peak_viewers": 15735, "hours_streamed": 208, "streams": 52, "mature": 0, "language": "English", "account_age": 4024800.0}

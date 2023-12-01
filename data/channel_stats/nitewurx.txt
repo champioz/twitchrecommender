@@ -1,0 +1,1 @@
+{"channel": "nitewurx", "avg_viewers": 4, "followers_gained": 13, "peak_viewers": 12, "hours_streamed": 31, "streams": 3, "mature": 0, "language": "English", "account_age": 3363840.0}

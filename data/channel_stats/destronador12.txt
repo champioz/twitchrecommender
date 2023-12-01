@@ -1,0 +1,1 @@
+{"channel": "destronador12", "avg_viewers": 2, "followers_gained": 29, "peak_viewers": 10, "hours_streamed": 61, "streams": 33, "mature": 0, "language": "Spanish", "account_age": 1222560.0}

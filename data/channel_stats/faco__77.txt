@@ -1,0 +1,1 @@
+{"channel": "faco__77", "avg_viewers": 22, "followers_gained": 282, "peak_viewers": 55, "hours_streamed": 166, "streams": 30, "mature": 1, "language": "French", "account_age": 974880.0}

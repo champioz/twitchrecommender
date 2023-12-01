@@ -1,0 +1,1 @@
+{"channel": "spiritzer0", "avg_viewers": 80, "followers_gained": 73, "peak_viewers": 329, "hours_streamed": 155, "streams": 24, "mature": 1, "language": "Korean", "account_age": 3644640.0}

@@ -1,0 +1,1 @@
+{"channel": "cimbek", "avg_viewers": 11, "followers_gained": 182, "peak_viewers": 44, "hours_streamed": 58, "streams": 18, "mature": 0, "language": "Turkish", "account_age": 2052000.0}

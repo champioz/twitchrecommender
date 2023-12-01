@@ -1,0 +1,1 @@
+{"channel": "af0xygrampa", "avg_viewers": 100, "followers_gained": 31, "peak_viewers": 135, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "English", "account_age": 4226400.0}

@@ -1,0 +1,1 @@
+{"channel": "yamalight", "avg_viewers": 6, "followers_gained": 13, "peak_viewers": 15, "hours_streamed": 6, "streams": 5, "mature": 0, "language": "English", "account_age": 3189600.0}

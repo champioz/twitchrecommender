@@ -1,0 +1,1 @@
+{"channel": "charalanahzard", "avg_viewers": 367, "followers_gained": 266, "peak_viewers": 422, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 2649600.0}

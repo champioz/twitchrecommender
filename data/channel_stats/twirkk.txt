@@ -1,0 +1,1 @@
+{"channel": "twirkk", "avg_viewers": 1, "followers_gained": 11, "peak_viewers": 7, "hours_streamed": 45, "streams": 15, "mature": 1, "language": "English", "account_age": 2350080.0}

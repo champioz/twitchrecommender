@@ -1,0 +1,1 @@
+{"channel": "the_txrtle", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 9, "hours_streamed": 28, "streams": 19, "mature": 0, "language": "English", "account_age": 524160.0}

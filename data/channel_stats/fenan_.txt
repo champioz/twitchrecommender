@@ -1,0 +1,1 @@
+{"channel": "fenan_", "avg_viewers": 24, "followers_gained": 15, "peak_viewers": 55, "hours_streamed": 8, "streams": 6, "mature": 0, "language": "Spanish", "account_age": 1353600.0}

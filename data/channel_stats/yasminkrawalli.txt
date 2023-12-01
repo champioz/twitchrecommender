@@ -1,0 +1,1 @@
+{"channel": "yasminkrawalli", "avg_viewers": 17, "followers_gained": 21, "peak_viewers": 42, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "German", "account_age": 1807200.0}

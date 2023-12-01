@@ -1,0 +1,1 @@
+{"channel": "themuffin27", "avg_viewers": 4, "followers_gained": 24, "peak_viewers": 13, "hours_streamed": 15, "streams": 4, "mature": 0, "language": "English", "account_age": 3133440.0}

@@ -1,0 +1,1 @@
+{"channel": "craftystr", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 30, "streams": 13, "mature": 0, "language": "English", "account_age": 3463200.0}

@@ -1,0 +1,1 @@
+{"channel": "ichthusgg", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 17, "hours_streamed": 59, "streams": 14, "mature": 0, "language": "English", "account_age": 2124000.0}

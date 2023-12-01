@@ -1,0 +1,1 @@
+{"channel": "br_fael", "avg_viewers": 4, "followers_gained": 116, "peak_viewers": 20, "hours_streamed": 170, "streams": 50, "mature": 1, "language": "Portuguese", "account_age": 2433600.0}

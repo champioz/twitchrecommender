@@ -1,0 +1,1 @@
+{"channel": "alphanim", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 13, "hours_streamed": 29, "streams": 13, "mature": 1, "language": "Spanish", "account_age": 3117600.0}

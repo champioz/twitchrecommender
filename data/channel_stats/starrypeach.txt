@@ -1,0 +1,1 @@
+{"channel": "starrypeach", "avg_viewers": 42, "followers_gained": 1757, "peak_viewers": 175, "hours_streamed": 139, "streams": 27, "mature": 0, "language": "Portuguese", "account_age": 1117440.0}

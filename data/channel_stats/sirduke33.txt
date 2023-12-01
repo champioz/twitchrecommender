@@ -1,0 +1,1 @@
+{"channel": "sirduke33", "avg_viewers": 9, "followers_gained": 17, "peak_viewers": 18, "hours_streamed": 45, "streams": 11, "mature": 1, "language": "English", "account_age": 2763360.0}

@@ -1,0 +1,1 @@
+{"channel": "indygaming317", "avg_viewers": 36, "followers_gained": 117, "peak_viewers": 88, "hours_streamed": 16, "streams": 7, "mature": 0, "language": "English", "account_age": 665280.0}

@@ -1,0 +1,1 @@
+{"channel": "ayvaro", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 18, "streams": 12, "mature": 0, "language": "English", "account_age": 430560.0}

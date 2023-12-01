@@ -1,0 +1,1 @@
+{"channel": "maikeru", "avg_viewers": 222, "followers_gained": 834, "peak_viewers": 665, "hours_streamed": 132, "streams": 19, "mature": 1, "language": "English", "account_age": 3814560.0}

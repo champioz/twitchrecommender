@@ -1,0 +1,1 @@
+{"channel": "la3euka", "avg_viewers": 39, "followers_gained": 1248, "peak_viewers": 434, "hours_streamed": 165, "streams": 31, "mature": 0, "language": "Russian", "account_age": 3108960.0}

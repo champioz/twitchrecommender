@@ -1,0 +1,1 @@
+{"channel": "garmakilma", "avg_viewers": 33, "followers_gained": 355, "peak_viewers": 520, "hours_streamed": 62, "streams": 19, "mature": 1, "language": "English", "account_age": 3169440.0}

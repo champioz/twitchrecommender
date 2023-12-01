@@ -1,0 +1,1 @@
+{"channel": "o_af", "avg_viewers": 103, "followers_gained": 874, "peak_viewers": 438, "hours_streamed": 68, "streams": 15, "mature": 0, "language": "Portuguese", "account_age": 3477600.0}

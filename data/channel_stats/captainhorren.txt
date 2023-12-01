@@ -1,0 +1,1 @@
+{"channel": "captainhorren", "avg_viewers": 16, "followers_gained": 118, "peak_viewers": 43, "hours_streamed": 27, "streams": 5, "mature": 1, "language": "German", "account_age": 3893760.0}

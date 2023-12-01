@@ -1,0 +1,1 @@
+{"channel": "gardevuar67", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 17, "streams": 9, "mature": 0, "language": "Russian", "account_age": 1874880.0}

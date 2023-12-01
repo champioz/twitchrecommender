@@ -1,0 +1,1 @@
+{"channel": "vafelka", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 12, "streams": 12, "mature": 0, "language": "Russian", "account_age": 3957120.0}

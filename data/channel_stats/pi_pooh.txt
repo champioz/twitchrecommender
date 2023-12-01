@@ -1,0 +1,1 @@
+{"channel": "pi_pooh", "avg_viewers": 4, "followers_gained": 19, "peak_viewers": 12, "hours_streamed": 113, "streams": 27, "mature": 0, "language": "Russian", "account_age": 2069280.0}

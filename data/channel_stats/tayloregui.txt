@@ -1,0 +1,1 @@
+{"channel": "tayloregui", "avg_viewers": 9, "followers_gained": 128, "peak_viewers": 27, "hours_streamed": 91, "streams": 22, "mature": 1, "language": "English", "account_age": 809280.0}

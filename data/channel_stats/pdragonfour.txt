@@ -1,0 +1,1 @@
+{"channel": "pdragonfour", "avg_viewers": 18, "followers_gained": 170, "peak_viewers": 41, "hours_streamed": 129, "streams": 44, "mature": 0, "language": "Korean", "account_age": 953280.0}

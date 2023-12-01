@@ -1,0 +1,1 @@
+{"channel": "argon2fiery", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 3, "hours_streamed": 9, "streams": 14, "mature": 0, "language": "Polish", "account_age": 164160.0}

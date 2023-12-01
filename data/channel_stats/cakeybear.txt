@@ -1,0 +1,1 @@
+{"channel": "cakeybear", "avg_viewers": 13, "followers_gained": 7, "peak_viewers": 32, "hours_streamed": 48, "streams": 10, "mature": 1, "language": "English", "account_age": 2384640.0}

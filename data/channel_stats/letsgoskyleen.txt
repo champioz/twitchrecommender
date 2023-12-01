@@ -1,0 +1,1 @@
+{"channel": "letsgoskyleen", "avg_viewers": 6, "followers_gained": 64, "peak_viewers": 41, "hours_streamed": 20, "streams": 9, "mature": 0, "language": "French", "account_age": 712800.0}

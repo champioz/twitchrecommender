@@ -1,0 +1,1 @@
+{"channel": "tierratv", "avg_viewers": 29, "followers_gained": 17, "peak_viewers": 46, "hours_streamed": 16, "streams": 5, "mature": 0, "language": "English", "account_age": 679680.0}

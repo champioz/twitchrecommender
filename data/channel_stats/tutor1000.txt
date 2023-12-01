@@ -1,0 +1,1 @@
+{"channel": "tutor1000", "avg_viewers": 38, "followers_gained": 12, "peak_viewers": 102, "hours_streamed": 37, "streams": 9, "mature": 0, "language": "German", "account_age": 2829600.0}

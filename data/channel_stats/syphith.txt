@@ -1,0 +1,1 @@
+{"channel": "syphith", "avg_viewers": 3, "followers_gained": 29, "peak_viewers": 11, "hours_streamed": 133, "streams": 31, "mature": 0, "language": "English", "account_age": 2963520.0}

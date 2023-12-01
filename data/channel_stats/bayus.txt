@@ -1,0 +1,1 @@
+{"channel": "bayus", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 10, "hours_streamed": 29, "streams": 17, "mature": 1, "language": "German", "account_age": 2204640.0}

@@ -1,0 +1,1 @@
+{"channel": "gilraennr", "avg_viewers": 110, "followers_gained": 956, "peak_viewers": 1245, "hours_streamed": 189, "streams": 31, "mature": 1, "language": "Spanish", "account_age": 3422880.0}

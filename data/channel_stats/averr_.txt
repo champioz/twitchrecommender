@@ -1,0 +1,1 @@
+{"channel": "averr_", "avg_viewers": 4, "followers_gained": 38, "peak_viewers": 12, "hours_streamed": 55, "streams": 19, "mature": 0, "language": "Polish", "account_age": 423360.0}

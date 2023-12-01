@@ -1,0 +1,1 @@
+{"channel": "imhyp3x", "avg_viewers": 15, "followers_gained": 94, "peak_viewers": 32, "hours_streamed": 39, "streams": 15, "mature": 0, "language": "German", "account_age": 426240.0}

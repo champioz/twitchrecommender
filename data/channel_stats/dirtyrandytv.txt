@@ -1,0 +1,1 @@
+{"channel": "dirtyrandytv", "avg_viewers": 52, "followers_gained": 357, "peak_viewers": 127, "hours_streamed": 274, "streams": 29, "mature": 1, "language": "English", "account_age": 1867680.0}

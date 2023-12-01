@@ -1,0 +1,1 @@
+{"channel": "deelaaaan", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 18, "streams": 14, "mature": 0, "language": "English", "account_age": 724320.0}

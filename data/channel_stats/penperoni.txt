@@ -1,0 +1,1 @@
+{"channel": "penperoni", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 28, "hours_streamed": 31, "streams": 12, "mature": 1, "language": "Portuguese", "account_age": 3664800.0}

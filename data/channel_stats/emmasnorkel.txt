@@ -1,0 +1,1 @@
+{"channel": "emmasnorkel", "avg_viewers": 15, "followers_gained": 85, "peak_viewers": 61, "hours_streamed": 41, "streams": 12, "mature": 1, "language": "Dutch", "account_age": 1432800.0}

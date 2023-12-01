@@ -1,0 +1,1 @@
+{"channel": "yungdk", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 17, "hours_streamed": 5, "streams": 6, "mature": 0, "language": "Danish", "account_age": 1333440.0}

@@ -1,0 +1,1 @@
+{"channel": "sarang2ya", "avg_viewers": 7, "followers_gained": 12, "peak_viewers": 12, "hours_streamed": 6, "streams": 6, "mature": 0, "language": "Korean", "account_age": 168480.0}

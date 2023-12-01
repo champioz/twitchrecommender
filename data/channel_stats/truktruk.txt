@@ -1,0 +1,1 @@
+{"channel": "truktruk", "avg_viewers": 57, "followers_gained": 13, "peak_viewers": 207, "hours_streamed": 133, "streams": 22, "mature": 0, "language": "English", "account_age": 4413600.0}

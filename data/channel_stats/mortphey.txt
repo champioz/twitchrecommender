@@ -1,0 +1,1 @@
+{"channel": "mortphey", "avg_viewers": 3, "followers_gained": 24, "peak_viewers": 11, "hours_streamed": 107, "streams": 37, "mature": 1, "language": "Russian", "account_age": 1807200.0}

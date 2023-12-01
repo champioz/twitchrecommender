@@ -1,0 +1,1 @@
+{"channel": "ppnpp", "avg_viewers": 2, "followers_gained": 34, "peak_viewers": 21, "hours_streamed": 58, "streams": 32, "mature": 0, "language": "Japanese", "account_age": 992160.0}

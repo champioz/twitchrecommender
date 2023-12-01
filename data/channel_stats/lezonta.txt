@@ -1,0 +1,1 @@
+{"channel": "lezonta", "avg_viewers": 73, "followers_gained": 572, "peak_viewers": 1159, "hours_streamed": 265, "streams": 58, "mature": 1, "language": "English", "account_age": 1830240.0}

@@ -1,0 +1,1 @@
+{"channel": "kautelagg", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 0, "hours_streamed": 0, "streams": 0, "mature": 1, "language": "Portuguese", "account_age": 1248480.0}

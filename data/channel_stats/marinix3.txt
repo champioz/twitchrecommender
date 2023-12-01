@@ -1,0 +1,1 @@
+{"channel": "marinix3", "avg_viewers": 19, "followers_gained": 72, "peak_viewers": 102, "hours_streamed": 150, "streams": 46, "mature": 1, "language": "German", "account_age": 2570400.0}

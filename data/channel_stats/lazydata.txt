@@ -1,0 +1,1 @@
+{"channel": "lazydata", "avg_viewers": 73, "followers_gained": 546, "peak_viewers": 307, "hours_streamed": 94, "streams": 23, "mature": 0, "language": "English", "account_age": 4239360.0}

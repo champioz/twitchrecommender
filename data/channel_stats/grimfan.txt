@@ -1,0 +1,1 @@
+{"channel": "grimfan", "avg_viewers": 93, "followers_gained": 3, "peak_viewers": 266, "hours_streamed": 15, "streams": 5, "mature": 1, "language": "English", "account_age": 5736960.0}

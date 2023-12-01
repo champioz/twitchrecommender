@@ -1,0 +1,1 @@
+{"channel": "kareneguez", "avg_viewers": 12, "followers_gained": 177, "peak_viewers": 41, "hours_streamed": 42, "streams": 24, "mature": 0, "language": "Spanish", "account_age": 550080.0}

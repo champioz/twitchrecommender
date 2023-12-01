@@ -1,0 +1,1 @@
+{"channel": "nachanon_45", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 7, "streams": 6, "mature": 0, "language": "Thai", "account_age": 861120.0}

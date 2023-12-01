@@ -1,0 +1,1 @@
+{"channel": "kiyth", "avg_viewers": 33, "followers_gained": 376, "peak_viewers": 62, "hours_streamed": 66, "streams": 22, "mature": 0, "language": "English", "account_age": 640800.0}

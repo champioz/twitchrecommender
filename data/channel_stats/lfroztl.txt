@@ -1,0 +1,1 @@
+{"channel": "lfroztl", "avg_viewers": 2, "followers_gained": 13, "peak_viewers": 12, "hours_streamed": 21, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 3576960.0}

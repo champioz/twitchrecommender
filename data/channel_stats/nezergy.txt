@@ -1,0 +1,1 @@
+{"channel": "nezergy", "avg_viewers": 9, "followers_gained": 28, "peak_viewers": 77, "hours_streamed": 45, "streams": 9, "mature": 0, "language": "English", "account_age": 3352320.0}

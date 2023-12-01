@@ -1,0 +1,1 @@
+{"channel": "rukaring", "avg_viewers": 100, "followers_gained": 702, "peak_viewers": 277, "hours_streamed": 28, "streams": 15, "mature": 0, "language": "Korean", "account_age": 872640.0}

@@ -1,0 +1,1 @@
+{"channel": "zooasylum", "avg_viewers": 12, "followers_gained": 27, "peak_viewers": 31, "hours_streamed": 31, "streams": 7, "mature": 1, "language": "English", "account_age": 987840.0}

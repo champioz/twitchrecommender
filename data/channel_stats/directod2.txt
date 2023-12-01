@@ -1,0 +1,1 @@
+{"channel": "directod2", "avg_viewers": 178, "followers_gained": 228, "peak_viewers": 1235, "hours_streamed": 25, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 1360800.0}

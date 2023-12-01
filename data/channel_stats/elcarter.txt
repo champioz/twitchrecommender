@@ -1,0 +1,1 @@
+{"channel": "elcarter", "avg_viewers": 2, "followers_gained": 25, "peak_viewers": 7, "hours_streamed": 45, "streams": 15, "mature": 1, "language": "Portuguese", "account_age": 2185920.0}

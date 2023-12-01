@@ -1,0 +1,1 @@
+{"channel": "bluemagebrilly", "avg_viewers": 10, "followers_gained": 12, "peak_viewers": 32, "hours_streamed": 69, "streams": 19, "mature": 0, "language": "English", "account_age": 3008160.0}

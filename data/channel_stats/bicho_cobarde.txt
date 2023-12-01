@@ -1,0 +1,1 @@
+{"channel": "bicho_cobarde", "avg_viewers": 41, "followers_gained": 197, "peak_viewers": 111, "hours_streamed": 31, "streams": 11, "mature": 0, "language": "Italian", "account_age": 1264320.0}

@@ -1,0 +1,1 @@
+{"channel": "elrincondejafedi", "avg_viewers": 33, "followers_gained": 48, "peak_viewers": 85, "hours_streamed": 10, "streams": 7, "mature": 0, "language": "Spanish", "account_age": 3602880.0}

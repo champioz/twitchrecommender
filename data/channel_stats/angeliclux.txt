@@ -1,0 +1,1 @@
+{"channel": "angeliclux", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 16, "hours_streamed": 64, "streams": 30, "mature": 0, "language": "English", "account_age": 1087200.0}

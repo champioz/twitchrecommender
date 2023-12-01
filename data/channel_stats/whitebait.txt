@@ -1,0 +1,1 @@
+{"channel": "whitebait", "avg_viewers": 7, "followers_gained": 4, "peak_viewers": 17, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "English", "account_age": 1454400.0}

@@ -1,0 +1,1 @@
+{"channel": "r9rai", "avg_viewers": 360, "followers_gained": 1953, "peak_viewers": 1126, "hours_streamed": 122, "streams": 35, "mature": 0, "language": "English", "account_age": 4857120.0}

@@ -1,0 +1,1 @@
+{"channel": "daxonsr", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 7, "hours_streamed": 8, "streams": 5, "mature": 1, "language": "English", "account_age": 2296800.0}

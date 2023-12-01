@@ -1,0 +1,1 @@
+{"channel": "leanandcuisine", "avg_viewers": 141, "followers_gained": 146, "peak_viewers": 173, "hours_streamed": 1, "streams": 2, "mature": 1, "language": "English", "account_age": 2508480.0}

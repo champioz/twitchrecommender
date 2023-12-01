@@ -1,0 +1,1 @@
+{"channel": "howtoplayad", "avg_viewers": 53, "followers_gained": 86, "peak_viewers": 141, "hours_streamed": 77, "streams": 14, "mature": 0, "language": "Russian", "account_age": 1113120.0}

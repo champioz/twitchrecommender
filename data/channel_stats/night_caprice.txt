@@ -1,0 +1,1 @@
+{"channel": "night_caprice", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 14, "streams": 6, "mature": 0, "language": "Russian", "account_age": 1274400.0}

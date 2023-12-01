@@ -1,0 +1,1 @@
+{"channel": "lishou", "avg_viewers": 14, "followers_gained": 2, "peak_viewers": 19, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "French", "account_age": 2268000.0}

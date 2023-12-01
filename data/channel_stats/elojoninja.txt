@@ -1,0 +1,1 @@
+{"channel": "elojoninja", "avg_viewers": 699, "followers_gained": 4565, "peak_viewers": 1523, "hours_streamed": 97, "streams": 22, "mature": 0, "language": "Spanish", "account_age": 3424320.0}

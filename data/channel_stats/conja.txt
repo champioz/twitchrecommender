@@ -1,0 +1,1 @@
+{"channel": "conja", "avg_viewers": 24, "followers_gained": 293, "peak_viewers": 98, "hours_streamed": 153, "streams": 24, "mature": 1, "language": "Swedish", "account_age": 1101600.0}

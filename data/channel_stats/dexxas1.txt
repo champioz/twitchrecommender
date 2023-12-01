@@ -1,0 +1,1 @@
+{"channel": "dexxas1", "avg_viewers": 23, "followers_gained": 117, "peak_viewers": 180, "hours_streamed": 65, "streams": 19, "mature": 0, "language": "Korean", "account_age": 725760.0}

@@ -1,0 +1,1 @@
+{"channel": "flexarion", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 13, "hours_streamed": 13, "streams": 8, "mature": 0, "language": "Turkish", "account_age": 816480.0}

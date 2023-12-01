@@ -1,0 +1,1 @@
+{"channel": "thejoystickchick", "avg_viewers": 20, "followers_gained": 8, "peak_viewers": 30, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "English", "account_age": 2073600.0}

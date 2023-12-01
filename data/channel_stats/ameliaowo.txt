@@ -1,0 +1,1 @@
+{"channel": "ameliaowo", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 13, "hours_streamed": 81, "streams": 14, "mature": 1, "language": "Finnish", "account_age": 3435840.0}

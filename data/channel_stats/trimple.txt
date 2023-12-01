@@ -1,0 +1,1 @@
+{"channel": "trimple", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 10, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "Other", "account_age": 774720.0}

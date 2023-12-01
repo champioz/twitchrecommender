@@ -1,0 +1,1 @@
+{"channel": "spaghooters", "avg_viewers": 8, "followers_gained": 41, "peak_viewers": 22, "hours_streamed": 163, "streams": 24, "mature": 1, "language": "English", "account_age": 1126080.0}

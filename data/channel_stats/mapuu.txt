@@ -1,0 +1,1 @@
+{"channel": "mapuu", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 20, "hours_streamed": 25, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 3617280.0}

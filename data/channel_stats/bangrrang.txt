@@ -1,0 +1,1 @@
+{"channel": "bangrrang", "avg_viewers": 7, "followers_gained": 12, "peak_viewers": 335, "hours_streamed": 85, "streams": 25, "mature": 1, "language": "English", "account_age": 2711520.0}

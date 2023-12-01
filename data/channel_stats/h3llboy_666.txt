@@ -1,0 +1,1 @@
+{"channel": "h3llboy_666", "avg_viewers": 25, "followers_gained": 4, "peak_viewers": 58, "hours_streamed": 37, "streams": 14, "mature": 0, "language": "Russian", "account_age": 695520.0}

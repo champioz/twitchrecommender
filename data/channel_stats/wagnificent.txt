@@ -1,0 +1,1 @@
+{"channel": "wagnificent", "avg_viewers": 52, "followers_gained": 726, "peak_viewers": 137, "hours_streamed": 233, "streams": 35, "mature": 1, "language": "English", "account_age": 1912320.0}

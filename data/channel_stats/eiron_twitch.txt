@@ -1,0 +1,1 @@
+{"channel": "eiron_twitch", "avg_viewers": 3, "followers_gained": 51, "peak_viewers": 19, "hours_streamed": 82, "streams": 40, "mature": 0, "language": "Spanish", "account_age": 639360.0}

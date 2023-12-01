@@ -1,0 +1,1 @@
+{"channel": "winduthemace", "avg_viewers": 32, "followers_gained": 58, "peak_viewers": 81, "hours_streamed": 197, "streams": 29, "mature": 0, "language": "English", "account_age": 3169440.0}

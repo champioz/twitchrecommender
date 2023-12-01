@@ -1,0 +1,1 @@
+{"channel": "buckarmy", "avg_viewers": 304, "followers_gained": 1108, "peak_viewers": 1374, "hours_streamed": 80, "streams": 23, "mature": 0, "language": "English", "account_age": 2286720.0}

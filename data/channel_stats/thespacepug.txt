@@ -1,0 +1,1 @@
+{"channel": "thespacepug", "avg_viewers": 77, "followers_gained": 50, "peak_viewers": 193, "hours_streamed": 51, "streams": 7, "mature": 0, "language": "English", "account_age": 1872000.0}

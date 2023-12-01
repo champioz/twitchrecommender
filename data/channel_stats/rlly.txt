@@ -1,0 +1,1 @@
+{"channel": "rlly", "avg_viewers": 124, "followers_gained": 482, "peak_viewers": 2176, "hours_streamed": 119, "streams": 21, "mature": 1, "language": "English", "account_age": 1074240.0}

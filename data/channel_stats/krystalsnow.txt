@@ -1,0 +1,1 @@
+{"channel": "krystalsnow", "avg_viewers": 65, "followers_gained": 54, "peak_viewers": 128, "hours_streamed": 138, "streams": 31, "mature": 0, "language": "Korean", "account_age": 1447200.0}

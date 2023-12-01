@@ -1,0 +1,1 @@
+{"channel": "theposther", "avg_viewers": 9, "followers_gained": 67, "peak_viewers": 29, "hours_streamed": 96, "streams": 32, "mature": 1, "language": "Spanish", "account_age": 2927520.0}

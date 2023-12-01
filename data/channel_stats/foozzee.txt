@@ -1,0 +1,1 @@
+{"channel": "foozzee", "avg_viewers": 56, "followers_gained": 29, "peak_viewers": 253, "hours_streamed": 53, "streams": 18, "mature": 0, "language": "Russian", "account_age": 3363840.0}

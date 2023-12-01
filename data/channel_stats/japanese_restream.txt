@@ -1,0 +1,1 @@
+{"channel": "japanese_restream", "avg_viewers": 857, "followers_gained": 563, "peak_viewers": 1449, "hours_streamed": 212, "streams": 6, "mature": 0, "language": "Japanese", "account_age": 1337760.0}

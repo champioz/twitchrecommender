@@ -1,0 +1,1 @@
+{"channel": "tomhouji", "avg_viewers": 4, "followers_gained": 24, "peak_viewers": 39, "hours_streamed": 274, "streams": 60, "mature": 1, "language": "Chinese", "account_age": 2289600.0}

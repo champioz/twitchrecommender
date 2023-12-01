@@ -1,0 +1,1 @@
+{"channel": "rochseaside", "avg_viewers": 11, "followers_gained": 22, "peak_viewers": 36, "hours_streamed": 18, "streams": 6, "mature": 1, "language": "Spanish", "account_age": 1671840.0}

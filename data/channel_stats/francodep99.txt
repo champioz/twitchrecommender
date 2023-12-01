@@ -1,0 +1,1 @@
+{"channel": "francodep99", "avg_viewers": 7, "followers_gained": 88, "peak_viewers": 22, "hours_streamed": 51, "streams": 26, "mature": 0, "language": "Italian", "account_age": 2185920.0}

@@ -1,0 +1,1 @@
+{"channel": "pu5chk1n", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "German", "account_age": 1491840.0}

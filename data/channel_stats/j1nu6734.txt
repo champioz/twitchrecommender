@@ -1,0 +1,1 @@
+{"channel": "j1nu6734", "avg_viewers": 507, "followers_gained": 283, "peak_viewers": 834, "hours_streamed": 8, "streams": 2, "mature": 0, "language": "Korean", "account_age": 1103040.0}

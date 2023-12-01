@@ -1,0 +1,1 @@
+{"channel": "sweetarcade", "avg_viewers": 40, "followers_gained": 9269, "peak_viewers": 114, "hours_streamed": 113, "streams": 30, "mature": 1, "language": "English", "account_age": 2581920.0}

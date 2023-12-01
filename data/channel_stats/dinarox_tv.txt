@@ -1,0 +1,1 @@
+{"channel": "dinarox_tv", "avg_viewers": 2, "followers_gained": 24, "peak_viewers": 8, "hours_streamed": 56, "streams": 12, "mature": 0, "language": "French", "account_age": 959040.0}

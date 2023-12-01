@@ -1,0 +1,1 @@
+{"channel": "schneeaeffchen", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 20, "hours_streamed": 68, "streams": 30, "mature": 1, "language": "German", "account_age": 823680.0}

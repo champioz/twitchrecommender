@@ -1,0 +1,1 @@
+{"channel": "kaonicks", "avg_viewers": 15, "followers_gained": 76, "peak_viewers": 41, "hours_streamed": 156, "streams": 30, "mature": 1, "language": "English", "account_age": 3229920.0}

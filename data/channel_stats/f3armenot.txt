@@ -1,0 +1,1 @@
+{"channel": "f3armenot", "avg_viewers": 0, "followers_gained": 9, "peak_viewers": 7, "hours_streamed": 108, "streams": 38, "mature": 1, "language": "Polish", "account_age": 478080.0}

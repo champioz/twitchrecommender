@@ -1,0 +1,1 @@
+{"channel": "kaiserchie", "avg_viewers": 3, "followers_gained": 32, "peak_viewers": 14, "hours_streamed": 41, "streams": 22, "mature": 0, "language": "Spanish", "account_age": 2587680.0}

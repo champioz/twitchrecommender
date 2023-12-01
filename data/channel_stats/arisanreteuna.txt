@@ -1,0 +1,1 @@
+{"channel": "arisanreteuna", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 42, "hours_streamed": 99, "streams": 31, "mature": 0, "language": "Turkish", "account_age": 1149120.0}

@@ -1,0 +1,1 @@
+{"channel": "sniperkasta", "avg_viewers": 8, "followers_gained": 90, "peak_viewers": 33, "hours_streamed": 37, "streams": 11, "mature": 0, "language": "Spanish", "account_age": 1277280.0}

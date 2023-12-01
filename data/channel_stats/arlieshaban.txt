@@ -1,0 +1,1 @@
+{"channel": "arlieshaban", "avg_viewers": 253, "followers_gained": 344, "peak_viewers": 1065, "hours_streamed": 120, "streams": 22, "mature": 1, "language": "English", "account_age": 2386080.0}

@@ -1,0 +1,1 @@
+{"channel": "bierbankb", "avg_viewers": 479, "followers_gained": 666, "peak_viewers": 903, "hours_streamed": 157, "streams": 23, "mature": 0, "language": "German", "account_age": 3503520.0}

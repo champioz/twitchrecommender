@@ -1,0 +1,1 @@
+{"channel": "mikexxii", "avg_viewers": 3, "followers_gained": 10, "peak_viewers": 24, "hours_streamed": 41, "streams": 12, "mature": 1, "language": "German", "account_age": 1807200.0}

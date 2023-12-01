@@ -1,0 +1,1 @@
+{"channel": "birdkeepertoby", "avg_viewers": 25, "followers_gained": 138, "peak_viewers": 56, "hours_streamed": 32, "streams": 25, "mature": 0, "language": "English", "account_age": 2341440.0}

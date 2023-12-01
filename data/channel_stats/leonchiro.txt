@@ -1,0 +1,1 @@
+{"channel": "leonchiro", "avg_viewers": 30, "followers_gained": 231, "peak_viewers": 48, "hours_streamed": 37, "streams": 7, "mature": 0, "language": "English", "account_age": 1689120.0}

@@ -1,0 +1,1 @@
+{"channel": "locxien", "avg_viewers": 6, "followers_gained": 5, "peak_viewers": 12, "hours_streamed": 11, "streams": 5, "mature": 0, "language": "German", "account_age": 2989440.0}

@@ -1,0 +1,1 @@
+{"channel": "savage13", "avg_viewers": 10, "followers_gained": 164, "peak_viewers": 27, "hours_streamed": 32, "streams": 12, "mature": 0, "language": "Russian", "account_age": 743040.0}

@@ -1,0 +1,1 @@
+{"channel": "sorafr_", "avg_viewers": 49, "followers_gained": 325, "peak_viewers": 105, "hours_streamed": 73, "streams": 26, "mature": 1, "language": "Portuguese", "account_age": 1164960.0}

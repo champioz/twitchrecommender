@@ -1,0 +1,1 @@
+{"channel": "wonjoker", "avg_viewers": 55, "followers_gained": 282, "peak_viewers": 120, "hours_streamed": 27, "streams": 7, "mature": 0, "language": "Turkish", "account_age": 537120.0}

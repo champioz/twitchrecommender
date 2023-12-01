@@ -1,0 +1,1 @@
+{"channel": "zerg_80", "avg_viewers": 14, "followers_gained": 0, "peak_viewers": 23, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 2201760.0}

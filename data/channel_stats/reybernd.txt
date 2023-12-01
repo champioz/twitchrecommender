@@ -1,0 +1,1 @@
+{"channel": "reybernd", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 13, "streams": 5, "mature": 1, "language": "German", "account_age": 2471040.0}

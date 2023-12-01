@@ -1,0 +1,1 @@
+{"channel": "streamelixir", "avg_viewers": 16, "followers_gained": 56, "peak_viewers": 42, "hours_streamed": 499, "streams": 5, "mature": 0, "language": "English", "account_age": 535680.0}

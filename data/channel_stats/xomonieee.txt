@@ -1,0 +1,1 @@
+{"channel": "xomonieee", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 8, "hours_streamed": 1, "streams": 4, "mature": 1, "language": "English", "account_age": 676800.0}

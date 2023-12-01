@@ -1,0 +1,1 @@
+{"channel": "lordquode", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 15, "hours_streamed": 9, "streams": 2, "mature": 0, "language": "English", "account_age": 3300480.0}

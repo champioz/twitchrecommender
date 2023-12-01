@@ -1,0 +1,1 @@
+{"channel": "yami_x3", "avg_viewers": 6, "followers_gained": 135, "peak_viewers": 28, "hours_streamed": 262, "streams": 34, "mature": 1, "language": "German", "account_age": 236160.0}

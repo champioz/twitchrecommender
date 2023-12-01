@@ -1,0 +1,1 @@
+{"channel": "freshaspect", "avg_viewers": 8, "followers_gained": 35, "peak_viewers": 17, "hours_streamed": 14, "streams": 5, "mature": 0, "language": "English", "account_age": 411840.0}

@@ -1,0 +1,1 @@
+{"channel": "wak017", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "English", "account_age": 3977280.0}

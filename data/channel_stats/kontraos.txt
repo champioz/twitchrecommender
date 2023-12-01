@@ -1,0 +1,1 @@
+{"channel": "kontraos", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 16, "hours_streamed": 63, "streams": 12, "mature": 1, "language": "German", "account_age": 3962880.0}

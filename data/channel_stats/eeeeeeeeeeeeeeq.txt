@@ -1,0 +1,1 @@
+{"channel": "eeeeeeeeeeeeeeq", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 8, "hours_streamed": 147, "streams": 41, "mature": 1, "language": "Russian", "account_age": 3493440.0}

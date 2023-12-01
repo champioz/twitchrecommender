@@ -1,0 +1,1 @@
+{"channel": "newzur1s", "avg_viewers": 14, "followers_gained": 117, "peak_viewers": 62, "hours_streamed": 103, "streams": 33, "mature": 0, "language": "Czech", "account_age": 1847520.0}

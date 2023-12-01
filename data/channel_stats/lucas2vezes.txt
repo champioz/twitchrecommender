@@ -1,0 +1,1 @@
+{"channel": "lucas2vezes", "avg_viewers": 9, "followers_gained": 50, "peak_viewers": 25, "hours_streamed": 18, "streams": 9, "mature": 0, "language": "Portuguese", "account_age": 813600.0}

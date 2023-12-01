@@ -1,0 +1,1 @@
+{"channel": "patriciath", "avg_viewers": 62, "followers_gained": 543, "peak_viewers": 143, "hours_streamed": 83, "streams": 21, "mature": 0, "language": "Thai", "account_age": 671040.0}

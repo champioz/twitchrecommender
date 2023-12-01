@@ -1,0 +1,1 @@
+{"channel": "bihv", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 15, "hours_streamed": 99, "streams": 21, "mature": 0, "language": "English", "account_age": 1848960.0}

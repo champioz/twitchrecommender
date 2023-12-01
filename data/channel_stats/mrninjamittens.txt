@@ -1,0 +1,1 @@
+{"channel": "mrninjamittens", "avg_viewers": 7, "followers_gained": 50, "peak_viewers": 27, "hours_streamed": 246, "streams": 24, "mature": 1, "language": "English", "account_age": 2583360.0}

@@ -1,0 +1,1 @@
+{"channel": "bryan2", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 1493280.0}

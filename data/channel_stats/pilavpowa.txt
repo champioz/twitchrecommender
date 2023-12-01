@@ -1,0 +1,1 @@
+{"channel": "pilavpowa", "avg_viewers": 949, "followers_gained": 3784, "peak_viewers": 1658, "hours_streamed": 46, "streams": 8, "mature": 1, "language": "English", "account_age": 3536640.0}

@@ -1,0 +1,1 @@
+{"channel": "aragono_xd", "avg_viewers": 1, "followers_gained": 56, "peak_viewers": 18, "hours_streamed": 105, "streams": 33, "mature": 0, "language": "Portuguese", "account_age": 1844640.0}

@@ -1,0 +1,1 @@
+{"channel": "ravagingowl", "avg_viewers": 3, "followers_gained": 154, "peak_viewers": 227, "hours_streamed": 143, "streams": 33, "mature": 1, "language": "English", "account_age": 3034080.0}

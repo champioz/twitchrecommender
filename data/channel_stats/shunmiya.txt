@@ -1,0 +1,1 @@
+{"channel": "shunmiya", "avg_viewers": 10, "followers_gained": 9, "peak_viewers": 26, "hours_streamed": 33, "streams": 14, "mature": 0, "language": "Japanese", "account_age": 878400.0}

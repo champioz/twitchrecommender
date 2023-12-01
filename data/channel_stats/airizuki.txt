@@ -1,0 +1,1 @@
+{"channel": "airizuki", "avg_viewers": 31, "followers_gained": 58, "peak_viewers": 45, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "English", "account_age": 279360.0}

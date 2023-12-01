@@ -1,0 +1,1 @@
+{"channel": "glockezy", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 57, "streams": 21, "mature": 1, "language": "English", "account_age": 3372480.0}

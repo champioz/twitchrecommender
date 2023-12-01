@@ -1,0 +1,1 @@
+{"channel": "blatty", "avg_viewers": 62, "followers_gained": 70, "peak_viewers": 197, "hours_streamed": 45, "streams": 12, "mature": 0, "language": "French", "account_age": 4073760.0}

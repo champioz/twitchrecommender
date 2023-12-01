@@ -1,0 +1,1 @@
+{"channel": "stellarmeesh", "avg_viewers": 47, "followers_gained": 180, "peak_viewers": 174, "hours_streamed": 90, "streams": 16, "mature": 1, "language": "English", "account_age": 1097280.0}

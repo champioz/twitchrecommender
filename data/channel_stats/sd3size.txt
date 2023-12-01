@@ -1,0 +1,1 @@
+{"channel": "sd3size", "avg_viewers": 5, "followers_gained": 10, "peak_viewers": 26, "hours_streamed": 88, "streams": 22, "mature": 0, "language": "Korean", "account_age": 1280160.0}

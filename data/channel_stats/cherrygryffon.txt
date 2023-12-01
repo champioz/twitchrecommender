@@ -1,0 +1,1 @@
+{"channel": "cherrygryffon", "avg_viewers": 9, "followers_gained": 9, "peak_viewers": 20, "hours_streamed": 45, "streams": 11, "mature": 1, "language": "English", "account_age": 2809440.0}

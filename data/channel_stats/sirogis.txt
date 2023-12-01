@@ -1,0 +1,1 @@
+{"channel": "sirogis", "avg_viewers": 9, "followers_gained": 39, "peak_viewers": 68, "hours_streamed": 176, "streams": 25, "mature": 1, "language": "Russian", "account_age": 3408480.0}

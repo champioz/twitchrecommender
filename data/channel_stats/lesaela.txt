@@ -1,0 +1,1 @@
+{"channel": "lesaela", "avg_viewers": 12, "followers_gained": 2, "peak_viewers": 24, "hours_streamed": 41, "streams": 14, "mature": 1, "language": "German", "account_age": 1003680.0}

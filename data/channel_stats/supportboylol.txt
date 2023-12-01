@@ -1,0 +1,1 @@
+{"channel": "supportboylol", "avg_viewers": 6, "followers_gained": 95, "peak_viewers": 40, "hours_streamed": 155, "streams": 23, "mature": 0, "language": "Polish", "account_age": 2639520.0}

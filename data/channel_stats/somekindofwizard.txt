@@ -1,0 +1,1 @@
+{"channel": "somekindofwizard", "avg_viewers": 6, "followers_gained": 5, "peak_viewers": 15, "hours_streamed": 50, "streams": 19, "mature": 1, "language": "English", "account_age": 4260960.0}

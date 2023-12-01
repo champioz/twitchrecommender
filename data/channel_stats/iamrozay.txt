@@ -1,0 +1,1 @@
+{"channel": "iamrozay", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 1, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Russian", "account_age": 542880.0}

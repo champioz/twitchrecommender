@@ -1,0 +1,1 @@
+{"channel": "imotti", "avg_viewers": 5, "followers_gained": 13, "peak_viewers": 15, "hours_streamed": 20, "streams": 7, "mature": 1, "language": "Finnish", "account_age": 4007520.0}

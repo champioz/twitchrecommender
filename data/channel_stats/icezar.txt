@@ -1,0 +1,1 @@
+{"channel": "icezar", "avg_viewers": 8, "followers_gained": 55, "peak_viewers": 26, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "Arabic", "account_age": 2973600.0}

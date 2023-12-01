@@ -1,0 +1,1 @@
+{"channel": "dkrod_", "avg_viewers": 128, "followers_gained": 265, "peak_viewers": 434, "hours_streamed": 33, "streams": 11, "mature": 1, "language": "Portuguese", "account_age": 853920.0}

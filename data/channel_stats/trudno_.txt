@@ -1,0 +1,1 @@
+{"channel": "trudno_", "avg_viewers": 40, "followers_gained": 125, "peak_viewers": 144, "hours_streamed": 86, "streams": 22, "mature": 1, "language": "Polish", "account_age": 902880.0}

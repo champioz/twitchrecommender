@@ -1,0 +1,1 @@
+{"channel": "witchytv", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 14, "hours_streamed": 26, "streams": 7, "mature": 1, "language": "English", "account_age": 2122560.0}

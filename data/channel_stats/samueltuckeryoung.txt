@@ -1,0 +1,1 @@
+{"channel": "samueltuckeryoung", "avg_viewers": 67, "followers_gained": 139, "peak_viewers": 178, "hours_streamed": 81, "streams": 15, "mature": 0, "language": "English", "account_age": 1431360.0}

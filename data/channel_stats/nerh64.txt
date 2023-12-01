@@ -1,0 +1,1 @@
+{"channel": "nerh64", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "Korean", "account_age": 221760.0}

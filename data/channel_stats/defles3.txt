@@ -1,0 +1,1 @@
+{"channel": "defles3", "avg_viewers": 70, "followers_gained": 47, "peak_viewers": 139, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "Polish", "account_age": 1419840.0}

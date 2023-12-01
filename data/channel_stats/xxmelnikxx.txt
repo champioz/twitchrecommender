@@ -1,0 +1,1 @@
+{"channel": "xxmelnikxx", "avg_viewers": 17, "followers_gained": 31, "peak_viewers": 40, "hours_streamed": 56, "streams": 23, "mature": 0, "language": "Russian", "account_age": 730080.0}

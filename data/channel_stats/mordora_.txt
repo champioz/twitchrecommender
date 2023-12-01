@@ -1,0 +1,1 @@
+{"channel": "mordora_", "avg_viewers": 72, "followers_gained": 171, "peak_viewers": 367, "hours_streamed": 72, "streams": 19, "mature": 1, "language": "Polish", "account_age": 1977120.0}

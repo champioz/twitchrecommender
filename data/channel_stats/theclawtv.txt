@@ -1,0 +1,1 @@
+{"channel": "theclawtv", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 18, "hours_streamed": 81, "streams": 15, "mature": 1, "language": "English", "account_age": 2099520.0}

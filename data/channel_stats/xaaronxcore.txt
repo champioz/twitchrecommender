@@ -1,0 +1,1 @@
+{"channel": "xaaronxcore", "avg_viewers": 18, "followers_gained": 107, "peak_viewers": 43, "hours_streamed": 135, "streams": 24, "mature": 0, "language": "English", "account_age": 1982880.0}

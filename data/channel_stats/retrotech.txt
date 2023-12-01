@@ -1,0 +1,1 @@
+{"channel": "retrotech", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 22, "streams": 14, "mature": 0, "language": "English", "account_age": 4105440.0}

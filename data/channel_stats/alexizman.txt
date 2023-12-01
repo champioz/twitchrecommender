@@ -1,0 +1,1 @@
+{"channel": "alexizman", "avg_viewers": 24, "followers_gained": 153, "peak_viewers": 51, "hours_streamed": 126, "streams": 32, "mature": 1, "language": "Spanish", "account_age": 2283840.0}

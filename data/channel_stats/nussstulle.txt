@@ -1,0 +1,1 @@
+{"channel": "nussstulle", "avg_viewers": 26, "followers_gained": 98, "peak_viewers": 233, "hours_streamed": 155, "streams": 23, "mature": 1, "language": "German", "account_age": 1074240.0}

@@ -1,0 +1,1 @@
+{"channel": "jaeyun", "avg_viewers": 49, "followers_gained": 51, "peak_viewers": 108, "hours_streamed": 42, "streams": 16, "mature": 0, "language": "English", "account_age": 1080000.0}

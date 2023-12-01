@@ -1,0 +1,1 @@
+{"channel": "mrsteha", "avg_viewers": 11, "followers_gained": 88, "peak_viewers": 22, "hours_streamed": 118, "streams": 18, "mature": 1, "language": "Russian", "account_age": 2308320.0}

@@ -1,0 +1,1 @@
+{"channel": "falenas", "avg_viewers": 29, "followers_gained": 60, "peak_viewers": 60, "hours_streamed": 66, "streams": 19, "mature": 1, "language": "French", "account_age": 4757760.0}

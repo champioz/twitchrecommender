@@ -1,0 +1,1 @@
+{"channel": "zanekyber", "avg_viewers": 21, "followers_gained": 338, "peak_viewers": 48, "hours_streamed": 137, "streams": 25, "mature": 1, "language": "English", "account_age": 2596320.0}

@@ -1,0 +1,1 @@
+{"channel": "amiguitostibianos", "avg_viewers": 34, "followers_gained": 402, "peak_viewers": 106, "hours_streamed": 89, "streams": 35, "mature": 1, "language": "Spanish", "account_age": 2341440.0}

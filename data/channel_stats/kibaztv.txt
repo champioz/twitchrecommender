@@ -1,0 +1,1 @@
+{"channel": "kibaztv", "avg_viewers": 17, "followers_gained": 291, "peak_viewers": 60, "hours_streamed": 37, "streams": 11, "mature": 1, "language": "Spanish", "account_age": 2705760.0}

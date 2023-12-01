@@ -1,0 +1,1 @@
+{"channel": "tigroutactics", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 4, "hours_streamed": 29, "streams": 13, "mature": 0, "language": "French", "account_age": 1756800.0}

@@ -1,0 +1,1 @@
+{"channel": "nidas", "avg_viewers": 203, "followers_gained": 61, "peak_viewers": 358, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "English", "account_age": 1437120.0}

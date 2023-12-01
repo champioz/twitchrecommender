@@ -1,0 +1,1 @@
+{"channel": "mery_up", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 8, "hours_streamed": 16, "streams": 9, "mature": 1, "language": "Spanish", "account_age": 502560.0}

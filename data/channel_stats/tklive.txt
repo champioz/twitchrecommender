@@ -1,0 +1,1 @@
+{"channel": "tklive", "avg_viewers": 4, "followers_gained": 22, "peak_viewers": 16, "hours_streamed": 125, "streams": 26, "mature": 0, "language": "English", "account_age": 2845440.0}

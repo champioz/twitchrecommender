@@ -1,0 +1,1 @@
+{"channel": "rtainjapan", "avg_viewers": 314, "followers_gained": 18, "peak_viewers": 389, "hours_streamed": 11, "streams": 1, "mature": 0, "language": "Japanese", "account_age": 1509120.0}

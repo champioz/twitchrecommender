@@ -1,0 +1,1 @@
+{"channel": "l1ghtrc", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 12, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "English", "account_age": 3016800.0}

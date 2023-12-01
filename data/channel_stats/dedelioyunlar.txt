@@ -1,0 +1,1 @@
+{"channel": "dedelioyunlar", "avg_viewers": 16, "followers_gained": 129, "peak_viewers": 30, "hours_streamed": 23, "streams": 11, "mature": 0, "language": "Turkish", "account_age": 2278080.0}

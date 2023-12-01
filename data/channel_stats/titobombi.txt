@@ -1,0 +1,1 @@
+{"channel": "titobombi", "avg_viewers": 5, "followers_gained": 39, "peak_viewers": 19, "hours_streamed": 37, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 2494080.0}

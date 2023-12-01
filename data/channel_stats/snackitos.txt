@@ -1,0 +1,1 @@
+{"channel": "snackitos", "avg_viewers": 6, "followers_gained": 0, "peak_viewers": 13, "hours_streamed": 33, "streams": 9, "mature": 1, "language": "English", "account_age": 2547360.0}

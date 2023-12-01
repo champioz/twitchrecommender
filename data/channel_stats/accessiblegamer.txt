@@ -1,0 +1,1 @@
+{"channel": "accessiblegamer", "avg_viewers": 13, "followers_gained": 55, "peak_viewers": 55, "hours_streamed": 38, "streams": 8, "mature": 1, "language": "English", "account_age": 2109600.0}

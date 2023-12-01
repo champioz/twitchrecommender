@@ -1,0 +1,1 @@
+{"channel": "tibolight", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 2, "hours_streamed": 30, "streams": 11, "mature": 0, "language": "English", "account_age": 2158560.0}

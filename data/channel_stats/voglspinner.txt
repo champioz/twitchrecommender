@@ -1,0 +1,1 @@
+{"channel": "voglspinner", "avg_viewers": 24, "followers_gained": 8, "peak_viewers": 49, "hours_streamed": 34, "streams": 9, "mature": 1, "language": "German", "account_age": 984960.0}

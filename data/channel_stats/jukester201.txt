@@ -1,0 +1,1 @@
+{"channel": "jukester201", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 3, "streams": 2, "mature": 1, "language": "English", "account_age": 551520.0}

@@ -1,0 +1,1 @@
+{"channel": "elniceoguyo", "avg_viewers": 19, "followers_gained": 28, "peak_viewers": 109, "hours_streamed": 66, "streams": 25, "mature": 1, "language": "English", "account_age": 2175840.0}

@@ -1,0 +1,1 @@
+{"channel": "landowner555", "avg_viewers": 8, "followers_gained": 14, "peak_viewers": 21, "hours_streamed": 25, "streams": 8, "mature": 0, "language": "English", "account_age": 3009600.0}

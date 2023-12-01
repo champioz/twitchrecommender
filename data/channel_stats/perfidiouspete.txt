@@ -1,0 +1,1 @@
+{"channel": "perfidiouspete", "avg_viewers": 8, "followers_gained": 1, "peak_viewers": 16, "hours_streamed": 28, "streams": 9, "mature": 1, "language": "English", "account_age": 2867040.0}

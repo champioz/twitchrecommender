@@ -1,0 +1,1 @@
+{"channel": "birtek", "avg_viewers": 34, "followers_gained": 73, "peak_viewers": 153, "hours_streamed": 89, "streams": 21, "mature": 0, "language": "Polish", "account_age": 3705120.0}

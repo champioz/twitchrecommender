@@ -1,0 +1,1 @@
+{"channel": "chrystabel", "avg_viewers": 9, "followers_gained": 6, "peak_viewers": 19, "hours_streamed": 30, "streams": 11, "mature": 1, "language": "English", "account_age": 2314080.0}

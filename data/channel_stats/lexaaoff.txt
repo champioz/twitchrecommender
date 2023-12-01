@@ -1,0 +1,1 @@
+{"channel": "lexaaoff", "avg_viewers": 98, "followers_gained": 172, "peak_viewers": 296, "hours_streamed": 141, "streams": 25, "mature": 0, "language": "French", "account_age": 1653120.0}

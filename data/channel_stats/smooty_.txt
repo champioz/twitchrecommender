@@ -1,0 +1,1 @@
+{"channel": "smooty_", "avg_viewers": 4, "followers_gained": 58, "peak_viewers": 12, "hours_streamed": 54, "streams": 20, "mature": 0, "language": "Italian", "account_age": 184320.0}

@@ -1,0 +1,1 @@
+{"channel": "ruen___", "avg_viewers": 42, "followers_gained": 213, "peak_viewers": 272, "hours_streamed": 82, "streams": 21, "mature": 1, "language": "Polish", "account_age": 1823040.0}

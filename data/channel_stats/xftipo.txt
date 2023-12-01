@@ -1,0 +1,1 @@
+{"channel": "xftipo", "avg_viewers": 3, "followers_gained": 18, "peak_viewers": 40, "hours_streamed": 110, "streams": 59, "mature": 0, "language": "Spanish", "account_age": 1946880.0}

@@ -1,0 +1,1 @@
+{"channel": "mist_shark", "avg_viewers": 5, "followers_gained": 12, "peak_viewers": 16, "hours_streamed": 89, "streams": 18, "mature": 1, "language": "English", "account_age": 3002400.0}

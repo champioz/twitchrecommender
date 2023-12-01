@@ -1,0 +1,1 @@
+{"channel": "yamiks", "avg_viewers": 37, "followers_gained": 143, "peak_viewers": 80, "hours_streamed": 37, "streams": 13, "mature": 0, "language": "English", "account_age": 3777120.0}

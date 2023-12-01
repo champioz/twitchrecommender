@@ -1,0 +1,1 @@
+{"channel": "bishishere", "avg_viewers": 6, "followers_gained": 8, "peak_viewers": 25, "hours_streamed": 34, "streams": 8, "mature": 1, "language": "English", "account_age": 1418400.0}

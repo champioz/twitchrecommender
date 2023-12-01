@@ -1,0 +1,1 @@
+{"channel": "tilotech", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 12, "hours_streamed": 23, "streams": 9, "mature": 0, "language": "English", "account_age": 1817280.0}

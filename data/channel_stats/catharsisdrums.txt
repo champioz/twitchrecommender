@@ -1,0 +1,1 @@
+{"channel": "catharsisdrums", "avg_viewers": 9, "followers_gained": 40, "peak_viewers": 64, "hours_streamed": 41, "streams": 11, "mature": 0, "language": "English", "account_age": 2269440.0}

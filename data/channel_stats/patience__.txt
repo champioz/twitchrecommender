@@ -1,0 +1,1 @@
+{"channel": "patience__", "avg_viewers": 18, "followers_gained": 112, "peak_viewers": 58, "hours_streamed": 120, "streams": 25, "mature": 0, "language": "Russian", "account_age": 2469600.0}

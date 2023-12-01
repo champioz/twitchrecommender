@@ -1,0 +1,1 @@
+{"channel": "wallhacks", "avg_viewers": 148, "followers_gained": 273, "peak_viewers": 325, "hours_streamed": 43, "streams": 10, "mature": 1, "language": "English", "account_age": 4337280.0}

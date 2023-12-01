@@ -1,0 +1,1 @@
+{"channel": "pekoesan", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 14, "hours_streamed": 38, "streams": 13, "mature": 0, "language": "Japanese", "account_age": 2816640.0}

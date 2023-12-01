@@ -1,0 +1,1 @@
+{"channel": "saebyeolbe", "avg_viewers": 676, "followers_gained": 704, "peak_viewers": 1342, "hours_streamed": 17, "streams": 3, "mature": 0, "language": "English", "account_age": 1412640.0}

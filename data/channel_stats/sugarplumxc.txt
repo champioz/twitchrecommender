@@ -1,0 +1,1 @@
+{"channel": "sugarplumxc", "avg_viewers": 68, "followers_gained": 631, "peak_viewers": 120, "hours_streamed": 39, "streams": 17, "mature": 1, "language": "English", "account_age": 972000.0}

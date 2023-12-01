@@ -1,0 +1,1 @@
+{"channel": "ladelfin4", "avg_viewers": 70, "followers_gained": 21, "peak_viewers": 139, "hours_streamed": 733, "streams": 10, "mature": 0, "language": "Chinese", "account_age": 4603680.0}

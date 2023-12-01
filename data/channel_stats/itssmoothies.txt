@@ -1,0 +1,1 @@
+{"channel": "itssmoothies", "avg_viewers": 4, "followers_gained": 36, "peak_viewers": 20, "hours_streamed": 187, "streams": 32, "mature": 1, "language": "English", "account_age": 1199520.0}

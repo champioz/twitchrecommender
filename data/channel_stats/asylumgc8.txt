@@ -1,0 +1,1 @@
+{"channel": "asylumgc8", "avg_viewers": 15, "followers_gained": 78, "peak_viewers": 95, "hours_streamed": 82, "streams": 24, "mature": 1, "language": "English", "account_age": 1602720.0}

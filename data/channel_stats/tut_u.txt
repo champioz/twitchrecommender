@@ -1,0 +1,1 @@
+{"channel": "tut_u", "avg_viewers": 36, "followers_gained": 108, "peak_viewers": 748, "hours_streamed": 142, "streams": 30, "mature": 0, "language": "Korean", "account_age": 1310400.0}

@@ -1,0 +1,1 @@
+{"channel": "jacobjiam", "avg_viewers": 4, "followers_gained": 20, "peak_viewers": 15, "hours_streamed": 17, "streams": 11, "mature": 0, "language": "Swedish", "account_age": 1303200.0}

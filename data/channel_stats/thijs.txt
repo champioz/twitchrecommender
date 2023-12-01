@@ -1,0 +1,1 @@
+{"channel": "thijs", "avg_viewers": 6354, "followers_gained": 6571, "peak_viewers": 13181, "hours_streamed": 189, "streams": 29, "mature": 0, "language": "English", "account_age": 2867040.0}

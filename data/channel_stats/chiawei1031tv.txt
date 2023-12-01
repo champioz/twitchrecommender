@@ -1,0 +1,1 @@
+{"channel": "chiawei1031tv", "avg_viewers": 755, "followers_gained": 1490, "peak_viewers": 1949, "hours_streamed": 60, "streams": 17, "mature": 1, "language": "Chinese", "account_age": 730080.0}

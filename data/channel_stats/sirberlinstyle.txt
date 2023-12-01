@@ -1,0 +1,1 @@
+{"channel": "sirberlinstyle", "avg_viewers": 115, "followers_gained": 343, "peak_viewers": 725, "hours_streamed": 240, "streams": 33, "mature": 0, "language": "German", "account_age": 3172320.0}

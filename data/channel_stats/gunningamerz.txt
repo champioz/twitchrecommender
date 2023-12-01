@@ -1,0 +1,1 @@
+{"channel": "gunningamerz", "avg_viewers": 73, "followers_gained": 128, "peak_viewers": 168, "hours_streamed": 76, "streams": 17, "mature": 0, "language": "English", "account_age": 3070080.0}

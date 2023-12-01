@@ -1,0 +1,1 @@
+{"channel": "thatpunchkid", "avg_viewers": 78, "followers_gained": 1510, "peak_viewers": 186, "hours_streamed": 33, "streams": 10, "mature": 0, "language": "English", "account_age": 1483200.0}

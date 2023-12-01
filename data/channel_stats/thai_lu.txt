@@ -1,0 +1,1 @@
+{"channel": "thai_lu", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 13, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Italian", "account_age": 1330560.0}

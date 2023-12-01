@@ -1,0 +1,1 @@
+{"channel": "matthb89", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "English", "account_age": 2021760.0}

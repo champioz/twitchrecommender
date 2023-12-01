@@ -1,0 +1,1 @@
+{"channel": "ngon", "avg_viewers": 39, "followers_gained": 457, "peak_viewers": 95, "hours_streamed": 23, "streams": 12, "mature": 0, "language": "English", "account_age": 957600.0}

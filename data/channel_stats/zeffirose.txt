@@ -1,0 +1,1 @@
+{"channel": "zeffirose", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 16, "hours_streamed": 23, "streams": 9, "mature": 0, "language": "Chinese", "account_age": 4462560.0}

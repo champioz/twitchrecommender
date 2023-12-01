@@ -1,0 +1,1 @@
+{"channel": "carlaidus", "avg_viewers": 8, "followers_gained": 2, "peak_viewers": 16, "hours_streamed": 23, "streams": 8, "mature": 0, "language": "Spanish", "account_age": 3360960.0}

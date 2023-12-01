@@ -1,0 +1,1 @@
+{"channel": "inspirada", "avg_viewers": 23, "followers_gained": 179, "peak_viewers": 44, "hours_streamed": 38, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 849600.0}

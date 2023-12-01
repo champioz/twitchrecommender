@@ -1,0 +1,1 @@
+{"channel": "suphix90", "avg_viewers": 29, "followers_gained": 102, "peak_viewers": 65, "hours_streamed": 156, "streams": 38, "mature": 0, "language": "Russian", "account_age": 2175840.0}

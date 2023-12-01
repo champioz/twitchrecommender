@@ -1,0 +1,1 @@
+{"channel": "onyxslap", "avg_viewers": 3, "followers_gained": 42, "peak_viewers": 15, "hours_streamed": 81, "streams": 29, "mature": 0, "language": "Spanish", "account_age": 457920.0}

@@ -1,0 +1,1 @@
+{"channel": "itsdavo421", "avg_viewers": 5, "followers_gained": 51, "peak_viewers": 15, "hours_streamed": 93, "streams": 28, "mature": 0, "language": "Spanish", "account_age": 547200.0}

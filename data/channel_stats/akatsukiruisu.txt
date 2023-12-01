@@ -1,0 +1,1 @@
+{"channel": "akatsukiruisu", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 7, "hours_streamed": 6, "streams": 5, "mature": 1, "language": "Spanish", "account_age": 2534400.0}

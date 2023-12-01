@@ -1,0 +1,1 @@
+{"channel": "bramos_g", "avg_viewers": 11, "followers_gained": 22, "peak_viewers": 42, "hours_streamed": 40, "streams": 14, "mature": 1, "language": "Greek", "account_age": 1857600.0}

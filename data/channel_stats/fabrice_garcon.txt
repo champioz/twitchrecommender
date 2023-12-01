@@ -1,0 +1,1 @@
+{"channel": "fabrice_garcon", "avg_viewers": 4, "followers_gained": 7, "peak_viewers": 12, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "French", "account_age": 1758240.0}

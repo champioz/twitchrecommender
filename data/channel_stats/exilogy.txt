@@ -1,0 +1,1 @@
+{"channel": "exilogy", "avg_viewers": 6, "followers_gained": 64, "peak_viewers": 13, "hours_streamed": 38, "streams": 15, "mature": 0, "language": "English", "account_age": 427680.0}

@@ -1,0 +1,1 @@
+{"channel": "kaizattp", "avg_viewers": 5, "followers_gained": 20, "peak_viewers": 20, "hours_streamed": 87, "streams": 28, "mature": 0, "language": "Japanese", "account_age": 604800.0}

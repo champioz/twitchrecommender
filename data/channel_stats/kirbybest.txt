@@ -1,0 +1,1 @@
+{"channel": "kirbybest", "avg_viewers": 19, "followers_gained": 963, "peak_viewers": 149, "hours_streamed": 17, "streams": 20, "mature": 0, "language": "Bulgarian", "account_age": 789120.0}

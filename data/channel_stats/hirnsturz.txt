@@ -1,0 +1,1 @@
+{"channel": "hirnsturz", "avg_viewers": 338, "followers_gained": 117, "peak_viewers": 686, "hours_streamed": 91, "streams": 20, "mature": 1, "language": "German", "account_age": 3133440.0}

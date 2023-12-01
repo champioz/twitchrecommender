@@ -1,0 +1,1 @@
+{"channel": "taydro", "avg_viewers": 32, "followers_gained": 420, "peak_viewers": 71, "hours_streamed": 80, "streams": 23, "mature": 0, "language": "English", "account_age": 2400480.0}

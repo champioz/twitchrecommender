@@ -1,0 +1,1 @@
+{"channel": "satchwell6", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "English", "account_age": 2260800.0}

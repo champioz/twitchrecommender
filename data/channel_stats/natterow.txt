@@ -1,0 +1,1 @@
+{"channel": "natterow", "avg_viewers": 16, "followers_gained": 129, "peak_viewers": 44, "hours_streamed": 86, "streams": 22, "mature": 1, "language": "English", "account_age": 1344960.0}

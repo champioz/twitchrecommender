@@ -1,0 +1,1 @@
+{"channel": "ajaanmg", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 60, "hours_streamed": 48, "streams": 13, "mature": 1, "language": "Turkish", "account_age": 501120.0}

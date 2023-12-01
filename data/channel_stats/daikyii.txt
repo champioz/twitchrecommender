@@ -1,0 +1,1 @@
+{"channel": "daikyii", "avg_viewers": 9, "followers_gained": 0, "peak_viewers": 12, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "English", "account_age": 3746880.0}

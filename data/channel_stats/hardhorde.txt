@@ -1,0 +1,1 @@
+{"channel": "hardhorde", "avg_viewers": 39, "followers_gained": 672, "peak_viewers": 92, "hours_streamed": 268, "streams": 42, "mature": 1, "language": "Russian", "account_age": 3659040.0}

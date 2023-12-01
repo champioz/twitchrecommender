@@ -1,0 +1,1 @@
+{"channel": "thealphamouse", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 11, "hours_streamed": 6, "streams": 1, "mature": 0, "language": "English", "account_age": 2301120.0}

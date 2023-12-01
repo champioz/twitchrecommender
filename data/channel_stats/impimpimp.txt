@@ -1,0 +1,1 @@
+{"channel": "impimpimp", "avg_viewers": 129, "followers_gained": 356, "peak_viewers": 537, "hours_streamed": 75, "streams": 21, "mature": 1, "language": "German", "account_age": 2583360.0}

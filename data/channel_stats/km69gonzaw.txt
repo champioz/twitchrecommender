@@ -1,0 +1,1 @@
+{"channel": "km69gonzaw", "avg_viewers": 7, "followers_gained": 9, "peak_viewers": 24, "hours_streamed": 27, "streams": 7, "mature": 0, "language": "Japanese", "account_age": 869760.0}

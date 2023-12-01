@@ -1,0 +1,1 @@
+{"channel": "herhane", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 9, "hours_streamed": 18, "streams": 7, "mature": 0, "language": "French", "account_age": 3048480.0}

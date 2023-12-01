@@ -1,0 +1,1 @@
+{"channel": "byvxpor", "avg_viewers": 5, "followers_gained": 12, "peak_viewers": 12, "hours_streamed": 5, "streams": 3, "mature": 1, "language": "English", "account_age": 2172960.0}

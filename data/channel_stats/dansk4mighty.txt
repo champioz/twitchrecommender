@@ -1,0 +1,1 @@
+{"channel": "dansk4mighty", "avg_viewers": 70, "followers_gained": 182, "peak_viewers": 156, "hours_streamed": 39, "streams": 13, "mature": 0, "language": "Russian", "account_age": 3042720.0}

@@ -1,0 +1,1 @@
+{"channel": "kdkill", "avg_viewers": 4, "followers_gained": 19, "peak_viewers": 14, "hours_streamed": 292, "streams": 34, "mature": 1, "language": "English", "account_age": 4210560.0}

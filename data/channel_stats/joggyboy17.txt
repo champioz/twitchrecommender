@@ -1,0 +1,1 @@
+{"channel": "joggyboy17", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 13, "hours_streamed": 7, "streams": 6, "mature": 0, "language": "Norwegian", "account_age": 2911680.0}

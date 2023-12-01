@@ -1,0 +1,1 @@
+{"channel": "elure", "avg_viewers": 58, "followers_gained": 239, "peak_viewers": 170, "hours_streamed": 51, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 3273120.0}

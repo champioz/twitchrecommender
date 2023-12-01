@@ -1,0 +1,1 @@
+{"channel": "felt12", "avg_viewers": 15, "followers_gained": 1, "peak_viewers": 61, "hours_streamed": 3, "streams": 4, "mature": 0, "language": "English", "account_age": 1965600.0}

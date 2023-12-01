@@ -1,0 +1,1 @@
+{"channel": "truckercech", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 8, "hours_streamed": 35, "streams": 11, "mature": 1, "language": "Czech", "account_age": 1294560.0}

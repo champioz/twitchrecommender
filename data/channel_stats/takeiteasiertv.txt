@@ -1,0 +1,1 @@
+{"channel": "takeiteasiertv", "avg_viewers": 34, "followers_gained": 29, "peak_viewers": 92, "hours_streamed": 52, "streams": 11, "mature": 0, "language": "Russian", "account_age": 4053600.0}

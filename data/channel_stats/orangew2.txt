@@ -1,0 +1,1 @@
+{"channel": "orangew2", "avg_viewers": 5, "followers_gained": 19, "peak_viewers": 24, "hours_streamed": 14, "streams": 7, "mature": 0, "language": "English", "account_age": 1601280.0}

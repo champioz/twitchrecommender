@@ -1,0 +1,1 @@
+{"channel": "mumusiraneitor", "avg_viewers": 444, "followers_gained": 8294, "peak_viewers": 1147, "hours_streamed": 136, "streams": 26, "mature": 1, "language": "Spanish", "account_age": 1956960.0}

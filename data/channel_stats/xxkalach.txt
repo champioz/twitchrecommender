@@ -1,0 +1,1 @@
+{"channel": "xxkalach", "avg_viewers": 5, "followers_gained": 20, "peak_viewers": 21, "hours_streamed": 12, "streams": 7, "mature": 0, "language": "French", "account_age": 2494080.0}

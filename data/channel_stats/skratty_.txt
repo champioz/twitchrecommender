@@ -1,0 +1,1 @@
+{"channel": "skratty_", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 18, "hours_streamed": 23, "streams": 12, "mature": 1, "language": "German", "account_age": 1105920.0}

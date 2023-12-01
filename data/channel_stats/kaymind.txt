@@ -1,0 +1,1 @@
+{"channel": "kaymind", "avg_viewers": 1186, "followers_gained": 3959, "peak_viewers": 2388, "hours_streamed": 57, "streams": 10, "mature": 1, "language": "English", "account_age": 2838240.0}

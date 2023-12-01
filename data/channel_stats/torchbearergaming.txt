@@ -1,0 +1,1 @@
+{"channel": "torchbearergaming", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 9, "hours_streamed": 61, "streams": 18, "mature": 1, "language": "English", "account_age": 679680.0}

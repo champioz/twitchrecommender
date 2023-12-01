@@ -1,0 +1,1 @@
+{"channel": "mustaphaa", "avg_viewers": 93, "followers_gained": 195, "peak_viewers": 298, "hours_streamed": 24, "streams": 4, "mature": 1, "language": "French", "account_age": 2780640.0}

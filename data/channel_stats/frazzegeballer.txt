@@ -1,0 +1,1 @@
+{"channel": "frazzegeballer", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 10, "streams": 2, "mature": 1, "language": "English", "account_age": 3290400.0}

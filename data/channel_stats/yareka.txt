@@ -1,0 +1,1 @@
+{"channel": "yareka", "avg_viewers": 2, "followers_gained": 37, "peak_viewers": 19, "hours_streamed": 84, "streams": 31, "mature": 1, "language": "Spanish", "account_age": 2050560.0}

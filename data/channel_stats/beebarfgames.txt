@@ -1,0 +1,1 @@
+{"channel": "beebarfgames", "avg_viewers": 41, "followers_gained": 597, "peak_viewers": 148, "hours_streamed": 146, "streams": 39, "mature": 0, "language": "Spanish", "account_age": 2626560.0}

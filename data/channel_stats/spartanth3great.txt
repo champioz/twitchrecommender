@@ -1,0 +1,1 @@
+{"channel": "spartanth3great", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 2, "hours_streamed": 9, "streams": 11, "mature": 0, "language": "English", "account_age": 1980000.0}

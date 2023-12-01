@@ -1,0 +1,1 @@
+{"channel": "nicileiin", "avg_viewers": 25, "followers_gained": 41, "peak_viewers": 45, "hours_streamed": 10, "streams": 3, "mature": 1, "language": "German", "account_age": 3196800.0}

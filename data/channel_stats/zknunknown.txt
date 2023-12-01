@@ -1,0 +1,1 @@
+{"channel": "zknunknown", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 11, "streams": 6, "mature": 0, "language": "Portuguese", "account_age": 2930400.0}

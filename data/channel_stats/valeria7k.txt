@@ -1,0 +1,1 @@
+{"channel": "valeria7k", "avg_viewers": 392, "followers_gained": 5546, "peak_viewers": 759, "hours_streamed": 47, "streams": 18, "mature": 0, "language": "English", "account_age": 799200.0}

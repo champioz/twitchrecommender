@@ -1,0 +1,1 @@
+{"channel": "syrmor", "avg_viewers": 49, "followers_gained": 1201, "peak_viewers": 341, "hours_streamed": 53, "streams": 23, "mature": 0, "language": "English", "account_age": 2921760.0}

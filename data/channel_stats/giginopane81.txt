@@ -1,0 +1,1 @@
+{"channel": "giginopane81", "avg_viewers": 7, "followers_gained": 41, "peak_viewers": 35, "hours_streamed": 17, "streams": 4, "mature": 0, "language": "Italian", "account_age": 2247840.0}

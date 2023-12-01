@@ -1,0 +1,1 @@
+{"channel": "thatbronzegirl", "avg_viewers": 166, "followers_gained": 419, "peak_viewers": 457, "hours_streamed": 177, "streams": 27, "mature": 0, "language": "English", "account_age": 2705760.0}

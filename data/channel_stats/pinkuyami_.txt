@@ -1,0 +1,1 @@
+{"channel": "pinkuyami_", "avg_viewers": 8, "followers_gained": 109, "peak_viewers": 22, "hours_streamed": 46, "streams": 15, "mature": 0, "language": "French", "account_age": 557280.0}

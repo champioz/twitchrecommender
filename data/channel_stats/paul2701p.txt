@@ -1,0 +1,1 @@
+{"channel": "paul2701p", "avg_viewers": 6, "followers_gained": 11, "peak_viewers": 14, "hours_streamed": 20, "streams": 6, "mature": 0, "language": "German", "account_age": 1716480.0}

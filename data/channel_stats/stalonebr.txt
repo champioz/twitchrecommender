@@ -1,0 +1,1 @@
+{"channel": "stalonebr", "avg_viewers": 18, "followers_gained": 339, "peak_viewers": 125, "hours_streamed": 306, "streams": 54, "mature": 1, "language": "Portuguese", "account_age": 3237120.0}

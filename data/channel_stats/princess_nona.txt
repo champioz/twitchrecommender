@@ -1,0 +1,1 @@
+{"channel": "princess_nona", "avg_viewers": 30, "followers_gained": 152, "peak_viewers": 58, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "Arabic", "account_age": 2167200.0}

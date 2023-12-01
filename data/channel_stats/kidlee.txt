@@ -1,0 +1,1 @@
+{"channel": "kidlee", "avg_viewers": 36, "followers_gained": 123, "peak_viewers": 273, "hours_streamed": 72, "streams": 23, "mature": 0, "language": "English", "account_age": 3120480.0}

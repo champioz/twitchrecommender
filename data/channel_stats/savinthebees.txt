@@ -1,0 +1,1 @@
+{"channel": "savinthebees", "avg_viewers": 602, "followers_gained": 3768, "peak_viewers": 2037, "hours_streamed": 37, "streams": 16, "mature": 0, "language": "English", "account_age": 2404800.0}

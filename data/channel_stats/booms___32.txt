@@ -1,0 +1,1 @@
+{"channel": "booms___32", "avg_viewers": 7, "followers_gained": 11, "peak_viewers": 16, "hours_streamed": 64, "streams": 21, "mature": 0, "language": "English", "account_age": 1936800.0}

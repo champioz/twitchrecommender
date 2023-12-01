@@ -1,0 +1,1 @@
+{"channel": "sariaslays", "avg_viewers": 45, "followers_gained": 200, "peak_viewers": 78, "hours_streamed": 40, "streams": 9, "mature": 0, "language": "English", "account_age": 1686240.0}

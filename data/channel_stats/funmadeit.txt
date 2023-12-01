@@ -1,0 +1,1 @@
+{"channel": "funmadeit", "avg_viewers": 3, "followers_gained": 13, "peak_viewers": 14, "hours_streamed": 28, "streams": 13, "mature": 1, "language": "German", "account_age": 1409760.0}

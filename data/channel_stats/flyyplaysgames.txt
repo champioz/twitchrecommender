@@ -1,0 +1,1 @@
+{"channel": "flyyplaysgames", "avg_viewers": 10, "followers_gained": 4, "peak_viewers": 23, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "English", "account_age": 1939680.0}

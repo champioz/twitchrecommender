@@ -1,0 +1,1 @@
+{"channel": "miiztlad", "avg_viewers": 26, "followers_gained": 191, "peak_viewers": 161, "hours_streamed": 30, "streams": 12, "mature": 0, "language": "English", "account_age": 1383840.0}

@@ -1,0 +1,1 @@
+{"channel": "fink91", "avg_viewers": 2, "followers_gained": 83, "peak_viewers": 9, "hours_streamed": 92, "streams": 24, "mature": 1, "language": "Spanish", "account_age": 3002400.0}

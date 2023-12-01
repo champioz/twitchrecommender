@@ -1,0 +1,1 @@
+{"channel": "misterwiggly", "avg_viewers": 14, "followers_gained": 132, "peak_viewers": 37, "hours_streamed": 116, "streams": 25, "mature": 0, "language": "English", "account_age": 2311200.0}

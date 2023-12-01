@@ -1,0 +1,1 @@
+{"channel": "sabaku_no_sutoriimaa", "avg_viewers": 589, "followers_gained": 860, "peak_viewers": 985, "hours_streamed": 21, "streams": 13, "mature": 0, "language": "Italian", "account_age": 1886400.0}

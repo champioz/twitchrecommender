@@ -1,0 +1,1 @@
+{"channel": "smileznwigglez", "avg_viewers": 6, "followers_gained": 49, "peak_viewers": 29, "hours_streamed": 31, "streams": 16, "mature": 0, "language": "English", "account_age": 820800.0}

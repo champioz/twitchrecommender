@@ -1,0 +1,1 @@
+{"channel": "4bk_gaming", "avg_viewers": 6, "followers_gained": 10, "peak_viewers": 23, "hours_streamed": 313, "streams": 32, "mature": 0, "language": "Japanese", "account_age": 668160.0}

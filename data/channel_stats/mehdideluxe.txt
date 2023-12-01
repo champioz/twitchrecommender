@@ -1,0 +1,1 @@
+{"channel": "mehdideluxe", "avg_viewers": 277, "followers_gained": 3036, "peak_viewers": 10562, "hours_streamed": 112, "streams": 27, "mature": 1, "language": "German", "account_age": 1476000.0}

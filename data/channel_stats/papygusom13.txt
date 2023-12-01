@@ -1,0 +1,1 @@
+{"channel": "papygusom13", "avg_viewers": 7, "followers_gained": 11, "peak_viewers": 19, "hours_streamed": 57, "streams": 12, "mature": 1, "language": "French", "account_age": 2430720.0}

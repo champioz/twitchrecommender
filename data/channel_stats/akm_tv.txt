@@ -1,0 +1,1 @@
+{"channel": "akm_tv", "avg_viewers": 261, "followers_gained": 49, "peak_viewers": 377, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "French", "account_age": 3731040.0}

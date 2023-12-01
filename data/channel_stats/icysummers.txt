@@ -1,0 +1,1 @@
+{"channel": "icysummers", "avg_viewers": 8, "followers_gained": 38, "peak_viewers": 44, "hours_streamed": 103, "streams": 22, "mature": 0, "language": "English", "account_age": 3633120.0}

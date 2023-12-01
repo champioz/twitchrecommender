@@ -1,0 +1,1 @@
+{"channel": "criticalrole", "avg_viewers": 29846, "followers_gained": 16064, "peak_viewers": 55807, "hours_streamed": 23, "streams": 9, "mature": 0, "language": "English", "account_age": 603360.0}

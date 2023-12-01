@@ -1,0 +1,1 @@
+{"channel": "lordsardinhas", "avg_viewers": 3, "followers_gained": 20, "peak_viewers": 24, "hours_streamed": 72, "streams": 30, "mature": 1, "language": "Portuguese", "account_age": 1693440.0}

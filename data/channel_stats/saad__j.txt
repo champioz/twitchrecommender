@@ -1,0 +1,1 @@
+{"channel": "saad__j", "avg_viewers": 22, "followers_gained": 123, "peak_viewers": 62, "hours_streamed": 73, "streams": 20, "mature": 1, "language": "Arabic", "account_age": 1909440.0}

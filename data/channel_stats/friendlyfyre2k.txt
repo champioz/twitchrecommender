@@ -1,0 +1,1 @@
+{"channel": "friendlyfyre2k", "avg_viewers": 5, "followers_gained": 10, "peak_viewers": 17, "hours_streamed": 74, "streams": 23, "mature": 1, "language": "English", "account_age": 2471040.0}

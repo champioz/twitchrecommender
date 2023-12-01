@@ -1,0 +1,1 @@
+{"channel": "blanc7_shinwoo", "avg_viewers": 35, "followers_gained": 3, "peak_viewers": 66, "hours_streamed": 19, "streams": 7, "mature": 0, "language": "Korean", "account_age": 648000.0}

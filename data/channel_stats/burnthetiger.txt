@@ -1,0 +1,1 @@
+{"channel": "burnthetiger", "avg_viewers": 5, "followers_gained": 34, "peak_viewers": 19, "hours_streamed": 69, "streams": 25, "mature": 1, "language": "English", "account_age": 2535840.0}

@@ -1,0 +1,1 @@
+{"channel": "kimmir26", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 293, "streams": 47, "mature": 0, "language": "Korean", "account_age": 1451520.0}

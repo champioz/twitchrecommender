@@ -1,0 +1,1 @@
+{"channel": "lucas7yoshi", "avg_viewers": 11, "followers_gained": 258, "peak_viewers": 159, "hours_streamed": 190, "streams": 15, "mature": 0, "language": "English", "account_age": 3160800.0}

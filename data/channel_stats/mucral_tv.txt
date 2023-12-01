@@ -1,0 +1,1 @@
+{"channel": "mucral_tv", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 9, "hours_streamed": 14, "streams": 6, "mature": 1, "language": "French", "account_age": 3657600.0}

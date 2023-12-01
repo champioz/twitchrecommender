@@ -1,0 +1,1 @@
+{"channel": "cristianes2", "avg_viewers": 183, "followers_gained": 246, "peak_viewers": 376, "hours_streamed": 37, "streams": 6, "mature": 0, "language": "Portuguese", "account_age": 1851840.0}

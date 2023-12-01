@@ -1,0 +1,1 @@
+{"channel": "kyr_sp33dy", "avg_viewers": 2162, "followers_gained": 5708, "peak_viewers": 4606, "hours_streamed": 66, "streams": 36, "mature": 0, "language": "English", "account_age": 4942080.0}

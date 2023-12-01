@@ -1,0 +1,1 @@
+{"channel": "niederroler", "avg_viewers": 25, "followers_gained": 229, "peak_viewers": 65, "hours_streamed": 129, "streams": 31, "mature": 1, "language": "German", "account_age": 1824480.0}

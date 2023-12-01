@@ -1,0 +1,1 @@
+{"channel": "itz_me_brother16", "avg_viewers": 10, "followers_gained": 9, "peak_viewers": 82, "hours_streamed": 42, "streams": 33, "mature": 0, "language": "English", "account_age": 236160.0}

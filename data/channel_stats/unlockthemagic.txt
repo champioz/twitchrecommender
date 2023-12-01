@@ -1,0 +1,1 @@
+{"channel": "unlockthemagic", "avg_viewers": 7, "followers_gained": 96, "peak_viewers": 37, "hours_streamed": 121, "streams": 31, "mature": 1, "language": "English", "account_age": 1618560.0}

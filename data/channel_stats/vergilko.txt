@@ -1,0 +1,1 @@
+{"channel": "vergilko", "avg_viewers": 18, "followers_gained": 23, "peak_viewers": 36, "hours_streamed": 11, "streams": 6, "mature": 1, "language": "Slovak", "account_age": 3251520.0}

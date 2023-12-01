@@ -1,0 +1,1 @@
+{"channel": "elcanaldejoaco", "avg_viewers": 1357, "followers_gained": 11640, "peak_viewers": 8145, "hours_streamed": 20, "streams": 9, "mature": 1, "language": "Spanish", "account_age": 154080.0}

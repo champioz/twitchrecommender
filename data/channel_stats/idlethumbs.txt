@@ -1,0 +1,1 @@
+{"channel": "idlethumbs", "avg_viewers": 62, "followers_gained": 19, "peak_viewers": 110, "hours_streamed": 64, "streams": 21, "mature": 0, "language": "English", "account_age": 3882240.0}

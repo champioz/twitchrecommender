@@ -1,0 +1,1 @@
+{"channel": "yoggah", "avg_viewers": 65, "followers_gained": 457, "peak_viewers": 391, "hours_streamed": 63, "streams": 19, "mature": 0, "language": "English", "account_age": 1294560.0}

@@ -1,0 +1,1 @@
+{"channel": "xqu33n_rogu3x", "avg_viewers": 14, "followers_gained": 62, "peak_viewers": 40, "hours_streamed": 65, "streams": 11, "mature": 1, "language": "English", "account_age": 2360160.0}

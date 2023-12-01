@@ -1,0 +1,1 @@
+{"channel": "yan531", "avg_viewers": 19, "followers_gained": 3, "peak_viewers": 31, "hours_streamed": 10, "streams": 4, "mature": 1, "language": "Chinese", "account_age": 3931200.0}

@@ -1,0 +1,1 @@
+{"channel": "traciel03", "avg_viewers": 4, "followers_gained": 19, "peak_viewers": 12, "hours_streamed": 74, "streams": 21, "mature": 0, "language": "English", "account_age": 2864160.0}

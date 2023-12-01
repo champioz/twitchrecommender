@@ -1,0 +1,1 @@
+{"channel": "darkherocc", "avg_viewers": 52, "followers_gained": 34, "peak_viewers": 83, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "English", "account_age": 3660480.0}

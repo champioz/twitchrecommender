@@ -1,0 +1,1 @@
+{"channel": "niafniouf", "avg_viewers": 11, "followers_gained": 78, "peak_viewers": 22, "hours_streamed": 33, "streams": 14, "mature": 0, "language": "Dutch", "account_age": 1785600.0}

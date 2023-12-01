@@ -1,0 +1,1 @@
+{"channel": "mooshe", "avg_viewers": 77, "followers_gained": 19, "peak_viewers": 121, "hours_streamed": 12, "streams": 3, "mature": 0, "language": "English", "account_age": 1936800.0}

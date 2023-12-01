@@ -1,0 +1,1 @@
+{"channel": "guizohh", "avg_viewers": 9, "followers_gained": 95, "peak_viewers": 56, "hours_streamed": 79, "streams": 49, "mature": 0, "language": "French", "account_age": 2152800.0}

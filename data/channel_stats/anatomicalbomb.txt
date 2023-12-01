@@ -1,0 +1,1 @@
+{"channel": "anatomicalbomb", "avg_viewers": 57, "followers_gained": 352, "peak_viewers": 495, "hours_streamed": 121, "streams": 42, "mature": 1, "language": "English", "account_age": 2842560.0}

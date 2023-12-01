@@ -1,0 +1,1 @@
+{"channel": "zypher634", "avg_viewers": 12, "followers_gained": 149, "peak_viewers": 61, "hours_streamed": 22, "streams": 8, "mature": 0, "language": "English", "account_age": 4360320.0}

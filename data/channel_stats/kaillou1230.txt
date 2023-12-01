@@ -1,0 +1,1 @@
+{"channel": "kaillou1230", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 2, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "English", "account_age": 295200.0}

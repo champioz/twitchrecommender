@@ -1,0 +1,1 @@
+{"channel": "kortec41", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 10, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "German", "account_age": 2918880.0}

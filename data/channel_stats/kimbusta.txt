@@ -1,0 +1,1 @@
+{"channel": "kimbusta", "avg_viewers": 77, "followers_gained": 290, "peak_viewers": 162, "hours_streamed": 55, "streams": 16, "mature": 0, "language": "Russian", "account_age": 2486880.0}

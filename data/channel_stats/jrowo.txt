@@ -1,0 +1,1 @@
+{"channel": "jrowo", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 30, "hours_streamed": 120, "streams": 37, "mature": 1, "language": "Chinese", "account_age": 1782720.0}

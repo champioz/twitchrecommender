@@ -1,0 +1,1 @@
+{"channel": "nadenka", "avg_viewers": 15, "followers_gained": 206, "peak_viewers": 39, "hours_streamed": 130, "streams": 36, "mature": 1, "language": "Russian", "account_age": 1671840.0}

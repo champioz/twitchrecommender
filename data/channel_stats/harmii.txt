@@ -1,0 +1,1 @@
+{"channel": "harmii", "avg_viewers": 578, "followers_gained": 9466, "peak_viewers": 2746, "hours_streamed": 158, "streams": 30, "mature": 0, "language": "German", "account_age": 1853280.0}

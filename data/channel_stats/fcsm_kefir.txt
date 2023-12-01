@@ -1,0 +1,1 @@
+{"channel": "fcsm_kefir", "avg_viewers": 701, "followers_gained": 1749, "peak_viewers": 2159, "hours_streamed": 82, "streams": 13, "mature": 0, "language": "Russian", "account_age": 3208320.0}

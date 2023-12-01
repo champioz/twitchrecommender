@@ -1,0 +1,1 @@
+{"channel": "ciaragamez", "avg_viewers": 26, "followers_gained": 526, "peak_viewers": 126, "hours_streamed": 104, "streams": 22, "mature": 0, "language": "English", "account_age": 2655360.0}

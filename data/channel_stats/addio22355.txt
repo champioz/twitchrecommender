@@ -1,0 +1,1 @@
+{"channel": "addio22355", "avg_viewers": 51, "followers_gained": 32, "peak_viewers": 213, "hours_streamed": 15, "streams": 13, "mature": 0, "language": "Chinese", "account_age": 2288160.0}

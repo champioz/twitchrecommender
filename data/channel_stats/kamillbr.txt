@@ -1,0 +1,1 @@
+{"channel": "kamillbr", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 16, "hours_streamed": 26, "streams": 11, "mature": 1, "language": "French", "account_age": 3932640.0}

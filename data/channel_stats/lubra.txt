@@ -1,0 +1,1 @@
+{"channel": "lubra", "avg_viewers": 24, "followers_gained": 71, "peak_viewers": 47, "hours_streamed": 110, "streams": 24, "mature": 1, "language": "French", "account_age": 1440000.0}

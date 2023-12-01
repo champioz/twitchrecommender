@@ -1,0 +1,1 @@
+{"channel": "herr_currywurst", "avg_viewers": 1601, "followers_gained": 318, "peak_viewers": 2496, "hours_streamed": 6, "streams": 1, "mature": 1, "language": "German", "account_age": 2943360.0}

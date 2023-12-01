@@ -1,0 +1,1 @@
+{"channel": "xsparebulletsx", "avg_viewers": 3, "followers_gained": 13, "peak_viewers": 9, "hours_streamed": 33, "streams": 18, "mature": 1, "language": "English", "account_age": 1344960.0}

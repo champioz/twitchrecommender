@@ -1,0 +1,1 @@
+{"channel": "rubystarashe", "avg_viewers": 21, "followers_gained": 42, "peak_viewers": 66, "hours_streamed": 79, "streams": 14, "mature": 1, "language": "Korean", "account_age": 1536480.0}

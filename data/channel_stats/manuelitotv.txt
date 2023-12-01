@@ -1,0 +1,1 @@
+{"channel": "manuelitotv", "avg_viewers": 25, "followers_gained": 256, "peak_viewers": 65, "hours_streamed": 46, "streams": 16, "mature": 0, "language": "Italian", "account_age": 1637280.0}

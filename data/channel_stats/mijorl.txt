@@ -1,0 +1,1 @@
+{"channel": "mijorl", "avg_viewers": 71, "followers_gained": 61, "peak_viewers": 146, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "English", "account_age": 1824480.0}

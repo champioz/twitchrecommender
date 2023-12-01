@@ -1,0 +1,1 @@
+{"channel": "matt_gambler", "avg_viewers": 34, "followers_gained": 1, "peak_viewers": 129, "hours_streamed": 143, "streams": 22, "mature": 1, "language": "English", "account_age": 2341440.0}

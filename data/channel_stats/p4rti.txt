@@ -1,0 +1,1 @@
+{"channel": "p4rti", "avg_viewers": 23, "followers_gained": 52, "peak_viewers": 42, "hours_streamed": 79, "streams": 25, "mature": 0, "language": "Russian", "account_age": 3499200.0}

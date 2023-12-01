@@ -1,0 +1,1 @@
+{"channel": "fid0", "avg_viewers": 5, "followers_gained": 107, "peak_viewers": 27, "hours_streamed": 129, "streams": 25, "mature": 1, "language": "Portuguese", "account_age": 3048480.0}

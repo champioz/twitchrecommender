@@ -1,0 +1,1 @@
+{"channel": "savashka_", "avg_viewers": 13, "followers_gained": 207, "peak_viewers": 45, "hours_streamed": 150, "streams": 46, "mature": 1, "language": "Russian", "account_age": 456480.0}

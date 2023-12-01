@@ -1,0 +1,1 @@
+{"channel": "hollywood", "avg_viewers": 283, "followers_gained": 1979, "peak_viewers": 550, "hours_streamed": 49, "streams": 17, "mature": 1, "language": "English", "account_age": 2508480.0}

@@ -1,0 +1,1 @@
+{"channel": "taurenbreezy", "avg_viewers": 14, "followers_gained": 6, "peak_viewers": 36, "hours_streamed": 72, "streams": 18, "mature": 0, "language": "English", "account_age": 3614400.0}

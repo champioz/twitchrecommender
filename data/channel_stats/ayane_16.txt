@@ -1,0 +1,1 @@
+{"channel": "ayane_16", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 4, "hours_streamed": 22, "streams": 9, "mature": 1, "language": "English", "account_age": 2194560.0}

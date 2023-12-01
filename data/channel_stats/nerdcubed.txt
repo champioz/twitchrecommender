@@ -1,0 +1,1 @@
+{"channel": "nerdcubed", "avg_viewers": 445, "followers_gained": 444, "peak_viewers": 802, "hours_streamed": 33, "streams": 18, "mature": 1, "language": "English", "account_age": 3844800.0}

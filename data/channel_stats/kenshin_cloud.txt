@@ -1,0 +1,1 @@
+{"channel": "kenshin_cloud", "avg_viewers": 26, "followers_gained": 115, "peak_viewers": 118, "hours_streamed": 177, "streams": 29, "mature": 1, "language": "English", "account_age": 3496320.0}

@@ -1,0 +1,1 @@
+{"channel": "soongasoonga", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Chinese", "account_age": 822240.0}

@@ -1,0 +1,1 @@
+{"channel": "rocketstation", "avg_viewers": 19, "followers_gained": 11, "peak_viewers": 67, "hours_streamed": 19, "streams": 11, "mature": 0, "language": "English", "account_age": 3211200.0}

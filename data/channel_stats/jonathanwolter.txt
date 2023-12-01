@@ -1,0 +1,1 @@
+{"channel": "jonathanwolter", "avg_viewers": 14, "followers_gained": 2, "peak_viewers": 28, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "Portuguese", "account_age": 1814400.0}

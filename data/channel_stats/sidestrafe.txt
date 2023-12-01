@@ -1,0 +1,1 @@
+{"channel": "sidestrafe", "avg_viewers": 63, "followers_gained": 147, "peak_viewers": 123, "hours_streamed": 209, "streams": 34, "mature": 0, "language": "English", "account_age": 4343040.0}

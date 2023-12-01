@@ -1,0 +1,1 @@
+{"channel": "wisserd", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 6, "hours_streamed": 81, "streams": 24, "mature": 0, "language": "English", "account_age": 3352320.0}

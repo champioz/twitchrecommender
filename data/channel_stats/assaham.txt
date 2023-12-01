@@ -1,0 +1,1 @@
+{"channel": "assaham", "avg_viewers": 0, "followers_gained": 20, "peak_viewers": 4, "hours_streamed": 18, "streams": 12, "mature": 1, "language": "Arabic", "account_age": 2602080.0}

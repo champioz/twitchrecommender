@@ -1,0 +1,1 @@
+{"channel": "prostogospoja", "avg_viewers": 8, "followers_gained": 35, "peak_viewers": 22, "hours_streamed": 37, "streams": 12, "mature": 0, "language": "Russian", "account_age": 783360.0}

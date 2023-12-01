@@ -1,0 +1,1 @@
+{"channel": "suriontv", "avg_viewers": 6, "followers_gained": 57, "peak_viewers": 66, "hours_streamed": 164, "streams": 30, "mature": 0, "language": "German", "account_age": 3418560.0}

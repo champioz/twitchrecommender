@@ -1,0 +1,1 @@
+{"channel": "bounties", "avg_viewers": 21, "followers_gained": 326, "peak_viewers": 56, "hours_streamed": 61, "streams": 21, "mature": 0, "language": "English", "account_age": 753120.0}

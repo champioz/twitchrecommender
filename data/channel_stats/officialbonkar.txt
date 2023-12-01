@@ -1,0 +1,1 @@
+{"channel": "officialbonkar", "avg_viewers": 44, "followers_gained": 35, "peak_viewers": 95, "hours_streamed": 7, "streams": 4, "mature": 1, "language": "English", "account_age": 1448640.0}

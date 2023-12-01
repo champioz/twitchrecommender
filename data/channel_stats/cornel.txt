@@ -1,0 +1,1 @@
+{"channel": "cornel", "avg_viewers": 60, "followers_gained": 198, "peak_viewers": 136, "hours_streamed": 105, "streams": 23, "mature": 0, "language": "German", "account_age": 2181600.0}

@@ -1,0 +1,1 @@
+{"channel": "minecraftingdad", "avg_viewers": 8, "followers_gained": 57, "peak_viewers": 22, "hours_streamed": 18, "streams": 6, "mature": 0, "language": "English", "account_age": 2865600.0}

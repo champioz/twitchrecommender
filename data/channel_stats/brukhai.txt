@@ -1,0 +1,1 @@
+{"channel": "brukhai", "avg_viewers": 2, "followers_gained": 13, "peak_viewers": 7, "hours_streamed": 27, "streams": 8, "mature": 1, "language": "Turkish", "account_age": 653760.0}

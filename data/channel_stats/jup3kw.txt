@@ -1,0 +1,1 @@
+{"channel": "jup3kw", "avg_viewers": 6, "followers_gained": 21, "peak_viewers": 16, "hours_streamed": 37, "streams": 12, "mature": 0, "language": "Finnish", "account_age": 2062080.0}

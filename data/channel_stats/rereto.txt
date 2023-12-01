@@ -1,0 +1,1 @@
+{"channel": "rereto", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 9, "streams": 9, "mature": 1, "language": "German", "account_age": 3358080.0}

@@ -1,0 +1,1 @@
+{"channel": "barrow34", "avg_viewers": 78, "followers_gained": 415, "peak_viewers": 129, "hours_streamed": 113, "streams": 20, "mature": 1, "language": "English", "account_age": 2581920.0}

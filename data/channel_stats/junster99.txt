@@ -1,0 +1,1 @@
+{"channel": "junster99", "avg_viewers": 8, "followers_gained": 80, "peak_viewers": 25, "hours_streamed": 69, "streams": 18, "mature": 1, "language": "English", "account_age": 3520800.0}

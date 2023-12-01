@@ -1,0 +1,1 @@
+{"channel": "tidushot", "avg_viewers": 6, "followers_gained": 32, "peak_viewers": 22, "hours_streamed": 63, "streams": 24, "mature": 0, "language": "English", "account_age": 3101760.0}

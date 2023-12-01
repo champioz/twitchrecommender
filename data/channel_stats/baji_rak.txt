@@ -1,0 +1,1 @@
+{"channel": "baji_rak", "avg_viewers": 9, "followers_gained": 4, "peak_viewers": 20, "hours_streamed": 35, "streams": 13, "mature": 0, "language": "Korean", "account_age": 776160.0}

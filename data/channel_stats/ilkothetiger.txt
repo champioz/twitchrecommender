@@ -1,0 +1,1 @@
+{"channel": "ilkothetiger", "avg_viewers": 6, "followers_gained": 136, "peak_viewers": 61, "hours_streamed": 152, "streams": 35, "mature": 0, "language": "Bulgarian", "account_age": 668160.0}

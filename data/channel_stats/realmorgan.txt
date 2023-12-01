@@ -1,0 +1,1 @@
+{"channel": "realmorgan", "avg_viewers": 6, "followers_gained": 4, "peak_viewers": 12, "hours_streamed": 32, "streams": 6, "mature": 0, "language": "Russian", "account_age": 1478880.0}

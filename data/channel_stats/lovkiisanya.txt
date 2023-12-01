@@ -1,0 +1,1 @@
+{"channel": "lovkiisanya", "avg_viewers": 7, "followers_gained": 94, "peak_viewers": 62, "hours_streamed": 189, "streams": 33, "mature": 0, "language": "Russian", "account_age": 887040.0}

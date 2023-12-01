@@ -1,0 +1,1 @@
+{"channel": "jdantastic", "avg_viewers": 68, "followers_gained": 177, "peak_viewers": 222, "hours_streamed": 58, "streams": 21, "mature": 0, "language": "English", "account_age": 4043520.0}

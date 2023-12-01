@@ -1,0 +1,1 @@
+{"channel": "stevenator546", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 12, "hours_streamed": 34, "streams": 21, "mature": 0, "language": "English", "account_age": 4104000.0}

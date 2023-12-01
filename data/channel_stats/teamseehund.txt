@@ -1,0 +1,1 @@
+{"channel": "teamseehund", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 12, "hours_streamed": 12, "streams": 5, "mature": 0, "language": "German", "account_age": 1920960.0}

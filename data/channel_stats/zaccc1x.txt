@@ -1,0 +1,1 @@
+{"channel": "zaccc1x", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 13, "hours_streamed": 29, "streams": 12, "mature": 1, "language": "Russian", "account_age": 969120.0}

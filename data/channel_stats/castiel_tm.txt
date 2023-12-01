@@ -1,0 +1,1 @@
+{"channel": "castiel_tm", "avg_viewers": 1, "followers_gained": 12, "peak_viewers": 7, "hours_streamed": 16, "streams": 10, "mature": 0, "language": "Portuguese", "account_age": 842400.0}

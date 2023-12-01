@@ -1,0 +1,1 @@
+{"channel": "rickwreckless", "avg_viewers": 73, "followers_gained": 25, "peak_viewers": 118, "hours_streamed": 41, "streams": 12, "mature": 0, "language": "English", "account_age": 738720.0}

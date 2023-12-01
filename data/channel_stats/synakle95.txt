@@ -1,0 +1,1 @@
+{"channel": "synakle95", "avg_viewers": 11, "followers_gained": 71, "peak_viewers": 67, "hours_streamed": 88, "streams": 29, "mature": 0, "language": "English", "account_age": 2023200.0}

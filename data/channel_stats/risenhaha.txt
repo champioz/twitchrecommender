@@ -1,0 +1,1 @@
+{"channel": "risenhaha", "avg_viewers": 249, "followers_gained": 531, "peak_viewers": 370, "hours_streamed": 53, "streams": 18, "mature": 1, "language": "Russian", "account_age": 1409760.0}

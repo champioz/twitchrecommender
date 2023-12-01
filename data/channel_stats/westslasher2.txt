@@ -1,0 +1,1 @@
+{"channel": "westslasher2", "avg_viewers": 12, "followers_gained": 7, "peak_viewers": 99, "hours_streamed": 22, "streams": 9, "mature": 0, "language": "English", "account_age": 2656800.0}

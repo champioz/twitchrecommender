@@ -1,0 +1,1 @@
+{"channel": "cola_mango", "avg_viewers": 17, "followers_gained": 145, "peak_viewers": 146, "hours_streamed": 64, "streams": 22, "mature": 0, "language": "Korean", "account_age": 992160.0}

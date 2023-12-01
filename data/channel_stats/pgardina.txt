@@ -1,0 +1,1 @@
+{"channel": "pgardina", "avg_viewers": 17, "followers_gained": 33, "peak_viewers": 66, "hours_streamed": 61, "streams": 13, "mature": 1, "language": "Portuguese", "account_age": 2697120.0}

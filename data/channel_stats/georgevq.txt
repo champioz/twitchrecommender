@@ -1,0 +1,1 @@
+{"channel": "georgevq", "avg_viewers": 5, "followers_gained": 55, "peak_viewers": 19, "hours_streamed": 102, "streams": 23, "mature": 1, "language": "Spanish", "account_age": 758880.0}

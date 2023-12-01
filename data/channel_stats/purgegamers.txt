@@ -1,0 +1,1 @@
+{"channel": "purgegamers", "avg_viewers": 880, "followers_gained": 983, "peak_viewers": 2141, "hours_streamed": 78, "streams": 11, "mature": 0, "language": "English", "account_age": 4309920.0}

@@ -1,0 +1,1 @@
+{"channel": "boredtimeplay", "avg_viewers": 39, "followers_gained": 11, "peak_viewers": 115, "hours_streamed": 81, "streams": 30, "mature": 0, "language": "English", "account_age": 3221280.0}

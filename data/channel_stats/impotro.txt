@@ -1,0 +1,1 @@
+{"channel": "impotro", "avg_viewers": 4, "followers_gained": 34, "peak_viewers": 17, "hours_streamed": 45, "streams": 19, "mature": 1, "language": "Spanish", "account_age": 371520.0}

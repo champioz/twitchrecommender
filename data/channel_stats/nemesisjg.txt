@@ -1,0 +1,1 @@
+{"channel": "nemesisjg", "avg_viewers": 7, "followers_gained": 12, "peak_viewers": 24, "hours_streamed": 36, "streams": 12, "mature": 1, "language": "English", "account_age": 1241280.0}

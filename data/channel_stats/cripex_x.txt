@@ -1,0 +1,1 @@
+{"channel": "cripex_x", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 7, "hours_streamed": 13, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 817920.0}

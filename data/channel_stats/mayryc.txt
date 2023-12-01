@@ -1,0 +1,1 @@
+{"channel": "mayryc", "avg_viewers": 90, "followers_gained": 959, "peak_viewers": 326, "hours_streamed": 42, "streams": 16, "mature": 0, "language": "Thai", "account_age": 1465920.0}

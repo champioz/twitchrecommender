@@ -1,0 +1,1 @@
+{"channel": "mickleroi12", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 0, "hours_streamed": 0, "streams": 0, "mature": 1, "language": "French", "account_age": 699840.0}

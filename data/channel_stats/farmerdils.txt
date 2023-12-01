@@ -1,0 +1,1 @@
+{"channel": "farmerdils", "avg_viewers": 71, "followers_gained": 1151, "peak_viewers": 140, "hours_streamed": 17, "streams": 8, "mature": 0, "language": "English", "account_age": 1176480.0}

@@ -1,0 +1,1 @@
+{"channel": "appleshuu", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 6, "hours_streamed": 145, "streams": 28, "mature": 1, "language": "English", "account_age": 2129760.0}

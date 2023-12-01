@@ -1,0 +1,1 @@
+{"channel": "smurfdomuca", "avg_viewers": 50, "followers_gained": 9, "peak_viewers": 83, "hours_streamed": 12, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 1350720.0}

@@ -1,0 +1,1 @@
+{"channel": "methylenes", "avg_viewers": 33, "followers_gained": 177, "peak_viewers": 78, "hours_streamed": 42, "streams": 18, "mature": 1, "language": "French", "account_age": 1670400.0}

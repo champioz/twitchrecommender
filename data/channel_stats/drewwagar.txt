@@ -1,0 +1,1 @@
+{"channel": "drewwagar", "avg_viewers": 9, "followers_gained": 1, "peak_viewers": 25, "hours_streamed": 12, "streams": 6, "mature": 0, "language": "English", "account_age": 2367360.0}

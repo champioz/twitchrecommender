@@ -1,0 +1,1 @@
+{"channel": "mollsisbored", "avg_viewers": 31, "followers_gained": 93, "peak_viewers": 208, "hours_streamed": 54, "streams": 10, "mature": 1, "language": "English", "account_age": 2835360.0}

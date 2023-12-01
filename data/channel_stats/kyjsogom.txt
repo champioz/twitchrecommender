@@ -1,0 +1,1 @@
+{"channel": "kyjsogom", "avg_viewers": 72, "followers_gained": 74, "peak_viewers": 123, "hours_streamed": 20, "streams": 5, "mature": 0, "language": "Korean", "account_age": 1209600.0}

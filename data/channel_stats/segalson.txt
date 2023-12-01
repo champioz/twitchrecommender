@@ -1,0 +1,1 @@
+{"channel": "segalson", "avg_viewers": 38, "followers_gained": 96, "peak_viewers": 513, "hours_streamed": 27, "streams": 16, "mature": 1, "language": "German", "account_age": 851040.0}

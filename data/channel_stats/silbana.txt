@@ -1,0 +1,1 @@
+{"channel": "silbana", "avg_viewers": 16, "followers_gained": 199, "peak_viewers": 76, "hours_streamed": 140, "streams": 34, "mature": 1, "language": "Spanish", "account_age": 2083680.0}

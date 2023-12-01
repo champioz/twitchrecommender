@@ -1,0 +1,1 @@
+{"channel": "cocaobda", "avg_viewers": 2, "followers_gained": 24, "peak_viewers": 10, "hours_streamed": 21, "streams": 13, "mature": 1, "language": "Portuguese", "account_age": 639360.0}

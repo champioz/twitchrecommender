@@ -1,0 +1,1 @@
+{"channel": "kornel_iusz", "avg_viewers": 64, "followers_gained": 2952, "peak_viewers": 187, "hours_streamed": 151, "streams": 25, "mature": 0, "language": "Polish", "account_age": 479520.0}

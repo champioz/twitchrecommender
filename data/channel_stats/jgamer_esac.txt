@@ -1,0 +1,1 @@
+{"channel": "jgamer_esac", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 2, "hours_streamed": 41, "streams": 13, "mature": 0, "language": "English", "account_age": 1676160.0}

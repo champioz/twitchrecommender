@@ -1,0 +1,1 @@
+{"channel": "liquidatorwot", "avg_viewers": 116, "followers_gained": 373, "peak_viewers": 846, "hours_streamed": 128, "streams": 56, "mature": 0, "language": "Russian", "account_age": 2063520.0}

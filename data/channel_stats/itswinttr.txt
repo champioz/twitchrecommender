@@ -1,0 +1,1 @@
+{"channel": "itswinttr", "avg_viewers": 25, "followers_gained": 190, "peak_viewers": 81, "hours_streamed": 40, "streams": 39, "mature": 0, "language": "English", "account_age": 2240640.0}

@@ -1,0 +1,1 @@
+{"channel": "knight", "avg_viewers": 54, "followers_gained": 481, "peak_viewers": 195, "hours_streamed": 83, "streams": 31, "mature": 0, "language": "English", "account_age": 1870560.0}

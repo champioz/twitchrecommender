@@ -1,0 +1,1 @@
+{"channel": "shrimp9710", "avg_viewers": 976, "followers_gained": 11852, "peak_viewers": 4788, "hours_streamed": 129, "streams": 24, "mature": 0, "language": "English", "account_age": 2098080.0}

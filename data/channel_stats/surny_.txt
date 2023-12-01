@@ -1,0 +1,1 @@
+{"channel": "surny_", "avg_viewers": 24, "followers_gained": 143, "peak_viewers": 422, "hours_streamed": 91, "streams": 17, "mature": 0, "language": "English", "account_age": 1761120.0}

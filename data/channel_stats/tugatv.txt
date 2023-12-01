@@ -1,0 +1,1 @@
+{"channel": "tugatv", "avg_viewers": 89, "followers_gained": 2893, "peak_viewers": 732, "hours_streamed": 189, "streams": 32, "mature": 1, "language": "Portuguese", "account_age": 2620800.0}

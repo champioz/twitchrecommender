@@ -1,0 +1,1 @@
+{"channel": "zaikozila", "avg_viewers": 23, "followers_gained": 60, "peak_viewers": 43, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "English", "account_age": 1552320.0}

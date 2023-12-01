@@ -1,0 +1,1 @@
+{"channel": "karmicatze", "avg_viewers": 5, "followers_gained": 19, "peak_viewers": 17, "hours_streamed": 62, "streams": 16, "mature": 1, "language": "German", "account_age": 1745280.0}

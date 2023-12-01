@@ -1,0 +1,1 @@
+{"channel": "sc2_zest", "avg_viewers": 282, "followers_gained": 319, "peak_viewers": 792, "hours_streamed": 27, "streams": 10, "mature": 0, "language": "Korean", "account_age": 1380960.0}

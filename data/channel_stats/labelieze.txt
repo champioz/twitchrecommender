@@ -1,0 +1,1 @@
+{"channel": "labelieze", "avg_viewers": 12, "followers_gained": 108, "peak_viewers": 59, "hours_streamed": 287, "streams": 59, "mature": 1, "language": "Portuguese", "account_age": 3124800.0}

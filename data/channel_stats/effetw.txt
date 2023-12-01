@@ -1,0 +1,1 @@
+{"channel": "effetw", "avg_viewers": 7, "followers_gained": 66, "peak_viewers": 21, "hours_streamed": 22, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 756000.0}

@@ -1,0 +1,1 @@
+{"channel": "ubica", "avg_viewers": 134, "followers_gained": 1134, "peak_viewers": 301, "hours_streamed": 78, "streams": 22, "mature": 1, "language": "Russian", "account_age": 2350080.0}

@@ -1,0 +1,1 @@
+{"channel": "panakotta", "avg_viewers": 95, "followers_gained": 68, "peak_viewers": 184, "hours_streamed": 125, "streams": 17, "mature": 0, "language": "Russian", "account_age": 1563840.0}

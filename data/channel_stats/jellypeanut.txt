@@ -1,0 +1,1 @@
+{"channel": "jellypeanut", "avg_viewers": 39, "followers_gained": 793, "peak_viewers": 529, "hours_streamed": 88, "streams": 32, "mature": 0, "language": "English", "account_age": 2916000.0}

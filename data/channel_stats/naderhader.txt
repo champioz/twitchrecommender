@@ -1,0 +1,1 @@
+{"channel": "naderhader", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 101, "streams": 45, "mature": 0, "language": "English", "account_age": 4366080.0}

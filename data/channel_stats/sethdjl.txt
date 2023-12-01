@@ -1,0 +1,1 @@
+{"channel": "sethdjl", "avg_viewers": 4, "followers_gained": 27, "peak_viewers": 19, "hours_streamed": 19, "streams": 9, "mature": 1, "language": "English", "account_age": 1890720.0}

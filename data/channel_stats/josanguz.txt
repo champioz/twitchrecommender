@@ -1,0 +1,1 @@
+{"channel": "josanguz", "avg_viewers": 24, "followers_gained": 272, "peak_viewers": 71, "hours_streamed": 113, "streams": 37, "mature": 0, "language": "Spanish", "account_age": 4171680.0}

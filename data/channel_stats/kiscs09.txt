@@ -1,0 +1,1 @@
+{"channel": "kiscs09", "avg_viewers": 2, "followers_gained": 35, "peak_viewers": 10, "hours_streamed": 66, "streams": 35, "mature": 0, "language": "Hungarian", "account_age": 476640.0}

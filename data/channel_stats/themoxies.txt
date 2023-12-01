@@ -1,0 +1,1 @@
+{"channel": "themoxies", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 9, "hours_streamed": 51, "streams": 15, "mature": 1, "language": "English", "account_age": 1861920.0}

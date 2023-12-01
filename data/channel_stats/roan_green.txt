@@ -1,0 +1,1 @@
+{"channel": "roan_green", "avg_viewers": 9, "followers_gained": 7, "peak_viewers": 21, "hours_streamed": 49, "streams": 16, "mature": 0, "language": "Korean", "account_age": 1380960.0}

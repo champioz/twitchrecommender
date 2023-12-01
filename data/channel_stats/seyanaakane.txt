@@ -1,0 +1,1 @@
+{"channel": "seyanaakane", "avg_viewers": 25, "followers_gained": 62, "peak_viewers": 58, "hours_streamed": 165, "streams": 31, "mature": 0, "language": "Japanese", "account_age": 668160.0}

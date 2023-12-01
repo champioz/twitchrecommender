@@ -1,0 +1,1 @@
+{"channel": "theusma", "avg_viewers": 38, "followers_gained": 27, "peak_viewers": 89, "hours_streamed": 47, "streams": 16, "mature": 1, "language": "Portuguese", "account_age": 3489120.0}

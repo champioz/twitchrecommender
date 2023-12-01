@@ -1,0 +1,1 @@
+{"channel": "skyrroztv", "avg_viewers": 966, "followers_gained": 8834, "peak_viewers": 3830, "hours_streamed": 91, "streams": 33, "mature": 0, "language": "French", "account_age": 2982240.0}

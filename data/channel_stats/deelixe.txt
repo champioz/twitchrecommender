@@ -1,0 +1,1 @@
+{"channel": "deelixe", "avg_viewers": 6, "followers_gained": 118, "peak_viewers": 49, "hours_streamed": 117, "streams": 27, "mature": 1, "language": "German", "account_age": 750240.0}

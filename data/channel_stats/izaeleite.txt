@@ -1,0 +1,1 @@
+{"channel": "izaeleite", "avg_viewers": 20, "followers_gained": 112, "peak_viewers": 57, "hours_streamed": 40, "streams": 19, "mature": 1, "language": "Portuguese", "account_age": 711360.0}

@@ -1,0 +1,1 @@
+{"channel": "oxen40", "avg_viewers": 8, "followers_gained": 142, "peak_viewers": 27, "hours_streamed": 63, "streams": 11, "mature": 0, "language": "Korean", "account_age": 387360.0}

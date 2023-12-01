@@ -1,0 +1,1 @@
+{"channel": "iparaadox", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 5, "streams": 5, "mature": 0, "language": "German", "account_age": 594720.0}

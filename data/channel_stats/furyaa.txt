@@ -1,0 +1,1 @@
+{"channel": "furyaa", "avg_viewers": 17, "followers_gained": 6, "peak_viewers": 28, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "German", "account_age": 1258560.0}

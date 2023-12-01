@@ -1,0 +1,1 @@
+{"channel": "kkunykyu", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 5, "hours_streamed": 21, "streams": 13, "mature": 0, "language": "Korean", "account_age": 835200.0}

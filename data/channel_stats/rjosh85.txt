@@ -1,0 +1,1 @@
+{"channel": "rjosh85", "avg_viewers": 9, "followers_gained": 17, "peak_viewers": 35, "hours_streamed": 15, "streams": 5, "mature": 1, "language": "English", "account_age": 3473280.0}

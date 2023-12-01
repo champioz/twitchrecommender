@@ -1,0 +1,1 @@
+{"channel": "oisterproper", "avg_viewers": 113, "followers_gained": 8, "peak_viewers": 139, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "German", "account_age": 2403360.0}

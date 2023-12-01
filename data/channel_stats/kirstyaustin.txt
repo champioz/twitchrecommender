@@ -1,0 +1,1 @@
+{"channel": "kirstyaustin", "avg_viewers": 52, "followers_gained": 75, "peak_viewers": 103, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "English", "account_age": 669600.0}

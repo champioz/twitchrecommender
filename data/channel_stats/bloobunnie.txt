@@ -1,0 +1,1 @@
+{"channel": "bloobunnie", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 11, "hours_streamed": 16, "streams": 3, "mature": 1, "language": "English", "account_age": 2664000.0}

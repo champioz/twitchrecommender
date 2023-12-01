@@ -1,0 +1,1 @@
+{"channel": "cat_ey3z", "avg_viewers": 28, "followers_gained": 341, "peak_viewers": 616, "hours_streamed": 119, "streams": 23, "mature": 0, "language": "English", "account_age": 1676160.0}

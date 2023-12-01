@@ -1,0 +1,1 @@
+{"channel": "adamaze", "avg_viewers": 27, "followers_gained": 513, "peak_viewers": 81, "hours_streamed": 208, "streams": 34, "mature": 1, "language": "English", "account_age": 2730240.0}

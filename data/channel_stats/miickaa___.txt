@@ -1,0 +1,1 @@
+{"channel": "miickaa___", "avg_viewers": 4, "followers_gained": 24, "peak_viewers": 27, "hours_streamed": 114, "streams": 43, "mature": 1, "language": "French", "account_age": 1643040.0}

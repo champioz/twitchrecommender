@@ -1,0 +1,1 @@
+{"channel": "wani_red", "avg_viewers": 4, "followers_gained": 85, "peak_viewers": 13, "hours_streamed": 129, "streams": 31, "mature": 0, "language": "Korean", "account_age": 518400.0}

@@ -1,0 +1,1 @@
+{"channel": "shivfps", "avg_viewers": 1579, "followers_gained": 26552, "peak_viewers": 7274, "hours_streamed": 319, "streams": 31, "mature": 0, "language": "English", "account_age": 1622880.0}

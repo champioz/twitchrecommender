@@ -1,0 +1,1 @@
+{"channel": "sushinortor", "avg_viewers": 443, "followers_gained": 2872, "peak_viewers": 2157, "hours_streamed": 51, "streams": 15, "mature": 1, "language": "Thai", "account_age": 552960.0}

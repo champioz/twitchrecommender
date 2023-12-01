@@ -1,0 +1,1 @@
+{"channel": "nellytelly", "avg_viewers": 3, "followers_gained": 16, "peak_viewers": 11, "hours_streamed": 25, "streams": 11, "mature": 1, "language": "English", "account_age": 738720.0}

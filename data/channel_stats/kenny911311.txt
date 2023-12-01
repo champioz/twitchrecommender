@@ -1,0 +1,1 @@
+{"channel": "kenny911311", "avg_viewers": 35, "followers_gained": 244, "peak_viewers": 83, "hours_streamed": 66, "streams": 19, "mature": 0, "language": "English", "account_age": 646560.0}

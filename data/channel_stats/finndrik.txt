@@ -1,0 +1,1 @@
+{"channel": "finndrik", "avg_viewers": 7, "followers_gained": 17, "peak_viewers": 27, "hours_streamed": 61, "streams": 17, "mature": 1, "language": "German", "account_age": 2286720.0}

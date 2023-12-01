@@ -1,0 +1,1 @@
+{"channel": "castlesuperbeast", "avg_viewers": 2534, "followers_gained": 193, "peak_viewers": 3231, "hours_streamed": 16, "streams": 5, "mature": 1, "language": "English", "account_age": 2675520.0}

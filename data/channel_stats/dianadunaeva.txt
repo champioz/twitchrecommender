@@ -1,0 +1,1 @@
+{"channel": "dianadunaeva", "avg_viewers": 104, "followers_gained": 710, "peak_viewers": 525, "hours_streamed": 102, "streams": 46, "mature": 1, "language": "Russian", "account_age": 2083680.0}

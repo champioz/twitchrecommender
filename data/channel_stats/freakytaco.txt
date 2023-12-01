@@ -1,0 +1,1 @@
+{"channel": "freakytaco", "avg_viewers": 3, "followers_gained": 16, "peak_viewers": 13, "hours_streamed": 68, "streams": 20, "mature": 1, "language": "English", "account_age": 5463360.0}

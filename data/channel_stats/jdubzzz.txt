@@ -1,0 +1,1 @@
+{"channel": "jdubzzz", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 10, "hours_streamed": 40, "streams": 24, "mature": 0, "language": "English", "account_age": 1147680.0}

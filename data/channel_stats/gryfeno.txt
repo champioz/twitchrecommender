@@ -1,0 +1,1 @@
+{"channel": "gryfeno", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 14, "streams": 3, "mature": 1, "language": "Polish", "account_age": 2054880.0}

@@ -1,0 +1,1 @@
+{"channel": "csillabu", "avg_viewers": 67, "followers_gained": 56, "peak_viewers": 97, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "English", "account_age": 1288800.0}

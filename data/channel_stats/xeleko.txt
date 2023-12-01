@@ -1,0 +1,1 @@
+{"channel": "xeleko", "avg_viewers": 33, "followers_gained": 48, "peak_viewers": 131, "hours_streamed": 35, "streams": 20, "mature": 0, "language": "French", "account_age": 3873600.0}

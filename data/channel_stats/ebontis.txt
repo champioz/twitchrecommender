@@ -1,0 +1,1 @@
+{"channel": "ebontis", "avg_viewers": 15, "followers_gained": 70, "peak_viewers": 57, "hours_streamed": 43, "streams": 13, "mature": 0, "language": "English", "account_age": 2131200.0}

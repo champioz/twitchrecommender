@@ -1,0 +1,1 @@
+{"channel": "yaboysavage_", "avg_viewers": 210, "followers_gained": 1117, "peak_viewers": 718, "hours_streamed": 49, "streams": 23, "mature": 0, "language": "English", "account_age": 1553760.0}

@@ -1,0 +1,1 @@
+{"channel": "academiaapostas", "avg_viewers": 37, "followers_gained": 114, "peak_viewers": 112, "hours_streamed": 80, "streams": 35, "mature": 0, "language": "Portuguese", "account_age": 558720.0}

@@ -1,0 +1,1 @@
+{"channel": "spirit2011gg", "avg_viewers": 6, "followers_gained": 17, "peak_viewers": 21, "hours_streamed": 45, "streams": 13, "mature": 0, "language": "Korean", "account_age": 3529440.0}

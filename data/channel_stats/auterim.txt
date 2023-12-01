@@ -1,0 +1,1 @@
+{"channel": "auterim", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 16, "hours_streamed": 39, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 1696320.0}

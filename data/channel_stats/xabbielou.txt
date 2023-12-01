@@ -1,0 +1,1 @@
+{"channel": "xabbielou", "avg_viewers": 22, "followers_gained": 505, "peak_viewers": 43, "hours_streamed": 70, "streams": 14, "mature": 0, "language": "English", "account_age": 429120.0}

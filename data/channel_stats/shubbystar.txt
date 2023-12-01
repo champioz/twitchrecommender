@@ -1,0 +1,1 @@
+{"channel": "shubbystar", "avg_viewers": 2, "followers_gained": 19, "peak_viewers": 8, "hours_streamed": 37, "streams": 16, "mature": 0, "language": "French", "account_age": 1026720.0}

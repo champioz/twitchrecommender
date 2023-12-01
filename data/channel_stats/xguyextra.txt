@@ -1,0 +1,1 @@
+{"channel": "xguyextra", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 8, "hours_streamed": 59, "streams": 13, "mature": 0, "language": "English", "account_age": 2332800.0}

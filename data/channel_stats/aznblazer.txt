@@ -1,0 +1,1 @@
+{"channel": "aznblazer", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 9, "hours_streamed": 82, "streams": 34, "mature": 0, "language": "English", "account_age": 1608480.0}

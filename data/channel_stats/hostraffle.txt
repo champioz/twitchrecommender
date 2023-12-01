@@ -1,0 +1,1 @@
+{"channel": "hostraffle", "avg_viewers": 2, "followers_gained": 117, "peak_viewers": 14, "hours_streamed": 689, "streams": 10, "mature": 0, "language": "English", "account_age": 603360.0}

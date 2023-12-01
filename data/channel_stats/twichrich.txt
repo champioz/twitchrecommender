@@ -1,0 +1,1 @@
+{"channel": "twichrich", "avg_viewers": 46, "followers_gained": 14, "peak_viewers": 73, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Russian", "account_age": 2292480.0}

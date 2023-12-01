@@ -1,0 +1,1 @@
+{"channel": "alkalisk", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "Dutch", "account_age": 688320.0}

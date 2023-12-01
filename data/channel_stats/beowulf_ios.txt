@@ -1,0 +1,1 @@
+{"channel": "beowulf_ios", "avg_viewers": 77, "followers_gained": 38, "peak_viewers": 112, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "English", "account_age": 2787840.0}

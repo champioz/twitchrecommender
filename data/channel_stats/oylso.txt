@@ -1,0 +1,1 @@
+{"channel": "oylso", "avg_viewers": 105, "followers_gained": 1906, "peak_viewers": 433, "hours_streamed": 55, "streams": 24, "mature": 1, "language": "Thai", "account_age": 972000.0}

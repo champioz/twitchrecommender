@@ -1,0 +1,1 @@
+{"channel": "acefangirl", "avg_viewers": 10, "followers_gained": 8, "peak_viewers": 20, "hours_streamed": 16, "streams": 8, "mature": 0, "language": "English", "account_age": 2242080.0}

@@ -1,0 +1,1 @@
+{"channel": "shootsgud", "avg_viewers": 15, "followers_gained": 38, "peak_viewers": 35, "hours_streamed": 11, "streams": 3, "mature": 0, "language": "Portuguese", "account_age": 3585600.0}

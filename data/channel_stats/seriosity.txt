@@ -1,0 +1,1 @@
+{"channel": "seriosity", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 19, "hours_streamed": 17, "streams": 9, "mature": 0, "language": "English", "account_age": 4079520.0}

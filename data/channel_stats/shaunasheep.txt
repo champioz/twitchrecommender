@@ -1,0 +1,1 @@
+{"channel": "shaunasheep", "avg_viewers": 7, "followers_gained": 58, "peak_viewers": 25, "hours_streamed": 51, "streams": 4, "mature": 1, "language": "English", "account_age": 443520.0}

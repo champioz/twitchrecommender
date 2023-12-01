@@ -1,0 +1,1 @@
+{"channel": "eazinn", "avg_viewers": 9, "followers_gained": 9, "peak_viewers": 35, "hours_streamed": 37, "streams": 21, "mature": 1, "language": "English", "account_age": 3025440.0}

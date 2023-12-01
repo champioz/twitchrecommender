@@ -1,0 +1,1 @@
+{"channel": "sengonias", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 8, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "German", "account_age": 1540800.0}

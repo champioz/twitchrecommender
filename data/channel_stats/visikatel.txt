@@ -1,0 +1,1 @@
+{"channel": "visikatel", "avg_viewers": 4, "followers_gained": 55, "peak_viewers": 56, "hours_streamed": 196, "streams": 26, "mature": 0, "language": "Russian", "account_age": 3506400.0}

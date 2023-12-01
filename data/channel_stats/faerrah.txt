@@ -1,0 +1,1 @@
+{"channel": "faerrah", "avg_viewers": 14, "followers_gained": 43, "peak_viewers": 34, "hours_streamed": 29, "streams": 7, "mature": 0, "language": "English", "account_age": 1736640.0}

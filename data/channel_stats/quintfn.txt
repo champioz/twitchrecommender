@@ -1,0 +1,1 @@
+{"channel": "quintfn", "avg_viewers": 12, "followers_gained": 82, "peak_viewers": 38, "hours_streamed": 14, "streams": 10, "mature": 0, "language": "English", "account_age": 275040.0}

@@ -1,0 +1,1 @@
+{"channel": "patpatate", "avg_viewers": 5, "followers_gained": 30, "peak_viewers": 54, "hours_streamed": 40, "streams": 12, "mature": 1, "language": "French", "account_age": 2259360.0}

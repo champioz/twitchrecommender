@@ -1,0 +1,1 @@
+{"channel": "kristinamercedez", "avg_viewers": 6, "followers_gained": 37, "peak_viewers": 18, "hours_streamed": 93, "streams": 22, "mature": 1, "language": "English", "account_age": 2439360.0}

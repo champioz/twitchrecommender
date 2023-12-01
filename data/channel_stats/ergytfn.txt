@@ -1,0 +1,1 @@
+{"channel": "ergytfn", "avg_viewers": 12, "followers_gained": 116, "peak_viewers": 41, "hours_streamed": 27, "streams": 8, "mature": 0, "language": "German", "account_age": 385920.0}

@@ -1,0 +1,1 @@
+{"channel": "januveva_", "avg_viewers": 50, "followers_gained": 657, "peak_viewers": 142, "hours_streamed": 36, "streams": 10, "mature": 1, "language": "German", "account_age": 816480.0}

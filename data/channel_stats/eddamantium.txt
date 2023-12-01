@@ -1,0 +1,1 @@
+{"channel": "eddamantium", "avg_viewers": 9, "followers_gained": 60, "peak_viewers": 169, "hours_streamed": 59, "streams": 17, "mature": 0, "language": "English", "account_age": 1614240.0}

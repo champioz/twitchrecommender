@@ -1,0 +1,1 @@
+{"channel": "cutzmeretz", "avg_viewers": 4, "followers_gained": 15, "peak_viewers": 25, "hours_streamed": 34, "streams": 17, "mature": 1, "language": "Portuguese", "account_age": 2459520.0}

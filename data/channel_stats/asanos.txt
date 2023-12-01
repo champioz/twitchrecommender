@@ -1,0 +1,1 @@
+{"channel": "asanos", "avg_viewers": 9, "followers_gained": 4, "peak_viewers": 41, "hours_streamed": 21, "streams": 17, "mature": 1, "language": "German", "account_age": 3762720.0}

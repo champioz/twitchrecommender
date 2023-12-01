@@ -1,0 +1,1 @@
+{"channel": "agrarhofostgmbh", "avg_viewers": 15, "followers_gained": 6, "peak_viewers": 36, "hours_streamed": 13, "streams": 9, "mature": 1, "language": "German", "account_age": 1494720.0}

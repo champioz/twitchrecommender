@@ -1,0 +1,1 @@
+{"channel": "sallesoficial", "avg_viewers": 13, "followers_gained": 24, "peak_viewers": 19, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "Portuguese", "account_age": 1160640.0}

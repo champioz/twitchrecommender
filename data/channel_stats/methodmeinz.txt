@@ -1,0 +1,1 @@
+{"channel": "methodmeinz", "avg_viewers": 12, "followers_gained": 120, "peak_viewers": 47, "hours_streamed": 69, "streams": 30, "mature": 1, "language": "German", "account_age": 2129760.0}

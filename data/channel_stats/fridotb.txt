@@ -1,0 +1,1 @@
+{"channel": "fridotb", "avg_viewers": 9, "followers_gained": 5, "peak_viewers": 29, "hours_streamed": 3, "streams": 4, "mature": 1, "language": "Italian", "account_age": 2816640.0}

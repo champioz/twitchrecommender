@@ -1,0 +1,1 @@
+{"channel": "ficction", "avg_viewers": 9, "followers_gained": 5, "peak_viewers": 41, "hours_streamed": 14, "streams": 7, "mature": 0, "language": "English", "account_age": 2701440.0}

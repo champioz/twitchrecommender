@@ -1,0 +1,1 @@
+{"channel": "jadethejaguar", "avg_viewers": 487, "followers_gained": 13129, "peak_viewers": 1058, "hours_streamed": 102, "streams": 29, "mature": 1, "language": "English", "account_age": 671040.0}

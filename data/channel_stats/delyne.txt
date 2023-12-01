@@ -1,0 +1,1 @@
+{"channel": "delyne", "avg_viewers": 34, "followers_gained": 101, "peak_viewers": 94, "hours_streamed": 19, "streams": 6, "mature": 0, "language": "English", "account_age": 3687840.0}

@@ -1,0 +1,1 @@
+{"channel": "xdsanni", "avg_viewers": 7, "followers_gained": 88, "peak_viewers": 20, "hours_streamed": 44, "streams": 19, "mature": 1, "language": "Finnish", "account_age": 126720.0}

@@ -1,0 +1,1 @@
+{"channel": "tablestory", "avg_viewers": 308, "followers_gained": 907, "peak_viewers": 783, "hours_streamed": 67, "streams": 20, "mature": 0, "language": "English", "account_age": 1602720.0}

@@ -1,0 +1,1 @@
+{"channel": "nws960", "avg_viewers": 3, "followers_gained": 27, "peak_viewers": 15, "hours_streamed": 76, "streams": 16, "mature": 0, "language": "Korean", "account_age": 1887840.0}

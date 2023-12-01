@@ -1,0 +1,1 @@
+{"channel": "bigbearchannel", "avg_viewers": 19, "followers_gained": 1, "peak_viewers": 37, "hours_streamed": 23, "streams": 6, "mature": 1, "language": "Chinese", "account_age": 1202400.0}

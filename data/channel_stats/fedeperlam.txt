@@ -1,0 +1,1 @@
+{"channel": "fedeperlam", "avg_viewers": 101, "followers_gained": 317, "peak_viewers": 148, "hours_streamed": 9, "streams": 8, "mature": 0, "language": "Italian", "account_age": 635040.0}

@@ -1,0 +1,1 @@
+{"channel": "juansupah", "avg_viewers": 12, "followers_gained": 211, "peak_viewers": 39, "hours_streamed": 133, "streams": 36, "mature": 1, "language": "Spanish", "account_age": 1427040.0}

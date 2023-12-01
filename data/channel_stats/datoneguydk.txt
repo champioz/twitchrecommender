@@ -1,0 +1,1 @@
+{"channel": "datoneguydk", "avg_viewers": 9, "followers_gained": 1, "peak_viewers": 24, "hours_streamed": 110, "streams": 21, "mature": 1, "language": "Danish", "account_age": 2471040.0}

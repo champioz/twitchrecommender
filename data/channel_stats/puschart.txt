@@ -1,0 +1,1 @@
+{"channel": "puschart", "avg_viewers": 343, "followers_gained": 54, "peak_viewers": 658, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "German", "account_age": 1751040.0}

@@ -1,0 +1,1 @@
+{"channel": "nebur__r", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 23, "hours_streamed": 91, "streams": 35, "mature": 1, "language": "Spanish", "account_age": 3121920.0}

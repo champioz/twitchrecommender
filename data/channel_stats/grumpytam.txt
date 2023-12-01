@@ -1,0 +1,1 @@
+{"channel": "grumpytam", "avg_viewers": 2, "followers_gained": 332, "peak_viewers": 16, "hours_streamed": 125, "streams": 31, "mature": 0, "language": "Turkish", "account_age": 1314720.0}

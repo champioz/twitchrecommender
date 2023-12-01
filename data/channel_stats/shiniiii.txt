@@ -1,0 +1,1 @@
+{"channel": "shiniiii", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 14, "streams": 4, "mature": 1, "language": "Thai", "account_age": 951840.0}

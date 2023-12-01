@@ -1,0 +1,1 @@
+{"channel": "lakard", "avg_viewers": 5, "followers_gained": 60, "peak_viewers": 14, "hours_streamed": 168, "streams": 26, "mature": 1, "language": "Spanish", "account_age": 3443040.0}

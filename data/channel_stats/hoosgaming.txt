@@ -1,0 +1,1 @@
+{"channel": "hoosgaming", "avg_viewers": 118, "followers_gained": 333, "peak_viewers": 214, "hours_streamed": 49, "streams": 15, "mature": 0, "language": "French", "account_age": 3479040.0}

@@ -1,0 +1,1 @@
+{"channel": "kappibey", "avg_viewers": 73, "followers_gained": 95, "peak_viewers": 178, "hours_streamed": 27, "streams": 14, "mature": 0, "language": "Turkish", "account_age": 3432960.0}

@@ -1,0 +1,1 @@
+{"channel": "tsun4myy", "avg_viewers": 6, "followers_gained": 62, "peak_viewers": 31, "hours_streamed": 27, "streams": 18, "mature": 0, "language": "Portuguese", "account_age": 331200.0}

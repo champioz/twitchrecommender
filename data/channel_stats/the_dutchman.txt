@@ -1,0 +1,1 @@
+{"channel": "the_dutchman", "avg_viewers": 24, "followers_gained": 56, "peak_viewers": 50, "hours_streamed": 88, "streams": 17, "mature": 0, "language": "English", "account_age": 3807360.0}

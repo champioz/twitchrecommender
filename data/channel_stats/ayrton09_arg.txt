@@ -1,0 +1,1 @@
+{"channel": "ayrton09_arg", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 8, "hours_streamed": 18, "streams": 7, "mature": 1, "language": "Spanish", "account_age": 2583360.0}

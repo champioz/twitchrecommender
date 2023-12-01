@@ -1,0 +1,1 @@
+{"channel": "aboal3z", "avg_viewers": 37, "followers_gained": 981, "peak_viewers": 222, "hours_streamed": 90, "streams": 22, "mature": 0, "language": "Arabic", "account_age": 663840.0}

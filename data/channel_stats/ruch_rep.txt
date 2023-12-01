@@ -1,0 +1,1 @@
+{"channel": "ruch_rep", "avg_viewers": 145, "followers_gained": 4, "peak_viewers": 187, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Russian", "account_age": 514080.0}

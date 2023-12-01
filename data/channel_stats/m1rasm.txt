@@ -1,0 +1,1 @@
+{"channel": "m1rasm", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 7, "hours_streamed": 51, "streams": 28, "mature": 0, "language": "Polish", "account_age": 826560.0}

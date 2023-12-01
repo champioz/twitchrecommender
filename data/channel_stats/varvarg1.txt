@@ -1,0 +1,1 @@
+{"channel": "varvarg1", "avg_viewers": 40, "followers_gained": 110, "peak_viewers": 80, "hours_streamed": 151, "streams": 33, "mature": 1, "language": "English", "account_age": 2639520.0}

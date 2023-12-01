@@ -1,0 +1,1 @@
+{"channel": "kjasperloop", "avg_viewers": 84, "followers_gained": 592, "peak_viewers": 161, "hours_streamed": 67, "streams": 20, "mature": 0, "language": "Danish", "account_age": 2871360.0}

@@ -1,0 +1,1 @@
+{"channel": "sacriel", "avg_viewers": 2134, "followers_gained": 3817, "peak_viewers": 8626, "hours_streamed": 199, "streams": 27, "mature": 0, "language": "English", "account_age": 4212000.0}

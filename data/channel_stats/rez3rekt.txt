@@ -1,0 +1,1 @@
+{"channel": "rez3rekt", "avg_viewers": 5, "followers_gained": 69, "peak_viewers": 32, "hours_streamed": 67, "streams": 13, "mature": 0, "language": "English", "account_age": 218880.0}

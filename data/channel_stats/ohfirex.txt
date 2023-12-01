@@ -1,0 +1,1 @@
+{"channel": "ohfirex", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "Spanish", "account_age": 2217600.0}

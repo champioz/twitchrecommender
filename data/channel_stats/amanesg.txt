@@ -1,0 +1,1 @@
+{"channel": "amanesg", "avg_viewers": 9, "followers_gained": 28, "peak_viewers": 20, "hours_streamed": 26, "streams": 13, "mature": 0, "language": "Japanese", "account_age": 3083040.0}

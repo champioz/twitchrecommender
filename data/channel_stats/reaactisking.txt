@@ -1,0 +1,1 @@
+{"channel": "reaactisking", "avg_viewers": 7, "followers_gained": 48, "peak_viewers": 21, "hours_streamed": 126, "streams": 21, "mature": 0, "language": "German", "account_age": 642240.0}

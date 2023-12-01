@@ -1,0 +1,1 @@
+{"channel": "bullb1k_stream", "avg_viewers": 12, "followers_gained": 577, "peak_viewers": 38, "hours_streamed": 234, "streams": 68, "mature": 0, "language": "Russian", "account_age": 345600.0}

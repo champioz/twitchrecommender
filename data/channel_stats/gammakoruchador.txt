@@ -1,0 +1,1 @@
+{"channel": "gammakoruchador", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 16, "hours_streamed": 34, "streams": 10, "mature": 1, "language": "English", "account_age": 3424320.0}

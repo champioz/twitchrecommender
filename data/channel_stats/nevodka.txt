@@ -1,0 +1,1 @@
+{"channel": "nevodka", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 8, "hours_streamed": 95, "streams": 19, "mature": 1, "language": "Russian", "account_age": 2848320.0}

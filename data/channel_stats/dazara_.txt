@@ -1,0 +1,1 @@
+{"channel": "dazara_", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "English", "account_age": 3634560.0}

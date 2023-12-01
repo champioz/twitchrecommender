@@ -1,0 +1,1 @@
+{"channel": "svarltv", "avg_viewers": 2, "followers_gained": 23, "peak_viewers": 13, "hours_streamed": 86, "streams": 34, "mature": 1, "language": "French", "account_age": 2844000.0}

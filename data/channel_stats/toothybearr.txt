@@ -1,0 +1,1 @@
+{"channel": "toothybearr", "avg_viewers": 15, "followers_gained": 200, "peak_viewers": 78, "hours_streamed": 70, "streams": 24, "mature": 1, "language": "English", "account_age": 1645920.0}

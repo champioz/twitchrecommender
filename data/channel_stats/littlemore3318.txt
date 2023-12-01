@@ -1,0 +1,1 @@
+{"channel": "littlemore3318", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 48, "streams": 15, "mature": 0, "language": "Chinese", "account_age": 502560.0}

@@ -1,0 +1,1 @@
+{"channel": "lizardman19", "avg_viewers": 18, "followers_gained": 13, "peak_viewers": 41, "hours_streamed": 40, "streams": 12, "mature": 0, "language": "Chinese", "account_age": 5515200.0}

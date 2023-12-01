@@ -1,0 +1,1 @@
+{"channel": "fruityslots", "avg_viewers": 136, "followers_gained": 261, "peak_viewers": 361, "hours_streamed": 47, "streams": 15, "mature": 1, "language": "English", "account_age": 1107360.0}

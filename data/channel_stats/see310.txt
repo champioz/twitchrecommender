@@ -1,0 +1,1 @@
+{"channel": "see310", "avg_viewers": 11, "followers_gained": 14, "peak_viewers": 31, "hours_streamed": 42, "streams": 19, "mature": 0, "language": "Japanese", "account_age": 391680.0}

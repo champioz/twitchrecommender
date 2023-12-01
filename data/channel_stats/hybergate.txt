@@ -1,0 +1,1 @@
+{"channel": "hybergate", "avg_viewers": 0, "followers_gained": 51, "peak_viewers": 27, "hours_streamed": 584, "streams": 12, "mature": 0, "language": "English", "account_age": 655200.0}

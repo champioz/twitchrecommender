@@ -1,0 +1,1 @@
+{"channel": "oxiegrogx", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 24, "hours_streamed": 13, "streams": 3, "mature": 1, "language": "English", "account_age": 2869920.0}

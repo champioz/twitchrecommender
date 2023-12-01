@@ -1,0 +1,1 @@
+{"channel": "gospacemermaid", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 2, "streams": 2, "mature": 1, "language": "English", "account_age": 1671840.0}

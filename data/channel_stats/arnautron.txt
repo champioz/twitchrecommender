@@ -1,0 +1,1 @@
+{"channel": "arnautron", "avg_viewers": 24, "followers_gained": 499, "peak_viewers": 142, "hours_streamed": 55, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 3453120.0}

@@ -1,0 +1,1 @@
+{"channel": "chefbutterz", "avg_viewers": 3, "followers_gained": 21, "peak_viewers": 8, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "English", "account_age": 2646720.0}

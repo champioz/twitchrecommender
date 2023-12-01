@@ -1,0 +1,1 @@
+{"channel": "muraaaa", "avg_viewers": 35, "followers_gained": 54, "peak_viewers": 75, "hours_streamed": 13, "streams": 10, "mature": 1, "language": "English", "account_age": 3173760.0}

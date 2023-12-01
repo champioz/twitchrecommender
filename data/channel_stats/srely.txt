@@ -1,0 +1,1 @@
+{"channel": "srely", "avg_viewers": 1, "followers_gained": 99, "peak_viewers": 22, "hours_streamed": 110, "streams": 33, "mature": 0, "language": "Portuguese", "account_age": 2041920.0}

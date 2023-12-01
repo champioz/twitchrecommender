@@ -1,0 +1,1 @@
+{"channel": "kwlbocazas", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 2, "streams": 4, "mature": 0, "language": "Spanish", "account_age": 4069440.0}

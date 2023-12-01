@@ -1,0 +1,1 @@
+{"channel": "abootgaming", "avg_viewers": 15, "followers_gained": 5, "peak_viewers": 22, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 1756800.0}

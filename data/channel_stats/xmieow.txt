@@ -1,0 +1,1 @@
+{"channel": "xmieow", "avg_viewers": 49, "followers_gained": 9, "peak_viewers": 381, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "German", "account_age": 1398240.0}

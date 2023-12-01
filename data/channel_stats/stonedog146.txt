@@ -1,0 +1,1 @@
+{"channel": "stonedog146", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 36, "streams": 14, "mature": 1, "language": "English", "account_age": 282240.0}

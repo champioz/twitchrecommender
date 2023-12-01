@@ -1,0 +1,1 @@
+{"channel": "grenalda", "avg_viewers": 18, "followers_gained": 50, "peak_viewers": 62, "hours_streamed": 74, "streams": 17, "mature": 1, "language": "German", "account_age": 1991520.0}

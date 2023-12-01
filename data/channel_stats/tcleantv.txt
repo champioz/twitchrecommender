@@ -1,0 +1,1 @@
+{"channel": "tcleantv", "avg_viewers": 28, "followers_gained": 150, "peak_viewers": 394, "hours_streamed": 49, "streams": 13, "mature": 0, "language": "English", "account_age": 1931040.0}

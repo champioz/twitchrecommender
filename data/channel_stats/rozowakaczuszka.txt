@@ -1,0 +1,1 @@
+{"channel": "rozowakaczuszka", "avg_viewers": 54, "followers_gained": 839, "peak_viewers": 117, "hours_streamed": 71, "streams": 21, "mature": 0, "language": "Polish", "account_age": 1535040.0}

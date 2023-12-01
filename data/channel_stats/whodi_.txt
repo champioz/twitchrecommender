@@ -1,0 +1,1 @@
+{"channel": "whodi_", "avg_viewers": 9, "followers_gained": 62, "peak_viewers": 21, "hours_streamed": 54, "streams": 21, "mature": 1, "language": "German", "account_age": 2593440.0}

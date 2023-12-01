@@ -1,0 +1,1 @@
+{"channel": "courtz49", "avg_viewers": 48, "followers_gained": 182, "peak_viewers": 118, "hours_streamed": 51, "streams": 18, "mature": 1, "language": "English", "account_age": 2661120.0}

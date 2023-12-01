@@ -1,0 +1,1 @@
+{"channel": "gnuordersa", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 1, "streams": 1, "mature": 1, "language": "English", "account_age": 3052800.0}

@@ -1,0 +1,1 @@
+{"channel": "lunabelletv", "avg_viewers": 21, "followers_gained": 261, "peak_viewers": 66, "hours_streamed": 56, "streams": 14, "mature": 0, "language": "English", "account_age": 1039680.0}

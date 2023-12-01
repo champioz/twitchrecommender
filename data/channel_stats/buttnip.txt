@@ -1,0 +1,1 @@
+{"channel": "buttnip", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 12, "hours_streamed": 14, "streams": 8, "mature": 1, "language": "English", "account_age": 2884320.0}

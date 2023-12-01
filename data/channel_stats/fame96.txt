@@ -1,0 +1,1 @@
+{"channel": "fame96", "avg_viewers": 16, "followers_gained": 2, "peak_viewers": 34, "hours_streamed": 18, "streams": 9, "mature": 0, "language": "English", "account_age": 3664800.0}

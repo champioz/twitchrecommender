@@ -1,0 +1,1 @@
+{"channel": "hotterbiscuit", "avg_viewers": 10, "followers_gained": 18, "peak_viewers": 20, "hours_streamed": 21, "streams": 10, "mature": 1, "language": "English", "account_age": 1676160.0}

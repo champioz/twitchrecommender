@@ -1,0 +1,1 @@
+{"channel": "obsidian_gamingtv", "avg_viewers": 5, "followers_gained": 26, "peak_viewers": 21, "hours_streamed": 57, "streams": 20, "mature": 0, "language": "English", "account_age": 2727360.0}

@@ -1,0 +1,1 @@
+{"channel": "officialsmythj", "avg_viewers": 17, "followers_gained": 89, "peak_viewers": 55, "hours_streamed": 264, "streams": 37, "mature": 1, "language": "Finnish", "account_age": 3160800.0}

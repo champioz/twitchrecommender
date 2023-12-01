@@ -1,0 +1,1 @@
+{"channel": "shtan_udachi", "avg_viewers": 1260, "followers_gained": 907, "peak_viewers": 2360, "hours_streamed": 89, "streams": 13, "mature": 0, "language": "Russian", "account_age": 2247840.0}

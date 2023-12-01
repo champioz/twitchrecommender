@@ -1,0 +1,1 @@
+{"channel": "mouschitv", "avg_viewers": 3, "followers_gained": 35, "peak_viewers": 28, "hours_streamed": 92, "streams": 21, "mature": 1, "language": "English", "account_age": 1897920.0}

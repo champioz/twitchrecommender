@@ -1,0 +1,1 @@
+{"channel": "marris", "avg_viewers": 8, "followers_gained": 23, "peak_viewers": 26, "hours_streamed": 72, "streams": 16, "mature": 1, "language": "German", "account_age": 3672000.0}

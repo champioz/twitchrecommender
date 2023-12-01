@@ -1,0 +1,1 @@
+{"channel": "lyfesaver74", "avg_viewers": 27, "followers_gained": 152, "peak_viewers": 58, "hours_streamed": 57, "streams": 30, "mature": 1, "language": "English", "account_age": 1104480.0}

@@ -1,0 +1,1 @@
+{"channel": "heyimreflex", "avg_viewers": 6, "followers_gained": 48, "peak_viewers": 18, "hours_streamed": 52, "streams": 16, "mature": 0, "language": "German", "account_age": 1330560.0}

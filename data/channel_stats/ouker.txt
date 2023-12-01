@@ -1,0 +1,1 @@
+{"channel": "ouker", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "English", "account_age": 3633120.0}

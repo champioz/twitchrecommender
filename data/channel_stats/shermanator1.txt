@@ -1,0 +1,1 @@
+{"channel": "shermanator1", "avg_viewers": 95, "followers_gained": 235, "peak_viewers": 358, "hours_streamed": 14, "streams": 9, "mature": 0, "language": "English", "account_age": 2855520.0}

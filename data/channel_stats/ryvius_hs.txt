@@ -1,0 +1,1 @@
+{"channel": "ryvius_hs", "avg_viewers": 73, "followers_gained": 199, "peak_viewers": 205, "hours_streamed": 106, "streams": 18, "mature": 0, "language": "Korean", "account_age": 1722240.0}

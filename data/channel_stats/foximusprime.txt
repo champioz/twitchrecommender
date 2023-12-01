@@ -1,0 +1,1 @@
+{"channel": "foximusprime", "avg_viewers": 143, "followers_gained": 289, "peak_viewers": 289, "hours_streamed": 28, "streams": 11, "mature": 0, "language": "English", "account_age": 4160160.0}

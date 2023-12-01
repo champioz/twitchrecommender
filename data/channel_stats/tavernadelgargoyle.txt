@@ -1,0 +1,1 @@
+{"channel": "tavernadelgargoyle", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 4, "streams": 4, "mature": 0, "language": "Italian", "account_age": 154080.0}

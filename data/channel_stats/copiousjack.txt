@@ -1,0 +1,1 @@
+{"channel": "copiousjack", "avg_viewers": 19, "followers_gained": 105, "peak_viewers": 56, "hours_streamed": 165, "streams": 24, "mature": 1, "language": "English", "account_age": 1673280.0}

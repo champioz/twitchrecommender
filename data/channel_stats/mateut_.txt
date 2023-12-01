@@ -1,0 +1,1 @@
+{"channel": "mateut_", "avg_viewers": 38, "followers_gained": 29, "peak_viewers": 182, "hours_streamed": 4, "streams": 4, "mature": 0, "language": "Spanish", "account_age": 616320.0}

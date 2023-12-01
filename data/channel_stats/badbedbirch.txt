@@ -1,0 +1,1 @@
+{"channel": "badbedbirch", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 4, "hours_streamed": 5, "streams": 8, "mature": 0, "language": "Korean", "account_age": 540000.0}

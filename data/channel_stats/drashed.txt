@@ -1,0 +1,1 @@
+{"channel": "drashed", "avg_viewers": 15, "followers_gained": 10, "peak_viewers": 59, "hours_streamed": 11, "streams": 6, "mature": 0, "language": "English", "account_age": 1360800.0}

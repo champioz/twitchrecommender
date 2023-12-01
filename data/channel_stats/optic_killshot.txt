@@ -1,0 +1,1 @@
+{"channel": "optic_killshot", "avg_viewers": 22, "followers_gained": 97, "peak_viewers": 58, "hours_streamed": 126, "streams": 23, "mature": 1, "language": "English", "account_age": 2845440.0}

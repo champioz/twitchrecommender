@@ -1,0 +1,1 @@
+{"channel": "waliidtv", "avg_viewers": 10, "followers_gained": 10, "peak_viewers": 24, "hours_streamed": 5, "streams": 7, "mature": 0, "language": "French", "account_age": 1805760.0}

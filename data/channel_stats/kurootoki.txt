@@ -1,0 +1,1 @@
+{"channel": "kurootoki", "avg_viewers": 20, "followers_gained": 41, "peak_viewers": 39, "hours_streamed": 59, "streams": 19, "mature": 0, "language": "German", "account_age": 681120.0}

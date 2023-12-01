@@ -1,0 +1,1 @@
+{"channel": "ampfy", "avg_viewers": 23, "followers_gained": 59, "peak_viewers": 189, "hours_streamed": 378, "streams": 25, "mature": 0, "language": "English", "account_age": 2937600.0}

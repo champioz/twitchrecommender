@@ -1,0 +1,1 @@
+{"channel": "dersachse177", "avg_viewers": 2, "followers_gained": 74, "peak_viewers": 7, "hours_streamed": 14, "streams": 8, "mature": 0, "language": "German", "account_age": 2244960.0}

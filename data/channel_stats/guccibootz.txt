@@ -1,0 +1,1 @@
+{"channel": "guccibootz", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 18, "streams": 9, "mature": 1, "language": "English", "account_age": 1490400.0}

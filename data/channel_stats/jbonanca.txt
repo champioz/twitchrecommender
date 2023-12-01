@@ -1,0 +1,1 @@
+{"channel": "jbonanca", "avg_viewers": 26, "followers_gained": 136, "peak_viewers": 73, "hours_streamed": 61, "streams": 19, "mature": 1, "language": "English", "account_age": 2561760.0}

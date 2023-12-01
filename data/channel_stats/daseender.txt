@@ -1,0 +1,1 @@
+{"channel": "daseender", "avg_viewers": 28, "followers_gained": 19, "peak_viewers": 51, "hours_streamed": 80, "streams": 6, "mature": 0, "language": "Dutch", "account_age": 1077120.0}

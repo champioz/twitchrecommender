@@ -1,0 +1,1 @@
+{"channel": "untoldzero", "avg_viewers": 4, "followers_gained": 24, "peak_viewers": 17, "hours_streamed": 57, "streams": 19, "mature": 0, "language": "Italian", "account_age": 2928960.0}

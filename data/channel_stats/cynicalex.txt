@@ -1,0 +1,1 @@
+{"channel": "cynicalex", "avg_viewers": 230, "followers_gained": 1054, "peak_viewers": 1752, "hours_streamed": 133, "streams": 31, "mature": 1, "language": "English", "account_age": 1487520.0}

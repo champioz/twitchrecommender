@@ -1,0 +1,1 @@
+{"channel": "zanlazith", "avg_viewers": 121, "followers_gained": 2841, "peak_viewers": 802, "hours_streamed": 159, "streams": 22, "mature": 0, "language": "Thai", "account_age": 617760.0}

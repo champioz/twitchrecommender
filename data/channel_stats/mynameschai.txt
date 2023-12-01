@@ -1,0 +1,1 @@
+{"channel": "mynameschai", "avg_viewers": 35, "followers_gained": 291, "peak_viewers": 100, "hours_streamed": 105, "streams": 24, "mature": 0, "language": "English", "account_age": 3029760.0}

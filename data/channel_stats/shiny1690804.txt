@@ -1,0 +1,1 @@
+{"channel": "shiny1690804", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 53, "streams": 13, "mature": 1, "language": "Chinese", "account_age": 1530720.0}

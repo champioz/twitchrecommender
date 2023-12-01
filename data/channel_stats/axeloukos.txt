@@ -1,0 +1,1 @@
+{"channel": "axeloukos", "avg_viewers": 70, "followers_gained": 500, "peak_viewers": 216, "hours_streamed": 25, "streams": 9, "mature": 0, "language": "Greek", "account_age": 4412160.0}

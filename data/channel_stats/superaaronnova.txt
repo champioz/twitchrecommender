@@ -1,0 +1,1 @@
+{"channel": "superaaronnova", "avg_viewers": 28, "followers_gained": 147, "peak_viewers": 65, "hours_streamed": 82, "streams": 25, "mature": 0, "language": "English", "account_age": 1486080.0}

@@ -1,0 +1,1 @@
+{"channel": "gksdjfdl10", "avg_viewers": 2, "followers_gained": 15, "peak_viewers": 10, "hours_streamed": 63, "streams": 10, "mature": 0, "language": "Korean", "account_age": 637920.0}

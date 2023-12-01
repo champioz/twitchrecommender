@@ -1,0 +1,1 @@
+{"channel": "terrorist_hunt", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 8, "hours_streamed": 63, "streams": 18, "mature": 0, "language": "English", "account_age": 1262880.0}

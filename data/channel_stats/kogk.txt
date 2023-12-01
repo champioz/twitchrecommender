@@ -1,0 +1,1 @@
+{"channel": "kogk", "avg_viewers": 4, "followers_gained": 22, "peak_viewers": 14, "hours_streamed": 53, "streams": 22, "mature": 1, "language": "English", "account_age": 3402720.0}

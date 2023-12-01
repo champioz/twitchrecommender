@@ -1,0 +1,1 @@
+{"channel": "klassy_joy", "avg_viewers": 4, "followers_gained": 24, "peak_viewers": 14, "hours_streamed": 59, "streams": 11, "mature": 0, "language": "English", "account_age": 1733760.0}

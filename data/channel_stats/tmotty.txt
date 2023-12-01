@@ -1,0 +1,1 @@
+{"channel": "tmotty", "avg_viewers": 20, "followers_gained": 465, "peak_viewers": 110, "hours_streamed": 41, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 459360.0}

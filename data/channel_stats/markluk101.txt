@@ -1,0 +1,1 @@
+{"channel": "markluk101", "avg_viewers": 66, "followers_gained": 474, "peak_viewers": 305, "hours_streamed": 79, "streams": 33, "mature": 0, "language": "Portuguese", "account_age": 843840.0}

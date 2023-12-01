@@ -1,0 +1,1 @@
+{"channel": "turtle_fr", "avg_viewers": 0, "followers_gained": 11, "peak_viewers": 5, "hours_streamed": 18, "streams": 11, "mature": 1, "language": "French", "account_age": 338400.0}

@@ -1,0 +1,1 @@
+{"channel": "killerbj24", "avg_viewers": 6, "followers_gained": 66, "peak_viewers": 33, "hours_streamed": 136, "streams": 34, "mature": 1, "language": "English", "account_age": 1262880.0}

@@ -1,0 +1,1 @@
+{"channel": "forthewhyn", "avg_viewers": 18, "followers_gained": 117, "peak_viewers": 123, "hours_streamed": 138, "streams": 32, "mature": 0, "language": "English", "account_age": 1235520.0}

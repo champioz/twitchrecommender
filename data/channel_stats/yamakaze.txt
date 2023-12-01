@@ -1,0 +1,1 @@
+{"channel": "yamakaze", "avg_viewers": 0, "followers_gained": 8, "peak_viewers": 4, "hours_streamed": 68, "streams": 21, "mature": 1, "language": "Chinese", "account_age": 3336480.0}

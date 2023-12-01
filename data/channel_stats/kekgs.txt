@@ -1,0 +1,1 @@
+{"channel": "kekgs", "avg_viewers": 71, "followers_gained": 40, "peak_viewers": 362, "hours_streamed": 68, "streams": 20, "mature": 0, "language": "English", "account_age": 1465920.0}

@@ -1,0 +1,1 @@
+{"channel": "rozetv", "avg_viewers": 24, "followers_gained": 182, "peak_viewers": 66, "hours_streamed": 133, "streams": 24, "mature": 0, "language": "English", "account_age": 2088000.0}

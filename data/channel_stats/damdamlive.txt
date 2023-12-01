@@ -1,0 +1,1 @@
+{"channel": "damdamlive", "avg_viewers": 323, "followers_gained": 1669, "peak_viewers": 2093, "hours_streamed": 163, "streams": 25, "mature": 1, "language": "French", "account_age": 3381120.0}

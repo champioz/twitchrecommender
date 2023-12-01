@@ -1,0 +1,1 @@
+{"channel": "yuiga89", "avg_viewers": 31, "followers_gained": 37, "peak_viewers": 48, "hours_streamed": 35, "streams": 8, "mature": 1, "language": "Chinese", "account_age": 2583360.0}

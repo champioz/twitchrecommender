@@ -1,0 +1,1 @@
+{"channel": "vagabundo", "avg_viewers": 37, "followers_gained": 460, "peak_viewers": 68, "hours_streamed": 144, "streams": 25, "mature": 0, "language": "Spanish", "account_age": 3363840.0}

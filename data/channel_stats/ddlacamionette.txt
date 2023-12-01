@@ -1,0 +1,1 @@
+{"channel": "ddlacamionette", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 21, "hours_streamed": 25, "streams": 6, "mature": 1, "language": "French", "account_age": 2338560.0}

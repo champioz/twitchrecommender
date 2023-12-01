@@ -1,0 +1,1 @@
+{"channel": "moonshaku", "avg_viewers": 19, "followers_gained": 100, "peak_viewers": 34, "hours_streamed": 45, "streams": 14, "mature": 0, "language": "French", "account_age": 800640.0}

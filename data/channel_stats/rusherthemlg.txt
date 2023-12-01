@@ -1,0 +1,1 @@
+{"channel": "rusherthemlg", "avg_viewers": 3, "followers_gained": 25, "peak_viewers": 12, "hours_streamed": 121, "streams": 38, "mature": 1, "language": "Turkish", "account_age": 1988640.0}

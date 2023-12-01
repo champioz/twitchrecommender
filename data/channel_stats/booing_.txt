@@ -1,0 +1,1 @@
+{"channel": "booing_", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 11, "hours_streamed": 17, "streams": 11, "mature": 0, "language": "French", "account_age": 1946880.0}

@@ -1,0 +1,1 @@
+{"channel": "korkorow", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 14, "hours_streamed": 36, "streams": 19, "mature": 0, "language": "Norwegian", "account_age": 1333440.0}

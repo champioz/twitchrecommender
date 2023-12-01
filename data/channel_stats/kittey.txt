@@ -1,0 +1,1 @@
+{"channel": "kittey", "avg_viewers": 135, "followers_gained": 53, "peak_viewers": 590, "hours_streamed": 187, "streams": 23, "mature": 1, "language": "German", "account_age": 1851840.0}

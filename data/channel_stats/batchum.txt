@@ -1,0 +1,1 @@
+{"channel": "batchum", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "French", "account_age": 2967840.0}

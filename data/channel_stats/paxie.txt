@@ -1,0 +1,1 @@
+{"channel": "paxie", "avg_viewers": 5, "followers_gained": 42, "peak_viewers": 21, "hours_streamed": 61, "streams": 22, "mature": 1, "language": "English", "account_age": 3791520.0}

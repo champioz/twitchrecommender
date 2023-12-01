@@ -1,0 +1,1 @@
+{"channel": "pocketsuke", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 31, "streams": 9, "mature": 1, "language": "English", "account_age": 1932480.0}

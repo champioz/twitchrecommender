@@ -1,0 +1,1 @@
+{"channel": "dratzde", "avg_viewers": 31, "followers_gained": 223, "peak_viewers": 166, "hours_streamed": 59, "streams": 43, "mature": 0, "language": "German", "account_age": 1176480.0}

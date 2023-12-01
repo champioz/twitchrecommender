@@ -1,0 +1,1 @@
+{"channel": "yofrankie", "avg_viewers": 15, "followers_gained": 93, "peak_viewers": 247, "hours_streamed": 77, "streams": 24, "mature": 1, "language": "English", "account_age": 1314720.0}

@@ -1,0 +1,1 @@
+{"channel": "sturmbandit", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 4, "streams": 1, "mature": 1, "language": "English", "account_age": 2828160.0}

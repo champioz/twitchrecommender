@@ -1,0 +1,1 @@
+{"channel": "qairo", "avg_viewers": 45, "followers_gained": 50, "peak_viewers": 92, "hours_streamed": 111, "streams": 32, "mature": 1, "language": "Polish", "account_age": 3911040.0}

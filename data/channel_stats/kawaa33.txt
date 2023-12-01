@@ -1,0 +1,1 @@
+{"channel": "kawaa33", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 2, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "French", "account_age": 2270880.0}

@@ -1,0 +1,1 @@
+{"channel": "carrysmod", "avg_viewers": 93, "followers_gained": 1005, "peak_viewers": 521, "hours_streamed": 233, "streams": 46, "mature": 0, "language": "Turkish", "account_age": 1654560.0}

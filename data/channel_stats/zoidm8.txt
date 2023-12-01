@@ -1,0 +1,1 @@
+{"channel": "zoidm8", "avg_viewers": 22, "followers_gained": 106, "peak_viewers": 54, "hours_streamed": 41, "streams": 16, "mature": 1, "language": "English", "account_age": 2308320.0}

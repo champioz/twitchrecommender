@@ -1,0 +1,1 @@
+{"channel": "pureboy0", "avg_viewers": 50, "followers_gained": 173, "peak_viewers": 362, "hours_streamed": 74, "streams": 25, "mature": 0, "language": "Japanese", "account_age": 2076480.0}

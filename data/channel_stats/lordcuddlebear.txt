@@ -1,0 +1,1 @@
+{"channel": "lordcuddlebear", "avg_viewers": 15, "followers_gained": 77, "peak_viewers": 51, "hours_streamed": 49, "streams": 13, "mature": 0, "language": "English", "account_age": 187200.0}

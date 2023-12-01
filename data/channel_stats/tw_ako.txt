@@ -1,0 +1,1 @@
+{"channel": "tw_ako", "avg_viewers": 54, "followers_gained": 14, "peak_viewers": 303, "hours_streamed": 85, "streams": 15, "mature": 1, "language": "Chinese", "account_age": 2782080.0}

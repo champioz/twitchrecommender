@@ -1,0 +1,1 @@
+{"channel": "bentoxvi_", "avg_viewers": 6, "followers_gained": 248, "peak_viewers": 20, "hours_streamed": 187, "streams": 35, "mature": 0, "language": "Portuguese", "account_age": 2692800.0}

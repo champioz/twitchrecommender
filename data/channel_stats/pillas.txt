@@ -1,0 +1,1 @@
+{"channel": "pillas", "avg_viewers": 6, "followers_gained": 14, "peak_viewers": 18, "hours_streamed": 96, "streams": 17, "mature": 1, "language": "English", "account_age": 2545920.0}

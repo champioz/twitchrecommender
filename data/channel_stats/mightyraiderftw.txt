@@ -1,0 +1,1 @@
+{"channel": "mightyraiderftw", "avg_viewers": 11, "followers_gained": 374, "peak_viewers": 978, "hours_streamed": 105, "streams": 33, "mature": 1, "language": "Bulgarian", "account_age": 2957760.0}

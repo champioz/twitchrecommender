@@ -1,0 +1,1 @@
+{"channel": "xblotter", "avg_viewers": 128, "followers_gained": 269, "peak_viewers": 772, "hours_streamed": 244, "streams": 38, "mature": 0, "language": "English", "account_age": 2388960.0}

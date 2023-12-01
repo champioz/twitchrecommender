@@ -1,0 +1,1 @@
+{"channel": "libcat_", "avg_viewers": 22, "followers_gained": 274, "peak_viewers": 121, "hours_streamed": 92, "streams": 13, "mature": 0, "language": "English", "account_age": 924480.0}

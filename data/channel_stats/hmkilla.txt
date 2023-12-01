@@ -1,0 +1,1 @@
+{"channel": "hmkilla", "avg_viewers": 96, "followers_gained": 131, "peak_viewers": 341, "hours_streamed": 44, "streams": 18, "mature": 0, "language": "English", "account_age": 3358080.0}

@@ -1,0 +1,1 @@
+{"channel": "chunandrice", "avg_viewers": 52, "followers_gained": 3, "peak_viewers": 149, "hours_streamed": 52, "streams": 15, "mature": 0, "language": "English", "account_age": 5585760.0}

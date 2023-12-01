@@ -1,0 +1,1 @@
+{"channel": "runningsnaii", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 9, "hours_streamed": 21, "streams": 7, "mature": 1, "language": "Swedish", "account_age": 2952000.0}

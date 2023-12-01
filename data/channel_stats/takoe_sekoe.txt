@@ -1,0 +1,1 @@
+{"channel": "takoe_sekoe", "avg_viewers": 7, "followers_gained": 14, "peak_viewers": 18, "hours_streamed": 79, "streams": 20, "mature": 1, "language": "Russian", "account_age": 2031840.0}

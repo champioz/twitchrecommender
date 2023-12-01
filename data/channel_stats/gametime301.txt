@@ -1,0 +1,1 @@
+{"channel": "gametime301", "avg_viewers": 118, "followers_gained": 400, "peak_viewers": 219, "hours_streamed": 150, "streams": 30, "mature": 0, "language": "English", "account_age": 2854080.0}

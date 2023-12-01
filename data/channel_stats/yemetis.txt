@@ -1,0 +1,1 @@
+{"channel": "yemetis", "avg_viewers": 18, "followers_gained": 57, "peak_viewers": 35, "hours_streamed": 55, "streams": 12, "mature": 1, "language": "French", "account_age": 2977920.0}

@@ -1,0 +1,1 @@
+{"channel": "lilqki", "avg_viewers": 166, "followers_gained": 6558, "peak_viewers": 703, "hours_streamed": 328, "streams": 38, "mature": 0, "language": "Polish", "account_age": 1428480.0}

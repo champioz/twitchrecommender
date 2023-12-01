@@ -1,0 +1,1 @@
+{"channel": "godroliostro", "avg_viewers": 10, "followers_gained": 11, "peak_viewers": 19, "hours_streamed": 27, "streams": 8, "mature": 1, "language": "French", "account_age": 1630080.0}

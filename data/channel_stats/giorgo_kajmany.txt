@@ -1,0 +1,1 @@
+{"channel": "giorgo_kajmany", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 8, "hours_streamed": 36, "streams": 21, "mature": 1, "language": "Czech", "account_age": 815040.0}

@@ -1,0 +1,1 @@
+{"channel": "puddingtoohu", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 16, "streams": 6, "mature": 0, "language": "Japanese", "account_age": 2288160.0}

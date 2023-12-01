@@ -1,0 +1,1 @@
+{"channel": "ibetwitchen", "avg_viewers": 13, "followers_gained": 101, "peak_viewers": 34, "hours_streamed": 76, "streams": 20, "mature": 0, "language": "English", "account_age": 1196640.0}

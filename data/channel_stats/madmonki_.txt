@@ -1,0 +1,1 @@
+{"channel": "madmonki_", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 13, "streams": 5, "mature": 1, "language": "Turkish", "account_age": 3496320.0}

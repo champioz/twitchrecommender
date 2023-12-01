@@ -1,0 +1,1 @@
+{"channel": "shelenapetrova_gaming", "avg_viewers": 12, "followers_gained": 85, "peak_viewers": 35, "hours_streamed": 60, "streams": 24, "mature": 1, "language": "French", "account_age": 165600.0}

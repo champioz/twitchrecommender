@@ -1,0 +1,1 @@
+{"channel": "derreichart", "avg_viewers": 143, "followers_gained": 142, "peak_viewers": 1820, "hours_streamed": 19, "streams": 6, "mature": 0, "language": "German", "account_age": 1900800.0}

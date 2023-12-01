@@ -1,0 +1,1 @@
+{"channel": "giakoum_", "avg_viewers": 1, "followers_gained": 22, "peak_viewers": 22, "hours_streamed": 25, "streams": 21, "mature": 1, "language": "Greek", "account_age": 597600.0}

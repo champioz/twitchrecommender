@@ -1,0 +1,1 @@
+{"channel": "noico", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 23, "hours_streamed": 4, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 917280.0}

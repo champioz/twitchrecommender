@@ -1,0 +1,1 @@
+{"channel": "wavydamo", "avg_viewers": 37, "followers_gained": 277, "peak_viewers": 112, "hours_streamed": 119, "streams": 18, "mature": 1, "language": "English", "account_age": 1107360.0}

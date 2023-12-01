@@ -1,0 +1,1 @@
+{"channel": "acemodai", "avg_viewers": 213, "followers_gained": 384, "peak_viewers": 371, "hours_streamed": 157, "streams": 39, "mature": 1, "language": "French", "account_age": 2911680.0}

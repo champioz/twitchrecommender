@@ -1,0 +1,1 @@
+{"channel": "boterf_doto", "avg_viewers": 3, "followers_gained": 26, "peak_viewers": 15, "hours_streamed": 53, "streams": 15, "mature": 0, "language": "Russian", "account_age": 2892960.0}

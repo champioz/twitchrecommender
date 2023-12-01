@@ -1,0 +1,1 @@
+{"channel": "redzerkk", "avg_viewers": 11, "followers_gained": 4, "peak_viewers": 46, "hours_streamed": 8, "streams": 8, "mature": 0, "language": "English", "account_age": 4347360.0}

@@ -1,0 +1,1 @@
+{"channel": "trency135", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 12, "hours_streamed": 22, "streams": 6, "mature": 1, "language": "German", "account_age": 3414240.0}

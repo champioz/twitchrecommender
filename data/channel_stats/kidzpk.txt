@@ -1,0 +1,1 @@
+{"channel": "kidzpk", "avg_viewers": 10, "followers_gained": 92, "peak_viewers": 43, "hours_streamed": 196, "streams": 26, "mature": 0, "language": "English", "account_age": 3284640.0}

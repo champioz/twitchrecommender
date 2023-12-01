@@ -1,0 +1,1 @@
+{"channel": "maybeextv", "avg_viewers": 14, "followers_gained": 20, "peak_viewers": 36, "hours_streamed": 30, "streams": 17, "mature": 1, "language": "German", "account_age": 1944000.0}

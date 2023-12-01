@@ -1,0 +1,1 @@
+{"channel": "ttsugu", "avg_viewers": 44, "followers_gained": 125, "peak_viewers": 81, "hours_streamed": 36, "streams": 12, "mature": 0, "language": "Other", "account_age": 1069920.0}

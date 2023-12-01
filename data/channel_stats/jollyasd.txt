@@ -1,0 +1,1 @@
+{"channel": "jollyasd", "avg_viewers": 8, "followers_gained": 9, "peak_viewers": 26, "hours_streamed": 35, "streams": 8, "mature": 1, "language": "German", "account_age": 3068640.0}

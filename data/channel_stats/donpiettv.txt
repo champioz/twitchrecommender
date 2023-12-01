@@ -1,0 +1,1 @@
+{"channel": "donpiettv", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 12, "hours_streamed": 65, "streams": 18, "mature": 1, "language": "German", "account_age": 1944000.0}

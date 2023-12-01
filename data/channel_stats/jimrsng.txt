@@ -1,0 +1,1 @@
+{"channel": "jimrsng", "avg_viewers": 436, "followers_gained": 1055, "peak_viewers": 1364, "hours_streamed": 194, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 4161600.0}

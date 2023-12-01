@@ -1,0 +1,1 @@
+{"channel": "wendraug", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 21, "hours_streamed": 45, "streams": 12, "mature": 0, "language": "French", "account_age": 450720.0}

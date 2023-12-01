@@ -1,0 +1,1 @@
+{"channel": "lilkarth", "avg_viewers": 3, "followers_gained": 59, "peak_viewers": 23, "hours_streamed": 114, "streams": 30, "mature": 1, "language": "English", "account_age": 2576160.0}

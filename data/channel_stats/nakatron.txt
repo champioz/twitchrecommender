@@ -1,0 +1,1 @@
+{"channel": "nakatron", "avg_viewers": 21, "followers_gained": 210, "peak_viewers": 44, "hours_streamed": 63, "streams": 15, "mature": 1, "language": "English", "account_age": 2747520.0}

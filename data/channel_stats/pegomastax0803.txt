@@ -1,0 +1,1 @@
+{"channel": "pegomastax0803", "avg_viewers": 7, "followers_gained": 50, "peak_viewers": 27, "hours_streamed": 112, "streams": 24, "mature": 1, "language": "German", "account_age": 771840.0}

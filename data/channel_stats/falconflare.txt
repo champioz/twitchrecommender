@@ -1,0 +1,1 @@
+{"channel": "falconflare", "avg_viewers": 52, "followers_gained": 2622, "peak_viewers": 595, "hours_streamed": 94, "streams": 15, "mature": 0, "language": "Portuguese", "account_age": 2272320.0}

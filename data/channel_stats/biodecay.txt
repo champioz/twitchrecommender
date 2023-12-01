@@ -1,0 +1,1 @@
+{"channel": "biodecay", "avg_viewers": 3, "followers_gained": 20, "peak_viewers": 35, "hours_streamed": 118, "streams": 42, "mature": 0, "language": "English", "account_age": 1667520.0}

@@ -1,0 +1,1 @@
+{"channel": "gigorout", "avg_viewers": 9, "followers_gained": 57, "peak_viewers": 28, "hours_streamed": 38, "streams": 26, "mature": 0, "language": "Russian", "account_age": 1033920.0}

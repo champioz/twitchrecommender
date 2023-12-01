@@ -1,0 +1,1 @@
+{"channel": "link_ez", "avg_viewers": 7, "followers_gained": 149, "peak_viewers": 59, "hours_streamed": 166, "streams": 38, "mature": 0, "language": "English", "account_age": 803520.0}

@@ -1,0 +1,1 @@
+{"channel": "hawtcookie", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 67, "streams": 23, "mature": 1, "language": "English", "account_age": 3193920.0}

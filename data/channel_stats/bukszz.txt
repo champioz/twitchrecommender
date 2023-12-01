@@ -1,0 +1,1 @@
+{"channel": "bukszz", "avg_viewers": 3, "followers_gained": 17, "peak_viewers": 12, "hours_streamed": 86, "streams": 24, "mature": 1, "language": "Spanish", "account_age": 1388160.0}

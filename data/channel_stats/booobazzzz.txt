@@ -1,0 +1,1 @@
+{"channel": "booobazzzz", "avg_viewers": 27, "followers_gained": 30, "peak_viewers": 139, "hours_streamed": 29, "streams": 6, "mature": 1, "language": "French", "account_age": 2154240.0}

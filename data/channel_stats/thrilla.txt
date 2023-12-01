@@ -1,0 +1,1 @@
+{"channel": "thrilla", "avg_viewers": 33, "followers_gained": 557, "peak_viewers": 142, "hours_streamed": 141, "streams": 27, "mature": 0, "language": "English", "account_age": 2318400.0}

@@ -1,0 +1,1 @@
+{"channel": "crimsonmoonfq", "avg_viewers": 5, "followers_gained": 75, "peak_viewers": 28, "hours_streamed": 149, "streams": 18, "mature": 0, "language": "English", "account_age": 2056320.0}

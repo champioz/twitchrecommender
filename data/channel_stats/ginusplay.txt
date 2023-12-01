@@ -1,0 +1,1 @@
+{"channel": "ginusplay", "avg_viewers": 1, "followers_gained": 8, "peak_viewers": 7, "hours_streamed": 50, "streams": 28, "mature": 0, "language": "Spanish", "account_age": 300960.0}

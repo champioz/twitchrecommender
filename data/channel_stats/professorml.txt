@@ -1,0 +1,1 @@
+{"channel": "professorml", "avg_viewers": 11, "followers_gained": 175, "peak_viewers": 67, "hours_streamed": 180, "streams": 43, "mature": 0, "language": "Russian", "account_age": 1167840.0}

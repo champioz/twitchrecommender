@@ -1,0 +1,1 @@
+{"channel": "coxie", "avg_viewers": 195, "followers_gained": 767, "peak_viewers": 850, "hours_streamed": 162, "streams": 30, "mature": 0, "language": "English", "account_age": 1872000.0}

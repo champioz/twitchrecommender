@@ -1,0 +1,1 @@
+{"channel": "barak1350", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 12, "hours_streamed": 74, "streams": 27, "mature": 1, "language": "French", "account_age": 1296000.0}

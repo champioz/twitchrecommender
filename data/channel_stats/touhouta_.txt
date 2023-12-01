@@ -1,0 +1,1 @@
+{"channel": "touhouta_", "avg_viewers": 6, "followers_gained": 4, "peak_viewers": 14, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "Russian", "account_age": 2292480.0}

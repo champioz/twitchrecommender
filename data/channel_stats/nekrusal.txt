@@ -1,0 +1,1 @@
+{"channel": "nekrusal", "avg_viewers": 67, "followers_gained": 80, "peak_viewers": 110, "hours_streamed": 31, "streams": 11, "mature": 0, "language": "Polish", "account_age": 1535040.0}

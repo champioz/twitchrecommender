@@ -1,0 +1,1 @@
+{"channel": "springsims", "avg_viewers": 28, "followers_gained": 160, "peak_viewers": 87, "hours_streamed": 52, "streams": 13, "mature": 0, "language": "English", "account_age": 2472480.0}

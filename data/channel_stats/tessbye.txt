@@ -1,0 +1,1 @@
+{"channel": "tessbye", "avg_viewers": 12, "followers_gained": 31, "peak_viewers": 20, "hours_streamed": 25, "streams": 9, "mature": 1, "language": "English", "account_age": 1042560.0}

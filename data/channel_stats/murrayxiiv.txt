@@ -1,0 +1,1 @@
+{"channel": "murrayxiiv", "avg_viewers": 5, "followers_gained": 45, "peak_viewers": 17, "hours_streamed": 42, "streams": 11, "mature": 1, "language": "English", "account_age": 2675520.0}

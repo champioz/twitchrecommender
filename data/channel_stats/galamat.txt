@@ -1,0 +1,1 @@
+{"channel": "galamat", "avg_viewers": 7, "followers_gained": 0, "peak_viewers": 16, "hours_streamed": 20, "streams": 11, "mature": 1, "language": "Spanish", "account_age": 2871360.0}

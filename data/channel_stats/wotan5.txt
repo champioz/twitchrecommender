@@ -1,0 +1,1 @@
+{"channel": "wotan5", "avg_viewers": 5, "followers_gained": 16, "peak_viewers": 17, "hours_streamed": 121, "streams": 20, "mature": 1, "language": "English", "account_age": 2086560.0}

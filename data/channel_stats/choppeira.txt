@@ -1,0 +1,1 @@
+{"channel": "choppeira", "avg_viewers": 5, "followers_gained": 165, "peak_viewers": 19, "hours_streamed": 161, "streams": 30, "mature": 1, "language": "Portuguese", "account_age": 1513440.0}

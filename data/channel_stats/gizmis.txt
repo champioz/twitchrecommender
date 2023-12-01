@@ -1,0 +1,1 @@
+{"channel": "gizmis", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "English", "account_age": 5068800.0}

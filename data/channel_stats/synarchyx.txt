@@ -1,0 +1,1 @@
+{"channel": "synarchyx", "avg_viewers": 3, "followers_gained": 14, "peak_viewers": 23, "hours_streamed": 134, "streams": 20, "mature": 1, "language": "English", "account_age": 3152160.0}

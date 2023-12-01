@@ -1,0 +1,1 @@
+{"channel": "nicolorenzonn", "avg_viewers": 56, "followers_gained": 545, "peak_viewers": 173, "hours_streamed": 24, "streams": 15, "mature": 0, "language": "Spanish", "account_age": 550080.0}

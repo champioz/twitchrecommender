@@ -1,0 +1,1 @@
+{"channel": "benfakten", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 4, "streams": 3, "mature": 1, "language": "Polish", "account_age": 799200.0}

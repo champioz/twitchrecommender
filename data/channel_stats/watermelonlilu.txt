@@ -1,0 +1,1 @@
+{"channel": "watermelonlilu", "avg_viewers": 38, "followers_gained": 74, "peak_viewers": 90, "hours_streamed": 104, "streams": 16, "mature": 0, "language": "English", "account_age": 372960.0}

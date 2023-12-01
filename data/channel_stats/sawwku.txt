@@ -1,0 +1,1 @@
+{"channel": "sawwku", "avg_viewers": 16, "followers_gained": 10, "peak_viewers": 28, "hours_streamed": 12, "streams": 3, "mature": 1, "language": "Finnish", "account_age": 2448000.0}

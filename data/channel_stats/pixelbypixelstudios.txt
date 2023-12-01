@@ -1,0 +1,1 @@
+{"channel": "pixelbypixelstudios", "avg_viewers": 86, "followers_gained": 531, "peak_viewers": 412, "hours_streamed": 192, "streams": 33, "mature": 0, "language": "English", "account_age": 3432960.0}

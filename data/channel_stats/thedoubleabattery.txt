@@ -1,0 +1,1 @@
+{"channel": "thedoubleabattery", "avg_viewers": 7, "followers_gained": 94, "peak_viewers": 23, "hours_streamed": 84, "streams": 16, "mature": 0, "language": "English", "account_age": 2435040.0}

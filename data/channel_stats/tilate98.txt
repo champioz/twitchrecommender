@@ -1,0 +1,1 @@
+{"channel": "tilate98", "avg_viewers": 0, "followers_gained": 14, "peak_viewers": 5, "hours_streamed": 107, "streams": 41, "mature": 1, "language": "French", "account_age": 2204640.0}

@@ -1,0 +1,1 @@
+{"channel": "byrboxa", "avg_viewers": 3, "followers_gained": 23, "peak_viewers": 11, "hours_streamed": 135, "streams": 54, "mature": 0, "language": "Russian", "account_age": 2612160.0}

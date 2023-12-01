@@ -1,0 +1,1 @@
+{"channel": "tipsoutbaby", "avg_viewers": 6380, "followers_gained": 3056, "peak_viewers": 33029, "hours_streamed": 18, "streams": 3, "mature": 0, "language": "English", "account_age": 872640.0}

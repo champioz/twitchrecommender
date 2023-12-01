@@ -1,0 +1,1 @@
+{"channel": "gip0", "avg_viewers": 7, "followers_gained": 51, "peak_viewers": 40, "hours_streamed": 118, "streams": 42, "mature": 0, "language": "Bulgarian", "account_age": 3196800.0}

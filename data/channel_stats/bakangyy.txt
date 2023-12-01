@@ -1,0 +1,1 @@
+{"channel": "bakangyy", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 10, "hours_streamed": 134, "streams": 31, "mature": 1, "language": "French", "account_age": 3034080.0}

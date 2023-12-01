@@ -1,0 +1,1 @@
+{"channel": "cyber1nu", "avg_viewers": 1, "followers_gained": 34, "peak_viewers": 9, "hours_streamed": 96, "streams": 32, "mature": 0, "language": "Russian", "account_age": 1274400.0}

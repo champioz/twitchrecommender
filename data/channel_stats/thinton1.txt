@@ -1,0 +1,1 @@
+{"channel": "thinton1", "avg_viewers": 114, "followers_gained": 269, "peak_viewers": 293, "hours_streamed": 110, "streams": 22, "mature": 0, "language": "Japanese", "account_age": 1035360.0}

@@ -1,0 +1,1 @@
+{"channel": "usopp810", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 13, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Chinese", "account_age": 3309120.0}

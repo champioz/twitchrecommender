@@ -1,0 +1,1 @@
+{"channel": "philiphannes", "avg_viewers": 0, "followers_gained": 8, "peak_viewers": 6, "hours_streamed": 37, "streams": 28, "mature": 0, "language": "Danish", "account_age": 696960.0}

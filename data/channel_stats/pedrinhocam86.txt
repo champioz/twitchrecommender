@@ -1,0 +1,1 @@
+{"channel": "pedrinhocam86", "avg_viewers": 8, "followers_gained": 146, "peak_viewers": 179, "hours_streamed": 132, "streams": 39, "mature": 1, "language": "Portuguese", "account_age": 1981440.0}

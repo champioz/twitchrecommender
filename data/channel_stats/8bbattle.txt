@@ -1,0 +1,1 @@
+{"channel": "8bbattle", "avg_viewers": 62, "followers_gained": 106, "peak_viewers": 239, "hours_streamed": 121, "streams": 27, "mature": 1, "language": "English", "account_age": 2342880.0}

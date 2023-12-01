@@ -1,0 +1,1 @@
+{"channel": "safaroonie", "avg_viewers": 220, "followers_gained": 1012, "peak_viewers": 399, "hours_streamed": 3, "streams": 3, "mature": 0, "language": "English", "account_age": 2167200.0}

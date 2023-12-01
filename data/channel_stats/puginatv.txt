@@ -1,0 +1,1 @@
+{"channel": "puginatv", "avg_viewers": 13, "followers_gained": 10, "peak_viewers": 38, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "Portuguese", "account_age": 1048320.0}

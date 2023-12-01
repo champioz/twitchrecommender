@@ -1,0 +1,1 @@
+{"channel": "thewoxx", "avg_viewers": 11, "followers_gained": 439, "peak_viewers": 47, "hours_streamed": 78, "streams": 30, "mature": 0, "language": "French", "account_age": 518400.0}

@@ -1,0 +1,1 @@
+{"channel": "chachatoy", "avg_viewers": 63, "followers_gained": 73, "peak_viewers": 164, "hours_streamed": 121, "streams": 24, "mature": 0, "language": "French", "account_age": 3149280.0}

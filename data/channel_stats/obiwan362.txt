@@ -1,0 +1,1 @@
+{"channel": "obiwan362", "avg_viewers": 4, "followers_gained": 9, "peak_viewers": 11, "hours_streamed": 58, "streams": 17, "mature": 0, "language": "English", "account_age": 3255840.0}

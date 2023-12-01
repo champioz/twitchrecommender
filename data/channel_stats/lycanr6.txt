@@ -1,0 +1,1 @@
+{"channel": "lycanr6", "avg_viewers": 14, "followers_gained": 50, "peak_viewers": 41, "hours_streamed": 23, "streams": 8, "mature": 0, "language": "English", "account_age": 2988000.0}

@@ -1,0 +1,1 @@
+{"channel": "polysypher", "avg_viewers": 35, "followers_gained": 3, "peak_viewers": 87, "hours_streamed": 73, "streams": 14, "mature": 1, "language": "English", "account_age": 1069920.0}

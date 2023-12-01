@@ -1,0 +1,1 @@
+{"channel": "ketshups", "avg_viewers": 5, "followers_gained": 178, "peak_viewers": 36, "hours_streamed": 218, "streams": 37, "mature": 1, "language": "Portuguese", "account_age": 3221280.0}

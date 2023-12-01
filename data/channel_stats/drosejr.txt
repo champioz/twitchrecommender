@@ -1,0 +1,1 @@
+{"channel": "drosejr", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 101, "hours_streamed": 17, "streams": 8, "mature": 0, "language": "English", "account_age": 2797920.0}

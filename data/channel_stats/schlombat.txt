@@ -1,0 +1,1 @@
+{"channel": "schlombat", "avg_viewers": 52, "followers_gained": 22, "peak_viewers": 310, "hours_streamed": 38, "streams": 15, "mature": 0, "language": "English", "account_age": 1421280.0}

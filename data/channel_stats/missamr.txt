@@ -1,0 +1,1 @@
+{"channel": "missamr", "avg_viewers": 4, "followers_gained": 21, "peak_viewers": 12, "hours_streamed": 50, "streams": 22, "mature": 1, "language": "English", "account_age": 725760.0}

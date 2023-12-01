@@ -1,0 +1,1 @@
+{"channel": "bigcruz420", "avg_viewers": 10, "followers_gained": 258, "peak_viewers": 63, "hours_streamed": 51, "streams": 23, "mature": 1, "language": "Spanish", "account_age": 1310400.0}

@@ -1,0 +1,1 @@
+{"channel": "leaveasgroup", "avg_viewers": 28, "followers_gained": 28, "peak_viewers": 65, "hours_streamed": 28, "streams": 5, "mature": 0, "language": "Norwegian", "account_age": 606240.0}

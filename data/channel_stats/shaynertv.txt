@@ -1,0 +1,1 @@
+{"channel": "shaynertv", "avg_viewers": 1, "followers_gained": 49, "peak_viewers": 7, "hours_streamed": 111, "streams": 29, "mature": 1, "language": "English", "account_age": 372960.0}

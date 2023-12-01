@@ -1,0 +1,1 @@
+{"channel": "026proxy", "avg_viewers": 7, "followers_gained": 25, "peak_viewers": 15, "hours_streamed": 44, "streams": 10, "mature": 1, "language": "Swedish", "account_age": 3502080.0}

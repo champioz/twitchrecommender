@@ -1,0 +1,1 @@
+{"channel": "ogfatchu", "avg_viewers": 6, "followers_gained": 8, "peak_viewers": 14, "hours_streamed": 62, "streams": 16, "mature": 1, "language": "English", "account_age": 2957760.0}

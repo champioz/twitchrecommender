@@ -1,0 +1,1 @@
+{"channel": "k_kx9", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 2, "hours_streamed": 0, "streams": 2, "mature": 0, "language": "Arabic", "account_age": 239040.0}

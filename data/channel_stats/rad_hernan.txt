@@ -1,0 +1,1 @@
+{"channel": "rad_hernan", "avg_viewers": 13, "followers_gained": 7, "peak_viewers": 25, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 2262240.0}

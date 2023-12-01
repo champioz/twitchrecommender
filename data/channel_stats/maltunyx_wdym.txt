@@ -1,0 +1,1 @@
+{"channel": "maltunyx_wdym", "avg_viewers": 22, "followers_gained": 137, "peak_viewers": 151, "hours_streamed": 65, "streams": 20, "mature": 1, "language": "German", "account_age": 1457280.0}

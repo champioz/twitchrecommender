@@ -1,0 +1,1 @@
+{"channel": "bosanacv", "avg_viewers": 0, "followers_gained": 17, "peak_viewers": 5, "hours_streamed": 17, "streams": 19, "mature": 0, "language": "English", "account_age": 1902240.0}

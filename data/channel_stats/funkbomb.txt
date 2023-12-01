@@ -1,0 +1,1 @@
+{"channel": "funkbomb", "avg_viewers": 120, "followers_gained": 1747, "peak_viewers": 635, "hours_streamed": 77, "streams": 19, "mature": 0, "language": "English", "account_age": 2773440.0}

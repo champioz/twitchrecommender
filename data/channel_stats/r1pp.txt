@@ -1,0 +1,1 @@
+{"channel": "r1pp", "avg_viewers": 1, "followers_gained": 19, "peak_viewers": 5, "hours_streamed": 19, "streams": 22, "mature": 1, "language": "Portuguese", "account_age": 2610720.0}

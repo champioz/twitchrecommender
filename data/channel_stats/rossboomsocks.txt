@@ -1,0 +1,1 @@
+{"channel": "rossboomsocks", "avg_viewers": 182, "followers_gained": 3048, "peak_viewers": 352, "hours_streamed": 48, "streams": 12, "mature": 0, "language": "English", "account_age": 3477600.0}

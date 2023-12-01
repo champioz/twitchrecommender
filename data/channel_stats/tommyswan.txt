@@ -1,0 +1,1 @@
+{"channel": "tommyswan", "avg_viewers": 4, "followers_gained": 20, "peak_viewers": 11, "hours_streamed": 133, "streams": 29, "mature": 0, "language": "English", "account_age": 2517120.0}

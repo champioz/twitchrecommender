@@ -1,0 +1,1 @@
+{"channel": "oneshotx", "avg_viewers": 13, "followers_gained": 0, "peak_viewers": 48, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "Russian", "account_age": 3408480.0}

@@ -1,0 +1,1 @@
+{"channel": "commanderroot", "avg_viewers": 10, "followers_gained": 414, "peak_viewers": 55, "hours_streamed": 742, "streams": 6, "mature": 0, "language": "English", "account_age": 4088160.0}

@@ -1,0 +1,1 @@
+{"channel": "zakunpuu", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 14, "hours_streamed": 46, "streams": 16, "mature": 1, "language": "Japanese", "account_age": 1431360.0}

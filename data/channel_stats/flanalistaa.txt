@@ -1,0 +1,1 @@
+{"channel": "flanalistaa", "avg_viewers": 3163, "followers_gained": 14822, "peak_viewers": 6271, "hours_streamed": 88, "streams": 12, "mature": 0, "language": "English", "account_age": 587520.0}

@@ -1,0 +1,1 @@
+{"channel": "krisztidzsan", "avg_viewers": 24, "followers_gained": 167, "peak_viewers": 65, "hours_streamed": 38, "streams": 26, "mature": 1, "language": "Hungarian", "account_age": 924480.0}

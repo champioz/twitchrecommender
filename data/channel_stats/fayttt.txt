@@ -1,0 +1,1 @@
+{"channel": "fayttt", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 146, "hours_streamed": 150, "streams": 26, "mature": 1, "language": "English", "account_age": 4556160.0}

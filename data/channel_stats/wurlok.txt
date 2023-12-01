@@ -1,0 +1,1 @@
+{"channel": "wurlok", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 11, "hours_streamed": 25, "streams": 9, "mature": 1, "language": "English", "account_age": 2249280.0}

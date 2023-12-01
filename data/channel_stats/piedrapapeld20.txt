@@ -1,0 +1,1 @@
+{"channel": "piedrapapeld20", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 12, "hours_streamed": 14, "streams": 7, "mature": 0, "language": "Spanish", "account_age": 987840.0}

@@ -1,0 +1,1 @@
+{"channel": "tenz", "avg_viewers": 879, "followers_gained": 13700, "peak_viewers": 1866, "hours_streamed": 47, "streams": 14, "mature": 0, "language": "English", "account_age": 2587680.0}

@@ -1,0 +1,1 @@
+{"channel": "sotus", "avg_viewers": 111, "followers_gained": 2343, "peak_viewers": 331, "hours_streamed": 152, "streams": 29, "mature": 0, "language": "English", "account_age": 1265760.0}

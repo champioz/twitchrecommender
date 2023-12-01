@@ -1,0 +1,1 @@
+{"channel": "nkjemisin", "avg_viewers": 30, "followers_gained": 42, "peak_viewers": 58, "hours_streamed": 7, "streams": 5, "mature": 1, "language": "English", "account_age": 1566720.0}

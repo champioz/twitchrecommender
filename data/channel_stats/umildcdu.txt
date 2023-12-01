@@ -1,0 +1,1 @@
+{"channel": "umildcdu", "avg_viewers": 49, "followers_gained": 35, "peak_viewers": 71, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 1618560.0}

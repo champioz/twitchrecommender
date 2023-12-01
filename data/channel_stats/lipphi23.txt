@@ -1,0 +1,1 @@
+{"channel": "lipphi23", "avg_viewers": 56, "followers_gained": 258, "peak_viewers": 110, "hours_streamed": 161, "streams": 21, "mature": 1, "language": "", "account_age": 724320.0}

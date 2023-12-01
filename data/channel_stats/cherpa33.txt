@@ -1,0 +1,1 @@
+{"channel": "cherpa33", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 6, "streams": 8, "mature": 0, "language": "French", "account_age": 1306080.0}

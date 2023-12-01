@@ -1,0 +1,1 @@
+{"channel": "peyizk", "avg_viewers": 2, "followers_gained": 62, "peak_viewers": 13, "hours_streamed": 79, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 110880.0}

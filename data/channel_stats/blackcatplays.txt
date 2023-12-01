@@ -1,0 +1,1 @@
+{"channel": "blackcatplays", "avg_viewers": 32, "followers_gained": 2, "peak_viewers": 160, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "English", "account_age": 3526560.0}

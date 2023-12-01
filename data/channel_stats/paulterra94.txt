@@ -1,0 +1,1 @@
+{"channel": "paulterra94", "avg_viewers": 12, "followers_gained": 3, "peak_viewers": 27, "hours_streamed": 23, "streams": 9, "mature": 1, "language": "German", "account_age": 3121920.0}

@@ -1,0 +1,1 @@
+{"channel": "ilfantasmadellenevi", "avg_viewers": 92, "followers_gained": 813, "peak_viewers": 458, "hours_streamed": 81, "streams": 18, "mature": 1, "language": "Italian", "account_age": 2685600.0}

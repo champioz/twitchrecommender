@@ -1,0 +1,1 @@
+{"channel": "alwaysfixian", "avg_viewers": 10, "followers_gained": 18, "peak_viewers": 55, "hours_streamed": 32, "streams": 16, "mature": 1, "language": "Italian", "account_age": 836640.0}

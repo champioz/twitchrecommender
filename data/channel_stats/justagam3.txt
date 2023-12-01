@@ -1,0 +1,1 @@
+{"channel": "justagam3", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 8, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "English", "account_age": 1841760.0}

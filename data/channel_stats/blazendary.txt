@@ -1,0 +1,1 @@
+{"channel": "blazendary", "avg_viewers": 29, "followers_gained": 616, "peak_viewers": 67, "hours_streamed": 36, "streams": 15, "mature": 0, "language": "English", "account_age": 223200.0}

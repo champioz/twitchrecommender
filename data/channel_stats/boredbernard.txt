@@ -1,0 +1,1 @@
+{"channel": "boredbernard", "avg_viewers": 88, "followers_gained": 303, "peak_viewers": 276, "hours_streamed": 28, "streams": 10, "mature": 1, "language": "", "account_age": 2488320.0}

@@ -1,0 +1,1 @@
+{"channel": "blastsg", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 16, "hours_streamed": 45, "streams": 14, "mature": 1, "language": "Korean", "account_age": 2157120.0}

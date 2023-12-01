@@ -1,0 +1,1 @@
+{"channel": "covatrasnos", "avg_viewers": 10, "followers_gained": 36, "peak_viewers": 27, "hours_streamed": 56, "streams": 25, "mature": 1, "language": "Spanish", "account_age": 351360.0}

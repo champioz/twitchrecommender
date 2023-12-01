@@ -1,0 +1,1 @@
+{"channel": "haneulnang", "avg_viewers": 54, "followers_gained": 1327, "peak_viewers": 207, "hours_streamed": 134, "streams": 31, "mature": 0, "language": "Korean", "account_age": 777600.0}

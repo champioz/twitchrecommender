@@ -1,0 +1,1 @@
+{"channel": "darrenzeus", "avg_viewers": 29, "followers_gained": 368, "peak_viewers": 685, "hours_streamed": 41, "streams": 9, "mature": 0, "language": "English", "account_age": 2026080.0}

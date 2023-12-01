@@ -1,0 +1,1 @@
+{"channel": "noone", "avg_viewers": 61, "followers_gained": 115, "peak_viewers": 129, "hours_streamed": 40, "streams": 10, "mature": 1, "language": "Swedish", "account_age": 2386080.0}

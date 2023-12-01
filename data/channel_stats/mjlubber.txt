@@ -1,0 +1,1 @@
+{"channel": "mjlubber", "avg_viewers": 5, "followers_gained": 12, "peak_viewers": 17, "hours_streamed": 55, "streams": 22, "mature": 0, "language": "Bulgarian", "account_age": 3353760.0}

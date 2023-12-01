@@ -1,0 +1,1 @@
+{"channel": "lord_hakkis", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 10, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "Finnish", "account_age": 1929600.0}

@@ -1,0 +1,1 @@
+{"channel": "reytomahawk", "avg_viewers": 13, "followers_gained": 197, "peak_viewers": 29, "hours_streamed": 39, "streams": 24, "mature": 0, "language": "Spanish", "account_age": 2623680.0}

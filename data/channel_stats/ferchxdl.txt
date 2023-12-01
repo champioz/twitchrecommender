@@ -1,0 +1,1 @@
+{"channel": "ferchxdl", "avg_viewers": 10, "followers_gained": 149, "peak_viewers": 32, "hours_streamed": 29, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 1078560.0}

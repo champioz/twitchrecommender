@@ -1,0 +1,1 @@
+{"channel": "sigils", "avg_viewers": 43, "followers_gained": 763, "peak_viewers": 161, "hours_streamed": 50, "streams": 19, "mature": 0, "language": "English", "account_age": 3823200.0}

@@ -1,0 +1,1 @@
+{"channel": "phantomace", "avg_viewers": 172, "followers_gained": 1712, "peak_viewers": 630, "hours_streamed": 125, "streams": 22, "mature": 0, "language": "English", "account_age": 2430720.0}

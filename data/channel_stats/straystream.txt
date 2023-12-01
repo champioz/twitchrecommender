@@ -1,0 +1,1 @@
+{"channel": "straystream", "avg_viewers": 5, "followers_gained": 12, "peak_viewers": 29, "hours_streamed": 63, "streams": 14, "mature": 0, "language": "English", "account_age": 465120.0}

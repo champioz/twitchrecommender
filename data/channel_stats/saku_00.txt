@@ -1,0 +1,1 @@
+{"channel": "saku_00", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 10, "hours_streamed": 40, "streams": 16, "mature": 0, "language": "Japanese", "account_age": 1310400.0}

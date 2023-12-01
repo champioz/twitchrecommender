@@ -1,0 +1,1 @@
+{"channel": "shadowgamezone", "avg_viewers": 360, "followers_gained": 23, "peak_viewers": 451, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Chinese", "account_age": 2172960.0}

@@ -1,0 +1,1 @@
+{"channel": "yangile", "avg_viewers": 153, "followers_gained": 146, "peak_viewers": 258, "hours_streamed": 39, "streams": 12, "mature": 1, "language": "Finnish", "account_age": 2450880.0}

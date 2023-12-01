@@ -1,0 +1,1 @@
+{"channel": "eboorifee", "avg_viewers": 17, "followers_gained": 98, "peak_viewers": 239, "hours_streamed": 116, "streams": 20, "mature": 0, "language": "French", "account_age": 2933280.0}

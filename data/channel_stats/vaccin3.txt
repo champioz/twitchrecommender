@@ -1,0 +1,1 @@
+{"channel": "vaccin3", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 44, "streams": 12, "mature": 0, "language": "English", "account_age": 5533920.0}

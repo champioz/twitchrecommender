@@ -1,0 +1,1 @@
+{"channel": "ioni_lol", "avg_viewers": 7, "followers_gained": 31, "peak_viewers": 18, "hours_streamed": 53, "streams": 17, "mature": 0, "language": "French", "account_age": 2194560.0}

@@ -1,0 +1,1 @@
+{"channel": "zzzjpn", "avg_viewers": 19, "followers_gained": 9, "peak_viewers": 37, "hours_streamed": 46, "streams": 18, "mature": 0, "language": "Japanese", "account_age": 995040.0}

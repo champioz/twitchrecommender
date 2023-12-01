@@ -1,0 +1,1 @@
+{"channel": "heromen", "avg_viewers": 0, "followers_gained": 467, "peak_viewers": 6, "hours_streamed": 346, "streams": 63, "mature": 0, "language": "Portuguese", "account_age": 558720.0}

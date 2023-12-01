@@ -1,0 +1,1 @@
+{"channel": "bankohollow19", "avg_viewers": 2, "followers_gained": 66, "peak_viewers": 16, "hours_streamed": 56, "streams": 29, "mature": 1, "language": "Hungarian", "account_age": 728640.0}

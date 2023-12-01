@@ -1,0 +1,1 @@
+{"channel": "funnybunnyasian", "avg_viewers": 26, "followers_gained": 379, "peak_viewers": 72, "hours_streamed": 82, "streams": 38, "mature": 1, "language": "Other", "account_age": 1573920.0}

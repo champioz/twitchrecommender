@@ -1,0 +1,1 @@
+{"channel": "arcadeufo", "avg_viewers": 16, "followers_gained": 1, "peak_viewers": 28, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 4609440.0}

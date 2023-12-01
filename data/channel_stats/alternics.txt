@@ -1,0 +1,1 @@
+{"channel": "alternics", "avg_viewers": 3, "followers_gained": 89, "peak_viewers": 14, "hours_streamed": 126, "streams": 33, "mature": 0, "language": "German", "account_age": 1294560.0}

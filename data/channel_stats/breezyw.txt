@@ -1,0 +1,1 @@
+{"channel": "breezyw", "avg_viewers": 13, "followers_gained": 30, "peak_viewers": 24, "hours_streamed": 10, "streams": 3, "mature": 1, "language": "French", "account_age": 2819520.0}

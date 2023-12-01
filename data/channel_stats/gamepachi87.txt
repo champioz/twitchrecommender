@@ -1,0 +1,1 @@
+{"channel": "gamepachi87", "avg_viewers": 40, "followers_gained": 212, "peak_viewers": 162, "hours_streamed": 104, "streams": 27, "mature": 0, "language": "Hungarian", "account_age": 2203200.0}

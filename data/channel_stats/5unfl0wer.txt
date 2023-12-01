@@ -1,0 +1,1 @@
+{"channel": "5unfl0wer", "avg_viewers": 24, "followers_gained": 151, "peak_viewers": 89, "hours_streamed": 25, "streams": 18, "mature": 0, "language": "English", "account_age": 277920.0}

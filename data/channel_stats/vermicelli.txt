@@ -1,0 +1,1 @@
+{"channel": "vermicelli", "avg_viewers": 11, "followers_gained": 75, "peak_viewers": 68, "hours_streamed": 88, "streams": 17, "mature": 1, "language": "English", "account_age": 3405600.0}

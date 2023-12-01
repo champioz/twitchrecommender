@@ -1,0 +1,1 @@
+{"channel": "seejanegotv", "avg_viewers": 18, "followers_gained": 46, "peak_viewers": 43, "hours_streamed": 23, "streams": 12, "mature": 0, "language": "English", "account_age": 947520.0}

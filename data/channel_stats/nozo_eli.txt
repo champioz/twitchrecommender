@@ -1,0 +1,1 @@
+{"channel": "nozo_eli", "avg_viewers": 39, "followers_gained": 20, "peak_viewers": 107, "hours_streamed": 20, "streams": 7, "mature": 1, "language": "Chinese", "account_age": 3456000.0}

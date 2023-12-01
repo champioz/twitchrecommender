@@ -1,0 +1,1 @@
+{"channel": "liz0n", "avg_viewers": 561, "followers_gained": 1651, "peak_viewers": 1259, "hours_streamed": 48, "streams": 14, "mature": 0, "language": "Russian", "account_age": 2384640.0}

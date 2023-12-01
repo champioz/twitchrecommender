@@ -1,0 +1,1 @@
+{"channel": "icemanauz", "avg_viewers": 8, "followers_gained": 98, "peak_viewers": 18, "hours_streamed": 15, "streams": 7, "mature": 0, "language": "English", "account_age": 3600000.0}

@@ -1,0 +1,1 @@
+{"channel": "issa_fox", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 12, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "English", "account_age": 2450880.0}

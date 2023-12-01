@@ -1,0 +1,1 @@
+{"channel": "dotwallop", "avg_viewers": 35, "followers_gained": 302, "peak_viewers": 86, "hours_streamed": 52, "streams": 9, "mature": 0, "language": "English", "account_age": 3191040.0}

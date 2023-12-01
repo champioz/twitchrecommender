@@ -1,0 +1,1 @@
+{"channel": "jakenbakelive", "avg_viewers": 2931, "followers_gained": 10369, "peak_viewers": 24353, "hours_streamed": 164, "streams": 27, "mature": 0, "language": "English", "account_age": 4923360.0}

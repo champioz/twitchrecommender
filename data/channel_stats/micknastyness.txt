@@ -1,0 +1,1 @@
+{"channel": "micknastyness", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 14, "hours_streamed": 30, "streams": 11, "mature": 1, "language": "English", "account_age": 1054080.0}

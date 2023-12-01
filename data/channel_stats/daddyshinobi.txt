@@ -1,0 +1,1 @@
+{"channel": "daddyshinobi", "avg_viewers": 6, "followers_gained": 76, "peak_viewers": 17, "hours_streamed": 134, "streams": 33, "mature": 0, "language": "English", "account_age": 692640.0}

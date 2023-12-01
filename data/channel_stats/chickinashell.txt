@@ -1,0 +1,1 @@
+{"channel": "chickinashell", "avg_viewers": 24, "followers_gained": 55, "peak_viewers": 45, "hours_streamed": 93, "streams": 16, "mature": 1, "language": "English", "account_age": 1101600.0}

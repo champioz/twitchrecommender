@@ -1,0 +1,1 @@
+{"channel": "luisio_", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 16, "hours_streamed": 12, "streams": 6, "mature": 1, "language": "Spanish", "account_age": 1620000.0}

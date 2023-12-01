@@ -1,0 +1,1 @@
+{"channel": "sidneyey", "avg_viewers": 35, "followers_gained": 12, "peak_viewers": 47, "hours_streamed": 2, "streams": 3, "mature": 0, "language": "Polish", "account_age": 1944000.0}

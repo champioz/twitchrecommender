@@ -1,0 +1,1 @@
+{"channel": "natagiehl", "avg_viewers": 10, "followers_gained": 118, "peak_viewers": 57, "hours_streamed": 156, "streams": 30, "mature": 1, "language": "Portuguese", "account_age": 2701440.0}

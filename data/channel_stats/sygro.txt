@@ -1,0 +1,1 @@
+{"channel": "sygro", "avg_viewers": 22, "followers_gained": 27, "peak_viewers": 59, "hours_streamed": 65, "streams": 13, "mature": 1, "language": "German", "account_age": 1729440.0}

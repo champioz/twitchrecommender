@@ -1,0 +1,1 @@
+{"channel": "kimkillti", "avg_viewers": 6, "followers_gained": 11, "peak_viewers": 18, "hours_streamed": 113, "streams": 30, "mature": 0, "language": "Korean", "account_age": 1454400.0}

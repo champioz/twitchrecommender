@@ -1,0 +1,1 @@
+{"channel": "naklaslive", "avg_viewers": 700, "followers_gained": 7695, "peak_viewers": 3887, "hours_streamed": 222, "streams": 33, "mature": 0, "language": "Thai", "account_age": 1408320.0}

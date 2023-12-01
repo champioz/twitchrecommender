@@ -1,0 +1,1 @@
+{"channel": "bobqinxd", "avg_viewers": 114, "followers_gained": 1113, "peak_viewers": 347, "hours_streamed": 63, "streams": 14, "mature": 0, "language": "English", "account_age": 3175200.0}

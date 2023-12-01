@@ -1,0 +1,1 @@
+{"channel": "gkpsymon", "avg_viewers": 4, "followers_gained": 86, "peak_viewers": 19, "hours_streamed": 121, "streams": 39, "mature": 1, "language": "Italian", "account_age": 472320.0}

@@ -1,0 +1,1 @@
+{"channel": "sheisoutv", "avg_viewers": 775, "followers_gained": 336, "peak_viewers": 1519, "hours_streamed": 13, "streams": 5, "mature": 0, "language": "French", "account_age": 1782720.0}

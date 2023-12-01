@@ -1,0 +1,1 @@
+{"channel": "sebssgg", "avg_viewers": 3, "followers_gained": 43, "peak_viewers": 14, "hours_streamed": 25, "streams": 21, "mature": 0, "language": "Spanish", "account_age": 1847520.0}

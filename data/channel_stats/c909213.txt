@@ -1,0 +1,1 @@
+{"channel": "c909213", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 23, "streams": 3, "mature": 1, "language": "Chinese", "account_age": 2988000.0}

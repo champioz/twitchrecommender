@@ -1,0 +1,1 @@
+{"channel": "bebepu", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 20, "hours_streamed": 62, "streams": 26, "mature": 0, "language": "Japanese", "account_age": 2056320.0}

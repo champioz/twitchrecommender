@@ -1,0 +1,1 @@
+{"channel": "waruwan", "avg_viewers": 99, "followers_gained": 65, "peak_viewers": 196, "hours_streamed": 122, "streams": 22, "mature": 0, "language": "English", "account_age": 1104480.0}

@@ -1,0 +1,1 @@
+{"channel": "itssky", "avg_viewers": 292, "followers_gained": 2327, "peak_viewers": 831, "hours_streamed": 111, "streams": 24, "mature": 0, "language": "English", "account_age": 1212480.0}

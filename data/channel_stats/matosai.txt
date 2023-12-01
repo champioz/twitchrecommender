@@ -1,0 +1,1 @@
+{"channel": "matosai", "avg_viewers": 20, "followers_gained": 283, "peak_viewers": 243, "hours_streamed": 121, "streams": 27, "mature": 0, "language": "Portuguese", "account_age": 1081440.0}

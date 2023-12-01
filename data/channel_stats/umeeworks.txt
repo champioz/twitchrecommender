@@ -1,0 +1,1 @@
+{"channel": "umeeworks", "avg_viewers": 722, "followers_gained": 627, "peak_viewers": 1427, "hours_streamed": 58, "streams": 13, "mature": 0, "language": "Japanese", "account_age": 662400.0}

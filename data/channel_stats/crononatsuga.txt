@@ -1,0 +1,1 @@
+{"channel": "crononatsuga", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "French", "account_age": 3883680.0}

@@ -1,0 +1,1 @@
+{"channel": "louki", "avg_viewers": 370, "followers_gained": 471, "peak_viewers": 1263, "hours_streamed": 89, "streams": 11, "mature": 1, "language": "German", "account_age": 1627200.0}

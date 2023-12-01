@@ -1,0 +1,1 @@
+{"channel": "foe991222", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "Chinese", "account_age": 2145600.0}

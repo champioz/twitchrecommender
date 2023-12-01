@@ -1,0 +1,1 @@
+{"channel": "skowza21", "avg_viewers": 45, "followers_gained": 878, "peak_viewers": 118, "hours_streamed": 34, "streams": 19, "mature": 0, "language": "Arabic", "account_age": 1195200.0}

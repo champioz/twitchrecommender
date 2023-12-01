@@ -1,0 +1,1 @@
+{"channel": "zanoxvii", "avg_viewers": 2025, "followers_gained": 11075, "peak_viewers": 5783, "hours_streamed": 115, "streams": 22, "mature": 0, "language": "Italian", "account_age": 2465280.0}

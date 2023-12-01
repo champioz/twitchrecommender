@@ -1,0 +1,1 @@
+{"channel": "zefcatt", "avg_viewers": 86, "followers_gained": 214, "peak_viewers": 172, "hours_streamed": 27, "streams": 11, "mature": 1, "language": "English", "account_age": 777600.0}

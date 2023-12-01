@@ -1,0 +1,1 @@
+{"channel": "lylo", "avg_viewers": 1315, "followers_gained": 3799, "peak_viewers": 4213, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "Turkish", "account_age": 820800.0}

@@ -1,0 +1,1 @@
+{"channel": "lentyay", "avg_viewers": 19, "followers_gained": 1, "peak_viewers": 24, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "Russian", "account_age": 2921760.0}

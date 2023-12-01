@@ -1,0 +1,1 @@
+{"channel": "descatw", "avg_viewers": 9, "followers_gained": 44, "peak_viewers": 36, "hours_streamed": 24, "streams": 9, "mature": 1, "language": "Spanish", "account_age": 1416960.0}

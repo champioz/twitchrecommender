@@ -1,0 +1,1 @@
+{"channel": "recursiongg", "avg_viewers": 36, "followers_gained": 47, "peak_viewers": 144, "hours_streamed": 49, "streams": 11, "mature": 0, "language": "English", "account_age": 1704960.0}

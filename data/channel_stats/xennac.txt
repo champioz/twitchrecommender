@@ -1,0 +1,1 @@
+{"channel": "xennac", "avg_viewers": 2, "followers_gained": 45, "peak_viewers": 11, "hours_streamed": 105, "streams": 22, "mature": 1, "language": "Spanish", "account_age": 2610720.0}

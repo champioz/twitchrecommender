@@ -1,0 +1,1 @@
+{"channel": "lookslikelinklive", "avg_viewers": 312, "followers_gained": 441, "peak_viewers": 724, "hours_streamed": 63, "streams": 13, "mature": 1, "language": "German", "account_age": 3034080.0}

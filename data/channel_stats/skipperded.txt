@@ -1,0 +1,1 @@
+{"channel": "skipperded", "avg_viewers": 8, "followers_gained": 191, "peak_viewers": 25, "hours_streamed": 284, "streams": 40, "mature": 0, "language": "English", "account_age": 1000800.0}

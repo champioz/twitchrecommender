@@ -1,0 +1,1 @@
+{"channel": "taliyah_support", "avg_viewers": 7, "followers_gained": 7, "peak_viewers": 28, "hours_streamed": 44, "streams": 7, "mature": 0, "language": "Dutch", "account_age": 3173760.0}

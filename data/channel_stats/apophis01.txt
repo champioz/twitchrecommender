@@ -1,0 +1,1 @@
+{"channel": "apophis01", "avg_viewers": 466, "followers_gained": 3296, "peak_viewers": 2862, "hours_streamed": 109, "streams": 23, "mature": 1, "language": "Turkish", "account_age": 3329280.0}

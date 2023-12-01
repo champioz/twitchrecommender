@@ -1,0 +1,1 @@
+{"channel": "soniq_f", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 14, "hours_streamed": 179, "streams": 29, "mature": 0, "language": "Chinese", "account_age": 3947040.0}

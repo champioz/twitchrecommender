@@ -1,0 +1,1 @@
+{"channel": "eslamsami89", "avg_viewers": 47, "followers_gained": 58, "peak_viewers": 81, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Arabic", "account_age": 972000.0}

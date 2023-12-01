@@ -1,0 +1,1 @@
+{"channel": "lininim", "avg_viewers": 17, "followers_gained": 38, "peak_viewers": 39, "hours_streamed": 196, "streams": 35, "mature": 0, "language": "Korean", "account_age": 725760.0}

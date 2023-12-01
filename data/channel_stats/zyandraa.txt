@@ -1,0 +1,1 @@
+{"channel": "zyandraa", "avg_viewers": 16, "followers_gained": 111, "peak_viewers": 67, "hours_streamed": 62, "streams": 17, "mature": 1, "language": "German", "account_age": 858240.0}

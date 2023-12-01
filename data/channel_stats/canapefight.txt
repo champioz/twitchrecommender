@@ -1,0 +1,1 @@
+{"channel": "canapefight", "avg_viewers": 10, "followers_gained": 8, "peak_viewers": 19, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "French", "account_age": 2213280.0}

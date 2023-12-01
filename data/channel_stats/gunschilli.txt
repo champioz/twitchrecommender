@@ -1,0 +1,1 @@
+{"channel": "gunschilli", "avg_viewers": 107, "followers_gained": 59, "peak_viewers": 405, "hours_streamed": 71, "streams": 16, "mature": 0, "language": "English", "account_age": 5182560.0}

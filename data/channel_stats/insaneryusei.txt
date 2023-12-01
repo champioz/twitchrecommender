@@ -1,0 +1,1 @@
+{"channel": "insaneryusei", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 17, "hours_streamed": 81, "streams": 14, "mature": 1, "language": "German", "account_age": 1995840.0}

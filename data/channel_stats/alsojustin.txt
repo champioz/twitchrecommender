@@ -1,0 +1,1 @@
+{"channel": "alsojustin", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 13, "hours_streamed": 88, "streams": 25, "mature": 0, "language": "English", "account_age": 684000.0}

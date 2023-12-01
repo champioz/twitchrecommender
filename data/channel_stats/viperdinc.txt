@@ -1,0 +1,1 @@
+{"channel": "viperdinc", "avg_viewers": 6, "followers_gained": 44, "peak_viewers": 298, "hours_streamed": 58, "streams": 19, "mature": 1, "language": "Turkish", "account_age": 3539520.0}

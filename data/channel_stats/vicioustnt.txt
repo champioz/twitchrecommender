@@ -1,0 +1,1 @@
+{"channel": "vicioustnt", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 17, "hours_streamed": 55, "streams": 19, "mature": 1, "language": "English", "account_age": 758880.0}

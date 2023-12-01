@@ -1,0 +1,1 @@
+{"channel": "al0t97", "avg_viewers": 120, "followers_gained": 99, "peak_viewers": 197, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "English", "account_age": 2867040.0}

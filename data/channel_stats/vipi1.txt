@@ -1,0 +1,1 @@
+{"channel": "vipi1", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 4, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Portuguese", "account_age": 2034720.0}

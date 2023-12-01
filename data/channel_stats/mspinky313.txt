@@ -1,0 +1,1 @@
+{"channel": "mspinky313", "avg_viewers": 17, "followers_gained": 122, "peak_viewers": 40, "hours_streamed": 79, "streams": 29, "mature": 0, "language": "English", "account_age": 2622240.0}

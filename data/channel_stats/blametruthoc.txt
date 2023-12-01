@@ -1,0 +1,1 @@
+{"channel": "blametruthoc", "avg_viewers": 262, "followers_gained": 109, "peak_viewers": 535, "hours_streamed": 86, "streams": 22, "mature": 1, "language": "English", "account_age": 3736800.0}

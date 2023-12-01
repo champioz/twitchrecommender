@@ -1,0 +1,1 @@
+{"channel": "adalis", "avg_viewers": 33, "followers_gained": 435, "peak_viewers": 110, "hours_streamed": 80, "streams": 23, "mature": 1, "language": "Spanish", "account_age": 2170080.0}

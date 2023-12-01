@@ -1,0 +1,1 @@
+{"channel": "einhornimmond2", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 13, "streams": 7, "mature": 1, "language": "German", "account_age": 1265760.0}

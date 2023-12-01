@@ -1,0 +1,1 @@
+{"channel": "fatalityfalcon", "avg_viewers": 177, "followers_gained": 2515, "peak_viewers": 1574, "hours_streamed": 94, "streams": 25, "mature": 0, "language": "English", "account_age": 2010240.0}

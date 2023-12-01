@@ -1,0 +1,1 @@
+{"channel": "falkengren", "avg_viewers": 25, "followers_gained": 34, "peak_viewers": 72, "hours_streamed": 57, "streams": 8, "mature": 0, "language": "English", "account_age": 2021760.0}

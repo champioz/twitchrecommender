@@ -1,0 +1,1 @@
+{"channel": "pepsana", "avg_viewers": 34, "followers_gained": 205, "peak_viewers": 80, "hours_streamed": 74, "streams": 19, "mature": 1, "language": "Slovak", "account_age": 2633760.0}

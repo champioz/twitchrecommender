@@ -1,0 +1,1 @@
+{"channel": "gantz4", "avg_viewers": 5, "followers_gained": 130, "peak_viewers": 18, "hours_streamed": 193, "streams": 35, "mature": 0, "language": "Spanish", "account_age": 3378240.0}

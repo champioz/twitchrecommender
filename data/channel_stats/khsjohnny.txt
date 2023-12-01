@@ -1,0 +1,1 @@
+{"channel": "khsjohnny", "avg_viewers": 251, "followers_gained": 35, "peak_viewers": 567, "hours_streamed": 204, "streams": 31, "mature": 0, "language": "Chinese", "account_age": 2659680.0}

@@ -1,0 +1,1 @@
+{"channel": "thenovack", "avg_viewers": 2, "followers_gained": 57, "peak_viewers": 25, "hours_streamed": 128, "streams": 55, "mature": 0, "language": "Spanish", "account_age": 2802240.0}

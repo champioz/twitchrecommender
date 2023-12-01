@@ -1,0 +1,1 @@
+{"channel": "sergiiram", "avg_viewers": 97, "followers_gained": 407, "peak_viewers": 140, "hours_streamed": 11, "streams": 7, "mature": 0, "language": "Spanish", "account_age": 1546560.0}

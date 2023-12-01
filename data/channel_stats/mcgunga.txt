@@ -1,0 +1,1 @@
+{"channel": "mcgunga", "avg_viewers": 36, "followers_gained": 459, "peak_viewers": 108, "hours_streamed": 24, "streams": 15, "mature": 1, "language": "English", "account_age": 1059840.0}

@@ -1,0 +1,1 @@
+{"channel": "mrblackbones", "avg_viewers": 18, "followers_gained": 145, "peak_viewers": 40, "hours_streamed": 244, "streams": 36, "mature": 0, "language": "German", "account_age": 659520.0}

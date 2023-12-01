@@ -1,0 +1,1 @@
+{"channel": "ryze_1v9_mix", "avg_viewers": 6, "followers_gained": 4124, "peak_viewers": 55, "hours_streamed": 16, "streams": 11, "mature": 0, "language": "English", "account_age": 197280.0}

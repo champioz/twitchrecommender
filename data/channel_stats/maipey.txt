@@ -1,0 +1,1 @@
+{"channel": "maipey", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 10, "hours_streamed": 22, "streams": 7, "mature": 1, "language": "English", "account_age": 1880640.0}

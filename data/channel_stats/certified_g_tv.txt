@@ -1,0 +1,1 @@
+{"channel": "certified_g_tv", "avg_viewers": 9, "followers_gained": 53, "peak_viewers": 35, "hours_streamed": 145, "streams": 32, "mature": 1, "language": "English", "account_age": 2040480.0}

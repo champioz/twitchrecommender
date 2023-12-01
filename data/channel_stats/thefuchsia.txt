@@ -1,0 +1,1 @@
+{"channel": "thefuchsia", "avg_viewers": 24, "followers_gained": 74, "peak_viewers": 46, "hours_streamed": 78, "streams": 21, "mature": 1, "language": "German", "account_age": 1349280.0}

@@ -1,0 +1,1 @@
+{"channel": "jadetelesto", "avg_viewers": 106, "followers_gained": 465, "peak_viewers": 655, "hours_streamed": 167, "streams": 21, "mature": 0, "language": "English", "account_age": 1437120.0}

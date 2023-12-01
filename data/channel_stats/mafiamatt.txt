@@ -1,0 +1,1 @@
+{"channel": "mafiamatt", "avg_viewers": 11, "followers_gained": 24, "peak_viewers": 22, "hours_streamed": 43, "streams": 10, "mature": 1, "language": "English", "account_age": 872640.0}

@@ -1,0 +1,1 @@
+{"channel": "pohzrr", "avg_viewers": 3, "followers_gained": 31, "peak_viewers": 11, "hours_streamed": 38, "streams": 16, "mature": 0, "language": "English", "account_age": 767520.0}

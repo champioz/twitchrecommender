@@ -1,0 +1,1 @@
+{"channel": "0ne_peach", "avg_viewers": 13, "followers_gained": 80, "peak_viewers": 28, "hours_streamed": 134, "streams": 10, "mature": 0, "language": "Russian", "account_age": 2070720.0}

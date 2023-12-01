@@ -1,0 +1,1 @@
+{"channel": "drainys", "avg_viewers": 1391, "followers_gained": 4577, "peak_viewers": 3006, "hours_streamed": 116, "streams": 27, "mature": 0, "language": "Russian", "account_age": 3503520.0}

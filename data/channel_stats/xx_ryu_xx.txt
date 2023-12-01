@@ -1,0 +1,1 @@
+{"channel": "xx_ryu_xx", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "German", "account_age": 1342080.0}

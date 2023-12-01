@@ -1,0 +1,1 @@
+{"channel": "jayaxer", "avg_viewers": 21, "followers_gained": 47, "peak_viewers": 65, "hours_streamed": 32, "streams": 9, "mature": 0, "language": "English", "account_age": 519840.0}

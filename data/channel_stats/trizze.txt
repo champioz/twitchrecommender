@@ -1,0 +1,1 @@
+{"channel": "trizze", "avg_viewers": 99, "followers_gained": 127, "peak_viewers": 835, "hours_streamed": 103, "streams": 18, "mature": 0, "language": "English", "account_age": 4705920.0}

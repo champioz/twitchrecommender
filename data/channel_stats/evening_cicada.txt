@@ -1,0 +1,1 @@
+{"channel": "evening_cicada", "avg_viewers": 4, "followers_gained": 21, "peak_viewers": 14, "hours_streamed": 101, "streams": 22, "mature": 0, "language": "English", "account_age": 1105920.0}

@@ -1,0 +1,1 @@
+{"channel": "sirworran", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 5, "hours_streamed": 33, "streams": 29, "mature": 0, "language": "English", "account_age": 122400.0}

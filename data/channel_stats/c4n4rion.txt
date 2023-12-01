@@ -1,0 +1,1 @@
+{"channel": "c4n4rion", "avg_viewers": 7, "followers_gained": 12, "peak_viewers": 35, "hours_streamed": 6, "streams": 2, "mature": 1, "language": "Spanish", "account_age": 3103200.0}

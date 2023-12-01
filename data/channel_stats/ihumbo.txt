@@ -1,0 +1,1 @@
+{"channel": "ihumbo", "avg_viewers": 15, "followers_gained": 425, "peak_viewers": 49, "hours_streamed": 151, "streams": 39, "mature": 0, "language": "English", "account_age": 498240.0}

@@ -1,0 +1,1 @@
+{"channel": "ilgattosultubo", "avg_viewers": 623, "followers_gained": 2114, "peak_viewers": 1509, "hours_streamed": 97, "streams": 55, "mature": 0, "language": "Italian", "account_age": 3435840.0}

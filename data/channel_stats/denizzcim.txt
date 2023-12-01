@@ -1,0 +1,1 @@
+{"channel": "denizzcim", "avg_viewers": 36, "followers_gained": 156, "peak_viewers": 106, "hours_streamed": 39, "streams": 9, "mature": 1, "language": "Turkish", "account_age": 197280.0}

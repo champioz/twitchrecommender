@@ -1,0 +1,1 @@
+{"channel": "xgl_e", "avg_viewers": 2, "followers_gained": 45, "peak_viewers": 14, "hours_streamed": 73, "streams": 32, "mature": 0, "language": "Arabic", "account_age": 758880.0}

@@ -1,0 +1,1 @@
+{"channel": "gexero", "avg_viewers": 9, "followers_gained": 147, "peak_viewers": 62, "hours_streamed": 68, "streams": 25, "mature": 1, "language": "Spanish", "account_age": 1848960.0}

@@ -1,0 +1,1 @@
+{"channel": "lolkafoxy", "avg_viewers": 12, "followers_gained": 25, "peak_viewers": 28, "hours_streamed": 50, "streams": 19, "mature": 0, "language": "Russian", "account_age": 2216160.0}

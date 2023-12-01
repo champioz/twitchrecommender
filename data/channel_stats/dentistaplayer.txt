@@ -1,0 +1,1 @@
+{"channel": "dentistaplayer", "avg_viewers": 29, "followers_gained": 89, "peak_viewers": 71, "hours_streamed": 20, "streams": 12, "mature": 0, "language": "Portuguese", "account_age": 577440.0}

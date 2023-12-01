@@ -1,0 +1,1 @@
+{"channel": "lildarien", "avg_viewers": 14, "followers_gained": 49, "peak_viewers": 36, "hours_streamed": 60, "streams": 15, "mature": 1, "language": "English", "account_age": 3764160.0}

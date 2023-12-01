@@ -1,0 +1,1 @@
+{"channel": "mimikaaa", "avg_viewers": 132, "followers_gained": 1316, "peak_viewers": 1362, "hours_streamed": 114, "streams": 21, "mature": 1, "language": "Russian", "account_age": 2443680.0}

@@ -1,0 +1,1 @@
+{"channel": "whatca_channel", "avg_viewers": 1436, "followers_gained": 594, "peak_viewers": 3152, "hours_streamed": 21, "streams": 8, "mature": 0, "language": "Chinese", "account_age": 1834560.0}

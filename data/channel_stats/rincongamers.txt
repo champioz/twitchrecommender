@@ -1,0 +1,1 @@
+{"channel": "rincongamers", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 9, "streams": 3, "mature": 1, "language": "Spanish", "account_age": 3762720.0}

@@ -1,0 +1,1 @@
+{"channel": "gamss90", "avg_viewers": 8, "followers_gained": 182, "peak_viewers": 28, "hours_streamed": 95, "streams": 24, "mature": 1, "language": "Portuguese", "account_age": 2367360.0}

@@ -1,0 +1,1 @@
+{"channel": "thekuzu", "avg_viewers": 11, "followers_gained": 98, "peak_viewers": 89, "hours_streamed": 126, "streams": 25, "mature": 1, "language": "Turkish", "account_age": 1618560.0}

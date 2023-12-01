@@ -1,0 +1,1 @@
+{"channel": "promic2", "avg_viewers": 52, "followers_gained": 35, "peak_viewers": 115, "hours_streamed": 62, "streams": 20, "mature": 1, "language": "Danish", "account_age": 3787200.0}

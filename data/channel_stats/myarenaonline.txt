@@ -1,0 +1,1 @@
+{"channel": "myarenaonline", "avg_viewers": 193, "followers_gained": 540, "peak_viewers": 1089, "hours_streamed": 75, "streams": 34, "mature": 0, "language": "Thai", "account_age": 1167840.0}

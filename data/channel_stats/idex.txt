@@ -1,0 +1,1 @@
+{"channel": "idex", "avg_viewers": 27, "followers_gained": 15, "peak_viewers": 94, "hours_streamed": 3, "streams": 3, "mature": 0, "language": "French", "account_age": 1366560.0}

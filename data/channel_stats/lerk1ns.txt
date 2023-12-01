@@ -1,0 +1,1 @@
+{"channel": "lerk1ns", "avg_viewers": 25, "followers_gained": 2, "peak_viewers": 59, "hours_streamed": 17, "streams": 6, "mature": 0, "language": "Russian", "account_age": 2037600.0}

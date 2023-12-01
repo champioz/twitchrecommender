@@ -1,0 +1,1 @@
+{"channel": "snycmaster", "avg_viewers": 34, "followers_gained": 101, "peak_viewers": 59, "hours_streamed": 165, "streams": 25, "mature": 1, "language": "Spanish", "account_age": 3198240.0}

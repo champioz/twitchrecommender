@@ -1,0 +1,1 @@
+{"channel": "aerlun", "avg_viewers": 16, "followers_gained": 9, "peak_viewers": 35, "hours_streamed": 12, "streams": 4, "mature": 1, "language": "English", "account_age": 2855520.0}

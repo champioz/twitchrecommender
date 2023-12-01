@@ -1,0 +1,1 @@
+{"channel": "s1nj1n", "avg_viewers": 15, "followers_gained": 140, "peak_viewers": 502, "hours_streamed": 72, "streams": 27, "mature": 0, "language": "English", "account_age": 2502720.0}

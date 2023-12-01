@@ -1,0 +1,1 @@
+{"channel": "khamu007", "avg_viewers": 19, "followers_gained": 30, "peak_viewers": 48, "hours_streamed": 38, "streams": 14, "mature": 1, "language": "French", "account_age": 2257920.0}

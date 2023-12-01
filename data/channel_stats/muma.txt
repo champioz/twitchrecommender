@@ -1,0 +1,1 @@
+{"channel": "muma", "avg_viewers": 392, "followers_gained": 460, "peak_viewers": 1091, "hours_streamed": 33, "streams": 13, "mature": 0, "language": "English", "account_age": 2124000.0}

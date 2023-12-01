@@ -1,0 +1,1 @@
+{"channel": "mertianz", "avg_viewers": 64, "followers_gained": 4, "peak_viewers": 85, "hours_streamed": 7, "streams": 1, "mature": 0, "language": "Turkish", "account_age": 737280.0}

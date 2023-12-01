@@ -1,0 +1,1 @@
+{"channel": "iamt00ns", "avg_viewers": 149, "followers_gained": 972, "peak_viewers": 368, "hours_streamed": 70, "streams": 19, "mature": 1, "language": "English", "account_age": 2574720.0}

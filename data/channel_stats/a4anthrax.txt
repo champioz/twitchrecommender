@@ -1,0 +1,1 @@
+{"channel": "a4anthrax", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 2, "streams": 3, "mature": 0, "language": "English", "account_age": 2869920.0}

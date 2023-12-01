@@ -1,0 +1,1 @@
+{"channel": "eightthoughts", "avg_viewers": 99, "followers_gained": 224, "peak_viewers": 145, "hours_streamed": 7, "streams": 2, "mature": 1, "language": "English", "account_age": 4685760.0}

@@ -1,0 +1,1 @@
+{"channel": "monsterclutch", "avg_viewers": 15, "followers_gained": 129, "peak_viewers": 72, "hours_streamed": 211, "streams": 32, "mature": 0, "language": "English", "account_age": 1363680.0}

@@ -1,0 +1,1 @@
+{"channel": "iariose", "avg_viewers": 8, "followers_gained": 68, "peak_viewers": 52, "hours_streamed": 189, "streams": 35, "mature": 1, "language": "English", "account_age": 1258560.0}

@@ -1,0 +1,1 @@
+{"channel": "hoppaw", "avg_viewers": 16, "followers_gained": 53, "peak_viewers": 120, "hours_streamed": 29, "streams": 14, "mature": 0, "language": "English", "account_age": 3533760.0}

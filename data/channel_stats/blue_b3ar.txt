@@ -1,0 +1,1 @@
+{"channel": "blue_b3ar", "avg_viewers": 13, "followers_gained": 135, "peak_viewers": 133, "hours_streamed": 43, "streams": 24, "mature": 0, "language": "Hungarian", "account_age": 626400.0}

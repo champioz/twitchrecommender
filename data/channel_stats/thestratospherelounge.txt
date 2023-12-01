@@ -1,0 +1,1 @@
+{"channel": "thestratospherelounge", "avg_viewers": 58, "followers_gained": 9, "peak_viewers": 79, "hours_streamed": 11, "streams": 4, "mature": 0, "language": "English", "account_age": 498240.0}

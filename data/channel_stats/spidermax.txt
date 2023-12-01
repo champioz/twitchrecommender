@@ -1,0 +1,1 @@
+{"channel": "spidermax", "avg_viewers": 7, "followers_gained": 12, "peak_viewers": 23, "hours_streamed": 72, "streams": 21, "mature": 1, "language": "Spanish", "account_age": 1321920.0}

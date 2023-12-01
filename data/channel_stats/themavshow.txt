@@ -1,0 +1,1 @@
+{"channel": "themavshow", "avg_viewers": 118, "followers_gained": 602, "peak_viewers": 362, "hours_streamed": 137, "streams": 33, "mature": 0, "language": "English", "account_age": 2514240.0}

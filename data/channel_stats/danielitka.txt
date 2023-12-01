@@ -1,0 +1,1 @@
+{"channel": "danielitka", "avg_viewers": 55, "followers_gained": 613, "peak_viewers": 255, "hours_streamed": 113, "streams": 29, "mature": 1, "language": "Czech", "account_age": 2835360.0}

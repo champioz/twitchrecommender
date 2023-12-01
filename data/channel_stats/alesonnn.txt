@@ -1,0 +1,1 @@
+{"channel": "alesonnn", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 16, "streams": 9, "mature": 0, "language": "", "account_age": 692640.0}

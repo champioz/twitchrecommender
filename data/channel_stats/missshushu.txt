@@ -1,0 +1,1 @@
+{"channel": "missshushu", "avg_viewers": 10, "followers_gained": 10, "peak_viewers": 39, "hours_streamed": 10, "streams": 5, "mature": 1, "language": "German", "account_age": 974880.0}

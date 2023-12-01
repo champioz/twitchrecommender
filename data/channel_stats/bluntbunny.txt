@@ -1,0 +1,1 @@
+{"channel": "bluntbunny", "avg_viewers": 37, "followers_gained": 11, "peak_viewers": 94, "hours_streamed": 42, "streams": 16, "mature": 1, "language": "English", "account_age": 2864160.0}

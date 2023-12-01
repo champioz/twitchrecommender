@@ -1,0 +1,1 @@
+{"channel": "yorezordd", "avg_viewers": 22, "followers_gained": 91, "peak_viewers": 78, "hours_streamed": 108, "streams": 24, "mature": 1, "language": "Portuguese", "account_age": 3808800.0}

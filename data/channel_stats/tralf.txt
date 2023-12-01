@@ -1,0 +1,1 @@
+{"channel": "tralf", "avg_viewers": 86, "followers_gained": 12, "peak_viewers": 359, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "English", "account_age": 4356000.0}

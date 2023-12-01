@@ -1,0 +1,1 @@
+{"channel": "l6c6f6r", "avg_viewers": 24, "followers_gained": 128, "peak_viewers": 63, "hours_streamed": 77, "streams": 16, "mature": 1, "language": "Spanish", "account_age": 2748960.0}

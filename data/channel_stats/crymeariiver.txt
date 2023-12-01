@@ -1,0 +1,1 @@
+{"channel": "crymeariiver", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 6, "hours_streamed": 25, "streams": 8, "mature": 0, "language": "English", "account_age": 3078720.0}

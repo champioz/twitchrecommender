@@ -1,0 +1,1 @@
+{"channel": "wildey", "avg_viewers": 12, "followers_gained": 29, "peak_viewers": 26, "hours_streamed": 47, "streams": 10, "mature": 0, "language": "English", "account_age": 4125600.0}

@@ -1,0 +1,1 @@
+{"channel": "tabletoproyale", "avg_viewers": 16, "followers_gained": 14, "peak_viewers": 34, "hours_streamed": 28, "streams": 13, "mature": 0, "language": "English", "account_age": 361440.0}

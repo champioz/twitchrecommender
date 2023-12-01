@@ -1,0 +1,1 @@
+{"channel": "nordikk_", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 13, "streams": 7, "mature": 1, "language": "English", "account_age": 2908800.0}

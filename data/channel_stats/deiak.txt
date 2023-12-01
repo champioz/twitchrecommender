@@ -1,0 +1,1 @@
+{"channel": "deiak", "avg_viewers": 37, "followers_gained": 124, "peak_viewers": 47, "hours_streamed": 5, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 2967840.0}

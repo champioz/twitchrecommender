@@ -1,0 +1,1 @@
+{"channel": "sildao", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 13, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Portuguese", "account_age": 2655360.0}

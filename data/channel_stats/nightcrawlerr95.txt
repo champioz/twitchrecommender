@@ -1,0 +1,1 @@
+{"channel": "nightcrawlerr95", "avg_viewers": 4, "followers_gained": 169, "peak_viewers": 16, "hours_streamed": 123, "streams": 57, "mature": 0, "language": "English", "account_age": 671040.0}

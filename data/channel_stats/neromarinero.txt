@@ -1,0 +1,1 @@
+{"channel": "neromarinero", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 8, "hours_streamed": 3, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 2111040.0}

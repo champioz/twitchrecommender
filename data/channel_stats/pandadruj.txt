@@ -1,0 +1,1 @@
+{"channel": "pandadruj", "avg_viewers": 198, "followers_gained": 867, "peak_viewers": 614, "hours_streamed": 210, "streams": 23, "mature": 0, "language": "Portuguese", "account_age": 2701440.0}

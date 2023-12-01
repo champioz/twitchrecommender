@@ -1,0 +1,1 @@
+{"channel": "denly", "avg_viewers": 557, "followers_gained": 6374, "peak_viewers": 1204, "hours_streamed": 74, "streams": 16, "mature": 0, "language": "Russian", "account_age": 1774080.0}

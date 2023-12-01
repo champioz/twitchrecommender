@@ -1,0 +1,1 @@
+{"channel": "salade2free", "avg_viewers": 3, "followers_gained": 11, "peak_viewers": 8, "hours_streamed": 44, "streams": 23, "mature": 1, "language": "French", "account_age": 476640.0}

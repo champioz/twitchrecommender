@@ -1,0 +1,1 @@
+{"channel": "damotaa", "avg_viewers": 33, "followers_gained": 973, "peak_viewers": 353, "hours_streamed": 121, "streams": 37, "mature": 1, "language": "Portuguese", "account_age": 2265120.0}

@@ -1,0 +1,1 @@
+{"channel": "mechsoysauce", "avg_viewers": 13, "followers_gained": 5, "peak_viewers": 24, "hours_streamed": 3, "streams": 3, "mature": 0, "language": "English", "account_age": 2926080.0}

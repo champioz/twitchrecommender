@@ -1,0 +1,1 @@
+{"channel": "deadra", "avg_viewers": 9, "followers_gained": 177, "peak_viewers": 28, "hours_streamed": 16, "streams": 8, "mature": 0, "language": "French", "account_age": 3132000.0}

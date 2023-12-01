@@ -1,0 +1,1 @@
+{"channel": "fragnance", "avg_viewers": 2078, "followers_gained": 13222, "peak_viewers": 7045, "hours_streamed": 323, "streams": 33, "mature": 0, "language": "English", "account_age": 4128480.0}

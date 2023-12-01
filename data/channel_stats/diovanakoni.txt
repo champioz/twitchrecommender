@@ -1,0 +1,1 @@
+{"channel": "diovanakoni", "avg_viewers": 143, "followers_gained": 1082, "peak_viewers": 454, "hours_streamed": 46, "streams": 13, "mature": 0, "language": "Portuguese", "account_age": 564480.0}

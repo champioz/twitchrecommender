@@ -1,0 +1,1 @@
+{"channel": "cozyozzie", "avg_viewers": 8, "followers_gained": 131, "peak_viewers": 595, "hours_streamed": 39, "streams": 26, "mature": 0, "language": "Spanish", "account_age": 489600.0}

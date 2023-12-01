@@ -1,0 +1,1 @@
+{"channel": "safupi", "avg_viewers": 17, "followers_gained": 0, "peak_viewers": 24, "hours_streamed": 13, "streams": 3, "mature": 0, "language": "Japanese", "account_age": 253440.0}

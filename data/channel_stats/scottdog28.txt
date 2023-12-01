@@ -1,0 +1,1 @@
+{"channel": "scottdog28", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 14, "hours_streamed": 49, "streams": 12, "mature": 0, "language": "English", "account_age": 812160.0}

@@ -1,0 +1,1 @@
+{"channel": "pokerstarsitalia", "avg_viewers": 24, "followers_gained": 30, "peak_viewers": 93, "hours_streamed": 27, "streams": 14, "mature": 1, "language": "Italian", "account_age": 1958400.0}

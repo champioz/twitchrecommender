@@ -1,0 +1,1 @@
+{"channel": "shiabun", "avg_viewers": 118, "followers_gained": 604, "peak_viewers": 264, "hours_streamed": 70, "streams": 20, "mature": 1, "language": "English", "account_age": 2874240.0}

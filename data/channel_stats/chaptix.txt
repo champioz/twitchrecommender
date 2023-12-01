@@ -1,0 +1,1 @@
+{"channel": "chaptix", "avg_viewers": 46, "followers_gained": 789, "peak_viewers": 219, "hours_streamed": 40, "streams": 18, "mature": 0, "language": "German", "account_age": 864000.0}

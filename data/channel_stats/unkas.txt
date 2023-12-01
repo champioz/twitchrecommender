@@ -1,0 +1,1 @@
+{"channel": "unkas", "avg_viewers": 22, "followers_gained": 3, "peak_viewers": 40, "hours_streamed": 14, "streams": 5, "mature": 1, "language": "Spanish", "account_age": 3922560.0}

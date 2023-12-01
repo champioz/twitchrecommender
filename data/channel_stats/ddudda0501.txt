@@ -1,0 +1,1 @@
+{"channel": "ddudda0501", "avg_viewers": 23, "followers_gained": 24, "peak_viewers": 58, "hours_streamed": 101, "streams": 22, "mature": 0, "language": "Korean", "account_age": 727200.0}

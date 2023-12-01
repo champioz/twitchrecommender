@@ -1,0 +1,1 @@
+{"channel": "bingulz", "avg_viewers": 3, "followers_gained": 130, "peak_viewers": 33, "hours_streamed": 101, "streams": 23, "mature": 0, "language": "Portuguese", "account_age": 198720.0}

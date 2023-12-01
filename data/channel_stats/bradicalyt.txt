@@ -1,0 +1,1 @@
+{"channel": "bradicalyt", "avg_viewers": 16, "followers_gained": 85, "peak_viewers": 40, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "English", "account_age": 1486080.0}

@@ -1,0 +1,1 @@
+{"channel": "axelqt_", "avg_viewers": 18, "followers_gained": 140, "peak_viewers": 52, "hours_streamed": 156, "streams": 25, "mature": 1, "language": "French", "account_age": 3324960.0}

@@ -1,0 +1,1 @@
+{"channel": "melodyserafina", "avg_viewers": 20, "followers_gained": 137, "peak_viewers": 548, "hours_streamed": 58, "streams": 21, "mature": 1, "language": "English", "account_age": 2777760.0}

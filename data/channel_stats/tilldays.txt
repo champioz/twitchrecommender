@@ -1,0 +1,1 @@
+{"channel": "tilldays", "avg_viewers": 41, "followers_gained": 165, "peak_viewers": 92, "hours_streamed": 205, "streams": 23, "mature": 0, "language": "English", "account_age": 3028320.0}

@@ -1,0 +1,1 @@
+{"channel": "satishu", "avg_viewers": 3, "followers_gained": 12, "peak_viewers": 10, "hours_streamed": 50, "streams": 9, "mature": 0, "language": "German", "account_age": 2021760.0}

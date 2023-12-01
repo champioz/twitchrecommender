@@ -1,0 +1,1 @@
+{"channel": "kawaiiguy", "avg_viewers": 22, "followers_gained": 59, "peak_viewers": 230, "hours_streamed": 45, "streams": 15, "mature": 0, "language": "English", "account_age": 2072160.0}

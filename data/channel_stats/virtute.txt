@@ -1,0 +1,1 @@
+{"channel": "virtute", "avg_viewers": 31, "followers_gained": 111, "peak_viewers": 69, "hours_streamed": 26, "streams": 8, "mature": 0, "language": "English", "account_age": 3906720.0}

@@ -1,0 +1,1 @@
+{"channel": "bossbeauty2414", "avg_viewers": 2, "followers_gained": 25, "peak_viewers": 11, "hours_streamed": 80, "streams": 36, "mature": 1, "language": "English", "account_age": 2259360.0}

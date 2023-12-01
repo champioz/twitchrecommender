@@ -1,0 +1,1 @@
+{"channel": "hillokone", "avg_viewers": 6, "followers_gained": 41, "peak_viewers": 23, "hours_streamed": 193, "streams": 53, "mature": 1, "language": "Finnish", "account_age": 3071520.0}

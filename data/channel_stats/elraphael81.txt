@@ -1,0 +1,1 @@
+{"channel": "elraphael81", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 4, "streams": 6, "mature": 0, "language": "Polish", "account_age": 1956960.0}

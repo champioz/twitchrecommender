@@ -1,0 +1,1 @@
+{"channel": "asynchronystudios", "avg_viewers": 14, "followers_gained": 2, "peak_viewers": 56, "hours_streamed": 6, "streams": 5, "mature": 0, "language": "English", "account_age": 1684800.0}

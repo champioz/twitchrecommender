@@ -1,0 +1,1 @@
+{"channel": "timario", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 8, "hours_streamed": 69, "streams": 35, "mature": 0, "language": "Russian", "account_age": 3091680.0}

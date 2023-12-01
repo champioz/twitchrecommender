@@ -1,0 +1,1 @@
+{"channel": "przysiadtibia", "avg_viewers": 5, "followers_gained": 24, "peak_viewers": 20, "hours_streamed": 102, "streams": 49, "mature": 0, "language": "Polish", "account_age": 560160.0}

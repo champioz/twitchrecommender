@@ -1,0 +1,1 @@
+{"channel": "dominate", "avg_viewers": 137, "followers_gained": 51, "peak_viewers": 408, "hours_streamed": 88, "streams": 18, "mature": 0, "language": "Swedish", "account_age": 2671200.0}

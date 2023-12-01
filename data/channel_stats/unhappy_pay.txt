@@ -1,0 +1,1 @@
+{"channel": "unhappy_pay", "avg_viewers": 46, "followers_gained": 18, "peak_viewers": 71, "hours_streamed": 13, "streams": 4, "mature": 0, "language": "Russian", "account_age": 1759680.0}

@@ -1,0 +1,1 @@
+{"channel": "thegeostatic", "avg_viewers": 88, "followers_gained": 135, "peak_viewers": 576, "hours_streamed": 105, "streams": 29, "mature": 1, "language": "English", "account_age": 887040.0}

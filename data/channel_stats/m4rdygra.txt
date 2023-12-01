@@ -1,0 +1,1 @@
+{"channel": "m4rdygra", "avg_viewers": 20, "followers_gained": 653, "peak_viewers": 87, "hours_streamed": 357, "streams": 59, "mature": 1, "language": "French", "account_age": 1239840.0}

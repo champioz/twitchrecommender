@@ -1,0 +1,1 @@
+{"channel": "egearseven", "avg_viewers": 316, "followers_gained": 316, "peak_viewers": 694, "hours_streamed": 56, "streams": 14, "mature": 0, "language": "Turkish", "account_age": 1771200.0}

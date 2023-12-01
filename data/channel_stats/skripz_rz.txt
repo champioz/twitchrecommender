@@ -1,0 +1,1 @@
+{"channel": "skripz_rz", "avg_viewers": 14, "followers_gained": 96, "peak_viewers": 56, "hours_streamed": 152, "streams": 28, "mature": 1, "language": "German", "account_age": 2260800.0}

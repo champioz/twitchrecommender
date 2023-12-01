@@ -1,0 +1,1 @@
+{"channel": "zgermzy", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 820800.0}

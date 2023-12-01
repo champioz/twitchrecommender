@@ -1,0 +1,1 @@
+{"channel": "baretruls", "avg_viewers": 8, "followers_gained": 10, "peak_viewers": 19, "hours_streamed": 14, "streams": 3, "mature": 0, "language": "Norwegian", "account_age": 2484000.0}

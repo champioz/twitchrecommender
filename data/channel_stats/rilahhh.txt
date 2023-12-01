@@ -1,0 +1,1 @@
+{"channel": "rilahhh", "avg_viewers": 27, "followers_gained": 183, "peak_viewers": 87, "hours_streamed": 203, "streams": 32, "mature": 1, "language": "German", "account_age": 3623040.0}

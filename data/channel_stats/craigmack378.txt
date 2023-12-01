@@ -1,0 +1,1 @@
+{"channel": "craigmack378", "avg_viewers": 100, "followers_gained": 62, "peak_viewers": 356, "hours_streamed": 28, "streams": 7, "mature": 0, "language": "English", "account_age": 2122560.0}

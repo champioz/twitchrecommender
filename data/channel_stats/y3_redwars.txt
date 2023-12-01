@@ -1,0 +1,1 @@
+{"channel": "y3_redwars", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 11, "hours_streamed": 26, "streams": 13, "mature": 0, "language": "English", "account_age": 1082880.0}

@@ -1,0 +1,1 @@
+{"channel": "hisgue", "avg_viewers": 10, "followers_gained": 60, "peak_viewers": 30, "hours_streamed": 122, "streams": 21, "mature": 1, "language": "Portuguese", "account_age": 933120.0}

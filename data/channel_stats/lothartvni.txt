@@ -1,0 +1,1 @@
+{"channel": "lothartvni", "avg_viewers": 3, "followers_gained": 12, "peak_viewers": 13, "hours_streamed": 77, "streams": 27, "mature": 0, "language": "English", "account_age": 3790080.0}

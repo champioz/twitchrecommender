@@ -1,0 +1,1 @@
+{"channel": "shaflam", "avg_viewers": 50, "followers_gained": 1130, "peak_viewers": 89, "hours_streamed": 70, "streams": 19, "mature": 0, "language": "English", "account_age": 950400.0}

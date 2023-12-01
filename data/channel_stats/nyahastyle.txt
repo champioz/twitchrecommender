@@ -1,0 +1,1 @@
+{"channel": "nyahastyle", "avg_viewers": 1, "followers_gained": 17, "peak_viewers": 9, "hours_streamed": 22, "streams": 11, "mature": 0, "language": "Russian", "account_age": 990720.0}

@@ -1,0 +1,1 @@
+{"channel": "solaryevent", "avg_viewers": 406, "followers_gained": 1368, "peak_viewers": 1543, "hours_streamed": 72, "streams": 9, "mature": 0, "language": "French", "account_age": 269280.0}

@@ -1,0 +1,1 @@
+{"channel": "gmmatamoros", "avg_viewers": 199, "followers_gained": 55, "peak_viewers": 340, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 292320.0}

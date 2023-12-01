@@ -1,0 +1,1 @@
+{"channel": "nithion_", "avg_viewers": 3, "followers_gained": 13, "peak_viewers": 9, "hours_streamed": 62, "streams": 26, "mature": 1, "language": "Portuguese", "account_age": 2456640.0}

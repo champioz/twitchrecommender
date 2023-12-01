@@ -1,0 +1,1 @@
+{"channel": "swampro", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 3, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Romanian", "account_age": 3391200.0}

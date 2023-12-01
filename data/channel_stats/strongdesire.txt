@@ -1,0 +1,1 @@
+{"channel": "strongdesire", "avg_viewers": 13, "followers_gained": 65, "peak_viewers": 43, "hours_streamed": 92, "streams": 19, "mature": 1, "language": "Dutch", "account_age": 182880.0}

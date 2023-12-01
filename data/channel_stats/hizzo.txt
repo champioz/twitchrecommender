@@ -1,0 +1,1 @@
+{"channel": "hizzo", "avg_viewers": 14, "followers_gained": 90, "peak_viewers": 40, "hours_streamed": 221, "streams": 39, "mature": 1, "language": "English", "account_age": 2583360.0}

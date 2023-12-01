@@ -1,0 +1,1 @@
+{"channel": "matii_conter", "avg_viewers": 6, "followers_gained": 62, "peak_viewers": 20, "hours_streamed": 91, "streams": 20, "mature": 1, "language": "Spanish", "account_age": 655200.0}

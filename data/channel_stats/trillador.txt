@@ -1,0 +1,1 @@
+{"channel": "trillador", "avg_viewers": 12, "followers_gained": 44, "peak_viewers": 156, "hours_streamed": 197, "streams": 40, "mature": 0, "language": "Spanish", "account_age": 3372480.0}

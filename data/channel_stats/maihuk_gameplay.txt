@@ -1,0 +1,1 @@
+{"channel": "maihuk_gameplay", "avg_viewers": 7, "followers_gained": 55, "peak_viewers": 15, "hours_streamed": 78, "streams": 27, "mature": 0, "language": "Portuguese", "account_age": 241920.0}

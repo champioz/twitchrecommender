@@ -1,0 +1,1 @@
+{"channel": "tuxdev", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 12, "hours_streamed": 37, "streams": 14, "mature": 0, "language": "English", "account_age": 4047840.0}

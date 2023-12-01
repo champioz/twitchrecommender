@@ -1,0 +1,1 @@
+{"channel": "tcspectre", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 22, "hours_streamed": 66, "streams": 18, "mature": 1, "language": "English", "account_age": 3918240.0}

@@ -1,0 +1,1 @@
+{"channel": "kimrehanim", "avg_viewers": 21, "followers_gained": 5, "peak_viewers": 41, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Korean", "account_age": 388800.0}

@@ -1,0 +1,1 @@
+{"channel": "l3wg", "avg_viewers": 64, "followers_gained": 4424, "peak_viewers": 371, "hours_streamed": 189, "streams": 34, "mature": 0, "language": "English", "account_age": 3157920.0}

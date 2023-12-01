@@ -1,0 +1,1 @@
+{"channel": "kietze_", "avg_viewers": 10, "followers_gained": 49, "peak_viewers": 37, "hours_streamed": 84, "streams": 36, "mature": 1, "language": "German", "account_age": 1075680.0}

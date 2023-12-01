@@ -1,0 +1,1 @@
+{"channel": "sparcmac", "avg_viewers": 848, "followers_gained": 2696, "peak_viewers": 2328, "hours_streamed": 162, "streams": 25, "mature": 0, "language": "English", "account_age": 3360960.0}

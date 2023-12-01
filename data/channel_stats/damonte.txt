@@ -1,0 +1,1 @@
+{"channel": "damonte", "avg_viewers": 36, "followers_gained": 8, "peak_viewers": 52, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 1932480.0}

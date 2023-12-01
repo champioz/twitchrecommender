@@ -1,0 +1,1 @@
+{"channel": "kaaaay", "avg_viewers": 151, "followers_gained": 575, "peak_viewers": 304, "hours_streamed": 49, "streams": 10, "mature": 0, "language": "German", "account_age": 2338560.0}

@@ -1,0 +1,1 @@
+{"channel": "dreamcatcherx", "avg_viewers": 11, "followers_gained": 1, "peak_viewers": 16, "hours_streamed": 4, "streams": 1, "mature": 1, "language": "German", "account_age": 904320.0}

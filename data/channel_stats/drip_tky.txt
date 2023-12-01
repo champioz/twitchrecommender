@@ -1,0 +1,1 @@
+{"channel": "drip_tky", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 111, "streams": 47, "mature": 1, "language": "Japanese", "account_age": 734400.0}

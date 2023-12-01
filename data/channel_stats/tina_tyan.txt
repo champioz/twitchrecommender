@@ -1,0 +1,1 @@
+{"channel": "tina_tyan", "avg_viewers": 107, "followers_gained": 917, "peak_viewers": 281, "hours_streamed": 135, "streams": 28, "mature": 1, "language": "Russian", "account_age": 652320.0}

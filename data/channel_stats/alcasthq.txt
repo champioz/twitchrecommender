@@ -1,0 +1,1 @@
+{"channel": "alcasthq", "avg_viewers": 3402, "followers_gained": 3557, "peak_viewers": 6261, "hours_streamed": 68, "streams": 19, "mature": 0, "language": "English", "account_age": 1620000.0}

@@ -1,0 +1,1 @@
+{"channel": "smolsammichowo", "avg_viewers": 9, "followers_gained": 12, "peak_viewers": 14, "hours_streamed": 2, "streams": 5, "mature": 0, "language": "English", "account_age": 780480.0}

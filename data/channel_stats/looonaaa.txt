@@ -1,0 +1,1 @@
+{"channel": "looonaaa", "avg_viewers": 11, "followers_gained": 78, "peak_viewers": 23, "hours_streamed": 13, "streams": 8, "mature": 0, "language": "English", "account_age": 773280.0}

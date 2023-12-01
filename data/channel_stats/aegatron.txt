@@ -1,0 +1,1 @@
+{"channel": "aegatron", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 24, "hours_streamed": 39, "streams": 9, "mature": 1, "language": "Swedish", "account_age": 2708640.0}

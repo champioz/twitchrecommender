@@ -1,0 +1,1 @@
+{"channel": "gabe8866", "avg_viewers": 2, "followers_gained": 109, "peak_viewers": 20, "hours_streamed": 147, "streams": 55, "mature": 1, "language": "English", "account_age": 489600.0}

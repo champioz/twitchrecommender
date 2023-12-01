@@ -1,0 +1,1 @@
+{"channel": "audingalt", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 9, "hours_streamed": 133, "streams": 27, "mature": 1, "language": "English", "account_age": 1159200.0}

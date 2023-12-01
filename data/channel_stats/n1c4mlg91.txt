@@ -1,0 +1,1 @@
+{"channel": "n1c4mlg91", "avg_viewers": 0, "followers_gained": 16, "peak_viewers": 5, "hours_streamed": 50, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 514080.0}

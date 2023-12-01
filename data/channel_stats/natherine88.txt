@@ -1,0 +1,1 @@
+{"channel": "natherine88", "avg_viewers": 12, "followers_gained": 13, "peak_viewers": 30, "hours_streamed": 28, "streams": 4, "mature": 1, "language": "Polish", "account_age": 1775520.0}

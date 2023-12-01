@@ -1,0 +1,1 @@
+{"channel": "insoit", "avg_viewers": 4, "followers_gained": 55, "peak_viewers": 18, "hours_streamed": 19, "streams": 9, "mature": 0, "language": "English", "account_age": 643680.0}

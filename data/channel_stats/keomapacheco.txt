@@ -1,0 +1,1 @@
+{"channel": "keomapacheco", "avg_viewers": 104, "followers_gained": 93, "peak_viewers": 208, "hours_streamed": 32, "streams": 9, "mature": 0, "language": "Portuguese", "account_age": 4158720.0}

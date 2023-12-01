@@ -1,0 +1,1 @@
+{"channel": "haloxcyn", "avg_viewers": 253, "followers_gained": 179, "peak_viewers": 690, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "German", "account_age": 1964160.0}

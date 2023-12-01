@@ -1,0 +1,1 @@
+{"channel": "vayana", "avg_viewers": 15, "followers_gained": 60, "peak_viewers": 119, "hours_streamed": 36, "streams": 10, "mature": 0, "language": "Polish", "account_age": 1759680.0}

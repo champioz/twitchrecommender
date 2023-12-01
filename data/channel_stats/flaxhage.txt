@@ -1,0 +1,1 @@
+{"channel": "flaxhage", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "English", "account_age": 2292480.0}

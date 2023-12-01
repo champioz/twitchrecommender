@@ -1,0 +1,1 @@
+{"channel": "alecadius", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 3, "hours_streamed": 42, "streams": 23, "mature": 0, "language": "English", "account_age": 712800.0}

@@ -1,0 +1,1 @@
+{"channel": "monstershenanigans", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 9, "hours_streamed": 77, "streams": 29, "mature": 0, "language": "English", "account_age": 3196800.0}

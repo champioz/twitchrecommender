@@ -1,0 +1,1 @@
+{"channel": "callmecheska", "avg_viewers": 15, "followers_gained": 24, "peak_viewers": 53, "hours_streamed": 23, "streams": 8, "mature": 0, "language": "English", "account_age": 498240.0}

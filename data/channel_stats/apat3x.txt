@@ -1,0 +1,1 @@
+{"channel": "apat3x", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 11, "streams": 8, "mature": 0, "language": "German", "account_age": 2316960.0}

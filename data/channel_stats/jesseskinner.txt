@@ -1,0 +1,1 @@
+{"channel": "jesseskinner", "avg_viewers": 7, "followers_gained": 0, "peak_viewers": 14, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "English", "account_age": 1961280.0}

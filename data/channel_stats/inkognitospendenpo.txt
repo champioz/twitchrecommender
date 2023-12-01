@@ -1,0 +1,1 @@
+{"channel": "inkognitospendenpo", "avg_viewers": 218, "followers_gained": 1402, "peak_viewers": 551, "hours_streamed": 54, "streams": 16, "mature": 0, "language": "German", "account_age": 583200.0}

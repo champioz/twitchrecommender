@@ -1,0 +1,1 @@
+{"channel": "youflancyhuh", "avg_viewers": 20, "followers_gained": 79, "peak_viewers": 35, "hours_streamed": 47, "streams": 12, "mature": 1, "language": "English", "account_age": 1889280.0}

@@ -1,0 +1,1 @@
+{"channel": "galxone", "avg_viewers": 3, "followers_gained": 12, "peak_viewers": 10, "hours_streamed": 84, "streams": 15, "mature": 0, "language": "Swedish", "account_age": 2833920.0}

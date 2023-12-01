@@ -1,0 +1,1 @@
+{"channel": "raxberries831", "avg_viewers": 0, "followers_gained": 9, "peak_viewers": 10, "hours_streamed": 29, "streams": 27, "mature": 0, "language": "English", "account_age": 728640.0}

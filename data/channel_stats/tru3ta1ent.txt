@@ -1,0 +1,1 @@
+{"channel": "tru3ta1ent", "avg_viewers": 2322, "followers_gained": 13446, "peak_viewers": 5550, "hours_streamed": 176, "streams": 32, "mature": 0, "language": "English", "account_age": 3114720.0}

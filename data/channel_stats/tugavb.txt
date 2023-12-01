@@ -1,0 +1,1 @@
+{"channel": "tugavb", "avg_viewers": 1, "followers_gained": 45, "peak_viewers": 11, "hours_streamed": 54, "streams": 21, "mature": 0, "language": "Portuguese", "account_age": 1075680.0}

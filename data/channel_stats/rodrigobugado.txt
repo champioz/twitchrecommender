@@ -1,0 +1,1 @@
+{"channel": "rodrigobugado", "avg_viewers": 650, "followers_gained": 4071, "peak_viewers": 2209, "hours_streamed": 195, "streams": 38, "mature": 1, "language": "Portuguese", "account_age": 270720.0}

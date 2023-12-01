@@ -1,0 +1,1 @@
+{"channel": "clover_dd", "avg_viewers": 7, "followers_gained": 93, "peak_viewers": 26, "hours_streamed": 174, "streams": 30, "mature": 0, "language": "Japanese", "account_age": 1188000.0}

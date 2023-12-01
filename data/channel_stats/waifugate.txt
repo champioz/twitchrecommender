@@ -1,0 +1,1 @@
+{"channel": "waifugate", "avg_viewers": 172, "followers_gained": 121, "peak_viewers": 838, "hours_streamed": 158, "streams": 19, "mature": 1, "language": "English", "account_age": 2283840.0}

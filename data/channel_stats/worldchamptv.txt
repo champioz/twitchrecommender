@@ -1,0 +1,1 @@
+{"channel": "worldchamptv", "avg_viewers": 9, "followers_gained": 307, "peak_viewers": 39, "hours_streamed": 136, "streams": 41, "mature": 0, "language": "English", "account_age": 2077920.0}

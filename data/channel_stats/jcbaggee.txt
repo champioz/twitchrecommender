@@ -1,0 +1,1 @@
+{"channel": "jcbaggee", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 17, "hours_streamed": 41, "streams": 13, "mature": 1, "language": "English", "account_age": 1362240.0}

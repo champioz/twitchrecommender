@@ -1,0 +1,1 @@
+{"channel": "waterkant", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 67, "streams": 16, "mature": 1, "language": "German", "account_age": 2383200.0}

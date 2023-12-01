@@ -1,0 +1,1 @@
+{"channel": "wearablesnake", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 15, "hours_streamed": 32, "streams": 16, "mature": 1, "language": "English", "account_age": 3276000.0}

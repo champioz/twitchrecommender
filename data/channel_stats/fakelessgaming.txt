@@ -1,0 +1,1 @@
+{"channel": "fakelessgaming", "avg_viewers": 17, "followers_gained": 4, "peak_viewers": 37, "hours_streamed": 12, "streams": 5, "mature": 0, "language": "Russian", "account_age": 3300480.0}

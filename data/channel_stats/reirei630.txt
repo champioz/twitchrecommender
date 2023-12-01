@@ -1,0 +1,1 @@
+{"channel": "reirei630", "avg_viewers": 17, "followers_gained": 6, "peak_viewers": 47, "hours_streamed": 72, "streams": 28, "mature": 0, "language": "Japanese", "account_age": 1509120.0}

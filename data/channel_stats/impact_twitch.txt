@@ -1,0 +1,1 @@
+{"channel": "impact_twitch", "avg_viewers": 3, "followers_gained": 15, "peak_viewers": 26, "hours_streamed": 92, "streams": 22, "mature": 1, "language": "German", "account_age": 4402080.0}

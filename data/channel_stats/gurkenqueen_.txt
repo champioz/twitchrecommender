@@ -1,0 +1,1 @@
+{"channel": "gurkenqueen_", "avg_viewers": 7, "followers_gained": 17, "peak_viewers": 19, "hours_streamed": 25, "streams": 10, "mature": 1, "language": "German", "account_age": 1316160.0}

@@ -1,0 +1,1 @@
+{"channel": "7licious", "avg_viewers": 58, "followers_gained": 5, "peak_viewers": 66, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Swedish", "account_age": 1611360.0}

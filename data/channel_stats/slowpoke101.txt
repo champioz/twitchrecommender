@@ -1,0 +1,1 @@
+{"channel": "slowpoke101", "avg_viewers": 52, "followers_gained": 132, "peak_viewers": 373, "hours_streamed": 74, "streams": 20, "mature": 1, "language": "English", "account_age": 4489920.0}

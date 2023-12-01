@@ -1,0 +1,1 @@
+{"channel": "plugo", "avg_viewers": 476, "followers_gained": 102, "peak_viewers": 565, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 2517120.0}

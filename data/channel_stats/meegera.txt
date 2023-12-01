@@ -1,0 +1,1 @@
+{"channel": "meegera", "avg_viewers": 189, "followers_gained": 1374, "peak_viewers": 372, "hours_streamed": 97, "streams": 22, "mature": 0, "language": "Russian", "account_age": 2037600.0}

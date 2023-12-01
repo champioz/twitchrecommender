@@ -1,0 +1,1 @@
+{"channel": "junior27015", "avg_viewers": 119, "followers_gained": 165, "peak_viewers": 398, "hours_streamed": 150, "streams": 33, "mature": 0, "language": "Japanese", "account_age": 3062880.0}

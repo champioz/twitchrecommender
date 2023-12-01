@@ -1,0 +1,1 @@
+{"channel": "meiyaho", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 22, "hours_streamed": 118, "streams": 26, "mature": 0, "language": "Chinese", "account_age": 4570560.0}

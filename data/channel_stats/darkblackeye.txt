@@ -1,0 +1,1 @@
+{"channel": "darkblackeye", "avg_viewers": 0, "followers_gained": 92, "peak_viewers": 6, "hours_streamed": 84, "streams": 31, "mature": 0, "language": "German", "account_age": 511200.0}

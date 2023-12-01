@@ -1,0 +1,1 @@
+{"channel": "jaxonjordan", "avg_viewers": 50, "followers_gained": 35, "peak_viewers": 87, "hours_streamed": 48, "streams": 14, "mature": 1, "language": "English", "account_age": 1944000.0}

@@ -1,0 +1,1 @@
+{"channel": "teddycyb", "avg_viewers": 1, "followers_gained": 65, "peak_viewers": 10, "hours_streamed": 159, "streams": 32, "mature": 1, "language": "English", "account_age": 518400.0}

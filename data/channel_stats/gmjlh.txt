@@ -1,0 +1,1 @@
+{"channel": "gmjlh", "avg_viewers": 276, "followers_gained": 143, "peak_viewers": 624, "hours_streamed": 20, "streams": 6, "mature": 0, "language": "English", "account_age": 2047680.0}

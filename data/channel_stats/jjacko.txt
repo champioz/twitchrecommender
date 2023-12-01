@@ -1,0 +1,1 @@
+{"channel": "jjacko", "avg_viewers": 35, "followers_gained": 16, "peak_viewers": 69, "hours_streamed": 57, "streams": 12, "mature": 1, "language": "German", "account_age": 2544480.0}

@@ -1,0 +1,1 @@
+{"channel": "craniodad", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 15, "hours_streamed": 56, "streams": 18, "mature": 1, "language": "English", "account_age": 1192320.0}

@@ -1,0 +1,1 @@
+{"channel": "sickdegenerate", "avg_viewers": 6, "followers_gained": 13, "peak_viewers": 110, "hours_streamed": 160, "streams": 25, "mature": 0, "language": "English", "account_age": 5388480.0}

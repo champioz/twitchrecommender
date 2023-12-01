@@ -1,0 +1,1 @@
+{"channel": "inas1220", "avg_viewers": 261, "followers_gained": 3973, "peak_viewers": 512, "hours_streamed": 17, "streams": 9, "mature": 1, "language": "Korean", "account_age": 989280.0}

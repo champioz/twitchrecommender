@@ -1,0 +1,1 @@
+{"channel": "singplayteach", "avg_viewers": 5, "followers_gained": 39, "peak_viewers": 23, "hours_streamed": 79, "streams": 38, "mature": 1, "language": "English", "account_age": 1529280.0}

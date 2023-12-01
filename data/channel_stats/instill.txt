@@ -1,0 +1,1 @@
+{"channel": "instill", "avg_viewers": 10, "followers_gained": 22, "peak_viewers": 20, "hours_streamed": 13, "streams": 5, "mature": 0, "language": "English", "account_age": 3003840.0}

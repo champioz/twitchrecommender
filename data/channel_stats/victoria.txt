@@ -1,0 +1,1 @@
+{"channel": "victoria", "avg_viewers": 288, "followers_gained": 101, "peak_viewers": 867, "hours_streamed": 518, "streams": 26, "mature": 1, "language": "English", "account_age": 5004000.0}

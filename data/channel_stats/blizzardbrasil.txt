@@ -1,0 +1,1 @@
+{"channel": "blizzardbrasil", "avg_viewers": 924, "followers_gained": 87, "peak_viewers": 4173, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "Portuguese", "account_age": 1715040.0}

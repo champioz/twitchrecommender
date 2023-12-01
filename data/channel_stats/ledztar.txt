@@ -1,0 +1,1 @@
+{"channel": "ledztar", "avg_viewers": 43, "followers_gained": 111, "peak_viewers": 313, "hours_streamed": 100, "streams": 28, "mature": 0, "language": "Russian", "account_age": 1771200.0}

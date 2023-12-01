@@ -1,0 +1,1 @@
+{"channel": "rocknreis", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 10, "hours_streamed": 16, "streams": 9, "mature": 1, "language": "Portuguese", "account_age": 1814400.0}

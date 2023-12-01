@@ -1,0 +1,1 @@
+{"channel": "dukeiscool", "avg_viewers": 43, "followers_gained": 122, "peak_viewers": 69, "hours_streamed": 109, "streams": 21, "mature": 1, "language": "English", "account_age": 4095360.0}

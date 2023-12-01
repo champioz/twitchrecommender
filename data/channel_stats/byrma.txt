@@ -1,0 +1,1 @@
+{"channel": "byrma", "avg_viewers": 2, "followers_gained": 38, "peak_viewers": 48, "hours_streamed": 184, "streams": 36, "mature": 1, "language": "Ukrainian", "account_age": 3480480.0}

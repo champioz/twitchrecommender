@@ -1,0 +1,1 @@
+{"channel": "artaphernes", "avg_viewers": 32, "followers_gained": 105, "peak_viewers": 117, "hours_streamed": 136, "streams": 28, "mature": 0, "language": "English", "account_age": 2892960.0}

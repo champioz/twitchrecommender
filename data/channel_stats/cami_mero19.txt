@@ -1,0 +1,1 @@
+{"channel": "cami_mero19", "avg_viewers": 10, "followers_gained": 36, "peak_viewers": 44, "hours_streamed": 85, "streams": 20, "mature": 0, "language": "Japanese", "account_age": 773280.0}

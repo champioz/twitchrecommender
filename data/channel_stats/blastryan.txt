@@ -1,0 +1,1 @@
+{"channel": "blastryan", "avg_viewers": 0, "followers_gained": 55, "peak_viewers": 32, "hours_streamed": 212, "streams": 70, "mature": 0, "language": "Turkish", "account_age": 3450240.0}

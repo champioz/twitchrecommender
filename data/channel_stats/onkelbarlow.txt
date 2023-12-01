@@ -1,0 +1,1 @@
+{"channel": "onkelbarlow", "avg_viewers": 430, "followers_gained": 182, "peak_viewers": 744, "hours_streamed": 46, "streams": 14, "mature": 1, "language": "German", "account_age": 2288160.0}

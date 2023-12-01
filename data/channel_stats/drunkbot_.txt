@@ -1,0 +1,1 @@
+{"channel": "drunkbot_", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 18, "hours_streamed": 131, "streams": 22, "mature": 1, "language": "Finnish", "account_age": 2662560.0}

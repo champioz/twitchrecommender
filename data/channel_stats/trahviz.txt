@@ -1,0 +1,1 @@
+{"channel": "trahviz", "avg_viewers": 8, "followers_gained": 27, "peak_viewers": 34, "hours_streamed": 100, "streams": 32, "mature": 1, "language": "English", "account_age": 3803040.0}

@@ -1,0 +1,1 @@
+{"channel": "lalakaru", "avg_viewers": 13, "followers_gained": 14, "peak_viewers": 41, "hours_streamed": 64, "streams": 11, "mature": 1, "language": "Chinese", "account_age": 2275200.0}

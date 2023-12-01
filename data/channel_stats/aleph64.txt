@@ -1,0 +1,1 @@
+{"channel": "aleph64", "avg_viewers": 12, "followers_gained": 41, "peak_viewers": 25, "hours_streamed": 62, "streams": 19, "mature": 1, "language": "German", "account_age": 822240.0}

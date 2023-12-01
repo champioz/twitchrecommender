@@ -1,0 +1,1 @@
+{"channel": "kolorcs", "avg_viewers": 150, "followers_gained": 13, "peak_viewers": 170, "hours_streamed": 1, "streams": 1, "mature": 1, "language": "Hungarian", "account_age": 1992960.0}

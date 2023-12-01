@@ -1,0 +1,1 @@
+{"channel": "jmacsmacks", "avg_viewers": 2, "followers_gained": 42, "peak_viewers": 17, "hours_streamed": 121, "streams": 21, "mature": 1, "language": "English", "account_age": 607680.0}

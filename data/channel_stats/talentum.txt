@@ -1,0 +1,1 @@
+{"channel": "talentum", "avg_viewers": 72, "followers_gained": 930, "peak_viewers": 287, "hours_streamed": 140, "streams": 25, "mature": 0, "language": "English", "account_age": 912960.0}

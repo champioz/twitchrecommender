@@ -1,0 +1,1 @@
+{"channel": "kotablaize", "avg_viewers": 3, "followers_gained": 18, "peak_viewers": 12, "hours_streamed": 285, "streams": 34, "mature": 1, "language": "English", "account_age": 1540800.0}

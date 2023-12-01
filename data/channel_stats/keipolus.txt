@@ -1,0 +1,1 @@
+{"channel": "keipolus", "avg_viewers": 8, "followers_gained": 8, "peak_viewers": 19, "hours_streamed": 62, "streams": 16, "mature": 0, "language": "Japanese", "account_age": 2351520.0}

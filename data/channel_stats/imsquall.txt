@@ -1,0 +1,1 @@
+{"channel": "imsquall", "avg_viewers": 49, "followers_gained": 88, "peak_viewers": 107, "hours_streamed": 58, "streams": 16, "mature": 0, "language": "English", "account_age": 3594240.0}

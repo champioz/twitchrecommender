@@ -1,0 +1,1 @@
+{"channel": "onlyherose", "avg_viewers": 11, "followers_gained": 50, "peak_viewers": 64, "hours_streamed": 109, "streams": 24, "mature": 1, "language": "English", "account_age": 2603520.0}

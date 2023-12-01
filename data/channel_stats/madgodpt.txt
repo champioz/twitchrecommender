@@ -1,0 +1,1 @@
+{"channel": "madgodpt", "avg_viewers": 90, "followers_gained": 238, "peak_viewers": 294, "hours_streamed": 58, "streams": 14, "mature": 1, "language": "Portuguese", "account_age": 3949920.0}

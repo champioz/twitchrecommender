@@ -1,0 +1,1 @@
+{"channel": "sokruto", "avg_viewers": 7, "followers_gained": 137, "peak_viewers": 72, "hours_streamed": 121, "streams": 38, "mature": 1, "language": "Russian", "account_age": 2522880.0}

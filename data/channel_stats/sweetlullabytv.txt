@@ -1,0 +1,1 @@
+{"channel": "sweetlullabytv", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 12, "hours_streamed": 23, "streams": 6, "mature": 1, "language": "French", "account_age": 246240.0}

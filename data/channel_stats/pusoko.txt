@@ -1,0 +1,1 @@
+{"channel": "pusoko", "avg_viewers": 21, "followers_gained": 66, "peak_viewers": 117, "hours_streamed": 65, "streams": 22, "mature": 1, "language": "English", "account_age": 1504800.0}

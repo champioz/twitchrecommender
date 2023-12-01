@@ -1,0 +1,1 @@
+{"channel": "nayrurita", "avg_viewers": 7, "followers_gained": 47, "peak_viewers": 22, "hours_streamed": 38, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 1134720.0}

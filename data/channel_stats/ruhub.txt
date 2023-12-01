@@ -1,0 +1,1 @@
+{"channel": "ruhub", "avg_viewers": 319, "followers_gained": 1918, "peak_viewers": 834, "hours_streamed": 31, "streams": 5, "mature": 0, "language": "Russian", "account_age": 2064960.0}

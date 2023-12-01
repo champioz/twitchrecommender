@@ -1,0 +1,1 @@
+{"channel": "shandybintv", "avg_viewers": 83, "followers_gained": 1159, "peak_viewers": 207, "hours_streamed": 55, "streams": 14, "mature": 0, "language": "Russian", "account_age": 2203200.0}

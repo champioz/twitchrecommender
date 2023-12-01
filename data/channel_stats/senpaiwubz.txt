@@ -1,0 +1,1 @@
+{"channel": "senpaiwubz", "avg_viewers": 10, "followers_gained": 5, "peak_viewers": 37, "hours_streamed": 7, "streams": 5, "mature": 1, "language": "English", "account_age": 653760.0}

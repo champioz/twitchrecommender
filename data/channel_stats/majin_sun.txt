@@ -1,0 +1,1 @@
+{"channel": "majin_sun", "avg_viewers": 5, "followers_gained": 10, "peak_viewers": 20, "hours_streamed": 60, "streams": 23, "mature": 1, "language": "French", "account_age": 2472480.0}

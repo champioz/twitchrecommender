@@ -1,0 +1,1 @@
+{"channel": "tiffanni_", "avg_viewers": 9, "followers_gained": 40, "peak_viewers": 74, "hours_streamed": 72, "streams": 15, "mature": 0, "language": "English", "account_age": 2180160.0}

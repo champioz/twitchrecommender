@@ -1,0 +1,1 @@
+{"channel": "brandyheather", "avg_viewers": 17, "followers_gained": 407, "peak_viewers": 33, "hours_streamed": 146, "streams": 31, "mature": 0, "language": "English", "account_age": 2982240.0}

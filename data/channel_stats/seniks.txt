@@ -1,0 +1,1 @@
+{"channel": "seniks", "avg_viewers": 12, "followers_gained": 33, "peak_viewers": 32, "hours_streamed": 33, "streams": 14, "mature": 0, "language": "Czech", "account_age": 3697920.0}

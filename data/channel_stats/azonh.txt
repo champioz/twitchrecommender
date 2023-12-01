@@ -1,0 +1,1 @@
+{"channel": "azonh", "avg_viewers": 45, "followers_gained": 72, "peak_viewers": 89, "hours_streamed": 40, "streams": 8, "mature": 0, "language": "Polish", "account_age": 2764800.0}

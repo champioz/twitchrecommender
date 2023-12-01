@@ -1,0 +1,1 @@
+{"channel": "theyoungscar", "avg_viewers": 5, "followers_gained": 29, "peak_viewers": 20, "hours_streamed": 46, "streams": 10, "mature": 1, "language": "English", "account_age": 842400.0}

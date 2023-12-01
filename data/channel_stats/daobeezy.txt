@@ -1,0 +1,1 @@
+{"channel": "daobeezy", "avg_viewers": 18, "followers_gained": 60, "peak_viewers": 36, "hours_streamed": 31, "streams": 9, "mature": 0, "language": "English", "account_age": 2777760.0}

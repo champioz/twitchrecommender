@@ -1,0 +1,1 @@
+{"channel": "wick2d", "avg_viewers": 86, "followers_gained": 376, "peak_viewers": 287, "hours_streamed": 51, "streams": 17, "mature": 0, "language": "Korean", "account_age": 1307520.0}

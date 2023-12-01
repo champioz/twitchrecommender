@@ -1,0 +1,1 @@
+{"channel": "l0nelye4rth", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 22, "streams": 18, "mature": 1, "language": "Thai", "account_age": 2628000.0}

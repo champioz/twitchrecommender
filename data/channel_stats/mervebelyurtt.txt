@@ -1,0 +1,1 @@
+{"channel": "mervebelyurtt", "avg_viewers": 15, "followers_gained": 518, "peak_viewers": 35, "hours_streamed": 61, "streams": 21, "mature": 1, "language": "Turkish", "account_age": 780480.0}

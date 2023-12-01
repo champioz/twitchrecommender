@@ -1,0 +1,1 @@
+{"channel": "otterlive", "avg_viewers": 0, "followers_gained": 14, "peak_viewers": 3, "hours_streamed": 48, "streams": 15, "mature": 0, "language": "English", "account_age": 145440.0}

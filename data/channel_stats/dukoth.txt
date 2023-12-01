@@ -1,0 +1,1 @@
+{"channel": "dukoth", "avg_viewers": 94, "followers_gained": 726, "peak_viewers": 358, "hours_streamed": 78, "streams": 11, "mature": 1, "language": "Portuguese", "account_age": 3444480.0}

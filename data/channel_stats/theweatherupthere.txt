@@ -1,0 +1,1 @@
+{"channel": "theweatherupthere", "avg_viewers": 14, "followers_gained": 73, "peak_viewers": 106, "hours_streamed": 54, "streams": 16, "mature": 0, "language": "English", "account_age": 970560.0}

@@ -1,0 +1,1 @@
+{"channel": "sgk7gaming", "avg_viewers": 279, "followers_gained": 834, "peak_viewers": 453, "hours_streamed": 30, "streams": 9, "mature": 0, "language": "English", "account_age": 2034720.0}

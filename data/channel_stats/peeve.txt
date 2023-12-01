@@ -1,0 +1,1 @@
+{"channel": "peeve", "avg_viewers": 760, "followers_gained": 364, "peak_viewers": 2316, "hours_streamed": 118, "streams": 19, "mature": 1, "language": "English", "account_age": 3859200.0}

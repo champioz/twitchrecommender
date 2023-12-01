@@ -1,0 +1,1 @@
+{"channel": "mud0w", "avg_viewers": 20, "followers_gained": 5, "peak_viewers": 37, "hours_streamed": 55, "streams": 19, "mature": 1, "language": "Danish", "account_age": 3535200.0}

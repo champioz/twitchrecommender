@@ -1,0 +1,1 @@
+{"channel": "mrukziiz", "avg_viewers": 11, "followers_gained": 272, "peak_viewers": 38, "hours_streamed": 136, "streams": 33, "mature": 0, "language": "Thai", "account_age": 1555200.0}

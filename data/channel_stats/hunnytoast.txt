@@ -1,0 +1,1 @@
+{"channel": "hunnytoast", "avg_viewers": 2, "followers_gained": 81, "peak_viewers": 7, "hours_streamed": 19, "streams": 15, "mature": 1, "language": "English", "account_age": 208800.0}

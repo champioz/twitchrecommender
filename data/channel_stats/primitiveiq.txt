@@ -1,0 +1,1 @@
+{"channel": "primitiveiq", "avg_viewers": 31, "followers_gained": 367, "peak_viewers": 73, "hours_streamed": 206, "streams": 28, "mature": 1, "language": "English", "account_age": 912960.0}

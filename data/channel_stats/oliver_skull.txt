@@ -1,0 +1,1 @@
+{"channel": "oliver_skull", "avg_viewers": 12, "followers_gained": 102, "peak_viewers": 42, "hours_streamed": 41, "streams": 27, "mature": 0, "language": "Spanish", "account_age": 1915200.0}

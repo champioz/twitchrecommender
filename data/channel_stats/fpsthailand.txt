@@ -1,0 +1,1 @@
+{"channel": "fpsthailand", "avg_viewers": 3315, "followers_gained": 7666, "peak_viewers": 14509, "hours_streamed": 185, "streams": 42, "mature": 0, "language": "Thai", "account_age": 3483360.0}

@@ -1,0 +1,1 @@
+{"channel": "gazowany_jogurt", "avg_viewers": 9, "followers_gained": 20, "peak_viewers": 36, "hours_streamed": 76, "streams": 16, "mature": 1, "language": "Polish", "account_age": 2285280.0}

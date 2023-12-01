@@ -1,0 +1,1 @@
+{"channel": "dartslivetaiwan", "avg_viewers": 160, "followers_gained": 60, "peak_viewers": 351, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Chinese", "account_age": 292320.0}

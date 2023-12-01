@@ -1,0 +1,1 @@
+{"channel": "sofastaim", "avg_viewers": 46, "followers_gained": 334, "peak_viewers": 149, "hours_streamed": 130, "streams": 38, "mature": 1, "language": "Turkish", "account_age": 1703520.0}

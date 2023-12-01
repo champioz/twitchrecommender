@@ -1,0 +1,1 @@
+{"channel": "konradmaxpl", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 1, "hours_streamed": 5, "streams": 8, "mature": 1, "language": "Polish", "account_age": 1938240.0}

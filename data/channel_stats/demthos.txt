@@ -1,0 +1,1 @@
+{"channel": "demthos", "avg_viewers": 2, "followers_gained": 13, "peak_viewers": 9, "hours_streamed": 99, "streams": 16, "mature": 1, "language": "English", "account_age": 3108960.0}

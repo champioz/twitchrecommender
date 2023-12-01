@@ -1,0 +1,1 @@
+{"channel": "destroyerjot", "avg_viewers": 18, "followers_gained": 66, "peak_viewers": 63, "hours_streamed": 151, "streams": 19, "mature": 1, "language": "English", "account_age": 2884320.0}

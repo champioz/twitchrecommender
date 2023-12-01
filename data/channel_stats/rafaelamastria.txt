@@ -1,0 +1,1 @@
+{"channel": "rafaelamastria", "avg_viewers": 8, "followers_gained": 7, "peak_viewers": 16, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "Portuguese", "account_age": 1834560.0}

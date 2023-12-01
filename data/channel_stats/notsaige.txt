@@ -1,0 +1,1 @@
+{"channel": "notsaige", "avg_viewers": 22, "followers_gained": 18, "peak_viewers": 33, "hours_streamed": 18, "streams": 8, "mature": 0, "language": "English", "account_age": 2767680.0}

@@ -1,0 +1,1 @@
+{"channel": "crazyghost314", "avg_viewers": 36, "followers_gained": 411, "peak_viewers": 81, "hours_streamed": 56, "streams": 19, "mature": 1, "language": "English", "account_age": 2001600.0}

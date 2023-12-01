@@ -1,0 +1,1 @@
+{"channel": "bexyish", "avg_viewers": 15, "followers_gained": 32, "peak_viewers": 88, "hours_streamed": 31, "streams": 9, "mature": 1, "language": "English", "account_age": 4772160.0}

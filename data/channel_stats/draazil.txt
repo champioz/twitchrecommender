@@ -1,0 +1,1 @@
+{"channel": "draazil", "avg_viewers": 44, "followers_gained": 37, "peak_viewers": 148, "hours_streamed": 42, "streams": 10, "mature": 1, "language": "English", "account_age": 3402720.0}

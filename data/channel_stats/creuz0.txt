@@ -1,0 +1,1 @@
+{"channel": "creuz0", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 2, "streams": 3, "mature": 1, "language": "Korean", "account_age": 1281600.0}

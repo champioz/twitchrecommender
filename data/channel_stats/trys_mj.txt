@@ -1,0 +1,1 @@
+{"channel": "trys_mj", "avg_viewers": 39, "followers_gained": 348, "peak_viewers": 245, "hours_streamed": 236, "streams": 40, "mature": 0, "language": "French", "account_age": 3866400.0}

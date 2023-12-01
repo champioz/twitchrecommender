@@ -1,0 +1,1 @@
+{"channel": "sasha5ktor", "avg_viewers": 1, "followers_gained": 19, "peak_viewers": 5, "hours_streamed": 140, "streams": 29, "mature": 0, "language": "Russian", "account_age": 309600.0}

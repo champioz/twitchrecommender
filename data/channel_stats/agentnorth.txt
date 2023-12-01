@@ -1,0 +1,1 @@
+{"channel": "agentnorth", "avg_viewers": 23, "followers_gained": 50, "peak_viewers": 105, "hours_streamed": 210, "streams": 32, "mature": 0, "language": "English", "account_age": 3350880.0}

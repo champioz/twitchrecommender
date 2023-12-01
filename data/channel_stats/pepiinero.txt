@@ -1,0 +1,1 @@
+{"channel": "pepiinero", "avg_viewers": 824, "followers_gained": 1679, "peak_viewers": 1438, "hours_streamed": 149, "streams": 25, "mature": 1, "language": "Spanish", "account_age": 3025440.0}

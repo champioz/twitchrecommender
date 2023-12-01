@@ -1,0 +1,1 @@
+{"channel": "shoany18", "avg_viewers": 10, "followers_gained": 13, "peak_viewers": 26, "hours_streamed": 26, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 1347840.0}

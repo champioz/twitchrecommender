@@ -1,0 +1,1 @@
+{"channel": "schipistv", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 11, "hours_streamed": 1, "streams": 1, "mature": 1, "language": "German", "account_age": 2571840.0}

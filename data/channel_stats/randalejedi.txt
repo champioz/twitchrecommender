@@ -1,0 +1,1 @@
+{"channel": "randalejedi", "avg_viewers": 0, "followers_gained": 7, "peak_viewers": 5, "hours_streamed": 40, "streams": 14, "mature": 0, "language": "German", "account_age": 1044000.0}

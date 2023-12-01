@@ -1,0 +1,1 @@
+{"channel": "lefourbetv", "avg_viewers": 28, "followers_gained": 160, "peak_viewers": 86, "hours_streamed": 160, "streams": 30, "mature": 1, "language": "French", "account_age": 1218240.0}

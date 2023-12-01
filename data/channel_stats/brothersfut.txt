@@ -1,0 +1,1 @@
+{"channel": "brothersfut", "avg_viewers": 30, "followers_gained": 221, "peak_viewers": 77, "hours_streamed": 62, "streams": 24, "mature": 0, "language": "Russian", "account_age": 1369440.0}

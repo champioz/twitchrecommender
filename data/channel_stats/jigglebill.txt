@@ -1,0 +1,1 @@
+{"channel": "jigglebill", "avg_viewers": 13, "followers_gained": 83, "peak_viewers": 1411, "hours_streamed": 227, "streams": 34, "mature": 0, "language": "English", "account_age": 2655360.0}

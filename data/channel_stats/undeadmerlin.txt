@@ -1,0 +1,1 @@
+{"channel": "undeadmerlin", "avg_viewers": 8, "followers_gained": 35, "peak_viewers": 125, "hours_streamed": 83, "streams": 24, "mature": 1, "language": "English", "account_age": 3821760.0}

@@ -1,0 +1,1 @@
+{"channel": "cody_menz", "avg_viewers": 133, "followers_gained": 287, "peak_viewers": 593, "hours_streamed": 68, "streams": 18, "mature": 0, "language": "English", "account_age": 3398400.0}

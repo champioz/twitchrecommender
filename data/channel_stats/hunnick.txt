@@ -1,0 +1,1 @@
+{"channel": "hunnick", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 6, "hours_streamed": 52, "streams": 24, "mature": 0, "language": "Korean", "account_age": 951840.0}

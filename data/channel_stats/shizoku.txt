@@ -1,0 +1,1 @@
+{"channel": "shizoku", "avg_viewers": 17, "followers_gained": 8, "peak_viewers": 57, "hours_streamed": 92, "streams": 27, "mature": 0, "language": "English", "account_age": 4343040.0}

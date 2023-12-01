@@ -1,0 +1,1 @@
+{"channel": "admiredplague", "avg_viewers": 7, "followers_gained": 67, "peak_viewers": 13, "hours_streamed": 19, "streams": 7, "mature": 0, "language": "English", "account_age": 2652480.0}

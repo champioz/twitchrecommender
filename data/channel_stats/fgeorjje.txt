@@ -1,0 +1,1 @@
+{"channel": "fgeorjje", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 4, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "English", "account_age": 1571040.0}

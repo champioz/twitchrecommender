@@ -1,0 +1,1 @@
+{"channel": "tatus_", "avg_viewers": 11, "followers_gained": 7, "peak_viewers": 36, "hours_streamed": 16, "streams": 7, "mature": 1, "language": "Polish", "account_age": 3700800.0}

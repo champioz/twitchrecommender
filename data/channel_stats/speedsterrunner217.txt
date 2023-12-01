@@ -1,0 +1,1 @@
+{"channel": "speedsterrunner217", "avg_viewers": 4, "followers_gained": 34, "peak_viewers": 21, "hours_streamed": 127, "streams": 55, "mature": 0, "language": "English", "account_age": 1186560.0}

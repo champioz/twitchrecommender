@@ -1,0 +1,1 @@
+{"channel": "knait0", "avg_viewers": 71, "followers_gained": 265, "peak_viewers": 234, "hours_streamed": 117, "streams": 20, "mature": 1, "language": "Portuguese", "account_age": 2266560.0}

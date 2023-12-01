@@ -1,0 +1,1 @@
+{"channel": "kuentinlol", "avg_viewers": 46, "followers_gained": 49, "peak_viewers": 177, "hours_streamed": 50, "streams": 21, "mature": 0, "language": "Spanish", "account_age": 3045600.0}

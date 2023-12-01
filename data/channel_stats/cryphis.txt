@@ -1,0 +1,1 @@
+{"channel": "cryphis", "avg_viewers": 63, "followers_gained": 218, "peak_viewers": 268, "hours_streamed": 144, "streams": 23, "mature": 0, "language": "English", "account_age": 3733920.0}

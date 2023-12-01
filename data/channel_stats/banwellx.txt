@@ -1,0 +1,1 @@
+{"channel": "banwellx", "avg_viewers": 11, "followers_gained": 102, "peak_viewers": 33, "hours_streamed": 82, "streams": 24, "mature": 1, "language": "English", "account_age": 131040.0}

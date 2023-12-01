@@ -1,0 +1,1 @@
+{"channel": "der_lemmerich", "avg_viewers": 13, "followers_gained": 37, "peak_viewers": 33, "hours_streamed": 23, "streams": 8, "mature": 1, "language": "German", "account_age": 469440.0}

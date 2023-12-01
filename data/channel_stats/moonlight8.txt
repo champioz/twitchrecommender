@@ -1,0 +1,1 @@
+{"channel": "moonlight8", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 13, "hours_streamed": 8, "streams": 5, "mature": 1, "language": "German", "account_age": 1203840.0}

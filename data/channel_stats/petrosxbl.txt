@@ -1,0 +1,1 @@
+{"channel": "petrosxbl", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "English", "account_age": 270720.0}

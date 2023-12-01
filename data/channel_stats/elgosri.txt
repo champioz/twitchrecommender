@@ -1,0 +1,1 @@
+{"channel": "elgosri", "avg_viewers": 1, "followers_gained": 25, "peak_viewers": 9, "hours_streamed": 14, "streams": 15, "mature": 0, "language": "Spanish", "account_age": 833760.0}

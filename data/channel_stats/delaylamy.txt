@@ -1,0 +1,1 @@
+{"channel": "delaylamy", "avg_viewers": 127, "followers_gained": 113, "peak_viewers": 420, "hours_streamed": 79, "streams": 24, "mature": 0, "language": "Russian", "account_age": 1238400.0}

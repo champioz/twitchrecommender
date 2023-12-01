@@ -1,0 +1,1 @@
+{"channel": "giant1", "avg_viewers": 8, "followers_gained": 10, "peak_viewers": 21, "hours_streamed": 31, "streams": 11, "mature": 0, "language": "English", "account_age": 2217600.0}

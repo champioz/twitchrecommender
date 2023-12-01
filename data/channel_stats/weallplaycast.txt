@@ -1,0 +1,1 @@
+{"channel": "weallplaycast", "avg_viewers": 58, "followers_gained": 137, "peak_viewers": 236, "hours_streamed": 99, "streams": 24, "mature": 1, "language": "English", "account_age": 3502080.0}

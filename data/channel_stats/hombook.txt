@@ -1,0 +1,1 @@
+{"channel": "hombook", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 30, "streams": 17, "mature": 0, "language": "Chinese", "account_age": 2845440.0}

@@ -1,0 +1,1 @@
+{"channel": "bruhtoni", "avg_viewers": 26, "followers_gained": 627, "peak_viewers": 57, "hours_streamed": 87, "streams": 18, "mature": 0, "language": "German", "account_age": 2396160.0}

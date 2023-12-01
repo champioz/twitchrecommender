@@ -1,0 +1,1 @@
+{"channel": "nettao", "avg_viewers": 5, "followers_gained": 58, "peak_viewers": 23, "hours_streamed": 55, "streams": 16, "mature": 1, "language": "Portuguese", "account_age": 1825920.0}

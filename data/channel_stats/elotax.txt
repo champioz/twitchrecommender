@@ -1,0 +1,1 @@
+{"channel": "elotax", "avg_viewers": 31, "followers_gained": 7, "peak_viewers": 142, "hours_streamed": 32, "streams": 12, "mature": 1, "language": "German", "account_age": 1481760.0}

@@ -1,0 +1,1 @@
+{"channel": "redarin", "avg_viewers": 5, "followers_gained": 53, "peak_viewers": 22, "hours_streamed": 135, "streams": 15, "mature": 1, "language": "Greek", "account_age": 2691360.0}

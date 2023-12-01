@@ -1,0 +1,1 @@
+{"channel": "guanweiboy", "avg_viewers": 40, "followers_gained": 29, "peak_viewers": 120, "hours_streamed": 28, "streams": 11, "mature": 1, "language": "Chinese", "account_age": 1244160.0}

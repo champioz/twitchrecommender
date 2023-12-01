@@ -1,0 +1,1 @@
+{"channel": "lethalforlife", "avg_viewers": 6, "followers_gained": 102, "peak_viewers": 25, "hours_streamed": 71, "streams": 16, "mature": 0, "language": "English", "account_age": 2403360.0}

@@ -1,0 +1,1 @@
+{"channel": "poblhaa", "avg_viewers": 74, "followers_gained": 20, "peak_viewers": 96, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 2980800.0}

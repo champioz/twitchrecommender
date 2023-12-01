@@ -1,0 +1,1 @@
+{"channel": "twitchrivals", "avg_viewers": 13185, "followers_gained": 55374, "peak_viewers": 47361, "hours_streamed": 89, "streams": 13, "mature": 0, "language": "English", "account_age": 756000.0}

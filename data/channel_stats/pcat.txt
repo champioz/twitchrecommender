@@ -1,0 +1,1 @@
+{"channel": "pcat", "avg_viewers": 15, "followers_gained": 61, "peak_viewers": 36, "hours_streamed": 102, "streams": 26, "mature": 1, "language": "English", "account_age": 3561120.0}

@@ -1,0 +1,1 @@
+{"channel": "xgodricxx", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 3, "streams": 3, "mature": 1, "language": "English", "account_age": 1889280.0}

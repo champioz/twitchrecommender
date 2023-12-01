@@ -1,0 +1,1 @@
+{"channel": "shashken", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 14, "streams": 7, "mature": 1, "language": "French", "account_age": 3310560.0}

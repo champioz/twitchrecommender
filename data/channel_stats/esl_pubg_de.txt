@@ -1,0 +1,1 @@
+{"channel": "esl_pubg_de", "avg_viewers": 483, "followers_gained": 465, "peak_viewers": 1048, "hours_streamed": 38, "streams": 10, "mature": 0, "language": "German", "account_age": 1033920.0}

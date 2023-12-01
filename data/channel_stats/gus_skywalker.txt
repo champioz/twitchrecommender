@@ -1,0 +1,1 @@
+{"channel": "gus_skywalker", "avg_viewers": 133, "followers_gained": 318, "peak_viewers": 238, "hours_streamed": 118, "streams": 21, "mature": 0, "language": "Portuguese", "account_age": 2962080.0}

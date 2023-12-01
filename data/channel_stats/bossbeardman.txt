@@ -1,0 +1,1 @@
+{"channel": "bossbeardman", "avg_viewers": 19, "followers_gained": 229, "peak_viewers": 59, "hours_streamed": 267, "streams": 36, "mature": 1, "language": "English", "account_age": 2939040.0}

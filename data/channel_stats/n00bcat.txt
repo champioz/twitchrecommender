@@ -1,0 +1,1 @@
+{"channel": "n00bcat", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 1, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "French", "account_age": 1208160.0}

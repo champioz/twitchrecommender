@@ -1,0 +1,1 @@
+{"channel": "timy4ej", "avg_viewers": 18, "followers_gained": 96, "peak_viewers": 46, "hours_streamed": 95, "streams": 23, "mature": 1, "language": "Russian", "account_age": 1424160.0}

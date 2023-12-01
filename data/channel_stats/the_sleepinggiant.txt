@@ -1,0 +1,1 @@
+{"channel": "the_sleepinggiant", "avg_viewers": 3, "followers_gained": 40, "peak_viewers": 20, "hours_streamed": 58, "streams": 14, "mature": 0, "language": "Greek", "account_age": 3888000.0}

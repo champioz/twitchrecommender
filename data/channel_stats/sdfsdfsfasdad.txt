@@ -1,0 +1,1 @@
+{"channel": "sdfsdfsfasdad", "avg_viewers": 31, "followers_gained": 165, "peak_viewers": 109, "hours_streamed": 382, "streams": 49, "mature": 0, "language": "Japanese", "account_age": 2288160.0}

@@ -1,0 +1,1 @@
+{"channel": "method", "avg_viewers": 30337, "followers_gained": 97846, "peak_viewers": 127784, "hours_streamed": 308, "streams": 2, "mature": 0, "language": "English", "account_age": 1736640.0}

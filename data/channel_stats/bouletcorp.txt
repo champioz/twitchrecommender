@@ -1,0 +1,1 @@
+{"channel": "bouletcorp", "avg_viewers": 187, "followers_gained": 533, "peak_viewers": 616, "hours_streamed": 57, "streams": 14, "mature": 0, "language": "French", "account_age": 1527840.0}

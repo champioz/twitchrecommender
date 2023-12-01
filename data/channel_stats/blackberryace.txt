@@ -1,0 +1,1 @@
+{"channel": "blackberryace", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 11, "hours_streamed": 46, "streams": 13, "mature": 1, "language": "English", "account_age": 1569600.0}

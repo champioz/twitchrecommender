@@ -1,0 +1,1 @@
+{"channel": "zafiro", "avg_viewers": 43, "followers_gained": 258, "peak_viewers": 103, "hours_streamed": 54, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 3003840.0}

@@ -1,0 +1,1 @@
+{"channel": "punishermm", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Portuguese", "account_age": 118080.0}

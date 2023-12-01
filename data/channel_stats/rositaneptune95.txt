@@ -1,0 +1,1 @@
+{"channel": "rositaneptune95", "avg_viewers": 4, "followers_gained": 48, "peak_viewers": 27, "hours_streamed": 43, "streams": 21, "mature": 1, "language": "Spanish", "account_age": 1346400.0}

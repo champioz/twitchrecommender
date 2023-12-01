@@ -1,0 +1,1 @@
+{"channel": "ievixtv", "avg_viewers": 26, "followers_gained": 24, "peak_viewers": 903, "hours_streamed": 93, "streams": 34, "mature": 1, "language": "German", "account_age": 475200.0}

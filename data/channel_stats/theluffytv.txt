@@ -1,0 +1,1 @@
+{"channel": "theluffytv", "avg_viewers": 12, "followers_gained": 5, "peak_viewers": 25, "hours_streamed": 52, "streams": 19, "mature": 1, "language": "English", "account_age": 2620800.0}

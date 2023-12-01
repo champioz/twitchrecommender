@@ -1,0 +1,1 @@
+{"channel": "djxlr8", "avg_viewers": 10, "followers_gained": 16, "peak_viewers": 29, "hours_streamed": 18, "streams": 2, "mature": 0, "language": "German", "account_age": 1127520.0}

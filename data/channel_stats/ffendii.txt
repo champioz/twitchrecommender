@@ -1,0 +1,1 @@
+{"channel": "ffendii", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 18, "hours_streamed": 21, "streams": 9, "mature": 0, "language": "Thai", "account_age": 1755360.0}

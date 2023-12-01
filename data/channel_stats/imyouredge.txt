@@ -1,0 +1,1 @@
+{"channel": "imyouredge", "avg_viewers": 97, "followers_gained": 6196, "peak_viewers": 233, "hours_streamed": 140, "streams": 26, "mature": 0, "language": "English", "account_age": 1795680.0}

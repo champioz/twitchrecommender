@@ -1,0 +1,1 @@
+{"channel": "meycka", "avg_viewers": 11, "followers_gained": 5, "peak_viewers": 37, "hours_streamed": 4, "streams": 4, "mature": 1, "language": "French", "account_age": 240480.0}

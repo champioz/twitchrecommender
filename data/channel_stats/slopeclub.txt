@@ -1,0 +1,1 @@
+{"channel": "slopeclub", "avg_viewers": 21, "followers_gained": 6, "peak_viewers": 31, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "English", "account_age": 645120.0}

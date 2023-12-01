@@ -1,0 +1,1 @@
+{"channel": "alkaleb97", "avg_viewers": 185, "followers_gained": 381, "peak_viewers": 541, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 1559520.0}

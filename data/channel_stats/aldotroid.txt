@@ -1,0 +1,1 @@
+{"channel": "aldotroid", "avg_viewers": 4, "followers_gained": 13, "peak_viewers": 10, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 3182400.0}

@@ -1,0 +1,1 @@
+{"channel": "saint2608", "avg_viewers": 242, "followers_gained": 206, "peak_viewers": 448, "hours_streamed": 9, "streams": 2, "mature": 1, "language": "German", "account_age": 1913760.0}

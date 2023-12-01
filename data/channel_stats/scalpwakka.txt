@@ -1,0 +1,1 @@
+{"channel": "scalpwakka", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 11, "hours_streamed": 32, "streams": 15, "mature": 0, "language": "English", "account_age": 668160.0}

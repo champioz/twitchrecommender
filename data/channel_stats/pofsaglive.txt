@@ -1,0 +1,1 @@
+{"channel": "pofsaglive", "avg_viewers": 0, "followers_gained": 21, "peak_viewers": 6, "hours_streamed": 118, "streams": 17, "mature": 0, "language": "English", "account_age": 1182240.0}

@@ -1,0 +1,1 @@
+{"channel": "notoriousnaru", "avg_viewers": 94, "followers_gained": 197, "peak_viewers": 227, "hours_streamed": 58, "streams": 20, "mature": 0, "language": "English", "account_age": 1332000.0}

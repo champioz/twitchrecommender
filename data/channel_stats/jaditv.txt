@@ -1,0 +1,1 @@
+{"channel": "jaditv", "avg_viewers": 160, "followers_gained": 2497, "peak_viewers": 381, "hours_streamed": 210, "streams": 31, "mature": 1, "language": "German", "account_age": 2394720.0}

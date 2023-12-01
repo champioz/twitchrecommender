@@ -1,0 +1,1 @@
+{"channel": "meguning", "avg_viewers": 5, "followers_gained": 5, "peak_viewers": 15, "hours_streamed": 22, "streams": 6, "mature": 0, "language": "Korean", "account_age": 764640.0}

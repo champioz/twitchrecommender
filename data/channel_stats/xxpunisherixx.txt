@@ -1,0 +1,1 @@
+{"channel": "xxpunisherixx", "avg_viewers": 35, "followers_gained": 22, "peak_viewers": 60, "hours_streamed": 19, "streams": 5, "mature": 1, "language": "Finnish", "account_age": 2368800.0}

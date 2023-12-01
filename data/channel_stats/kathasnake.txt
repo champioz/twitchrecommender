@@ -1,0 +1,1 @@
+{"channel": "kathasnake", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 11, "hours_streamed": 16, "streams": 6, "mature": 0, "language": "German", "account_age": 1864800.0}

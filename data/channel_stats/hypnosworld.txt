@@ -1,0 +1,1 @@
+{"channel": "hypnosworld", "avg_viewers": 52, "followers_gained": 141, "peak_viewers": 137, "hours_streamed": 163, "streams": 22, "mature": 1, "language": "German", "account_age": 2476800.0}

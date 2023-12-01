@@ -1,0 +1,1 @@
+{"channel": "jasminemilktea", "avg_viewers": 73, "followers_gained": 154, "peak_viewers": 173, "hours_streamed": 44, "streams": 10, "mature": 0, "language": "English", "account_age": 3205440.0}

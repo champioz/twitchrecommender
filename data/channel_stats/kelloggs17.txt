@@ -1,0 +1,1 @@
+{"channel": "kelloggs17", "avg_viewers": 14, "followers_gained": 43, "peak_viewers": 36, "hours_streamed": 40, "streams": 10, "mature": 1, "language": "English", "account_age": 2854080.0}

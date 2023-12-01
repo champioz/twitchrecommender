@@ -1,0 +1,1 @@
+{"channel": "luniasc", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 10, "hours_streamed": 50, "streams": 17, "mature": 0, "language": "German", "account_age": 4445280.0}

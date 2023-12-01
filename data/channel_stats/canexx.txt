@@ -1,0 +1,1 @@
+{"channel": "canexx", "avg_viewers": 24, "followers_gained": 68, "peak_viewers": 83, "hours_streamed": 143, "streams": 13, "mature": 0, "language": "English", "account_age": 3335040.0}

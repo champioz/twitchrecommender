@@ -1,0 +1,1 @@
+{"channel": "onecaocao", "avg_viewers": 309, "followers_gained": 304, "peak_viewers": 548, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "Korean", "account_age": 295200.0}

@@ -1,0 +1,1 @@
+{"channel": "imjohnwaynee", "avg_viewers": 2, "followers_gained": 30, "peak_viewers": 9, "hours_streamed": 105, "streams": 28, "mature": 0, "language": "Portuguese", "account_age": 2342880.0}

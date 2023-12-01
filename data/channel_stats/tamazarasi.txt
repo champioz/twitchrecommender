@@ -1,0 +1,1 @@
+{"channel": "tamazarasi", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 30, "hours_streamed": 24, "streams": 9, "mature": 0, "language": "Chinese", "account_age": 1931040.0}

@@ -1,0 +1,1 @@
+{"channel": "krissy", "avg_viewers": 33, "followers_gained": 35, "peak_viewers": 92, "hours_streamed": 76, "streams": 17, "mature": 1, "language": "Norwegian", "account_age": 2583360.0}

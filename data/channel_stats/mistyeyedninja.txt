@@ -1,0 +1,1 @@
+{"channel": "mistyeyedninja", "avg_viewers": 7, "followers_gained": 17, "peak_viewers": 24, "hours_streamed": 26, "streams": 15, "mature": 0, "language": "English", "account_age": 2242080.0}

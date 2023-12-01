@@ -1,0 +1,1 @@
+{"channel": "sqweekslj", "avg_viewers": 12, "followers_gained": 20, "peak_viewers": 19, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "English", "account_age": 783360.0}

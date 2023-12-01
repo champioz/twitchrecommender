@@ -1,0 +1,1 @@
+{"channel": "kirushka__", "avg_viewers": 10, "followers_gained": 10, "peak_viewers": 54, "hours_streamed": 19, "streams": 13, "mature": 0, "language": "Russian", "account_age": 1504800.0}

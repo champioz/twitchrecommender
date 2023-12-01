@@ -1,0 +1,1 @@
+{"channel": "sudoyt", "avg_viewers": 6, "followers_gained": 36, "peak_viewers": 20, "hours_streamed": 66, "streams": 20, "mature": 0, "language": "French", "account_age": 642240.0}

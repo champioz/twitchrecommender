@@ -1,0 +1,1 @@
+{"channel": "marimajor", "avg_viewers": 15, "followers_gained": 223, "peak_viewers": 42, "hours_streamed": 232, "streams": 37, "mature": 1, "language": "English", "account_age": 241920.0}

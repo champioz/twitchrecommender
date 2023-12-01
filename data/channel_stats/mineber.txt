@@ -1,0 +1,1 @@
+{"channel": "mineber", "avg_viewers": 2, "followers_gained": 18, "peak_viewers": 9, "hours_streamed": 25, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 3103200.0}

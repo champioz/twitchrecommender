@@ -1,0 +1,1 @@
+{"channel": "ankamalive", "avg_viewers": 1318, "followers_gained": 2404, "peak_viewers": 2254, "hours_streamed": 11, "streams": 4, "mature": 0, "language": "French", "account_age": 820800.0}

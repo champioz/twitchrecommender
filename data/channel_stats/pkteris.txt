@@ -1,0 +1,1 @@
+{"channel": "pkteris", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 13, "hours_streamed": 4, "streams": 5, "mature": 0, "language": "Korean", "account_age": 1249920.0}

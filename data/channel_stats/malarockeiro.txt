@@ -1,0 +1,1 @@
+{"channel": "malarockeiro", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "Portuguese", "account_age": 1221120.0}

@@ -1,0 +1,1 @@
+{"channel": "thespartanshow", "avg_viewers": 40, "followers_gained": 58, "peak_viewers": 220, "hours_streamed": 27, "streams": 7, "mature": 0, "language": "English", "account_age": 3359520.0}

@@ -1,0 +1,1 @@
+{"channel": "videogameroulette", "avg_viewers": 10, "followers_gained": 35, "peak_viewers": 31, "hours_streamed": 168, "streams": 30, "mature": 1, "language": "English", "account_age": 2214720.0}

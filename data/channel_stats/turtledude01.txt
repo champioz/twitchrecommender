@@ -1,0 +1,1 @@
+{"channel": "turtledude01", "avg_viewers": 5, "followers_gained": 71, "peak_viewers": 28, "hours_streamed": 64, "streams": 25, "mature": 1, "language": "English", "account_age": 3945600.0}

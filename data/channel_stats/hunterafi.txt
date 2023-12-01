@@ -1,0 +1,1 @@
+{"channel": "hunterafi", "avg_viewers": 8, "followers_gained": 29, "peak_viewers": 26, "hours_streamed": 118, "streams": 24, "mature": 1, "language": "English", "account_age": 1948320.0}

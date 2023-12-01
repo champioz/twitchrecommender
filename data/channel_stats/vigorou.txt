@@ -1,0 +1,1 @@
+{"channel": "vigorou", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 16, "streams": 8, "mature": 0, "language": "Turkish", "account_age": 2473920.0}

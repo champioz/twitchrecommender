@@ -1,0 +1,1 @@
+{"channel": "tropicexp", "avg_viewers": 7, "followers_gained": 46, "peak_viewers": 31, "hours_streamed": 97, "streams": 30, "mature": 1, "language": "Swedish", "account_age": 2721600.0}

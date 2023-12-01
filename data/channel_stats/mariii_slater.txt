@@ -1,0 +1,1 @@
+{"channel": "mariii_slater", "avg_viewers": 3, "followers_gained": 37, "peak_viewers": 13, "hours_streamed": 47, "streams": 11, "mature": 1, "language": "German", "account_age": 1582560.0}

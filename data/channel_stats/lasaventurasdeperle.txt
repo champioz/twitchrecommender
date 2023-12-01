@@ -1,0 +1,1 @@
+{"channel": "lasaventurasdeperle", "avg_viewers": 27, "followers_gained": 0, "peak_viewers": 43, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 3257280.0}

@@ -1,0 +1,1 @@
+{"channel": "mrcaros_", "avg_viewers": 5, "followers_gained": 48, "peak_viewers": 115, "hours_streamed": 60, "streams": 18, "mature": 0, "language": "Italian", "account_age": 660960.0}

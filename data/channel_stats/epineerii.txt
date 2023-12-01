@@ -1,0 +1,1 @@
+{"channel": "epineerii", "avg_viewers": 15, "followers_gained": 2, "peak_viewers": 28, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "Finnish", "account_age": 1853280.0}

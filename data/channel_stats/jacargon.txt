@@ -1,0 +1,1 @@
+{"channel": "jacargon", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 115, "hours_streamed": 83, "streams": 15, "mature": 1, "language": "English", "account_age": 3427200.0}

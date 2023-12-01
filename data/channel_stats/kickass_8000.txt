@@ -1,0 +1,1 @@
+{"channel": "kickass_8000", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 7, "streams": 13, "mature": 0, "language": "English", "account_age": 2079360.0}

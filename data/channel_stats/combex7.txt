@@ -1,0 +1,1 @@
+{"channel": "combex7", "avg_viewers": 14, "followers_gained": 30, "peak_viewers": 28, "hours_streamed": 3, "streams": 6, "mature": 0, "language": "Japanese", "account_age": 1088640.0}

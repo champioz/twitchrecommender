@@ -1,0 +1,1 @@
+{"channel": "calebdmtg", "avg_viewers": 1374, "followers_gained": 949, "peak_viewers": 2656, "hours_streamed": 196, "streams": 30, "mature": 1, "language": "English", "account_age": 3644640.0}

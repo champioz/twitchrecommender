@@ -1,0 +1,1 @@
+{"channel": "tuffman29", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 17, "hours_streamed": 50, "streams": 22, "mature": 1, "language": "English", "account_age": 2780640.0}

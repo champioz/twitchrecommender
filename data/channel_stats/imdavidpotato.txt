@@ -1,0 +1,1 @@
+{"channel": "imdavidpotato", "avg_viewers": 1, "followers_gained": 60, "peak_viewers": 25, "hours_streamed": 150, "streams": 65, "mature": 0, "language": "Spanish", "account_age": 1091520.0}

@@ -1,0 +1,1 @@
+{"channel": "ravenivey", "avg_viewers": 5, "followers_gained": 50, "peak_viewers": 14, "hours_streamed": 52, "streams": 12, "mature": 1, "language": "English", "account_age": 548640.0}

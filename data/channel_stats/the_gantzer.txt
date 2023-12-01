@@ -1,0 +1,1 @@
+{"channel": "the_gantzer", "avg_viewers": 14, "followers_gained": 58, "peak_viewers": 27, "hours_streamed": 45, "streams": 14, "mature": 1, "language": "Spanish", "account_age": 1991520.0}

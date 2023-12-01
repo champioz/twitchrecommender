@@ -1,0 +1,1 @@
+{"channel": "bahedur", "avg_viewers": 3, "followers_gained": 21, "peak_viewers": 27, "hours_streamed": 163, "streams": 28, "mature": 0, "language": "Polish", "account_age": 3222720.0}

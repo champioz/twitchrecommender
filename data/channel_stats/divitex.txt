@@ -1,0 +1,1 @@
+{"channel": "divitex", "avg_viewers": 4, "followers_gained": 35, "peak_viewers": 34, "hours_streamed": 77, "streams": 22, "mature": 1, "language": "Spanish", "account_age": 171360.0}

@@ -1,0 +1,1 @@
+{"channel": "apastelwitch", "avg_viewers": 18, "followers_gained": 104, "peak_viewers": 52, "hours_streamed": 57, "streams": 15, "mature": 1, "language": "English", "account_age": 1280160.0}

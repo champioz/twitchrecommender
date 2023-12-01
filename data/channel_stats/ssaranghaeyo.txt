@@ -1,0 +1,1 @@
+{"channel": "ssaranghaeyo", "avg_viewers": 21, "followers_gained": 29, "peak_viewers": 54, "hours_streamed": 81, "streams": 27, "mature": 0, "language": "Korean", "account_age": 483840.0}

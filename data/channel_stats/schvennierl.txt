@@ -1,0 +1,1 @@
+{"channel": "schvennierl", "avg_viewers": 5, "followers_gained": 32, "peak_viewers": 13, "hours_streamed": 25, "streams": 12, "mature": 0, "language": "German", "account_age": 793440.0}

@@ -1,0 +1,1 @@
+{"channel": "followmisterwinner", "avg_viewers": 13, "followers_gained": 67, "peak_viewers": 250, "hours_streamed": 171, "streams": 53, "mature": 0, "language": "Russian", "account_age": 3924000.0}

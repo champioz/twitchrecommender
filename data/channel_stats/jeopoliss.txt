@@ -1,0 +1,1 @@
+{"channel": "jeopoliss", "avg_viewers": 36, "followers_gained": 17, "peak_viewers": 47, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 2980800.0}

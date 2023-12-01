@@ -1,0 +1,1 @@
+{"channel": "makilandia", "avg_viewers": 6, "followers_gained": 39, "peak_viewers": 19, "hours_streamed": 92, "streams": 24, "mature": 0, "language": "Portuguese", "account_age": 1411200.0}

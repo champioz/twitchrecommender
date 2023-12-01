@@ -1,0 +1,1 @@
+{"channel": "piter_v2", "avg_viewers": 37, "followers_gained": 215, "peak_viewers": 114, "hours_streamed": 71, "streams": 25, "mature": 0, "language": "Polish", "account_age": 1209600.0}

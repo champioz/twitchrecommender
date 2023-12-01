@@ -1,0 +1,1 @@
+{"channel": "klondz", "avg_viewers": 4, "followers_gained": 50, "peak_viewers": 30, "hours_streamed": 77, "streams": 28, "mature": 1, "language": "French", "account_age": 2183040.0}

@@ -1,0 +1,1 @@
+{"channel": "t1moooon", "avg_viewers": 115, "followers_gained": 52, "peak_viewers": 274, "hours_streamed": 24, "streams": 10, "mature": 1, "language": "Russian", "account_age": 1540800.0}

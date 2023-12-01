@@ -1,0 +1,1 @@
+{"channel": "arkcard", "avg_viewers": 166, "followers_gained": 195, "peak_viewers": 291, "hours_streamed": 147, "streams": 22, "mature": 0, "language": "English", "account_age": 3088800.0}

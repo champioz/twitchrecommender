@@ -1,0 +1,1 @@
+{"channel": "xomadafack", "avg_viewers": 7, "followers_gained": 62, "peak_viewers": 54, "hours_streamed": 84, "streams": 22, "mature": 1, "language": "French", "account_age": 2589120.0}

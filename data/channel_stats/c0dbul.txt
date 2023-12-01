@@ -1,0 +1,1 @@
+{"channel": "c0dbul", "avg_viewers": 2, "followers_gained": 476, "peak_viewers": 10, "hours_streamed": 264, "streams": 40, "mature": 0, "language": "Bulgarian", "account_age": 4308480.0}

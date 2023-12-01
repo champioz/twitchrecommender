@@ -1,0 +1,1 @@
+{"channel": "nazawoo", "avg_viewers": 31, "followers_gained": 44, "peak_viewers": 82, "hours_streamed": 40, "streams": 12, "mature": 1, "language": "Russian", "account_age": 3404160.0}

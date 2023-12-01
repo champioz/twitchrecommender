@@ -1,0 +1,1 @@
+{"channel": "looneyy__", "avg_viewers": 3, "followers_gained": 143, "peak_viewers": 14, "hours_streamed": 132, "streams": 34, "mature": 0, "language": "English", "account_age": 249120.0}

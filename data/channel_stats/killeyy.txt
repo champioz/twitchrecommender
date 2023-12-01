@@ -1,0 +1,1 @@
+{"channel": "killeyy", "avg_viewers": 114, "followers_gained": 105, "peak_viewers": 388, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "English", "account_age": 1707840.0}

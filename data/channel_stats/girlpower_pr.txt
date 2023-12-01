@@ -1,0 +1,1 @@
+{"channel": "girlpower_pr", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 2, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 760320.0}

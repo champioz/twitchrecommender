@@ -1,0 +1,1 @@
+{"channel": "kirimo", "avg_viewers": 10, "followers_gained": 20, "peak_viewers": 26, "hours_streamed": 67, "streams": 17, "mature": 0, "language": "German", "account_age": 2869920.0}

@@ -1,0 +1,1 @@
+{"channel": "degger_tr", "avg_viewers": 19, "followers_gained": 384, "peak_viewers": 41, "hours_streamed": 124, "streams": 25, "mature": 0, "language": "German", "account_age": 794880.0}

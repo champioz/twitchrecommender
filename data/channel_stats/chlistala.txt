@@ -1,0 +1,1 @@
+{"channel": "chlistala", "avg_viewers": 19, "followers_gained": 50, "peak_viewers": 72, "hours_streamed": 31, "streams": 14, "mature": 1, "language": "German", "account_age": 2898720.0}

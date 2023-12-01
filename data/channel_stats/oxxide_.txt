@@ -1,0 +1,1 @@
+{"channel": "oxxide_", "avg_viewers": 11, "followers_gained": 34, "peak_viewers": 22, "hours_streamed": 62, "streams": 20, "mature": 0, "language": "English", "account_age": 722880.0}

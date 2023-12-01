@@ -1,0 +1,1 @@
+{"channel": "ihaldur", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 69, "streams": 12, "mature": 1, "language": "German", "account_age": 3451680.0}

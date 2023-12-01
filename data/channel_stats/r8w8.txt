@@ -1,0 +1,1 @@
+{"channel": "r8w8", "avg_viewers": 22, "followers_gained": 89, "peak_viewers": 44, "hours_streamed": 16, "streams": 8, "mature": 0, "language": "English", "account_age": 2072160.0}

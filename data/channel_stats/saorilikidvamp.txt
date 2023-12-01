@@ -1,0 +1,1 @@
+{"channel": "saorilikidvamp", "avg_viewers": 8, "followers_gained": 124, "peak_viewers": 26, "hours_streamed": 107, "streams": 22, "mature": 1, "language": "Spanish", "account_age": 2864160.0}

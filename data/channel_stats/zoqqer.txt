@@ -1,0 +1,1 @@
+{"channel": "zoqqer", "avg_viewers": 91, "followers_gained": 845, "peak_viewers": 199, "hours_streamed": 33, "streams": 8, "mature": 1, "language": "German", "account_age": 1828800.0}

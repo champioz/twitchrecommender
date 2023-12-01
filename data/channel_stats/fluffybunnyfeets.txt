@@ -1,0 +1,1 @@
+{"channel": "fluffybunnyfeets", "avg_viewers": 10, "followers_gained": 45, "peak_viewers": 61, "hours_streamed": 141, "streams": 60, "mature": 1, "language": "English", "account_age": 1873440.0}

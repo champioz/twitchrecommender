@@ -1,0 +1,1 @@
+{"channel": "tebeotj", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 5, "streams": 3, "mature": 1, "language": "English", "account_age": 2404800.0}

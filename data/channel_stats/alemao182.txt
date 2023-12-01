@@ -1,0 +1,1 @@
+{"channel": "alemao182", "avg_viewers": 168, "followers_gained": 172, "peak_viewers": 241, "hours_streamed": 14, "streams": 3, "mature": 0, "language": "Portuguese", "account_age": 1517760.0}

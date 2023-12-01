@@ -1,0 +1,1 @@
+{"channel": "talyrja", "avg_viewers": 88, "followers_gained": 221, "peak_viewers": 178, "hours_streamed": 68, "streams": 21, "mature": 1, "language": "French", "account_age": 868320.0}

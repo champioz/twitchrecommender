@@ -1,0 +1,1 @@
+{"channel": "joeasu", "avg_viewers": 31, "followers_gained": 240, "peak_viewers": 149, "hours_streamed": 171, "streams": 60, "mature": 0, "language": "English", "account_age": 190080.0}

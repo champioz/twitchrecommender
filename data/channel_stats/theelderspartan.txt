@@ -1,0 +1,1 @@
+{"channel": "theelderspartan", "avg_viewers": 2, "followers_gained": 23, "peak_viewers": 29, "hours_streamed": 210, "streams": 34, "mature": 1, "language": "English", "account_age": 751680.0}

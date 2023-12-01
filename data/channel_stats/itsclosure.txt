@@ -1,0 +1,1 @@
+{"channel": "itsclosure", "avg_viewers": 12, "followers_gained": 198, "peak_viewers": 27, "hours_streamed": 152, "streams": 31, "mature": 0, "language": "English", "account_age": 387360.0}

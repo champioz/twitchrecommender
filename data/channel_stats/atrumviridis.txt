@@ -1,0 +1,1 @@
+{"channel": "atrumviridis", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 0, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "English", "account_age": 823680.0}

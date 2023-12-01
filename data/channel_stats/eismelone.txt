@@ -1,0 +1,1 @@
+{"channel": "eismelone", "avg_viewers": 157, "followers_gained": 171377, "peak_viewers": 1283, "hours_streamed": 71, "streams": 14, "mature": 1, "language": "German", "account_age": 2964960.0}

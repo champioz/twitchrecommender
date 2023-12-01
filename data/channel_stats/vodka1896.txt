@@ -1,0 +1,1 @@
+{"channel": "vodka1896", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 27, "hours_streamed": 76, "streams": 16, "mature": 1, "language": "German", "account_age": 878400.0}

@@ -1,0 +1,1 @@
+{"channel": "vidiotsofficial", "avg_viewers": 99, "followers_gained": 6, "peak_viewers": 115, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 799200.0}

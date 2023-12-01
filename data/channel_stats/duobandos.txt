@@ -1,0 +1,1 @@
+{"channel": "duobandos", "avg_viewers": 27, "followers_gained": 29, "peak_viewers": 195, "hours_streamed": 37, "streams": 34, "mature": 0, "language": "English", "account_age": 3316320.0}

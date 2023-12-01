@@ -1,0 +1,1 @@
+{"channel": "studiorenegade", "avg_viewers": 25, "followers_gained": 42, "peak_viewers": 88, "hours_streamed": 106, "streams": 62, "mature": 0, "language": "French", "account_age": 2247840.0}

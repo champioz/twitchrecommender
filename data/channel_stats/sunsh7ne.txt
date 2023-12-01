@@ -1,0 +1,1 @@
+{"channel": "sunsh7ne", "avg_viewers": 4, "followers_gained": 38, "peak_viewers": 21, "hours_streamed": 66, "streams": 20, "mature": 0, "language": "English", "account_age": 1363680.0}

@@ -1,0 +1,1 @@
+{"channel": "vert", "avg_viewers": 325, "followers_gained": 694, "peak_viewers": 983, "hours_streamed": 171, "streams": 25, "mature": 0, "language": "English", "account_age": 4085280.0}

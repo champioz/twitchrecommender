@@ -1,0 +1,1 @@
+{"channel": "brakal", "avg_viewers": 166, "followers_gained": 15, "peak_viewers": 477, "hours_streamed": 236, "streams": 33, "mature": 1, "language": "Spanish", "account_age": 3751200.0}

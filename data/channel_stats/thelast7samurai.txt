@@ -1,0 +1,1 @@
+{"channel": "thelast7samurai", "avg_viewers": 25, "followers_gained": 2, "peak_viewers": 30, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 763200.0}

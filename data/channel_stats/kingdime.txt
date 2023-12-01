@@ -1,0 +1,1 @@
+{"channel": "kingdime", "avg_viewers": 63, "followers_gained": 47, "peak_viewers": 139, "hours_streamed": 25, "streams": 11, "mature": 1, "language": "English", "account_age": 4443840.0}

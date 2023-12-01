@@ -1,0 +1,1 @@
+{"channel": "quadthegod", "avg_viewers": 16, "followers_gained": 77, "peak_viewers": 42, "hours_streamed": 188, "streams": 28, "mature": 1, "language": "English", "account_age": 3733920.0}

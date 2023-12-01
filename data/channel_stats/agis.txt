@@ -1,0 +1,1 @@
+{"channel": "agis", "avg_viewers": 33, "followers_gained": 62, "peak_viewers": 81, "hours_streamed": 29, "streams": 11, "mature": 0, "language": "Polish", "account_age": 3993120.0}

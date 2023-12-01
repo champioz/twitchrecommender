@@ -1,0 +1,1 @@
+{"channel": "obeycrow", "avg_viewers": 26, "followers_gained": 335, "peak_viewers": 103, "hours_streamed": 205, "streams": 44, "mature": 0, "language": "English", "account_age": 2386080.0}

@@ -1,0 +1,1 @@
+{"channel": "monkey80467", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 9, "streams": 5, "mature": 0, "language": "Chinese", "account_age": 3640320.0}

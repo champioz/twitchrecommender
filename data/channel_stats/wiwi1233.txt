@@ -1,0 +1,1 @@
+{"channel": "wiwi1233", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 13, "hours_streamed": 66, "streams": 15, "mature": 0, "language": "Korean", "account_age": 1350720.0}

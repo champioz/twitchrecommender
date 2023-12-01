@@ -1,0 +1,1 @@
+{"channel": "gatonix", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 13, "hours_streamed": 17, "streams": 10, "mature": 0, "language": "Spanish", "account_age": 1180800.0}

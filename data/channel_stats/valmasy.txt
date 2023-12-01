@@ -1,0 +1,1 @@
+{"channel": "valmasy", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 15, "hours_streamed": 51, "streams": 18, "mature": 1, "language": "English", "account_age": 2090880.0}

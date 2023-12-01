@@ -1,0 +1,1 @@
+{"channel": "silentk1ller16", "avg_viewers": 6, "followers_gained": 69, "peak_viewers": 45, "hours_streamed": 75, "streams": 14, "mature": 1, "language": "English", "account_age": 264960.0}

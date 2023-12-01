@@ -1,0 +1,1 @@
+{"channel": "jundertv", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 3, "streams": 2, "mature": 1, "language": "German", "account_age": 925920.0}

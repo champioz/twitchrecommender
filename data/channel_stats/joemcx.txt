@@ -1,0 +1,1 @@
+{"channel": "joemcx", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 2, "streams": 6, "mature": 0, "language": "English", "account_age": 744480.0}

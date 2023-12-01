@@ -1,0 +1,1 @@
+{"channel": "eswoogi", "avg_viewers": 35, "followers_gained": 34, "peak_viewers": 501, "hours_streamed": 191, "streams": 29, "mature": 1, "language": "English", "account_age": 2256480.0}

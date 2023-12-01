@@ -1,0 +1,1 @@
+{"channel": "angelsky", "avg_viewers": 21, "followers_gained": 1, "peak_viewers": 38, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "Russian", "account_age": 1958400.0}

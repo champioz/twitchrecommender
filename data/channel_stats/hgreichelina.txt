@@ -1,0 +1,1 @@
+{"channel": "hgreichelina", "avg_viewers": 12, "followers_gained": 236, "peak_viewers": 33, "hours_streamed": 46, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 947520.0}

@@ -1,0 +1,1 @@
+{"channel": "djcanhon", "avg_viewers": 5, "followers_gained": 153, "peak_viewers": 98, "hours_streamed": 50, "streams": 20, "mature": 1, "language": "Spanish", "account_age": 797760.0}

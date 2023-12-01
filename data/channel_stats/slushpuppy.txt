@@ -1,0 +1,1 @@
+{"channel": "slushpuppy", "avg_viewers": 396, "followers_gained": 2958, "peak_viewers": 1261, "hours_streamed": 301, "streams": 31, "mature": 0, "language": "English", "account_age": 1332000.0}

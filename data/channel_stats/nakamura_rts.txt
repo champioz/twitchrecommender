@@ -1,0 +1,1 @@
+{"channel": "nakamura_rts", "avg_viewers": 25, "followers_gained": 18, "peak_viewers": 81, "hours_streamed": 19, "streams": 8, "mature": 0, "language": "English", "account_age": 4135680.0}

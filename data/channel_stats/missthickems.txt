@@ -1,0 +1,1 @@
+{"channel": "missthickems", "avg_viewers": 33, "followers_gained": 191, "peak_viewers": 64, "hours_streamed": 92, "streams": 25, "mature": 0, "language": "English", "account_age": 563040.0}

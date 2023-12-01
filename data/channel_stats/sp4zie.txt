@@ -1,0 +1,1 @@
+{"channel": "sp4zie", "avg_viewers": 994, "followers_gained": 1093, "peak_viewers": 2488, "hours_streamed": 103, "streams": 29, "mature": 0, "language": "English", "account_age": 3905280.0}

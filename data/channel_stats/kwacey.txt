@@ -1,0 +1,1 @@
+{"channel": "kwacey", "avg_viewers": 3, "followers_gained": 18, "peak_viewers": 20, "hours_streamed": 63, "streams": 15, "mature": 0, "language": "English", "account_age": 2082240.0}

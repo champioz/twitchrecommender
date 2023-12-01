@@ -1,0 +1,1 @@
+{"channel": "spexy", "avg_viewers": 11, "followers_gained": 4, "peak_viewers": 28, "hours_streamed": 62, "streams": 14, "mature": 1, "language": "English", "account_age": 2612160.0}

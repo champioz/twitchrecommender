@@ -1,0 +1,1 @@
+{"channel": "tgsanime", "avg_viewers": 44, "followers_gained": 326, "peak_viewers": 122, "hours_streamed": 41, "streams": 15, "mature": 0, "language": "English", "account_age": 3168000.0}

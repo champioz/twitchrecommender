@@ -1,0 +1,1 @@
+{"channel": "yresskr", "avg_viewers": 16, "followers_gained": 9, "peak_viewers": 41, "hours_streamed": 23, "streams": 13, "mature": 0, "language": "Korean", "account_age": 1124640.0}

@@ -1,0 +1,1 @@
+{"channel": "peg88", "avg_viewers": 34, "followers_gained": 1172, "peak_viewers": 85, "hours_streamed": 213, "streams": 59, "mature": 0, "language": "Swedish", "account_age": 2753280.0}

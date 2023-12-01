@@ -1,0 +1,1 @@
+{"channel": "ggemi", "avg_viewers": 6, "followers_gained": 20, "peak_viewers": 14, "hours_streamed": 45, "streams": 16, "mature": 1, "language": "English", "account_age": 1552320.0}

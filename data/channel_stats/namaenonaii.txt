@@ -1,0 +1,1 @@
+{"channel": "namaenonaii", "avg_viewers": 42, "followers_gained": 205, "peak_viewers": 145, "hours_streamed": 50, "streams": 13, "mature": 0, "language": "Polish", "account_age": 1352160.0}

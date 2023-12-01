@@ -1,0 +1,1 @@
+{"channel": "kanitaa", "avg_viewers": 30, "followers_gained": 213, "peak_viewers": 95, "hours_streamed": 148, "streams": 30, "mature": 1, "language": "Finnish", "account_age": 2882880.0}

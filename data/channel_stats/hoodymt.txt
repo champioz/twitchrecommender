@@ -1,0 +1,1 @@
+{"channel": "hoodymt", "avg_viewers": 78, "followers_gained": 328, "peak_viewers": 292, "hours_streamed": 166, "streams": 41, "mature": 1, "language": "German", "account_age": 2773440.0}

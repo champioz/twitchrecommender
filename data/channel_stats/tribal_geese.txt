@@ -1,0 +1,1 @@
+{"channel": "tribal_geese", "avg_viewers": 31, "followers_gained": 38, "peak_viewers": 193, "hours_streamed": 90, "streams": 16, "mature": 0, "language": "English", "account_age": 2604960.0}

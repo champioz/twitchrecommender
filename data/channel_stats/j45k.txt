@@ -1,0 +1,1 @@
+{"channel": "j45k", "avg_viewers": 4, "followers_gained": 83, "peak_viewers": 28, "hours_streamed": 213, "streams": 32, "mature": 0, "language": "English", "account_age": 1127520.0}

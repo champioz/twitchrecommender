@@ -1,0 +1,1 @@
+{"channel": "thedroyal", "avg_viewers": 131, "followers_gained": 40, "peak_viewers": 362, "hours_streamed": 105, "streams": 29, "mature": 1, "language": "Japanese", "account_age": 876960.0}

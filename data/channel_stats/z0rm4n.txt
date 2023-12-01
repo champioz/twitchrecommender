@@ -1,0 +1,1 @@
+{"channel": "z0rm4n", "avg_viewers": 5, "followers_gained": 24, "peak_viewers": 23, "hours_streamed": 60, "streams": 17, "mature": 1, "language": "Portuguese", "account_age": 2073600.0}

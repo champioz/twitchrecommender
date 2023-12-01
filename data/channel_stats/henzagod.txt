@@ -1,0 +1,1 @@
+{"channel": "henzagod", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 0, "streams": 2, "mature": 0, "language": "English", "account_age": 1719360.0}

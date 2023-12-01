@@ -1,0 +1,1 @@
+{"channel": "tweekylightning", "avg_viewers": 2, "followers_gained": 19, "peak_viewers": 28, "hours_streamed": 71, "streams": 14, "mature": 0, "language": "English", "account_age": 3339360.0}

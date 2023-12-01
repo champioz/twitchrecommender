@@ -1,0 +1,1 @@
+{"channel": "lemynaid", "avg_viewers": 57, "followers_gained": 153, "peak_viewers": 125, "hours_streamed": 50, "streams": 14, "mature": 0, "language": "English", "account_age": 4285440.0}

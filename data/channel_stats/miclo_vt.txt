@@ -1,0 +1,1 @@
+{"channel": "miclo_vt", "avg_viewers": 6, "followers_gained": 23, "peak_viewers": 23, "hours_streamed": 86, "streams": 28, "mature": 1, "language": "Spanish", "account_age": 1437120.0}

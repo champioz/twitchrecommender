@@ -1,0 +1,1 @@
+{"channel": "gusbusofficial", "avg_viewers": 5, "followers_gained": 21, "peak_viewers": 31, "hours_streamed": 55, "streams": 16, "mature": 0, "language": "English", "account_age": 2845440.0}

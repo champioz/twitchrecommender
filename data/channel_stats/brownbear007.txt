@@ -1,0 +1,1 @@
+{"channel": "brownbear007", "avg_viewers": 3, "followers_gained": 18, "peak_viewers": 10, "hours_streamed": 26, "streams": 11, "mature": 0, "language": "English", "account_age": 1956960.0}

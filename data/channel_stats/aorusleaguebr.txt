@@ -1,0 +1,1 @@
+{"channel": "aorusleaguebr", "avg_viewers": 12, "followers_gained": 9, "peak_viewers": 17, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 766080.0}

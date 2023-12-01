@@ -1,0 +1,1 @@
+{"channel": "uocat", "avg_viewers": 7, "followers_gained": 47, "peak_viewers": 34, "hours_streamed": 144, "streams": 28, "mature": 0, "language": "Chinese", "account_age": 3394080.0}

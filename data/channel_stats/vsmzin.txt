@@ -1,0 +1,1 @@
+{"channel": "vsmzin", "avg_viewers": 1135, "followers_gained": 5560, "peak_viewers": 2405, "hours_streamed": 55, "streams": 13, "mature": 1, "language": "Portuguese", "account_age": 2607840.0}

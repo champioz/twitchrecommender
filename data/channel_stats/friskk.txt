@@ -1,0 +1,1 @@
+{"channel": "friskk", "avg_viewers": 49, "followers_gained": 60, "peak_viewers": 89, "hours_streamed": 121, "streams": 20, "mature": 0, "language": "English", "account_age": 2448000.0}

@@ -1,0 +1,1 @@
+{"channel": "epicfisherman15", "avg_viewers": 12, "followers_gained": 28, "peak_viewers": 39, "hours_streamed": 48, "streams": 26, "mature": 1, "language": "English", "account_age": 1487520.0}

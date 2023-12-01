@@ -1,0 +1,1 @@
+{"channel": "mytholxgy", "avg_viewers": 5, "followers_gained": 18, "peak_viewers": 29, "hours_streamed": 69, "streams": 17, "mature": 1, "language": "English", "account_age": 3345120.0}

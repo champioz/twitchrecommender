@@ -1,0 +1,1 @@
+{"channel": "rockscissorspizza", "avg_viewers": 18, "followers_gained": 158, "peak_viewers": 71, "hours_streamed": 188, "streams": 27, "mature": 1, "language": "English", "account_age": 1696320.0}

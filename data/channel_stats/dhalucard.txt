@@ -1,0 +1,1 @@
+{"channel": "dhalucard", "avg_viewers": 1207, "followers_gained": 1608, "peak_viewers": 2328, "hours_streamed": 85, "streams": 22, "mature": 1, "language": "German", "account_age": 4651200.0}

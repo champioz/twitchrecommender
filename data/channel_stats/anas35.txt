@@ -1,0 +1,1 @@
+{"channel": "anas35", "avg_viewers": 76, "followers_gained": 1381, "peak_viewers": 190, "hours_streamed": 135, "streams": 32, "mature": 1, "language": "Arabic", "account_age": 3274560.0}

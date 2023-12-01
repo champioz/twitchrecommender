@@ -1,0 +1,1 @@
+{"channel": "lesjoutesdudivan", "avg_viewers": 2, "followers_gained": 24, "peak_viewers": 8, "hours_streamed": 26, "streams": 9, "mature": 0, "language": "French", "account_age": 217440.0}

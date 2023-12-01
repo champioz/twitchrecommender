@@ -1,0 +1,1 @@
+{"channel": "ji3g4cl3", "avg_viewers": 3, "followers_gained": 14, "peak_viewers": 22, "hours_streamed": 184, "streams": 48, "mature": 0, "language": "Chinese", "account_age": 3032640.0}

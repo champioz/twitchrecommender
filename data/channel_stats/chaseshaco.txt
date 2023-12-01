@@ -1,0 +1,1 @@
+{"channel": "chaseshaco", "avg_viewers": 840, "followers_gained": 6562, "peak_viewers": 2007, "hours_streamed": 222, "streams": 17, "mature": 0, "language": "English", "account_age": 1851840.0}

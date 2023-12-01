@@ -1,0 +1,1 @@
+{"channel": "lanalane", "avg_viewers": 91, "followers_gained": 492, "peak_viewers": 258, "hours_streamed": 79, "streams": 21, "mature": 1, "language": "English", "account_age": 2126880.0}

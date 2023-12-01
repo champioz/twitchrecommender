@@ -1,0 +1,1 @@
+{"channel": "maaarcio", "avg_viewers": 10, "followers_gained": 3, "peak_viewers": 28, "hours_streamed": 17, "streams": 12, "mature": 1, "language": "Portuguese", "account_age": 558720.0}

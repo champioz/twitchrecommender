@@ -1,0 +1,1 @@
+{"channel": "mikingxd", "avg_viewers": 137, "followers_gained": 18, "peak_viewers": 183, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 391680.0}

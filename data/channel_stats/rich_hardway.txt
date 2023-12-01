@@ -1,0 +1,1 @@
+{"channel": "rich_hardway", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 21, "hours_streamed": 51, "streams": 13, "mature": 1, "language": "English", "account_age": 947520.0}

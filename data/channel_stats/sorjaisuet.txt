@@ -1,0 +1,1 @@
+{"channel": "sorjaisuet", "avg_viewers": 41, "followers_gained": 100, "peak_viewers": 170, "hours_streamed": 18, "streams": 5, "mature": 0, "language": "Chinese", "account_age": 1661760.0}

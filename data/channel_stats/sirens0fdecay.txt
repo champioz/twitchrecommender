@@ -1,0 +1,1 @@
+{"channel": "sirens0fdecay", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 12, "streams": 11, "mature": 1, "language": "English", "account_age": 2161440.0}

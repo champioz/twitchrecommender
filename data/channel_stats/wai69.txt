@@ -1,0 +1,1 @@
+{"channel": "wai69", "avg_viewers": 21, "followers_gained": 90, "peak_viewers": 66, "hours_streamed": 46, "streams": 13, "mature": 0, "language": "English", "account_age": 1023840.0}

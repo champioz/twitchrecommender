@@ -1,0 +1,1 @@
+{"channel": "3rdgreatuncle", "avg_viewers": 189, "followers_gained": 1837, "peak_viewers": 756, "hours_streamed": 203, "streams": 27, "mature": 0, "language": "Chinese", "account_age": 1584000.0}

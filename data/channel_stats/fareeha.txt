@@ -1,0 +1,1 @@
+{"channel": "fareeha", "avg_viewers": 442, "followers_gained": 3961, "peak_viewers": 9018, "hours_streamed": 178, "streams": 24, "mature": 1, "language": "English", "account_age": 1126080.0}

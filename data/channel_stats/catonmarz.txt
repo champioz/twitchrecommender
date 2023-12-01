@@ -1,0 +1,1 @@
+{"channel": "catonmarz", "avg_viewers": 86, "followers_gained": 119, "peak_viewers": 461, "hours_streamed": 197, "streams": 30, "mature": 0, "language": "English", "account_age": 3777120.0}

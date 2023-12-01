@@ -1,0 +1,1 @@
+{"channel": "miserycop", "avg_viewers": 18, "followers_gained": 17, "peak_viewers": 55, "hours_streamed": 89, "streams": 18, "mature": 0, "language": "Portuguese", "account_age": 2337120.0}

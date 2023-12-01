@@ -1,0 +1,1 @@
+{"channel": "dcxcadafich", "avg_viewers": 6, "followers_gained": 29, "peak_viewers": 20, "hours_streamed": 61, "streams": 13, "mature": 1, "language": "French", "account_age": 1870560.0}

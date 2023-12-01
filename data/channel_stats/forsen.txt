@@ -1,0 +1,1 @@
+{"channel": "forsen", "avg_viewers": 10390, "followers_gained": 11025, "peak_viewers": 26429, "hours_streamed": 161, "streams": 27, "mature": 1, "language": "English", "account_age": 4315680.0}

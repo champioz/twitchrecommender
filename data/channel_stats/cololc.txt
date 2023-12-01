@@ -1,0 +1,1 @@
+{"channel": "cololc", "avg_viewers": 39, "followers_gained": 1, "peak_viewers": 50, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "Korean", "account_age": 1072800.0}

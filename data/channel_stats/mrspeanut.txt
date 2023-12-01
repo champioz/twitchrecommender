@@ -1,0 +1,1 @@
+{"channel": "mrspeanut", "avg_viewers": 5, "followers_gained": 8, "peak_viewers": 42, "hours_streamed": 18, "streams": 2, "mature": 1, "language": "Dutch", "account_age": 1805760.0}

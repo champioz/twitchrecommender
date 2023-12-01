@@ -1,0 +1,1 @@
+{"channel": "denteverstv", "avg_viewers": 4, "followers_gained": 35, "peak_viewers": 19, "hours_streamed": 65, "streams": 13, "mature": 1, "language": "Portuguese", "account_age": 2525760.0}

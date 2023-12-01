@@ -1,0 +1,1 @@
+{"channel": "tweeterman287", "avg_viewers": 4, "followers_gained": 27, "peak_viewers": 11, "hours_streamed": 20, "streams": 9, "mature": 1, "language": "English", "account_age": 2868480.0}

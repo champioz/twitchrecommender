@@ -1,0 +1,1 @@
+{"channel": "vana", "avg_viewers": 150, "followers_gained": 225, "peak_viewers": 340, "hours_streamed": 66, "streams": 12, "mature": 1, "language": "English", "account_age": 2574720.0}

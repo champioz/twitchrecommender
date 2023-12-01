@@ -1,0 +1,1 @@
+{"channel": "missbellwood", "avg_viewers": 18, "followers_gained": 54, "peak_viewers": 105, "hours_streamed": 57, "streams": 11, "mature": 1, "language": "German", "account_age": 1396800.0}

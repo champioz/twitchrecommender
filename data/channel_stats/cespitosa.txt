@@ -1,0 +1,1 @@
+{"channel": "cespitosa", "avg_viewers": 18, "followers_gained": 536, "peak_viewers": 114, "hours_streamed": 285, "streams": 37, "mature": 0, "language": "Turkish", "account_age": 848160.0}

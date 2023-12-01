@@ -1,0 +1,1 @@
+{"channel": "biene_kaya", "avg_viewers": 9, "followers_gained": 1, "peak_viewers": 16, "hours_streamed": 6, "streams": 2, "mature": 1, "language": "German", "account_age": 1961280.0}

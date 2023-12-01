@@ -1,0 +1,1 @@
+{"channel": "spluad", "avg_viewers": 5, "followers_gained": 44, "peak_viewers": 84, "hours_streamed": 67, "streams": 24, "mature": 0, "language": "English", "account_age": 1965600.0}

@@ -1,0 +1,1 @@
+{"channel": "fatcreepy", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 12, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 325440.0}

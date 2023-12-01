@@ -1,0 +1,1 @@
+{"channel": "aqualua", "avg_viewers": 26, "followers_gained": 22, "peak_viewers": 56, "hours_streamed": 16, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 1789920.0}

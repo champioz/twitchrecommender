@@ -1,0 +1,1 @@
+{"channel": "giuseppegamez", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 5, "hours_streamed": 15, "streams": 10, "mature": 0, "language": "English", "account_age": 511200.0}

@@ -1,0 +1,1 @@
+{"channel": "gigz", "avg_viewers": 1153, "followers_gained": 2512, "peak_viewers": 2356, "hours_streamed": 128, "streams": 19, "mature": 0, "language": "English", "account_age": 5114880.0}

@@ -1,0 +1,1 @@
+{"channel": "purpletanzie", "avg_viewers": 5, "followers_gained": 15, "peak_viewers": 27, "hours_streamed": 61, "streams": 14, "mature": 1, "language": "Portuguese", "account_age": 1177920.0}

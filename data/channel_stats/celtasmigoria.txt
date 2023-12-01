@@ -1,0 +1,1 @@
+{"channel": "celtasmigoria", "avg_viewers": 12, "followers_gained": 15, "peak_viewers": 32, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "Turkish", "account_age": 1036800.0}

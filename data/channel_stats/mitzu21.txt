@@ -1,0 +1,1 @@
+{"channel": "mitzu21", "avg_viewers": 5, "followers_gained": 4, "peak_viewers": 12, "hours_streamed": 7, "streams": 2, "mature": 1, "language": "German", "account_age": 1340640.0}

@@ -1,0 +1,1 @@
+{"channel": "mununyu", "avg_viewers": 103, "followers_gained": 77, "peak_viewers": 261, "hours_streamed": 73, "streams": 22, "mature": 0, "language": "Korean", "account_age": 1203840.0}

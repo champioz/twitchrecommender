@@ -1,0 +1,1 @@
+{"channel": "sm4shytv", "avg_viewers": 4, "followers_gained": 24, "peak_viewers": 17, "hours_streamed": 43, "streams": 19, "mature": 1, "language": "Norwegian", "account_age": 1706400.0}

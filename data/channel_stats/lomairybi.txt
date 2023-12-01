@@ -1,0 +1,1 @@
+{"channel": "lomairybi", "avg_viewers": 40, "followers_gained": 288, "peak_viewers": 84, "hours_streamed": 226, "streams": 63, "mature": 1, "language": "Russian", "account_age": 2416320.0}

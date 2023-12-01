@@ -1,0 +1,1 @@
+{"channel": "patcha_it", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 10, "hours_streamed": 119, "streams": 30, "mature": 1, "language": "Italian", "account_age": 3278880.0}

@@ -1,0 +1,1 @@
+{"channel": "surelyhelena", "avg_viewers": 51, "followers_gained": 123, "peak_viewers": 112, "hours_streamed": 82, "streams": 19, "mature": 0, "language": "Korean", "account_age": 1787040.0}

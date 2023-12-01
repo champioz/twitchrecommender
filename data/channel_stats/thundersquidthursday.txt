@@ -1,0 +1,1 @@
+{"channel": "thundersquidthursday", "avg_viewers": 7, "followers_gained": 48, "peak_viewers": 30, "hours_streamed": 132, "streams": 24, "mature": 1, "language": "English", "account_age": 2054880.0}

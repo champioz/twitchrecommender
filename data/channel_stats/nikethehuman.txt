@@ -1,0 +1,1 @@
+{"channel": "nikethehuman", "avg_viewers": 96, "followers_gained": 26, "peak_viewers": 117, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Russian", "account_age": 2633760.0}

@@ -1,0 +1,1 @@
+{"channel": "kazify", "avg_viewers": 84, "followers_gained": 840, "peak_viewers": 437, "hours_streamed": 44, "streams": 13, "mature": 0, "language": "English", "account_age": 3772800.0}

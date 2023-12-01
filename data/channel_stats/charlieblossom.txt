@@ -1,0 +1,1 @@
+{"channel": "charlieblossom", "avg_viewers": 172, "followers_gained": 1593, "peak_viewers": 2324, "hours_streamed": 201, "streams": 26, "mature": 0, "language": "English", "account_age": 2597760.0}

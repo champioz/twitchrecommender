@@ -1,0 +1,1 @@
+{"channel": "byzapi", "avg_viewers": 335, "followers_gained": 1117, "peak_viewers": 518, "hours_streamed": 112, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 858240.0}

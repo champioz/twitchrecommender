@@ -1,0 +1,1 @@
+{"channel": "loqueninjax", "avg_viewers": 3, "followers_gained": 13, "peak_viewers": 15, "hours_streamed": 56, "streams": 19, "mature": 1, "language": "Spanish", "account_age": 2196000.0}

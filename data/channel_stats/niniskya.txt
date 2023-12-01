@@ -1,0 +1,1 @@
+{"channel": "niniskya", "avg_viewers": 95, "followers_gained": 487, "peak_viewers": 209, "hours_streamed": 110, "streams": 17, "mature": 1, "language": "English", "account_age": 2371680.0}

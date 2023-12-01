@@ -1,0 +1,1 @@
+{"channel": "for_real_though", "avg_viewers": 8, "followers_gained": 57, "peak_viewers": 130, "hours_streamed": 143, "streams": 78, "mature": 1, "language": "English", "account_age": 108000.0}

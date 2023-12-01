@@ -1,0 +1,1 @@
+{"channel": "mimoretz", "avg_viewers": 23, "followers_gained": 307, "peak_viewers": 58, "hours_streamed": 86, "streams": 30, "mature": 1, "language": "Portuguese", "account_age": 2810880.0}

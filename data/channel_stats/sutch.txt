@@ -1,0 +1,1 @@
+{"channel": "sutch", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "English", "account_age": 1290240.0}

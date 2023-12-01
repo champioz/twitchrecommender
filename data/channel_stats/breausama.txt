@@ -1,0 +1,1 @@
+{"channel": "breausama", "avg_viewers": 9, "followers_gained": 45, "peak_viewers": 51, "hours_streamed": 38, "streams": 16, "mature": 1, "language": "English", "account_age": 2093760.0}

@@ -1,0 +1,1 @@
+{"channel": "hsbabel", "avg_viewers": 39, "followers_gained": 45, "peak_viewers": 225, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "French", "account_age": 2168640.0}

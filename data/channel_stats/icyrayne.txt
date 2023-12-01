@@ -1,0 +1,1 @@
+{"channel": "icyrayne", "avg_viewers": 168, "followers_gained": 323, "peak_viewers": 317, "hours_streamed": 156, "streams": 13, "mature": 0, "language": "English", "account_age": 2773440.0}

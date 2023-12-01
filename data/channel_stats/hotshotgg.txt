@@ -1,0 +1,1 @@
+{"channel": "hotshotgg", "avg_viewers": 215, "followers_gained": 180, "peak_viewers": 739, "hours_streamed": 36, "streams": 7, "mature": 0, "language": "English", "account_age": 5283360.0}

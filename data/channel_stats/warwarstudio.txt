@@ -1,0 +1,1 @@
+{"channel": "warwarstudio", "avg_viewers": 9, "followers_gained": 76, "peak_viewers": 28, "hours_streamed": 98, "streams": 17, "mature": 0, "language": "Russian", "account_age": 1789920.0}

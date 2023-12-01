@@ -1,0 +1,1 @@
+{"channel": "the_happy_hob", "avg_viewers": 1615, "followers_gained": 1189, "peak_viewers": 4730, "hours_streamed": 153, "streams": 23, "mature": 1, "language": "English", "account_age": 2270880.0}

@@ -1,0 +1,1 @@
+{"channel": "m4mf79", "avg_viewers": 7, "followers_gained": 19, "peak_viewers": 27, "hours_streamed": 142, "streams": 20, "mature": 1, "language": "German", "account_age": 2288160.0}

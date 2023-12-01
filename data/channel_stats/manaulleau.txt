@@ -1,0 +1,1 @@
+{"channel": "manaulleau", "avg_viewers": 0, "followers_gained": 11, "peak_viewers": 8, "hours_streamed": 36, "streams": 35, "mature": 0, "language": "French", "account_age": 1919520.0}

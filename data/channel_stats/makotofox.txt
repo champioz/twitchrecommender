@@ -1,0 +1,1 @@
+{"channel": "makotofox", "avg_viewers": 20, "followers_gained": 47, "peak_viewers": 87, "hours_streamed": 44, "streams": 19, "mature": 0, "language": "English", "account_age": 4929120.0}

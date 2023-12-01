@@ -1,0 +1,1 @@
+{"channel": "tian0112", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 18, "streams": 6, "mature": 1, "language": "Chinese", "account_age": 2311200.0}

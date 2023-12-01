@@ -1,0 +1,1 @@
+{"channel": "lohreck", "avg_viewers": 9, "followers_gained": 8, "peak_viewers": 125, "hours_streamed": 101, "streams": 30, "mature": 1, "language": "English", "account_age": 3667680.0}

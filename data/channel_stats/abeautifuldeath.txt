@@ -1,0 +1,1 @@
+{"channel": "abeautifuldeath", "avg_viewers": 222, "followers_gained": 409, "peak_viewers": 492, "hours_streamed": 15, "streams": 3, "mature": 0, "language": "Turkish", "account_age": 1033920.0}

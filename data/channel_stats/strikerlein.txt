@@ -1,0 +1,1 @@
+{"channel": "strikerlein", "avg_viewers": 24, "followers_gained": 23, "peak_viewers": 44, "hours_streamed": 72, "streams": 14, "mature": 1, "language": "German", "account_age": 2334240.0}

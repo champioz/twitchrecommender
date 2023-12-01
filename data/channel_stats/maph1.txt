@@ -1,0 +1,1 @@
+{"channel": "maph1", "avg_viewers": 18, "followers_gained": 38, "peak_viewers": 62, "hours_streamed": 83, "streams": 31, "mature": 0, "language": "English", "account_age": 3114720.0}

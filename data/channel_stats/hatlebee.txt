@@ -1,0 +1,1 @@
+{"channel": "hatlebee", "avg_viewers": 9, "followers_gained": 6, "peak_viewers": 17, "hours_streamed": 56, "streams": 11, "mature": 0, "language": "English", "account_age": 3650400.0}

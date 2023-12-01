@@ -1,0 +1,1 @@
+{"channel": "nurfdn", "avg_viewers": 26, "followers_gained": 812, "peak_viewers": 76, "hours_streamed": 54, "streams": 24, "mature": 0, "language": "Turkish", "account_age": 442080.0}

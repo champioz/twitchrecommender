@@ -1,0 +1,1 @@
+{"channel": "momen1010", "avg_viewers": 8, "followers_gained": 2, "peak_viewers": 26, "hours_streamed": 13, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 1343520.0}

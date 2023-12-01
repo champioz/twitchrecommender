@@ -1,0 +1,1 @@
+{"channel": "solohk", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Chinese", "account_age": 1455840.0}

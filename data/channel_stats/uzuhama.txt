@@ -1,0 +1,1 @@
+{"channel": "uzuhama", "avg_viewers": 1070, "followers_gained": 1665, "peak_viewers": 1757, "hours_streamed": 84, "streams": 24, "mature": 0, "language": "Korean", "account_age": 1404000.0}

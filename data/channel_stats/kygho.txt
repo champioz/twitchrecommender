@@ -1,0 +1,1 @@
+{"channel": "kygho", "avg_viewers": 75, "followers_gained": 370, "peak_viewers": 195, "hours_streamed": 144, "streams": 26, "mature": 1, "language": "Portuguese", "account_age": 1641600.0}

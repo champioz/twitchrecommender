@@ -1,0 +1,1 @@
+{"channel": "twitch_chaone2", "avg_viewers": 12, "followers_gained": 49, "peak_viewers": 24, "hours_streamed": 116, "streams": 20, "mature": 0, "language": "Korean", "account_age": 1362240.0}

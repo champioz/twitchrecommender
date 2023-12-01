@@ -1,0 +1,1 @@
+{"channel": "icemanlucky", "avg_viewers": 89, "followers_gained": 117, "peak_viewers": 182, "hours_streamed": 67, "streams": 14, "mature": 0, "language": "Romanian", "account_age": 3208320.0}

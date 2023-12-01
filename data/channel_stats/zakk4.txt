@@ -1,0 +1,1 @@
+{"channel": "zakk4", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 16, "hours_streamed": 28, "streams": 8, "mature": 1, "language": "Portuguese", "account_age": 2784960.0}

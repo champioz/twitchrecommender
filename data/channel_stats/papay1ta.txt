@@ -1,0 +1,1 @@
+{"channel": "papay1ta", "avg_viewers": 19, "followers_gained": 49, "peak_viewers": 48, "hours_streamed": 110, "streams": 25, "mature": 0, "language": "Spanish", "account_age": 1013760.0}

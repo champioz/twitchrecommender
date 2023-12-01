@@ -1,0 +1,1 @@
+{"channel": "fifatargrean", "avg_viewers": 1726, "followers_gained": 10753, "peak_viewers": 5012, "hours_streamed": 258, "streams": 39, "mature": 0, "language": "Thai", "account_age": 1526400.0}

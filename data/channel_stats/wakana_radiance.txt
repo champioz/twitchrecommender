@@ -1,0 +1,1 @@
+{"channel": "wakana_radiance", "avg_viewers": 3, "followers_gained": 12, "peak_viewers": 11, "hours_streamed": 61, "streams": 31, "mature": 1, "language": "Korean", "account_age": 1219680.0}

@@ -1,0 +1,1 @@
+{"channel": "skinnychillz", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 14, "hours_streamed": 80, "streams": 14, "mature": 1, "language": "English", "account_age": 1281600.0}

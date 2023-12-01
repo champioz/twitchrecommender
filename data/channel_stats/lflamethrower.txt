@@ -1,0 +1,1 @@
+{"channel": "lflamethrower", "avg_viewers": 10, "followers_gained": 35, "peak_viewers": 54, "hours_streamed": 15, "streams": 9, "mature": 0, "language": "English", "account_age": 2147040.0}

@@ -1,0 +1,1 @@
+{"channel": "informerfreak", "avg_viewers": 11, "followers_gained": 224, "peak_viewers": 37, "hours_streamed": 95, "streams": 51, "mature": 1, "language": "Spanish", "account_age": 794880.0}

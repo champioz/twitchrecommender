@@ -1,0 +1,1 @@
+{"channel": "mamel__27", "avg_viewers": 11, "followers_gained": 60, "peak_viewers": 26, "hours_streamed": 59, "streams": 11, "mature": 0, "language": "Korean", "account_age": 315360.0}

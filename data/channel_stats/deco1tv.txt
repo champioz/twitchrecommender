@@ -1,0 +1,1 @@
+{"channel": "deco1tv", "avg_viewers": 975, "followers_gained": 3269, "peak_viewers": 3711, "hours_streamed": 136, "streams": 18, "mature": 0, "language": "Russian", "account_age": 3121920.0}

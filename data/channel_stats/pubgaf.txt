@@ -1,0 +1,1 @@
+{"channel": "pubgaf", "avg_viewers": 29, "followers_gained": 335, "peak_viewers": 78, "hours_streamed": 205, "streams": 35, "mature": 0, "language": "English", "account_age": 341280.0}

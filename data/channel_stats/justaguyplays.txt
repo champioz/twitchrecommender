@@ -1,0 +1,1 @@
+{"channel": "justaguyplays", "avg_viewers": 12, "followers_gained": 193, "peak_viewers": 269, "hours_streamed": 161, "streams": 28, "mature": 0, "language": "Hungarian", "account_age": 2985120.0}

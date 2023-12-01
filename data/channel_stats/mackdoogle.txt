@@ -1,0 +1,1 @@
+{"channel": "mackdoogle", "avg_viewers": 18, "followers_gained": 10, "peak_viewers": 43, "hours_streamed": 118, "streams": 24, "mature": 0, "language": "English", "account_age": 3333600.0}

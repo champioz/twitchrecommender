@@ -1,0 +1,1 @@
+{"channel": "forobits", "avg_viewers": 8, "followers_gained": 116, "peak_viewers": 38, "hours_streamed": 130, "streams": 26, "mature": 0, "language": "Spanish", "account_age": 2223360.0}

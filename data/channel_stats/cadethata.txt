@@ -1,0 +1,1 @@
+{"channel": "cadethata", "avg_viewers": 7, "followers_gained": 37, "peak_viewers": 35, "hours_streamed": 16, "streams": 4, "mature": 1, "language": "Portuguese", "account_age": 162720.0}

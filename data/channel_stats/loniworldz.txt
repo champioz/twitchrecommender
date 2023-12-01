@@ -1,0 +1,1 @@
+{"channel": "loniworldz", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 10, "hours_streamed": 33, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 603360.0}

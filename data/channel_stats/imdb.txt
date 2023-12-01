@@ -1,0 +1,1 @@
+{"channel": "imdb", "avg_viewers": 19132, "followers_gained": 1365, "peak_viewers": 89288, "hours_streamed": 25, "streams": 10, "mature": 0, "language": "English", "account_age": 1036800.0}

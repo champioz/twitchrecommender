@@ -1,0 +1,1 @@
+{"channel": "omidmalek", "avg_viewers": 26, "followers_gained": 133, "peak_viewers": 108, "hours_streamed": 45, "streams": 18, "mature": 0, "language": "English", "account_age": 982080.0}

@@ -1,0 +1,1 @@
+{"channel": "yodabz", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 6, "hours_streamed": 34, "streams": 14, "mature": 1, "language": "English", "account_age": 905760.0}

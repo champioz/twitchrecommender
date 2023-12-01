@@ -1,0 +1,1 @@
+{"channel": "mulpix_", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 18, "streams": 6, "mature": 0, "language": "English", "account_age": 1409760.0}

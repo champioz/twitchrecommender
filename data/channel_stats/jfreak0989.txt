@@ -1,0 +1,1 @@
+{"channel": "jfreak0989", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 14, "hours_streamed": 16, "streams": 7, "mature": 0, "language": "English", "account_age": 1281600.0}

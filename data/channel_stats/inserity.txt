@@ -1,0 +1,1 @@
+{"channel": "inserity", "avg_viewers": 20, "followers_gained": 50, "peak_viewers": 64, "hours_streamed": 53, "streams": 11, "mature": 1, "language": "English", "account_age": 4877280.0}

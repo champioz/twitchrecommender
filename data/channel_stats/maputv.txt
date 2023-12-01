@@ -1,0 +1,1 @@
+{"channel": "maputv", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 18, "hours_streamed": 35, "streams": 6, "mature": 0, "language": "German", "account_age": 2037600.0}

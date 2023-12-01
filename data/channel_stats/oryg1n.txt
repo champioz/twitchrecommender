@@ -1,0 +1,1 @@
+{"channel": "oryg1n", "avg_viewers": 101, "followers_gained": 18, "peak_viewers": 245, "hours_streamed": 87, "streams": 26, "mature": 0, "language": "English", "account_age": 3792960.0}

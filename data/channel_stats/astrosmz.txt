@@ -1,0 +1,1 @@
+{"channel": "astrosmz", "avg_viewers": 122, "followers_gained": 1798, "peak_viewers": 334, "hours_streamed": 46, "streams": 22, "mature": 0, "language": "English", "account_age": 764640.0}

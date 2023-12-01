@@ -1,0 +1,1 @@
+{"channel": "bode_gamer", "avg_viewers": 173, "followers_gained": 3074, "peak_viewers": 328, "hours_streamed": 38, "streams": 18, "mature": 0, "language": "Arabic", "account_age": 2426400.0}

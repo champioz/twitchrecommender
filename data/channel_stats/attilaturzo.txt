@@ -1,0 +1,1 @@
+{"channel": "attilaturzo", "avg_viewers": 24, "followers_gained": 8, "peak_viewers": 78, "hours_streamed": 11, "streams": 8, "mature": 0, "language": "English", "account_age": 2073600.0}

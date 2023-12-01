@@ -1,0 +1,1 @@
+{"channel": "kaxxt09", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 6, "hours_streamed": 33, "streams": 15, "mature": 1, "language": "Spanish", "account_age": 2635200.0}

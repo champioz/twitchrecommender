@@ -1,0 +1,1 @@
+{"channel": "drunk_rabbit_77", "avg_viewers": 2, "followers_gained": 55, "peak_viewers": 11, "hours_streamed": 238, "streams": 54, "mature": 1, "language": "Russian", "account_age": 722880.0}

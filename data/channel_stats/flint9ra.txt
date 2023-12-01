@@ -1,0 +1,1 @@
+{"channel": "flint9ra", "avg_viewers": 7, "followers_gained": 32, "peak_viewers": 52, "hours_streamed": 205, "streams": 38, "mature": 1, "language": "Russian", "account_age": 3211200.0}

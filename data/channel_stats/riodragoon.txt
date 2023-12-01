@@ -1,0 +1,1 @@
+{"channel": "riodragoon", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 43, "streams": 14, "mature": 1, "language": "English", "account_age": 5264640.0}

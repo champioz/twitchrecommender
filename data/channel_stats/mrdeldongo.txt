@@ -1,0 +1,1 @@
+{"channel": "mrdeldongo", "avg_viewers": 30, "followers_gained": 174, "peak_viewers": 61, "hours_streamed": 103, "streams": 35, "mature": 0, "language": "English", "account_age": 3877920.0}

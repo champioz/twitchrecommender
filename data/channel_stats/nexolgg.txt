@@ -1,0 +1,1 @@
+{"channel": "nexolgg", "avg_viewers": 12, "followers_gained": 36, "peak_viewers": 69, "hours_streamed": 46, "streams": 20, "mature": 0, "language": "Russian", "account_age": 1084320.0}

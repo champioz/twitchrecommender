@@ -1,0 +1,1 @@
+{"channel": "teemo20436", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 53, "streams": 18, "mature": 0, "language": "Chinese", "account_age": 2276640.0}

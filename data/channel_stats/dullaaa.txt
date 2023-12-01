@@ -1,0 +1,1 @@
+{"channel": "dullaaa", "avg_viewers": 10, "followers_gained": 6, "peak_viewers": 29, "hours_streamed": 73, "streams": 18, "mature": 0, "language": "Finnish", "account_age": 2522880.0}

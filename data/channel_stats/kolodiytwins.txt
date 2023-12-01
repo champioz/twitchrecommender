@@ -1,0 +1,1 @@
+{"channel": "kolodiytwins", "avg_viewers": 190, "followers_gained": 456, "peak_viewers": 346, "hours_streamed": 39, "streams": 11, "mature": 0, "language": "Russian", "account_age": 2257920.0}

@@ -1,0 +1,1 @@
+{"channel": "ko0416", "avg_viewers": 2063, "followers_gained": 1683, "peak_viewers": 4137, "hours_streamed": 195, "streams": 27, "mature": 1, "language": "Chinese", "account_age": 2070720.0}

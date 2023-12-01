@@ -1,0 +1,1 @@
+{"channel": "lobarual", "avg_viewers": 2, "followers_gained": 27, "peak_viewers": 9, "hours_streamed": 53, "streams": 33, "mature": 0, "language": "Spanish", "account_age": 1435680.0}

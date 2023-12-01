@@ -1,0 +1,1 @@
+{"channel": "solettih", "avg_viewers": 21, "followers_gained": 28, "peak_viewers": 49, "hours_streamed": 21, "streams": 11, "mature": 0, "language": "German", "account_age": 2914560.0}

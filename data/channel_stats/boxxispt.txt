@@ -1,0 +1,1 @@
+{"channel": "boxxispt", "avg_viewers": 42, "followers_gained": 120, "peak_viewers": 106, "hours_streamed": 18, "streams": 8, "mature": 0, "language": "Portuguese", "account_age": 2139840.0}

@@ -1,0 +1,1 @@
+{"channel": "takposmotrim", "avg_viewers": 6, "followers_gained": 25, "peak_viewers": 20, "hours_streamed": 177, "streams": 25, "mature": 1, "language": "Russian", "account_age": 2180160.0}

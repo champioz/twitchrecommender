@@ -1,0 +1,1 @@
+{"channel": "carlasophie", "avg_viewers": 61, "followers_gained": 2003, "peak_viewers": 290, "hours_streamed": 107, "streams": 28, "mature": 1, "language": "English", "account_age": 905760.0}

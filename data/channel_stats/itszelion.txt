@@ -1,0 +1,1 @@
+{"channel": "itszelion", "avg_viewers": 19, "followers_gained": 226, "peak_viewers": 40, "hours_streamed": 43, "streams": 11, "mature": 1, "language": "English", "account_age": 2990880.0}

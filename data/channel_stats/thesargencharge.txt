@@ -1,0 +1,1 @@
+{"channel": "thesargencharge", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 27, "streams": 8, "mature": 0, "language": "English", "account_age": 2832480.0}

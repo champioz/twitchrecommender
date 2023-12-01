@@ -1,0 +1,1 @@
+{"channel": "ligafox", "avg_viewers": 24, "followers_gained": 41, "peak_viewers": 58, "hours_streamed": 7, "streams": 4, "mature": 0, "language": "Spanish", "account_age": 1199520.0}

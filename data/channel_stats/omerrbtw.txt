@@ -1,0 +1,1 @@
+{"channel": "omerrbtw", "avg_viewers": 74, "followers_gained": 721, "peak_viewers": 234, "hours_streamed": 24, "streams": 11, "mature": 0, "language": "German", "account_age": 622080.0}

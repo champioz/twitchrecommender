@@ -1,0 +1,1 @@
+{"channel": "kasupi0831", "avg_viewers": 5, "followers_gained": 4, "peak_viewers": 12, "hours_streamed": 57, "streams": 14, "mature": 1, "language": "Japanese", "account_age": 1617120.0}

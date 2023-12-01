@@ -1,0 +1,1 @@
+{"channel": "blackrice", "avg_viewers": 8, "followers_gained": 58, "peak_viewers": 56, "hours_streamed": 122, "streams": 31, "mature": 0, "language": "English", "account_age": 2285280.0}

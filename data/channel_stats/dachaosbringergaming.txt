@@ -1,0 +1,1 @@
+{"channel": "dachaosbringergaming", "avg_viewers": 3, "followers_gained": 27, "peak_viewers": 15, "hours_streamed": 128, "streams": 37, "mature": 1, "language": "English", "account_age": 1867680.0}

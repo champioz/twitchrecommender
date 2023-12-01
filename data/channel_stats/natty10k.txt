@@ -1,0 +1,1 @@
+{"channel": "natty10k", "avg_viewers": 28, "followers_gained": 2, "peak_viewers": 65, "hours_streamed": 14, "streams": 3, "mature": 0, "language": "English", "account_age": 1756800.0}

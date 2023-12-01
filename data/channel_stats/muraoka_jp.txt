@@ -1,0 +1,1 @@
+{"channel": "muraoka_jp", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 32, "hours_streamed": 170, "streams": 28, "mature": 0, "language": "Japanese", "account_age": 1918080.0}

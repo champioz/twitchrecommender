@@ -1,0 +1,1 @@
+{"channel": "asperaqben", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 25, "streams": 22, "mature": 0, "language": "Polish", "account_age": 3568320.0}

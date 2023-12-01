@@ -1,0 +1,1 @@
+{"channel": "biroluyar", "avg_viewers": 26, "followers_gained": 17, "peak_viewers": 40, "hours_streamed": 7, "streams": 4, "mature": 1, "language": "Turkish", "account_age": 475200.0}

@@ -1,0 +1,1 @@
+{"channel": "flintergaming", "avg_viewers": 79, "followers_gained": 532, "peak_viewers": 115, "hours_streamed": 12, "streams": 5, "mature": 0, "language": "English", "account_age": 610560.0}

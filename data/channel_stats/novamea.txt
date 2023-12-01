@@ -1,0 +1,1 @@
+{"channel": "novamea", "avg_viewers": 9, "followers_gained": 12, "peak_viewers": 28, "hours_streamed": 35, "streams": 7, "mature": 1, "language": "German", "account_age": 601920.0}

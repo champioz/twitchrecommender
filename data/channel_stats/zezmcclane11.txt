@@ -1,0 +1,1 @@
+{"channel": "zezmcclane11", "avg_viewers": 2, "followers_gained": 24, "peak_viewers": 7, "hours_streamed": 45, "streams": 33, "mature": 0, "language": "Spanish", "account_age": 859680.0}

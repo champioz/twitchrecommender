@@ -1,0 +1,1 @@
+{"channel": "mysteli", "avg_viewers": 10, "followers_gained": 289, "peak_viewers": 38, "hours_streamed": 115, "streams": 24, "mature": 0, "language": "English", "account_age": 682560.0}

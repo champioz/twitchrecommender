@@ -1,0 +1,1 @@
+{"channel": "mireyatwit", "avg_viewers": 121, "followers_gained": 10, "peak_viewers": 161, "hours_streamed": 22, "streams": 5, "mature": 0, "language": "Korean", "account_age": 1419840.0}

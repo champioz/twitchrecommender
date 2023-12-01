@@ -1,0 +1,1 @@
+{"channel": "mill_time", "avg_viewers": 6, "followers_gained": 4, "peak_viewers": 66, "hours_streamed": 20, "streams": 8, "mature": 0, "language": "English", "account_age": 573120.0}

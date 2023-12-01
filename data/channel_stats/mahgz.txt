@@ -1,0 +1,1 @@
+{"channel": "mahgz", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Danish", "account_age": 3464640.0}

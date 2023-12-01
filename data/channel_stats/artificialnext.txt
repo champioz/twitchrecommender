@@ -1,0 +1,1 @@
+{"channel": "artificialnext", "avg_viewers": 2633, "followers_gained": 1556, "peak_viewers": 9217, "hours_streamed": 32, "streams": 9, "mature": 0, "language": "English", "account_age": 688320.0}

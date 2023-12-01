@@ -1,0 +1,1 @@
+{"channel": "bogishawa", "avg_viewers": 8, "followers_gained": 37, "peak_viewers": 42, "hours_streamed": 157, "streams": 50, "mature": 1, "language": "Czech", "account_age": 378720.0}

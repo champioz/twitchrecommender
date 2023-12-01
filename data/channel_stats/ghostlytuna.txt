@@ -1,0 +1,1 @@
+{"channel": "ghostlytuna", "avg_viewers": 8, "followers_gained": 23, "peak_viewers": 24, "hours_streamed": 99, "streams": 18, "mature": 0, "language": "English", "account_age": 3552480.0}

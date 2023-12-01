@@ -1,0 +1,1 @@
+{"channel": "arewethereyet", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 6, "hours_streamed": 10, "streams": 9, "mature": 1, "language": "English", "account_age": 499680.0}

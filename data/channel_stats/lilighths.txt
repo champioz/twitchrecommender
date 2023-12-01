@@ -1,0 +1,1 @@
+{"channel": "lilighths", "avg_viewers": 4, "followers_gained": 11, "peak_viewers": 13, "hours_streamed": 38, "streams": 24, "mature": 0, "language": "Thai", "account_age": 1028160.0}

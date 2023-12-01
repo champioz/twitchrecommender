@@ -1,0 +1,1 @@
+{"channel": "darkgermanlive", "avg_viewers": 112, "followers_gained": 1, "peak_viewers": 137, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "German", "account_age": 2488320.0}

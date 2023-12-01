@@ -1,0 +1,1 @@
+{"channel": "enjoiable", "avg_viewers": 20, "followers_gained": 297, "peak_viewers": 67, "hours_streamed": 216, "streams": 31, "mature": 1, "language": "English", "account_age": 2880000.0}

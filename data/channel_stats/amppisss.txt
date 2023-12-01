@@ -1,0 +1,1 @@
+{"channel": "amppisss", "avg_viewers": 51, "followers_gained": 68, "peak_viewers": 105, "hours_streamed": 20, "streams": 9, "mature": 0, "language": "English", "account_age": 1126080.0}

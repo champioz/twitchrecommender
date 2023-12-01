@@ -1,0 +1,1 @@
+{"channel": "harima_moko", "avg_viewers": 13, "followers_gained": 17, "peak_viewers": 54, "hours_streamed": 53, "streams": 15, "mature": 1, "language": "Japanese", "account_age": 2292480.0}

@@ -1,0 +1,1 @@
+{"channel": "meitykick", "avg_viewers": 15, "followers_gained": 23, "peak_viewers": 47, "hours_streamed": 25, "streams": 12, "mature": 0, "language": "Japanese", "account_age": 1880640.0}

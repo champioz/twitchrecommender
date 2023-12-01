@@ -1,0 +1,1 @@
+{"channel": "datboimikey8", "avg_viewers": 3, "followers_gained": 37, "peak_viewers": 24, "hours_streamed": 59, "streams": 29, "mature": 0, "language": "English", "account_age": 1628640.0}

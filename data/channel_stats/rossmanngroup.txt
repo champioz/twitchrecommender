@@ -1,0 +1,1 @@
+{"channel": "rossmanngroup", "avg_viewers": 37, "followers_gained": 452, "peak_viewers": 82, "hours_streamed": 38, "streams": 25, "mature": 1, "language": "English", "account_age": 1608480.0}

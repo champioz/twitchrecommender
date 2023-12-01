@@ -1,0 +1,1 @@
+{"channel": "kentstv", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 13, "streams": 9, "mature": 1, "language": "Swedish", "account_age": 1900800.0}

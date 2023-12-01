@@ -1,0 +1,1 @@
+{"channel": "hyemong2", "avg_viewers": 31, "followers_gained": 43, "peak_viewers": 79, "hours_streamed": 101, "streams": 30, "mature": 0, "language": "Korean", "account_age": 152640.0}

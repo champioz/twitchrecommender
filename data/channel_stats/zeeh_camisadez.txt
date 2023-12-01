@@ -1,0 +1,1 @@
+{"channel": "zeeh_camisadez", "avg_viewers": 37, "followers_gained": 421, "peak_viewers": 352, "hours_streamed": 63, "streams": 28, "mature": 1, "language": "Portuguese", "account_age": 1152000.0}

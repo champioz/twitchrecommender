@@ -1,0 +1,1 @@
+{"channel": "sherydi", "avg_viewers": 46, "followers_gained": 75, "peak_viewers": 75, "hours_streamed": 98, "streams": 25, "mature": 0, "language": "Russian", "account_age": 558720.0}

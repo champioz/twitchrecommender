@@ -1,0 +1,1 @@
+{"channel": "djfluffy_vs_joe", "avg_viewers": 5, "followers_gained": 4, "peak_viewers": 19, "hours_streamed": 86, "streams": 23, "mature": 1, "language": "Dutch", "account_age": 4079520.0}

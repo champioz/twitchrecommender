@@ -1,0 +1,1 @@
+{"channel": "rivas_", "avg_viewers": 24, "followers_gained": 123, "peak_viewers": 107, "hours_streamed": 89, "streams": 19, "mature": 1, "language": "English", "account_age": 954720.0}

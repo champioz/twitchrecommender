@@ -1,0 +1,1 @@
+{"channel": "ya_mayka_", "avg_viewers": 13, "followers_gained": 2, "peak_viewers": 20, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Polish", "account_age": 2337120.0}

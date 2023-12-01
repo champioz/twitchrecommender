@@ -1,0 +1,1 @@
+{"channel": "sharkkori", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 8, "streams": 6, "mature": 1, "language": "English", "account_age": 1643040.0}

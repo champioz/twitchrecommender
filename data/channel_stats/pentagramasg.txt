@@ -1,0 +1,1 @@
+{"channel": "pentagramasg", "avg_viewers": 2, "followers_gained": 97, "peak_viewers": 43, "hours_streamed": 116, "streams": 64, "mature": 0, "language": "Portuguese", "account_age": 3916800.0}

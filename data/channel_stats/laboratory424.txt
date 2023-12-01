@@ -1,0 +1,1 @@
+{"channel": "laboratory424", "avg_viewers": 21, "followers_gained": 130, "peak_viewers": 45, "hours_streamed": 67, "streams": 16, "mature": 0, "language": "English", "account_age": 463680.0}

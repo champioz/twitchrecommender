@@ -1,0 +1,1 @@
+{"channel": "fengrush", "avg_viewers": 3663, "followers_gained": 1208, "peak_viewers": 5784, "hours_streamed": 131, "streams": 23, "mature": 0, "language": "English", "account_age": 2160000.0}

@@ -1,0 +1,1 @@
+{"channel": "yukirano", "avg_viewers": 5, "followers_gained": 97, "peak_viewers": 22, "hours_streamed": 294, "streams": 40, "mature": 1, "language": "English", "account_age": 3435840.0}

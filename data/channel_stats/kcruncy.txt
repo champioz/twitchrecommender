@@ -1,0 +1,1 @@
+{"channel": "kcruncy", "avg_viewers": 47, "followers_gained": 333, "peak_viewers": 115, "hours_streamed": 47, "streams": 16, "mature": 0, "language": "English", "account_age": 1314720.0}

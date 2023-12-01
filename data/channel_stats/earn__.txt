@@ -1,0 +1,1 @@
+{"channel": "earn__", "avg_viewers": 4, "followers_gained": 13, "peak_viewers": 12, "hours_streamed": 8, "streams": 7, "mature": 0, "language": "English", "account_age": 2234880.0}

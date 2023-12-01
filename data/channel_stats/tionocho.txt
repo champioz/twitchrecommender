@@ -1,0 +1,1 @@
+{"channel": "tionocho", "avg_viewers": 1, "followers_gained": 8, "peak_viewers": 10, "hours_streamed": 4, "streams": 4, "mature": 1, "language": "Portuguese", "account_age": 979200.0}

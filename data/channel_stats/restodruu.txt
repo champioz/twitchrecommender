@@ -1,0 +1,1 @@
+{"channel": "restodruu", "avg_viewers": 11, "followers_gained": 74, "peak_viewers": 36, "hours_streamed": 108, "streams": 35, "mature": 0, "language": "Russian", "account_age": 1232640.0}

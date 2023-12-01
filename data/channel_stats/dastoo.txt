@@ -1,0 +1,1 @@
+{"channel": "dastoo", "avg_viewers": 16, "followers_gained": 23, "peak_viewers": 32, "hours_streamed": 19, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 2570400.0}

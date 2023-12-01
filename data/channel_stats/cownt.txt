@@ -1,0 +1,1 @@
+{"channel": "cownt", "avg_viewers": 25, "followers_gained": 2, "peak_viewers": 50, "hours_streamed": 30, "streams": 8, "mature": 0, "language": "English", "account_age": 3667680.0}

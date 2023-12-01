@@ -1,0 +1,1 @@
+{"channel": "mcbiscit", "avg_viewers": 4, "followers_gained": 11, "peak_viewers": 14, "hours_streamed": 25, "streams": 5, "mature": 1, "language": "English", "account_age": 3121920.0}

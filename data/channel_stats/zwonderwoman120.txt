@@ -1,0 +1,1 @@
+{"channel": "zwonderwoman120", "avg_viewers": 5, "followers_gained": 76, "peak_viewers": 54, "hours_streamed": 137, "streams": 44, "mature": 0, "language": "English", "account_age": 1798560.0}

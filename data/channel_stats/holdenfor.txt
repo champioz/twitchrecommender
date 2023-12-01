@@ -1,0 +1,1 @@
+{"channel": "holdenfor", "avg_viewers": 12, "followers_gained": 113, "peak_viewers": 43, "hours_streamed": 91, "streams": 29, "mature": 1, "language": "Bulgarian", "account_age": 698400.0}

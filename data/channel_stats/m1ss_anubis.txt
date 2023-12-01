@@ -1,0 +1,1 @@
+{"channel": "m1ss_anubis", "avg_viewers": 13, "followers_gained": 0, "peak_viewers": 20, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "English", "account_age": 561600.0}

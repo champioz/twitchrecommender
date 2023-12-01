@@ -1,0 +1,1 @@
+{"channel": "jhessytv", "avg_viewers": 14, "followers_gained": 147, "peak_viewers": 29, "hours_streamed": 27, "streams": 8, "mature": 1, "language": "Portuguese", "account_age": 1383840.0}

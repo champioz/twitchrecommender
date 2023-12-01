@@ -1,0 +1,1 @@
+{"channel": "st3gr0", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 21, "streams": 12, "mature": 1, "language": "German", "account_age": 1215360.0}

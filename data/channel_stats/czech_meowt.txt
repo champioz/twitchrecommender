@@ -1,0 +1,1 @@
+{"channel": "czech_meowt", "avg_viewers": 55, "followers_gained": 227, "peak_viewers": 160, "hours_streamed": 52, "streams": 9, "mature": 1, "language": "English", "account_age": 2394720.0}

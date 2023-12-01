@@ -1,0 +1,1 @@
+{"channel": "gweiss96", "avg_viewers": 10, "followers_gained": 10, "peak_viewers": 18, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "English", "account_age": 3094560.0}

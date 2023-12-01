@@ -1,0 +1,1 @@
+{"channel": "cengizhancelik", "avg_viewers": 72, "followers_gained": 1137, "peak_viewers": 670, "hours_streamed": 129, "streams": 34, "mature": 1, "language": "Turkish", "account_age": 1893600.0}

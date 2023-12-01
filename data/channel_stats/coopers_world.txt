@@ -1,0 +1,1 @@
+{"channel": "coopers_world", "avg_viewers": 10, "followers_gained": 13, "peak_viewers": 42, "hours_streamed": 51, "streams": 17, "mature": 1, "language": "German", "account_age": 524160.0}

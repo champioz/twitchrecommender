@@ -1,0 +1,1 @@
+{"channel": "botatcg", "avg_viewers": 113, "followers_gained": 577, "peak_viewers": 602, "hours_streamed": 102, "streams": 25, "mature": 1, "language": "Portuguese", "account_age": 1084320.0}

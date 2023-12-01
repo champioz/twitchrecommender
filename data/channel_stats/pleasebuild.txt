@@ -1,0 +1,1 @@
+{"channel": "pleasebuild", "avg_viewers": 25, "followers_gained": 455, "peak_viewers": 80, "hours_streamed": 78, "streams": 30, "mature": 0, "language": "English", "account_age": 773280.0}

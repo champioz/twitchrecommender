@@ -1,0 +1,1 @@
+{"channel": "smoofachu", "avg_viewers": 15, "followers_gained": 63, "peak_viewers": 50, "hours_streamed": 165, "streams": 33, "mature": 1, "language": "English", "account_age": 3836160.0}

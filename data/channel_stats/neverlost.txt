@@ -1,0 +1,1 @@
+{"channel": "neverlost", "avg_viewers": 63, "followers_gained": 5, "peak_viewers": 105, "hours_streamed": 2, "streams": 3, "mature": 1, "language": "Turkish", "account_age": 1173600.0}

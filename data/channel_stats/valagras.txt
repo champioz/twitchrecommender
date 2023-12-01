@@ -1,0 +1,1 @@
+{"channel": "valagras", "avg_viewers": 0, "followers_gained": 8, "peak_viewers": 7, "hours_streamed": 105, "streams": 21, "mature": 1, "language": "Russian", "account_age": 492480.0}

@@ -1,0 +1,1 @@
+{"channel": "miafitz", "avg_viewers": 735, "followers_gained": 20702, "peak_viewers": 2151, "hours_streamed": 56, "streams": 20, "mature": 1, "language": "Turkish", "account_age": 1824480.0}

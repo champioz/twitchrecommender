@@ -1,0 +1,1 @@
+{"channel": "itmeseb", "avg_viewers": 3, "followers_gained": 21, "peak_viewers": 9, "hours_streamed": 25, "streams": 13, "mature": 1, "language": "Portuguese", "account_age": 3208320.0}

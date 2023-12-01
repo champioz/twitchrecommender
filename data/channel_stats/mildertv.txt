@@ -1,0 +1,1 @@
+{"channel": "mildertv", "avg_viewers": 1, "followers_gained": 12, "peak_viewers": 4, "hours_streamed": 41, "streams": 15, "mature": 0, "language": "Thai", "account_age": 1450080.0}

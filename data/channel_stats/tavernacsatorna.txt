@@ -1,0 +1,1 @@
+{"channel": "tavernacsatorna", "avg_viewers": 105, "followers_gained": 129, "peak_viewers": 156, "hours_streamed": 18, "streams": 5, "mature": 1, "language": "Hungarian", "account_age": 326880.0}

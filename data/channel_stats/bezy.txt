@@ -1,0 +1,1 @@
+{"channel": "bezy", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 11, "streams": 8, "mature": 1, "language": "Other", "account_age": 1464480.0}

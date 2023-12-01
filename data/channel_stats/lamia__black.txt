@@ -1,0 +1,1 @@
+{"channel": "lamia__black", "avg_viewers": 28, "followers_gained": 33, "peak_viewers": 63, "hours_streamed": 36, "streams": 13, "mature": 1, "language": "German", "account_age": 1376640.0}

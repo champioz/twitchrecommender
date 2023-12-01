@@ -1,0 +1,1 @@
+{"channel": "sue325", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 15, "hours_streamed": 52, "streams": 16, "mature": 0, "language": "Japanese", "account_age": 1766880.0}

@@ -1,0 +1,1 @@
+{"channel": "andrea_twt", "avg_viewers": 2, "followers_gained": 36, "peak_viewers": 10, "hours_streamed": 22, "streams": 11, "mature": 1, "language": "Spanish", "account_age": 2085120.0}

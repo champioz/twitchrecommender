@@ -1,0 +1,1 @@
+{"channel": "amadborn", "avg_viewers": 99, "followers_gained": 999, "peak_viewers": 263, "hours_streamed": 208, "streams": 27, "mature": 0, "language": "English", "account_age": 1713600.0}

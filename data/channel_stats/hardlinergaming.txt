@@ -1,0 +1,1 @@
+{"channel": "hardlinergaming", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 16, "streams": 4, "mature": 1, "language": "German", "account_age": 1584000.0}

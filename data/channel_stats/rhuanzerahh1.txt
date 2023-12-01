@@ -1,0 +1,1 @@
+{"channel": "rhuanzerahh1", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 7, "streams": 4, "mature": 0, "language": "Portuguese", "account_age": 506880.0}

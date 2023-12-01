@@ -1,0 +1,1 @@
+{"channel": "sparkygaming_", "avg_viewers": 24, "followers_gained": 75, "peak_viewers": 117, "hours_streamed": 23, "streams": 10, "mature": 1, "language": "English", "account_age": 1317600.0}

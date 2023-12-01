@@ -1,0 +1,1 @@
+{"channel": "scopemeup", "avg_viewers": 27, "followers_gained": 21, "peak_viewers": 45, "hours_streamed": 16, "streams": 7, "mature": 0, "language": "English", "account_age": 1094400.0}

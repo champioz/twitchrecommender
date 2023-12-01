@@ -1,0 +1,1 @@
+{"channel": "false21", "avg_viewers": 7, "followers_gained": 17, "peak_viewers": 43, "hours_streamed": 48, "streams": 17, "mature": 1, "language": "German", "account_age": 1637280.0}

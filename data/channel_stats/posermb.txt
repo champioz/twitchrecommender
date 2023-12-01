@@ -1,0 +1,1 @@
+{"channel": "posermb", "avg_viewers": 4, "followers_gained": 27, "peak_viewers": 17, "hours_streamed": 50, "streams": 17, "mature": 0, "language": "English", "account_age": 1026720.0}

@@ -1,0 +1,1 @@
+{"channel": "shovan_splatica", "avg_viewers": 5, "followers_gained": 41, "peak_viewers": 40, "hours_streamed": 169, "streams": 30, "mature": 0, "language": "Japanese", "account_age": 1101600.0}

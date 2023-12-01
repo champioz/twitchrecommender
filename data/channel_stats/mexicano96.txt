@@ -1,0 +1,1 @@
+{"channel": "mexicano96", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 13, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 1425600.0}

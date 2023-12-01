@@ -1,0 +1,1 @@
+{"channel": "madameskelly", "avg_viewers": 9, "followers_gained": 2, "peak_viewers": 19, "hours_streamed": 24, "streams": 10, "mature": 1, "language": "English", "account_age": 2291040.0}

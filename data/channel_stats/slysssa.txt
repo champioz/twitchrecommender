@@ -1,0 +1,1 @@
+{"channel": "slysssa", "avg_viewers": 351, "followers_gained": 1129, "peak_viewers": 6055, "hours_streamed": 180, "streams": 26, "mature": 0, "language": "English", "account_age": 1378080.0}

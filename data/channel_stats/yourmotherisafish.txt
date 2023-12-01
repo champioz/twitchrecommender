@@ -1,0 +1,1 @@
+{"channel": "yourmotherisafish", "avg_viewers": 10, "followers_gained": 39, "peak_viewers": 24, "hours_streamed": 53, "streams": 16, "mature": 1, "language": "English", "account_age": 2433600.0}

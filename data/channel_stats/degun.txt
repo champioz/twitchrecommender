@@ -1,0 +1,1 @@
+{"channel": "degun", "avg_viewers": 133, "followers_gained": 453, "peak_viewers": 507, "hours_streamed": 80, "streams": 20, "mature": 0, "language": "French", "account_age": 2064960.0}

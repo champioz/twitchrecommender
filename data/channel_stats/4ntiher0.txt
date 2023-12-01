@@ -1,0 +1,1 @@
+{"channel": "4ntiher0", "avg_viewers": 6, "followers_gained": 20, "peak_viewers": 14, "hours_streamed": 6, "streams": 2, "mature": 1, "language": "English", "account_age": 3443040.0}

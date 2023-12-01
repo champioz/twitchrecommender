@@ -1,0 +1,1 @@
+{"channel": "bulmapt", "avg_viewers": 19, "followers_gained": 65, "peak_viewers": 41, "hours_streamed": 16, "streams": 5, "mature": 1, "language": "Portuguese", "account_age": 2381760.0}

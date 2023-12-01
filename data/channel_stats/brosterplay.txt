@@ -1,0 +1,1 @@
+{"channel": "brosterplay", "avg_viewers": 2, "followers_gained": 30, "peak_viewers": 15, "hours_streamed": 156, "streams": 52, "mature": 0, "language": "Russian", "account_age": 1815840.0}

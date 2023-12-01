@@ -1,0 +1,1 @@
+{"channel": "bluegoatbard", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 9, "hours_streamed": 41, "streams": 18, "mature": 1, "language": "English", "account_age": 311040.0}

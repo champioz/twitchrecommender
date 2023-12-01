@@ -1,0 +1,1 @@
+{"channel": "arquel", "avg_viewers": 1016, "followers_gained": 3770, "peak_viewers": 4567, "hours_streamed": 187, "streams": 28, "mature": 0, "language": "Polish", "account_age": 2079360.0}

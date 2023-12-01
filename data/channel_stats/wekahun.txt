@@ -1,0 +1,1 @@
+{"channel": "wekahun", "avg_viewers": 9, "followers_gained": 348, "peak_viewers": 36, "hours_streamed": 158, "streams": 44, "mature": 0, "language": "Hungarian", "account_age": 1465920.0}

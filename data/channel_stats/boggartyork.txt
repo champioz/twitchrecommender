@@ -1,0 +1,1 @@
+{"channel": "boggartyork", "avg_viewers": 26, "followers_gained": 42, "peak_viewers": 122, "hours_streamed": 39, "streams": 19, "mature": 0, "language": "Russian", "account_age": 2096640.0}

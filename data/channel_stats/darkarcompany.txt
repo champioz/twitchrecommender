@@ -1,0 +1,1 @@
+{"channel": "darkarcompany", "avg_viewers": 247, "followers_gained": 23721, "peak_viewers": 1180, "hours_streamed": 607, "streams": 44, "mature": 0, "language": "Spanish", "account_age": 2855520.0}

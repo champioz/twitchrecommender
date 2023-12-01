@@ -1,0 +1,1 @@
+{"channel": "belkanwolf", "avg_viewers": 7, "followers_gained": 36, "peak_viewers": 17, "hours_streamed": 66, "streams": 26, "mature": 0, "language": "Spanish", "account_age": 815040.0}

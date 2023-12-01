@@ -1,0 +1,1 @@
+{"channel": "dgr_dave", "avg_viewers": 389, "followers_gained": 4392, "peak_viewers": 787, "hours_streamed": 61, "streams": 21, "mature": 0, "language": "English", "account_age": 1710720.0}

@@ -1,0 +1,1 @@
+{"channel": "chromahere", "avg_viewers": 12, "followers_gained": 49, "peak_viewers": 25, "hours_streamed": 52, "streams": 9, "mature": 0, "language": "English", "account_age": 1481760.0}

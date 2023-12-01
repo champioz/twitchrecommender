@@ -1,0 +1,1 @@
+{"channel": "sneezyxdwarf", "avg_viewers": 6, "followers_gained": 10, "peak_viewers": 20, "hours_streamed": 42, "streams": 12, "mature": 1, "language": "Dutch", "account_age": 4019040.0}

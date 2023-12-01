@@ -1,0 +1,1 @@
+{"channel": "murphtracey", "avg_viewers": 136, "followers_gained": 77, "peak_viewers": 235, "hours_streamed": 100, "streams": 16, "mature": 0, "language": "German", "account_age": 2394720.0}

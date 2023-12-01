@@ -1,0 +1,1 @@
+{"channel": "bubinhaalmeida", "avg_viewers": 3, "followers_gained": 50, "peak_viewers": 23, "hours_streamed": 206, "streams": 34, "mature": 0, "language": "Portuguese", "account_age": 1825920.0}

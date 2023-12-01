@@ -1,0 +1,1 @@
+{"channel": "einfachdommi", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 15, "hours_streamed": 29, "streams": 8, "mature": 0, "language": "German", "account_age": 2260800.0}

@@ -1,0 +1,1 @@
+{"channel": "al3x", "avg_viewers": 15, "followers_gained": 99, "peak_viewers": 129, "hours_streamed": 34, "streams": 8, "mature": 0, "language": "English", "account_age": 2543040.0}

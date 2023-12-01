@@ -1,0 +1,1 @@
+{"channel": "h3llstream", "avg_viewers": 29, "followers_gained": 80, "peak_viewers": 50, "hours_streamed": 73, "streams": 21, "mature": 1, "language": "French", "account_age": 1291680.0}

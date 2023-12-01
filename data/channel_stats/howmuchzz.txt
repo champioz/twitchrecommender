@@ -1,0 +1,1 @@
+{"channel": "howmuchzz", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 14, "streams": 3, "mature": 0, "language": "Japanese", "account_age": 1853280.0}

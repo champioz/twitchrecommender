@@ -1,0 +1,1 @@
+{"channel": "montyglu", "avg_viewers": 113, "followers_gained": 187, "peak_viewers": 202, "hours_streamed": 31, "streams": 8, "mature": 0, "language": "English", "account_age": 3373920.0}

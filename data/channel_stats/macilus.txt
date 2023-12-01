@@ -1,0 +1,1 @@
+{"channel": "macilus", "avg_viewers": 267, "followers_gained": 474, "peak_viewers": 855, "hours_streamed": 136, "streams": 18, "mature": 1, "language": "English", "account_age": 3480480.0}

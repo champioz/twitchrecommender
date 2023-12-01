@@ -1,0 +1,1 @@
+{"channel": "lagarto", "avg_viewers": 517, "followers_gained": 4698, "peak_viewers": 5983, "hours_streamed": 56, "streams": 19, "mature": 1, "language": "Spanish", "account_age": 807840.0}

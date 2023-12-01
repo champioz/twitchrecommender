@@ -1,0 +1,1 @@
+{"channel": "pellinski", "avg_viewers": 24, "followers_gained": 6, "peak_viewers": 65, "hours_streamed": 61, "streams": 11, "mature": 1, "language": "German", "account_age": 2813760.0}

@@ -1,0 +1,1 @@
+{"channel": "kirbsalot", "avg_viewers": 4, "followers_gained": 7, "peak_viewers": 10, "hours_streamed": 28, "streams": 13, "mature": 1, "language": "English", "account_age": 2308320.0}

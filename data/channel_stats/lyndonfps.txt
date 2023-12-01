@@ -1,0 +1,1 @@
+{"channel": "lyndonfps", "avg_viewers": 239, "followers_gained": 1515, "peak_viewers": 1450, "hours_streamed": 123, "streams": 19, "mature": 1, "language": "English", "account_age": 2904480.0}

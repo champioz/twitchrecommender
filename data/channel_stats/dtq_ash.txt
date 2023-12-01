@@ -1,0 +1,1 @@
+{"channel": "dtq_ash", "avg_viewers": 2, "followers_gained": 21, "peak_viewers": 13, "hours_streamed": 48, "streams": 9, "mature": 1, "language": "English", "account_age": 2400480.0}

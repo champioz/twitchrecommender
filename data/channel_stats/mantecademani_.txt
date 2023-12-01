@@ -1,0 +1,1 @@
+{"channel": "mantecademani_", "avg_viewers": 14, "followers_gained": 311, "peak_viewers": 76, "hours_streamed": 112, "streams": 27, "mature": 0, "language": "Spanish", "account_age": 498240.0}

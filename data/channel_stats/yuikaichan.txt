@@ -1,0 +1,1 @@
+{"channel": "yuikaichan", "avg_viewers": 47, "followers_gained": 272, "peak_viewers": 104, "hours_streamed": 80, "streams": 30, "mature": 0, "language": "English", "account_age": 502560.0}

@@ -1,0 +1,1 @@
+{"channel": "s8ris", "avg_viewers": 29, "followers_gained": 87, "peak_viewers": 131, "hours_streamed": 103, "streams": 16, "mature": 0, "language": "Other", "account_age": 3555360.0}

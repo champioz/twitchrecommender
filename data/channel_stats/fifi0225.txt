@@ -1,0 +1,1 @@
+{"channel": "fifi0225", "avg_viewers": 17, "followers_gained": 41, "peak_viewers": 48, "hours_streamed": 141, "streams": 45, "mature": 0, "language": "Chinese", "account_age": 1556640.0}

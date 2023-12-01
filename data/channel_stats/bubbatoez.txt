@@ -1,0 +1,1 @@
+{"channel": "bubbatoez", "avg_viewers": 5, "followers_gained": 103, "peak_viewers": 44, "hours_streamed": 156, "streams": 38, "mature": 0, "language": "English", "account_age": 645120.0}

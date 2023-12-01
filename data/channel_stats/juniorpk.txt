@@ -1,0 +1,1 @@
+{"channel": "juniorpk", "avg_viewers": 475, "followers_gained": 911, "peak_viewers": 6653, "hours_streamed": 27, "streams": 13, "mature": 0, "language": "English", "account_age": 2253600.0}

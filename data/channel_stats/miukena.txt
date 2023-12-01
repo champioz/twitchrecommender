@@ -1,0 +1,1 @@
+{"channel": "miukena", "avg_viewers": 21, "followers_gained": 206, "peak_viewers": 96, "hours_streamed": 136, "streams": 28, "mature": 0, "language": "Spanish", "account_age": 1671840.0}

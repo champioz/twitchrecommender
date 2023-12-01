@@ -1,0 +1,1 @@
+{"channel": "syphu", "avg_viewers": 17, "followers_gained": 255, "peak_viewers": 45, "hours_streamed": 49, "streams": 21, "mature": 1, "language": "English", "account_age": 768960.0}

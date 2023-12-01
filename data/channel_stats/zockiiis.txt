@@ -1,0 +1,1 @@
+{"channel": "zockiiis", "avg_viewers": 178, "followers_gained": 150, "peak_viewers": 569, "hours_streamed": 20, "streams": 9, "mature": 1, "language": "German", "account_age": 941760.0}

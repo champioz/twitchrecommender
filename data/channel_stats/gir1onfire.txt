@@ -1,0 +1,1 @@
+{"channel": "gir1onfire", "avg_viewers": 3, "followers_gained": 23, "peak_viewers": 13, "hours_streamed": 87, "streams": 31, "mature": 0, "language": "Korean", "account_age": 766080.0}

@@ -1,0 +1,1 @@
+{"channel": "justrachy", "avg_viewers": 20, "followers_gained": 263, "peak_viewers": 45, "hours_streamed": 35, "streams": 8, "mature": 0, "language": "English", "account_age": 1905120.0}

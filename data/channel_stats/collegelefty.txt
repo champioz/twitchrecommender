@@ -1,0 +1,1 @@
+{"channel": "collegelefty", "avg_viewers": 43, "followers_gained": 280, "peak_viewers": 130, "hours_streamed": 36, "streams": 13, "mature": 0, "language": "English", "account_age": 744480.0}

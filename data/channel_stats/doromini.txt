@@ -1,0 +1,1 @@
+{"channel": "doromini", "avg_viewers": 4, "followers_gained": 27, "peak_viewers": 14, "hours_streamed": 198, "streams": 24, "mature": 0, "language": "Korean", "account_age": 1540800.0}

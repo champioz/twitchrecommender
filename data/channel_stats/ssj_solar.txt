@@ -1,0 +1,1 @@
+{"channel": "ssj_solar", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 12, "hours_streamed": 24, "streams": 8, "mature": 0, "language": "English", "account_age": 1978560.0}

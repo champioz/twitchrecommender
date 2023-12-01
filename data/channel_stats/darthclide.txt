@@ -1,0 +1,1 @@
+{"channel": "darthclide", "avg_viewers": 0, "followers_gained": 11, "peak_viewers": 7, "hours_streamed": 166, "streams": 23, "mature": 0, "language": "English", "account_age": 4357440.0}

@@ -1,0 +1,1 @@
+{"channel": "estrimotdj", "avg_viewers": 2644, "followers_gained": 372, "peak_viewers": 3381, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 3002400.0}

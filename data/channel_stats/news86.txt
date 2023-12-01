@@ -1,0 +1,1 @@
+{"channel": "news86", "avg_viewers": 13, "followers_gained": 8, "peak_viewers": 40, "hours_streamed": 138, "streams": 36, "mature": 1, "language": "Chinese", "account_age": 856800.0}

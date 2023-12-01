@@ -1,0 +1,1 @@
+{"channel": "mauzy", "avg_viewers": 6, "followers_gained": 14, "peak_viewers": 16, "hours_streamed": 21, "streams": 10, "mature": 1, "language": "Spanish", "account_age": 2386080.0}

@@ -1,0 +1,1 @@
+{"channel": "scarface", "avg_viewers": 109, "followers_gained": 19, "peak_viewers": 714, "hours_streamed": 53, "streams": 14, "mature": 0, "language": "German", "account_age": 2062080.0}

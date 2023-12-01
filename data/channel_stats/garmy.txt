@@ -1,0 +1,1 @@
+{"channel": "garmy", "avg_viewers": 245, "followers_gained": 770, "peak_viewers": 362, "hours_streamed": 68, "streams": 16, "mature": 0, "language": "Spanish", "account_age": 2759040.0}

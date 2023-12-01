@@ -1,0 +1,1 @@
+{"channel": "maestronox", "avg_viewers": 13, "followers_gained": 68, "peak_viewers": 88, "hours_streamed": 154, "streams": 32, "mature": 0, "language": "English", "account_age": 3101760.0}

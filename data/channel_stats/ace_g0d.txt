@@ -1,0 +1,1 @@
+{"channel": "ace_g0d", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 0, "hours_streamed": 0, "streams": 0, "mature": 0, "language": "Portuguese", "account_age": 1235520.0}

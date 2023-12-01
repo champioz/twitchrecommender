@@ -1,0 +1,1 @@
+{"channel": "its_louiie", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 10, "hours_streamed": 33, "streams": 11, "mature": 1, "language": "English", "account_age": 1175040.0}

@@ -1,0 +1,1 @@
+{"channel": "lordjirall", "avg_viewers": 371, "followers_gained": 40, "peak_viewers": 460, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 2927520.0}

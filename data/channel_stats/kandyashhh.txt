@@ -1,0 +1,1 @@
+{"channel": "kandyashhh", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 16, "hours_streamed": 17, "streams": 4, "mature": 1, "language": "English", "account_age": 2999520.0}

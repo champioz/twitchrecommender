@@ -1,0 +1,1 @@
+{"channel": "oskur_gamer", "avg_viewers": 5, "followers_gained": 20, "peak_viewers": 19, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 272160.0}

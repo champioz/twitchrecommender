@@ -1,0 +1,1 @@
+{"channel": "vivere70", "avg_viewers": 79, "followers_gained": 1750, "peak_viewers": 129, "hours_streamed": 94, "streams": 22, "mature": 1, "language": "German", "account_age": 544320.0}

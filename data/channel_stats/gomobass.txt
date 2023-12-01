@@ -1,0 +1,1 @@
+{"channel": "gomobass", "avg_viewers": 6, "followers_gained": 4, "peak_viewers": 11, "hours_streamed": 11, "streams": 10, "mature": 0, "language": "Chinese", "account_age": 190080.0}

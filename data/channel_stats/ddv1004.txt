@@ -1,0 +1,1 @@
+{"channel": "ddv1004", "avg_viewers": 138, "followers_gained": 1723, "peak_viewers": 420, "hours_streamed": 174, "streams": 31, "mature": 0, "language": "Korean", "account_age": 1440000.0}

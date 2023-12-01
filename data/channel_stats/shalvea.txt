@@ -1,0 +1,1 @@
+{"channel": "shalvea", "avg_viewers": 8, "followers_gained": 21, "peak_viewers": 36, "hours_streamed": 23, "streams": 7, "mature": 1, "language": "German", "account_age": 1212480.0}

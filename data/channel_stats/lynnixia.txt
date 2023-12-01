@@ -1,0 +1,1 @@
+{"channel": "lynnixia", "avg_viewers": 22, "followers_gained": 112274, "peak_viewers": 42, "hours_streamed": 12, "streams": 4, "mature": 1, "language": "German", "account_age": 488160.0}

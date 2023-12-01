@@ -1,0 +1,1 @@
+{"channel": "isaacsanchez_art", "avg_viewers": 245, "followers_gained": 1109, "peak_viewers": 573, "hours_streamed": 26, "streams": 19, "mature": 0, "language": "Spanish", "account_age": 727200.0}

@@ -1,0 +1,1 @@
+{"channel": "sirslaw", "avg_viewers": 444, "followers_gained": 541, "peak_viewers": 1259, "hours_streamed": 12, "streams": 3, "mature": 0, "language": "English", "account_age": 1958400.0}

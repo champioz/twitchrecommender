@@ -1,0 +1,1 @@
+{"channel": "sersme", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 8, "hours_streamed": 74, "streams": 25, "mature": 0, "language": "Russian", "account_age": 2028960.0}

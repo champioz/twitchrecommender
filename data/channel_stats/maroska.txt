@@ -1,0 +1,1 @@
+{"channel": "maroska", "avg_viewers": 11, "followers_gained": 102, "peak_viewers": 25, "hours_streamed": 86, "streams": 27, "mature": 0, "language": "Russian", "account_age": 4233600.0}

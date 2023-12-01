@@ -1,0 +1,1 @@
+{"channel": "cloud9tw", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 77, "streams": 2, "mature": 0, "language": "Chinese", "account_age": 3062880.0}

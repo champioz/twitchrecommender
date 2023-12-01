@@ -1,0 +1,1 @@
+{"channel": "nyat", "avg_viewers": 32, "followers_gained": 118, "peak_viewers": 327, "hours_streamed": 28, "streams": 5, "mature": 1, "language": "Turkish", "account_age": 2337120.0}

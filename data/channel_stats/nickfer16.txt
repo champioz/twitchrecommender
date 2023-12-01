@@ -1,0 +1,1 @@
+{"channel": "nickfer16", "avg_viewers": 6, "followers_gained": 146, "peak_viewers": 19, "hours_streamed": 182, "streams": 67, "mature": 0, "language": "Spanish", "account_age": 1028160.0}

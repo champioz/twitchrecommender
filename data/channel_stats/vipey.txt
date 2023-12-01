@@ -1,0 +1,1 @@
+{"channel": "vipey", "avg_viewers": 35, "followers_gained": 93, "peak_viewers": 200, "hours_streamed": 76, "streams": 17, "mature": 0, "language": "English", "account_age": 1958400.0}

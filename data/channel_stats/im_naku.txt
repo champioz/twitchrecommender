@@ -1,0 +1,1 @@
+{"channel": "im_naku", "avg_viewers": 23, "followers_gained": 357, "peak_viewers": 172, "hours_streamed": 78, "streams": 23, "mature": 0, "language": "English", "account_age": 2357280.0}

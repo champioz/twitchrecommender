@@ -1,0 +1,1 @@
+{"channel": "daazy_", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 20, "hours_streamed": 180, "streams": 24, "mature": 1, "language": "German", "account_age": 2429280.0}

@@ -1,0 +1,1 @@
+{"channel": "mrmlg777", "avg_viewers": 2, "followers_gained": 40, "peak_viewers": 32, "hours_streamed": 150, "streams": 40, "mature": 0, "language": "English", "account_age": 2617920.0}

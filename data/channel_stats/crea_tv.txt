@@ -1,0 +1,1 @@
+{"channel": "crea_tv", "avg_viewers": 17, "followers_gained": 63, "peak_viewers": 37, "hours_streamed": 142, "streams": 26, "mature": 1, "language": "Dutch", "account_age": 2168640.0}

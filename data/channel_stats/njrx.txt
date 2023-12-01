@@ -1,0 +1,1 @@
+{"channel": "njrx", "avg_viewers": 41, "followers_gained": 373, "peak_viewers": 216, "hours_streamed": 17, "streams": 9, "mature": 0, "language": "Arabic", "account_age": 1068480.0}

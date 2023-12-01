@@ -1,0 +1,1 @@
+{"channel": "molt", "avg_viewers": 106, "followers_gained": 1256, "peak_viewers": 396, "hours_streamed": 46, "streams": 12, "mature": 0, "language": "English", "account_age": 3000960.0}

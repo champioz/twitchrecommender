@@ -1,0 +1,1 @@
+{"channel": "lausom", "avg_viewers": 30, "followers_gained": 434, "peak_viewers": 350, "hours_streamed": 252, "streams": 31, "mature": 1, "language": "Spanish", "account_age": 203040.0}

@@ -1,0 +1,1 @@
+{"channel": "wylsacom", "avg_viewers": 62, "followers_gained": 679, "peak_viewers": 768, "hours_streamed": 27, "streams": 7, "mature": 0, "language": "Russian", "account_age": 3785760.0}

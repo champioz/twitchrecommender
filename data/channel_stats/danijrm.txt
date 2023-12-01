@@ -1,0 +1,1 @@
+{"channel": "danijrm", "avg_viewers": 3, "followers_gained": 48, "peak_viewers": 28, "hours_streamed": 118, "streams": 52, "mature": 0, "language": "Spanish", "account_age": 3670560.0}

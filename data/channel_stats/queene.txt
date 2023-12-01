@@ -1,0 +1,1 @@
+{"channel": "queene", "avg_viewers": 70, "followers_gained": 200, "peak_viewers": 2073, "hours_streamed": 159, "streams": 28, "mature": 0, "language": "English", "account_age": 4073760.0}

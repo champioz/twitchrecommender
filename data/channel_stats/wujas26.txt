@@ -1,0 +1,1 @@
+{"channel": "wujas26", "avg_viewers": 24, "followers_gained": 1, "peak_viewers": 122, "hours_streamed": 32, "streams": 18, "mature": 0, "language": "Polish", "account_age": 3299040.0}

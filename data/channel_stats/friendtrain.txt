@@ -1,0 +1,1 @@
+{"channel": "friendtrain", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 9, "hours_streamed": 31, "streams": 16, "mature": 1, "language": "English", "account_age": 737280.0}

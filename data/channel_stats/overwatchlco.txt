@@ -1,0 +1,1 @@
+{"channel": "overwatchlco", "avg_viewers": 37, "followers_gained": 17, "peak_viewers": 57, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "French", "account_age": 1092960.0}

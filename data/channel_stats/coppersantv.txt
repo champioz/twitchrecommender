@@ -1,0 +1,1 @@
+{"channel": "coppersantv", "avg_viewers": 18, "followers_gained": 21, "peak_viewers": 35, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "English", "account_age": 3598560.0}

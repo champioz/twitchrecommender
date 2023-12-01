@@ -1,0 +1,1 @@
+{"channel": "weslv", "avg_viewers": 14, "followers_gained": 520, "peak_viewers": 41, "hours_streamed": 180, "streams": 31, "mature": 0, "language": "English", "account_age": 2949120.0}

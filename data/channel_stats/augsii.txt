@@ -1,0 +1,1 @@
+{"channel": "augsii", "avg_viewers": 17, "followers_gained": 62, "peak_viewers": 46, "hours_streamed": 19, "streams": 11, "mature": 0, "language": "German", "account_age": 1812960.0}

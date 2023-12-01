@@ -1,0 +1,1 @@
+{"channel": "k1ngdav1d", "avg_viewers": 10, "followers_gained": 5, "peak_viewers": 24, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "English", "account_age": 1120320.0}

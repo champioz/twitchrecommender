@@ -1,0 +1,1 @@
+{"channel": "missalina23", "avg_viewers": 50, "followers_gained": 643, "peak_viewers": 228, "hours_streamed": 63, "streams": 14, "mature": 1, "language": "Russian", "account_age": 1278720.0}

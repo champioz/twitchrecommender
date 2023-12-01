@@ -1,0 +1,1 @@
+{"channel": "janinaasmr", "avg_viewers": 452, "followers_gained": 4016, "peak_viewers": 1573, "hours_streamed": 20, "streams": 7, "mature": 0, "language": "German", "account_age": 1589760.0}

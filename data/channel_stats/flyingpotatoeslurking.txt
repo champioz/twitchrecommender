@@ -1,0 +1,1 @@
+{"channel": "flyingpotatoeslurking", "avg_viewers": 8, "followers_gained": 106, "peak_viewers": 35, "hours_streamed": 137, "streams": 31, "mature": 1, "language": "English", "account_age": 1687680.0}

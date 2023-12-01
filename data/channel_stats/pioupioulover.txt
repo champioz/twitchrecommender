@@ -1,0 +1,1 @@
+{"channel": "pioupioulover", "avg_viewers": 45, "followers_gained": 1054, "peak_viewers": 93, "hours_streamed": 215, "streams": 32, "mature": 0, "language": "French", "account_age": 3378240.0}

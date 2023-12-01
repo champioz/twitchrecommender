@@ -1,0 +1,1 @@
+{"channel": "borjittux", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 8, "hours_streamed": 13, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 1285920.0}

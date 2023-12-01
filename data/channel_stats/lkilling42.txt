@@ -1,0 +1,1 @@
+{"channel": "lkilling42", "avg_viewers": 7, "followers_gained": 3, "peak_viewers": 20, "hours_streamed": 296, "streams": 45, "mature": 0, "language": "Korean", "account_age": 744480.0}

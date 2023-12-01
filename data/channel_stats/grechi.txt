@@ -1,0 +1,1 @@
+{"channel": "grechi", "avg_viewers": 22, "followers_gained": 161, "peak_viewers": 55, "hours_streamed": 166, "streams": 51, "mature": 0, "language": "Spanish", "account_age": 2316960.0}

@@ -1,0 +1,1 @@
+{"channel": "sapeka", "avg_viewers": 40, "followers_gained": 86, "peak_viewers": 91, "hours_streamed": 11, "streams": 3, "mature": 0, "language": "Portuguese", "account_age": 3486240.0}

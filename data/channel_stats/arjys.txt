@@ -1,0 +1,1 @@
+{"channel": "arjys", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 15, "hours_streamed": 277, "streams": 36, "mature": 0, "language": "Russian", "account_age": 816480.0}

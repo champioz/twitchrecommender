@@ -1,0 +1,1 @@
+{"channel": "almina", "avg_viewers": 6, "followers_gained": 15, "peak_viewers": 36, "hours_streamed": 152, "streams": 37, "mature": 1, "language": "Korean", "account_age": 2053440.0}

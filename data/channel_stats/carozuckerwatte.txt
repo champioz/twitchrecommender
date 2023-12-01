@@ -1,0 +1,1 @@
+{"channel": "carozuckerwatte", "avg_viewers": 15, "followers_gained": 22, "peak_viewers": 37, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "German", "account_age": 1490400.0}

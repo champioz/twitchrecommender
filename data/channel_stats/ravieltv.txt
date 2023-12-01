@@ -1,0 +1,1 @@
+{"channel": "ravieltv", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 16, "hours_streamed": 36, "streams": 12, "mature": 0, "language": "Turkish", "account_age": 2204640.0}

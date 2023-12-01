@@ -1,0 +1,1 @@
+{"channel": "christaborg", "avg_viewers": 70, "followers_gained": 126, "peak_viewers": 529, "hours_streamed": 24, "streams": 9, "mature": 1, "language": "English", "account_age": 2710080.0}

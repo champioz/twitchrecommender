@@ -1,0 +1,1 @@
+{"channel": "badrookie_1977", "avg_viewers": 17, "followers_gained": 340, "peak_viewers": 167, "hours_streamed": 114, "streams": 36, "mature": 0, "language": "German", "account_age": 2213280.0}

@@ -1,0 +1,1 @@
+{"channel": "osulive", "avg_viewers": 297, "followers_gained": 1233, "peak_viewers": 539, "hours_streamed": 46, "streams": 13, "mature": 0, "language": "English", "account_age": 3078720.0}

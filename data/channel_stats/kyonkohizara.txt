@@ -1,0 +1,1 @@
+{"channel": "kyonkohizara", "avg_viewers": 12, "followers_gained": 59, "peak_viewers": 46, "hours_streamed": 56, "streams": 17, "mature": 1, "language": "English", "account_age": 3648960.0}

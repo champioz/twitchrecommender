@@ -1,0 +1,1 @@
+{"channel": "bulochkaaa", "avg_viewers": 23, "followers_gained": 47, "peak_viewers": 148, "hours_streamed": 112, "streams": 25, "mature": 0, "language": "Russian", "account_age": 1929600.0}

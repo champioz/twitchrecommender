@@ -1,0 +1,1 @@
+{"channel": "hummels86", "avg_viewers": 15, "followers_gained": 13, "peak_viewers": 61, "hours_streamed": 92, "streams": 21, "mature": 1, "language": "German", "account_age": 2233440.0}

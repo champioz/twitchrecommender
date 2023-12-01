@@ -1,0 +1,1 @@
+{"channel": "unclepointy", "avg_viewers": 9, "followers_gained": 13, "peak_viewers": 65, "hours_streamed": 74, "streams": 24, "mature": 1, "language": "English", "account_age": 3710880.0}

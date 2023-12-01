@@ -1,0 +1,1 @@
+{"channel": "strannik_oss", "avg_viewers": 8, "followers_gained": 10, "peak_viewers": 37, "hours_streamed": 17, "streams": 4, "mature": 1, "language": "Russian", "account_age": 1257120.0}

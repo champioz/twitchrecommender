@@ -1,0 +1,1 @@
+{"channel": "acktaviz", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 19, "hours_streamed": 31, "streams": 26, "mature": 0, "language": "English", "account_age": 1421280.0}

@@ -1,0 +1,1 @@
+{"channel": "xamork", "avg_viewers": 69, "followers_gained": 565, "peak_viewers": 545, "hours_streamed": 32, "streams": 22, "mature": 0, "language": "Spanish", "account_age": 2646720.0}

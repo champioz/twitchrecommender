@@ -1,0 +1,1 @@
+{"channel": "revite77", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 10, "streams": 9, "mature": 1, "language": "Finnish", "account_age": 2967840.0}

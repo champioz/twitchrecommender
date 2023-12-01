@@ -1,0 +1,1 @@
+{"channel": "billietrixx", "avg_viewers": 12, "followers_gained": 48, "peak_viewers": 26, "hours_streamed": 31, "streams": 15, "mature": 1, "language": "English", "account_age": 2856960.0}

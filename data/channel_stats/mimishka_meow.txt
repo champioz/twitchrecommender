@@ -1,0 +1,1 @@
+{"channel": "mimishka_meow", "avg_viewers": 89, "followers_gained": 19, "peak_viewers": 227, "hours_streamed": 122, "streams": 29, "mature": 1, "language": "Russian", "account_age": 1759680.0}

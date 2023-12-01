@@ -1,0 +1,1 @@
+{"channel": "mnxshadow", "avg_viewers": 10, "followers_gained": 106, "peak_viewers": 25, "hours_streamed": 86, "streams": 26, "mature": 0, "language": "Turkish", "account_age": 3012480.0}

@@ -1,0 +1,1 @@
+{"channel": "pedrogas", "avg_viewers": 12, "followers_gained": 4, "peak_viewers": 45, "hours_streamed": 21, "streams": 10, "mature": 0, "language": "Spanish", "account_age": 2901600.0}

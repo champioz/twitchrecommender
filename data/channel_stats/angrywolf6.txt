@@ -1,0 +1,1 @@
+{"channel": "angrywolf6", "avg_viewers": 61, "followers_gained": 293, "peak_viewers": 341, "hours_streamed": 98, "streams": 25, "mature": 1, "language": "English", "account_age": 1598400.0}

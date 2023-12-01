@@ -1,0 +1,1 @@
+{"channel": "gameinc", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 3, "streams": 3, "mature": 1, "language": "German", "account_age": 2707200.0}

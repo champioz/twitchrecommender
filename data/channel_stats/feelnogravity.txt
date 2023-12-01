@@ -1,0 +1,1 @@
+{"channel": "feelnogravity", "avg_viewers": 15, "followers_gained": 2, "peak_viewers": 73, "hours_streamed": 43, "streams": 11, "mature": 1, "language": "German", "account_age": 1222560.0}

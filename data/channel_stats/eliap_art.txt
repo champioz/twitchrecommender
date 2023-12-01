@@ -1,0 +1,1 @@
+{"channel": "eliap_art", "avg_viewers": 15, "followers_gained": 103, "peak_viewers": 38, "hours_streamed": 76, "streams": 25, "mature": 0, "language": "Spanish", "account_age": 1307520.0}

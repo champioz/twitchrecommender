@@ -1,0 +1,1 @@
+{"channel": "valaxor_", "avg_viewers": 7, "followers_gained": 17, "peak_viewers": 80, "hours_streamed": 56, "streams": 16, "mature": 1, "language": "English", "account_age": 3182400.0}

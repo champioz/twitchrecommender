@@ -1,0 +1,1 @@
+{"channel": "nalon0x", "avg_viewers": 2, "followers_gained": 55, "peak_viewers": 13, "hours_streamed": 47, "streams": 32, "mature": 0, "language": "French", "account_age": 1284480.0}

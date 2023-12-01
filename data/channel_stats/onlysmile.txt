@@ -1,0 +1,1 @@
+{"channel": "onlysmile", "avg_viewers": 28, "followers_gained": 161, "peak_viewers": 105, "hours_streamed": 116, "streams": 21, "mature": 1, "language": "Russian", "account_age": 1897920.0}

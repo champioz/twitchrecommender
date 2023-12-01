@@ -1,0 +1,1 @@
+{"channel": "juliettearz", "avg_viewers": 423, "followers_gained": 6225, "peak_viewers": 1152, "hours_streamed": 103, "streams": 19, "mature": 0, "language": "French", "account_age": 1687680.0}

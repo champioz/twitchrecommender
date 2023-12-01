@@ -1,0 +1,1 @@
+{"channel": "pandibeargame", "avg_viewers": 3, "followers_gained": 21, "peak_viewers": 17, "hours_streamed": 73, "streams": 16, "mature": 1, "language": "English", "account_age": 1186560.0}

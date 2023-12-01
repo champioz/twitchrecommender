@@ -1,0 +1,1 @@
+{"channel": "chuckmoulton", "avg_viewers": 27, "followers_gained": 42, "peak_viewers": 181, "hours_streamed": 26, "streams": 11, "mature": 0, "language": "English", "account_age": 1347840.0}

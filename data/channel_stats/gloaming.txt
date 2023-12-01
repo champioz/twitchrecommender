@@ -1,0 +1,1 @@
+{"channel": "gloaming", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 18, "hours_streamed": 22, "streams": 10, "mature": 0, "language": "English", "account_age": 2230560.0}

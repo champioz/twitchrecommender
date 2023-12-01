@@ -1,0 +1,1 @@
+{"channel": "nortini", "avg_viewers": 4, "followers_gained": 31, "peak_viewers": 15, "hours_streamed": 17, "streams": 10, "mature": 1, "language": "Spanish", "account_age": 2079360.0}

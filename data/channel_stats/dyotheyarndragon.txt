@@ -1,0 +1,1 @@
+{"channel": "dyotheyarndragon", "avg_viewers": 14, "followers_gained": 4, "peak_viewers": 42, "hours_streamed": 19, "streams": 5, "mature": 1, "language": "English", "account_age": 2753280.0}

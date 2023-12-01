@@ -1,0 +1,1 @@
+{"channel": "waitingbelieve", "avg_viewers": 17, "followers_gained": 4, "peak_viewers": 26, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "Chinese", "account_age": 2763360.0}

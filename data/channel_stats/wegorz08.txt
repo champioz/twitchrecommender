@@ -1,0 +1,1 @@
+{"channel": "wegorz08", "avg_viewers": 16, "followers_gained": 141, "peak_viewers": 40, "hours_streamed": 62, "streams": 29, "mature": 0, "language": "Polish", "account_age": 910080.0}

@@ -1,0 +1,1 @@
+{"channel": "naxalya", "avg_viewers": 36, "followers_gained": 79, "peak_viewers": 69, "hours_streamed": 50, "streams": 10, "mature": 1, "language": "French", "account_age": 3610080.0}

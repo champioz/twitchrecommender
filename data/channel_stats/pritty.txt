@@ -1,0 +1,1 @@
+{"channel": "pritty", "avg_viewers": 22, "followers_gained": 153, "peak_viewers": 87, "hours_streamed": 50, "streams": 15, "mature": 1, "language": "English", "account_age": 1399680.0}

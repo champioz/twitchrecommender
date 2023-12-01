@@ -1,0 +1,1 @@
+{"channel": "kvn_x", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "Italian", "account_age": 3843360.0}

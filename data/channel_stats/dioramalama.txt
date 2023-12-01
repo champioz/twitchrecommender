@@ -1,0 +1,1 @@
+{"channel": "dioramalama", "avg_viewers": 6, "followers_gained": 26, "peak_viewers": 15, "hours_streamed": 38, "streams": 11, "mature": 0, "language": "English", "account_age": 2132640.0}

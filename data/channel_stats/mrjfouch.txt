@@ -1,0 +1,1 @@
+{"channel": "mrjfouch", "avg_viewers": 14, "followers_gained": 66, "peak_viewers": 43, "hours_streamed": 61, "streams": 21, "mature": 1, "language": "English", "account_age": 2318400.0}

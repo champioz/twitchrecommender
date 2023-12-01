@@ -1,0 +1,1 @@
+{"channel": "twistykris", "avg_viewers": 17, "followers_gained": 25, "peak_viewers": 51, "hours_streamed": 87, "streams": 19, "mature": 0, "language": "English", "account_age": 2282400.0}

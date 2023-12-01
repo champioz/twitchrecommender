@@ -1,0 +1,1 @@
+{"channel": "ruliwebtv", "avg_viewers": 39, "followers_gained": 36, "peak_viewers": 79, "hours_streamed": 81, "streams": 18, "mature": 0, "language": "Korean", "account_age": 1290240.0}

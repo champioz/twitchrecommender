@@ -1,0 +1,1 @@
+{"channel": "tytykiller", "avg_viewers": 125, "followers_gained": 1049, "peak_viewers": 1494, "hours_streamed": 175, "streams": 26, "mature": 0, "language": "English", "account_age": 2406240.0}

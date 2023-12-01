@@ -1,0 +1,1 @@
+{"channel": "ibeandaddy", "avg_viewers": 5, "followers_gained": 46, "peak_viewers": 17, "hours_streamed": 208, "streams": 52, "mature": 1, "language": "English", "account_age": 1864800.0}

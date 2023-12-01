@@ -1,0 +1,1 @@
+{"channel": "roxyproxxy", "avg_viewers": 212, "followers_gained": 322, "peak_viewers": 453, "hours_streamed": 68, "streams": 13, "mature": 0, "language": "Swedish", "account_age": 3532320.0}

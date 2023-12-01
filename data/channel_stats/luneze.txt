@@ -1,0 +1,1 @@
+{"channel": "luneze", "avg_viewers": 115, "followers_gained": 2976, "peak_viewers": 3218, "hours_streamed": 134, "streams": 26, "mature": 0, "language": "English", "account_age": 807840.0}

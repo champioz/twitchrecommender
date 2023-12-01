@@ -1,0 +1,1 @@
+{"channel": "lexa095", "avg_viewers": 9, "followers_gained": 5, "peak_viewers": 20, "hours_streamed": 13, "streams": 5, "mature": 1, "language": "English", "account_age": 3035520.0}

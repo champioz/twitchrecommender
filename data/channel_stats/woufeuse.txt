@@ -1,0 +1,1 @@
+{"channel": "woufeuse", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 13, "hours_streamed": 40, "streams": 11, "mature": 1, "language": "French", "account_age": 2737440.0}

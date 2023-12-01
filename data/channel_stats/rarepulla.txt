@@ -1,0 +1,1 @@
+{"channel": "rarepulla", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 6, "streams": 6, "mature": 1, "language": "Finnish", "account_age": 3578400.0}

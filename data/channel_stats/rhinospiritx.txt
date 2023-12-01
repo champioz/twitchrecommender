@@ -1,0 +1,1 @@
+{"channel": "rhinospiritx", "avg_viewers": 6, "followers_gained": 147, "peak_viewers": 25, "hours_streamed": 84, "streams": 26, "mature": 0, "language": "English", "account_age": 159840.0}

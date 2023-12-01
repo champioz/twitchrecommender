@@ -1,0 +1,1 @@
+{"channel": "pada_sweat16", "avg_viewers": 58, "followers_gained": 25, "peak_viewers": 79, "hours_streamed": 3, "streams": 3, "mature": 0, "language": "Thai", "account_age": 686880.0}

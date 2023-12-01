@@ -1,0 +1,1 @@
+{"channel": "blacks7ven", "avg_viewers": 5, "followers_gained": 129, "peak_viewers": 16, "hours_streamed": 86, "streams": 21, "mature": 1, "language": "German", "account_age": 1382400.0}

@@ -1,0 +1,1 @@
+{"channel": "assasinhamster3", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 4, "hours_streamed": 23, "streams": 13, "mature": 1, "language": "German", "account_age": 583200.0}

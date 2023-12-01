@@ -1,0 +1,1 @@
+{"channel": "veinshepard", "avg_viewers": 14, "followers_gained": 286, "peak_viewers": 35, "hours_streamed": 224, "streams": 28, "mature": 0, "language": "Greek", "account_age": 1427040.0}

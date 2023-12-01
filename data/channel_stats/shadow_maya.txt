@@ -1,0 +1,1 @@
+{"channel": "shadow_maya", "avg_viewers": 2, "followers_gained": 23, "peak_viewers": 17, "hours_streamed": 225, "streams": 24, "mature": 0, "language": "Ukrainian", "account_age": 1048320.0}

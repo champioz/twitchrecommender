@@ -1,0 +1,1 @@
+{"channel": "dead_faer", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Russian", "account_age": 3372480.0}

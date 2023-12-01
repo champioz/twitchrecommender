@@ -1,0 +1,1 @@
+{"channel": "krus", "avg_viewers": 4, "followers_gained": 34, "peak_viewers": 48, "hours_streamed": 45, "streams": 11, "mature": 0, "language": "Spanish", "account_age": 1395360.0}

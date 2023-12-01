@@ -1,0 +1,1 @@
+{"channel": "tunzuvfun240", "avg_viewers": 6, "followers_gained": 75, "peak_viewers": 23, "hours_streamed": 119, "streams": 24, "mature": 1, "language": "English", "account_age": 565920.0}

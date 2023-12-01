@@ -1,0 +1,1 @@
+{"channel": "alouette", "avg_viewers": 43, "followers_gained": 1922, "peak_viewers": 355, "hours_streamed": 344, "streams": 31, "mature": 0, "language": "English", "account_age": 2099520.0}

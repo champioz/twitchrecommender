@@ -1,0 +1,1 @@
+{"channel": "capitankeen", "avg_viewers": 1, "followers_gained": 13, "peak_viewers": 7, "hours_streamed": 105, "streams": 45, "mature": 1, "language": "Spanish", "account_age": 774720.0}

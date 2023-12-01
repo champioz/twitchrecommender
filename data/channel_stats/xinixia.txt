@@ -1,0 +1,1 @@
+{"channel": "xinixia", "avg_viewers": 11, "followers_gained": 43, "peak_viewers": 29, "hours_streamed": 98, "streams": 20, "mature": 0, "language": "English", "account_age": 2243520.0}

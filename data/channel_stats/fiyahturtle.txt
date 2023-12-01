@@ -1,0 +1,1 @@
+{"channel": "fiyahturtle", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 13, "streams": 7, "mature": 1, "language": "English", "account_age": 2839680.0}

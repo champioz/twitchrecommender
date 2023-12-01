@@ -1,0 +1,1 @@
+{"channel": "voyevoda_rose", "avg_viewers": 6, "followers_gained": 30, "peak_viewers": 16, "hours_streamed": 15, "streams": 7, "mature": 1, "language": "English", "account_age": 1195200.0}

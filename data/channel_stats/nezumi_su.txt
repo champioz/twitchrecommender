@@ -1,0 +1,1 @@
+{"channel": "nezumi_su", "avg_viewers": 13, "followers_gained": 79, "peak_viewers": 32, "hours_streamed": 83, "streams": 21, "mature": 1, "language": "French", "account_age": 1573920.0}

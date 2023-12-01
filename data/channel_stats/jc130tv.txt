@@ -1,0 +1,1 @@
+{"channel": "jc130tv", "avg_viewers": 9, "followers_gained": 55, "peak_viewers": 33, "hours_streamed": 28, "streams": 19, "mature": 0, "language": "English", "account_age": 982080.0}

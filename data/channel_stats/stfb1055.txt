@@ -1,0 +1,1 @@
+{"channel": "stfb1055", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 31, "streams": 8, "mature": 1, "language": "English", "account_age": 5745600.0}

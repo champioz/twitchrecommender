@@ -1,0 +1,1 @@
+{"channel": "sinobidog", "avg_viewers": 17, "followers_gained": 139, "peak_viewers": 142, "hours_streamed": 187, "streams": 44, "mature": 1, "language": "Russian", "account_age": 2563200.0}

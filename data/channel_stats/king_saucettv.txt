@@ -1,0 +1,1 @@
+{"channel": "king_saucettv", "avg_viewers": 4, "followers_gained": 70, "peak_viewers": 20, "hours_streamed": 261, "streams": 53, "mature": 1, "language": "English", "account_age": 1758240.0}

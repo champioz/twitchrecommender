@@ -1,0 +1,1 @@
+{"channel": "krysaliah", "avg_viewers": 23, "followers_gained": 233, "peak_viewers": 65, "hours_streamed": 75, "streams": 19, "mature": 0, "language": "French", "account_age": 2147040.0}

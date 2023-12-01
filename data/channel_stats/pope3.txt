@@ -1,0 +1,1 @@
+{"channel": "pope3", "avg_viewers": 9, "followers_gained": 43, "peak_viewers": 33, "hours_streamed": 60, "streams": 19, "mature": 1, "language": "English", "account_age": 692640.0}

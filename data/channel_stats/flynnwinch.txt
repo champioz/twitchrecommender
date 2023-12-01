@@ -1,0 +1,1 @@
+{"channel": "flynnwinch", "avg_viewers": 58, "followers_gained": 328, "peak_viewers": 250, "hours_streamed": 156, "streams": 32, "mature": 1, "language": "French", "account_age": 3352320.0}

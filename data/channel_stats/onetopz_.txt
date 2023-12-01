@@ -1,0 +1,1 @@
+{"channel": "onetopz_", "avg_viewers": 2, "followers_gained": 88, "peak_viewers": 20, "hours_streamed": 168, "streams": 57, "mature": 0, "language": "French", "account_age": 691200.0}

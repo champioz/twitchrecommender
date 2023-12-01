@@ -1,0 +1,1 @@
+{"channel": "shiaged", "avg_viewers": 37, "followers_gained": 288, "peak_viewers": 125, "hours_streamed": 155, "streams": 35, "mature": 0, "language": "Czech", "account_age": 3333600.0}

@@ -1,0 +1,1 @@
+{"channel": "chilling", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 13, "hours_streamed": 7, "streams": 12, "mature": 1, "language": "Spanish", "account_age": 1421280.0}

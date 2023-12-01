@@ -1,0 +1,1 @@
+{"channel": "leantato", "avg_viewers": 5, "followers_gained": 49, "peak_viewers": 38, "hours_streamed": 7, "streams": 7, "mature": 0, "language": "Spanish", "account_age": 2854080.0}

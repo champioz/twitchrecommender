@@ -1,0 +1,1 @@
+{"channel": "mapeach", "avg_viewers": 7, "followers_gained": 36, "peak_viewers": 17, "hours_streamed": 40, "streams": 14, "mature": 0, "language": "Russian", "account_age": 2318400.0}

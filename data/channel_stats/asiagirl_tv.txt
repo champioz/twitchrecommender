@@ -1,0 +1,1 @@
+{"channel": "asiagirl_tv", "avg_viewers": 17, "followers_gained": 1, "peak_viewers": 21, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "French", "account_age": 1684800.0}

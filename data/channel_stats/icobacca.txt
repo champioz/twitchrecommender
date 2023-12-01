@@ -1,0 +1,1 @@
+{"channel": "icobacca", "avg_viewers": 13, "followers_gained": 48, "peak_viewers": 65, "hours_streamed": 79, "streams": 20, "mature": 1, "language": "English", "account_age": 2436480.0}

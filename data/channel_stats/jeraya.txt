@@ -1,0 +1,1 @@
+{"channel": "jeraya", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 6, "streams": 2, "mature": 1, "language": "French", "account_age": 3045600.0}

@@ -1,0 +1,1 @@
+{"channel": "rurikhan", "avg_viewers": 55, "followers_gained": 231, "peak_viewers": 120, "hours_streamed": 101, "streams": 25, "mature": 1, "language": "English", "account_age": 4446720.0}

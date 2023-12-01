@@ -1,0 +1,1 @@
+{"channel": "erkankeser", "avg_viewers": 2, "followers_gained": 27, "peak_viewers": 12, "hours_streamed": 46, "streams": 21, "mature": 0, "language": "Turkish", "account_age": 476640.0}

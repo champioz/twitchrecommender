@@ -1,0 +1,1 @@
+{"channel": "krisssaayy", "avg_viewers": 26, "followers_gained": 68, "peak_viewers": 55, "hours_streamed": 54, "streams": 6, "mature": 1, "language": "English", "account_age": 1108800.0}

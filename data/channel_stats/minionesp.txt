@@ -1,0 +1,1 @@
+{"channel": "minionesp", "avg_viewers": 3, "followers_gained": 13, "peak_viewers": 16, "hours_streamed": 68, "streams": 26, "mature": 0, "language": "Spanish", "account_age": 1016640.0}

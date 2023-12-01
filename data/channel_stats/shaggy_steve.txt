@@ -1,0 +1,1 @@
+{"channel": "shaggy_steve", "avg_viewers": 255, "followers_gained": 2258, "peak_viewers": 4023, "hours_streamed": 160, "streams": 24, "mature": 1, "language": "English", "account_age": 2714400.0}

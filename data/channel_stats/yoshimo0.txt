@@ -1,0 +1,1 @@
+{"channel": "yoshimo0", "avg_viewers": 10, "followers_gained": 2, "peak_viewers": 22, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "Polish", "account_age": 1624320.0}

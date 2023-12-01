@@ -1,0 +1,1 @@
+{"channel": "oxajder", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 34, "hours_streamed": 9, "streams": 6, "mature": 0, "language": "Swedish", "account_age": 4144320.0}

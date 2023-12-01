@@ -1,0 +1,1 @@
+{"channel": "djmaxofficial", "avg_viewers": 245, "followers_gained": 25, "peak_viewers": 343, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Korean", "account_age": 1402560.0}

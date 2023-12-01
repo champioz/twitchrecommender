@@ -1,0 +1,1 @@
+{"channel": "foshoshon", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 15, "streams": 11, "mature": 0, "language": "English", "account_age": 4825440.0}

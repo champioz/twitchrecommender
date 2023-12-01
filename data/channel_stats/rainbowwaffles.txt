@@ -1,0 +1,1 @@
+{"channel": "rainbowwaffles", "avg_viewers": 20, "followers_gained": 84, "peak_viewers": 178, "hours_streamed": 118, "streams": 27, "mature": 1, "language": "English", "account_age": 2920320.0}

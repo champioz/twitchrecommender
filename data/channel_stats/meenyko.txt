@@ -1,0 +1,1 @@
+{"channel": "meenyko", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 4, "streams": 4, "mature": 0, "language": "English", "account_age": 4446720.0}

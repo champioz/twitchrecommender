@@ -1,0 +1,1 @@
+{"channel": "andrew12312", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 13, "hours_streamed": 39, "streams": 13, "mature": 0, "language": "English", "account_age": 3749760.0}

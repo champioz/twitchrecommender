@@ -1,0 +1,1 @@
+{"channel": "nimmras", "avg_viewers": 6, "followers_gained": 27, "peak_viewers": 26, "hours_streamed": 153, "streams": 28, "mature": 1, "language": "English", "account_age": 804960.0}

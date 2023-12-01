@@ -1,0 +1,1 @@
+{"channel": "pureoxin", "avg_viewers": 18, "followers_gained": 33, "peak_viewers": 172, "hours_streamed": 38, "streams": 13, "mature": 0, "language": "English", "account_age": 1461600.0}

@@ -1,0 +1,1 @@
+{"channel": "krizmuzik", "avg_viewers": 6, "followers_gained": 50, "peak_viewers": 32, "hours_streamed": 184, "streams": 39, "mature": 1, "language": "German", "account_age": 699840.0}

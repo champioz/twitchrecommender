@@ -1,0 +1,1 @@
+{"channel": "mrsetokami", "avg_viewers": 149, "followers_gained": 152, "peak_viewers": 436, "hours_streamed": 73, "streams": 22, "mature": 0, "language": "Polish", "account_age": 3837600.0}

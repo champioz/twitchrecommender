@@ -1,0 +1,1 @@
+{"channel": "1stneemon", "avg_viewers": 38, "followers_gained": 338, "peak_viewers": 405, "hours_streamed": 67, "streams": 22, "mature": 1, "language": "English", "account_age": 1078560.0}

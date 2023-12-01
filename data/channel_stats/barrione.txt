@@ -1,0 +1,1 @@
+{"channel": "barrione", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 20, "streams": 2, "mature": 1, "language": "Russian", "account_age": 1761120.0}

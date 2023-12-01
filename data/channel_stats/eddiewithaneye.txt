@@ -1,0 +1,1 @@
+{"channel": "eddiewithaneye", "avg_viewers": 30, "followers_gained": 52, "peak_viewers": 134, "hours_streamed": 132, "streams": 36, "mature": 0, "language": "English", "account_age": 976320.0}

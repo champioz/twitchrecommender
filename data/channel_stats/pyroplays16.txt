@@ -1,0 +1,1 @@
+{"channel": "pyroplays16", "avg_viewers": 8, "followers_gained": 0, "peak_viewers": 12, "hours_streamed": 1, "streams": 3, "mature": 1, "language": "English", "account_age": 1339200.0}

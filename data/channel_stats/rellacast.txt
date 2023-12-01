@@ -1,0 +1,1 @@
+{"channel": "rellacast", "avg_viewers": 237, "followers_gained": 80, "peak_viewers": 840, "hours_streamed": 184, "streams": 29, "mature": 1, "language": "Korean", "account_age": 1919520.0}

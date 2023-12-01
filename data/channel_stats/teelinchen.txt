@@ -1,0 +1,1 @@
+{"channel": "teelinchen", "avg_viewers": 21, "followers_gained": 257, "peak_viewers": 43, "hours_streamed": 166, "streams": 33, "mature": 1, "language": "German", "account_age": 1782720.0}

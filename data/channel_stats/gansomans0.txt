@@ -1,0 +1,1 @@
+{"channel": "gansomans0", "avg_viewers": 1, "followers_gained": 22, "peak_viewers": 9, "hours_streamed": 38, "streams": 23, "mature": 0, "language": "Spanish", "account_age": 524160.0}

@@ -1,0 +1,1 @@
+{"channel": "julex", "avg_viewers": 10, "followers_gained": 495, "peak_viewers": 117, "hours_streamed": 66, "streams": 19, "mature": 0, "language": "German", "account_age": 1913760.0}

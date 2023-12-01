@@ -1,0 +1,1 @@
+{"channel": "letsplaymarkus", "avg_viewers": 113, "followers_gained": 364, "peak_viewers": 562, "hours_streamed": 43, "streams": 13, "mature": 0, "language": "German", "account_age": 4638240.0}

@@ -1,0 +1,1 @@
+{"channel": "sp4lma", "avg_viewers": 6, "followers_gained": 21, "peak_viewers": 16, "hours_streamed": 36, "streams": 14, "mature": 1, "language": "Spanish", "account_age": 2481120.0}

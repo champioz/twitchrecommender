@@ -1,0 +1,1 @@
+{"channel": "shaclaque", "avg_viewers": 4, "followers_gained": 36, "peak_viewers": 27, "hours_streamed": 52, "streams": 18, "mature": 1, "language": "French", "account_age": 1470240.0}

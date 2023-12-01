@@ -1,0 +1,1 @@
+{"channel": "estilo012", "avg_viewers": 138, "followers_gained": 951, "peak_viewers": 360, "hours_streamed": 115, "streams": 30, "mature": 1, "language": "Portuguese", "account_age": 185760.0}

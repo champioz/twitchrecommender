@@ -1,0 +1,1 @@
+{"channel": "xm7mdgamex", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 15, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "Arabic", "account_age": 1916640.0}

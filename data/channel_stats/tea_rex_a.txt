@@ -1,0 +1,1 @@
+{"channel": "tea_rex_a", "avg_viewers": 7, "followers_gained": 11, "peak_viewers": 19, "hours_streamed": 32, "streams": 8, "mature": 0, "language": "English", "account_age": 636480.0}

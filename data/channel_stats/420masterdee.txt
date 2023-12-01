@@ -1,0 +1,1 @@
+{"channel": "420masterdee", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 3, "hours_streamed": 12, "streams": 7, "mature": 1, "language": "Slovak", "account_age": 1609920.0}

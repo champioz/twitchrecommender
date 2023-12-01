@@ -1,0 +1,1 @@
+{"channel": "pixelcatgamer", "avg_viewers": 27, "followers_gained": 82, "peak_viewers": 38, "hours_streamed": 8, "streams": 3, "mature": 1, "language": "English", "account_age": 3083040.0}

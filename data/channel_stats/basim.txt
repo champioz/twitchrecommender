@@ -1,0 +1,1 @@
+{"channel": "basim", "avg_viewers": 18, "followers_gained": 19, "peak_viewers": 68, "hours_streamed": 62, "streams": 13, "mature": 0, "language": "English", "account_age": 2125440.0}

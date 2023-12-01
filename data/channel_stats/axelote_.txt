@@ -1,0 +1,1 @@
+{"channel": "axelote_", "avg_viewers": 10, "followers_gained": 1, "peak_viewers": 13, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Polish", "account_age": 2949120.0}

@@ -1,0 +1,1 @@
+{"channel": "alin0209", "avg_viewers": 12, "followers_gained": 17, "peak_viewers": 47, "hours_streamed": 214, "streams": 32, "mature": 1, "language": "Chinese", "account_age": 1923840.0}

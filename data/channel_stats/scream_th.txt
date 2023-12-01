@@ -1,0 +1,1 @@
+{"channel": "scream_th", "avg_viewers": 8, "followers_gained": 9, "peak_viewers": 23, "hours_streamed": 31, "streams": 12, "mature": 0, "language": "Thai", "account_age": 3451680.0}

@@ -1,0 +1,1 @@
+{"channel": "x_rodeocowboy_x", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 13, "hours_streamed": 165, "streams": 35, "mature": 1, "language": "English", "account_age": 2511360.0}

@@ -1,0 +1,1 @@
+{"channel": "smarmietoo", "avg_viewers": 14, "followers_gained": 20, "peak_viewers": 81, "hours_streamed": 53, "streams": 15, "mature": 1, "language": "English", "account_age": 2671200.0}

@@ -1,0 +1,1 @@
+{"channel": "codebleu13", "avg_viewers": 9, "followers_gained": 13, "peak_viewers": 20, "hours_streamed": 78, "streams": 9, "mature": 1, "language": "English", "account_age": 2312640.0}

@@ -1,0 +1,1 @@
+{"channel": "giuse360", "avg_viewers": 318, "followers_gained": 3517, "peak_viewers": 1202, "hours_streamed": 120, "streams": 30, "mature": 0, "language": "Italian", "account_age": 2632320.0}

@@ -1,0 +1,1 @@
+{"channel": "tangrenc", "avg_viewers": 5, "followers_gained": 39, "peak_viewers": 15, "hours_streamed": 65, "streams": 21, "mature": 0, "language": "French", "account_age": 2920320.0}

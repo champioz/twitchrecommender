@@ -1,0 +1,1 @@
+{"channel": "cytix", "avg_viewers": 21, "followers_gained": 200, "peak_viewers": 57, "hours_streamed": 55, "streams": 22, "mature": 0, "language": "German", "account_age": 4027680.0}

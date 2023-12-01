@@ -1,0 +1,1 @@
+{"channel": "la_cale", "avg_viewers": 4, "followers_gained": 14, "peak_viewers": 11, "hours_streamed": 22, "streams": 6, "mature": 1, "language": "French", "account_age": 1291680.0}

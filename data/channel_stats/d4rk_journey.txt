@@ -1,0 +1,1 @@
+{"channel": "d4rk_journey", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 29, "streams": 9, "mature": 1, "language": "German", "account_age": 2918880.0}

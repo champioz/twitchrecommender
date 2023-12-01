@@ -1,0 +1,1 @@
+{"channel": "ansansniper", "avg_viewers": 333, "followers_gained": 4215, "peak_viewers": 995, "hours_streamed": 132, "streams": 31, "mature": 0, "language": "Korean", "account_age": 1324800.0}

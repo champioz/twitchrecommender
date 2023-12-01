@@ -1,0 +1,1 @@
+{"channel": "dumbassdally", "avg_viewers": 27, "followers_gained": 17, "peak_viewers": 52, "hours_streamed": 10, "streams": 4, "mature": 1, "language": "English", "account_age": 1082880.0}

@@ -1,0 +1,1 @@
+{"channel": "mokew9", "avg_viewers": 67, "followers_gained": 346, "peak_viewers": 137, "hours_streamed": 84, "streams": 16, "mature": 0, "language": "Korean", "account_age": 698400.0}

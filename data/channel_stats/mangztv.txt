@@ -1,0 +1,1 @@
+{"channel": "mangztv", "avg_viewers": 5, "followers_gained": 41, "peak_viewers": 15, "hours_streamed": 20, "streams": 12, "mature": 0, "language": "English", "account_age": 243360.0}

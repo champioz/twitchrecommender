@@ -1,0 +1,1 @@
+{"channel": "thekonus", "avg_viewers": 18, "followers_gained": 11, "peak_viewers": 53, "hours_streamed": 102, "streams": 22, "mature": 0, "language": "Russian", "account_age": 3206880.0}

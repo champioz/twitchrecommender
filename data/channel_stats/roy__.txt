@@ -1,0 +1,1 @@
+{"channel": "roy__", "avg_viewers": 94, "followers_gained": 62, "peak_viewers": 254, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "English", "account_age": 1756800.0}

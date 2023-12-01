@@ -1,0 +1,1 @@
+{"channel": "zedzou", "avg_viewers": 5, "followers_gained": 5, "peak_viewers": 10, "hours_streamed": 3, "streams": 4, "mature": 1, "language": "French", "account_age": 813600.0}

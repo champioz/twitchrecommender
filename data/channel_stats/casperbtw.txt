@@ -1,0 +1,1 @@
+{"channel": "casperbtw", "avg_viewers": 11, "followers_gained": 42, "peak_viewers": 66, "hours_streamed": 55, "streams": 22, "mature": 0, "language": "English", "account_age": 2969280.0}

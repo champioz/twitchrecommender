@@ -1,0 +1,1 @@
+{"channel": "saltyfoot_", "avg_viewers": 1, "followers_gained": 11, "peak_viewers": 13, "hours_streamed": 23, "streams": 17, "mature": 0, "language": "English", "account_age": 311040.0}

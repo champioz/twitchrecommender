@@ -1,0 +1,1 @@
+{"channel": "carrotcheeks", "avg_viewers": 29, "followers_gained": 325, "peak_viewers": 60, "hours_streamed": 90, "streams": 19, "mature": 0, "language": "English", "account_age": 2463840.0}

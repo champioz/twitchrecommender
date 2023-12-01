@@ -1,0 +1,1 @@
+{"channel": "csruhub2", "avg_viewers": 5153, "followers_gained": 8861, "peak_viewers": 23537, "hours_streamed": 43, "streams": 6, "mature": 0, "language": "Russian", "account_age": 1801440.0}

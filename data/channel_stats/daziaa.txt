@@ -1,0 +1,1 @@
+{"channel": "daziaa", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 51, "streams": 27, "mature": 1, "language": "French", "account_age": 2928960.0}

@@ -1,0 +1,1 @@
+{"channel": "akdduf", "avg_viewers": 15, "followers_gained": 185, "peak_viewers": 41, "hours_streamed": 150, "streams": 38, "mature": 0, "language": "Korean", "account_age": 505440.0}

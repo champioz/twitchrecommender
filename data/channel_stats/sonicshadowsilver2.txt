@@ -1,0 +1,1 @@
+{"channel": "sonicshadowsilver2", "avg_viewers": 6, "followers_gained": 27, "peak_viewers": 58, "hours_streamed": 177, "streams": 30, "mature": 1, "language": "English", "account_age": 4943520.0}

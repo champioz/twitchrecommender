@@ -1,0 +1,1 @@
+{"channel": "tchiofx", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "French", "account_age": 1997280.0}

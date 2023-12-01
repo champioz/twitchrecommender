@@ -1,0 +1,1 @@
+{"channel": "pla__ty", "avg_viewers": 11, "followers_gained": 205, "peak_viewers": 33, "hours_streamed": 22, "streams": 17, "mature": 0, "language": "Thai", "account_age": 1306080.0}

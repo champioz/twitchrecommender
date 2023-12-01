@@ -1,0 +1,1 @@
+{"channel": "nongq", "avg_viewers": 10, "followers_gained": 127, "peak_viewers": 68, "hours_streamed": 56, "streams": 13, "mature": 1, "language": "Thai", "account_age": 1303200.0}

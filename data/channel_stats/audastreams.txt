@@ -1,0 +1,1 @@
+{"channel": "audastreams", "avg_viewers": 21, "followers_gained": 4, "peak_viewers": 64, "hours_streamed": 11, "streams": 5, "mature": 0, "language": "English", "account_age": 1108800.0}

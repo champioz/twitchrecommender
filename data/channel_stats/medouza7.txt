@@ -1,0 +1,1 @@
+{"channel": "medouza7", "avg_viewers": 2, "followers_gained": 19, "peak_viewers": 10, "hours_streamed": 70, "streams": 30, "mature": 0, "language": "German", "account_age": 1200960.0}

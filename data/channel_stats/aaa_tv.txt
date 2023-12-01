@@ -1,0 +1,1 @@
+{"channel": "aaa_tv", "avg_viewers": 55, "followers_gained": 233, "peak_viewers": 313, "hours_streamed": 229, "streams": 55, "mature": 0, "language": "French", "account_age": 3896640.0}

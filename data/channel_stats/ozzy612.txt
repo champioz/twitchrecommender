@@ -1,0 +1,1 @@
+{"channel": "ozzy612", "avg_viewers": 34, "followers_gained": 477, "peak_viewers": 121, "hours_streamed": 74, "streams": 34, "mature": 0, "language": "English", "account_age": 2197440.0}

@@ -1,0 +1,1 @@
+{"channel": "b1eaker", "avg_viewers": 3, "followers_gained": 12, "peak_viewers": 54, "hours_streamed": 160, "streams": 23, "mature": 1, "language": "Russian", "account_age": 3060000.0}

@@ -1,0 +1,1 @@
+{"channel": "crystaahhl", "avg_viewers": 131, "followers_gained": 502, "peak_viewers": 815, "hours_streamed": 150, "streams": 23, "mature": 0, "language": "English", "account_age": 1683360.0}

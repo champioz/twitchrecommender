@@ -1,0 +1,1 @@
+{"channel": "cj_slipstream", "avg_viewers": 5, "followers_gained": 34, "peak_viewers": 16, "hours_streamed": 133, "streams": 22, "mature": 1, "language": "English", "account_age": 1481760.0}

@@ -1,0 +1,1 @@
+{"channel": "afrocola", "avg_viewers": 24, "followers_gained": 112, "peak_viewers": 118, "hours_streamed": 102, "streams": 19, "mature": 1, "language": "German", "account_age": 2580480.0}

@@ -1,0 +1,1 @@
+{"channel": "rebootting", "avg_viewers": 8, "followers_gained": 34, "peak_viewers": 24, "hours_streamed": 57, "streams": 25, "mature": 0, "language": "Korean", "account_age": 1406880.0}

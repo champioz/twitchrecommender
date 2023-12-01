@@ -1,0 +1,1 @@
+{"channel": "mr_grin_", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 20, "hours_streamed": 23, "streams": 10, "mature": 0, "language": "Russian", "account_age": 3071520.0}

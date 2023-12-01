@@ -1,0 +1,1 @@
+{"channel": "lukepingu", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 11, "hours_streamed": 14, "streams": 6, "mature": 1, "language": "English", "account_age": 3538080.0}

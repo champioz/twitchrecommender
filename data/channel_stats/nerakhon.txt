@@ -1,0 +1,1 @@
+{"channel": "nerakhon", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 8, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Czech", "account_age": 2531520.0}

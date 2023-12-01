@@ -1,0 +1,1 @@
+{"channel": "aesolunar", "avg_viewers": 7, "followers_gained": 48, "peak_viewers": 23, "hours_streamed": 121, "streams": 25, "mature": 0, "language": "Korean", "account_age": 1028160.0}

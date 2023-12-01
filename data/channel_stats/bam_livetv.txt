@@ -1,0 +1,1 @@
+{"channel": "bam_livetv", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 12, "streams": 4, "mature": 0, "language": "Polish", "account_age": 2141280.0}

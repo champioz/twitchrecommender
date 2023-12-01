@@ -1,0 +1,1 @@
+{"channel": "saintvicious", "avg_viewers": 1432, "followers_gained": 12152, "peak_viewers": 10177, "hours_streamed": 295, "streams": 33, "mature": 0, "language": "English", "account_age": 3787200.0}

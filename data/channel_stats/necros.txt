@@ -1,0 +1,1 @@
+{"channel": "necros", "avg_viewers": 679, "followers_gained": 1957, "peak_viewers": 3550, "hours_streamed": 31, "streams": 8, "mature": 0, "language": "English", "account_age": 1601280.0}

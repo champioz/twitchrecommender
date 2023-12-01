@@ -1,0 +1,1 @@
+{"channel": "nookniick", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 6, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Thai", "account_age": 1385280.0}

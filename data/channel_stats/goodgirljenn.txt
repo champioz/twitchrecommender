@@ -1,0 +1,1 @@
+{"channel": "goodgirljenn", "avg_viewers": 7, "followers_gained": 9, "peak_viewers": 27, "hours_streamed": 37, "streams": 17, "mature": 1, "language": "English", "account_age": 2232000.0}

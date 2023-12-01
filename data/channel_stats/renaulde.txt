@@ -1,0 +1,1 @@
+{"channel": "renaulde", "avg_viewers": 13, "followers_gained": 32, "peak_viewers": 49, "hours_streamed": 45, "streams": 13, "mature": 1, "language": "English", "account_age": 2579040.0}

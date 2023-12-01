@@ -1,0 +1,1 @@
+{"channel": "flakoncio", "avg_viewers": 1, "followers_gained": 67, "peak_viewers": 19, "hours_streamed": 128, "streams": 42, "mature": 0, "language": "Spanish", "account_age": 954720.0}

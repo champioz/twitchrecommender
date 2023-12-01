@@ -1,0 +1,1 @@
+{"channel": "spicha", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 11, "streams": 3, "mature": 0, "language": "Russian", "account_age": 3319200.0}

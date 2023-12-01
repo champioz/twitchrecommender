@@ -1,0 +1,1 @@
+{"channel": "teamevga", "avg_viewers": 563, "followers_gained": 362, "peak_viewers": 1013, "hours_streamed": 24, "streams": 6, "mature": 0, "language": "English", "account_age": 5008320.0}

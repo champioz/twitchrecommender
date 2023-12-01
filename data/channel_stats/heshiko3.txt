@@ -1,0 +1,1 @@
+{"channel": "heshiko3", "avg_viewers": 18, "followers_gained": 2, "peak_viewers": 28, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "Japanese", "account_age": 1092960.0}

@@ -1,0 +1,1 @@
+{"channel": "fundamentalguy", "avg_viewers": 20, "followers_gained": 102, "peak_viewers": 41, "hours_streamed": 91, "streams": 17, "mature": 0, "language": "English", "account_age": 2351520.0}

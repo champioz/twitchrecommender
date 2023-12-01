@@ -1,0 +1,1 @@
+{"channel": "cheeze_pizza", "avg_viewers": 22, "followers_gained": 96, "peak_viewers": 96, "hours_streamed": 55, "streams": 18, "mature": 0, "language": "English", "account_age": 2795040.0}

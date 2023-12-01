@@ -1,0 +1,1 @@
+{"channel": "angelvantage", "avg_viewers": 16, "followers_gained": 313, "peak_viewers": 35, "hours_streamed": 175, "streams": 24, "mature": 0, "language": "Spanish", "account_age": 2484000.0}

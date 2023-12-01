@@ -1,0 +1,1 @@
+{"channel": "nerd_ducky", "avg_viewers": 13, "followers_gained": 66, "peak_viewers": 62, "hours_streamed": 101, "streams": 19, "mature": 1, "language": "English", "account_age": 2774880.0}

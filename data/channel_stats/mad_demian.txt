@@ -1,0 +1,1 @@
+{"channel": "mad_demian", "avg_viewers": 14, "followers_gained": 21, "peak_viewers": 26, "hours_streamed": 67, "streams": 23, "mature": 1, "language": "Russian", "account_age": 1625760.0}

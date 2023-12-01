@@ -1,0 +1,1 @@
+{"channel": "lucaundco", "avg_viewers": 1, "followers_gained": 15, "peak_viewers": 11, "hours_streamed": 25, "streams": 15, "mature": 0, "language": "German", "account_age": 1598400.0}

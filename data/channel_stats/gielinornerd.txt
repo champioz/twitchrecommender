@@ -1,0 +1,1 @@
+{"channel": "gielinornerd", "avg_viewers": 7, "followers_gained": 23, "peak_viewers": 33, "hours_streamed": 141, "streams": 30, "mature": 1, "language": "English", "account_age": 603360.0}

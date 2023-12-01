@@ -1,0 +1,1 @@
+{"channel": "jakesaysknee", "avg_viewers": 8, "followers_gained": 11, "peak_viewers": 23, "hours_streamed": 33, "streams": 13, "mature": 1, "language": "English", "account_age": 4301280.0}

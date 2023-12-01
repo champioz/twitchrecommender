@@ -1,0 +1,1 @@
+{"channel": "adaywalker", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 21, "hours_streamed": 24, "streams": 10, "mature": 1, "language": "English", "account_age": 938880.0}

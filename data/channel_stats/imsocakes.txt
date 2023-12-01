@@ -1,0 +1,1 @@
+{"channel": "imsocakes", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 29, "hours_streamed": 23, "streams": 11, "mature": 0, "language": "English", "account_age": 302400.0}

@@ -1,0 +1,1 @@
+{"channel": "mize_boy", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Chinese", "account_age": 3055680.0}

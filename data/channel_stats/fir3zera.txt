@@ -1,0 +1,1 @@
+{"channel": "fir3zera", "avg_viewers": 79, "followers_gained": 1229, "peak_viewers": 214, "hours_streamed": 85, "streams": 17, "mature": 0, "language": "Portuguese", "account_age": 2024640.0}

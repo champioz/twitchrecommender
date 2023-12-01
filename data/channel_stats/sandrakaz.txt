@@ -1,0 +1,1 @@
+{"channel": "sandrakaz", "avg_viewers": 14, "followers_gained": 661, "peak_viewers": 212, "hours_streamed": 232, "streams": 28, "mature": 1, "language": "English", "account_age": 646560.0}

@@ -1,0 +1,1 @@
+{"channel": "tunk904", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 18, "streams": 7, "mature": 0, "language": "English", "account_age": 5067360.0}

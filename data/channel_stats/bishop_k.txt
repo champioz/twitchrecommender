@@ -1,0 +1,1 @@
+{"channel": "bishop_k", "avg_viewers": 2, "followers_gained": 43, "peak_viewers": 13, "hours_streamed": 29, "streams": 20, "mature": 1, "language": "French", "account_age": 1406880.0}

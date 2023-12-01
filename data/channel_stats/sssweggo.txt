@@ -1,0 +1,1 @@
+{"channel": "sssweggo", "avg_viewers": 30, "followers_gained": 247, "peak_viewers": 197, "hours_streamed": 196, "streams": 23, "mature": 1, "language": "English", "account_age": 1579680.0}

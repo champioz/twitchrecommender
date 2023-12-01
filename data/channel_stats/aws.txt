@@ -1,0 +1,1 @@
+{"channel": "aws", "avg_viewers": 844, "followers_gained": 1224, "peak_viewers": 8613, "hours_streamed": 41, "streams": 26, "mature": 0, "language": "English", "account_age": 1545120.0}

@@ -1,0 +1,1 @@
+{"channel": "asmoogl", "avg_viewers": 243, "followers_gained": 605, "peak_viewers": 3143, "hours_streamed": 112, "streams": 30, "mature": 0, "language": "German", "account_age": 2515680.0}

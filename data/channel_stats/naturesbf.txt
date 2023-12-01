@@ -1,0 +1,1 @@
+{"channel": "naturesbf", "avg_viewers": 225, "followers_gained": 1656, "peak_viewers": 4154, "hours_streamed": 168, "streams": 30, "mature": 0, "language": "English", "account_age": 4400640.0}

@@ -1,0 +1,1 @@
+{"channel": "majkibets", "avg_viewers": 161, "followers_gained": 50, "peak_viewers": 404, "hours_streamed": 7, "streams": 5, "mature": 0, "language": "Polish", "account_age": 1686240.0}

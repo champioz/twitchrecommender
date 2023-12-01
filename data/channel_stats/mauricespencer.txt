@@ -1,0 +1,1 @@
+{"channel": "mauricespencer", "avg_viewers": 26, "followers_gained": 25, "peak_viewers": 67, "hours_streamed": 33, "streams": 7, "mature": 1, "language": "German", "account_age": 2550240.0}

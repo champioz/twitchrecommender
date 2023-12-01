@@ -1,0 +1,1 @@
+{"channel": "fasoollka", "avg_viewers": 75, "followers_gained": 798, "peak_viewers": 226, "hours_streamed": 45, "streams": 11, "mature": 1, "language": "Russian", "account_age": 187200.0}

@@ -1,0 +1,1 @@
+{"channel": "kosietv", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 6, "hours_streamed": 42, "streams": 9, "mature": 1, "language": "German", "account_age": 1339200.0}

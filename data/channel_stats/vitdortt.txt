@@ -1,0 +1,1 @@
+{"channel": "vitdortt", "avg_viewers": 10, "followers_gained": 7, "peak_viewers": 28, "hours_streamed": 137, "streams": 21, "mature": 0, "language": "Korean", "account_age": 1491840.0}

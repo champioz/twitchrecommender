@@ -1,0 +1,1 @@
+{"channel": "3sunset3", "avg_viewers": 77, "followers_gained": 1890, "peak_viewers": 394, "hours_streamed": 187, "streams": 39, "mature": 0, "language": "Korean", "account_age": 374400.0}

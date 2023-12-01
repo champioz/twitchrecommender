@@ -1,0 +1,1 @@
+{"channel": "herkonn", "avg_viewers": 49, "followers_gained": 406, "peak_viewers": 149, "hours_streamed": 90, "streams": 42, "mature": 1, "language": "Czech", "account_age": 2446560.0}

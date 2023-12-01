@@ -1,0 +1,1 @@
+{"channel": "hanatsuka_jpn", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 9, "hours_streamed": 124, "streams": 45, "mature": 0, "language": "Japanese", "account_age": 411840.0}

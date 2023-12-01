@@ -1,0 +1,1 @@
+{"channel": "gamegrin", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 51, "streams": 19, "mature": 1, "language": "English", "account_age": 5041440.0}

@@ -1,0 +1,1 @@
+{"channel": "bear989", "avg_viewers": 2, "followers_gained": 21, "peak_viewers": 13, "hours_streamed": 165, "streams": 60, "mature": 1, "language": "English", "account_age": 2754720.0}

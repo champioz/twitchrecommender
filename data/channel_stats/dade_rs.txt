@@ -1,0 +1,1 @@
+{"channel": "dade_rs", "avg_viewers": 8, "followers_gained": 5, "peak_viewers": 37, "hours_streamed": 9, "streams": 7, "mature": 0, "language": "English", "account_age": 466560.0}

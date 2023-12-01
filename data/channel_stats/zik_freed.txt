@@ -1,0 +1,1 @@
+{"channel": "zik_freed", "avg_viewers": 1, "followers_gained": 13, "peak_viewers": 7, "hours_streamed": 77, "streams": 24, "mature": 0, "language": "Russian", "account_age": 707040.0}

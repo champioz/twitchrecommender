@@ -1,0 +1,1 @@
+{"channel": "hellsclaws", "avg_viewers": 7, "followers_gained": 30, "peak_viewers": 40, "hours_streamed": 81, "streams": 23, "mature": 1, "language": "English", "account_age": 892800.0}

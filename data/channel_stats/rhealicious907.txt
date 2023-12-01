@@ -1,0 +1,1 @@
+{"channel": "rhealicious907", "avg_viewers": 15, "followers_gained": 202, "peak_viewers": 136, "hours_streamed": 206, "streams": 39, "mature": 1, "language": "English", "account_age": 2196000.0}

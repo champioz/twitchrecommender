@@ -1,0 +1,1 @@
+{"channel": "sneakyjokertv", "avg_viewers": 13, "followers_gained": 418, "peak_viewers": 33, "hours_streamed": 218, "streams": 55, "mature": 0, "language": "German", "account_age": 686880.0}

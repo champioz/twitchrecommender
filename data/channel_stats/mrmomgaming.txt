@@ -1,0 +1,1 @@
+{"channel": "mrmomgaming", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 12, "hours_streamed": 145, "streams": 33, "mature": 1, "language": "English", "account_age": 1238400.0}

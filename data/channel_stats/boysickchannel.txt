@@ -1,0 +1,1 @@
+{"channel": "boysickchannel", "avg_viewers": 73, "followers_gained": 81, "peak_viewers": 179, "hours_streamed": 66, "streams": 15, "mature": 0, "language": "Thai", "account_age": 1422720.0}

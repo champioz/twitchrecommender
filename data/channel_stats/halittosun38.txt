@@ -1,0 +1,1 @@
+{"channel": "halittosun38", "avg_viewers": 32, "followers_gained": 4676, "peak_viewers": 100, "hours_streamed": 90, "streams": 31, "mature": 0, "language": "Turkish", "account_age": 764640.0}

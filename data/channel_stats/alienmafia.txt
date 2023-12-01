@@ -1,0 +1,1 @@
+{"channel": "alienmafia", "avg_viewers": 1, "followers_gained": 52, "peak_viewers": 8, "hours_streamed": 100, "streams": 25, "mature": 1, "language": "English", "account_age": 3660480.0}

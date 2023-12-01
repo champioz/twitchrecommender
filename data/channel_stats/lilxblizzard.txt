@@ -1,0 +1,1 @@
+{"channel": "lilxblizzard", "avg_viewers": 430, "followers_gained": 1321, "peak_viewers": 794, "hours_streamed": 33, "streams": 15, "mature": 1, "language": "English", "account_age": 552960.0}

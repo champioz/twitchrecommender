@@ -1,0 +1,1 @@
+{"channel": "cesar_senpai", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "English", "account_age": 1756800.0}

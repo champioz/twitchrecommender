@@ -1,0 +1,1 @@
+{"channel": "tom7674", "avg_viewers": 18, "followers_gained": 62, "peak_viewers": 52, "hours_streamed": 292, "streams": 60, "mature": 0, "language": "Chinese", "account_age": 3631680.0}

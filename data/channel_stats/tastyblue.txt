@@ -1,0 +1,1 @@
+{"channel": "tastyblue", "avg_viewers": 55, "followers_gained": 327, "peak_viewers": 151, "hours_streamed": 209, "streams": 32, "mature": 1, "language": "English", "account_age": 3820320.0}

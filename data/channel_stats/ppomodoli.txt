@@ -1,0 +1,1 @@
+{"channel": "ppomodoli", "avg_viewers": 551, "followers_gained": 830, "peak_viewers": 1082, "hours_streamed": 23, "streams": 8, "mature": 0, "language": "Korean", "account_age": 1451520.0}

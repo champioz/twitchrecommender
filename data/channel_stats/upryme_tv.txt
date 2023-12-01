@@ -1,0 +1,1 @@
+{"channel": "upryme_tv", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 13, "streams": 14, "mature": 1, "language": "French", "account_age": 2269440.0}

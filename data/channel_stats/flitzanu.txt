@@ -1,0 +1,1 @@
+{"channel": "flitzanu", "avg_viewers": 21, "followers_gained": 27, "peak_viewers": 180, "hours_streamed": 55, "streams": 15, "mature": 0, "language": "English", "account_age": 3582720.0}

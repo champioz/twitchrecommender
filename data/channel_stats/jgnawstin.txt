@@ -1,0 +1,1 @@
+{"channel": "jgnawstin", "avg_viewers": 19, "followers_gained": 409, "peak_viewers": 326, "hours_streamed": 120, "streams": 22, "mature": 1, "language": "English", "account_age": 3657600.0}

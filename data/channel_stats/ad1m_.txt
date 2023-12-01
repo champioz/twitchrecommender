@@ -1,0 +1,1 @@
+{"channel": "ad1m_", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 11, "hours_streamed": 22, "streams": 6, "mature": 1, "language": "Hungarian", "account_age": 1468800.0}

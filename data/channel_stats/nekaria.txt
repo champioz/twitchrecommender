@@ -1,0 +1,1 @@
+{"channel": "nekaria", "avg_viewers": 4, "followers_gained": 21, "peak_viewers": 11, "hours_streamed": 75, "streams": 17, "mature": 0, "language": "English", "account_age": 2587680.0}

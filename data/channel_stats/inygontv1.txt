@@ -1,0 +1,1 @@
+{"channel": "inygontv1", "avg_viewers": 311, "followers_gained": 1111, "peak_viewers": 1567, "hours_streamed": 105, "streams": 29, "mature": 0, "language": "Portuguese", "account_age": 4786560.0}

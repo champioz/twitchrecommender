@@ -1,0 +1,1 @@
+{"channel": "tattyskater", "avg_viewers": 13, "followers_gained": 23, "peak_viewers": 28, "hours_streamed": 62, "streams": 32, "mature": 1, "language": "English", "account_age": 2829600.0}

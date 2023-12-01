@@ -1,0 +1,1 @@
+{"channel": "madnessct", "avg_viewers": 12, "followers_gained": 92, "peak_viewers": 30, "hours_streamed": 84, "streams": 26, "mature": 1, "language": "Spanish", "account_age": 2750400.0}

@@ -1,0 +1,1 @@
+{"channel": "candykatte", "avg_viewers": 27, "followers_gained": 136, "peak_viewers": 45, "hours_streamed": 74, "streams": 35, "mature": 0, "language": "Russian", "account_age": 253440.0}

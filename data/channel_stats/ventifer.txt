@@ -1,0 +1,1 @@
+{"channel": "ventifer", "avg_viewers": 6, "followers_gained": 14, "peak_viewers": 20, "hours_streamed": 51, "streams": 15, "mature": 0, "language": "English", "account_age": 1761120.0}

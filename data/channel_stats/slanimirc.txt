@@ -1,0 +1,1 @@
+{"channel": "slanimirc", "avg_viewers": 14, "followers_gained": 197, "peak_viewers": 52, "hours_streamed": 70, "streams": 20, "mature": 0, "language": "Thai", "account_age": 319680.0}

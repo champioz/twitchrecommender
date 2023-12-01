@@ -1,0 +1,1 @@
+{"channel": "deadrickhd", "avg_viewers": 22, "followers_gained": 97, "peak_viewers": 113, "hours_streamed": 42, "streams": 17, "mature": 0, "language": "English", "account_age": 1389600.0}

@@ -1,0 +1,1 @@
+{"channel": "hitentv", "avg_viewers": 93, "followers_gained": 898, "peak_viewers": 279, "hours_streamed": 124, "streams": 21, "mature": 1, "language": "Portuguese", "account_age": 1609920.0}

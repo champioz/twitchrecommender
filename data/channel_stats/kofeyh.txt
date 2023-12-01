@@ -1,0 +1,1 @@
+{"channel": "kofeyh", "avg_viewers": 9, "followers_gained": 16, "peak_viewers": 31, "hours_streamed": 52, "streams": 13, "mature": 1, "language": "English", "account_age": 3517920.0}

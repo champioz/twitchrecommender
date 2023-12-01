@@ -1,0 +1,1 @@
+{"channel": "rosgamer_xd", "avg_viewers": 25, "followers_gained": 385, "peak_viewers": 47, "hours_streamed": 57, "streams": 19, "mature": 1, "language": "Spanish", "account_age": 2299680.0}

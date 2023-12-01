@@ -1,0 +1,1 @@
+{"channel": "thebearcave_", "avg_viewers": 6, "followers_gained": 46, "peak_viewers": 24, "hours_streamed": 166, "streams": 29, "mature": 1, "language": "English", "account_age": 730080.0}

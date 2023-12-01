@@ -1,0 +1,1 @@
+{"channel": "archerimpact", "avg_viewers": 13, "followers_gained": 30, "peak_viewers": 25, "hours_streamed": 21, "streams": 4, "mature": 0, "language": "Korean", "account_age": 1012320.0}

@@ -1,0 +1,1 @@
+{"channel": "crimsonwollf", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 9, "streams": 3, "mature": 1, "language": "English", "account_age": 576000.0}

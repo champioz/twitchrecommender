@@ -1,0 +1,1 @@
+{"channel": "gutitubo", "avg_viewers": 873, "followers_gained": 1456, "peak_viewers": 1611, "hours_streamed": 52, "streams": 27, "mature": 0, "language": "Japanese", "account_age": 2571840.0}

@@ -1,0 +1,1 @@
+{"channel": "aanmiau", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 285120.0}

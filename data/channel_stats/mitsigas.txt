@@ -1,0 +1,1 @@
+{"channel": "mitsigas", "avg_viewers": 45, "followers_gained": 207, "peak_viewers": 139, "hours_streamed": 109, "streams": 26, "mature": 1, "language": "Greek", "account_age": 2168640.0}

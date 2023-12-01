@@ -1,0 +1,1 @@
+{"channel": "maferrocha", "avg_viewers": 87, "followers_gained": 2859, "peak_viewers": 1065, "hours_streamed": 28, "streams": 8, "mature": 0, "language": "Spanish", "account_age": 2374560.0}

@@ -1,0 +1,1 @@
+{"channel": "angelise_s", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 14, "hours_streamed": 41, "streams": 24, "mature": 0, "language": "English", "account_age": 1010880.0}

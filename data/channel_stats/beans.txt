@@ -1,0 +1,1 @@
+{"channel": "beans", "avg_viewers": 47, "followers_gained": 39, "peak_viewers": 111, "hours_streamed": 50, "streams": 17, "mature": 1, "language": "English", "account_age": 1319040.0}

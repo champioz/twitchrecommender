@@ -1,0 +1,1 @@
+{"channel": "svissi", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 13, "hours_streamed": 34, "streams": 11, "mature": 1, "language": "Norwegian", "account_age": 2967840.0}

@@ -1,0 +1,1 @@
+{"channel": "emmamoiii", "avg_viewers": 32, "followers_gained": 12, "peak_viewers": 101, "hours_streamed": 10, "streams": 2, "mature": 1, "language": "Finnish", "account_age": 2748960.0}

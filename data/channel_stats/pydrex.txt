@@ -1,0 +1,1 @@
+{"channel": "pydrex", "avg_viewers": 56, "followers_gained": 26, "peak_viewers": 226, "hours_streamed": 51, "streams": 12, "mature": 0, "language": "English", "account_age": 3028320.0}

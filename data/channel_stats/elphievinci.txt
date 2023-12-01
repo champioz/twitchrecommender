@@ -1,0 +1,1 @@
+{"channel": "elphievinci", "avg_viewers": 4, "followers_gained": 39, "peak_viewers": 15, "hours_streamed": 35, "streams": 15, "mature": 0, "language": "Portuguese", "account_age": 1935360.0}

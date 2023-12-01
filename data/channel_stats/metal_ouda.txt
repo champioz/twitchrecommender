@@ -1,0 +1,1 @@
+{"channel": "metal_ouda", "avg_viewers": 33, "followers_gained": 1, "peak_viewers": 60, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 1798560.0}

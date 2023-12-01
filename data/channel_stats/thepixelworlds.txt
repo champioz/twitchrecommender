@@ -1,0 +1,1 @@
+{"channel": "thepixelworlds", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 12, "hours_streamed": 53, "streams": 15, "mature": 1, "language": "English", "account_age": 2342880.0}

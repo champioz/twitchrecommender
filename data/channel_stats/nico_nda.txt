@@ -1,0 +1,1 @@
+{"channel": "nico_nda", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 4, "hours_streamed": 3, "streams": 3, "mature": 0, "language": "French", "account_age": 1713600.0}

@@ -1,0 +1,1 @@
+{"channel": "erlynnz", "avg_viewers": 3, "followers_gained": 18, "peak_viewers": 11, "hours_streamed": 77, "streams": 37, "mature": 0, "language": "Thai", "account_age": 1566720.0}

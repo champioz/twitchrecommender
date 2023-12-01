@@ -1,0 +1,1 @@
+{"channel": "xgears2007", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Chinese", "account_age": 761760.0}

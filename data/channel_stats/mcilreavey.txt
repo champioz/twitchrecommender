@@ -1,0 +1,1 @@
+{"channel": "mcilreavey", "avg_viewers": 698, "followers_gained": 1359, "peak_viewers": 3029, "hours_streamed": 21, "streams": 9, "mature": 1, "language": "English", "account_age": 4085280.0}

@@ -1,0 +1,1 @@
+{"channel": "jinzeth", "avg_viewers": 7, "followers_gained": 4, "peak_viewers": 12, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "English", "account_age": 1010880.0}

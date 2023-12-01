@@ -1,0 +1,1 @@
+{"channel": "sidokedja", "avg_viewers": 8, "followers_gained": 5, "peak_viewers": 43, "hours_streamed": 9, "streams": 3, "mature": 1, "language": "French", "account_age": 1611360.0}

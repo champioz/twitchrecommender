@@ -1,0 +1,1 @@
+{"channel": "fmkun", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 13, "hours_streamed": 8, "streams": 5, "mature": 1, "language": "Russian", "account_age": 2178720.0}

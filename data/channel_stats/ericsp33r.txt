@@ -1,0 +1,1 @@
+{"channel": "ericsp33r", "avg_viewers": 18, "followers_gained": 66, "peak_viewers": 49, "hours_streamed": 19, "streams": 8, "mature": 0, "language": "English", "account_age": 2252160.0}

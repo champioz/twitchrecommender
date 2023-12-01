@@ -1,0 +1,1 @@
+{"channel": "futuradios", "avg_viewers": 16, "followers_gained": 106, "peak_viewers": 314, "hours_streamed": 49, "streams": 28, "mature": 0, "language": "French", "account_age": 470880.0}

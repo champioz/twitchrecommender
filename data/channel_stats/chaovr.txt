@@ -1,0 +1,1 @@
+{"channel": "chaovr", "avg_viewers": 4, "followers_gained": 31, "peak_viewers": 16, "hours_streamed": 77, "streams": 17, "mature": 1, "language": "English", "account_age": 2377440.0}

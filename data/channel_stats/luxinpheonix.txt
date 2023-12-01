@@ -1,0 +1,1 @@
+{"channel": "luxinpheonix", "avg_viewers": 23, "followers_gained": 14, "peak_viewers": 41, "hours_streamed": 23, "streams": 5, "mature": 1, "language": "English", "account_age": 3379680.0}

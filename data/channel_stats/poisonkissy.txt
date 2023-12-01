@@ -1,0 +1,1 @@
+{"channel": "poisonkissy", "avg_viewers": 2, "followers_gained": 289, "peak_viewers": 19, "hours_streamed": 115, "streams": 28, "mature": 0, "language": "English", "account_age": 269280.0}

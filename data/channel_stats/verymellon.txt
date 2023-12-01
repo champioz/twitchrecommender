@@ -1,0 +1,1 @@
+{"channel": "verymellon", "avg_viewers": 6, "followers_gained": 64, "peak_viewers": 64, "hours_streamed": 30, "streams": 10, "mature": 1, "language": "Portuguese", "account_age": 910080.0}

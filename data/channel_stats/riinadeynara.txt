@@ -1,0 +1,1 @@
+{"channel": "riinadeynara", "avg_viewers": 10, "followers_gained": 8, "peak_viewers": 25, "hours_streamed": 16, "streams": 5, "mature": 1, "language": "German", "account_age": 2574720.0}

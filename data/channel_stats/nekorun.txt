@@ -1,0 +1,1 @@
+{"channel": "nekorun", "avg_viewers": 1, "followers_gained": 13, "peak_viewers": 9, "hours_streamed": 19, "streams": 8, "mature": 1, "language": "English", "account_age": 3408480.0}

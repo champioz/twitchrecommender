@@ -1,0 +1,1 @@
+{"channel": "rhyoxz", "avg_viewers": 6, "followers_gained": 48, "peak_viewers": 32, "hours_streamed": 23, "streams": 11, "mature": 1, "language": "Portuguese", "account_age": 102240.0}

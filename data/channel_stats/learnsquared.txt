@@ -1,0 +1,1 @@
+{"channel": "learnsquared", "avg_viewers": 48, "followers_gained": 1, "peak_viewers": 57, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 1949760.0}

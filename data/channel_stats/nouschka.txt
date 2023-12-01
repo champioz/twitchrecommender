@@ -1,0 +1,1 @@
+{"channel": "nouschka", "avg_viewers": 78, "followers_gained": 198, "peak_viewers": 241, "hours_streamed": 65, "streams": 18, "mature": 0, "language": "English", "account_age": 2439360.0}

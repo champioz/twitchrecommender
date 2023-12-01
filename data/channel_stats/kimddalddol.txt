@@ -1,0 +1,1 @@
+{"channel": "kimddalddol", "avg_viewers": 19, "followers_gained": 14, "peak_viewers": 42, "hours_streamed": 92, "streams": 21, "mature": 0, "language": "Korean", "account_age": 2355840.0}

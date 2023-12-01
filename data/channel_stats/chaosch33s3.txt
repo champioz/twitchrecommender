@@ -1,0 +1,1 @@
+{"channel": "chaosch33s3", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 10, "streams": 9, "mature": 0, "language": "English", "account_age": 3094560.0}

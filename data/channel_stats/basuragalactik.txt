@@ -1,0 +1,1 @@
+{"channel": "basuragalactik", "avg_viewers": 12, "followers_gained": 166, "peak_viewers": 32, "hours_streamed": 17, "streams": 11, "mature": 0, "language": "Spanish", "account_age": 1260000.0}

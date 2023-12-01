@@ -1,0 +1,1 @@
+{"channel": "pharticusmaximus", "avg_viewers": 28, "followers_gained": 119, "peak_viewers": 81, "hours_streamed": 83, "streams": 23, "mature": 0, "language": "English", "account_age": 2452320.0}

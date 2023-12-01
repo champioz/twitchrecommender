@@ -1,0 +1,1 @@
+{"channel": "skipmclazy", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 16, "streams": 5, "mature": 0, "language": "English", "account_age": 953280.0}

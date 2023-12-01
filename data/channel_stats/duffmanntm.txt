@@ -1,0 +1,1 @@
+{"channel": "duffmanntm", "avg_viewers": 45, "followers_gained": 70, "peak_viewers": 159, "hours_streamed": 109, "streams": 21, "mature": 1, "language": "English", "account_age": 1684800.0}

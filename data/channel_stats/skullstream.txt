@@ -1,0 +1,1 @@
+{"channel": "skullstream", "avg_viewers": 50, "followers_gained": 135, "peak_viewers": 208, "hours_streamed": 133, "streams": 17, "mature": 0, "language": "English", "account_age": 3818880.0}

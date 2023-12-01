@@ -1,0 +1,1 @@
+{"channel": "xypherra", "avg_viewers": 28, "followers_gained": 92, "peak_viewers": 100, "hours_streamed": 72, "streams": 17, "mature": 1, "language": "English", "account_age": 1722240.0}

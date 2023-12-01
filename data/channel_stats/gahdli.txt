@@ -1,0 +1,1 @@
+{"channel": "gahdli", "avg_viewers": 18, "followers_gained": 27, "peak_viewers": 78, "hours_streamed": 20, "streams": 16, "mature": 0, "language": "Other", "account_age": 1332000.0}

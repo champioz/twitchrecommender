@@ -1,0 +1,1 @@
+{"channel": "mahetirecords", "avg_viewers": 37, "followers_gained": 38, "peak_viewers": 77, "hours_streamed": 65, "streams": 13, "mature": 0, "language": "German", "account_age": 1641600.0}

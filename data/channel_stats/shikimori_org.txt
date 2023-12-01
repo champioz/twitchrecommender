@@ -1,0 +1,1 @@
+{"channel": "shikimori_org", "avg_viewers": 9, "followers_gained": 8, "peak_viewers": 24, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "Russian", "account_age": 313920.0}

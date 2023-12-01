@@ -1,0 +1,1 @@
+{"channel": "bregermann", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 31, "hours_streamed": 66, "streams": 22, "mature": 1, "language": "English", "account_age": 1699200.0}

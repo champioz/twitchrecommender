@@ -1,0 +1,1 @@
+{"channel": "litchifr", "avg_viewers": 2, "followers_gained": 44, "peak_viewers": 14, "hours_streamed": 49, "streams": 24, "mature": 1, "language": "French", "account_age": 586080.0}

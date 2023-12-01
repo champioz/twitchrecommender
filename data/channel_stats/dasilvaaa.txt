@@ -1,0 +1,1 @@
+{"channel": "dasilvaaa", "avg_viewers": 26, "followers_gained": 196, "peak_viewers": 116, "hours_streamed": 55, "streams": 18, "mature": 0, "language": "Portuguese", "account_age": 247680.0}

@@ -1,0 +1,1 @@
+{"channel": "closetyeti", "avg_viewers": 24, "followers_gained": 365, "peak_viewers": 55, "hours_streamed": 90, "streams": 22, "mature": 1, "language": "English", "account_age": 4141440.0}

@@ -1,0 +1,1 @@
+{"channel": "lucanaii", "avg_viewers": 17, "followers_gained": 23, "peak_viewers": 47, "hours_streamed": 36, "streams": 6, "mature": 0, "language": "English", "account_age": 3182400.0}

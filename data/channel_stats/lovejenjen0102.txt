@@ -1,0 +1,1 @@
+{"channel": "lovejenjen0102", "avg_viewers": 56, "followers_gained": 139, "peak_viewers": 123, "hours_streamed": 64, "streams": 9, "mature": 0, "language": "Chinese", "account_age": 1378080.0}

@@ -1,0 +1,1 @@
+{"channel": "ghtzzx98", "avg_viewers": 8, "followers_gained": 38, "peak_viewers": 22, "hours_streamed": 227, "streams": 33, "mature": 0, "language": "English", "account_age": 2456640.0}

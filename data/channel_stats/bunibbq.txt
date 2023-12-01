@@ -1,0 +1,1 @@
+{"channel": "bunibbq", "avg_viewers": 7, "followers_gained": 21, "peak_viewers": 27, "hours_streamed": 32, "streams": 12, "mature": 1, "language": "Chinese", "account_age": 2095200.0}

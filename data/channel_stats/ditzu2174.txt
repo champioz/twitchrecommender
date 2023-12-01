@@ -1,0 +1,1 @@
+{"channel": "ditzu2174", "avg_viewers": 15, "followers_gained": 96, "peak_viewers": 36, "hours_streamed": 146, "streams": 21, "mature": 1, "language": "English", "account_age": 820800.0}

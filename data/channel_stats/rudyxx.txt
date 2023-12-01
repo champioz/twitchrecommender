@@ -1,0 +1,1 @@
+{"channel": "rudyxx", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 27, "hours_streamed": 155, "streams": 35, "mature": 1, "language": "English", "account_age": 4563360.0}

@@ -1,0 +1,1 @@
+{"channel": "itouco", "avg_viewers": 3, "followers_gained": 10, "peak_viewers": 12, "hours_streamed": 84, "streams": 15, "mature": 1, "language": "German", "account_age": 3134880.0}

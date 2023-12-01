@@ -1,0 +1,1 @@
+{"channel": "miao1996", "avg_viewers": 6, "followers_gained": 47, "peak_viewers": 36, "hours_streamed": 107, "streams": 32, "mature": 0, "language": "Chinese", "account_age": 2959200.0}

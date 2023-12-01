@@ -1,0 +1,1 @@
+{"channel": "neshgaming", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 12, "hours_streamed": 90, "streams": 33, "mature": 1, "language": "French", "account_age": 1732320.0}

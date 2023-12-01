@@ -1,0 +1,1 @@
+{"channel": "dailydetox", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 19, "streams": 11, "mature": 0, "language": "English", "account_age": 2171520.0}

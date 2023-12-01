@@ -1,0 +1,1 @@
+{"channel": "dancingwulf", "avg_viewers": 3, "followers_gained": 16, "peak_viewers": 26, "hours_streamed": 317, "streams": 59, "mature": 1, "language": "English", "account_age": 728640.0}

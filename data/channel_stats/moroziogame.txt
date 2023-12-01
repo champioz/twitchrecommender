@@ -1,0 +1,1 @@
+{"channel": "moroziogame", "avg_viewers": 389, "followers_gained": 6882, "peak_viewers": 980, "hours_streamed": 30, "streams": 7, "mature": 1, "language": "Russian", "account_age": 777600.0}

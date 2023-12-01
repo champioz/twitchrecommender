@@ -1,0 +1,1 @@
+{"channel": "electrinchen", "avg_viewers": 192, "followers_gained": 276, "peak_viewers": 317, "hours_streamed": 158, "streams": 20, "mature": 0, "language": "German", "account_age": 3425760.0}

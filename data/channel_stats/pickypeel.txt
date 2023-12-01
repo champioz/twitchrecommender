@@ -1,0 +1,1 @@
+{"channel": "pickypeel", "avg_viewers": 46, "followers_gained": 254, "peak_viewers": 120, "hours_streamed": 116, "streams": 20, "mature": 0, "language": "Thai", "account_age": 548640.0}

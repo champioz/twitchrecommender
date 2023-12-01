@@ -1,0 +1,1 @@
+{"channel": "priaa", "avg_viewers": 46, "followers_gained": 35, "peak_viewers": 123, "hours_streamed": 91, "streams": 25, "mature": 1, "language": "Russian", "account_age": 3251520.0}

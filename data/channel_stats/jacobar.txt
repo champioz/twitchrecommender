@@ -1,0 +1,1 @@
+{"channel": "jacobar", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 9, "streams": 3, "mature": 1, "language": "English", "account_age": 5702400.0}

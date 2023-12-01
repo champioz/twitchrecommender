@@ -1,0 +1,1 @@
+{"channel": "morgrimcrow", "avg_viewers": 3, "followers_gained": 29, "peak_viewers": 12, "hours_streamed": 132, "streams": 44, "mature": 0, "language": "English", "account_age": 492480.0}

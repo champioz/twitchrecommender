@@ -1,0 +1,1 @@
+{"channel": "mutehog", "avg_viewers": 2, "followers_gained": 13, "peak_viewers": 8, "hours_streamed": 87, "streams": 38, "mature": 1, "language": "English", "account_age": 311040.0}

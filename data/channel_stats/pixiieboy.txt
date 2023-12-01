@@ -1,0 +1,1 @@
+{"channel": "pixiieboy", "avg_viewers": 8, "followers_gained": 18, "peak_viewers": 22, "hours_streamed": 38, "streams": 9, "mature": 0, "language": "Swedish", "account_age": 1668960.0}

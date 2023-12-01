@@ -1,0 +1,1 @@
+{"channel": "baoz", "avg_viewers": 482, "followers_gained": 136, "peak_viewers": 1093, "hours_streamed": 85, "streams": 17, "mature": 0, "language": "Chinese", "account_age": 2272320.0}

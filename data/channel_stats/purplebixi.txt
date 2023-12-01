@@ -1,0 +1,1 @@
+{"channel": "purplebixi", "avg_viewers": 246, "followers_gained": 1351, "peak_viewers": 510, "hours_streamed": 53, "streams": 13, "mature": 0, "language": "Turkish", "account_age": 708480.0}

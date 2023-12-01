@@ -1,0 +1,1 @@
+{"channel": "patricija", "avg_viewers": 22, "followers_gained": 645, "peak_viewers": 150, "hours_streamed": 151, "streams": 33, "mature": 1, "language": "German", "account_age": 2499840.0}

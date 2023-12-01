@@ -1,0 +1,1 @@
+{"channel": "steph_rose", "avg_viewers": 21, "followers_gained": 331, "peak_viewers": 58, "hours_streamed": 83, "streams": 22, "mature": 0, "language": "English", "account_age": 633600.0}

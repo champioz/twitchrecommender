@@ -1,0 +1,1 @@
+{"channel": "cpu_blanc", "avg_viewers": 27, "followers_gained": 24, "peak_viewers": 48, "hours_streamed": 61, "streams": 22, "mature": 1, "language": "English", "account_age": 2184480.0}

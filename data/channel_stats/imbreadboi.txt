@@ -1,0 +1,1 @@
+{"channel": "imbreadboi", "avg_viewers": 3, "followers_gained": 25, "peak_viewers": 12, "hours_streamed": 51, "streams": 19, "mature": 0, "language": "English", "account_age": 3496320.0}

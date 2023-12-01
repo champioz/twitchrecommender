@@ -1,0 +1,1 @@
+{"channel": "ch1llys", "avg_viewers": 17, "followers_gained": 29, "peak_viewers": 26, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Greek", "account_age": 466560.0}

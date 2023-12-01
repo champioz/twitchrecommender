@@ -1,0 +1,1 @@
+{"channel": "kaytlien", "avg_viewers": 388, "followers_gained": 171531, "peak_viewers": 949, "hours_streamed": 134, "streams": 23, "mature": 0, "language": "German", "account_age": 3991680.0}

@@ -1,0 +1,1 @@
+{"channel": "albislol", "avg_viewers": 1096, "followers_gained": 2749, "peak_viewers": 3222, "hours_streamed": 250, "streams": 31, "mature": 1, "language": "Chinese", "account_age": 4580640.0}

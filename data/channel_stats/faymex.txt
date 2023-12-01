@@ -1,0 +1,1 @@
+{"channel": "faymex", "avg_viewers": 13, "followers_gained": 220, "peak_viewers": 28, "hours_streamed": 91, "streams": 35, "mature": 0, "language": "Spanish", "account_age": 603360.0}

@@ -1,0 +1,1 @@
+{"channel": "carceron", "avg_viewers": 19, "followers_gained": 3093, "peak_viewers": 46, "hours_streamed": 138, "streams": 38, "mature": 0, "language": "Turkish", "account_age": 2829600.0}

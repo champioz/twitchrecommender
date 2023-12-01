@@ -1,0 +1,1 @@
+{"channel": "michelle_tw", "avg_viewers": 6, "followers_gained": 4, "peak_viewers": 14, "hours_streamed": 35, "streams": 22, "mature": 0, "language": "Chinese", "account_age": 3732480.0}

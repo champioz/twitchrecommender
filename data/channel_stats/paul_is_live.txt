@@ -1,0 +1,1 @@
+{"channel": "paul_is_live", "avg_viewers": 32, "followers_gained": 47, "peak_viewers": 56, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "Italian", "account_age": 1225440.0}

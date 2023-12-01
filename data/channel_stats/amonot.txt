@@ -1,0 +1,1 @@
+{"channel": "amonot", "avg_viewers": 7, "followers_gained": 9, "peak_viewers": 15, "hours_streamed": 9, "streams": 3, "mature": 0, "language": "Japanese", "account_age": 1032480.0}

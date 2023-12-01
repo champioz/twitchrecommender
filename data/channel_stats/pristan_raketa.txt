@@ -1,0 +1,1 @@
+{"channel": "pristan_raketa", "avg_viewers": 27, "followers_gained": 23, "peak_viewers": 49, "hours_streamed": 36, "streams": 9, "mature": 1, "language": "Russian", "account_age": 144000.0}

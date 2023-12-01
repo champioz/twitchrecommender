@@ -1,0 +1,1 @@
+{"channel": "meltygrap", "avg_viewers": 5, "followers_gained": 22, "peak_viewers": 21, "hours_streamed": 193, "streams": 52, "mature": 0, "language": "Korean", "account_age": 1935360.0}

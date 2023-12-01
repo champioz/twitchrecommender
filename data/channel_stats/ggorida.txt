@@ -1,0 +1,1 @@
+{"channel": "ggorida", "avg_viewers": 5, "followers_gained": 13, "peak_viewers": 16, "hours_streamed": 138, "streams": 37, "mature": 0, "language": "Korean", "account_age": 1100160.0}

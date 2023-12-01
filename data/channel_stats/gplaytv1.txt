@@ -1,0 +1,1 @@
+{"channel": "gplaytv1", "avg_viewers": 67, "followers_gained": 72, "peak_viewers": 156, "hours_streamed": 23, "streams": 12, "mature": 0, "language": "Bulgarian", "account_age": 2147040.0}

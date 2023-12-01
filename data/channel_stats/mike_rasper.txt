@@ -1,0 +1,1 @@
+{"channel": "mike_rasper", "avg_viewers": 7, "followers_gained": 85, "peak_viewers": 19, "hours_streamed": 101, "streams": 18, "mature": 1, "language": "Spanish", "account_age": 1537920.0}

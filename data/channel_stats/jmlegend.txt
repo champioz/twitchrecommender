@@ -1,0 +1,1 @@
+{"channel": "jmlegend", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 8, "hours_streamed": 32, "streams": 14, "mature": 0, "language": "English", "account_age": 2126880.0}

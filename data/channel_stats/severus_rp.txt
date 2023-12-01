@@ -1,0 +1,1 @@
+{"channel": "severus_rp", "avg_viewers": 41, "followers_gained": 437, "peak_viewers": 126, "hours_streamed": 76, "streams": 21, "mature": 1, "language": "Portuguese", "account_age": 1804320.0}

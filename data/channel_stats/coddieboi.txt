@@ -1,0 +1,1 @@
+{"channel": "coddieboi", "avg_viewers": 6, "followers_gained": 137, "peak_viewers": 22, "hours_streamed": 91, "streams": 27, "mature": 0, "language": "English", "account_age": 2115360.0}

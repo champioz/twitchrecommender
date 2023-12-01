@@ -1,0 +1,1 @@
+{"channel": "draquinas", "avg_viewers": 229, "followers_gained": 191, "peak_viewers": 2042, "hours_streamed": 330, "streams": 39, "mature": 1, "language": "Korean", "account_age": 2037600.0}

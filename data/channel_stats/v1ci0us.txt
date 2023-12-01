@@ -1,0 +1,1 @@
+{"channel": "v1ci0us", "avg_viewers": 182, "followers_gained": 833, "peak_viewers": 322, "hours_streamed": 84, "streams": 18, "mature": 0, "language": "Italian", "account_age": 2888640.0}

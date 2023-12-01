@@ -1,0 +1,1 @@
+{"channel": "kaypocalypse", "avg_viewers": 16, "followers_gained": 8, "peak_viewers": 39, "hours_streamed": 39, "streams": 8, "mature": 1, "language": "English", "account_age": 1697760.0}

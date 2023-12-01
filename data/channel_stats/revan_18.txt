@@ -1,0 +1,1 @@
+{"channel": "revan_18", "avg_viewers": 3, "followers_gained": 14, "peak_viewers": 7, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 1304640.0}

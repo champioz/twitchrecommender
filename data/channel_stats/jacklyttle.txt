@@ -1,0 +1,1 @@
+{"channel": "jacklyttle", "avg_viewers": 14, "followers_gained": 28, "peak_viewers": 93, "hours_streamed": 23, "streams": 12, "mature": 1, "language": "English", "account_age": 1071360.0}

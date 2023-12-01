@@ -1,0 +1,1 @@
+{"channel": "briu", "avg_viewers": 10, "followers_gained": 21, "peak_viewers": 25, "hours_streamed": 15, "streams": 11, "mature": 0, "language": "English", "account_age": 2033280.0}

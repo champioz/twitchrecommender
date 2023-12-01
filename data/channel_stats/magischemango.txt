@@ -1,0 +1,1 @@
+{"channel": "magischemango", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 9, "streams": 2, "mature": 1, "language": "German", "account_age": 1543680.0}

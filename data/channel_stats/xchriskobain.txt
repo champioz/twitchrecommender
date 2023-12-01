@@ -1,0 +1,1 @@
+{"channel": "xchriskobain", "avg_viewers": 8, "followers_gained": 14, "peak_viewers": 24, "hours_streamed": 24, "streams": 6, "mature": 0, "language": "English", "account_age": 3227040.0}

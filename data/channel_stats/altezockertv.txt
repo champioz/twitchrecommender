@@ -1,0 +1,1 @@
+{"channel": "altezockertv", "avg_viewers": 25, "followers_gained": 23, "peak_viewers": 52, "hours_streamed": 67, "streams": 10, "mature": 1, "language": "German", "account_age": 1607040.0}

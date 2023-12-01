@@ -1,0 +1,1 @@
+{"channel": "fisk31", "avg_viewers": 31, "followers_gained": 87, "peak_viewers": 88, "hours_streamed": 11, "streams": 7, "mature": 1, "language": "English", "account_age": 3106080.0}

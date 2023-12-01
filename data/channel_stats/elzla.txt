@@ -1,0 +1,1 @@
+{"channel": "elzla", "avg_viewers": 11, "followers_gained": 21, "peak_viewers": 23, "hours_streamed": 14, "streams": 6, "mature": 1, "language": "Norwegian", "account_age": 924480.0}

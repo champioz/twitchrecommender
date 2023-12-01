@@ -1,0 +1,1 @@
+{"channel": "mathieu_ue", "avg_viewers": 28, "followers_gained": 134, "peak_viewers": 307, "hours_streamed": 25, "streams": 15, "mature": 0, "language": "French", "account_age": 2219040.0}

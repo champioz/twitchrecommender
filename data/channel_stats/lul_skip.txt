@@ -1,0 +1,1 @@
+{"channel": "lul_skip", "avg_viewers": 8, "followers_gained": 220, "peak_viewers": 90, "hours_streamed": 242, "streams": 33, "mature": 0, "language": "English", "account_age": 1000800.0}

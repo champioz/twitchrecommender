@@ -1,0 +1,1 @@
+{"channel": "katerinasing", "avg_viewers": 56, "followers_gained": 59, "peak_viewers": 92, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "Russian", "account_age": 398880.0}

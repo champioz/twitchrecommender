@@ -1,0 +1,1 @@
+{"channel": "spacebeastx", "avg_viewers": 14, "followers_gained": 21, "peak_viewers": 32, "hours_streamed": 24, "streams": 7, "mature": 1, "language": "Arabic", "account_age": 2714400.0}

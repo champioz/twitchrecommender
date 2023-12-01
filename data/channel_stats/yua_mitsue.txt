@@ -1,0 +1,1 @@
+{"channel": "yua_mitsue", "avg_viewers": 8, "followers_gained": 61, "peak_viewers": 25, "hours_streamed": 134, "streams": 39, "mature": 0, "language": "English", "account_age": 548640.0}

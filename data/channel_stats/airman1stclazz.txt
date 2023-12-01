@@ -1,0 +1,1 @@
+{"channel": "airman1stclazz", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 23, "hours_streamed": 34, "streams": 11, "mature": 0, "language": "English", "account_age": 2262240.0}

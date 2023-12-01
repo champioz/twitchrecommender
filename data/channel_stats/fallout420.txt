@@ -1,0 +1,1 @@
+{"channel": "fallout420", "avg_viewers": 4, "followers_gained": 10, "peak_viewers": 13, "hours_streamed": 35, "streams": 8, "mature": 1, "language": "English", "account_age": 2833920.0}

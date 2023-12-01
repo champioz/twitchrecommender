@@ -1,0 +1,1 @@
+{"channel": "missvorhees", "avg_viewers": 10, "followers_gained": 13, "peak_viewers": 30, "hours_streamed": 33, "streams": 9, "mature": 1, "language": "German", "account_age": 1772640.0}

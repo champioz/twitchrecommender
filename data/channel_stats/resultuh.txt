@@ -1,0 +1,1 @@
+{"channel": "resultuh", "avg_viewers": 6, "followers_gained": 66, "peak_viewers": 30, "hours_streamed": 159, "streams": 29, "mature": 1, "language": "English", "account_age": 660960.0}

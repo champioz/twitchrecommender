@@ -1,0 +1,1 @@
+{"channel": "khalid_alhajeri", "avg_viewers": 10, "followers_gained": 49, "peak_viewers": 21, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "Arabic", "account_age": 1653120.0}

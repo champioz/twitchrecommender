@@ -1,0 +1,1 @@
+{"channel": "garok1991", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 33, "streams": 12, "mature": 1, "language": "German", "account_age": 3483360.0}

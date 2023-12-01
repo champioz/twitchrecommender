@@ -1,0 +1,1 @@
+{"channel": "veronicasnowflake", "avg_viewers": 29, "followers_gained": 83, "peak_viewers": 67, "hours_streamed": 45, "streams": 10, "mature": 1, "language": "Czech", "account_age": 2386080.0}

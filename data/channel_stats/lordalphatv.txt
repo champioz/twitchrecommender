@@ -1,0 +1,1 @@
+{"channel": "lordalphatv", "avg_viewers": 128, "followers_gained": 852, "peak_viewers": 1112, "hours_streamed": 45, "streams": 22, "mature": 1, "language": "French", "account_age": 1791360.0}

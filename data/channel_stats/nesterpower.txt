@@ -1,0 +1,1 @@
+{"channel": "nesterpower", "avg_viewers": 22, "followers_gained": 597, "peak_viewers": 39, "hours_streamed": 106, "streams": 52, "mature": 0, "language": "Russian", "account_age": 1566720.0}

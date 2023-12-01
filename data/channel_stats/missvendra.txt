@@ -1,0 +1,1 @@
+{"channel": "missvendra", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 20, "hours_streamed": 48, "streams": 11, "mature": 1, "language": "German", "account_age": 2949120.0}

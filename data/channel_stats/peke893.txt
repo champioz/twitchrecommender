@@ -1,0 +1,1 @@
+{"channel": "peke893", "avg_viewers": 5, "followers_gained": 15, "peak_viewers": 15, "hours_streamed": 61, "streams": 17, "mature": 0, "language": "Japanese", "account_age": 688320.0}

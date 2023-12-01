@@ -1,0 +1,1 @@
+{"channel": "golcar7", "avg_viewers": 8, "followers_gained": 57, "peak_viewers": 21, "hours_streamed": 15, "streams": 8, "mature": 1, "language": "Spanish", "account_age": 151200.0}

@@ -1,0 +1,1 @@
+{"channel": "soavril", "avg_viewers": 25, "followers_gained": 392, "peak_viewers": 139, "hours_streamed": 81, "streams": 24, "mature": 0, "language": "French", "account_age": 596160.0}

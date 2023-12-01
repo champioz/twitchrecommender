@@ -1,0 +1,1 @@
+{"channel": "superbutterbuns", "avg_viewers": 240, "followers_gained": 529, "peak_viewers": 509, "hours_streamed": 26, "streams": 11, "mature": 1, "language": "English", "account_age": 2900160.0}

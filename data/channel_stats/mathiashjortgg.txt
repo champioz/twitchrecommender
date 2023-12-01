@@ -1,0 +1,1 @@
+{"channel": "mathiashjortgg", "avg_viewers": 36, "followers_gained": 22, "peak_viewers": 71, "hours_streamed": 3, "streams": 2, "mature": 1, "language": "Danish", "account_age": 597600.0}

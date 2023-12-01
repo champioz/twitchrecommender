@@ -1,0 +1,1 @@
+{"channel": "twixit", "avg_viewers": 8, "followers_gained": 12, "peak_viewers": 26, "hours_streamed": 94, "streams": 19, "mature": 1, "language": "German", "account_age": 3562560.0}

@@ -1,0 +1,1 @@
+{"channel": "bigsyn", "avg_viewers": 22, "followers_gained": 10, "peak_viewers": 55, "hours_streamed": 28, "streams": 12, "mature": 0, "language": "English", "account_age": 3072960.0}

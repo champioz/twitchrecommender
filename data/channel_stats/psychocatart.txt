@@ -1,0 +1,1 @@
+{"channel": "psychocatart", "avg_viewers": 9, "followers_gained": 44, "peak_viewers": 32, "hours_streamed": 33, "streams": 12, "mature": 0, "language": "French", "account_age": 1160640.0}

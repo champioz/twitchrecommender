@@ -1,0 +1,1 @@
+{"channel": "austinforreal", "avg_viewers": 11, "followers_gained": 203, "peak_viewers": 24, "hours_streamed": 65, "streams": 32, "mature": 0, "language": "English", "account_age": 1833120.0}

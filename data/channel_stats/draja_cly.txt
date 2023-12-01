@@ -1,0 +1,1 @@
+{"channel": "draja_cly", "avg_viewers": 3, "followers_gained": 49, "peak_viewers": 32, "hours_streamed": 698, "streams": 15, "mature": 0, "language": "Chinese", "account_age": 4302720.0}

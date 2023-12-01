@@ -1,0 +1,1 @@
+{"channel": "leilanisbdo", "avg_viewers": 24, "followers_gained": 81, "peak_viewers": 208, "hours_streamed": 35, "streams": 9, "mature": 1, "language": "English", "account_age": 3529440.0}

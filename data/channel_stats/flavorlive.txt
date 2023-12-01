@@ -1,0 +1,1 @@
+{"channel": "flavorlive", "avg_viewers": 133, "followers_gained": 696, "peak_viewers": 298, "hours_streamed": 58, "streams": 10, "mature": 1, "language": "German", "account_age": 2373120.0}

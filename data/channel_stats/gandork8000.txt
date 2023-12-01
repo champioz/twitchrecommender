@@ -1,0 +1,1 @@
+{"channel": "gandork8000", "avg_viewers": 23, "followers_gained": 34, "peak_viewers": 52, "hours_streamed": 42, "streams": 8, "mature": 0, "language": "English", "account_age": 3186720.0}

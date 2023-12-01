@@ -1,0 +1,1 @@
+{"channel": "lordtoro", "avg_viewers": 139, "followers_gained": 1402, "peak_viewers": 282, "hours_streamed": 70, "streams": 17, "mature": 0, "language": "Turkish", "account_age": 4150080.0}

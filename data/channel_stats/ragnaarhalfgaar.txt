@@ -1,0 +1,1 @@
+{"channel": "ragnaarhalfgaar", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 14, "hours_streamed": 94, "streams": 21, "mature": 1, "language": "German", "account_age": 1425600.0}

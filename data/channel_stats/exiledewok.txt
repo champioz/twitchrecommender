@@ -1,0 +1,1 @@
+{"channel": "exiledewok", "avg_viewers": 4, "followers_gained": 78, "peak_viewers": 143, "hours_streamed": 98, "streams": 35, "mature": 0, "language": "English", "account_age": 1211040.0}

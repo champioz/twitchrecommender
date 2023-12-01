@@ -1,0 +1,1 @@
+{"channel": "xtaros", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "German", "account_age": 2914560.0}

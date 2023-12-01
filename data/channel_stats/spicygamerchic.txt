@@ -1,0 +1,1 @@
+{"channel": "spicygamerchic", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 11, "hours_streamed": 52, "streams": 18, "mature": 1, "language": "English", "account_age": 2881440.0}

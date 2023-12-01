@@ -1,0 +1,1 @@
+{"channel": "aninori", "avg_viewers": 35, "followers_gained": 60, "peak_viewers": 486, "hours_streamed": 68, "streams": 14, "mature": 0, "language": "Korean", "account_age": 1506240.0}

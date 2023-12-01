@@ -1,0 +1,1 @@
+{"channel": "superhenick", "avg_viewers": 3, "followers_gained": 16, "peak_viewers": 14, "hours_streamed": 71, "streams": 15, "mature": 1, "language": "English", "account_age": 3585600.0}

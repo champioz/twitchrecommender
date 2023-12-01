@@ -1,0 +1,1 @@
+{"channel": "noixp9", "avg_viewers": 12, "followers_gained": 41, "peak_viewers": 28, "hours_streamed": 69, "streams": 22, "mature": 0, "language": "Korean", "account_age": 1452960.0}

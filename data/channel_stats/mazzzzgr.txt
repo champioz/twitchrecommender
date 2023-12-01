@@ -1,0 +1,1 @@
+{"channel": "mazzzzgr", "avg_viewers": 30, "followers_gained": 621, "peak_viewers": 69, "hours_streamed": 115, "streams": 24, "mature": 0, "language": "Greek", "account_age": 3448800.0}

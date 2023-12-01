@@ -1,0 +1,1 @@
+{"channel": "jeffaocs", "avg_viewers": 74, "followers_gained": 2820, "peak_viewers": 356, "hours_streamed": 177, "streams": 36, "mature": 1, "language": "Portuguese", "account_age": 3335040.0}

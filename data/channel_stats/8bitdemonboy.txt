@@ -1,0 +1,1 @@
+{"channel": "8bitdemonboy", "avg_viewers": 3, "followers_gained": 28, "peak_viewers": 16, "hours_streamed": 65, "streams": 15, "mature": 1, "language": "English", "account_age": 1042560.0}

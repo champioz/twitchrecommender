@@ -1,0 +1,1 @@
+{"channel": "lorgon", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 36, "hours_streamed": 80, "streams": 49, "mature": 0, "language": "English", "account_age": 3647520.0}

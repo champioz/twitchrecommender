@@ -1,0 +1,1 @@
+{"channel": "karimszn", "avg_viewers": 4, "followers_gained": 140, "peak_viewers": 20, "hours_streamed": 107, "streams": 23, "mature": 0, "language": "English", "account_age": 459360.0}

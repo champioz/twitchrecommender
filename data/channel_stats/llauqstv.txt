@@ -1,0 +1,1 @@
+{"channel": "llauqstv", "avg_viewers": 69, "followers_gained": 1380, "peak_viewers": 432, "hours_streamed": 76, "streams": 11, "mature": 1, "language": "Portuguese", "account_age": 2247840.0}

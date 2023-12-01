@@ -1,0 +1,1 @@
+{"channel": "l4rth_v4der", "avg_viewers": 23, "followers_gained": 17, "peak_viewers": 45, "hours_streamed": 7, "streams": 1, "mature": 1, "language": "German", "account_age": 2833920.0}

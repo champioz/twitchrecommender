@@ -1,0 +1,1 @@
+{"channel": "night63", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 4, "hours_streamed": 65, "streams": 28, "mature": 1, "language": "English", "account_age": 1738080.0}

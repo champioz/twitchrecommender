@@ -1,0 +1,1 @@
+{"channel": "krylat", "avg_viewers": 7, "followers_gained": 26, "peak_viewers": 22, "hours_streamed": 55, "streams": 11, "mature": 1, "language": "Russian", "account_age": 1440000.0}

@@ -1,0 +1,1 @@
+{"channel": "mikegoesboom", "avg_viewers": 46, "followers_gained": 2, "peak_viewers": 69, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 2858400.0}

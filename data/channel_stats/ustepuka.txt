@@ -1,0 +1,1 @@
+{"channel": "ustepuka", "avg_viewers": 14, "followers_gained": 38, "peak_viewers": 36, "hours_streamed": 49, "streams": 11, "mature": 1, "language": "Russian", "account_age": 1365120.0}

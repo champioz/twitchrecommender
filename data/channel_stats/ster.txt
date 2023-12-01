@@ -1,0 +1,1 @@
+{"channel": "ster", "avg_viewers": 945, "followers_gained": 812, "peak_viewers": 1950, "hours_streamed": 125, "streams": 24, "mature": 0, "language": "English", "account_age": 4249440.0}

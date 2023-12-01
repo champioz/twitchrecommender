@@ -1,0 +1,1 @@
+{"channel": "vonknugen", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 23, "streams": 11, "mature": 1, "language": "Swedish", "account_age": 1745280.0}

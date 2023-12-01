@@ -1,0 +1,1 @@
+{"channel": "datnefarius", "avg_viewers": 18, "followers_gained": 115, "peak_viewers": 63, "hours_streamed": 68, "streams": 14, "mature": 1, "language": "German", "account_age": 1696320.0}

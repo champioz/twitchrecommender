@@ -1,0 +1,1 @@
+{"channel": "istatikk", "avg_viewers": 7, "followers_gained": 52, "peak_viewers": 19, "hours_streamed": 16, "streams": 7, "mature": 1, "language": "French", "account_age": 1185120.0}

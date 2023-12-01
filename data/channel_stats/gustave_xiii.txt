@@ -1,0 +1,1 @@
+{"channel": "gustave_xiii", "avg_viewers": 2, "followers_gained": 34, "peak_viewers": 13, "hours_streamed": 113, "streams": 39, "mature": 0, "language": "English", "account_age": 4494240.0}

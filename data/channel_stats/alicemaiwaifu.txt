@@ -1,0 +1,1 @@
+{"channel": "alicemaiwaifu", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 12, "streams": 7, "mature": 0, "language": "Russian", "account_age": 986400.0}

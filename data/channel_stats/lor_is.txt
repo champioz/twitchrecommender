@@ -1,0 +1,1 @@
+{"channel": "lor_is", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 7, "streams": 5, "mature": 0, "language": "English", "account_age": 2874240.0}

@@ -1,0 +1,1 @@
+{"channel": "uknightmare", "avg_viewers": 166, "followers_gained": 275, "peak_viewers": 713, "hours_streamed": 133, "streams": 29, "mature": 1, "language": "English", "account_age": 3299040.0}

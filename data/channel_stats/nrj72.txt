@@ -1,0 +1,1 @@
+{"channel": "nrj72", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "Russian", "account_age": 1867680.0}

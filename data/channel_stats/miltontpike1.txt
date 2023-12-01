@@ -1,0 +1,1 @@
+{"channel": "miltontpike1", "avg_viewers": 2203, "followers_gained": 1646, "peak_viewers": 5187, "hours_streamed": 111, "streams": 28, "mature": 0, "language": "English", "account_age": 1209600.0}

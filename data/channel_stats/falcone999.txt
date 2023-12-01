@@ -1,0 +1,1 @@
+{"channel": "falcone999", "avg_viewers": 88, "followers_gained": 145, "peak_viewers": 616, "hours_streamed": 118, "streams": 25, "mature": 0, "language": "Russian", "account_age": 3134880.0}

@@ -1,0 +1,1 @@
+{"channel": "atk", "avg_viewers": 151, "followers_gained": 552, "peak_viewers": 767, "hours_streamed": 169, "streams": 15, "mature": 0, "language": "English", "account_age": 5104800.0}

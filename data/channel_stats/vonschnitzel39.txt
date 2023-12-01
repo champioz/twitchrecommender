@@ -1,0 +1,1 @@
+{"channel": "vonschnitzel39", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 19, "hours_streamed": 38, "streams": 16, "mature": 1, "language": "English", "account_age": 2047680.0}

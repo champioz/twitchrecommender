@@ -1,0 +1,1 @@
+{"channel": "hyla9834", "avg_viewers": 2, "followers_gained": 31, "peak_viewers": 11, "hours_streamed": 214, "streams": 42, "mature": 0, "language": "Korean", "account_age": 1023840.0}

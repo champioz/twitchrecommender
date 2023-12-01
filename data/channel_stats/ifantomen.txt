@@ -1,0 +1,1 @@
+{"channel": "ifantomen", "avg_viewers": 29, "followers_gained": 437, "peak_viewers": 407, "hours_streamed": 103, "streams": 25, "mature": 0, "language": "English", "account_age": 2908800.0}

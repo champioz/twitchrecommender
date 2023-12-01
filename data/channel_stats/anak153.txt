@@ -1,0 +1,1 @@
+{"channel": "anak153", "avg_viewers": 16, "followers_gained": 34, "peak_viewers": 38, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "Russian", "account_age": 3186720.0}

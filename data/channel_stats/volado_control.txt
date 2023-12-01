@@ -1,0 +1,1 @@
+{"channel": "volado_control", "avg_viewers": 52, "followers_gained": 53, "peak_viewers": 89, "hours_streamed": 50, "streams": 12, "mature": 1, "language": "German", "account_age": 862560.0}

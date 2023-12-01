@@ -1,0 +1,1 @@
+{"channel": "drella_nyan", "avg_viewers": 37, "followers_gained": 86693, "peak_viewers": 84, "hours_streamed": 55, "streams": 15, "mature": 1, "language": "German", "account_age": 1009440.0}

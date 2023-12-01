@@ -1,0 +1,1 @@
+{"channel": "thrallonline", "avg_viewers": 4, "followers_gained": 13, "peak_viewers": 12, "hours_streamed": 38, "streams": 8, "mature": 1, "language": "French", "account_age": 354240.0}

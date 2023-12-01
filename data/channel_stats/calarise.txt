@@ -1,0 +1,1 @@
+{"channel": "calarise", "avg_viewers": 14, "followers_gained": 34, "peak_viewers": 23, "hours_streamed": 8, "streams": 2, "mature": 0, "language": "English", "account_age": 3255840.0}

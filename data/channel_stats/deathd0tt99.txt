@@ -1,0 +1,1 @@
+{"channel": "deathd0tt99", "avg_viewers": 10, "followers_gained": 12, "peak_viewers": 81, "hours_streamed": 86, "streams": 14, "mature": 0, "language": "English", "account_age": 2872800.0}

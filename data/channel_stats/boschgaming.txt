@@ -1,0 +1,1 @@
+{"channel": "boschgaming", "avg_viewers": 14, "followers_gained": 167, "peak_viewers": 34, "hours_streamed": 174, "streams": 33, "mature": 1, "language": "English", "account_age": 473760.0}

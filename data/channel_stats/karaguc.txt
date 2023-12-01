@@ -1,0 +1,1 @@
+{"channel": "karaguc", "avg_viewers": 1, "followers_gained": 14, "peak_viewers": 3, "hours_streamed": 23, "streams": 14, "mature": 0, "language": "Turkish", "account_age": 2370240.0}

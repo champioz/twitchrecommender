@@ -1,0 +1,1 @@
+{"channel": "fenixburns", "avg_viewers": 38, "followers_gained": 11, "peak_viewers": 73, "hours_streamed": 13, "streams": 4, "mature": 1, "language": "Russian", "account_age": 3039840.0}

@@ -1,0 +1,1 @@
+{"channel": "taojiji", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "Chinese", "account_age": 3427200.0}

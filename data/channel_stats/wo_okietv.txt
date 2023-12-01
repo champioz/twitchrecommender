@@ -1,0 +1,1 @@
+{"channel": "wo_okietv", "avg_viewers": 4, "followers_gained": 14, "peak_viewers": 24, "hours_streamed": 80, "streams": 11, "mature": 1, "language": "German", "account_age": 724320.0}

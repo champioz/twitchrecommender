@@ -1,0 +1,1 @@
+{"channel": "thegabbynaut", "avg_viewers": 4, "followers_gained": 34, "peak_viewers": 21, "hours_streamed": 86, "streams": 18, "mature": 1, "language": "Spanish", "account_age": 3029760.0}

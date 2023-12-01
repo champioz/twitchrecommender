@@ -1,0 +1,1 @@
+{"channel": "gamingforest", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 12, "hours_streamed": 67, "streams": 14, "mature": 1, "language": "German", "account_age": 2813760.0}

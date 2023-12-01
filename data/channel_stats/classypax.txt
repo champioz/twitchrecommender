@@ -1,0 +1,1 @@
+{"channel": "classypax", "avg_viewers": 480, "followers_gained": 842, "peak_viewers": 2882, "hours_streamed": 46, "streams": 13, "mature": 1, "language": "English", "account_age": 2285280.0}

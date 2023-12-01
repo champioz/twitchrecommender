@@ -1,0 +1,1 @@
+{"channel": "ikeytho", "avg_viewers": 2, "followers_gained": 18, "peak_viewers": 9, "hours_streamed": 140, "streams": 34, "mature": 1, "language": "French", "account_age": 2239200.0}

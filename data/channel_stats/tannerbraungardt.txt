@@ -1,0 +1,1 @@
+{"channel": "tannerbraungardt", "avg_viewers": 184, "followers_gained": 3039, "peak_viewers": 569, "hours_streamed": 19, "streams": 11, "mature": 0, "language": "English", "account_age": 2252160.0}

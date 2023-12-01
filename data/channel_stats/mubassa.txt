@@ -1,0 +1,1 @@
+{"channel": "mubassa", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 9, "hours_streamed": 39, "streams": 21, "mature": 0, "language": "Russian", "account_age": 168480.0}

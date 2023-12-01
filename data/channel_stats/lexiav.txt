@@ -1,0 +1,1 @@
+{"channel": "lexiav", "avg_viewers": 228, "followers_gained": 388, "peak_viewers": 506, "hours_streamed": 213, "streams": 31, "mature": 0, "language": "English", "account_age": 1310400.0}

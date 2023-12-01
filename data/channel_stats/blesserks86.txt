@@ -1,0 +1,1 @@
+{"channel": "blesserks86", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 5, "hours_streamed": 5, "streams": 3, "mature": 1, "language": "Portuguese", "account_age": 632160.0}

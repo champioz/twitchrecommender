@@ -1,0 +1,1 @@
+{"channel": "rockmanhh", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 22, "hours_streamed": 159, "streams": 45, "mature": 0, "language": "Korean", "account_age": 2436480.0}

@@ -1,0 +1,1 @@
+{"channel": "bounceyboy", "avg_viewers": 103, "followers_gained": 67, "peak_viewers": 418, "hours_streamed": 33, "streams": 8, "mature": 1, "language": "English", "account_age": 3290400.0}

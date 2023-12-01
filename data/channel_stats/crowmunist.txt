@@ -1,0 +1,1 @@
+{"channel": "crowmunist", "avg_viewers": 34, "followers_gained": 46, "peak_viewers": 239, "hours_streamed": 24, "streams": 8, "mature": 0, "language": "English", "account_age": 1936800.0}

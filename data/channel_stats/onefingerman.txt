@@ -1,0 +1,1 @@
+{"channel": "onefingerman", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 13, "hours_streamed": 20, "streams": 5, "mature": 0, "language": "English", "account_age": 1876320.0}

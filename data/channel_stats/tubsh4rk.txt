@@ -1,0 +1,1 @@
+{"channel": "tubsh4rk", "avg_viewers": 21, "followers_gained": 85, "peak_viewers": 75, "hours_streamed": 219, "streams": 35, "mature": 1, "language": "English", "account_age": 2096640.0}

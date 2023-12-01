@@ -1,0 +1,1 @@
+{"channel": "aqula", "avg_viewers": 69, "followers_gained": 313, "peak_viewers": 159, "hours_streamed": 133, "streams": 27, "mature": 1, "language": "Russian", "account_age": 1434240.0}

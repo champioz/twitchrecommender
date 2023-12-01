@@ -1,0 +1,1 @@
+{"channel": "ramdaji_", "avg_viewers": 46, "followers_gained": 190, "peak_viewers": 89, "hours_streamed": 225, "streams": 26, "mature": 0, "language": "Korean", "account_age": 197280.0}

@@ -1,0 +1,1 @@
+{"channel": "darkdaxterr", "avg_viewers": 24, "followers_gained": 653, "peak_viewers": 58, "hours_streamed": 22, "streams": 13, "mature": 0, "language": "Russian", "account_age": 3869280.0}

@@ -1,0 +1,1 @@
+{"channel": "rachelhoyee", "avg_viewers": 28, "followers_gained": 4, "peak_viewers": 37, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "Chinese (Hong Kong SAR)", "account_age": 1340640.0}

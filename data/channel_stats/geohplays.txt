@@ -1,0 +1,1 @@
+{"channel": "geohplays", "avg_viewers": 5, "followers_gained": 15, "peak_viewers": 12, "hours_streamed": 16, "streams": 7, "mature": 0, "language": "German", "account_age": 2338560.0}

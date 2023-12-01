@@ -1,0 +1,1 @@
+{"channel": "lunaomi", "avg_viewers": 21, "followers_gained": 339, "peak_viewers": 364, "hours_streamed": 91, "streams": 12, "mature": 0, "language": "English", "account_age": 3618720.0}

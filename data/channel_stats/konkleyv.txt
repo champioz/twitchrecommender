@@ -1,0 +1,1 @@
+{"channel": "konkleyv", "avg_viewers": 43, "followers_gained": 5425, "peak_viewers": 109, "hours_streamed": 35, "streams": 15, "mature": 0, "language": "Turkish", "account_age": 586080.0}

@@ -1,0 +1,1 @@
+{"channel": "wolfman2000", "avg_viewers": 4, "followers_gained": 22, "peak_viewers": 16, "hours_streamed": 51, "streams": 14, "mature": 1, "language": "English", "account_age": 3764160.0}

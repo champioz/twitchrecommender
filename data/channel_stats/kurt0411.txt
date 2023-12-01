@@ -1,0 +1,1 @@
+{"channel": "kurt0411", "avg_viewers": 717, "followers_gained": 2972, "peak_viewers": 2054, "hours_streamed": 49, "streams": 18, "mature": 0, "language": "English", "account_age": 3628800.0}

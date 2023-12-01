@@ -1,0 +1,1 @@
+{"channel": "thomasmercer", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 8, "hours_streamed": 53, "streams": 24, "mature": 1, "language": "French", "account_age": 3229920.0}

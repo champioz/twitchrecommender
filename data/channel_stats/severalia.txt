@@ -1,0 +1,1 @@
+{"channel": "severalia", "avg_viewers": 37, "followers_gained": 298, "peak_viewers": 93, "hours_streamed": 160, "streams": 26, "mature": 1, "language": "Portuguese", "account_age": 3245760.0}

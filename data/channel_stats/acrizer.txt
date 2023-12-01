@@ -1,0 +1,1 @@
+{"channel": "acrizer", "avg_viewers": 5, "followers_gained": 20, "peak_viewers": 18, "hours_streamed": 48, "streams": 7, "mature": 1, "language": "English", "account_age": 2243520.0}

@@ -1,0 +1,1 @@
+{"channel": "jesstreams", "avg_viewers": 81, "followers_gained": 132, "peak_viewers": 227, "hours_streamed": 55, "streams": 13, "mature": 0, "language": "English", "account_age": 1344960.0}

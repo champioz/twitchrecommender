@@ -1,0 +1,1 @@
+{"channel": "daphnitomic", "avg_viewers": 55, "followers_gained": 42, "peak_viewers": 134, "hours_streamed": 18, "streams": 3, "mature": 0, "language": "English", "account_age": 2363040.0}

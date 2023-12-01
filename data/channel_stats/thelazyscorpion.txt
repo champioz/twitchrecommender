@@ -1,0 +1,1 @@
+{"channel": "thelazyscorpion", "avg_viewers": 2, "followers_gained": 23, "peak_viewers": 10, "hours_streamed": 52, "streams": 18, "mature": 0, "language": "Other", "account_age": 1284480.0}

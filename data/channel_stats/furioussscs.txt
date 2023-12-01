@@ -1,0 +1,1 @@
+{"channel": "furioussscs", "avg_viewers": 74, "followers_gained": 168, "peak_viewers": 120, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "English", "account_age": 1612800.0}

@@ -1,0 +1,1 @@
+{"channel": "kingstaxy", "avg_viewers": 19, "followers_gained": 269, "peak_viewers": 39, "hours_streamed": 67, "streams": 12, "mature": 0, "language": "English", "account_age": 2013120.0}

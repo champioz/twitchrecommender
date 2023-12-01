@@ -1,0 +1,1 @@
+{"channel": "hmq2008", "avg_viewers": 20, "followers_gained": 15, "peak_viewers": 36, "hours_streamed": 16, "streams": 2, "mature": 1, "language": "Korean", "account_age": 1350720.0}

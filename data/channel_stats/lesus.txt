@@ -1,0 +1,1 @@
+{"channel": "lesus", "avg_viewers": 2, "followers_gained": 19, "peak_viewers": 11, "hours_streamed": 102, "streams": 21, "mature": 0, "language": "English", "account_age": 1056960.0}

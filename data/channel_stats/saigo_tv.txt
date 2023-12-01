@@ -1,0 +1,1 @@
+{"channel": "saigo_tv", "avg_viewers": 5, "followers_gained": 35, "peak_viewers": 155, "hours_streamed": 66, "streams": 27, "mature": 1, "language": "Greek", "account_age": 2298240.0}

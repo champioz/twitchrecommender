@@ -1,0 +1,1 @@
+{"channel": "tsuji_tsutsuji", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 27, "hours_streamed": 101, "streams": 40, "mature": 0, "language": "Japanese", "account_age": 1087200.0}

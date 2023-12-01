@@ -1,0 +1,1 @@
+{"channel": "canbeast", "avg_viewers": 11, "followers_gained": 18, "peak_viewers": 32, "hours_streamed": 42, "streams": 8, "mature": 1, "language": "English", "account_age": 1782720.0}

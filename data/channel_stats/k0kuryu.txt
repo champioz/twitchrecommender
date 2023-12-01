@@ -1,0 +1,1 @@
+{"channel": "k0kuryu", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 1, "streams": 1, "mature": 1, "language": "German", "account_age": 1728000.0}

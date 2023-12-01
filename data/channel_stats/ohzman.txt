@@ -1,0 +1,1 @@
+{"channel": "ohzman", "avg_viewers": 114, "followers_gained": 211, "peak_viewers": 224, "hours_streamed": 45, "streams": 18, "mature": 0, "language": "Turkish", "account_age": 2832480.0}

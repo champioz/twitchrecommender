@@ -1,0 +1,1 @@
+{"channel": "tribegames", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Italian", "account_age": 2980800.0}

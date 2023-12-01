@@ -1,0 +1,1 @@
+{"channel": "bo_white", "avg_viewers": 100, "followers_gained": 412, "peak_viewers": 195, "hours_streamed": 268, "streams": 30, "mature": 1, "language": "Russian", "account_age": 2151360.0}

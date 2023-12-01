@@ -1,0 +1,1 @@
+{"channel": "chiefcharming", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 32, "hours_streamed": 72, "streams": 29, "mature": 1, "language": "English", "account_age": 645120.0}

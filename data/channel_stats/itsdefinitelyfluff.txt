@@ -1,0 +1,1 @@
+{"channel": "itsdefinitelyfluff", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 4, "streams": 4, "mature": 1, "language": "English", "account_age": 794880.0}

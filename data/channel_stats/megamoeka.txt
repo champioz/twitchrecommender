@@ -1,0 +1,1 @@
+{"channel": "megamoeka", "avg_viewers": 19, "followers_gained": 74, "peak_viewers": 33, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "English", "account_age": 2597760.0}

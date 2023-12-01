@@ -1,0 +1,1 @@
+{"channel": "xplurtv", "avg_viewers": 38, "followers_gained": 479, "peak_viewers": 74, "hours_streamed": 149, "streams": 37, "mature": 0, "language": "Portuguese", "account_age": 397440.0}

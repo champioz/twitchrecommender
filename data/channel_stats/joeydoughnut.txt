@@ -1,0 +1,1 @@
+{"channel": "joeydoughnut", "avg_viewers": 5, "followers_gained": 5, "peak_viewers": 17, "hours_streamed": 7, "streams": 4, "mature": 1, "language": "English", "account_age": 2004480.0}

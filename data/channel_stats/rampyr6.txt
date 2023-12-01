@@ -1,0 +1,1 @@
+{"channel": "rampyr6", "avg_viewers": 151, "followers_gained": 685, "peak_viewers": 580, "hours_streamed": 16, "streams": 6, "mature": 1, "language": "English", "account_age": 1215360.0}

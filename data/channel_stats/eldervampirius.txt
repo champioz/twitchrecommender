@@ -1,0 +1,1 @@
+{"channel": "eldervampirius", "avg_viewers": 7, "followers_gained": 25, "peak_viewers": 20, "hours_streamed": 97, "streams": 17, "mature": 1, "language": "Czech", "account_age": 678240.0}

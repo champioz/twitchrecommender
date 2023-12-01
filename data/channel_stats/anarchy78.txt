@@ -1,0 +1,1 @@
+{"channel": "anarchy78", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 17, "hours_streamed": 51, "streams": 32, "mature": 0, "language": "Chinese", "account_age": 3189600.0}

@@ -1,0 +1,1 @@
+{"channel": "ibecametv", "avg_viewers": 0, "followers_gained": 18, "peak_viewers": 7, "hours_streamed": 51, "streams": 22, "mature": 0, "language": "English", "account_age": 1823040.0}

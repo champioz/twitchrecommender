@@ -1,0 +1,1 @@
+{"channel": "ilyeanaplus", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 4, "hours_streamed": 21, "streams": 6, "mature": 1, "language": "English", "account_age": 557280.0}

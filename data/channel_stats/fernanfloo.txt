@@ -1,0 +1,1 @@
+{"channel": "fernanfloo", "avg_viewers": 1219, "followers_gained": 32982, "peak_viewers": 2525, "hours_streamed": 43, "streams": 14, "mature": 0, "language": "Spanish", "account_age": 756000.0}

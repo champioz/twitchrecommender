@@ -1,0 +1,1 @@
+{"channel": "tenmagab", "avg_viewers": 20, "followers_gained": 51, "peak_viewers": 56, "hours_streamed": 62, "streams": 22, "mature": 1, "language": "English", "account_age": 1252800.0}

@@ -1,0 +1,1 @@
+{"channel": "exidus", "avg_viewers": 65, "followers_gained": 134, "peak_viewers": 116, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "German", "account_age": 2763360.0}

@@ -1,0 +1,1 @@
+{"channel": "jay_savage95", "avg_viewers": 35, "followers_gained": 220, "peak_viewers": 254, "hours_streamed": 53, "streams": 14, "mature": 1, "language": "English", "account_age": 1428480.0}

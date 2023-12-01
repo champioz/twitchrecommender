@@ -1,0 +1,1 @@
+{"channel": "conrad66", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 11, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "English", "account_age": 519840.0}

@@ -1,0 +1,1 @@
+{"channel": "brosgame4lyf", "avg_viewers": 1, "followers_gained": 12, "peak_viewers": 13, "hours_streamed": 130, "streams": 27, "mature": 0, "language": "English", "account_age": 2897280.0}

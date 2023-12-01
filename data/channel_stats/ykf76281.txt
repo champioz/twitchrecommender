@@ -1,0 +1,1 @@
+{"channel": "ykf76281", "avg_viewers": 0, "followers_gained": 8, "peak_viewers": 4, "hours_streamed": 76, "streams": 26, "mature": 0, "language": "Chinese", "account_age": 2357280.0}

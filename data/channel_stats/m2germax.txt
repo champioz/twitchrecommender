@@ -1,0 +1,1 @@
+{"channel": "m2germax", "avg_viewers": 97, "followers_gained": 288, "peak_viewers": 200, "hours_streamed": 88, "streams": 12, "mature": 0, "language": "Other", "account_age": 3322080.0}

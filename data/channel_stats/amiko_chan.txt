@@ -1,0 +1,1 @@
+{"channel": "amiko_chan", "avg_viewers": 30, "followers_gained": 89, "peak_viewers": 50, "hours_streamed": 12, "streams": 6, "mature": 1, "language": "Russian", "account_age": 3103200.0}

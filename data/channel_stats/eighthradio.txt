@@ -1,0 +1,1 @@
+{"channel": "eighthradio", "avg_viewers": 25, "followers_gained": 6710, "peak_viewers": 99, "hours_streamed": 731, "streams": 9, "mature": 0, "language": "English", "account_age": 829440.0}

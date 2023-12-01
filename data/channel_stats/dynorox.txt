@@ -1,0 +1,1 @@
+{"channel": "dynorox", "avg_viewers": 40, "followers_gained": 40, "peak_viewers": 118, "hours_streamed": 72, "streams": 13, "mature": 1, "language": "Portuguese", "account_age": 3728160.0}

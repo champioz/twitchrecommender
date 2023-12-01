@@ -1,0 +1,1 @@
+{"channel": "hajapjon", "avg_viewers": 87, "followers_gained": 1175, "peak_viewers": 1225, "hours_streamed": 117, "streams": 21, "mature": 0, "language": "Thai", "account_age": 1486080.0}

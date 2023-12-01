@@ -1,0 +1,1 @@
+{"channel": "sozan", "avg_viewers": 25, "followers_gained": 68, "peak_viewers": 67, "hours_streamed": 60, "streams": 16, "mature": 1, "language": "English", "account_age": 2509920.0}

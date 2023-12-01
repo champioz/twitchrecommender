@@ -1,0 +1,1 @@
+{"channel": "totyz", "avg_viewers": 27, "followers_gained": 60, "peak_viewers": 92, "hours_streamed": 57, "streams": 16, "mature": 0, "language": "Greek", "account_age": 2730240.0}

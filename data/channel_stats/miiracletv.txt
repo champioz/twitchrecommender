@@ -1,0 +1,1 @@
+{"channel": "miiracletv", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 12, "streams": 8, "mature": 0, "language": "German", "account_age": 470880.0}

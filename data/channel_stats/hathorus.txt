@@ -1,0 +1,1 @@
+{"channel": "hathorus", "avg_viewers": 2, "followers_gained": 53, "peak_viewers": 10, "hours_streamed": 211, "streams": 31, "mature": 1, "language": "French", "account_age": 1493280.0}

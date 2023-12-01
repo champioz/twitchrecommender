@@ -1,0 +1,1 @@
+{"channel": "hudatcha", "avg_viewers": 2, "followers_gained": 65, "peak_viewers": 9, "hours_streamed": 155, "streams": 24, "mature": 1, "language": "English", "account_age": 216000.0}

@@ -1,0 +1,1 @@
+{"channel": "bidule", "avg_viewers": 709, "followers_gained": 1267, "peak_viewers": 1416, "hours_streamed": 73, "streams": 21, "mature": 1, "language": "French", "account_age": 1473120.0}

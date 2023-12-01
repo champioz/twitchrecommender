@@ -1,0 +1,1 @@
+{"channel": "shilor", "avg_viewers": 7, "followers_gained": 5, "peak_viewers": 24, "hours_streamed": 29, "streams": 8, "mature": 1, "language": "English", "account_age": 2469600.0}

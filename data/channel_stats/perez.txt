@@ -1,0 +1,1 @@
+{"channel": "perez", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 3, "streams": 2, "mature": 1, "language": "Spanish", "account_age": 740160.0}

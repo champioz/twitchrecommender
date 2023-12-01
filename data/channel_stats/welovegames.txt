@@ -1,0 +1,1 @@
+{"channel": "welovegames", "avg_viewers": 2308, "followers_gained": 1964, "peak_viewers": 5563, "hours_streamed": 95, "streams": 18, "mature": 0, "language": "Russian", "account_age": 3777120.0}

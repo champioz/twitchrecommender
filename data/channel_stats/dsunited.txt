@@ -1,0 +1,1 @@
+{"channel": "dsunited", "avg_viewers": 129, "followers_gained": 235, "peak_viewers": 289, "hours_streamed": 14, "streams": 4, "mature": 0, "language": "Portuguese", "account_age": 1091520.0}

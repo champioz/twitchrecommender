@@ -1,0 +1,1 @@
+{"channel": "gerfalke", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "German", "account_age": 3972960.0}

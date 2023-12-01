@@ -1,0 +1,1 @@
+{"channel": "el_hasanm1998", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 44, "streams": 11, "mature": 1, "language": "English", "account_age": 3134880.0}

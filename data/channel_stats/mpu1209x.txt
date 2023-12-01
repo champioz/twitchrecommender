@@ -1,0 +1,1 @@
+{"channel": "mpu1209x", "avg_viewers": 10, "followers_gained": 7, "peak_viewers": 34, "hours_streamed": 33, "streams": 14, "mature": 0, "language": "Japanese", "account_age": 1278720.0}

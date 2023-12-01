@@ -1,0 +1,1 @@
+{"channel": "bigedmustafa", "avg_viewers": 8, "followers_gained": 9, "peak_viewers": 23, "hours_streamed": 60, "streams": 18, "mature": 0, "language": "English", "account_age": 2448000.0}

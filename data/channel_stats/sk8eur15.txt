@@ -1,0 +1,1 @@
+{"channel": "sk8eur15", "avg_viewers": 9, "followers_gained": 65, "peak_viewers": 32, "hours_streamed": 149, "streams": 30, "mature": 1, "language": "French", "account_age": 3994560.0}

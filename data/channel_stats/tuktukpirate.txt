@@ -1,0 +1,1 @@
+{"channel": "tuktukpirate", "avg_viewers": 5, "followers_gained": 43, "peak_viewers": 13, "hours_streamed": 147, "streams": 33, "mature": 0, "language": "English", "account_age": 1670400.0}

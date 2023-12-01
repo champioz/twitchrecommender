@@ -1,0 +1,1 @@
+{"channel": "kasutama", "avg_viewers": 9, "followers_gained": 10, "peak_viewers": 15, "hours_streamed": 25, "streams": 8, "mature": 0, "language": "German", "account_age": 463680.0}

@@ -1,0 +1,1 @@
+{"channel": "aimadox", "avg_viewers": 18, "followers_gained": 89, "peak_viewers": 58, "hours_streamed": 7, "streams": 4, "mature": 0, "language": "Arabic", "account_age": 1470240.0}

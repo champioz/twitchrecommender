@@ -1,0 +1,1 @@
+{"channel": "daol428", "avg_viewers": 18, "followers_gained": 153, "peak_viewers": 77, "hours_streamed": 124, "streams": 21, "mature": 0, "language": "Korean", "account_age": 679680.0}

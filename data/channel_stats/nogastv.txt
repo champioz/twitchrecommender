@@ -1,0 +1,1 @@
+{"channel": "nogastv", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 10, "hours_streamed": 347, "streams": 33, "mature": 1, "language": "Portuguese", "account_age": 682560.0}

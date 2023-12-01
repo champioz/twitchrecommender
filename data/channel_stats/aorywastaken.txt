@@ -1,0 +1,1 @@
+{"channel": "aorywastaken", "avg_viewers": 6, "followers_gained": 23, "peak_viewers": 53, "hours_streamed": 71, "streams": 23, "mature": 0, "language": "English", "account_age": 3041280.0}

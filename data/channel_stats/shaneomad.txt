@@ -1,0 +1,1 @@
+{"channel": "shaneomad", "avg_viewers": 73, "followers_gained": 15, "peak_viewers": 156, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "English", "account_age": 2972160.0}

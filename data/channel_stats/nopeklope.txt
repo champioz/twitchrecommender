@@ -1,0 +1,1 @@
+{"channel": "nopeklope", "avg_viewers": 6, "followers_gained": 22, "peak_viewers": 19, "hours_streamed": 135, "streams": 29, "mature": 0, "language": "Slovak", "account_age": 3019680.0}

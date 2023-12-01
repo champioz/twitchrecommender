@@ -1,0 +1,1 @@
+{"channel": "jacksghost", "avg_viewers": 8, "followers_gained": 17, "peak_viewers": 33, "hours_streamed": 40, "streams": 11, "mature": 1, "language": "English", "account_age": 2825280.0}

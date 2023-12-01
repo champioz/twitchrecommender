@@ -1,0 +1,1 @@
+{"channel": "lol_nemesis", "avg_viewers": 1202, "followers_gained": 6809, "peak_viewers": 2528, "hours_streamed": 84, "streams": 19, "mature": 0, "language": "English", "account_age": 2291040.0}

@@ -1,0 +1,1 @@
+{"channel": "godhyr", "avg_viewers": 95, "followers_gained": 127, "peak_viewers": 267, "hours_streamed": 196, "streams": 30, "mature": 1, "language": "Other", "account_age": 3114720.0}

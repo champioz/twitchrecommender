@@ -1,0 +1,1 @@
+{"channel": "easyallies", "avg_viewers": 718, "followers_gained": 327, "peak_viewers": 1969, "hours_streamed": 146, "streams": 24, "mature": 0, "language": "English", "account_age": 1795680.0}

@@ -1,0 +1,1 @@
+{"channel": "nand2o3", "avg_viewers": 5, "followers_gained": 38, "peak_viewers": 37, "hours_streamed": 289, "streams": 50, "mature": 1, "language": "English", "account_age": 3035520.0}

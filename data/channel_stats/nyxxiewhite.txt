@@ -1,0 +1,1 @@
+{"channel": "nyxxiewhite", "avg_viewers": 6, "followers_gained": 45, "peak_viewers": 26, "hours_streamed": 15, "streams": 11, "mature": 0, "language": "English", "account_age": 1457280.0}

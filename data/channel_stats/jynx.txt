@@ -1,0 +1,1 @@
+{"channel": "jynx", "avg_viewers": 68, "followers_gained": 2983, "peak_viewers": 436, "hours_streamed": 139, "streams": 25, "mature": 0, "language": "English", "account_age": 2014560.0}

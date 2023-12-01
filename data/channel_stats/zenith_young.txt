@@ -1,0 +1,1 @@
+{"channel": "zenith_young", "avg_viewers": 12, "followers_gained": 9, "peak_viewers": 30, "hours_streamed": 21, "streams": 6, "mature": 1, "language": "Chinese", "account_age": 1275840.0}

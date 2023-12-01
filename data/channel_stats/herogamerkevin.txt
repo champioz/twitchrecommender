@@ -1,0 +1,1 @@
+{"channel": "herogamerkevin", "avg_viewers": 2, "followers_gained": 15, "peak_viewers": 7, "hours_streamed": 55, "streams": 21, "mature": 1, "language": "German", "account_age": 1860480.0}

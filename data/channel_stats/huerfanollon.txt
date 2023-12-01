@@ -1,0 +1,1 @@
+{"channel": "huerfanollon", "avg_viewers": 58, "followers_gained": 89, "peak_viewers": 88, "hours_streamed": 22, "streams": 6, "mature": 0, "language": "Spanish", "account_age": 627840.0}

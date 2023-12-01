@@ -1,0 +1,1 @@
+{"channel": "fullmetalrobe", "avg_viewers": 5, "followers_gained": 10, "peak_viewers": 11, "hours_streamed": 22, "streams": 13, "mature": 1, "language": "Italian", "account_age": 388800.0}

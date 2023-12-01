@@ -1,0 +1,1 @@
+{"channel": "fakeasl", "avg_viewers": 91, "followers_gained": 536, "peak_viewers": 155, "hours_streamed": 64, "streams": 16, "mature": 0, "language": "English", "account_age": 2684160.0}

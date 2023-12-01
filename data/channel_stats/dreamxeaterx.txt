@@ -1,0 +1,1 @@
+{"channel": "dreamxeaterx", "avg_viewers": 43, "followers_gained": 18, "peak_viewers": 61, "hours_streamed": 6, "streams": 1, "mature": 1, "language": "English", "account_age": 3918240.0}

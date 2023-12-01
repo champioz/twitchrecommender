@@ -1,0 +1,1 @@
+{"channel": "linalu", "avg_viewers": 5, "followers_gained": 32, "peak_viewers": 27, "hours_streamed": 37, "streams": 13, "mature": 1, "language": "German", "account_age": 1045440.0}

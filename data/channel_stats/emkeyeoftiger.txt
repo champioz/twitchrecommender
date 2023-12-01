@@ -1,0 +1,1 @@
+{"channel": "emkeyeoftiger", "avg_viewers": 18, "followers_gained": 238, "peak_viewers": 163, "hours_streamed": 62, "streams": 28, "mature": 1, "language": "Spanish", "account_age": 3480480.0}

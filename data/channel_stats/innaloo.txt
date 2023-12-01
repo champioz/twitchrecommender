@@ -1,0 +1,1 @@
+{"channel": "innaloo", "avg_viewers": 18, "followers_gained": 44, "peak_viewers": 37, "hours_streamed": 53, "streams": 25, "mature": 1, "language": "Russian", "account_age": 1791360.0}

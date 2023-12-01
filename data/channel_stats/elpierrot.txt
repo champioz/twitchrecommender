@@ -1,0 +1,1 @@
+{"channel": "elpierrot", "avg_viewers": 10, "followers_gained": 134, "peak_viewers": 38, "hours_streamed": 102, "streams": 25, "mature": 0, "language": "French", "account_age": 3424320.0}

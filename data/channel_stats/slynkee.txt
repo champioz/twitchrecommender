@@ -1,0 +1,1 @@
+{"channel": "slynkee", "avg_viewers": 22, "followers_gained": 20, "peak_viewers": 60, "hours_streamed": 44, "streams": 15, "mature": 0, "language": "English", "account_age": 5015520.0}

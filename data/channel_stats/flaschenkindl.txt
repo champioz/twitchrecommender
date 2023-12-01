@@ -1,0 +1,1 @@
+{"channel": "flaschenkindl", "avg_viewers": 4, "followers_gained": 19, "peak_viewers": 19, "hours_streamed": 82, "streams": 30, "mature": 1, "language": "German", "account_age": 3011040.0}

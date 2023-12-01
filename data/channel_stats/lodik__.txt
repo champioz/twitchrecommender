@@ -1,0 +1,1 @@
+{"channel": "lodik__", "avg_viewers": 66, "followers_gained": 13, "peak_viewers": 157, "hours_streamed": 26, "streams": 11, "mature": 0, "language": "Russian", "account_age": 3083040.0}

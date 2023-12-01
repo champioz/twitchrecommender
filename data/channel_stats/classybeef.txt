@@ -1,0 +1,1 @@
+{"channel": "classybeef", "avg_viewers": 627, "followers_gained": 1913, "peak_viewers": 2881, "hours_streamed": 176, "streams": 31, "mature": 1, "language": "English", "account_age": 324000.0}

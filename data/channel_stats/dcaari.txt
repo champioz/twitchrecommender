@@ -1,0 +1,1 @@
+{"channel": "dcaari", "avg_viewers": 6, "followers_gained": 68, "peak_viewers": 27, "hours_streamed": 105, "streams": 18, "mature": 1, "language": "Portuguese", "account_age": 2894400.0}

@@ -1,0 +1,1 @@
+{"channel": "chernyyvolkfgc", "avg_viewers": 5, "followers_gained": 25, "peak_viewers": 17, "hours_streamed": 15, "streams": 11, "mature": 0, "language": "English", "account_age": 3317760.0}

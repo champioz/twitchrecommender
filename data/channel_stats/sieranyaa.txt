@@ -1,0 +1,1 @@
+{"channel": "sieranyaa", "avg_viewers": 255, "followers_gained": 1308, "peak_viewers": 1235, "hours_streamed": 64, "streams": 15, "mature": 1, "language": "Russian", "account_age": 1909440.0}

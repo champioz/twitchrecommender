@@ -1,0 +1,1 @@
+{"channel": "nadeking", "avg_viewers": 128, "followers_gained": 3847, "peak_viewers": 236, "hours_streamed": 22, "streams": 7, "mature": 0, "language": "English", "account_age": 908640.0}

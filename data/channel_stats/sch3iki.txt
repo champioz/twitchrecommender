@@ -1,0 +1,1 @@
+{"channel": "sch3iki", "avg_viewers": 13, "followers_gained": 3, "peak_viewers": 27, "hours_streamed": 28, "streams": 6, "mature": 1, "language": "German", "account_age": 1769760.0}

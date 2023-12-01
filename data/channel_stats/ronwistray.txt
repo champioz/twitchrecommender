@@ -1,0 +1,1 @@
+{"channel": "ronwistray", "avg_viewers": 15, "followers_gained": 138, "peak_viewers": 188, "hours_streamed": 121, "streams": 23, "mature": 1, "language": "Spanish", "account_age": 2435040.0}

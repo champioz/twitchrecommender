@@ -1,0 +1,1 @@
+{"channel": "dj_infinity_official", "avg_viewers": 27, "followers_gained": 39, "peak_viewers": 73, "hours_streamed": 27, "streams": 8, "mature": 1, "language": "German", "account_age": 3106080.0}

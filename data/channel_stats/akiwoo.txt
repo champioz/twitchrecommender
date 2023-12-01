@@ -1,0 +1,1 @@
+{"channel": "akiwoo", "avg_viewers": 7, "followers_gained": 4, "peak_viewers": 17, "hours_streamed": 11, "streams": 3, "mature": 0, "language": "English", "account_age": 3981600.0}

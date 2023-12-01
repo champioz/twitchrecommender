@@ -1,0 +1,1 @@
+{"channel": "krockcny", "avg_viewers": 22, "followers_gained": 17, "peak_viewers": 40, "hours_streamed": 44, "streams": 12, "mature": 1, "language": "English", "account_age": 730080.0}

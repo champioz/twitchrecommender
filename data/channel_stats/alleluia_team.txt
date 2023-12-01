@@ -1,0 +1,1 @@
+{"channel": "alleluia_team", "avg_viewers": 12, "followers_gained": 8, "peak_viewers": 44, "hours_streamed": 44, "streams": 13, "mature": 0, "language": "French", "account_age": 1536480.0}

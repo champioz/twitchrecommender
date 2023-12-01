@@ -1,0 +1,1 @@
+{"channel": "perugod", "avg_viewers": 21, "followers_gained": 285, "peak_viewers": 110, "hours_streamed": 225, "streams": 31, "mature": 0, "language": "Portuguese", "account_age": 2286720.0}

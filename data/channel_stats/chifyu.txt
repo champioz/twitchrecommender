@@ -1,0 +1,1 @@
+{"channel": "chifyu", "avg_viewers": 13, "followers_gained": 25, "peak_viewers": 63, "hours_streamed": 34, "streams": 12, "mature": 0, "language": "Turkish", "account_age": 1409760.0}

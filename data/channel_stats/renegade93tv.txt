@@ -1,0 +1,1 @@
+{"channel": "renegade93tv", "avg_viewers": 9, "followers_gained": 59, "peak_viewers": 36, "hours_streamed": 130, "streams": 24, "mature": 0, "language": "English", "account_age": 3168000.0}

@@ -1,0 +1,1 @@
+{"channel": "shisudotes", "avg_viewers": 135, "followers_gained": 550, "peak_viewers": 453, "hours_streamed": 90, "streams": 30, "mature": 0, "language": "Russian", "account_age": 763200.0}

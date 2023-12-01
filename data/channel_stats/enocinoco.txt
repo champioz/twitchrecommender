@@ -1,0 +1,1 @@
+{"channel": "enocinoco", "avg_viewers": 22, "followers_gained": 66, "peak_viewers": 63, "hours_streamed": 106, "streams": 20, "mature": 0, "language": "Japanese", "account_age": 2021760.0}

@@ -1,0 +1,1 @@
+{"channel": "qu1ckdraw_", "avg_viewers": 221, "followers_gained": 338, "peak_viewers": 1212, "hours_streamed": 16, "streams": 8, "mature": 0, "language": "English", "account_age": 3036960.0}

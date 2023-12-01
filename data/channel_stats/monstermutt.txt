@@ -1,0 +1,1 @@
+{"channel": "monstermutt", "avg_viewers": 3, "followers_gained": 44, "peak_viewers": 11, "hours_streamed": 88, "streams": 21, "mature": 1, "language": "English", "account_age": 1046880.0}

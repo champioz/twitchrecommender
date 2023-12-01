@@ -1,0 +1,1 @@
+{"channel": "gantver1", "avg_viewers": 329, "followers_gained": 1170, "peak_viewers": 1752, "hours_streamed": 241, "streams": 88, "mature": 1, "language": "Russian", "account_age": 1869120.0}

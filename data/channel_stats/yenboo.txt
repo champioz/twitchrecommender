@@ -1,0 +1,1 @@
+{"channel": "yenboo", "avg_viewers": 6, "followers_gained": 11, "peak_viewers": 66, "hours_streamed": 80, "streams": 25, "mature": 0, "language": "English", "account_age": 3280320.0}

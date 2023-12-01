@@ -1,0 +1,1 @@
+{"channel": "atjego", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 16, "hours_streamed": 125, "streams": 37, "mature": 1, "language": "German", "account_age": 1936800.0}

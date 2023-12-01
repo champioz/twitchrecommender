@@ -1,0 +1,1 @@
+{"channel": "asmrcast", "avg_viewers": 146, "followers_gained": 645, "peak_viewers": 402, "hours_streamed": 106, "streams": 1, "mature": 0, "language": "English", "account_age": 1920960.0}

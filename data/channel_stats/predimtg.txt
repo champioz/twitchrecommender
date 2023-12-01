@@ -1,0 +1,1 @@
+{"channel": "predimtg", "avg_viewers": 75, "followers_gained": 134, "peak_viewers": 172, "hours_streamed": 93, "streams": 25, "mature": 1, "language": "German", "account_age": 3700800.0}

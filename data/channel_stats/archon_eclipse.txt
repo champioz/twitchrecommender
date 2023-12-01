@@ -1,0 +1,1 @@
+{"channel": "archon_eclipse", "avg_viewers": 53, "followers_gained": 236, "peak_viewers": 86, "hours_streamed": 35, "streams": 17, "mature": 1, "language": "English", "account_age": 1945440.0}

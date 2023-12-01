@@ -1,0 +1,1 @@
+{"channel": "slexootv", "avg_viewers": 11, "followers_gained": 142, "peak_viewers": 26, "hours_streamed": 102, "streams": 28, "mature": 0, "language": "Swedish", "account_age": 1831680.0}

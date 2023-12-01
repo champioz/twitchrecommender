@@ -1,0 +1,1 @@
+{"channel": "twoguys1couch", "avg_viewers": 41, "followers_gained": 160, "peak_viewers": 214, "hours_streamed": 44, "streams": 14, "mature": 0, "language": "English", "account_age": 1572480.0}

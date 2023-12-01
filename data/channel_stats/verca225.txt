@@ -1,0 +1,1 @@
+{"channel": "verca225", "avg_viewers": 5, "followers_gained": 38, "peak_viewers": 35, "hours_streamed": 24, "streams": 20, "mature": 1, "language": "Czech", "account_age": 768960.0}

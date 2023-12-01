@@ -1,0 +1,1 @@
+{"channel": "sejsrr", "avg_viewers": 6, "followers_gained": 611, "peak_viewers": 64, "hours_streamed": 195, "streams": 118, "mature": 0, "language": "Czech", "account_age": 213120.0}

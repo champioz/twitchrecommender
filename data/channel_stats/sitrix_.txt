@@ -1,0 +1,1 @@
+{"channel": "sitrix_", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 4, "hours_streamed": 6, "streams": 7, "mature": 0, "language": "French", "account_age": 2422080.0}

@@ -1,0 +1,1 @@
+{"channel": "sofikimmy", "avg_viewers": 220, "followers_gained": 5301, "peak_viewers": 2703, "hours_streamed": 113, "streams": 26, "mature": 1, "language": "Spanish", "account_age": 1916640.0}

@@ -1,0 +1,1 @@
+{"channel": "zockerbandit", "avg_viewers": 10, "followers_gained": 35, "peak_viewers": 27, "hours_streamed": 82, "streams": 17, "mature": 0, "language": "German", "account_age": 1524960.0}

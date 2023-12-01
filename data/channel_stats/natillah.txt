@@ -1,0 +1,1 @@
+{"channel": "natillah", "avg_viewers": 3, "followers_gained": 26, "peak_viewers": 14, "hours_streamed": 28, "streams": 10, "mature": 1, "language": "Spanish", "account_age": 1411200.0}

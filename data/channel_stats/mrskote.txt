@@ -1,0 +1,1 @@
+{"channel": "mrskote", "avg_viewers": 6, "followers_gained": 84, "peak_viewers": 27, "hours_streamed": 97, "streams": 30, "mature": 1, "language": "English", "account_age": 610560.0}

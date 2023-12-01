@@ -1,0 +1,1 @@
+{"channel": "vgfl_tv", "avg_viewers": 11, "followers_gained": 6, "peak_viewers": 24, "hours_streamed": 28, "streams": 7, "mature": 0, "language": "Russian", "account_age": 1388160.0}

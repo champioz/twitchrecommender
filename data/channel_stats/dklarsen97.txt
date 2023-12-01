@@ -1,0 +1,1 @@
+{"channel": "dklarsen97", "avg_viewers": 7, "followers_gained": 79, "peak_viewers": 27, "hours_streamed": 68, "streams": 17, "mature": 1, "language": "Danish", "account_age": 1774080.0}

@@ -1,0 +1,1 @@
+{"channel": "bunnyday", "avg_viewers": 12, "followers_gained": 127, "peak_viewers": 38, "hours_streamed": 109, "streams": 29, "mature": 0, "language": "English", "account_age": 1566720.0}

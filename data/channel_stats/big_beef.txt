@@ -1,0 +1,1 @@
+{"channel": "big_beef", "avg_viewers": 0, "followers_gained": 7, "peak_viewers": 5, "hours_streamed": 71, "streams": 41, "mature": 1, "language": "English", "account_age": 3948480.0}

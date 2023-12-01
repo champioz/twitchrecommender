@@ -1,0 +1,1 @@
+{"channel": "zheilani", "avg_viewers": 58, "followers_gained": 272, "peak_viewers": 922, "hours_streamed": 112, "streams": 25, "mature": 0, "language": "Spanish", "account_age": 2947680.0}

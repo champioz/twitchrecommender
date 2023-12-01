@@ -1,0 +1,1 @@
+{"channel": "firewitch74", "avg_viewers": 27, "followers_gained": 258, "peak_viewers": 101, "hours_streamed": 116, "streams": 46, "mature": 1, "language": "English", "account_age": 279360.0}

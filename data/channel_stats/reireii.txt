@@ -1,0 +1,1 @@
+{"channel": "reireii", "avg_viewers": 12, "followers_gained": 101, "peak_viewers": 43, "hours_streamed": 83, "streams": 16, "mature": 1, "language": "English", "account_age": 2524320.0}

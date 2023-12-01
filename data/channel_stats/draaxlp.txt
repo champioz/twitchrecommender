@@ -1,0 +1,1 @@
+{"channel": "draaxlp", "avg_viewers": 41, "followers_gained": 13, "peak_viewers": 81, "hours_streamed": 46, "streams": 12, "mature": 0, "language": "English", "account_age": 2782080.0}

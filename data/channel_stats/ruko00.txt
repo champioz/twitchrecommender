@@ -1,0 +1,1 @@
+{"channel": "ruko00", "avg_viewers": 15, "followers_gained": 66, "peak_viewers": 30, "hours_streamed": 43, "streams": 16, "mature": 0, "language": "Japanese", "account_age": 558720.0}

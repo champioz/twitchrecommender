@@ -1,0 +1,1 @@
+{"channel": "iboo_gaming", "avg_viewers": 9, "followers_gained": 17, "peak_viewers": 25, "hours_streamed": 154, "streams": 26, "mature": 1, "language": "French", "account_age": 2590560.0}

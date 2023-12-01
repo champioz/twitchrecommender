@@ -1,0 +1,1 @@
+{"channel": "1pumpchump_", "avg_viewers": 14, "followers_gained": 72, "peak_viewers": 207, "hours_streamed": 125, "streams": 25, "mature": 1, "language": "English", "account_age": 2073600.0}

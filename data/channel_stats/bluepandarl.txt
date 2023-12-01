@@ -1,0 +1,1 @@
+{"channel": "bluepandarl", "avg_viewers": 2, "followers_gained": 33, "peak_viewers": 9, "hours_streamed": 17, "streams": 11, "mature": 1, "language": "English", "account_age": 1552320.0}

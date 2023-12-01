@@ -1,0 +1,1 @@
+{"channel": "playhearthstone", "avg_viewers": 15117, "followers_gained": 8524, "peak_viewers": 43418, "hours_streamed": 83, "streams": 12, "mature": 0, "language": "English", "account_age": 3299040.0}

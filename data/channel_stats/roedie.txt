@@ -1,0 +1,1 @@
+{"channel": "roedie", "avg_viewers": 49, "followers_gained": 105, "peak_viewers": 73, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Dutch", "account_age": 1736640.0}

@@ -1,0 +1,1 @@
+{"channel": "slaaay", "avg_viewers": 10, "followers_gained": 119, "peak_viewers": 103, "hours_streamed": 46, "streams": 25, "mature": 1, "language": "Spanish", "account_age": 2311200.0}

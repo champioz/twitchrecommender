@@ -1,0 +1,1 @@
+{"channel": "aigamesfifa3", "avg_viewers": 1, "followers_gained": 118, "peak_viewers": 19, "hours_streamed": 728, "streams": 33, "mature": 0, "language": "Russian", "account_age": 851040.0}

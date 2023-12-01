@@ -1,0 +1,1 @@
+{"channel": "schmarz", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "German", "account_age": 2495520.0}

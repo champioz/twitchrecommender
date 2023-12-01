@@ -1,0 +1,1 @@
+{"channel": "st_alphadengeki", "avg_viewers": 7, "followers_gained": 8, "peak_viewers": 19, "hours_streamed": 15, "streams": 4, "mature": 0, "language": "Portuguese", "account_age": 2213280.0}

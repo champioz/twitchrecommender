@@ -1,0 +1,1 @@
+{"channel": "jarina90", "avg_viewers": 9, "followers_gained": 1, "peak_viewers": 20, "hours_streamed": 58, "streams": 23, "mature": 1, "language": "German", "account_age": 2296800.0}

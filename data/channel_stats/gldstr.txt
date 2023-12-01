@@ -1,0 +1,1 @@
+{"channel": "gldstr", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 11, "hours_streamed": 22, "streams": 9, "mature": 1, "language": "English", "account_age": 2314080.0}

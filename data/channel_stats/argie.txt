@@ -1,0 +1,1 @@
+{"channel": "argie", "avg_viewers": 16, "followers_gained": 2, "peak_viewers": 29, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 3641760.0}

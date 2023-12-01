@@ -1,0 +1,1 @@
+{"channel": "call_fire", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 5, "hours_streamed": 60, "streams": 25, "mature": 1, "language": "English", "account_age": 2689920.0}

@@ -1,0 +1,1 @@
+{"channel": "puth42", "avg_viewers": 41, "followers_gained": 33, "peak_viewers": 104, "hours_streamed": 115, "streams": 29, "mature": 0, "language": "Russian", "account_age": 2617920.0}

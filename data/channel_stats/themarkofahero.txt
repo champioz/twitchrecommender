@@ -1,0 +1,1 @@
+{"channel": "themarkofahero", "avg_viewers": 34, "followers_gained": 265, "peak_viewers": 270, "hours_streamed": 54, "streams": 21, "mature": 0, "language": "English", "account_age": 2998080.0}

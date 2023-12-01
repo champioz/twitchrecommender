@@ -1,0 +1,1 @@
+{"channel": "lordbuzo", "avg_viewers": 10, "followers_gained": 9, "peak_viewers": 24, "hours_streamed": 45, "streams": 11, "mature": 1, "language": "Spanish", "account_age": 3288960.0}

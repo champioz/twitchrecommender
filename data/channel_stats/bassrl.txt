@@ -1,0 +1,1 @@
+{"channel": "bassrl", "avg_viewers": 17, "followers_gained": 18, "peak_viewers": 37, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "German", "account_age": 2288160.0}

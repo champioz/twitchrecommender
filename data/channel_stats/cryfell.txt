@@ -1,0 +1,1 @@
+{"channel": "cryfell", "avg_viewers": 11, "followers_gained": 37, "peak_viewers": 44, "hours_streamed": 57, "streams": 15, "mature": 0, "language": "Russian", "account_age": 2342880.0}

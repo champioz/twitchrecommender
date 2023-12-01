@@ -1,0 +1,1 @@
+{"channel": "seltronix", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 9, "hours_streamed": 15, "streams": 8, "mature": 0, "language": "German", "account_age": 2024640.0}

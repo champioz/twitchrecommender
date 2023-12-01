@@ -1,0 +1,1 @@
+{"channel": "arktika_m", "avg_viewers": 68, "followers_gained": 68, "peak_viewers": 648, "hours_streamed": 143, "streams": 26, "mature": 1, "language": "Russian", "account_age": 365760.0}

@@ -1,0 +1,1 @@
+{"channel": "itzhipkins", "avg_viewers": 3, "followers_gained": 33, "peak_viewers": 23, "hours_streamed": 114, "streams": 43, "mature": 1, "language": "English", "account_age": 1900800.0}

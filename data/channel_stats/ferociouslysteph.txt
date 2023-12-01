@@ -1,0 +1,1 @@
+{"channel": "ferociouslysteph", "avg_viewers": 44, "followers_gained": 29, "peak_viewers": 97, "hours_streamed": 62, "streams": 30, "mature": 1, "language": "English", "account_age": 2672640.0}

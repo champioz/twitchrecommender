@@ -1,0 +1,1 @@
+{"channel": "medrotee", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 9, "hours_streamed": 40, "streams": 19, "mature": 1, "language": "Portuguese", "account_age": 1107360.0}

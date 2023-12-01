@@ -1,0 +1,1 @@
+{"channel": "apocalypse666now", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 16, "hours_streamed": 127, "streams": 21, "mature": 1, "language": "French", "account_age": 931680.0}

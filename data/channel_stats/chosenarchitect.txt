@@ -1,0 +1,1 @@
+{"channel": "chosenarchitect", "avg_viewers": 97, "followers_gained": 1955, "peak_viewers": 170, "hours_streamed": 89, "streams": 17, "mature": 0, "language": "English", "account_age": 2407680.0}

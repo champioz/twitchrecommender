@@ -1,0 +1,1 @@
+{"channel": "dragoness_", "avg_viewers": 69, "followers_gained": 124, "peak_viewers": 169, "hours_streamed": 202, "streams": 28, "mature": 1, "language": "English", "account_age": 2371680.0}

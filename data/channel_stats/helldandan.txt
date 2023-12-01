@@ -1,0 +1,1 @@
+{"channel": "helldandan", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 2, "hours_streamed": 14, "streams": 9, "mature": 1, "language": "Portuguese", "account_age": 3896640.0}

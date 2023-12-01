@@ -1,0 +1,1 @@
+{"channel": "tinawawa0108", "avg_viewers": 40, "followers_gained": 239, "peak_viewers": 88, "hours_streamed": 112, "streams": 14, "mature": 1, "language": "Chinese", "account_age": 1320480.0}

@@ -1,0 +1,1 @@
+{"channel": "olden127", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 11, "hours_streamed": 54, "streams": 19, "mature": 1, "language": "German", "account_age": 2741760.0}

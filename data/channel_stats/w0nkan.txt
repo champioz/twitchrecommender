@@ -1,0 +1,1 @@
+{"channel": "w0nkan", "avg_viewers": 16, "followers_gained": 23, "peak_viewers": 48, "hours_streamed": 40, "streams": 9, "mature": 1, "language": "Swedish", "account_age": 3039840.0}

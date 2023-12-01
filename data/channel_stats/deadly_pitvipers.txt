@@ -1,0 +1,1 @@
+{"channel": "deadly_pitvipers", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 6, "streams": 2, "mature": 1, "language": "English", "account_age": 2289600.0}

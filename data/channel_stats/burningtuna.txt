@@ -1,0 +1,1 @@
+{"channel": "burningtuna", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 37, "streams": 12, "mature": 0, "language": "Korean", "account_age": 3394080.0}

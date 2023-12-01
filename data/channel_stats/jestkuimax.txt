@@ -1,0 +1,1 @@
+{"channel": "jestkuimax", "avg_viewers": 51, "followers_gained": 28, "peak_viewers": 118, "hours_streamed": 13, "streams": 4, "mature": 0, "language": "Russian", "account_age": 1650240.0}

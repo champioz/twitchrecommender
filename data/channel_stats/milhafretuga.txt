@@ -1,0 +1,1 @@
+{"channel": "milhafretuga", "avg_viewers": 6, "followers_gained": 31, "peak_viewers": 53, "hours_streamed": 93, "streams": 23, "mature": 0, "language": "Portuguese", "account_age": 1395360.0}

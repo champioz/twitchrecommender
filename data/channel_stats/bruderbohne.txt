@@ -1,0 +1,1 @@
+{"channel": "bruderbohne", "avg_viewers": 39, "followers_gained": 1, "peak_viewers": 53, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 3522240.0}

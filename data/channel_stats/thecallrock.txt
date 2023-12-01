@@ -1,0 +1,1 @@
+{"channel": "thecallrock", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 1, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 3689280.0}

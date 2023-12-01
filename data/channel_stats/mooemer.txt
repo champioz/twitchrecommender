@@ -1,0 +1,1 @@
+{"channel": "mooemer", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 8, "streams": 3, "mature": 1, "language": "German", "account_age": 2291040.0}

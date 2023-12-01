@@ -1,0 +1,1 @@
+{"channel": "doploctor", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 6, "hours_streamed": 73, "streams": 11, "mature": 1, "language": "English", "account_age": 3507840.0}

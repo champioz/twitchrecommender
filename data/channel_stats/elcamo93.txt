@@ -1,0 +1,1 @@
+{"channel": "elcamo93", "avg_viewers": 3, "followers_gained": 25, "peak_viewers": 13, "hours_streamed": 34, "streams": 16, "mature": 0, "language": "Italian", "account_age": 2155680.0}

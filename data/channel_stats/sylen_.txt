@@ -1,0 +1,1 @@
+{"channel": "sylen_", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 5, "hours_streamed": 41, "streams": 55, "mature": 0, "language": "Portuguese", "account_age": 2296800.0}

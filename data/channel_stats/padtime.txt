@@ -1,0 +1,1 @@
+{"channel": "padtime", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 9, "streams": 4, "mature": 1, "language": "English", "account_age": 1758240.0}

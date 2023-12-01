@@ -1,0 +1,1 @@
+{"channel": "roxpop", "avg_viewers": 6, "followers_gained": 163, "peak_viewers": 34, "hours_streamed": 90, "streams": 31, "mature": 1, "language": "French", "account_age": 734400.0}

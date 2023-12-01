@@ -1,0 +1,1 @@
+{"channel": "hyunkel_wolff", "avg_viewers": 4, "followers_gained": 331, "peak_viewers": 16, "hours_streamed": 197, "streams": 47, "mature": 1, "language": "Spanish", "account_age": 303840.0}

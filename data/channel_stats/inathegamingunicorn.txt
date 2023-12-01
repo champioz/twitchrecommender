@@ -1,0 +1,1 @@
+{"channel": "inathegamingunicorn", "avg_viewers": 18, "followers_gained": 116, "peak_viewers": 42, "hours_streamed": 42, "streams": 16, "mature": 1, "language": "German", "account_age": 1962720.0}

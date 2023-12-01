@@ -1,0 +1,1 @@
+{"channel": "zeyleth", "avg_viewers": 16, "followers_gained": 39, "peak_viewers": 32, "hours_streamed": 33, "streams": 7, "mature": 1, "language": "English", "account_age": 2220480.0}

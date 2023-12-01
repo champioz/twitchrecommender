@@ -1,0 +1,1 @@
+{"channel": "pinkepusteblume", "avg_viewers": 56, "followers_gained": 312, "peak_viewers": 114, "hours_streamed": 63, "streams": 16, "mature": 1, "language": "German", "account_age": 946080.0}

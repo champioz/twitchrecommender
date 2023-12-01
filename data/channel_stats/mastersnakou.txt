@@ -1,0 +1,1 @@
+{"channel": "mastersnakou", "avg_viewers": 1409, "followers_gained": 2155, "peak_viewers": 4426, "hours_streamed": 112, "streams": 25, "mature": 0, "language": "French", "account_age": 3323520.0}

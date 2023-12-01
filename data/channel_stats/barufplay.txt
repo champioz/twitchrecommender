@@ -1,0 +1,1 @@
+{"channel": "barufplay", "avg_viewers": 3, "followers_gained": 87, "peak_viewers": 22, "hours_streamed": 140, "streams": 22, "mature": 0, "language": "Portuguese", "account_age": 2581920.0}

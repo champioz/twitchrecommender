@@ -1,0 +1,1 @@
+{"channel": "pingpucca", "avg_viewers": 133, "followers_gained": 2617, "peak_viewers": 1206, "hours_streamed": 62, "streams": 22, "mature": 0, "language": "Thai", "account_age": 512640.0}

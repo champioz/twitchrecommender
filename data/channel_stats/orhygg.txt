@@ -1,0 +1,1 @@
+{"channel": "orhygg", "avg_viewers": 12, "followers_gained": 30, "peak_viewers": 30, "hours_streamed": 104, "streams": 28, "mature": 1, "language": "Spanish", "account_age": 2259360.0}

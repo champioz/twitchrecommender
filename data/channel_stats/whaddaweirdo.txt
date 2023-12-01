@@ -1,0 +1,1 @@
+{"channel": "whaddaweirdo", "avg_viewers": 164, "followers_gained": 492, "peak_viewers": 228, "hours_streamed": 112, "streams": 25, "mature": 1, "language": "English", "account_age": 4302720.0}

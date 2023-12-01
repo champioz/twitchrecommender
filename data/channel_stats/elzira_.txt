@@ -1,0 +1,1 @@
+{"channel": "elzira_", "avg_viewers": 12, "followers_gained": 2, "peak_viewers": 17, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "English", "account_age": 2737440.0}

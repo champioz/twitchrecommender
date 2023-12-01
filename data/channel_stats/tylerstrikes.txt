@@ -1,0 +1,1 @@
+{"channel": "tylerstrikes", "avg_viewers": 288, "followers_gained": 2615, "peak_viewers": 636, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "Italian", "account_age": 1769760.0}

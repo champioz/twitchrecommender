@@ -1,0 +1,1 @@
+{"channel": "abfnggshka", "avg_viewers": 1838, "followers_gained": 175, "peak_viewers": 2555, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "Russian", "account_age": 2214720.0}

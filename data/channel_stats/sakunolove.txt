@@ -1,0 +1,1 @@
+{"channel": "sakunolove", "avg_viewers": 19, "followers_gained": 49, "peak_viewers": 44, "hours_streamed": 35, "streams": 10, "mature": 1, "language": "Chinese", "account_age": 1687680.0}

@@ -1,0 +1,1 @@
+{"channel": "shiandegames", "avg_viewers": 21, "followers_gained": 174, "peak_viewers": 58, "hours_streamed": 287, "streams": 33, "mature": 1, "language": "Portuguese", "account_age": 2967840.0}

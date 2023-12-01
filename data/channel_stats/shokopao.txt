@@ -1,0 +1,1 @@
+{"channel": "shokopao", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 2661120.0}

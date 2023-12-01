@@ -1,0 +1,1 @@
+{"channel": "lordanonimo_", "avg_viewers": 2, "followers_gained": 50, "peak_viewers": 19, "hours_streamed": 103, "streams": 25, "mature": 1, "language": "Portuguese", "account_age": 1710720.0}

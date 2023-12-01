@@ -1,0 +1,1 @@
+{"channel": "tricky_98", "avg_viewers": 7, "followers_gained": 44, "peak_viewers": 32, "hours_streamed": 53, "streams": 15, "mature": 1, "language": "English", "account_age": 2161440.0}

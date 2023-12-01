@@ -1,0 +1,1 @@
+{"channel": "nerosalty", "avg_viewers": 23, "followers_gained": 292, "peak_viewers": 113, "hours_streamed": 175, "streams": 25, "mature": 1, "language": "German", "account_age": 1104480.0}

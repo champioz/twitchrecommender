@@ -1,0 +1,1 @@
+{"channel": "cynicalsoapbox", "avg_viewers": 10, "followers_gained": 10, "peak_viewers": 61, "hours_streamed": 23, "streams": 8, "mature": 0, "language": "English", "account_age": 2612160.0}

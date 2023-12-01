@@ -1,0 +1,1 @@
+{"channel": "eunbit119", "avg_viewers": 10, "followers_gained": 1, "peak_viewers": 17, "hours_streamed": 18, "streams": 8, "mature": 0, "language": "Korean", "account_age": 444960.0}

@@ -1,0 +1,1 @@
+{"channel": "jeanne_doe", "avg_viewers": 21, "followers_gained": 81, "peak_viewers": 111, "hours_streamed": 94, "streams": 13, "mature": 1, "language": "German", "account_age": 1599840.0}

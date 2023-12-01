@@ -1,0 +1,1 @@
+{"channel": "yukinyanko", "avg_viewers": 20, "followers_gained": 39, "peak_viewers": 44, "hours_streamed": 75, "streams": 16, "mature": 0, "language": "Chinese", "account_age": 2995200.0}

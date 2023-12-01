@@ -1,0 +1,1 @@
+{"channel": "chjay", "avg_viewers": 7, "followers_gained": 113, "peak_viewers": 27, "hours_streamed": 148, "streams": 25, "mature": 0, "language": "English", "account_age": 1029600.0}

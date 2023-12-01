@@ -1,0 +1,1 @@
+{"channel": "lxthul", "avg_viewers": 173, "followers_gained": 13, "peak_viewers": 222, "hours_streamed": 5, "streams": 1, "mature": 1, "language": "English", "account_age": 4942080.0}

@@ -1,0 +1,1 @@
+{"channel": "diffkqhd", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 6, "hours_streamed": 25, "streams": 19, "mature": 0, "language": "Korean", "account_age": 178560.0}

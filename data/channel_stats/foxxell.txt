@@ -1,0 +1,1 @@
+{"channel": "foxxell", "avg_viewers": 36, "followers_gained": 14, "peak_viewers": 154, "hours_streamed": 128, "streams": 26, "mature": 1, "language": "German", "account_age": 2748960.0}

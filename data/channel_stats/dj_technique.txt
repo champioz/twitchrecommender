@@ -1,0 +1,1 @@
+{"channel": "dj_technique", "avg_viewers": 0, "followers_gained": 8, "peak_viewers": 8, "hours_streamed": 51, "streams": 15, "mature": 1, "language": "English", "account_age": 293760.0}

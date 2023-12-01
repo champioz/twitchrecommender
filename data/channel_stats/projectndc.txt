@@ -1,0 +1,1 @@
+{"channel": "projectndc", "avg_viewers": 48, "followers_gained": 23, "peak_viewers": 134, "hours_streamed": 9, "streams": 3, "mature": 1, "language": "German", "account_age": 3758400.0}

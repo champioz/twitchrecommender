@@ -1,0 +1,1 @@
+{"channel": "spaceottersplash", "avg_viewers": 18, "followers_gained": 6, "peak_viewers": 46, "hours_streamed": 31, "streams": 6, "mature": 1, "language": "English", "account_age": 1120320.0}

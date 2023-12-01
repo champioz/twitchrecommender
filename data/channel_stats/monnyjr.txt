@@ -1,0 +1,1 @@
+{"channel": "monnyjr", "avg_viewers": 7, "followers_gained": 38, "peak_viewers": 25, "hours_streamed": 76, "streams": 14, "mature": 0, "language": "English", "account_age": 2639520.0}

@@ -1,0 +1,1 @@
+{"channel": "zerraldipurgaming", "avg_viewers": 13, "followers_gained": 39, "peak_viewers": 45, "hours_streamed": 80, "streams": 13, "mature": 1, "language": "German", "account_age": 2128320.0}

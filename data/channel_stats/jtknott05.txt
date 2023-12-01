@@ -1,0 +1,1 @@
+{"channel": "jtknott05", "avg_viewers": 5, "followers_gained": 15, "peak_viewers": 43, "hours_streamed": 22, "streams": 11, "mature": 0, "language": "English", "account_age": 915840.0}

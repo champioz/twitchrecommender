@@ -1,0 +1,1 @@
+{"channel": "mysticsopath", "avg_viewers": 23, "followers_gained": 201, "peak_viewers": 79, "hours_streamed": 62, "streams": 13, "mature": 1, "language": "English", "account_age": 1572480.0}

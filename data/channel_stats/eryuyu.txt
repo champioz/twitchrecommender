@@ -1,0 +1,1 @@
+{"channel": "eryuyu", "avg_viewers": 5, "followers_gained": 99, "peak_viewers": 32, "hours_streamed": 155, "streams": 37, "mature": 1, "language": "Spanish", "account_age": 691200.0}

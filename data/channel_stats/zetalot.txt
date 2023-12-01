@@ -1,0 +1,1 @@
+{"channel": "zetalot", "avg_viewers": 389, "followers_gained": 26, "peak_viewers": 1133, "hours_streamed": 124, "streams": 26, "mature": 0, "language": "English", "account_age": 4330080.0}

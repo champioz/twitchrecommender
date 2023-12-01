@@ -1,0 +1,1 @@
+{"channel": "uddam74", "avg_viewers": 14, "followers_gained": 6, "peak_viewers": 41, "hours_streamed": 65, "streams": 20, "mature": 0, "language": "Korean", "account_age": 1272960.0}

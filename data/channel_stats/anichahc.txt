@@ -1,0 +1,1 @@
+{"channel": "anichahc", "avg_viewers": 27, "followers_gained": 116, "peak_viewers": 62, "hours_streamed": 48, "streams": 18, "mature": 0, "language": "English", "account_age": 3543840.0}

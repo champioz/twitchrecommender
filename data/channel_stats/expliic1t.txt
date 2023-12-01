@@ -1,0 +1,1 @@
+{"channel": "expliic1t", "avg_viewers": 13, "followers_gained": 184, "peak_viewers": 31, "hours_streamed": 122, "streams": 15, "mature": 1, "language": "German", "account_age": 2626560.0}

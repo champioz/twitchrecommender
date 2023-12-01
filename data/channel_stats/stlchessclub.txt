@@ -1,0 +1,1 @@
+{"channel": "stlchessclub", "avg_viewers": 22, "followers_gained": 276, "peak_viewers": 76, "hours_streamed": 106, "streams": 25, "mature": 0, "language": "English", "account_age": 2098080.0}

@@ -1,0 +1,1 @@
+{"channel": "valadhielthedraven", "avg_viewers": 5, "followers_gained": 21, "peak_viewers": 44, "hours_streamed": 50, "streams": 12, "mature": 1, "language": "English", "account_age": 2367360.0}

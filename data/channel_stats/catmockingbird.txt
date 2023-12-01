@@ -1,0 +1,1 @@
+{"channel": "catmockingbird", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 23, "hours_streamed": 24, "streams": 17, "mature": 0, "language": "Russian", "account_age": 2452320.0}

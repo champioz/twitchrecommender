@@ -1,0 +1,1 @@
+{"channel": "kompalol", "avg_viewers": 5, "followers_gained": 29, "peak_viewers": 20, "hours_streamed": 103, "streams": 19, "mature": 1, "language": "Norwegian", "account_age": 2475360.0}

@@ -1,0 +1,1 @@
+{"channel": "lillithy", "avg_viewers": 75, "followers_gained": 335, "peak_viewers": 150, "hours_streamed": 74, "streams": 13, "mature": 0, "language": "English", "account_age": 3337920.0}

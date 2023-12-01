@@ -1,0 +1,1 @@
+{"channel": "p_pudding9", "avg_viewers": 11, "followers_gained": 281, "peak_viewers": 31, "hours_streamed": 251, "streams": 62, "mature": 0, "language": "Korean", "account_age": 139680.0}

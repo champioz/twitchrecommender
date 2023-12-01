@@ -1,0 +1,1 @@
+{"channel": "roguearcade", "avg_viewers": 1, "followers_gained": 15, "peak_viewers": 8, "hours_streamed": 47, "streams": 12, "mature": 1, "language": "English", "account_age": 3748320.0}

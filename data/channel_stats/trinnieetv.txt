@@ -1,0 +1,1 @@
+{"channel": "trinnieetv", "avg_viewers": 32, "followers_gained": 2287, "peak_viewers": 107, "hours_streamed": 6, "streams": 6, "mature": 0, "language": "English", "account_age": 182880.0}

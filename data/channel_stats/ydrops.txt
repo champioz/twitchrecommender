@@ -1,0 +1,1 @@
+{"channel": "ydrops", "avg_viewers": 16, "followers_gained": 322, "peak_viewers": 29, "hours_streamed": 62, "streams": 36, "mature": 1, "language": "English", "account_age": 1759680.0}

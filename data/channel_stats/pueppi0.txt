@@ -1,0 +1,1 @@
+{"channel": "pueppi0", "avg_viewers": 7, "followers_gained": 5, "peak_viewers": 15, "hours_streamed": 19, "streams": 4, "mature": 0, "language": "German", "account_age": 1771200.0}

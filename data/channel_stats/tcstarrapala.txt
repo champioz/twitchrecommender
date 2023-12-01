@@ -1,0 +1,1 @@
+{"channel": "tcstarrapala", "avg_viewers": 33, "followers_gained": 64, "peak_viewers": 110, "hours_streamed": 56, "streams": 13, "mature": 0, "language": "Danish", "account_age": 3847680.0}

@@ -1,0 +1,1 @@
+{"channel": "kinni7_", "avg_viewers": 13, "followers_gained": 72, "peak_viewers": 53, "hours_streamed": 60, "streams": 18, "mature": 1, "language": "German", "account_age": 2013120.0}

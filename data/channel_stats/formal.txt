@@ -1,0 +1,1 @@
+{"channel": "formal", "avg_viewers": 1375, "followers_gained": 10252, "peak_viewers": 2474, "hours_streamed": 169, "streams": 19, "mature": 0, "language": "English", "account_age": 4864320.0}

@@ -1,0 +1,1 @@
+{"channel": "ljfaql", "avg_viewers": 3, "followers_gained": 46, "peak_viewers": 33, "hours_streamed": 189, "streams": 51, "mature": 1, "language": "Spanish", "account_age": 2632320.0}

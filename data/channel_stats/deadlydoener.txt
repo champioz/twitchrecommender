@@ -1,0 +1,1 @@
+{"channel": "deadlydoener", "avg_viewers": 37, "followers_gained": 13, "peak_viewers": 90, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "English", "account_age": 2756160.0}

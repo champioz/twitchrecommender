@@ -1,0 +1,1 @@
+{"channel": "matshow", "avg_viewers": 57, "followers_gained": 140, "peak_viewers": 363, "hours_streamed": 14, "streams": 11, "mature": 0, "language": "Portuguese", "account_age": 1334880.0}

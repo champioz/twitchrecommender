@@ -1,0 +1,1 @@
+{"channel": "ketoka", "avg_viewers": 10, "followers_gained": 26, "peak_viewers": 34, "hours_streamed": 92, "streams": 18, "mature": 1, "language": "German", "account_age": 2076480.0}

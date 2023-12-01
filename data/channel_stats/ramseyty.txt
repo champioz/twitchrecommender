@@ -1,0 +1,1 @@
+{"channel": "ramseyty", "avg_viewers": 3, "followers_gained": 23, "peak_viewers": 10, "hours_streamed": 83, "streams": 22, "mature": 0, "language": "English", "account_age": 1082880.0}

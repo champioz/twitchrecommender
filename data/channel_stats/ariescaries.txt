@@ -1,0 +1,1 @@
+{"channel": "ariescaries", "avg_viewers": 31, "followers_gained": 27, "peak_viewers": 83, "hours_streamed": 16, "streams": 6, "mature": 1, "language": "English", "account_age": 4701600.0}

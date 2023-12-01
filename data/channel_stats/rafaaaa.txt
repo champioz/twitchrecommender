@@ -1,0 +1,1 @@
+{"channel": "rafaaaa", "avg_viewers": 10, "followers_gained": 197, "peak_viewers": 77, "hours_streamed": 35, "streams": 11, "mature": 1, "language": "Portuguese", "account_age": 1581120.0}

@@ -1,0 +1,1 @@
+{"channel": "sketcheando", "avg_viewers": 8, "followers_gained": 106, "peak_viewers": 20, "hours_streamed": 71, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 449280.0}

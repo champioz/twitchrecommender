@@ -1,0 +1,1 @@
+{"channel": "green_zero", "avg_viewers": 41, "followers_gained": 40, "peak_viewers": 77, "hours_streamed": 21, "streams": 5, "mature": 0, "language": "English", "account_age": 4008960.0}

@@ -1,0 +1,1 @@
+{"channel": "kingsobe", "avg_viewers": 150, "followers_gained": 402, "peak_viewers": 315, "hours_streamed": 70, "streams": 19, "mature": 1, "language": "Greek", "account_age": 2766240.0}

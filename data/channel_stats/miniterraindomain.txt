@@ -1,0 +1,1 @@
+{"channel": "miniterraindomain", "avg_viewers": 7, "followers_gained": 7, "peak_viewers": 16, "hours_streamed": 18, "streams": 7, "mature": 0, "language": "English", "account_age": 2737440.0}

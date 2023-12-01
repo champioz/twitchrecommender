@@ -1,0 +1,1 @@
+{"channel": "iamjoeycruse", "avg_viewers": 13, "followers_gained": 82, "peak_viewers": 39, "hours_streamed": 111, "streams": 28, "mature": 1, "language": "English", "account_age": 1163520.0}

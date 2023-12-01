@@ -1,0 +1,1 @@
+{"channel": "xix_benji_xix", "avg_viewers": 7, "followers_gained": 0, "peak_viewers": 36, "hours_streamed": 40, "streams": 10, "mature": 1, "language": "English", "account_age": 3245760.0}

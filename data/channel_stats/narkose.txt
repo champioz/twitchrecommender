@@ -1,0 +1,1 @@
+{"channel": "narkose", "avg_viewers": 37, "followers_gained": 32, "peak_viewers": 85, "hours_streamed": 24, "streams": 2, "mature": 1, "language": "German", "account_age": 3395520.0}

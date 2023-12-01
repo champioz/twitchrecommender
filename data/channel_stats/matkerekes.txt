@@ -1,0 +1,1 @@
+{"channel": "matkerekes", "avg_viewers": 7, "followers_gained": 56, "peak_viewers": 28, "hours_streamed": 6, "streams": 6, "mature": 0, "language": "English", "account_age": 646560.0}

@@ -1,0 +1,1 @@
+{"channel": "milordors", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 22, "hours_streamed": 85, "streams": 43, "mature": 0, "language": "English", "account_age": 2832480.0}

@@ -1,0 +1,1 @@
+{"channel": "gloverart", "avg_viewers": 7, "followers_gained": 0, "peak_viewers": 19, "hours_streamed": 71, "streams": 15, "mature": 1, "language": "Other", "account_age": 1224000.0}

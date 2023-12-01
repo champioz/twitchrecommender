@@ -1,0 +1,1 @@
+{"channel": "pfzin", "avg_viewers": 284, "followers_gained": 3874, "peak_viewers": 1110, "hours_streamed": 45, "streams": 7, "mature": 1, "language": "Portuguese", "account_age": 3123360.0}

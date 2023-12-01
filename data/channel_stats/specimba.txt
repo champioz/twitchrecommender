@@ -1,0 +1,1 @@
+{"channel": "specimba", "avg_viewers": 26, "followers_gained": 27, "peak_viewers": 138, "hours_streamed": 47, "streams": 11, "mature": 1, "language": "Turkish", "account_age": 3754080.0}

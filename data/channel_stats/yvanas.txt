@@ -1,0 +1,1 @@
+{"channel": "yvanas", "avg_viewers": 5, "followers_gained": 5, "peak_viewers": 12, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Other", "account_age": 2161440.0}

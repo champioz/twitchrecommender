@@ -1,0 +1,1 @@
+{"channel": "hiimmarki", "avg_viewers": 6, "followers_gained": 27, "peak_viewers": 42, "hours_streamed": 79, "streams": 19, "mature": 0, "language": "German", "account_age": 2784960.0}

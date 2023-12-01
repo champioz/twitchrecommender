@@ -1,0 +1,1 @@
+{"channel": "doctornydus", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 29, "hours_streamed": 69, "streams": 37, "mature": 1, "language": "Polish", "account_age": 2306880.0}

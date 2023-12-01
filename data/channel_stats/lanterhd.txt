@@ -1,0 +1,1 @@
+{"channel": "lanterhd", "avg_viewers": 2, "followers_gained": 77, "peak_viewers": 12, "hours_streamed": 150, "streams": 49, "mature": 0, "language": "Spanish", "account_age": 2407680.0}

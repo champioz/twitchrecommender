@@ -1,0 +1,1 @@
+{"channel": "modigrinnn", "avg_viewers": 4, "followers_gained": 29, "peak_viewers": 13, "hours_streamed": 44, "streams": 17, "mature": 0, "language": "Russian", "account_age": 416160.0}

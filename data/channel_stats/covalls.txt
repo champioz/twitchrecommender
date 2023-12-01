@@ -1,0 +1,1 @@
+{"channel": "covalls", "avg_viewers": 62, "followers_gained": 170, "peak_viewers": 249, "hours_streamed": 64, "streams": 21, "mature": 1, "language": "Spanish", "account_age": 1362240.0}

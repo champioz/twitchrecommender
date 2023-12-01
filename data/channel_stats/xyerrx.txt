@@ -1,0 +1,1 @@
+{"channel": "xyerrx", "avg_viewers": 28, "followers_gained": 67, "peak_viewers": 57, "hours_streamed": 10, "streams": 2, "mature": 0, "language": "English", "account_age": 820800.0}

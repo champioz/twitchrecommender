@@ -1,0 +1,1 @@
+{"channel": "lanfest", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 12, "hours_streamed": 68, "streams": 31, "mature": 0, "language": "English", "account_age": 3497760.0}

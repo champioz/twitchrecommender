@@ -1,0 +1,1 @@
+{"channel": "valekotv", "avg_viewers": 1, "followers_gained": 54, "peak_viewers": 7, "hours_streamed": 83, "streams": 21, "mature": 0, "language": "Ukrainian", "account_age": 1749600.0}

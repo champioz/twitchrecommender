@@ -1,0 +1,1 @@
+{"channel": "donpa320", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 25, "hours_streamed": 16, "streams": 6, "mature": 1, "language": "Chinese", "account_age": 1771200.0}

@@ -1,0 +1,1 @@
+{"channel": "mrstaensch", "avg_viewers": 6, "followers_gained": 4, "peak_viewers": 17, "hours_streamed": 28, "streams": 6, "mature": 1, "language": "German", "account_age": 1628640.0}

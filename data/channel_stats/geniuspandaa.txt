@@ -1,0 +1,1 @@
+{"channel": "geniuspandaa", "avg_viewers": 0, "followers_gained": 11, "peak_viewers": 4, "hours_streamed": 17, "streams": 15, "mature": 0, "language": "German", "account_age": 2233440.0}

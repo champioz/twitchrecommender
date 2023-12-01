@@ -1,0 +1,1 @@
+{"channel": "techsmith314", "avg_viewers": 66, "followers_gained": 231, "peak_viewers": 173, "hours_streamed": 30, "streams": 8, "mature": 1, "language": "English", "account_age": 2800800.0}

@@ -1,0 +1,1 @@
+{"channel": "hoko562", "avg_viewers": 41, "followers_gained": 551, "peak_viewers": 148, "hours_streamed": 133, "streams": 23, "mature": 1, "language": "French", "account_age": 1280160.0}

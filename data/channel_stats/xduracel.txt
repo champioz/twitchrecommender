@@ -1,0 +1,1 @@
+{"channel": "xduracel", "avg_viewers": 171, "followers_gained": 375, "peak_viewers": 505, "hours_streamed": 133, "streams": 22, "mature": 0, "language": "Portuguese", "account_age": 2129760.0}

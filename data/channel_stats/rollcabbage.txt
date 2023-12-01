@@ -1,0 +1,1 @@
+{"channel": "rollcabbage", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 19, "hours_streamed": 24, "streams": 16, "mature": 0, "language": "Japanese", "account_age": 1229760.0}

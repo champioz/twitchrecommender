@@ -1,0 +1,1 @@
+{"channel": "bigschem", "avg_viewers": 79, "followers_gained": 250, "peak_viewers": 165, "hours_streamed": 81, "streams": 16, "mature": 1, "language": "English", "account_age": 2854080.0}

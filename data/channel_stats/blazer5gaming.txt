@@ -1,0 +1,1 @@
+{"channel": "blazer5gaming", "avg_viewers": 0, "followers_gained": 27, "peak_viewers": 5, "hours_streamed": 13, "streams": 5, "mature": 0, "language": "English", "account_age": 1320480.0}

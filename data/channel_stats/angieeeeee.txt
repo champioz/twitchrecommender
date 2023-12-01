@@ -1,0 +1,1 @@
+{"channel": "angieeeeee", "avg_viewers": 3, "followers_gained": 9, "peak_viewers": 9, "hours_streamed": 5, "streams": 8, "mature": 1, "language": "German", "account_age": 1536480.0}

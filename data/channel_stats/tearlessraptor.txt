@@ -1,0 +1,1 @@
+{"channel": "tearlessraptor", "avg_viewers": 195, "followers_gained": 2474, "peak_viewers": 451, "hours_streamed": 96, "streams": 24, "mature": 0, "language": "Italian", "account_age": 2924640.0}

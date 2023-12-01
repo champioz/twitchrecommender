@@ -1,0 +1,1 @@
+{"channel": "shinobilive", "avg_viewers": 16, "followers_gained": 78, "peak_viewers": 104, "hours_streamed": 73, "streams": 11, "mature": 0, "language": "English", "account_age": 3697920.0}

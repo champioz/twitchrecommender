@@ -1,0 +1,1 @@
+{"channel": "fifaoklm", "avg_viewers": 22, "followers_gained": 196, "peak_viewers": 70, "hours_streamed": 29, "streams": 12, "mature": 1, "language": "French", "account_age": 1055520.0}

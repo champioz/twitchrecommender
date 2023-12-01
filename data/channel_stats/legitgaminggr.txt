@@ -1,0 +1,1 @@
+{"channel": "legitgaminggr", "avg_viewers": 141, "followers_gained": 114, "peak_viewers": 178, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Greek", "account_age": 3565440.0}

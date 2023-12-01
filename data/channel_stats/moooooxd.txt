@@ -1,0 +1,1 @@
+{"channel": "moooooxd", "avg_viewers": 18, "followers_gained": 83, "peak_viewers": 99, "hours_streamed": 64, "streams": 14, "mature": 1, "language": "English", "account_age": 3123360.0}

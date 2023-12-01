@@ -1,0 +1,1 @@
+{"channel": "maylenchan", "avg_viewers": 42, "followers_gained": 954, "peak_viewers": 118, "hours_streamed": 85, "streams": 28, "mature": 0, "language": "Spanish", "account_age": 747360.0}

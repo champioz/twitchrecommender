@@ -1,0 +1,1 @@
+{"channel": "imtofuuu", "avg_viewers": 6, "followers_gained": 176, "peak_viewers": 19, "hours_streamed": 49, "streams": 30, "mature": 0, "language": "English", "account_age": 770400.0}

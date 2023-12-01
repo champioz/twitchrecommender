@@ -1,0 +1,1 @@
+{"channel": "lotsofs", "avg_viewers": 17, "followers_gained": 35, "peak_viewers": 62, "hours_streamed": 44, "streams": 11, "mature": 0, "language": "English", "account_age": 3834720.0}

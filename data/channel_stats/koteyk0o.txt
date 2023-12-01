@@ -1,0 +1,1 @@
+{"channel": "koteyk0o", "avg_viewers": 56, "followers_gained": 139, "peak_viewers": 98, "hours_streamed": 62, "streams": 20, "mature": 0, "language": "Russian", "account_age": 2242080.0}

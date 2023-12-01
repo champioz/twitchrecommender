@@ -1,0 +1,1 @@
+{"channel": "3dclanru", "avg_viewers": 50, "followers_gained": 225, "peak_viewers": 238, "hours_streamed": 80, "streams": 25, "mature": 0, "language": "Russian", "account_age": 4809600.0}

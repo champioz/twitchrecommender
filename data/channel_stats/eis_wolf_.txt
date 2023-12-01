@@ -1,0 +1,1 @@
+{"channel": "eis_wolf_", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 17, "streams": 9, "mature": 0, "language": "German", "account_age": 1719360.0}

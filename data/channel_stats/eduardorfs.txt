@@ -1,0 +1,1 @@
+{"channel": "eduardorfs", "avg_viewers": 5, "followers_gained": 10, "peak_viewers": 13, "hours_streamed": 14, "streams": 9, "mature": 1, "language": "Portuguese", "account_age": 3388320.0}

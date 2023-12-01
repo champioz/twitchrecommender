@@ -1,0 +1,1 @@
+{"channel": "tobiaoe", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 11, "hours_streamed": 23, "streams": 19, "mature": 0, "language": "Turkish", "account_age": 601920.0}

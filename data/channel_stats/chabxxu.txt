@@ -1,0 +1,1 @@
+{"channel": "chabxxu", "avg_viewers": 34, "followers_gained": 16, "peak_viewers": 63, "hours_streamed": 10, "streams": 6, "mature": 0, "language": "English", "account_age": 960480.0}

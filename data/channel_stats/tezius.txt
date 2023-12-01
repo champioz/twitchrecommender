@@ -1,0 +1,1 @@
+{"channel": "tezius", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 8, "hours_streamed": 53, "streams": 14, "mature": 1, "language": "English", "account_age": 3090240.0}

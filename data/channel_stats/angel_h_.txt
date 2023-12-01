@@ -1,0 +1,1 @@
+{"channel": "angel_h_", "avg_viewers": 6, "followers_gained": 0, "peak_viewers": 8, "hours_streamed": 0, "streams": 2, "mature": 1, "language": "English", "account_age": 1746720.0}

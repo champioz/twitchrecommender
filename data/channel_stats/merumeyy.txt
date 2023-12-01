@@ -1,0 +1,1 @@
+{"channel": "merumeyy", "avg_viewers": 7, "followers_gained": 322, "peak_viewers": 37, "hours_streamed": 126, "streams": 27, "mature": 1, "language": "Spanish", "account_age": 158400.0}

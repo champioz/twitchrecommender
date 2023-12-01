@@ -1,0 +1,1 @@
+{"channel": "mugaly", "avg_viewers": 6, "followers_gained": 104, "peak_viewers": 38, "hours_streamed": 327, "streams": 63, "mature": 1, "language": "English", "account_age": 1504800.0}

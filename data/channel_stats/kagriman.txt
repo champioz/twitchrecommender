@@ -1,0 +1,1 @@
+{"channel": "kagriman", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 62, "streams": 18, "mature": 0, "language": "Russian", "account_age": 3627360.0}

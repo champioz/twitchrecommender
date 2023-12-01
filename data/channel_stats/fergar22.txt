@@ -1,0 +1,1 @@
+{"channel": "fergar22", "avg_viewers": 3, "followers_gained": 21, "peak_viewers": 9, "hours_streamed": 52, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 676800.0}

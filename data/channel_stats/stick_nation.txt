@@ -1,0 +1,1 @@
+{"channel": "stick_nation", "avg_viewers": 5, "followers_gained": 35, "peak_viewers": 20, "hours_streamed": 50, "streams": 14, "mature": 0, "language": "English", "account_age": 856800.0}

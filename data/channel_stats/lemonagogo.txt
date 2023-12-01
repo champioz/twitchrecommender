@@ -1,0 +1,1 @@
+{"channel": "lemonagogo", "avg_viewers": 49, "followers_gained": 340, "peak_viewers": 175, "hours_streamed": 104, "streams": 24, "mature": 1, "language": "English", "account_age": 1771200.0}

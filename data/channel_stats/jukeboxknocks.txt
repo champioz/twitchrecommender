@@ -1,0 +1,1 @@
+{"channel": "jukeboxknocks", "avg_viewers": 14, "followers_gained": 112, "peak_viewers": 27, "hours_streamed": 114, "streams": 20, "mature": 1, "language": "English", "account_age": 992160.0}

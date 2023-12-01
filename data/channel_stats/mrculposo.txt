@@ -1,0 +1,1 @@
+{"channel": "mrculposo", "avg_viewers": 15, "followers_gained": 217, "peak_viewers": 26, "hours_streamed": 30, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 283680.0}

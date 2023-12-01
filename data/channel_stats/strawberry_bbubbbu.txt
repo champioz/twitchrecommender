@@ -1,0 +1,1 @@
+{"channel": "strawberry_bbubbbu", "avg_viewers": 45, "followers_gained": 214, "peak_viewers": 144, "hours_streamed": 106, "streams": 17, "mature": 0, "language": "Korean", "account_age": 263520.0}

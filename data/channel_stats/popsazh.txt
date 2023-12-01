@@ -1,0 +1,1 @@
+{"channel": "popsazh", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "Russian", "account_age": 1962720.0}

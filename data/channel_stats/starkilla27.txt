@@ -1,0 +1,1 @@
+{"channel": "starkilla27", "avg_viewers": 4, "followers_gained": 24, "peak_viewers": 87, "hours_streamed": 60, "streams": 17, "mature": 0, "language": "English", "account_age": 2291040.0}

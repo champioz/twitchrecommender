@@ -1,0 +1,1 @@
+{"channel": "greenychannel", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 18, "streams": 9, "mature": 0, "language": "Russian", "account_age": 1982880.0}

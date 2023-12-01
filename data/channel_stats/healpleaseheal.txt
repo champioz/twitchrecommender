@@ -1,0 +1,1 @@
+{"channel": "healpleaseheal", "avg_viewers": 16, "followers_gained": 109, "peak_viewers": 128, "hours_streamed": 65, "streams": 14, "mature": 1, "language": "English", "account_age": 1772640.0}

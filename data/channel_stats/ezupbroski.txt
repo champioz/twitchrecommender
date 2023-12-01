@@ -1,0 +1,1 @@
+{"channel": "ezupbroski", "avg_viewers": 2, "followers_gained": 58, "peak_viewers": 8, "hours_streamed": 106, "streams": 35, "mature": 1, "language": "English", "account_age": 617760.0}

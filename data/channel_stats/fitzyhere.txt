@@ -1,0 +1,1 @@
+{"channel": "fitzyhere", "avg_viewers": 728, "followers_gained": 4533, "peak_viewers": 7548, "hours_streamed": 188, "streams": 42, "mature": 0, "language": "English", "account_age": 4258080.0}

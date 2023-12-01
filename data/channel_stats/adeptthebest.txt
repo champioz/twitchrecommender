@@ -1,0 +1,1 @@
+{"channel": "adeptthebest", "avg_viewers": 582, "followers_gained": 3808, "peak_viewers": 1986, "hours_streamed": 42, "streams": 17, "mature": 0, "language": "English", "account_age": 1805760.0}

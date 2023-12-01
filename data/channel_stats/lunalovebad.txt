@@ -1,0 +1,1 @@
+{"channel": "lunalovebad", "avg_viewers": 58, "followers_gained": 58, "peak_viewers": 373, "hours_streamed": 66, "streams": 15, "mature": 0, "language": "English", "account_age": 3420000.0}

@@ -1,0 +1,1 @@
+{"channel": "nezba", "avg_viewers": 73, "followers_gained": 367, "peak_viewers": 329, "hours_streamed": 125, "streams": 20, "mature": 0, "language": "English", "account_age": 2005920.0}

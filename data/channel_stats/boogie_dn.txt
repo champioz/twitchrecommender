@@ -1,0 +1,1 @@
+{"channel": "boogie_dn", "avg_viewers": 8, "followers_gained": 22, "peak_viewers": 82, "hours_streamed": 121, "streams": 25, "mature": 1, "language": "English", "account_age": 1370880.0}

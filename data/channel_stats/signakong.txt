@@ -1,0 +1,1 @@
+{"channel": "signakong", "avg_viewers": 7, "followers_gained": 11, "peak_viewers": 17, "hours_streamed": 4, "streams": 4, "mature": 1, "language": "Japanese", "account_age": 1005120.0}

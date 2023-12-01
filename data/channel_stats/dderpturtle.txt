@@ -1,0 +1,1 @@
+{"channel": "dderpturtle", "avg_viewers": 18, "followers_gained": 17, "peak_viewers": 56, "hours_streamed": 9, "streams": 8, "mature": 1, "language": "English", "account_age": 3631680.0}

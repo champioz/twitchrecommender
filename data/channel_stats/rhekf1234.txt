@@ -1,0 +1,1 @@
+{"channel": "rhekf1234", "avg_viewers": 9, "followers_gained": 4, "peak_viewers": 19, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "Korean", "account_age": 758880.0}

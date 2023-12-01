@@ -1,0 +1,1 @@
+{"channel": "xghost_cl", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 0, "hours_streamed": 0, "streams": 0, "mature": 0, "language": "Spanish", "account_age": -292320.0}

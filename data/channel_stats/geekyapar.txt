@@ -1,0 +1,1 @@
+{"channel": "geekyapar", "avg_viewers": 191, "followers_gained": 64, "peak_viewers": 244, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "Turkish", "account_age": 2756160.0}

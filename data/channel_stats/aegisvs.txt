@@ -1,0 +1,1 @@
+{"channel": "aegisvs", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 19, "hours_streamed": 82, "streams": 14, "mature": 0, "language": "English", "account_age": 3127680.0}

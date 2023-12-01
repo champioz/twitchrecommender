@@ -1,0 +1,1 @@
+{"channel": "mazuty", "avg_viewers": 4, "followers_gained": 66, "peak_viewers": 17, "hours_streamed": 91, "streams": 36, "mature": 0, "language": "English", "account_age": 864000.0}

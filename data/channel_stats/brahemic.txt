@@ -1,0 +1,1 @@
+{"channel": "brahemic", "avg_viewers": 135, "followers_gained": 505, "peak_viewers": 217, "hours_streamed": 239, "streams": 31, "mature": 1, "language": "English", "account_age": 2439360.0}

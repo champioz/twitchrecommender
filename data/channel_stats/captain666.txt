@@ -1,0 +1,1 @@
+{"channel": "captain666", "avg_viewers": 2, "followers_gained": 26, "peak_viewers": 22, "hours_streamed": 97, "streams": 25, "mature": 1, "language": "German", "account_age": 2132640.0}

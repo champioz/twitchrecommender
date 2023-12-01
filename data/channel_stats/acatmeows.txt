@@ -1,0 +1,1 @@
+{"channel": "acatmeows", "avg_viewers": 15, "followers_gained": 60, "peak_viewers": 46, "hours_streamed": 61, "streams": 20, "mature": 0, "language": "Chinese", "account_age": 650880.0}

@@ -1,0 +1,1 @@
+{"channel": "therealbarret", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 10, "hours_streamed": 19, "streams": 3, "mature": 1, "language": "English", "account_age": 2316960.0}

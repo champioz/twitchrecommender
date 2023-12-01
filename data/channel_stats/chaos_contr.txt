@@ -1,0 +1,1 @@
+{"channel": "chaos_contr", "avg_viewers": 12, "followers_gained": 33, "peak_viewers": 36, "hours_streamed": 24, "streams": 6, "mature": 0, "language": "Russian", "account_age": 1320480.0}

@@ -1,0 +1,1 @@
+{"channel": "hovitey", "avg_viewers": 64, "followers_gained": 1, "peak_viewers": 205, "hours_streamed": 46, "streams": 12, "mature": 0, "language": "German", "account_age": 2954880.0}

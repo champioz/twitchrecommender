@@ -1,0 +1,1 @@
+{"channel": "madariani", "avg_viewers": 5, "followers_gained": 43, "peak_viewers": 15, "hours_streamed": 84, "streams": 25, "mature": 1, "language": "Spanish", "account_age": 2579040.0}

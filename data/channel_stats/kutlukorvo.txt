@@ -1,0 +1,1 @@
+{"channel": "kutlukorvo", "avg_viewers": 48, "followers_gained": 295, "peak_viewers": 264, "hours_streamed": 81, "streams": 29, "mature": 0, "language": "Turkish", "account_age": 1725120.0}

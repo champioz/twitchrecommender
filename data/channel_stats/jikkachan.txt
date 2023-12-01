@@ -1,0 +1,1 @@
+{"channel": "jikkachan", "avg_viewers": 26, "followers_gained": 86, "peak_viewers": 327, "hours_streamed": 113, "streams": 33, "mature": 0, "language": "Japanese", "account_age": 3672000.0}

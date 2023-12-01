@@ -1,0 +1,1 @@
+{"channel": "keenlui", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 16, "streams": 6, "mature": 1, "language": "Turkish", "account_age": 1661760.0}

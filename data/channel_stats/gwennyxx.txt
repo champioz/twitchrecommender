@@ -1,0 +1,1 @@
+{"channel": "gwennyxx", "avg_viewers": 3, "followers_gained": 54, "peak_viewers": 10, "hours_streamed": 22, "streams": 16, "mature": 0, "language": "Dutch", "account_age": 2108160.0}

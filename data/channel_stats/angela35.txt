@@ -1,0 +1,1 @@
+{"channel": "angela35", "avg_viewers": 102, "followers_gained": 530, "peak_viewers": 275, "hours_streamed": 86, "streams": 20, "mature": 0, "language": "Polish", "account_age": 2839680.0}

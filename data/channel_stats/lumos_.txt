@@ -1,0 +1,1 @@
+{"channel": "lumos_", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 21, "hours_streamed": 86, "streams": 43, "mature": 1, "language": "Turkish", "account_age": 3245760.0}

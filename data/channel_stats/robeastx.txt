@@ -1,0 +1,1 @@
+{"channel": "robeastx", "avg_viewers": 7, "followers_gained": 38, "peak_viewers": 21, "hours_streamed": 44, "streams": 15, "mature": 1, "language": "English", "account_age": 1638720.0}

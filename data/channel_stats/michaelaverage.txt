@@ -1,0 +1,1 @@
+{"channel": "michaelaverage", "avg_viewers": 158, "followers_gained": 24, "peak_viewers": 317, "hours_streamed": 32, "streams": 8, "mature": 1, "language": "Slovak", "account_age": 4065120.0}

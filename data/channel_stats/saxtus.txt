@@ -1,0 +1,1 @@
+{"channel": "saxtus", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 26, "hours_streamed": 25, "streams": 14, "mature": 0, "language": "English", "account_age": 5204160.0}

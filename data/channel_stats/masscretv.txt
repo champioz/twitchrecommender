@@ -1,0 +1,1 @@
+{"channel": "masscretv", "avg_viewers": 67, "followers_gained": 153, "peak_viewers": 150, "hours_streamed": 142, "streams": 21, "mature": 0, "language": "Russian", "account_age": 738720.0}

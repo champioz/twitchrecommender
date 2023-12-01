@@ -1,0 +1,1 @@
+{"channel": "uncledoukey", "avg_viewers": 55, "followers_gained": 116, "peak_viewers": 306, "hours_streamed": 117, "streams": 25, "mature": 0, "language": "English", "account_age": 3373920.0}

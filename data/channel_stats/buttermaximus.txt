@@ -1,0 +1,1 @@
+{"channel": "buttermaximus", "avg_viewers": 19, "followers_gained": 123, "peak_viewers": 38, "hours_streamed": 36, "streams": 21, "mature": 1, "language": "Czech", "account_age": 2080800.0}

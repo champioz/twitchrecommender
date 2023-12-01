@@ -1,0 +1,1 @@
+{"channel": "daddyeyesaac", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 1131840.0}

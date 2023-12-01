@@ -1,0 +1,1 @@
+{"channel": "seorai", "avg_viewers": 58, "followers_gained": 4102, "peak_viewers": 262, "hours_streamed": 94, "streams": 30, "mature": 0, "language": "Arabic", "account_age": 643680.0}

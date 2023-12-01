@@ -1,0 +1,1 @@
+{"channel": "okukany", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "Polish", "account_age": 214560.0}

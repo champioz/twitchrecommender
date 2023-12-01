@@ -1,0 +1,1 @@
+{"channel": "lolirot", "avg_viewers": 134, "followers_gained": 605, "peak_viewers": 408, "hours_streamed": 235, "streams": 27, "mature": 0, "language": "Spanish", "account_age": 3952800.0}

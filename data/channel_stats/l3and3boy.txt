@@ -1,0 +1,1 @@
+{"channel": "l3and3boy", "avg_viewers": 4, "followers_gained": 51, "peak_viewers": 21, "hours_streamed": 54, "streams": 15, "mature": 0, "language": "German", "account_age": 2963520.0}

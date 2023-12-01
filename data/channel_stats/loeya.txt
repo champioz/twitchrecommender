@@ -1,0 +1,1 @@
+{"channel": "loeya", "avg_viewers": 2609, "followers_gained": 36371, "peak_viewers": 11077, "hours_streamed": 235, "streams": 28, "mature": 0, "language": "English", "account_age": 1064160.0}

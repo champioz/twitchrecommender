@@ -1,0 +1,1 @@
+{"channel": "mathasyu", "avg_viewers": 1, "followers_gained": 8, "peak_viewers": 6, "hours_streamed": 53, "streams": 20, "mature": 1, "language": "German", "account_age": 2404800.0}

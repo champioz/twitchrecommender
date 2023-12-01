@@ -1,0 +1,1 @@
+{"channel": "sorskoot", "avg_viewers": 7, "followers_gained": 51, "peak_viewers": 26, "hours_streamed": 24, "streams": 7, "mature": 0, "language": "English", "account_age": 2427840.0}

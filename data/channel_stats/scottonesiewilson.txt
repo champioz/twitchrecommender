@@ -1,0 +1,1 @@
+{"channel": "scottonesiewilson", "avg_viewers": 22, "followers_gained": 5, "peak_viewers": 54, "hours_streamed": 27, "streams": 7, "mature": 1, "language": "English", "account_age": 2368800.0}

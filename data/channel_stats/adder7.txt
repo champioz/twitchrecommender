@@ -1,0 +1,1 @@
+{"channel": "adder7", "avg_viewers": 5, "followers_gained": 26, "peak_viewers": 26, "hours_streamed": 39, "streams": 9, "mature": 0, "language": "Polish", "account_age": 1437120.0}

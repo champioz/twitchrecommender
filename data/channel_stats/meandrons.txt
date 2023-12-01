@@ -1,0 +1,1 @@
+{"channel": "meandrons", "avg_viewers": 7, "followers_gained": 51, "peak_viewers": 71, "hours_streamed": 23, "streams": 11, "mature": 0, "language": "Turkish", "account_age": 2941920.0}

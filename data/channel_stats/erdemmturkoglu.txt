@@ -1,0 +1,1 @@
+{"channel": "erdemmturkoglu", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 4, "hours_streamed": 5, "streams": 6, "mature": 1, "language": "Turkish", "account_age": 976320.0}

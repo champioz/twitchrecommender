@@ -1,0 +1,1 @@
+{"channel": "jemslolz", "avg_viewers": 37, "followers_gained": 100, "peak_viewers": 95, "hours_streamed": 47, "streams": 25, "mature": 1, "language": "Russian", "account_age": 3041280.0}

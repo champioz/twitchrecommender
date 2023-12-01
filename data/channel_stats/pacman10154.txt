@@ -1,0 +1,1 @@
+{"channel": "pacman10154", "avg_viewers": 16, "followers_gained": 89, "peak_viewers": 38, "hours_streamed": 108, "streams": 14, "mature": 0, "language": "English", "account_age": 3055680.0}

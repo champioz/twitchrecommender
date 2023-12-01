@@ -1,0 +1,1 @@
+{"channel": "retrokieh", "avg_viewers": 22, "followers_gained": 147, "peak_viewers": 54, "hours_streamed": 88, "streams": 27, "mature": 1, "language": "German", "account_age": 973440.0}

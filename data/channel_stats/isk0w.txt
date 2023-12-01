@@ -1,0 +1,1 @@
+{"channel": "isk0w", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 12, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 2443680.0}

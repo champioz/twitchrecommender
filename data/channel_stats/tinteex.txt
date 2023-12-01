@@ -1,0 +1,1 @@
+{"channel": "tinteex", "avg_viewers": 249, "followers_gained": 1630, "peak_viewers": 679, "hours_streamed": 108, "streams": 17, "mature": 1, "language": "German", "account_age": 1658880.0}

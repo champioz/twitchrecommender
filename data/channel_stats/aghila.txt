@@ -1,0 +1,1 @@
+{"channel": "aghila", "avg_viewers": 16, "followers_gained": 630, "peak_viewers": 181, "hours_streamed": 198, "streams": 38, "mature": 1, "language": "English", "account_age": 2658240.0}

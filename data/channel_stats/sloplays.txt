@@ -1,0 +1,1 @@
+{"channel": "sloplays", "avg_viewers": 46, "followers_gained": 308, "peak_viewers": 117, "hours_streamed": 42, "streams": 22, "mature": 0, "language": "English", "account_age": 2966400.0}

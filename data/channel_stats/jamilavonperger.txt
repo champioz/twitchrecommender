@@ -1,0 +1,1 @@
+{"channel": "jamilavonperger", "avg_viewers": 74, "followers_gained": 113, "peak_viewers": 134, "hours_streamed": 24, "streams": 5, "mature": 1, "language": "German", "account_age": 468000.0}

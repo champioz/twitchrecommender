@@ -1,0 +1,1 @@
+{"channel": "dudualenda", "avg_viewers": 10, "followers_gained": 33, "peak_viewers": 46, "hours_streamed": 53, "streams": 12, "mature": 0, "language": "Portuguese", "account_age": 1546560.0}

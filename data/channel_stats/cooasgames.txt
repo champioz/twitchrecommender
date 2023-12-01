@@ -1,0 +1,1 @@
+{"channel": "cooasgames", "avg_viewers": 432, "followers_gained": 214, "peak_viewers": 1509, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "Japanese", "account_age": 1586880.0}

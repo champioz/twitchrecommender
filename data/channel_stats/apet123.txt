@@ -1,0 +1,1 @@
+{"channel": "apet123", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 4, "hours_streamed": 11, "streams": 8, "mature": 0, "language": "Czech", "account_age": 1032480.0}

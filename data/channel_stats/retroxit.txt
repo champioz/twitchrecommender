@@ -1,0 +1,1 @@
+{"channel": "retroxit", "avg_viewers": 7, "followers_gained": 10, "peak_viewers": 22, "hours_streamed": 72, "streams": 17, "mature": 1, "language": "English", "account_age": 3144960.0}

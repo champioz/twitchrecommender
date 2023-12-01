@@ -1,0 +1,1 @@
+{"channel": "godwilbur", "avg_viewers": 0, "followers_gained": 20, "peak_viewers": 5, "hours_streamed": 148, "streams": 41, "mature": 0, "language": "Spanish", "account_age": 1530720.0}

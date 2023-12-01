@@ -1,0 +1,1 @@
+{"channel": "luposan1975", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 74, "streams": 36, "mature": 1, "language": "German", "account_age": 708480.0}

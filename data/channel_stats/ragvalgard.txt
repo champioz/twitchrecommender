@@ -1,0 +1,1 @@
+{"channel": "ragvalgard", "avg_viewers": 9, "followers_gained": 23, "peak_viewers": 27, "hours_streamed": 43, "streams": 19, "mature": 1, "language": "Spanish", "account_age": 1860480.0}

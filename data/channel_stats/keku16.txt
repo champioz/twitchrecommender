@@ -1,0 +1,1 @@
+{"channel": "keku16", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 46, "streams": 14, "mature": 1, "language": "Finnish", "account_age": 2041920.0}

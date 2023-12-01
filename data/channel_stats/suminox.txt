@@ -1,0 +1,1 @@
+{"channel": "suminox", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 17, "hours_streamed": 39, "streams": 23, "mature": 1, "language": "German", "account_age": 1961280.0}

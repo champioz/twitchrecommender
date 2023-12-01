@@ -1,0 +1,1 @@
+{"channel": "poissondelune", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 7, "hours_streamed": 15, "streams": 8, "mature": 0, "language": "French", "account_age": 1082880.0}

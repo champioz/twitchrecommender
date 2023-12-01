@@ -1,0 +1,1 @@
+{"channel": "clayt0n", "avg_viewers": 9, "followers_gained": 28, "peak_viewers": 38, "hours_streamed": 35, "streams": 14, "mature": 1, "language": "English", "account_age": 2183040.0}

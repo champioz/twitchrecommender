@@ -1,0 +1,1 @@
+{"channel": "aerostattt", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 11, "hours_streamed": 12, "streams": 6, "mature": 0, "language": "Swedish", "account_age": 1254240.0}

@@ -1,0 +1,1 @@
+{"channel": "deanlo420", "avg_viewers": 9, "followers_gained": 12, "peak_viewers": 26, "hours_streamed": 18, "streams": 5, "mature": 0, "language": "English", "account_age": 2625120.0}

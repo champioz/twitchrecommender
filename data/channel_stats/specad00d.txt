@@ -1,0 +1,1 @@
+{"channel": "specad00d", "avg_viewers": 39, "followers_gained": 78, "peak_viewers": 120, "hours_streamed": 34, "streams": 11, "mature": 1, "language": "English", "account_age": 2671200.0}

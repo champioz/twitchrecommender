@@ -1,0 +1,1 @@
+{"channel": "poofa", "avg_viewers": 9, "followers_gained": 249, "peak_viewers": 49, "hours_streamed": 85, "streams": 62, "mature": 0, "language": "English", "account_age": 897120.0}

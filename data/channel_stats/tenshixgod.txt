@@ -1,0 +1,1 @@
+{"channel": "tenshixgod", "avg_viewers": 126, "followers_gained": 3359, "peak_viewers": 368, "hours_streamed": 76, "streams": 19, "mature": 0, "language": "Russian", "account_age": 2471040.0}

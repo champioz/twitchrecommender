@@ -1,0 +1,1 @@
+{"channel": "kruffles", "avg_viewers": 60, "followers_gained": 113, "peak_viewers": 105, "hours_streamed": 81, "streams": 21, "mature": 0, "language": "English", "account_age": 3556800.0}

@@ -1,0 +1,1 @@
+{"channel": "nakiiama", "avg_viewers": 15, "followers_gained": 151, "peak_viewers": 122, "hours_streamed": 146, "streams": 40, "mature": 0, "language": "Polish", "account_age": 3902400.0}

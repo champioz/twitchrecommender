@@ -1,0 +1,1 @@
+{"channel": "kimyondu", "avg_viewers": 15, "followers_gained": 11, "peak_viewers": 36, "hours_streamed": 71, "streams": 20, "mature": 0, "language": "Korean", "account_age": 715680.0}

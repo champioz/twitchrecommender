@@ -1,0 +1,1 @@
+{"channel": "spiced_shrimp", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 24, "hours_streamed": 166, "streams": 32, "mature": 0, "language": "Korean", "account_age": 223200.0}

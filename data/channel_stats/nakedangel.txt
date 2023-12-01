@@ -1,0 +1,1 @@
+{"channel": "nakedangel", "avg_viewers": 37, "followers_gained": 17, "peak_viewers": 134, "hours_streamed": 143, "streams": 26, "mature": 1, "language": "English", "account_age": 3866400.0}

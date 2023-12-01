@@ -1,0 +1,1 @@
+{"channel": "moska1m", "avg_viewers": 1105, "followers_gained": 1740, "peak_viewers": 11505, "hours_streamed": 25, "streams": 8, "mature": 0, "language": "Portuguese", "account_age": 1458720.0}

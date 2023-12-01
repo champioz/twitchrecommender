@@ -1,0 +1,1 @@
+{"channel": "sqeik", "avg_viewers": 6, "followers_gained": 0, "peak_viewers": 13, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Polish", "account_age": 3337920.0}

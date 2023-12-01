@@ -1,0 +1,1 @@
+{"channel": "goodcatbaby", "avg_viewers": 52, "followers_gained": 137, "peak_viewers": 110, "hours_streamed": 32, "streams": 10, "mature": 1, "language": "Chinese", "account_age": 2960640.0}

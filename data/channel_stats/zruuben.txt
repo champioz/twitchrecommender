@@ -1,0 +1,1 @@
+{"channel": "zruuben", "avg_viewers": 30, "followers_gained": 428, "peak_viewers": 292, "hours_streamed": 53, "streams": 14, "mature": 1, "language": "Spanish", "account_age": 3068640.0}

@@ -1,0 +1,1 @@
+{"channel": "momoirolint", "avg_viewers": 30, "followers_gained": 42, "peak_viewers": 46, "hours_streamed": 16, "streams": 6, "mature": 0, "language": "Korean", "account_age": 1441440.0}

@@ -1,0 +1,1 @@
+{"channel": "sassyangel", "avg_viewers": 92, "followers_gained": 3080, "peak_viewers": 160, "hours_streamed": 114, "streams": 21, "mature": 0, "language": "English", "account_age": 3296160.0}

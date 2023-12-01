@@ -1,0 +1,1 @@
+{"channel": "xultimatex5", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 21, "streams": 8, "mature": 0, "language": "English", "account_age": 2459520.0}

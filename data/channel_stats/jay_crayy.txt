@@ -1,0 +1,1 @@
+{"channel": "jay_crayy", "avg_viewers": 20, "followers_gained": 2160, "peak_viewers": 197, "hours_streamed": 164, "streams": 24, "mature": 0, "language": "English", "account_age": 2147040.0}

@@ -1,0 +1,1 @@
+{"channel": "nicguru", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 8, "hours_streamed": 24, "streams": 9, "mature": 0, "language": "English", "account_age": 3656160.0}

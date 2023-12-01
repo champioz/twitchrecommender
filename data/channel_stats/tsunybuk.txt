@@ -1,0 +1,1 @@
+{"channel": "tsunybuk", "avg_viewers": 99, "followers_gained": 285, "peak_viewers": 1110, "hours_streamed": 46, "streams": 16, "mature": 0, "language": "Russian", "account_age": 2076480.0}

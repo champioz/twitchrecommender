@@ -1,0 +1,1 @@
+{"channel": "chalgade", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 22, "hours_streamed": 18, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 2607840.0}

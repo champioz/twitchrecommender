@@ -1,0 +1,1 @@
+{"channel": "killyou9507", "avg_viewers": 16, "followers_gained": 36, "peak_viewers": 36, "hours_streamed": 68, "streams": 29, "mature": 0, "language": "Korean", "account_age": 538560.0}

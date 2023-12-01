@@ -1,0 +1,1 @@
+{"channel": "bds1", "avg_viewers": 3, "followers_gained": 11, "peak_viewers": 9, "hours_streamed": 26, "streams": 8, "mature": 1, "language": "Portuguese", "account_age": 3267360.0}

@@ -1,0 +1,1 @@
+{"channel": "resoulance", "avg_viewers": 25, "followers_gained": 108, "peak_viewers": 67, "hours_streamed": 85, "streams": 15, "mature": 1, "language": "German", "account_age": 972000.0}

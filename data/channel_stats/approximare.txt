@@ -1,0 +1,1 @@
+{"channel": "approximare", "avg_viewers": 7, "followers_gained": 44, "peak_viewers": 17, "hours_streamed": 90, "streams": 23, "mature": 0, "language": "Russian", "account_age": 404640.0}

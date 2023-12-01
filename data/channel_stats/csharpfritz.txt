@@ -1,0 +1,1 @@
+{"channel": "csharpfritz", "avg_viewers": 91, "followers_gained": 402, "peak_viewers": 189, "hours_streamed": 49, "streams": 18, "mature": 0, "language": "English", "account_age": 2118240.0}

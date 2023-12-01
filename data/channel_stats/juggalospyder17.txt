@@ -1,0 +1,1 @@
+{"channel": "juggalospyder17", "avg_viewers": 25, "followers_gained": 21, "peak_viewers": 70, "hours_streamed": 164, "streams": 21, "mature": 1, "language": "English", "account_age": 3160800.0}

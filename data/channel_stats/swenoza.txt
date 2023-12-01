@@ -1,0 +1,1 @@
+{"channel": "swenoza", "avg_viewers": 8, "followers_gained": 8, "peak_viewers": 34, "hours_streamed": 54, "streams": 4, "mature": 0, "language": "Russian", "account_age": 3303360.0}

@@ -1,0 +1,1 @@
+{"channel": "darthbobo77", "avg_viewers": 381, "followers_gained": 4702, "peak_viewers": 2472, "hours_streamed": 115, "streams": 25, "mature": 1, "language": "English", "account_age": 3905280.0}

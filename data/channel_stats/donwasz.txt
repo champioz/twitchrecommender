@@ -1,0 +1,1 @@
+{"channel": "donwasz", "avg_viewers": 6, "followers_gained": 80, "peak_viewers": 30, "hours_streamed": 72, "streams": 10, "mature": 1, "language": "Portuguese", "account_age": 2888640.0}

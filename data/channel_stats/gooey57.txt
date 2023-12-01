@@ -1,0 +1,1 @@
+{"channel": "gooey57", "avg_viewers": 15, "followers_gained": 473, "peak_viewers": 40, "hours_streamed": 57, "streams": 22, "mature": 0, "language": "English", "account_age": 1206720.0}

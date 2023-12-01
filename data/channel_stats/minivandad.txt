@@ -1,0 +1,1 @@
+{"channel": "minivandad", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 11, "hours_streamed": 37, "streams": 17, "mature": 0, "language": "English", "account_age": 2923200.0}

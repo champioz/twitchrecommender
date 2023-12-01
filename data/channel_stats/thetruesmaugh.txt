@@ -1,0 +1,1 @@
+{"channel": "thetruesmaugh", "avg_viewers": 27, "followers_gained": 166, "peak_viewers": 99, "hours_streamed": 78, "streams": 13, "mature": 0, "language": "English", "account_age": 1431360.0}

@@ -1,0 +1,1 @@
+{"channel": "loopstroop", "avg_viewers": 1, "followers_gained": 31, "peak_viewers": 8, "hours_streamed": 65, "streams": 31, "mature": 1, "language": "English", "account_age": 3179520.0}

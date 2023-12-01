@@ -1,0 +1,1 @@
+{"channel": "nuwuria", "avg_viewers": 6, "followers_gained": 97, "peak_viewers": 19, "hours_streamed": 40, "streams": 15, "mature": 1, "language": "Spanish", "account_age": 1874880.0}

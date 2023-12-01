@@ -1,0 +1,1 @@
+{"channel": "thedavern", "avg_viewers": 2, "followers_gained": 26, "peak_viewers": 18, "hours_streamed": 83, "streams": 27, "mature": 0, "language": "Norwegian", "account_age": 799200.0}

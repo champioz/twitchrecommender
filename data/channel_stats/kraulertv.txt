@@ -1,0 +1,1 @@
+{"channel": "kraulertv", "avg_viewers": 7, "followers_gained": 20, "peak_viewers": 15, "hours_streamed": 14, "streams": 5, "mature": 0, "language": "Russian", "account_age": 1257120.0}

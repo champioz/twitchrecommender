@@ -1,0 +1,1 @@
+{"channel": "myntscubz", "avg_viewers": 3, "followers_gained": 107, "peak_viewers": 16, "hours_streamed": 112, "streams": 35, "mature": 0, "language": "English", "account_age": 1850400.0}

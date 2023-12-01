@@ -1,0 +1,1 @@
+{"channel": "sgesportsbr", "avg_viewers": 97, "followers_gained": 123, "peak_viewers": 701, "hours_streamed": 33, "streams": 10, "mature": 0, "language": "Portuguese", "account_age": 1575360.0}

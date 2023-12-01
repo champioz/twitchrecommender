@@ -1,0 +1,1 @@
+{"channel": "ducky0413", "avg_viewers": 16, "followers_gained": 80, "peak_viewers": 51, "hours_streamed": 117, "streams": 28, "mature": 0, "language": "Korean", "account_age": 1059840.0}

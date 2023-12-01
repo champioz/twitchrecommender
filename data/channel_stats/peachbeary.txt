@@ -1,0 +1,1 @@
+{"channel": "peachbeary", "avg_viewers": 6, "followers_gained": 11, "peak_viewers": 16, "hours_streamed": 60, "streams": 16, "mature": 1, "language": "English", "account_age": 833760.0}

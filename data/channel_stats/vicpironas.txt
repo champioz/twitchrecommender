@@ -1,0 +1,1 @@
+{"channel": "vicpironas", "avg_viewers": 1, "followers_gained": 16, "peak_viewers": 48, "hours_streamed": 62, "streams": 26, "mature": 0, "language": "Portuguese", "account_age": 3168000.0}

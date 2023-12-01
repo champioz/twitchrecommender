@@ -1,0 +1,1 @@
+{"channel": "yumegiwa777", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 37, "streams": 20, "mature": 0, "language": "Japanese", "account_age": 1429920.0}

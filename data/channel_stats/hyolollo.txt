@@ -1,0 +1,1 @@
+{"channel": "hyolollo", "avg_viewers": 10, "followers_gained": 3, "peak_viewers": 22, "hours_streamed": 141, "streams": 21, "mature": 0, "language": "Korean", "account_age": 900000.0}

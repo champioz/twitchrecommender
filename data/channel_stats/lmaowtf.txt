@@ -1,0 +1,1 @@
+{"channel": "lmaowtf", "avg_viewers": 8, "followers_gained": 858, "peak_viewers": 18, "hours_streamed": 169, "streams": 35, "mature": 0, "language": "English", "account_age": 2714400.0}

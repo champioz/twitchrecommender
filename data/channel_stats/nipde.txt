@@ -1,0 +1,1 @@
+{"channel": "nipde", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 14, "hours_streamed": 14, "streams": 4, "mature": 0, "language": "English", "account_age": 4098240.0}

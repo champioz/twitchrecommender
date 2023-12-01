@@ -1,0 +1,1 @@
+{"channel": "lowley", "avg_viewers": 9, "followers_gained": 173, "peak_viewers": 61, "hours_streamed": 198, "streams": 45, "mature": 0, "language": "English", "account_age": 1824480.0}

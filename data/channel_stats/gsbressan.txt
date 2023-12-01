@@ -1,0 +1,1 @@
+{"channel": "gsbressan", "avg_viewers": 22, "followers_gained": 50, "peak_viewers": 73, "hours_streamed": 113, "streams": 23, "mature": 1, "language": "Portuguese", "account_age": 3202560.0}

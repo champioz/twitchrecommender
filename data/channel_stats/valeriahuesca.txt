@@ -1,0 +1,1 @@
+{"channel": "valeriahuesca", "avg_viewers": 18, "followers_gained": 480, "peak_viewers": 48, "hours_streamed": 67, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 1690560.0}

@@ -1,0 +1,1 @@
+{"channel": "whyyyyyyysoserious", "avg_viewers": 101, "followers_gained": 473, "peak_viewers": 215, "hours_streamed": 172, "streams": 30, "mature": 0, "language": "English", "account_age": 1740960.0}

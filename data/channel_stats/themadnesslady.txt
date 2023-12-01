@@ -1,0 +1,1 @@
+{"channel": "themadnesslady", "avg_viewers": 7, "followers_gained": 34, "peak_viewers": 50, "hours_streamed": 33, "streams": 16, "mature": 1, "language": "Spanish", "account_age": 3322080.0}

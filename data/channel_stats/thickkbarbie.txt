@@ -1,0 +1,1 @@
+{"channel": "thickkbarbie", "avg_viewers": 1, "followers_gained": 29, "peak_viewers": 23, "hours_streamed": 87, "streams": 36, "mature": 1, "language": "English", "account_age": 797760.0}

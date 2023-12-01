@@ -1,0 +1,1 @@
+{"channel": "generalwiggins", "avg_viewers": 11, "followers_gained": 79, "peak_viewers": 31, "hours_streamed": 61, "streams": 19, "mature": 0, "language": "English", "account_age": 2014560.0}

@@ -1,0 +1,1 @@
+{"channel": "moikka11", "avg_viewers": 44, "followers_gained": 103, "peak_viewers": 125, "hours_streamed": 111, "streams": 30, "mature": 1, "language": "Finnish", "account_age": 2828160.0}

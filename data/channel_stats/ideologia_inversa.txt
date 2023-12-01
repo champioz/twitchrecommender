@@ -1,0 +1,1 @@
+{"channel": "ideologia_inversa", "avg_viewers": 21, "followers_gained": 6, "peak_viewers": 32, "hours_streamed": 9, "streams": 4, "mature": 1, "language": "Spanish", "account_age": 1120320.0}

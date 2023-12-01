@@ -1,0 +1,1 @@
+{"channel": "n1hll_", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 17, "hours_streamed": 19, "streams": 12, "mature": 1, "language": "French", "account_age": 1141920.0}

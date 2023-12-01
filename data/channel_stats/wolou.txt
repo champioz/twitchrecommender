@@ -1,0 +1,1 @@
+{"channel": "wolou", "avg_viewers": 201, "followers_gained": 184, "peak_viewers": 357, "hours_streamed": 97, "streams": 24, "mature": 1, "language": "German", "account_age": 2507040.0}

@@ -1,0 +1,1 @@
+{"channel": "deyiii", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 377280.0}

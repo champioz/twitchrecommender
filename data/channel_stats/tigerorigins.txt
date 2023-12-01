@@ -1,0 +1,1 @@
+{"channel": "tigerorigins", "avg_viewers": 22, "followers_gained": 56, "peak_viewers": 121, "hours_streamed": 81, "streams": 27, "mature": 0, "language": "English", "account_age": 2864160.0}

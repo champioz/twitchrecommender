@@ -1,0 +1,1 @@
+{"channel": "freakyskull516", "avg_viewers": 0, "followers_gained": 8, "peak_viewers": 8, "hours_streamed": 71, "streams": 31, "mature": 1, "language": "English", "account_age": 2931840.0}

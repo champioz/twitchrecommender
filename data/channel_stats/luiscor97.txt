@@ -1,0 +1,1 @@
+{"channel": "luiscor97", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 27, "hours_streamed": 64, "streams": 26, "mature": 1, "language": "Spanish", "account_age": 2664000.0}

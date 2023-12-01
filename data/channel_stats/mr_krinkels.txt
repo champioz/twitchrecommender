@@ -1,0 +1,1 @@
+{"channel": "mr_krinkels", "avg_viewers": 29, "followers_gained": 50, "peak_viewers": 63, "hours_streamed": 15, "streams": 7, "mature": 1, "language": "English", "account_age": 3713760.0}

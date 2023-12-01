@@ -1,0 +1,1 @@
+{"channel": "akimaro8318", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 16, "hours_streamed": 59, "streams": 32, "mature": 0, "language": "English", "account_age": 449280.0}

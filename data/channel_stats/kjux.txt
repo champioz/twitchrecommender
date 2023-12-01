@@ -1,0 +1,1 @@
+{"channel": "kjux", "avg_viewers": 5, "followers_gained": 15, "peak_viewers": 17, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "German", "account_age": 1805760.0}

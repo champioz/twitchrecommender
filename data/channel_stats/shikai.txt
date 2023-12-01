@@ -1,0 +1,1 @@
+{"channel": "shikai", "avg_viewers": 345, "followers_gained": 3084, "peak_viewers": 1354, "hours_streamed": 198, "streams": 26, "mature": 0, "language": "Portuguese", "account_age": 3339360.0}

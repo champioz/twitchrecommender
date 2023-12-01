@@ -1,0 +1,1 @@
+{"channel": "the4thgengamer", "avg_viewers": 49, "followers_gained": 341, "peak_viewers": 95, "hours_streamed": 29, "streams": 13, "mature": 1, "language": "English", "account_age": 3119040.0}

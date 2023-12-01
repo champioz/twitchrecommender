@@ -1,0 +1,1 @@
+{"channel": "quake3aren", "avg_viewers": 5, "followers_gained": 12, "peak_viewers": 31, "hours_streamed": 46, "streams": 18, "mature": 0, "language": "Russian", "account_age": 2077920.0}

@@ -1,0 +1,1 @@
+{"channel": "xonevagrant", "avg_viewers": 12, "followers_gained": 9, "peak_viewers": 50, "hours_streamed": 53, "streams": 11, "mature": 1, "language": "German", "account_age": 2350080.0}

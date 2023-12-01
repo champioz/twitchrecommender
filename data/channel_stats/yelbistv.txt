@@ -1,0 +1,1 @@
+{"channel": "yelbistv", "avg_viewers": 81, "followers_gained": 140, "peak_viewers": 200, "hours_streamed": 42, "streams": 13, "mature": 0, "language": "Turkish", "account_age": 308160.0}

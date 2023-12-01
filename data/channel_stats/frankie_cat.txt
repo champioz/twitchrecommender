@@ -1,0 +1,1 @@
+{"channel": "frankie_cat", "avg_viewers": 3, "followers_gained": 13, "peak_viewers": 13, "hours_streamed": 104, "streams": 26, "mature": 0, "language": "Chinese (Hong Kong SAR)", "account_age": 2260800.0}

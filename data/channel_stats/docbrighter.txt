@@ -1,0 +1,1 @@
+{"channel": "docbrighter", "avg_viewers": 66, "followers_gained": 50, "peak_viewers": 159, "hours_streamed": 38, "streams": 10, "mature": 1, "language": "German", "account_age": 1679040.0}

@@ -1,0 +1,1 @@
+{"channel": "maniac1122", "avg_viewers": 2, "followers_gained": 122, "peak_viewers": 10, "hours_streamed": 67, "streams": 20, "mature": 0, "language": "English", "account_age": 4347360.0}

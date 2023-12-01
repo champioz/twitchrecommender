@@ -1,0 +1,1 @@
+{"channel": "adammts02", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 15, "hours_streamed": 27, "streams": 10, "mature": 0, "language": "English", "account_age": 828000.0}

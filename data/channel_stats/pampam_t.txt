@@ -1,0 +1,1 @@
+{"channel": "pampam_t", "avg_viewers": 19, "followers_gained": 365, "peak_viewers": 50, "hours_streamed": 40, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 868320.0}

@@ -1,0 +1,1 @@
+{"channel": "asaamu", "avg_viewers": 22, "followers_gained": 23, "peak_viewers": 49, "hours_streamed": 11, "streams": 6, "mature": 0, "language": "Japanese", "account_age": 1342080.0}

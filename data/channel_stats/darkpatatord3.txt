@@ -1,0 +1,1 @@
+{"channel": "darkpatatord3", "avg_viewers": 27, "followers_gained": 8, "peak_viewers": 46, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "English", "account_age": 3752640.0}

@@ -1,0 +1,1 @@
+{"channel": "stormzcod", "avg_viewers": 17, "followers_gained": 10, "peak_viewers": 47, "hours_streamed": 22, "streams": 5, "mature": 1, "language": "German", "account_age": 2414880.0}

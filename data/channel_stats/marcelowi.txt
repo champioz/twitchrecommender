@@ -1,0 +1,1 @@
+{"channel": "marcelowi", "avg_viewers": 20, "followers_gained": 21, "peak_viewers": 74, "hours_streamed": 26, "streams": 4, "mature": 1, "language": "Portuguese", "account_age": 1956960.0}

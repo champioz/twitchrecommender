@@ -1,0 +1,1 @@
+{"channel": "shadowwisher", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 47, "streams": 19, "mature": 1, "language": "English", "account_age": 2838240.0}

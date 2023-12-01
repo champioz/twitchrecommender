@@ -1,0 +1,1 @@
+{"channel": "sunbrokuu", "avg_viewers": 90, "followers_gained": 38, "peak_viewers": 250, "hours_streamed": 49, "streams": 15, "mature": 1, "language": "English", "account_age": 1802880.0}

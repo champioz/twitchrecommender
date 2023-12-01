@@ -1,0 +1,1 @@
+{"channel": "solidr6s", "avg_viewers": 5, "followers_gained": 57, "peak_viewers": 35, "hours_streamed": 25, "streams": 11, "mature": 1, "language": "Hungarian", "account_age": 989280.0}

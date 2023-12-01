@@ -1,0 +1,1 @@
+{"channel": "the8bitdrummer", "avg_viewers": 519, "followers_gained": 4113, "peak_viewers": 871, "hours_streamed": 57, "streams": 18, "mature": 0, "language": "English", "account_age": 2723040.0}

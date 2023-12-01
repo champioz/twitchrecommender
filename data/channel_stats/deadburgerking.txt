@@ -1,0 +1,1 @@
+{"channel": "deadburgerking", "avg_viewers": 15, "followers_gained": 14, "peak_viewers": 36, "hours_streamed": 10, "streams": 2, "mature": 1, "language": "English", "account_age": 2095200.0}

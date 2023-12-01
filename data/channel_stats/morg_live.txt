@@ -1,0 +1,1 @@
+{"channel": "morg_live", "avg_viewers": 88, "followers_gained": 324, "peak_viewers": 267, "hours_streamed": 54, "streams": 19, "mature": 0, "language": "Turkish", "account_age": 748800.0}

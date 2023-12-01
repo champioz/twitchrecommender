@@ -1,0 +1,1 @@
+{"channel": "ffxiv_sneakystabby", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 13, "hours_streamed": 28, "streams": 9, "mature": 1, "language": "English", "account_age": 1157760.0}

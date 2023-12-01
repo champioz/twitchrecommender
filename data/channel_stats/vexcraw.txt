@@ -1,0 +1,1 @@
+{"channel": "vexcraw", "avg_viewers": 7, "followers_gained": 161, "peak_viewers": 27, "hours_streamed": 189, "streams": 39, "mature": 0, "language": "Portuguese", "account_age": 302400.0}

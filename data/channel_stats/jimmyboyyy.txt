@@ -1,0 +1,1 @@
+{"channel": "jimmyboyyy", "avg_viewers": 110, "followers_gained": 2531, "peak_viewers": 349, "hours_streamed": 103, "streams": 26, "mature": 0, "language": "French", "account_age": 3090240.0}

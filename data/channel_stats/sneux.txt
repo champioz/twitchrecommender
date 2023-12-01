@@ -1,0 +1,1 @@
+{"channel": "sneux", "avg_viewers": 968, "followers_gained": 4921, "peak_viewers": 8885, "hours_streamed": 115, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 1470240.0}

@@ -1,0 +1,1 @@
+{"channel": "antphrodite", "avg_viewers": 265, "followers_gained": 1265, "peak_viewers": 2503, "hours_streamed": 70, "streams": 19, "mature": 0, "language": "English", "account_age": 2292480.0}

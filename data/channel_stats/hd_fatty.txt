@@ -1,0 +1,1 @@
+{"channel": "hd_fatty", "avg_viewers": 13, "followers_gained": 36, "peak_viewers": 34, "hours_streamed": 37, "streams": 17, "mature": 1, "language": "English", "account_age": 698400.0}

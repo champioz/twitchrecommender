@@ -1,0 +1,1 @@
+{"channel": "sleepingbear", "avg_viewers": 107, "followers_gained": 611, "peak_viewers": 362, "hours_streamed": 183, "streams": 25, "mature": 0, "language": "English", "account_age": 3373920.0}

@@ -1,0 +1,1 @@
+{"channel": "angryzellerstv", "avg_viewers": 6, "followers_gained": 18, "peak_viewers": 20, "hours_streamed": 24, "streams": 12, "mature": 1, "language": "English", "account_age": 1974240.0}

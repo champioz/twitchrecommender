@@ -1,0 +1,1 @@
+{"channel": "kurolily", "avg_viewers": 227, "followers_gained": 1026, "peak_viewers": 528, "hours_streamed": 158, "streams": 39, "mature": 0, "language": "Italian", "account_age": 3290400.0}

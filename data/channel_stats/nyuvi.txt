@@ -1,0 +1,1 @@
+{"channel": "nyuvi", "avg_viewers": 17, "followers_gained": 139, "peak_viewers": 82, "hours_streamed": 36, "streams": 14, "mature": 0, "language": "Spanish", "account_age": 915840.0}

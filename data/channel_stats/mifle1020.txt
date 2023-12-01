@@ -1,0 +1,1 @@
+{"channel": "mifle1020", "avg_viewers": 6, "followers_gained": 63, "peak_viewers": 20, "hours_streamed": 65, "streams": 27, "mature": 0, "language": "Spanish", "account_age": 1055520.0}

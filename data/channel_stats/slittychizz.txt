@@ -1,0 +1,1 @@
+{"channel": "slittychizz", "avg_viewers": 6, "followers_gained": 119, "peak_viewers": 19, "hours_streamed": 223, "streams": 65, "mature": 0, "language": "English", "account_age": 493920.0}

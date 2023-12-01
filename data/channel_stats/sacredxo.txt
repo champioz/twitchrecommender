@@ -1,0 +1,1 @@
+{"channel": "sacredxo", "avg_viewers": 35, "followers_gained": 249, "peak_viewers": 127, "hours_streamed": 79, "streams": 20, "mature": 0, "language": "English", "account_age": 1663200.0}

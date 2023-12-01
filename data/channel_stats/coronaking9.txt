@@ -1,0 +1,1 @@
+{"channel": "coronaking9", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 13, "hours_streamed": 101, "streams": 31, "mature": 1, "language": "English", "account_age": 2769120.0}

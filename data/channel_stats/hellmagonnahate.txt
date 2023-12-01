@@ -1,0 +1,1 @@
+{"channel": "hellmagonnahate", "avg_viewers": 35, "followers_gained": 136, "peak_viewers": 93, "hours_streamed": 23, "streams": 8, "mature": 1, "language": "Russian", "account_age": 1306080.0}

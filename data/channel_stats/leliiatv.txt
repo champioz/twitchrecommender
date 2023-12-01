@@ -1,0 +1,1 @@
+{"channel": "leliiatv", "avg_viewers": 66, "followers_gained": 511, "peak_viewers": 714, "hours_streamed": 86, "streams": 23, "mature": 1, "language": "French", "account_age": 1427040.0}

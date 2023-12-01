@@ -1,0 +1,1 @@
+{"channel": "nnabi", "avg_viewers": 378, "followers_gained": 6846, "peak_viewers": 1436, "hours_streamed": 125, "streams": 22, "mature": 0, "language": "Korean", "account_age": 486720.0}

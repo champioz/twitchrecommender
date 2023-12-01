@@ -1,0 +1,1 @@
+{"channel": "keitarotime", "avg_viewers": 275, "followers_gained": 1081, "peak_viewers": 1050, "hours_streamed": 51, "streams": 12, "mature": 0, "language": "English", "account_age": 5549760.0}

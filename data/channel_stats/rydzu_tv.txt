@@ -1,0 +1,1 @@
+{"channel": "rydzu_tv", "avg_viewers": 11, "followers_gained": 135, "peak_viewers": 31, "hours_streamed": 48, "streams": 22, "mature": 0, "language": "Polish", "account_age": 1452960.0}

@@ -1,0 +1,1 @@
+{"channel": "morgausse", "avg_viewers": 31, "followers_gained": 33, "peak_viewers": 208, "hours_streamed": 60, "streams": 18, "mature": 0, "language": "English", "account_age": 4007520.0}

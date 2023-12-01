@@ -1,0 +1,1 @@
+{"channel": "wazminator", "avg_viewers": 117, "followers_gained": 424, "peak_viewers": 337, "hours_streamed": 80, "streams": 21, "mature": 0, "language": "English", "account_age": 3529440.0}

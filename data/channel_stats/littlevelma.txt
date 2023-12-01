@@ -1,0 +1,1 @@
+{"channel": "littlevelma", "avg_viewers": 67, "followers_gained": 64, "peak_viewers": 133, "hours_streamed": 6, "streams": 4, "mature": 1, "language": "Portuguese", "account_age": 1195200.0}

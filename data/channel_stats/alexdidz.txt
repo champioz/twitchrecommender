@@ -1,0 +1,1 @@
+{"channel": "alexdidz", "avg_viewers": 25, "followers_gained": 62, "peak_viewers": 115, "hours_streamed": 187, "streams": 36, "mature": 0, "language": "English", "account_age": 2547360.0}

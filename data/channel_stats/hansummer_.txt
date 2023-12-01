@@ -1,0 +1,1 @@
+{"channel": "hansummer_", "avg_viewers": 46, "followers_gained": 57, "peak_viewers": 120, "hours_streamed": 154, "streams": 22, "mature": 0, "language": "Korean", "account_age": 1442880.0}

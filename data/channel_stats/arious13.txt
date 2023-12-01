@@ -1,0 +1,1 @@
+{"channel": "arious13", "avg_viewers": 35, "followers_gained": 524, "peak_viewers": 864, "hours_streamed": 173, "streams": 23, "mature": 1, "language": "English", "account_age": 2342880.0}

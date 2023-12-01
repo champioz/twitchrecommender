@@ -1,0 +1,1 @@
+{"channel": "bigcountry7914", "avg_viewers": 5, "followers_gained": 52, "peak_viewers": 19, "hours_streamed": 54, "streams": 15, "mature": 1, "language": "English", "account_age": 1301760.0}

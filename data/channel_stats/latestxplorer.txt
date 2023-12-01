@@ -1,0 +1,1 @@
+{"channel": "latestxplorer", "avg_viewers": 8, "followers_gained": 13, "peak_viewers": 23, "hours_streamed": 12, "streams": 24, "mature": 1, "language": "English", "account_age": 1795680.0}

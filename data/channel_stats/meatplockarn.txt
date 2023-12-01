@@ -1,0 +1,1 @@
+{"channel": "meatplockarn", "avg_viewers": 8, "followers_gained": 6, "peak_viewers": 29, "hours_streamed": 31, "streams": 8, "mature": 1, "language": "Swedish", "account_age": 3705120.0}

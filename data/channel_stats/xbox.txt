@@ -1,0 +1,1 @@
+{"channel": "xbox", "avg_viewers": 69, "followers_gained": 410, "peak_viewers": 352, "hours_streamed": 25, "streams": 16, "mature": 1, "language": "English", "account_age": 3840480.0}

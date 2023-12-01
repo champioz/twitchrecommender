@@ -1,0 +1,1 @@
+{"channel": "thiagoch", "avg_viewers": 21, "followers_gained": 27, "peak_viewers": 68, "hours_streamed": 61, "streams": 19, "mature": 1, "language": "English", "account_age": 1297440.0}

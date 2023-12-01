@@ -1,0 +1,1 @@
+{"channel": "samuse", "avg_viewers": 298, "followers_gained": 2612, "peak_viewers": 1524, "hours_streamed": 112, "streams": 20, "mature": 0, "language": "French", "account_age": 2096640.0}

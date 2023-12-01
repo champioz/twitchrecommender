@@ -1,0 +1,1 @@
+{"channel": "yoshi100_aus", "avg_viewers": 8, "followers_gained": 43, "peak_viewers": 28, "hours_streamed": 107, "streams": 24, "mature": 0, "language": "English", "account_age": 2073600.0}

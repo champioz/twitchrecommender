@@ -1,0 +1,1 @@
+{"channel": "bus7azz", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "Bulgarian", "account_age": 3333600.0}

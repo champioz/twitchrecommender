@@ -1,0 +1,1 @@
+{"channel": "kelbuttrue", "avg_viewers": 19, "followers_gained": 46, "peak_viewers": 48, "hours_streamed": 16, "streams": 6, "mature": 0, "language": "Turkish", "account_age": 1919520.0}

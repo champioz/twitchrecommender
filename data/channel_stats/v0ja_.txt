@@ -1,0 +1,1 @@
+{"channel": "v0ja_", "avg_viewers": 26, "followers_gained": 1, "peak_viewers": 40, "hours_streamed": 1, "streams": 1, "mature": 1, "language": "French", "account_age": 4142880.0}

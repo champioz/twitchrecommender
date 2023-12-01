@@ -1,0 +1,1 @@
+{"channel": "zerojmgames", "avg_viewers": 30, "followers_gained": 2152, "peak_viewers": 60, "hours_streamed": 179, "streams": 46, "mature": 0, "language": "Spanish", "account_age": 876960.0}

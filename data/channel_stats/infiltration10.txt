@@ -1,0 +1,1 @@
+{"channel": "infiltration10", "avg_viewers": 61, "followers_gained": 66, "peak_viewers": 247, "hours_streamed": 83, "streams": 15, "mature": 1, "language": "English", "account_age": 2328480.0}

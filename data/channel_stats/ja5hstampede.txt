@@ -1,0 +1,1 @@
+{"channel": "ja5hstampede", "avg_viewers": 9, "followers_gained": 31, "peak_viewers": 75, "hours_streamed": 50, "streams": 12, "mature": 1, "language": "English", "account_age": 1094400.0}

@@ -1,0 +1,1 @@
+{"channel": "lagoon0815", "avg_viewers": 137, "followers_gained": 269, "peak_viewers": 337, "hours_streamed": 110, "streams": 22, "mature": 1, "language": "German", "account_age": 2662560.0}

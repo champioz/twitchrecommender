@@ -1,0 +1,1 @@
+{"channel": "papagansim", "avg_viewers": 50, "followers_gained": 45, "peak_viewers": 74, "hours_streamed": 12, "streams": 6, "mature": 0, "language": "Turkish", "account_age": 1265760.0}

@@ -1,0 +1,1 @@
+{"channel": "jennykim", "avg_viewers": 11, "followers_gained": 56, "peak_viewers": 22, "hours_streamed": 17, "streams": 6, "mature": 0, "language": "English", "account_age": 642240.0}

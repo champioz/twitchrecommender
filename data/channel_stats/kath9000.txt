@@ -1,0 +1,1 @@
+{"channel": "kath9000", "avg_viewers": 12, "followers_gained": 89, "peak_viewers": 32, "hours_streamed": 176, "streams": 33, "mature": 1, "language": "Polish", "account_age": 2390400.0}

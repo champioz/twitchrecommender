@@ -1,0 +1,1 @@
+{"channel": "mondsuechtig", "avg_viewers": 10, "followers_gained": 54, "peak_viewers": 28, "hours_streamed": 121, "streams": 30, "mature": 0, "language": "German", "account_age": 1782720.0}

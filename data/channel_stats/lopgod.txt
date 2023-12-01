@@ -1,0 +1,1 @@
+{"channel": "lopgod", "avg_viewers": 18, "followers_gained": 205, "peak_viewers": 140, "hours_streamed": 71, "streams": 21, "mature": 1, "language": "Bulgarian", "account_age": 3398400.0}

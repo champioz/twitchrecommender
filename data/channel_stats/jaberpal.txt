@@ -1,0 +1,1 @@
+{"channel": "jaberpal", "avg_viewers": 9, "followers_gained": 2, "peak_viewers": 20, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "Finnish", "account_age": 1627200.0}

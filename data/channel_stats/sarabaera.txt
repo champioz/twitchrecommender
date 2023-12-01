@@ -1,0 +1,1 @@
+{"channel": "sarabaera", "avg_viewers": 20, "followers_gained": 160, "peak_viewers": 38, "hours_streamed": 45, "streams": 9, "mature": 1, "language": "English", "account_age": 861120.0}

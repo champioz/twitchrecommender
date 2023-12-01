@@ -1,0 +1,1 @@
+{"channel": "mrdisyy", "avg_viewers": 141, "followers_gained": 1396, "peak_viewers": 705, "hours_streamed": 111, "streams": 27, "mature": 1, "language": "Spanish", "account_age": 3526560.0}

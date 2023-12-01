@@ -1,0 +1,1 @@
+{"channel": "vincentsang36", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 8, "hours_streamed": 19, "streams": 6, "mature": 0, "language": "Chinese (Hong Kong SAR)", "account_age": 3575520.0}

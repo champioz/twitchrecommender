@@ -1,0 +1,1 @@
+{"channel": "krewlex", "avg_viewers": 36, "followers_gained": 121, "peak_viewers": 86, "hours_streamed": 69, "streams": 22, "mature": 0, "language": "English", "account_age": 2406240.0}

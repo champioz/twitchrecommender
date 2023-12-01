@@ -1,0 +1,1 @@
+{"channel": "tenyashalol", "avg_viewers": 6, "followers_gained": 4, "peak_viewers": 10, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 1114560.0}

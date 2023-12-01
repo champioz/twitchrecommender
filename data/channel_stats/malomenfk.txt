@@ -1,0 +1,1 @@
+{"channel": "malomenfk", "avg_viewers": 0, "followers_gained": 9, "peak_viewers": 6, "hours_streamed": 78, "streams": 35, "mature": 0, "language": "Portuguese", "account_age": 3044160.0}

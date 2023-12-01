@@ -1,0 +1,1 @@
+{"channel": "mishmanners", "avg_viewers": 5, "followers_gained": 26, "peak_viewers": 28, "hours_streamed": 36, "streams": 14, "mature": 0, "language": "English", "account_age": 1722240.0}

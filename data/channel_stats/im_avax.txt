@@ -1,0 +1,1 @@
+{"channel": "im_avax", "avg_viewers": 2, "followers_gained": 42, "peak_viewers": 10, "hours_streamed": 18, "streams": 14, "mature": 0, "language": "Other", "account_age": 498240.0}

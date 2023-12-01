@@ -1,0 +1,1 @@
+{"channel": "xerogaviazzus", "avg_viewers": 14, "followers_gained": 59, "peak_viewers": 45, "hours_streamed": 37, "streams": 21, "mature": 1, "language": "Czech", "account_age": 1487520.0}

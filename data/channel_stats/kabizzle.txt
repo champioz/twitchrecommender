@@ -1,0 +1,1 @@
+{"channel": "kabizzle", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 13, "hours_streamed": 192, "streams": 28, "mature": 1, "language": "English", "account_age": 728640.0}

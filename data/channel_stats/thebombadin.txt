@@ -1,0 +1,1 @@
+{"channel": "thebombadin", "avg_viewers": 11, "followers_gained": 33, "peak_viewers": 43, "hours_streamed": 43, "streams": 16, "mature": 0, "language": "German", "account_age": 2980800.0}

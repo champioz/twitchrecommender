@@ -1,0 +1,1 @@
+{"channel": "sharkie_tv", "avg_viewers": 5, "followers_gained": 46, "peak_viewers": 136, "hours_streamed": 226, "streams": 43, "mature": 0, "language": "English", "account_age": 3888000.0}

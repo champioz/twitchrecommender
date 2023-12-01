@@ -1,0 +1,1 @@
+{"channel": "thedapperking", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 16, "hours_streamed": 20, "streams": 6, "mature": 0, "language": "English", "account_age": 2869920.0}

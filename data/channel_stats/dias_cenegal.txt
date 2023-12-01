@@ -1,0 +1,1 @@
+{"channel": "dias_cenegal", "avg_viewers": 10, "followers_gained": 4, "peak_viewers": 20, "hours_streamed": 0, "streams": 2, "mature": 1, "language": "Portuguese", "account_age": 2547360.0}

@@ -1,0 +1,1 @@
+{"channel": "bebert057", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 25, "streams": 17, "mature": 1, "language": "French", "account_age": 2818080.0}

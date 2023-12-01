@@ -1,0 +1,1 @@
+{"channel": "rafaelnizzys", "avg_viewers": 4, "followers_gained": 44, "peak_viewers": 11, "hours_streamed": 95, "streams": 25, "mature": 1, "language": "Portuguese", "account_age": 1457280.0}

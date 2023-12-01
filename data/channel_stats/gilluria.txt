@@ -1,0 +1,1 @@
+{"channel": "gilluria", "avg_viewers": 9, "followers_gained": 10, "peak_viewers": 18, "hours_streamed": 70, "streams": 19, "mature": 1, "language": "English", "account_age": 3391200.0}

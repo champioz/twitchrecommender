@@ -1,0 +1,1 @@
+{"channel": "yunalescka", "avg_viewers": 83, "followers_gained": 87, "peak_viewers": 199, "hours_streamed": 101, "streams": 21, "mature": 0, "language": "English", "account_age": 2344320.0}

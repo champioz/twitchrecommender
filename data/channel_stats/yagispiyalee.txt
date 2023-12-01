@@ -1,0 +1,1 @@
+{"channel": "yagispiyalee", "avg_viewers": 7, "followers_gained": 150, "peak_viewers": 23, "hours_streamed": 69, "streams": 20, "mature": 1, "language": "Turkish", "account_age": 2666880.0}

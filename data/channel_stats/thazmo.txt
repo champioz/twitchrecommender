@@ -1,0 +1,1 @@
+{"channel": "thazmo", "avg_viewers": 1, "followers_gained": 12, "peak_viewers": 5, "hours_streamed": 111, "streams": 46, "mature": 0, "language": "English", "account_age": 2998080.0}

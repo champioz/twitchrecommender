@@ -1,0 +1,1 @@
+{"channel": "bigalgaming1", "avg_viewers": 6, "followers_gained": 42, "peak_viewers": 45, "hours_streamed": 238, "streams": 31, "mature": 1, "language": "English", "account_age": 1686240.0}

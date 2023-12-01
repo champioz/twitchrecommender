@@ -1,0 +1,1 @@
+{"channel": "lucky_hd", "avg_viewers": 2, "followers_gained": 24, "peak_viewers": 9, "hours_streamed": 98, "streams": 34, "mature": 1, "language": "Italian", "account_age": 2455200.0}

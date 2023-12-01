@@ -1,0 +1,1 @@
+{"channel": "erdemli", "avg_viewers": 5, "followers_gained": 10, "peak_viewers": 12, "hours_streamed": 40, "streams": 14, "mature": 1, "language": "Turkish", "account_age": 842400.0}

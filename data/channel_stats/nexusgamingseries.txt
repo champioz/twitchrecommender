@@ -1,0 +1,1 @@
+{"channel": "nexusgamingseries", "avg_viewers": 25, "followers_gained": 19, "peak_viewers": 105, "hours_streamed": 6, "streams": 5, "mature": 0, "language": "English", "account_age": 1114560.0}

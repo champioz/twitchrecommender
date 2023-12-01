@@ -1,0 +1,1 @@
+{"channel": "dubbskii", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 12, "hours_streamed": 14, "streams": 6, "mature": 0, "language": "English", "account_age": 743040.0}

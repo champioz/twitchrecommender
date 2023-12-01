@@ -1,0 +1,1 @@
+{"channel": "alexescarlata", "avg_viewers": 1, "followers_gained": 11, "peak_viewers": 5, "hours_streamed": 10, "streams": 7, "mature": 1, "language": "Spanish", "account_age": 950400.0}

@@ -1,0 +1,1 @@
+{"channel": "stealthymcninja", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 7, "hours_streamed": 12, "streams": 4, "mature": 1, "language": "English", "account_age": 928800.0}

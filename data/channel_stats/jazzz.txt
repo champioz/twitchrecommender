@@ -1,0 +1,1 @@
+{"channel": "jazzz", "avg_viewers": 13, "followers_gained": 47, "peak_viewers": 30, "hours_streamed": 88, "streams": 22, "mature": 1, "language": "English", "account_age": 2617920.0}

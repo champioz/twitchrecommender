@@ -1,0 +1,1 @@
+{"channel": "hypeklk", "avg_viewers": 90, "followers_gained": 330, "peak_viewers": 290, "hours_streamed": 120, "streams": 29, "mature": 1, "language": "Spanish", "account_age": 1582560.0}

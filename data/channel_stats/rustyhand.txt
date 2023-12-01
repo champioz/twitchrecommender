@@ -1,0 +1,1 @@
+{"channel": "rustyhand", "avg_viewers": 51, "followers_gained": 12, "peak_viewers": 86, "hours_streamed": 4, "streams": 1, "mature": 1, "language": "English", "account_age": 2230560.0}

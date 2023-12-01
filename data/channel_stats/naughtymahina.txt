@@ -1,0 +1,1 @@
+{"channel": "naughtymahina", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 16, "hours_streamed": 77, "streams": 17, "mature": 1, "language": "English", "account_age": 3507840.0}

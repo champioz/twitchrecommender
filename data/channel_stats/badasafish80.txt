@@ -1,0 +1,1 @@
+{"channel": "badasafish80", "avg_viewers": 175, "followers_gained": 464, "peak_viewers": 319, "hours_streamed": 168, "streams": 18, "mature": 1, "language": "English", "account_age": 3201120.0}

@@ -1,0 +1,1 @@
+{"channel": "intyiciya", "avg_viewers": 17, "followers_gained": 26, "peak_viewers": 156, "hours_streamed": 129, "streams": 16, "mature": 1, "language": "Russian", "account_age": 3021120.0}

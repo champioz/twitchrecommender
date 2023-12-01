@@ -1,0 +1,1 @@
+{"channel": "mkooteh", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 38, "streams": 19, "mature": 1, "language": "English", "account_age": 1766880.0}

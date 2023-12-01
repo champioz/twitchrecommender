@@ -1,0 +1,1 @@
+{"channel": "linso1020", "avg_viewers": 11, "followers_gained": 0, "peak_viewers": 11, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "Chinese", "account_age": 1365120.0}

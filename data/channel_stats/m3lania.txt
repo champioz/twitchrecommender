@@ -1,0 +1,1 @@
+{"channel": "m3lania", "avg_viewers": 13, "followers_gained": 28, "peak_viewers": 28, "hours_streamed": 79, "streams": 15, "mature": 1, "language": "Russian", "account_age": 1467360.0}

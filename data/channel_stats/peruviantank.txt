@@ -1,0 +1,1 @@
+{"channel": "peruviantank", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 9, "hours_streamed": 280, "streams": 54, "mature": 0, "language": "English", "account_age": 2872800.0}

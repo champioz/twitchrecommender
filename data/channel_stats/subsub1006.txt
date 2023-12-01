@@ -1,0 +1,1 @@
+{"channel": "subsub1006", "avg_viewers": 21, "followers_gained": 114, "peak_viewers": 81, "hours_streamed": 230, "streams": 24, "mature": 0, "language": "Korean", "account_age": 1792800.0}

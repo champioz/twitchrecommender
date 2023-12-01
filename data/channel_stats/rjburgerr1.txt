@@ -1,0 +1,1 @@
+{"channel": "rjburgerr1", "avg_viewers": 62, "followers_gained": 0, "peak_viewers": 78, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 3002400.0}

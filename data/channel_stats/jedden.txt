@@ -1,0 +1,1 @@
+{"channel": "jedden", "avg_viewers": 18, "followers_gained": 132, "peak_viewers": 47, "hours_streamed": 70, "streams": 22, "mature": 1, "language": "English", "account_age": 4417920.0}

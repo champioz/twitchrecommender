@@ -1,0 +1,1 @@
+{"channel": "livewfb", "avg_viewers": 26, "followers_gained": 35, "peak_viewers": 61, "hours_streamed": 162, "streams": 21, "mature": 0, "language": "Swedish", "account_age": 2646720.0}

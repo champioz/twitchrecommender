@@ -1,0 +1,1 @@
+{"channel": "bay_l", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 7, "streams": 5, "mature": 0, "language": "Turkish", "account_age": 728640.0}

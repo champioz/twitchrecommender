@@ -1,0 +1,1 @@
+{"channel": "chapraew", "avg_viewers": 6, "followers_gained": 24, "peak_viewers": 43, "hours_streamed": 28, "streams": 13, "mature": 0, "language": "Thai", "account_age": 859680.0}

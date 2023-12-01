@@ -1,0 +1,1 @@
+{"channel": "pushaboss", "avg_viewers": 34, "followers_gained": 900, "peak_viewers": 1352, "hours_streamed": 365, "streams": 52, "mature": 0, "language": "Russian", "account_age": 1614240.0}

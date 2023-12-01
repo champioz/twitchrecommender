@@ -1,0 +1,1 @@
+{"channel": "kinypulse", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 8, "hours_streamed": 53, "streams": 33, "mature": 1, "language": "French", "account_age": 2725920.0}

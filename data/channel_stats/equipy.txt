@@ -1,0 +1,1 @@
+{"channel": "equipy", "avg_viewers": 8, "followers_gained": 21, "peak_viewers": 36, "hours_streamed": 25, "streams": 12, "mature": 0, "language": "English", "account_age": 2700000.0}

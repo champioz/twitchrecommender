@@ -1,0 +1,1 @@
+{"channel": "kwaslag", "avg_viewers": 3, "followers_gained": 32, "peak_viewers": 12, "hours_streamed": 45, "streams": 18, "mature": 1, "language": "Spanish", "account_age": 2273760.0}

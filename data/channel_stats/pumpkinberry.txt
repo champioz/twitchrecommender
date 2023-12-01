@@ -1,0 +1,1 @@
+{"channel": "pumpkinberry", "avg_viewers": 153, "followers_gained": 184, "peak_viewers": 356, "hours_streamed": 70, "streams": 17, "mature": 0, "language": "English", "account_age": 1974240.0}

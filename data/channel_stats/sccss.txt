@@ -1,0 +1,1 @@
+{"channel": "sccss", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 18, "streams": 7, "mature": 0, "language": "Korean", "account_age": 793440.0}

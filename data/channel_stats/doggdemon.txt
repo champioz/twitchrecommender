@@ -1,0 +1,1 @@
+{"channel": "doggdemon", "avg_viewers": 11, "followers_gained": 124, "peak_viewers": 92, "hours_streamed": 111, "streams": 17, "mature": 1, "language": "English", "account_age": 2913120.0}

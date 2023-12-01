@@ -1,0 +1,1 @@
+{"channel": "lvsyan", "avg_viewers": 73, "followers_gained": 184, "peak_viewers": 212, "hours_streamed": 86, "streams": 29, "mature": 0, "language": "Spanish", "account_age": 3595680.0}

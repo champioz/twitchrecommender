@@ -1,0 +1,1 @@
+{"channel": "kwarning", "avg_viewers": 8, "followers_gained": 11, "peak_viewers": 17, "hours_streamed": 20, "streams": 8, "mature": 1, "language": "English", "account_age": 2858400.0}

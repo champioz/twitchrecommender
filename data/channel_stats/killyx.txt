@@ -1,0 +1,1 @@
+{"channel": "killyx", "avg_viewers": 18, "followers_gained": 14, "peak_viewers": 71, "hours_streamed": 32, "streams": 14, "mature": 0, "language": "English", "account_age": 2386080.0}

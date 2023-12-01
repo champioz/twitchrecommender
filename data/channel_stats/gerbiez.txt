@@ -1,0 +1,1 @@
+{"channel": "gerbiez", "avg_viewers": 12, "followers_gained": 9, "peak_viewers": 23, "hours_streamed": 17, "streams": 7, "mature": 1, "language": "English", "account_age": 3612960.0}

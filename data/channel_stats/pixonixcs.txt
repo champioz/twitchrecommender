@@ -1,0 +1,1 @@
+{"channel": "pixonixcs", "avg_viewers": 1, "followers_gained": 19, "peak_viewers": 7, "hours_streamed": 20, "streams": 20, "mature": 0, "language": "Portuguese", "account_age": 263520.0}

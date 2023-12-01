@@ -1,0 +1,1 @@
+{"channel": "west_maple", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 16, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "Chinese", "account_age": 1792800.0}

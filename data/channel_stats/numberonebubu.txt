@@ -1,0 +1,1 @@
+{"channel": "numberonebubu", "avg_viewers": 80, "followers_gained": 2, "peak_viewers": 110, "hours_streamed": 14, "streams": 2, "mature": 0, "language": "German", "account_age": 2252160.0}

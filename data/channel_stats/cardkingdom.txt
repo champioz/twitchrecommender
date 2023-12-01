@@ -1,0 +1,1 @@
+{"channel": "cardkingdom", "avg_viewers": 43, "followers_gained": 131, "peak_viewers": 316, "hours_streamed": 69, "streams": 21, "mature": 0, "language": "English", "account_age": 2836800.0}

@@ -1,0 +1,1 @@
+{"channel": "madamegandalf", "avg_viewers": 74, "followers_gained": 368, "peak_viewers": 292, "hours_streamed": 177, "streams": 28, "mature": 0, "language": "English", "account_age": 2479680.0}

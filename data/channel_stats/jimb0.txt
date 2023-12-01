@@ -1,0 +1,1 @@
+{"channel": "jimb0", "avg_viewers": 82, "followers_gained": 152, "peak_viewers": 174, "hours_streamed": 66, "streams": 12, "mature": 1, "language": "English", "account_age": 5587200.0}

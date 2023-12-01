@@ -1,0 +1,1 @@
+{"channel": "lethamyr_rl", "avg_viewers": 286, "followers_gained": 5656, "peak_viewers": 797, "hours_streamed": 75, "streams": 23, "mature": 0, "language": "English", "account_age": 1847520.0}

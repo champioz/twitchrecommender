@@ -1,0 +1,1 @@
+{"channel": "kandyrew", "avg_viewers": 220, "followers_gained": 2098, "peak_viewers": 442, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "English", "account_age": 2152800.0}

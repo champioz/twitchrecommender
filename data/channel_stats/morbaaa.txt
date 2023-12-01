@@ -1,0 +1,1 @@
+{"channel": "morbaaa", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 9, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "Portuguese", "account_age": 660960.0}

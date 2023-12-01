@@ -1,0 +1,1 @@
+{"channel": "duncancantdie", "avg_viewers": 160, "followers_gained": 7, "peak_viewers": 285, "hours_streamed": 41, "streams": 12, "mature": 0, "language": "English", "account_age": 3034080.0}

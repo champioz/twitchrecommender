@@ -1,0 +1,1 @@
+{"channel": "nickdarick_", "avg_viewers": 4, "followers_gained": 19, "peak_viewers": 15, "hours_streamed": 99, "streams": 24, "mature": 1, "language": "English", "account_age": 2370240.0}

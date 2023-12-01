@@ -1,0 +1,1 @@
+{"channel": "dfresh1313", "avg_viewers": 5, "followers_gained": 12, "peak_viewers": 14, "hours_streamed": 47, "streams": 21, "mature": 1, "language": "English", "account_age": 2257920.0}

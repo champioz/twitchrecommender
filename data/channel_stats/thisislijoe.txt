@@ -1,0 +1,1 @@
+{"channel": "thisislijoe", "avg_viewers": 125, "followers_gained": 1, "peak_viewers": 197, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "English", "account_age": 3925440.0}

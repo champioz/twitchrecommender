@@ -1,0 +1,1 @@
+{"channel": "darcycrossz", "avg_viewers": 28, "followers_gained": 222, "peak_viewers": 62, "hours_streamed": 32, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 2445120.0}

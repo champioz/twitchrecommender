@@ -1,0 +1,1 @@
+{"channel": "ragang1", "avg_viewers": 93, "followers_gained": 317, "peak_viewers": 313, "hours_streamed": 160, "streams": 34, "mature": 0, "language": "Korean", "account_age": 2062080.0}

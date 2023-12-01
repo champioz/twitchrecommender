@@ -1,0 +1,1 @@
+{"channel": "fe_kyle", "avg_viewers": 10, "followers_gained": 23, "peak_viewers": 40, "hours_streamed": 74, "streams": 15, "mature": 1, "language": "English", "account_age": 2661120.0}

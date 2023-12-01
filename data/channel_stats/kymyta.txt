@@ -1,0 +1,1 @@
+{"channel": "kymyta", "avg_viewers": 8, "followers_gained": 51, "peak_viewers": 36, "hours_streamed": 45, "streams": 11, "mature": 1, "language": "Spanish", "account_age": 3143520.0}

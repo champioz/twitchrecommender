@@ -1,0 +1,1 @@
+{"channel": "hb_kook", "avg_viewers": 1, "followers_gained": 34, "peak_viewers": 13, "hours_streamed": 55, "streams": 33, "mature": 0, "language": "English", "account_age": 659520.0}

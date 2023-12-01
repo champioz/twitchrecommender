@@ -1,0 +1,1 @@
+{"channel": "kongkong1232", "avg_viewers": 175, "followers_gained": 227, "peak_viewers": 1218, "hours_streamed": 37, "streams": 13, "mature": 0, "language": "Korean", "account_age": 1457280.0}

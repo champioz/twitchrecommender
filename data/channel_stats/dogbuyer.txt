@@ -1,0 +1,1 @@
+{"channel": "dogbuyer", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 23, "streams": 14, "mature": 0, "language": "Hungarian", "account_age": 1025280.0}

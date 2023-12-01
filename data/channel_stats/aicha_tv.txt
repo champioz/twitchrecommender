@@ -1,0 +1,1 @@
+{"channel": "aicha_tv", "avg_viewers": 11, "followers_gained": 2, "peak_viewers": 34, "hours_streamed": 21, "streams": 9, "mature": 0, "language": "French", "account_age": 2747520.0}

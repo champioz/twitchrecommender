@@ -1,0 +1,1 @@
+{"channel": "comet_of_hopelessness", "avg_viewers": 13, "followers_gained": 5, "peak_viewers": 31, "hours_streamed": 12, "streams": 6, "mature": 0, "language": "Russian", "account_age": 1798560.0}

@@ -1,0 +1,1 @@
+{"channel": "tortillasquad", "avg_viewers": 145, "followers_gained": 50, "peak_viewers": 179, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 2495520.0}

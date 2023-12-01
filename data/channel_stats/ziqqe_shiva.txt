@@ -1,0 +1,1 @@
+{"channel": "ziqqe_shiva", "avg_viewers": 12, "followers_gained": 20, "peak_viewers": 213, "hours_streamed": 102, "streams": 22, "mature": 1, "language": "German", "account_age": 2044800.0}

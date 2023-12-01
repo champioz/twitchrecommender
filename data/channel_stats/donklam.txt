@@ -1,0 +1,1 @@
+{"channel": "donklam", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 14, "hours_streamed": 13, "streams": 5, "mature": 1, "language": "Danish", "account_age": 1687680.0}

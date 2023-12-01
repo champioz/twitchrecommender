@@ -1,0 +1,1 @@
+{"channel": "giantpanda", "avg_viewers": 277, "followers_gained": 1332, "peak_viewers": 515, "hours_streamed": 142, "streams": 39, "mature": 1, "language": "English", "account_age": 1278720.0}

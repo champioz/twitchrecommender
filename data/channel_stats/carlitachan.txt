@@ -1,0 +1,1 @@
+{"channel": "carlitachan", "avg_viewers": 12, "followers_gained": 15, "peak_viewers": 26, "hours_streamed": 8, "streams": 6, "mature": 0, "language": "Spanish", "account_age": 1814400.0}

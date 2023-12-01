@@ -1,0 +1,1 @@
+{"channel": "losersguide", "avg_viewers": 10, "followers_gained": 15, "peak_viewers": 21, "hours_streamed": 46, "streams": 17, "mature": 1, "language": "Hungarian", "account_age": 313920.0}

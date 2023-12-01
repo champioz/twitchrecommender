@@ -1,0 +1,1 @@
+{"channel": "guteren", "avg_viewers": 21, "followers_gained": 138, "peak_viewers": 44, "hours_streamed": 24, "streams": 9, "mature": 0, "language": "English", "account_age": 1818720.0}

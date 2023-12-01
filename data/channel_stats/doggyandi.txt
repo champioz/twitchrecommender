@@ -1,0 +1,1 @@
+{"channel": "doggyandi", "avg_viewers": 275, "followers_gained": 980, "peak_viewers": 496, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "Hungarian", "account_age": 2967840.0}

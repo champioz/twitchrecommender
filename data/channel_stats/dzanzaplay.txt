@@ -1,0 +1,1 @@
+{"channel": "dzanzaplay", "avg_viewers": 20, "followers_gained": 174, "peak_viewers": 48, "hours_streamed": 71, "streams": 29, "mature": 0, "language": "Czech", "account_age": 1717920.0}

@@ -1,0 +1,1 @@
+{"channel": "moreas", "avg_viewers": 9, "followers_gained": 65, "peak_viewers": 34, "hours_streamed": 136, "streams": 26, "mature": 1, "language": "French", "account_age": 2363040.0}

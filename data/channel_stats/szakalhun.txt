@@ -1,0 +1,1 @@
+{"channel": "szakalhun", "avg_viewers": 3, "followers_gained": 83, "peak_viewers": 15, "hours_streamed": 111, "streams": 42, "mature": 1, "language": "Hungarian", "account_age": 684000.0}

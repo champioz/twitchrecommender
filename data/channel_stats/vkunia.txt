@@ -1,0 +1,1 @@
+{"channel": "vkunia", "avg_viewers": 11, "followers_gained": 20, "peak_viewers": 27, "hours_streamed": 22, "streams": 9, "mature": 0, "language": "English", "account_age": 972000.0}

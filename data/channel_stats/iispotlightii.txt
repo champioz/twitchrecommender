@@ -1,0 +1,1 @@
+{"channel": "iispotlightii", "avg_viewers": 14, "followers_gained": 2, "peak_viewers": 19, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "German", "account_age": 3271680.0}

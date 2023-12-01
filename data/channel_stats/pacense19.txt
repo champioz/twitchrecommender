@@ -1,0 +1,1 @@
+{"channel": "pacense19", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 0, "streams": 2, "mature": 1, "language": "Spanish", "account_age": 1746720.0}

@@ -1,0 +1,1 @@
+{"channel": "nuckifyabuck", "avg_viewers": 20, "followers_gained": 68, "peak_viewers": 153, "hours_streamed": 45, "streams": 8, "mature": 1, "language": "English", "account_age": 4055040.0}

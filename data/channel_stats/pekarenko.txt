@@ -1,0 +1,1 @@
+{"channel": "pekarenko", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "Russian", "account_age": 1330560.0}

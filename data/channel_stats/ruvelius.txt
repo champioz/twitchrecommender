@@ -1,0 +1,1 @@
+{"channel": "ruvelius", "avg_viewers": 117, "followers_gained": 18, "peak_viewers": 227, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Turkish", "account_age": 2459520.0}

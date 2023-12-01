@@ -1,0 +1,1 @@
+{"channel": "betgrave", "avg_viewers": 3, "followers_gained": 154, "peak_viewers": 19, "hours_streamed": 87, "streams": 27, "mature": 0, "language": "Portuguese", "account_age": 168480.0}

@@ -1,0 +1,1 @@
+{"channel": "mrdolphin", "avg_viewers": 43, "followers_gained": 51, "peak_viewers": 186, "hours_streamed": 76, "streams": 21, "mature": 1, "language": "English", "account_age": 4546080.0}

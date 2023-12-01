@@ -1,0 +1,1 @@
+{"channel": "epich", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 16, "streams": 3, "mature": 0, "language": "Russian", "account_age": 1294560.0}

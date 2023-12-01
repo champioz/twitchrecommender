@@ -1,0 +1,1 @@
+{"channel": "jaeger307", "avg_viewers": 4, "followers_gained": 61, "peak_viewers": 41, "hours_streamed": 168, "streams": 41, "mature": 1, "language": "Spanish", "account_age": 2628000.0}

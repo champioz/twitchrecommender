@@ -1,0 +1,1 @@
+{"channel": "timewunwan", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 6, "hours_streamed": 64, "streams": 29, "mature": 0, "language": "Thai", "account_age": 1287360.0}

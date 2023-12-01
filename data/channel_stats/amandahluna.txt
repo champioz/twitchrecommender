@@ -1,0 +1,1 @@
+{"channel": "amandahluna", "avg_viewers": 8, "followers_gained": 2, "peak_viewers": 14, "hours_streamed": 13, "streams": 4, "mature": 1, "language": "English", "account_age": 3667680.0}

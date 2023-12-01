@@ -1,0 +1,1 @@
+{"channel": "jjy0863", "avg_viewers": 12, "followers_gained": 15, "peak_viewers": 28, "hours_streamed": 53, "streams": 15, "mature": 0, "language": "Korean", "account_age": 1300320.0}

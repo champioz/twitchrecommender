@@ -1,0 +1,1 @@
+{"channel": "mostlyeric", "avg_viewers": 14, "followers_gained": 50, "peak_viewers": 31, "hours_streamed": 114, "streams": 20, "mature": 1, "language": "English", "account_age": 4263840.0}

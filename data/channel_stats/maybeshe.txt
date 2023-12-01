@@ -1,0 +1,1 @@
+{"channel": "maybeshe", "avg_viewers": 57, "followers_gained": 125, "peak_viewers": 106, "hours_streamed": 107, "streams": 19, "mature": 0, "language": "Russian", "account_age": 4599360.0}

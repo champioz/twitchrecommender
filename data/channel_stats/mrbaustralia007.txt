@@ -1,0 +1,1 @@
+{"channel": "mrbaustralia007", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 26, "hours_streamed": 129, "streams": 24, "mature": 0, "language": "English", "account_age": 2769120.0}

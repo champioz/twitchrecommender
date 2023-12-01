@@ -1,0 +1,1 @@
+{"channel": "miyuk_", "avg_viewers": 23, "followers_gained": 41, "peak_viewers": 70, "hours_streamed": 61, "streams": 16, "mature": 0, "language": "Korean", "account_age": 1431360.0}

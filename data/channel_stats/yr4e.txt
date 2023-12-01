@@ -1,0 +1,1 @@
+{"channel": "yr4e", "avg_viewers": 25, "followers_gained": 177, "peak_viewers": 176, "hours_streamed": 28, "streams": 14, "mature": 0, "language": "Russian", "account_age": 648000.0}

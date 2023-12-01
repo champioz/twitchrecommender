@@ -1,0 +1,1 @@
+{"channel": "chrisslybaer", "avg_viewers": 80, "followers_gained": 177, "peak_viewers": 157, "hours_streamed": 105, "streams": 24, "mature": 1, "language": "German", "account_age": 2400480.0}

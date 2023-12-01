@@ -1,0 +1,1 @@
+{"channel": "projektgamingtv", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 7, "hours_streamed": 23, "streams": 8, "mature": 0, "language": "German", "account_age": 1684800.0}

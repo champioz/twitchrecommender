@@ -1,0 +1,1 @@
+{"channel": "norththemage", "avg_viewers": 53, "followers_gained": 86, "peak_viewers": 116, "hours_streamed": 28, "streams": 7, "mature": 1, "language": "English", "account_age": 2982240.0}

@@ -1,0 +1,1 @@
+{"channel": "evil_genius_blackhertz", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 32, "streams": 31, "mature": 0, "language": "English", "account_age": 4152960.0}

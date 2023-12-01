@@ -1,0 +1,1 @@
+{"channel": "nitro", "avg_viewers": 27, "followers_gained": 3, "peak_viewers": 129, "hours_streamed": 34, "streams": 10, "mature": 0, "language": "Russian", "account_age": 3182400.0}

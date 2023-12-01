@@ -1,0 +1,1 @@
+{"channel": "damang12", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "Korean", "account_age": 1009440.0}

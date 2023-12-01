@@ -1,0 +1,1 @@
+{"channel": "syberbolt", "avg_viewers": 13, "followers_gained": 1821, "peak_viewers": 73, "hours_streamed": 68, "streams": 20, "mature": 1, "language": "English", "account_age": 924480.0}

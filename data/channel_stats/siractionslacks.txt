@@ -1,0 +1,1 @@
+{"channel": "siractionslacks", "avg_viewers": 402, "followers_gained": 76, "peak_viewers": 753, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "English", "account_age": 4390560.0}

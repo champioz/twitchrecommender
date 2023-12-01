@@ -1,0 +1,1 @@
+{"channel": "gejmr", "avg_viewers": 150, "followers_gained": 76, "peak_viewers": 420, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "Czech", "account_age": 3929760.0}

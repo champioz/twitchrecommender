@@ -1,0 +1,1 @@
+{"channel": "xmanamyx", "avg_viewers": 5, "followers_gained": 16, "peak_viewers": 16, "hours_streamed": 32, "streams": 12, "mature": 1, "language": "German", "account_age": 1825920.0}

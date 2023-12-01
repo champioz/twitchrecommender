@@ -1,0 +1,1 @@
+{"channel": "snedger", "avg_viewers": 92, "followers_gained": 732, "peak_viewers": 155, "hours_streamed": 49, "streams": 20, "mature": 0, "language": "English", "account_age": 2894400.0}

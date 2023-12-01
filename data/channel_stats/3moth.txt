@@ -1,0 +1,1 @@
+{"channel": "3moth", "avg_viewers": 57, "followers_gained": 363, "peak_viewers": 385, "hours_streamed": 202, "streams": 50, "mature": 0, "language": "English", "account_age": 1395360.0}

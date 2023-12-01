@@ -1,0 +1,1 @@
+{"channel": "g_e_r_a", "avg_viewers": 10, "followers_gained": 21, "peak_viewers": 47, "hours_streamed": 68, "streams": 23, "mature": 1, "language": "English", "account_age": 3443040.0}

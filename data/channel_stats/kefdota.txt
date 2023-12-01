@@ -1,0 +1,1 @@
+{"channel": "kefdota", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 14, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "Russian", "account_age": 1524960.0}

@@ -1,0 +1,1 @@
+{"channel": "mrmarkspencer", "avg_viewers": 5, "followers_gained": 23, "peak_viewers": 20, "hours_streamed": 150, "streams": 28, "mature": 1, "language": "Hungarian", "account_age": 2518560.0}

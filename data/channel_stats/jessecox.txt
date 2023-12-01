@@ -1,0 +1,1 @@
+{"channel": "jessecox", "avg_viewers": 628, "followers_gained": 296, "peak_viewers": 1272, "hours_streamed": 36, "streams": 11, "mature": 0, "language": "English", "account_age": 4150080.0}

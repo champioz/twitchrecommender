@@ -1,0 +1,1 @@
+{"channel": "asampleguy", "avg_viewers": 5, "followers_gained": 8, "peak_viewers": 28, "hours_streamed": 42, "streams": 11, "mature": 1, "language": "English", "account_age": 1317600.0}

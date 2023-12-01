@@ -1,0 +1,1 @@
+{"channel": "briel_hs", "avg_viewers": 60, "followers_gained": 3, "peak_viewers": 85, "hours_streamed": 28, "streams": 8, "mature": 0, "language": "Chinese (Hong Kong SAR)", "account_age": 3028320.0}

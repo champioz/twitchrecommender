@@ -1,0 +1,1 @@
+{"channel": "madhatterni", "avg_viewers": 3, "followers_gained": 61, "peak_viewers": 15, "hours_streamed": 726, "streams": 34, "mature": 0, "language": "English", "account_age": 3353760.0}

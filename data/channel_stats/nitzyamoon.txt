@@ -1,0 +1,1 @@
+{"channel": "nitzyamoon", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 7, "streams": 8, "mature": 0, "language": "Spanish", "account_age": 531360.0}

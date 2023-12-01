@@ -1,0 +1,1 @@
+{"channel": "veneea", "avg_viewers": 291, "followers_gained": 76, "peak_viewers": 489, "hours_streamed": 38, "streams": 11, "mature": 1, "language": "Polish", "account_age": 2543040.0}

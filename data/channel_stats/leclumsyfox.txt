@@ -1,0 +1,1 @@
+{"channel": "leclumsyfox", "avg_viewers": 108, "followers_gained": 182, "peak_viewers": 196, "hours_streamed": 56, "streams": 10, "mature": 0, "language": "English", "account_age": 2518560.0}

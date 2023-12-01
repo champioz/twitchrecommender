@@ -1,0 +1,1 @@
+{"channel": "troublemakergamer", "avg_viewers": 1, "followers_gained": 8, "peak_viewers": 6, "hours_streamed": 101, "streams": 35, "mature": 1, "language": "English", "account_age": 1493280.0}

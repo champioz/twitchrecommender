@@ -1,0 +1,1 @@
+{"channel": "huskenraider", "avg_viewers": 57, "followers_gained": 105, "peak_viewers": 139, "hours_streamed": 62, "streams": 16, "mature": 0, "language": "English", "account_age": 964800.0}

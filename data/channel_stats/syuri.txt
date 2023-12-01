@@ -1,0 +1,1 @@
+{"channel": "syuri", "avg_viewers": 42, "followers_gained": 13, "peak_viewers": 99, "hours_streamed": 101, "streams": 26, "mature": 0, "language": "Japanese", "account_age": 4194720.0}

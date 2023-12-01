@@ -1,0 +1,1 @@
+{"channel": "johnfreda", "avg_viewers": 6, "followers_gained": 6, "peak_viewers": 43, "hours_streamed": 19, "streams": 8, "mature": 1, "language": "Dutch", "account_age": 2844000.0}

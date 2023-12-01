@@ -1,0 +1,1 @@
+{"channel": "bateaux0316", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 91, "streams": 33, "mature": 0, "language": "Japanese", "account_age": 1615680.0}

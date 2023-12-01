@@ -1,0 +1,1 @@
+{"channel": "kapanbiceps", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 21, "hours_streamed": 33, "streams": 11, "mature": 0, "language": "Swedish", "account_age": 1772640.0}

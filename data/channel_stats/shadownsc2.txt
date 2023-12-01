@@ -1,0 +1,1 @@
+{"channel": "shadownsc2", "avg_viewers": 19, "followers_gained": 1, "peak_viewers": 28, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "French", "account_age": 2249280.0}

@@ -1,0 +1,1 @@
+{"channel": "angeldelagerra", "avg_viewers": 3, "followers_gained": 50, "peak_viewers": 12, "hours_streamed": 135, "streams": 45, "mature": 0, "language": "Spanish", "account_age": 2354400.0}

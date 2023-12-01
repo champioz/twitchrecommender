@@ -1,0 +1,1 @@
+{"channel": "zulian0560", "avg_viewers": 2, "followers_gained": 27, "peak_viewers": 14, "hours_streamed": 27, "streams": 15, "mature": 0, "language": "Danish", "account_age": 1676160.0}

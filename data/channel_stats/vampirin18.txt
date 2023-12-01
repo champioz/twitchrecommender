@@ -1,0 +1,1 @@
+{"channel": "vampirin18", "avg_viewers": 4, "followers_gained": 67, "peak_viewers": 29, "hours_streamed": 50, "streams": 22, "mature": 0, "language": "Spanish", "account_age": 3320640.0}

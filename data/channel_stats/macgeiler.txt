@@ -1,0 +1,1 @@
+{"channel": "macgeiler", "avg_viewers": 68, "followers_gained": 198, "peak_viewers": 181, "hours_streamed": 119, "streams": 24, "mature": 0, "language": "English", "account_age": 2064960.0}

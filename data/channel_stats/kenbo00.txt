@@ -1,0 +1,1 @@
+{"channel": "kenbo00", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 52, "streams": 15, "mature": 0, "language": "Japanese", "account_age": 1097280.0}

@@ -1,0 +1,1 @@
+{"channel": "ragefast2311", "avg_viewers": 16, "followers_gained": 140, "peak_viewers": 59, "hours_streamed": 244, "streams": 31, "mature": 1, "language": "German", "account_age": 1425600.0}

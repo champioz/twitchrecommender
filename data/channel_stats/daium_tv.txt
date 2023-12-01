@@ -1,0 +1,1 @@
+{"channel": "daium_tv", "avg_viewers": 16, "followers_gained": 2, "peak_viewers": 31, "hours_streamed": 6, "streams": 5, "mature": 0, "language": "French", "account_age": 3041280.0}

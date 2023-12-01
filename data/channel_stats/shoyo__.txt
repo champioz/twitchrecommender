@@ -1,0 +1,1 @@
+{"channel": "shoyo__", "avg_viewers": 5, "followers_gained": 18, "peak_viewers": 18, "hours_streamed": 33, "streams": 11, "mature": 0, "language": "German", "account_age": 2714400.0}

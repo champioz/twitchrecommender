@@ -1,0 +1,1 @@
+{"channel": "hutnik", "avg_viewers": 248, "followers_gained": 849, "peak_viewers": 597, "hours_streamed": 129, "streams": 20, "mature": 1, "language": "English", "account_age": 1422720.0}

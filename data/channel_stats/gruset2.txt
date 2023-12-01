@@ -1,0 +1,1 @@
+{"channel": "gruset2", "avg_viewers": 15, "followers_gained": 198, "peak_viewers": 37, "hours_streamed": 138, "streams": 36, "mature": 0, "language": "Swedish", "account_age": 3792960.0}

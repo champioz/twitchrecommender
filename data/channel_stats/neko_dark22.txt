@@ -1,0 +1,1 @@
+{"channel": "neko_dark22", "avg_viewers": 9, "followers_gained": 2, "peak_viewers": 195, "hours_streamed": 50, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 1520640.0}

@@ -1,0 +1,1 @@
+{"channel": "itssarou", "avg_viewers": 11, "followers_gained": 24, "peak_viewers": 62, "hours_streamed": 10, "streams": 4, "mature": 1, "language": "French", "account_age": 1739520.0}

@@ -1,0 +1,1 @@
+{"channel": "m1_account", "avg_viewers": 34, "followers_gained": 20, "peak_viewers": 345, "hours_streamed": 31, "streams": 9, "mature": 1, "language": "English", "account_age": 3718080.0}

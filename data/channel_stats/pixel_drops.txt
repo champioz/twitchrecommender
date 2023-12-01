@@ -1,0 +1,1 @@
+{"channel": "pixel_drops", "avg_viewers": 25, "followers_gained": 47, "peak_viewers": 51, "hours_streamed": 52, "streams": 12, "mature": 1, "language": "Greek", "account_age": 1486080.0}

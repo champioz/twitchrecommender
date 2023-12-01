@@ -1,0 +1,1 @@
+{"channel": "xframe1", "avg_viewers": 22, "followers_gained": 234, "peak_viewers": 58, "hours_streamed": 24, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 748800.0}

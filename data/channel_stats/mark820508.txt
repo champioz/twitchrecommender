@@ -1,0 +1,1 @@
+{"channel": "mark820508", "avg_viewers": 25, "followers_gained": 5, "peak_viewers": 62, "hours_streamed": 55, "streams": 25, "mature": 1, "language": "Chinese", "account_age": 4125600.0}

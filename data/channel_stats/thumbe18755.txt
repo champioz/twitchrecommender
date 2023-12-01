@@ -1,0 +1,1 @@
+{"channel": "thumbe18755", "avg_viewers": 93, "followers_gained": 494, "peak_viewers": 257, "hours_streamed": 139, "streams": 30, "mature": 0, "language": "Chinese", "account_age": 3473280.0}

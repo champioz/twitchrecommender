@@ -1,0 +1,1 @@
+{"channel": "kubafps", "avg_viewers": 54, "followers_gained": 85, "peak_viewers": 249, "hours_streamed": 76, "streams": 17, "mature": 1, "language": "German", "account_age": 1090080.0}

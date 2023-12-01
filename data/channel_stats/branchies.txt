@@ -1,0 +1,1 @@
+{"channel": "branchies", "avg_viewers": 32, "followers_gained": 111, "peak_viewers": 99, "hours_streamed": 23, "streams": 14, "mature": 0, "language": "English", "account_age": 1572480.0}

@@ -1,0 +1,1 @@
+{"channel": "shashi", "avg_viewers": 13, "followers_gained": 17, "peak_viewers": 21, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "Spanish", "account_age": 1608480.0}

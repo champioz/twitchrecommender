@@ -1,0 +1,1 @@
+{"channel": "datdirtytaco", "avg_viewers": 13, "followers_gained": 412, "peak_viewers": 29, "hours_streamed": 65, "streams": 16, "mature": 0, "language": "English", "account_age": 2652480.0}

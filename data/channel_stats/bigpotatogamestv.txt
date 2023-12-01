@@ -1,0 +1,1 @@
+{"channel": "bigpotatogamestv", "avg_viewers": 5, "followers_gained": 13, "peak_viewers": 11, "hours_streamed": 9, "streams": 5, "mature": 0, "language": "English", "account_age": 794880.0}

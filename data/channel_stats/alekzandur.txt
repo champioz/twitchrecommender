@@ -1,0 +1,1 @@
+{"channel": "alekzandur", "avg_viewers": 42, "followers_gained": 81, "peak_viewers": 179, "hours_streamed": 11, "streams": 6, "mature": 0, "language": "English", "account_age": 1896480.0}

@@ -1,0 +1,1 @@
+{"channel": "v3sh1", "avg_viewers": 4, "followers_gained": 31, "peak_viewers": 14, "hours_streamed": 217, "streams": 46, "mature": 0, "language": "Russian", "account_age": 3438720.0}

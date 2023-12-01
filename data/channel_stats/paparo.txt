@@ -1,0 +1,1 @@
+{"channel": "paparo", "avg_viewers": 7, "followers_gained": 44, "peak_viewers": 27, "hours_streamed": 40, "streams": 21, "mature": 1, "language": "Russian", "account_age": 1748160.0}

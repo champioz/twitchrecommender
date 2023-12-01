@@ -1,0 +1,1 @@
+{"channel": "badco", "avg_viewers": 16, "followers_gained": 8, "peak_viewers": 24, "hours_streamed": 6, "streams": 4, "mature": 1, "language": "English", "account_age": 3283200.0}

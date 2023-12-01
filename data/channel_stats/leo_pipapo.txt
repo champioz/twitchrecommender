@@ -1,0 +1,1 @@
+{"channel": "leo_pipapo", "avg_viewers": 10, "followers_gained": 22, "peak_viewers": 39, "hours_streamed": 83, "streams": 26, "mature": 0, "language": "German", "account_age": 1948320.0}

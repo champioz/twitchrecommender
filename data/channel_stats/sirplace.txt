@@ -1,0 +1,1 @@
+{"channel": "sirplace", "avg_viewers": 6, "followers_gained": 56, "peak_viewers": 21, "hours_streamed": 136, "streams": 43, "mature": 0, "language": "Spanish", "account_age": 996480.0}

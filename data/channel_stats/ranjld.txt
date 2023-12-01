@@ -1,0 +1,1 @@
+{"channel": "ranjld", "avg_viewers": 76, "followers_gained": 516, "peak_viewers": 166, "hours_streamed": 116, "streams": 24, "mature": 1, "language": "German", "account_age": 1674720.0}

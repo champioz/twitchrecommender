@@ -1,0 +1,1 @@
+{"channel": "rakanoolive", "avg_viewers": 4276, "followers_gained": 31496, "peak_viewers": 20096, "hours_streamed": 88, "streams": 18, "mature": 0, "language": "Arabic", "account_age": 1764000.0}

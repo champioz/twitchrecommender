@@ -1,0 +1,1 @@
+{"channel": "faebss", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 13, "hours_streamed": 214, "streams": 25, "mature": 1, "language": "German", "account_age": 2509920.0}

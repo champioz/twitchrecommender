@@ -1,0 +1,1 @@
+{"channel": "cynthiab", "avg_viewers": 10, "followers_gained": 79, "peak_viewers": 28, "hours_streamed": 10, "streams": 2, "mature": 1, "language": "French", "account_age": 2550240.0}

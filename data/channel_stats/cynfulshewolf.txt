@@ -1,0 +1,1 @@
+{"channel": "cynfulshewolf", "avg_viewers": 13, "followers_gained": 50, "peak_viewers": 37, "hours_streamed": 54, "streams": 10, "mature": 1, "language": "English", "account_age": 207360.0}

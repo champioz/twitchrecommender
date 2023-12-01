@@ -1,0 +1,1 @@
+{"channel": "nightkini", "avg_viewers": 27, "followers_gained": 10, "peak_viewers": 118, "hours_streamed": 13, "streams": 10, "mature": 1, "language": "German", "account_age": 1049760.0}

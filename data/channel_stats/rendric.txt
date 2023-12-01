@@ -1,0 +1,1 @@
+{"channel": "rendric", "avg_viewers": 7, "followers_gained": 92, "peak_viewers": 76, "hours_streamed": 290, "streams": 28, "mature": 1, "language": "English", "account_age": 3880800.0}

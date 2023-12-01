@@ -1,0 +1,1 @@
+{"channel": "yankeeunit91", "avg_viewers": 52, "followers_gained": 586, "peak_viewers": 218, "hours_streamed": 67, "streams": 15, "mature": 0, "language": "German", "account_age": 3114720.0}

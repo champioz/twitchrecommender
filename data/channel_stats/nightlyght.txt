@@ -1,0 +1,1 @@
+{"channel": "nightlyght", "avg_viewers": 19, "followers_gained": 15, "peak_viewers": 59, "hours_streamed": 17, "streams": 6, "mature": 0, "language": "English", "account_age": 1467360.0}

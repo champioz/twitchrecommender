@@ -1,0 +1,1 @@
+{"channel": "princecursed", "avg_viewers": 15, "followers_gained": 18, "peak_viewers": 31, "hours_streamed": 79, "streams": 26, "mature": 1, "language": "Italian", "account_age": 2422080.0}

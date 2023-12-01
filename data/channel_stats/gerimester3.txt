@@ -1,0 +1,1 @@
+{"channel": "gerimester3", "avg_viewers": 107, "followers_gained": 371, "peak_viewers": 335, "hours_streamed": 10, "streams": 3, "mature": 1, "language": "Hungarian", "account_age": 3227040.0}

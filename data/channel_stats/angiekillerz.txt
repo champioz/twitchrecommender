@@ -1,0 +1,1 @@
+{"channel": "angiekillerz", "avg_viewers": 14, "followers_gained": 105, "peak_viewers": 39, "hours_streamed": 66, "streams": 31, "mature": 1, "language": "English", "account_age": 1622880.0}

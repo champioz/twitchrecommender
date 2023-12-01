@@ -1,0 +1,1 @@
+{"channel": "nofear888", "avg_viewers": 150, "followers_gained": 1437, "peak_viewers": 335, "hours_streamed": 153, "streams": 42, "mature": 0, "language": "Dutch", "account_age": 1802880.0}

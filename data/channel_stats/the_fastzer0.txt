@@ -1,0 +1,1 @@
+{"channel": "the_fastzer0", "avg_viewers": 0, "followers_gained": 14, "peak_viewers": 4, "hours_streamed": 37, "streams": 33, "mature": 0, "language": "Russian", "account_age": 743040.0}

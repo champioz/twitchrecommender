@@ -1,0 +1,1 @@
+{"channel": "tatarochkin", "avg_viewers": 11, "followers_gained": 123, "peak_viewers": 27, "hours_streamed": 56, "streams": 18, "mature": 0, "language": "Russian", "account_age": 2599200.0}

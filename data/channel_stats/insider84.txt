@@ -1,0 +1,1 @@
+{"channel": "insider84", "avg_viewers": 17, "followers_gained": 3, "peak_viewers": 31, "hours_streamed": 32, "streams": 8, "mature": 1, "language": "German", "account_age": 1776960.0}

@@ -1,0 +1,1 @@
+{"channel": "100thieves", "avg_viewers": 771, "followers_gained": 189, "peak_viewers": 1377, "hours_streamed": 2, "streams": 3, "mature": 0, "language": "English", "account_age": 776160.0}

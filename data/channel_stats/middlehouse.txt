@@ -1,0 +1,1 @@
+{"channel": "middlehouse", "avg_viewers": 19, "followers_gained": 93, "peak_viewers": 112, "hours_streamed": 87, "streams": 21, "mature": 0, "language": "English", "account_age": 2043360.0}

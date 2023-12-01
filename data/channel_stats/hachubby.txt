@@ -1,0 +1,1 @@
+{"channel": "hachubby", "avg_viewers": 1385, "followers_gained": 17874, "peak_viewers": 4013, "hours_streamed": 114, "streams": 42, "mature": 0, "language": "English", "account_age": 779040.0}

@@ -1,0 +1,1 @@
+{"channel": "elitebearded", "avg_viewers": 32, "followers_gained": 183, "peak_viewers": 95, "hours_streamed": 155, "streams": 38, "mature": 0, "language": "English", "account_age": 897120.0}

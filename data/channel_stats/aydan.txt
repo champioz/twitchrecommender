@@ -1,0 +1,1 @@
+{"channel": "aydan", "avg_viewers": 5300, "followers_gained": 66485, "peak_viewers": 24608, "hours_streamed": 157, "streams": 21, "mature": 1, "language": "English", "account_age": 1756800.0}

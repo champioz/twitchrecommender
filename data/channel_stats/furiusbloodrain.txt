@@ -1,0 +1,1 @@
+{"channel": "furiusbloodrain", "avg_viewers": 5, "followers_gained": 15, "peak_viewers": 16, "hours_streamed": 83, "streams": 16, "mature": 1, "language": "German", "account_age": 1598400.0}

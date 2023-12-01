@@ -1,0 +1,1 @@
+{"channel": "chaminix", "avg_viewers": 2, "followers_gained": 22, "peak_viewers": 9, "hours_streamed": 11, "streams": 4, "mature": 1, "language": "French", "account_age": 3117600.0}

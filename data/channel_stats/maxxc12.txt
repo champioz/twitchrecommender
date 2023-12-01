@@ -1,0 +1,1 @@
+{"channel": "maxxc12", "avg_viewers": 5, "followers_gained": 15, "peak_viewers": 148, "hours_streamed": 138, "streams": 32, "mature": 1, "language": "German", "account_age": 2822400.0}

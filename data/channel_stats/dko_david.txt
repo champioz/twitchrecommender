@@ -1,0 +1,1 @@
+{"channel": "dko_david", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 12, "streams": 8, "mature": 0, "language": "English", "account_age": 3432960.0}

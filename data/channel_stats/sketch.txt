@@ -1,0 +1,1 @@
+{"channel": "sketch", "avg_viewers": 71, "followers_gained": 308, "peak_viewers": 215, "hours_streamed": 232, "streams": 25, "mature": 0, "language": "English", "account_age": 3097440.0}

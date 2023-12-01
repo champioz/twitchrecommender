@@ -1,0 +1,1 @@
+{"channel": "luckynoobs_gw", "avg_viewers": 46, "followers_gained": 41, "peak_viewers": 80, "hours_streamed": 11, "streams": 4, "mature": 0, "language": "English", "account_age": 125280.0}

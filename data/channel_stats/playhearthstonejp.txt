@@ -1,0 +1,1 @@
+{"channel": "playhearthstonejp", "avg_viewers": 1090, "followers_gained": 243, "peak_viewers": 2628, "hours_streamed": 25, "streams": 6, "mature": 0, "language": "Japanese", "account_age": 1788480.0}

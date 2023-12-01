@@ -1,0 +1,1 @@
+{"channel": "dknuller", "avg_viewers": 6, "followers_gained": 25, "peak_viewers": 31, "hours_streamed": 130, "streams": 30, "mature": 1, "language": "Danish", "account_age": 2661120.0}

@@ -1,0 +1,1 @@
+{"channel": "se3cret", "avg_viewers": 9, "followers_gained": 59, "peak_viewers": 29, "hours_streamed": 73, "streams": 27, "mature": 1, "language": "Spanish", "account_age": 1641600.0}

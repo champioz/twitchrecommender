@@ -1,0 +1,1 @@
+{"channel": "themagicalqueenfae", "avg_viewers": 18, "followers_gained": 177, "peak_viewers": 871, "hours_streamed": 151, "streams": 34, "mature": 1, "language": "English", "account_age": 1988640.0}

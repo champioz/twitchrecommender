@@ -1,0 +1,1 @@
+{"channel": "artythewolf", "avg_viewers": 15, "followers_gained": 38, "peak_viewers": 31, "hours_streamed": 24, "streams": 4, "mature": 1, "language": "English", "account_age": 1481760.0}

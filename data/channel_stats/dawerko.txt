@@ -1,0 +1,1 @@
+{"channel": "dawerko", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 17, "hours_streamed": 47, "streams": 16, "mature": 0, "language": "Czech", "account_age": 1895040.0}

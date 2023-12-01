@@ -1,0 +1,1 @@
+{"channel": "michael__s", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 38, "hours_streamed": 5, "streams": 6, "mature": 1, "language": "English", "account_age": 3172320.0}

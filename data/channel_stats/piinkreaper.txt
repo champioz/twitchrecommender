@@ -1,0 +1,1 @@
+{"channel": "piinkreaper", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 21, "streams": 8, "mature": 1, "language": "English", "account_age": 2433600.0}

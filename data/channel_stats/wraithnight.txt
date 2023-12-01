@@ -1,0 +1,1 @@
+{"channel": "wraithnight", "avg_viewers": 21, "followers_gained": 29, "peak_viewers": 64, "hours_streamed": 86, "streams": 29, "mature": 0, "language": "English", "account_age": 4115520.0}

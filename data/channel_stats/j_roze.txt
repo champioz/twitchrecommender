@@ -1,0 +1,1 @@
+{"channel": "j_roze", "avg_viewers": 15, "followers_gained": 45, "peak_viewers": 80, "hours_streamed": 93, "streams": 16, "mature": 1, "language": "English", "account_age": 1061280.0}

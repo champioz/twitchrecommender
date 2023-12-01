@@ -1,0 +1,1 @@
+{"channel": "14studio", "avg_viewers": 11, "followers_gained": 53, "peak_viewers": 42, "hours_streamed": 19, "streams": 9, "mature": 0, "language": "Thai", "account_age": 1141920.0}

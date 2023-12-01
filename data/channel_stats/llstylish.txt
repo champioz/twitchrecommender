@@ -1,0 +1,1 @@
+{"channel": "llstylish", "avg_viewers": 2127, "followers_gained": 4630, "peak_viewers": 3166, "hours_streamed": 23, "streams": 5, "mature": 0, "language": "English", "account_age": 1614240.0}

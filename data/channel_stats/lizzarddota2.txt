@@ -1,0 +1,1 @@
+{"channel": "lizzarddota2", "avg_viewers": 118, "followers_gained": 249, "peak_viewers": 331, "hours_streamed": 45, "streams": 15, "mature": 1, "language": "English", "account_age": 2446560.0}

@@ -1,0 +1,1 @@
+{"channel": "lamukraine", "avg_viewers": 26, "followers_gained": 296, "peak_viewers": 66, "hours_streamed": 105, "streams": 27, "mature": 0, "language": "Russian", "account_age": 3392640.0}

@@ -1,0 +1,1 @@
+{"channel": "zyrios7", "avg_viewers": 99, "followers_gained": 1153, "peak_viewers": 441, "hours_streamed": 98, "streams": 19, "mature": 0, "language": "German", "account_age": 2224800.0}

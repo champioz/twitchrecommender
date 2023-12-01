@@ -1,0 +1,1 @@
+{"channel": "mohannad10_fut", "avg_viewers": 40, "followers_gained": 149, "peak_viewers": 91, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "Arabic", "account_age": 1224000.0}

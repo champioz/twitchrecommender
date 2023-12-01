@@ -1,0 +1,1 @@
+{"channel": "xepicwolfx3", "avg_viewers": 5, "followers_gained": 30, "peak_viewers": 20, "hours_streamed": 98, "streams": 26, "mature": 0, "language": "German", "account_age": 2149920.0}

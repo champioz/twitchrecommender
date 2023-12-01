@@ -1,0 +1,1 @@
+{"channel": "tsanemo", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 13, "streams": 2, "mature": 0, "language": "German", "account_age": 1656000.0}

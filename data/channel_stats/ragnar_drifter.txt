@@ -1,0 +1,1 @@
+{"channel": "ragnar_drifter", "avg_viewers": 7, "followers_gained": 84, "peak_viewers": 30, "hours_streamed": 110, "streams": 43, "mature": 1, "language": "Spanish", "account_age": 586080.0}

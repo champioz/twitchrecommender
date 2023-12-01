@@ -1,0 +1,1 @@
+{"channel": "howimetyourcat", "avg_viewers": 20, "followers_gained": 237, "peak_viewers": 39, "hours_streamed": 77, "streams": 19, "mature": 0, "language": "Italian", "account_age": 1219680.0}

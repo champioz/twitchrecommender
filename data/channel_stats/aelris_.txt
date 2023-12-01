@@ -1,0 +1,1 @@
+{"channel": "aelris_", "avg_viewers": 342, "followers_gained": 878, "peak_viewers": 1124, "hours_streamed": 240, "streams": 32, "mature": 1, "language": "Russian", "account_age": 2436480.0}

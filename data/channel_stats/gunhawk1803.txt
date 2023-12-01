@@ -1,0 +1,1 @@
+{"channel": "gunhawk1803", "avg_viewers": 21, "followers_gained": 21, "peak_viewers": 100, "hours_streamed": 59, "streams": 19, "mature": 1, "language": "Slovak", "account_age": 2712960.0}

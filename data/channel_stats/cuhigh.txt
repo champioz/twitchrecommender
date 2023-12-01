@@ -1,0 +1,1 @@
+{"channel": "cuhigh", "avg_viewers": 8, "followers_gained": 4, "peak_viewers": 28, "hours_streamed": 25, "streams": 9, "mature": 0, "language": "Hungarian", "account_age": 2291040.0}

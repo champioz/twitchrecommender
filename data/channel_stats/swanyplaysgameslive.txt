@@ -1,0 +1,1 @@
+{"channel": "swanyplaysgameslive", "avg_viewers": 59, "followers_gained": 249, "peak_viewers": 138, "hours_streamed": 36, "streams": 17, "mature": 0, "language": "English", "account_age": 1321920.0}

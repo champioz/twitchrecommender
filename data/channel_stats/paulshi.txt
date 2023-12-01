@@ -1,0 +1,1 @@
+{"channel": "paulshi", "avg_viewers": 5, "followers_gained": 33, "peak_viewers": 17, "hours_streamed": 66, "streams": 20, "mature": 1, "language": "English", "account_age": 1347840.0}

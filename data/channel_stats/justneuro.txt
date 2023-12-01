@@ -1,0 +1,1 @@
+{"channel": "justneuro", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Russian", "account_age": 767520.0}

@@ -1,0 +1,1 @@
+{"channel": "rafa_kamaitachi", "avg_viewers": 15, "followers_gained": 62, "peak_viewers": 31, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Portuguese", "account_age": 714240.0}

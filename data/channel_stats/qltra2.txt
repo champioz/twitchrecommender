@@ -1,0 +1,1 @@
+{"channel": "qltra2", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 66, "streams": 26, "mature": 1, "language": "Japanese", "account_age": 937440.0}

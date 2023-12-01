@@ -1,0 +1,1 @@
+{"channel": "mariusoptimus", "avg_viewers": 16, "followers_gained": 1099, "peak_viewers": 121, "hours_streamed": 155, "streams": 48, "mature": 0, "language": "Spanish", "account_age": 2632320.0}

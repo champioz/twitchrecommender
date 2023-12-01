@@ -1,0 +1,1 @@
+{"channel": "asmodaitv", "avg_viewers": 2489, "followers_gained": 2338, "peak_viewers": 4221, "hours_streamed": 179, "streams": 29, "mature": 0, "language": "English", "account_age": 2966400.0}

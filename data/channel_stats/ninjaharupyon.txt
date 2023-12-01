@@ -1,0 +1,1 @@
+{"channel": "ninjaharupyon", "avg_viewers": 3, "followers_gained": 12, "peak_viewers": 12, "hours_streamed": 62, "streams": 24, "mature": 0, "language": "Japanese", "account_age": 2206080.0}

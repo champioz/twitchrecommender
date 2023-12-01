@@ -1,0 +1,1 @@
+{"channel": "estefania", "avg_viewers": 23, "followers_gained": 368, "peak_viewers": 78, "hours_streamed": 103, "streams": 21, "mature": 0, "language": "Spanish", "account_age": 799200.0}

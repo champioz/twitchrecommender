@@ -1,0 +1,1 @@
+{"channel": "polyokov", "avg_viewers": 9, "followers_gained": 7, "peak_viewers": 31, "hours_streamed": 9, "streams": 5, "mature": 0, "language": "French", "account_age": 3303360.0}

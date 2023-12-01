@@ -1,0 +1,1 @@
+{"channel": "goingtotallyham", "avg_viewers": 186, "followers_gained": 847, "peak_viewers": 434, "hours_streamed": 192, "streams": 26, "mature": 1, "language": "English", "account_age": 2234880.0}

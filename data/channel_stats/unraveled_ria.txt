@@ -1,0 +1,1 @@
+{"channel": "unraveled_ria", "avg_viewers": 17, "followers_gained": 491, "peak_viewers": 51, "hours_streamed": 77, "streams": 22, "mature": 1, "language": "Italian", "account_age": 309600.0}

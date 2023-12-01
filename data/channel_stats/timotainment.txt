@@ -1,0 +1,1 @@
+{"channel": "timotainment", "avg_viewers": 50, "followers_gained": 959, "peak_viewers": 298, "hours_streamed": 31, "streams": 11, "mature": 0, "language": "English", "account_age": 1955520.0}

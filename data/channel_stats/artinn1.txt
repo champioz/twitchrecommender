@@ -1,0 +1,1 @@
+{"channel": "artinn1", "avg_viewers": 9, "followers_gained": 161, "peak_viewers": 54, "hours_streamed": 60, "streams": 27, "mature": 0, "language": "Portuguese", "account_age": 3515040.0}

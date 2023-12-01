@@ -1,0 +1,1 @@
+{"channel": "dh921206", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 10, "hours_streamed": 2, "streams": 2, "mature": 1, "language": "Korean", "account_age": 1298880.0}

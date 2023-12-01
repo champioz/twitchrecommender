@@ -1,0 +1,1 @@
+{"channel": "cw4niaczek", "avg_viewers": 0, "followers_gained": 21, "peak_viewers": 5, "hours_streamed": 107, "streams": 34, "mature": 0, "language": "Polish", "account_age": 3706560.0}

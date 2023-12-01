@@ -1,0 +1,1 @@
+{"channel": "rhijitsu", "avg_viewers": 1, "followers_gained": 8, "peak_viewers": 6, "hours_streamed": 16, "streams": 8, "mature": 1, "language": "Russian", "account_age": 2540160.0}

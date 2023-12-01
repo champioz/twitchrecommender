@@ -1,0 +1,1 @@
+{"channel": "sc2showtime", "avg_viewers": 468, "followers_gained": 324, "peak_viewers": 760, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "English", "account_age": 3663360.0}

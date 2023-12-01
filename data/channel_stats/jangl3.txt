@@ -1,0 +1,1 @@
+{"channel": "jangl3", "avg_viewers": 26, "followers_gained": 51, "peak_viewers": 172, "hours_streamed": 36, "streams": 17, "mature": 1, "language": "English", "account_age": 3202560.0}

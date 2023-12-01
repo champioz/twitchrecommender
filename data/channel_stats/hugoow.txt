@@ -1,0 +1,1 @@
+{"channel": "hugoow", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 8, "hours_streamed": 14, "streams": 5, "mature": 0, "language": "Portuguese", "account_age": 764640.0}

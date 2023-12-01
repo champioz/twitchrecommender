@@ -1,0 +1,1 @@
+{"channel": "sxyter", "avg_viewers": 21, "followers_gained": 88, "peak_viewers": 84, "hours_streamed": 24, "streams": 8, "mature": 0, "language": "Russian", "account_age": 2710080.0}

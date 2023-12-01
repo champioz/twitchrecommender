@@ -1,0 +1,1 @@
+{"channel": "baderm2", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 2, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Arabic", "account_age": 1087200.0}

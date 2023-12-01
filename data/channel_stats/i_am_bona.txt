@@ -1,0 +1,1 @@
+{"channel": "i_am_bona", "avg_viewers": 40, "followers_gained": 72, "peak_viewers": 98, "hours_streamed": 41, "streams": 17, "mature": 0, "language": "Korean", "account_age": 552960.0}

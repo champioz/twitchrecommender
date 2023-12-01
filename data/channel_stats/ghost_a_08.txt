@@ -1,0 +1,1 @@
+{"channel": "ghost_a_08", "avg_viewers": 36, "followers_gained": 154, "peak_viewers": 141, "hours_streamed": 53, "streams": 11, "mature": 1, "language": "English", "account_age": 3674880.0}

@@ -1,0 +1,1 @@
+{"channel": "bgjack1", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "English", "account_age": 367200.0}

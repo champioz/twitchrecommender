@@ -1,0 +1,1 @@
+{"channel": "dr_jimbeam", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 17, "streams": 3, "mature": 1, "language": "German", "account_age": 803520.0}

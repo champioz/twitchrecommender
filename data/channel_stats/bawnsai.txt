@@ -1,0 +1,1 @@
+{"channel": "bawnsai", "avg_viewers": 267, "followers_gained": 1259, "peak_viewers": 859, "hours_streamed": 209, "streams": 30, "mature": 0, "language": "English", "account_age": 3215520.0}

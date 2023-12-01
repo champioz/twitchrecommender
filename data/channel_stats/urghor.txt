@@ -1,0 +1,1 @@
+{"channel": "urghor", "avg_viewers": 10, "followers_gained": 5, "peak_viewers": 19, "hours_streamed": 29, "streams": 7, "mature": 1, "language": "English", "account_age": 2242080.0}

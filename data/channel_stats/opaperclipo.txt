@@ -1,0 +1,1 @@
+{"channel": "opaperclipo", "avg_viewers": 12, "followers_gained": 180, "peak_viewers": 41, "hours_streamed": 122, "streams": 42, "mature": 1, "language": "English", "account_age": 374400.0}

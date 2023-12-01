@@ -1,0 +1,1 @@
+{"channel": "og1tv", "avg_viewers": 5, "followers_gained": 12, "peak_viewers": 14, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "Turkish", "account_age": 309600.0}

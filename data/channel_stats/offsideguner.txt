@@ -1,0 +1,1 @@
+{"channel": "offsideguner", "avg_viewers": 7, "followers_gained": 56, "peak_viewers": 20, "hours_streamed": 61, "streams": 13, "mature": 0, "language": "English", "account_age": 771840.0}

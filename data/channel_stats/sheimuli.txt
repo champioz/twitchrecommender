@@ -1,0 +1,1 @@
+{"channel": "sheimuli", "avg_viewers": 7, "followers_gained": 42, "peak_viewers": 100, "hours_streamed": 78, "streams": 31, "mature": 1, "language": "Finnish", "account_age": 1245600.0}

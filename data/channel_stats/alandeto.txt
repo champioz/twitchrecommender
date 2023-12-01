@@ -1,0 +1,1 @@
+{"channel": "alandeto", "avg_viewers": 24, "followers_gained": 75, "peak_viewers": 225, "hours_streamed": 151, "streams": 25, "mature": 1, "language": "English", "account_age": 1808640.0}

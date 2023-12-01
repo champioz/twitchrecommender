@@ -1,0 +1,1 @@
+{"channel": "jahtojutro", "avg_viewers": 40, "followers_gained": 29, "peak_viewers": 52, "hours_streamed": 3, "streams": 3, "mature": 0, "language": "Other", "account_age": 372960.0}

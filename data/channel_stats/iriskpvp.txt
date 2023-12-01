@@ -1,0 +1,1 @@
+{"channel": "iriskpvp", "avg_viewers": 469, "followers_gained": 5844, "peak_viewers": 809, "hours_streamed": 132, "streams": 25, "mature": 1, "language": "English", "account_age": 3493440.0}

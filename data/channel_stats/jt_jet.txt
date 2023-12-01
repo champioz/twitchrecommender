@@ -1,0 +1,1 @@
+{"channel": "jt_jet", "avg_viewers": 28, "followers_gained": 75, "peak_viewers": 65, "hours_streamed": 85, "streams": 29, "mature": 0, "language": "English", "account_age": 650880.0}

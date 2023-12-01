@@ -1,0 +1,1 @@
+{"channel": "mortal_kombat_online", "avg_viewers": 14, "followers_gained": 146, "peak_viewers": 95, "hours_streamed": 28, "streams": 9, "mature": 1, "language": "English", "account_age": 632160.0}

@@ -1,0 +1,1 @@
+{"channel": "codedghost2", "avg_viewers": 15, "followers_gained": 39, "peak_viewers": 47, "hours_streamed": 58, "streams": 13, "mature": 1, "language": "English", "account_age": 1344960.0}

@@ -1,0 +1,1 @@
+{"channel": "stinkeldinkel", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 15, "streams": 6, "mature": 1, "language": "German", "account_age": 1781280.0}

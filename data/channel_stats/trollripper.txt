@@ -1,0 +1,1 @@
+{"channel": "trollripper", "avg_viewers": 12, "followers_gained": 19, "peak_viewers": 56, "hours_streamed": 124, "streams": 21, "mature": 1, "language": "English", "account_age": 3147840.0}

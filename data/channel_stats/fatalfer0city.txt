@@ -1,0 +1,1 @@
+{"channel": "fatalfer0city", "avg_viewers": 6, "followers_gained": 6, "peak_viewers": 16, "hours_streamed": 28, "streams": 7, "mature": 1, "language": "English", "account_age": 2574720.0}

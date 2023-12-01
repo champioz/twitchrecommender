@@ -1,0 +1,1 @@
+{"channel": "bloody_hope", "avg_viewers": 3, "followers_gained": 14, "peak_viewers": 25, "hours_streamed": 143, "streams": 31, "mature": 1, "language": "German", "account_age": 2606400.0}

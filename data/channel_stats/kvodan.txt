@@ -1,0 +1,1 @@
+{"channel": "kvodan", "avg_viewers": 56, "followers_gained": 419, "peak_viewers": 96, "hours_streamed": 68, "streams": 18, "mature": 0, "language": "Russian", "account_age": 3195360.0}

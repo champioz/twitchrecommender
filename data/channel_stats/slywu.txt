@@ -1,0 +1,1 @@
+{"channel": "slywu", "avg_viewers": 8, "followers_gained": 8, "peak_viewers": 20, "hours_streamed": 27, "streams": 8, "mature": 1, "language": "German", "account_age": 3065760.0}

@@ -1,0 +1,1 @@
+{"channel": "sam_twitches", "avg_viewers": 9, "followers_gained": 0, "peak_viewers": 16, "hours_streamed": 13, "streams": 4, "mature": 0, "language": "English", "account_age": 648000.0}

@@ -1,0 +1,1 @@
+{"channel": "x_nightmare_x", "avg_viewers": 8, "followers_gained": 38, "peak_viewers": 75, "hours_streamed": 100, "streams": 40, "mature": 1, "language": "English", "account_age": 2446560.0}

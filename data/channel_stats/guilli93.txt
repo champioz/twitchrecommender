@@ -1,0 +1,1 @@
+{"channel": "guilli93", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 5, "streams": 3, "mature": 1, "language": "Portuguese", "account_age": 1023840.0}

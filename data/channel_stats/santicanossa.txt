@@ -1,0 +1,1 @@
+{"channel": "santicanossa", "avg_viewers": 2, "followers_gained": 175, "peak_viewers": 105, "hours_streamed": 107, "streams": 57, "mature": 0, "language": "Portuguese", "account_age": 1376640.0}

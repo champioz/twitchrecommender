@@ -1,0 +1,1 @@
+{"channel": "bnq_", "avg_viewers": 180, "followers_gained": 2752, "peak_viewers": 584, "hours_streamed": 55, "streams": 23, "mature": 0, "language": "Russian", "account_age": 2437920.0}

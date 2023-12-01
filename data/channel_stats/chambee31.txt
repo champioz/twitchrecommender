@@ -1,0 +1,1 @@
+{"channel": "chambee31", "avg_viewers": 9, "followers_gained": 21, "peak_viewers": 28, "hours_streamed": 93, "streams": 17, "mature": 0, "language": "Korean", "account_age": 1981440.0}

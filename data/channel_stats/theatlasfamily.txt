@@ -1,0 +1,1 @@
+{"channel": "theatlasfamily", "avg_viewers": 31, "followers_gained": 221, "peak_viewers": 88, "hours_streamed": 184, "streams": 40, "mature": 1, "language": "English", "account_age": 443520.0}

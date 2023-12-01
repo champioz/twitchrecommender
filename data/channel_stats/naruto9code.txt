@@ -1,0 +1,1 @@
+{"channel": "naruto9code", "avg_viewers": 25, "followers_gained": 70, "peak_viewers": 652, "hours_streamed": 23, "streams": 6, "mature": 0, "language": "Italian", "account_age": 3600000.0}

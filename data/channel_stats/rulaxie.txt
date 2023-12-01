@@ -1,0 +1,1 @@
+{"channel": "rulaxie", "avg_viewers": 14, "followers_gained": 22, "peak_viewers": 306, "hours_streamed": 61, "streams": 12, "mature": 0, "language": "English", "account_age": 3765600.0}

@@ -1,0 +1,1 @@
+{"channel": "paradoxal_games", "avg_viewers": 8, "followers_gained": 18, "peak_viewers": 22, "hours_streamed": 40, "streams": 14, "mature": 0, "language": "Portuguese", "account_age": 1487520.0}

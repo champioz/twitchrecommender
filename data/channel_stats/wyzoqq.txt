@@ -1,0 +1,1 @@
+{"channel": "wyzoqq", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 2, "hours_streamed": 45, "streams": 31, "mature": 0, "language": "German", "account_age": 154080.0}

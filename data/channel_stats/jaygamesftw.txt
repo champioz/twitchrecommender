@@ -1,0 +1,1 @@
+{"channel": "jaygamesftw", "avg_viewers": 9, "followers_gained": 5, "peak_viewers": 19, "hours_streamed": 19, "streams": 5, "mature": 1, "language": "English", "account_age": 2610720.0}

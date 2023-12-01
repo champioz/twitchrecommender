@@ -1,0 +1,1 @@
+{"channel": "rabid_carrot", "avg_viewers": 2, "followers_gained": 37, "peak_viewers": 6, "hours_streamed": 31, "streams": 19, "mature": 0, "language": "English", "account_age": 2669760.0}

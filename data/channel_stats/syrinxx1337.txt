@@ -1,0 +1,1 @@
+{"channel": "syrinxx1337", "avg_viewers": 699, "followers_gained": 640, "peak_viewers": 1140, "hours_streamed": 42, "streams": 7, "mature": 1, "language": "German", "account_age": 2990880.0}

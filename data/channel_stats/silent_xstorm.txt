@@ -1,0 +1,1 @@
+{"channel": "silent_xstorm", "avg_viewers": 27, "followers_gained": 279, "peak_viewers": 109, "hours_streamed": 200, "streams": 27, "mature": 1, "language": "German", "account_age": 928800.0}

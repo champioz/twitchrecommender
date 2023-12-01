@@ -1,0 +1,1 @@
+{"channel": "acasualdadgamer", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 37, "streams": 8, "mature": 1, "language": "English", "account_age": 1431360.0}

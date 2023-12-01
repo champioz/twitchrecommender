@@ -1,0 +1,1 @@
+{"channel": "obogul", "avg_viewers": 78, "followers_gained": 308, "peak_viewers": 211, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Italian", "account_age": 1941120.0}

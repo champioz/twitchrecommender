@@ -1,0 +1,1 @@
+{"channel": "warxwolf303", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 4, "hours_streamed": 26, "streams": 18, "mature": 1, "language": "English", "account_age": 2753280.0}

@@ -1,0 +1,1 @@
+{"channel": "sjow", "avg_viewers": 972, "followers_gained": 274, "peak_viewers": 2553, "hours_streamed": 217, "streams": 32, "mature": 0, "language": "English", "account_age": 4307040.0}

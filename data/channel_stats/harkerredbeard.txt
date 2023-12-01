@@ -1,0 +1,1 @@
+{"channel": "harkerredbeard", "avg_viewers": 14, "followers_gained": 64, "peak_viewers": 42, "hours_streamed": 134, "streams": 25, "mature": 0, "language": "English", "account_age": 1948320.0}

@@ -1,0 +1,1 @@
+{"channel": "namiizu", "avg_viewers": 31, "followers_gained": 1, "peak_viewers": 48, "hours_streamed": 8, "streams": 2, "mature": 0, "language": "German", "account_age": 2332800.0}

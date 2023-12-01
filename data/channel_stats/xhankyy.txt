@@ -1,0 +1,1 @@
+{"channel": "xhankyy", "avg_viewers": 104, "followers_gained": 290, "peak_viewers": 858, "hours_streamed": 120, "streams": 27, "mature": 0, "language": "German", "account_age": 3096000.0}

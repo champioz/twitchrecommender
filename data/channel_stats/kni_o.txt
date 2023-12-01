@@ -1,0 +1,1 @@
+{"channel": "kni_o", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 20, "hours_streamed": 59, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 1758240.0}

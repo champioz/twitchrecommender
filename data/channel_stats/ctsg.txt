@@ -1,0 +1,1 @@
+{"channel": "ctsg", "avg_viewers": 41, "followers_gained": 14, "peak_viewers": 58, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "Polish", "account_age": 4129920.0}

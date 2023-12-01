@@ -1,0 +1,1 @@
+{"channel": "yavuzkamer", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 6, "streams": 8, "mature": 0, "language": "Turkish", "account_age": 1179360.0}

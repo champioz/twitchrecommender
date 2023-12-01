@@ -1,0 +1,1 @@
+{"channel": "0hanibal0", "avg_viewers": 4, "followers_gained": 131, "peak_viewers": 19, "hours_streamed": 92, "streams": 54, "mature": 1, "language": "Hungarian", "account_age": 1340640.0}

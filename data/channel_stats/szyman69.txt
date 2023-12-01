@@ -1,0 +1,1 @@
+{"channel": "szyman69", "avg_viewers": 324, "followers_gained": 1979, "peak_viewers": 1164, "hours_streamed": 117, "streams": 24, "mature": 1, "language": "Polish", "account_age": 2507040.0}

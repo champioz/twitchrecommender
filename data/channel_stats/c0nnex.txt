@@ -1,0 +1,1 @@
+{"channel": "c0nnex", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 28, "hours_streamed": 108, "streams": 22, "mature": 1, "language": "German", "account_age": 3358080.0}

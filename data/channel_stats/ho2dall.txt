@@ -1,0 +1,1 @@
+{"channel": "ho2dall", "avg_viewers": 11, "followers_gained": 12, "peak_viewers": 21, "hours_streamed": 15, "streams": 6, "mature": 0, "language": "Korean", "account_age": 228960.0}

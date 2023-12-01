@@ -1,0 +1,1 @@
+{"channel": "vexian", "avg_viewers": 6, "followers_gained": 178, "peak_viewers": 15, "hours_streamed": 182, "streams": 42, "mature": 0, "language": "English", "account_age": 1807200.0}

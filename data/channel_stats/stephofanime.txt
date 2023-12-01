@@ -1,0 +1,1 @@
+{"channel": "stephofanime", "avg_viewers": 66, "followers_gained": 509, "peak_viewers": 113, "hours_streamed": 62, "streams": 16, "mature": 0, "language": "English", "account_age": 2292480.0}

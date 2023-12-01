@@ -1,0 +1,1 @@
+{"channel": "gratis150ml", "avg_viewers": 1744, "followers_gained": 10567, "peak_viewers": 5581, "hours_streamed": 302, "streams": 28, "mature": 1, "language": "Portuguese", "account_age": 2986560.0}

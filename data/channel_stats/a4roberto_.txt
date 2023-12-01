@@ -1,0 +1,1 @@
+{"channel": "a4roberto_", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 2, "streams": 2, "mature": 1, "language": "Portuguese", "account_age": 996480.0}

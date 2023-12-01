@@ -1,0 +1,1 @@
+{"channel": "jnricoo", "avg_viewers": 9, "followers_gained": 24, "peak_viewers": 28, "hours_streamed": 20, "streams": 8, "mature": 0, "language": "Dutch", "account_age": 2028960.0}

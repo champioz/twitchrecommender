@@ -1,0 +1,1 @@
+{"channel": "fladdertv", "avg_viewers": 4, "followers_gained": 48, "peak_viewers": 17, "hours_streamed": 132, "streams": 36, "mature": 1, "language": "Swedish", "account_age": 3830400.0}

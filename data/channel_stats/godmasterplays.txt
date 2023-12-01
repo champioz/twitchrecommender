@@ -1,0 +1,1 @@
+{"channel": "godmasterplays", "avg_viewers": 7, "followers_gained": 43, "peak_viewers": 18, "hours_streamed": 14, "streams": 6, "mature": 0, "language": "English", "account_age": 1419840.0}

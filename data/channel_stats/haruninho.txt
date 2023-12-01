@@ -1,0 +1,1 @@
+{"channel": "haruninho", "avg_viewers": 24, "followers_gained": 77, "peak_viewers": 87, "hours_streamed": 151, "streams": 30, "mature": 1, "language": "French", "account_age": 2653920.0}

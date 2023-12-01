@@ -1,0 +1,1 @@
+{"channel": "airwisbts", "avg_viewers": 385, "followers_gained": 64, "peak_viewers": 975, "hours_streamed": 93, "streams": 20, "mature": 1, "language": "Russian", "account_age": 2581920.0}

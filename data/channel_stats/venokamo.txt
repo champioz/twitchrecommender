@@ -1,0 +1,1 @@
+{"channel": "venokamo", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 18, "hours_streamed": 120, "streams": 22, "mature": 1, "language": "German", "account_age": 3303360.0}

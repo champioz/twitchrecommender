@@ -1,0 +1,1 @@
+{"channel": "zneverdodge", "avg_viewers": 11, "followers_gained": 100, "peak_viewers": 28, "hours_streamed": 102, "streams": 21, "mature": 0, "language": "English", "account_age": 3529440.0}

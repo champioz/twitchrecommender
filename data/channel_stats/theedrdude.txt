@@ -1,0 +1,1 @@
+{"channel": "theedrdude", "avg_viewers": 11, "followers_gained": 51, "peak_viewers": 32, "hours_streamed": 148, "streams": 19, "mature": 1, "language": "English", "account_age": 5506560.0}

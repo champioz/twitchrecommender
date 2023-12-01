@@ -1,0 +1,1 @@
+{"channel": "nudgemania", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 5, "streams": 4, "mature": 1, "language": "Turkish", "account_age": 3384000.0}

@@ -1,0 +1,1 @@
+{"channel": "old_tony", "avg_viewers": 14, "followers_gained": 24, "peak_viewers": 38, "hours_streamed": 54, "streams": 17, "mature": 1, "language": "French", "account_age": 1483200.0}

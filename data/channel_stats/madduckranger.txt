@@ -1,0 +1,1 @@
+{"channel": "madduckranger", "avg_viewers": 25, "followers_gained": 80, "peak_viewers": 53, "hours_streamed": 150, "streams": 24, "mature": 0, "language": "Thai", "account_age": 1522080.0}

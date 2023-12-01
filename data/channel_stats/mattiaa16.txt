@@ -1,0 +1,1 @@
+{"channel": "mattiaa16", "avg_viewers": 37, "followers_gained": 75, "peak_viewers": 72, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "Italian", "account_age": 538560.0}

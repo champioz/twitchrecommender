@@ -1,0 +1,1 @@
+{"channel": "suziegaming", "avg_viewers": 61, "followers_gained": 61, "peak_viewers": 122, "hours_streamed": 31, "streams": 10, "mature": 0, "language": "English", "account_age": 1254240.0}

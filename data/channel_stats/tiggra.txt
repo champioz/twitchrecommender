@@ -1,0 +1,1 @@
+{"channel": "tiggra", "avg_viewers": 623, "followers_gained": 4948, "peak_viewers": 1439, "hours_streamed": 80, "streams": 36, "mature": 0, "language": "English", "account_age": 1136160.0}

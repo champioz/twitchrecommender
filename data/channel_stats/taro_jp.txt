@@ -1,0 +1,1 @@
+{"channel": "taro_jp", "avg_viewers": 30, "followers_gained": 0, "peak_viewers": 38, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Japanese", "account_age": 2532960.0}

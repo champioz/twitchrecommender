@@ -1,0 +1,1 @@
+{"channel": "lightningpoker_", "avg_viewers": 10, "followers_gained": 5, "peak_viewers": 22, "hours_streamed": 7, "streams": 4, "mature": 0, "language": "English", "account_age": 586080.0}

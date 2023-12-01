@@ -1,0 +1,1 @@
+{"channel": "canibauz", "avg_viewers": 4, "followers_gained": 27, "peak_viewers": 32, "hours_streamed": 168, "streams": 36, "mature": 1, "language": "English", "account_age": 4122720.0}

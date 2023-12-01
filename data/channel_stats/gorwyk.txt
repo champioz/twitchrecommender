@@ -1,0 +1,1 @@
+{"channel": "gorwyk", "avg_viewers": 19, "followers_gained": 26, "peak_viewers": 54, "hours_streamed": 72, "streams": 11, "mature": 1, "language": "German", "account_age": 1866240.0}

@@ -1,0 +1,1 @@
+{"channel": "waveon", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 63, "streams": 16, "mature": 0, "language": "English", "account_age": 3503520.0}

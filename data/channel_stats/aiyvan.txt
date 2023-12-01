@@ -1,0 +1,1 @@
+{"channel": "aiyvan", "avg_viewers": 66, "followers_gained": 735, "peak_viewers": 198, "hours_streamed": 66, "streams": 12, "mature": 1, "language": "Ukrainian", "account_age": 3157920.0}

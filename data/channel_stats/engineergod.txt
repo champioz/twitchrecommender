@@ -1,0 +1,1 @@
+{"channel": "engineergod", "avg_viewers": 40, "followers_gained": 483, "peak_viewers": 320, "hours_streamed": 156, "streams": 35, "mature": 0, "language": "English", "account_age": 2836800.0}

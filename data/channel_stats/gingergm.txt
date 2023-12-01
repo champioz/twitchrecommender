@@ -1,0 +1,1 @@
+{"channel": "gingergm", "avg_viewers": 248, "followers_gained": 175, "peak_viewers": 410, "hours_streamed": 25, "streams": 8, "mature": 0, "language": "English", "account_age": 2782080.0}

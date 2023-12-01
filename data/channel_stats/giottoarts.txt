@@ -1,0 +1,1 @@
+{"channel": "giottoarts", "avg_viewers": 4, "followers_gained": 61, "peak_viewers": 36, "hours_streamed": 117, "streams": 28, "mature": 1, "language": "Spanish", "account_age": 2288160.0}

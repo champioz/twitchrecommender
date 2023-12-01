@@ -1,0 +1,1 @@
+{"channel": "lucchi", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 9, "hours_streamed": 46, "streams": 12, "mature": 1, "language": "Portuguese", "account_age": 1447200.0}

@@ -1,0 +1,1 @@
+{"channel": "ndrusha", "avg_viewers": 3, "followers_gained": 9, "peak_viewers": 13, "hours_streamed": 24, "streams": 5, "mature": 1, "language": "Russian", "account_age": 2367360.0}

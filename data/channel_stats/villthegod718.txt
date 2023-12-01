@@ -1,0 +1,1 @@
+{"channel": "villthegod718", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 53, "streams": 30, "mature": 0, "language": "English", "account_age": 1808640.0}

@@ -1,0 +1,1 @@
+{"channel": "omejechka", "avg_viewers": 6, "followers_gained": 26, "peak_viewers": 41, "hours_streamed": 114, "streams": 27, "mature": 0, "language": "Russian", "account_age": 2760480.0}

@@ -1,0 +1,1 @@
+{"channel": "linaliaa", "avg_viewers": 576, "followers_gained": 28858, "peak_viewers": 8914, "hours_streamed": 259, "streams": 53, "mature": 0, "language": "French", "account_age": 561600.0}

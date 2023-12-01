@@ -1,0 +1,1 @@
+{"channel": "wo_dan", "avg_viewers": 8, "followers_gained": 1, "peak_viewers": 16, "hours_streamed": 11, "streams": 3, "mature": 0, "language": "German", "account_age": 2521440.0}

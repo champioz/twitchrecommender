@@ -1,0 +1,1 @@
+{"channel": "xdevotv", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 39, "streams": 11, "mature": 1, "language": "German", "account_age": 1167840.0}

@@ -1,0 +1,1 @@
+{"channel": "zrush", "avg_viewers": 2277, "followers_gained": 3985, "peak_viewers": 4403, "hours_streamed": 171, "streams": 29, "mature": 1, "language": "Chinese", "account_age": 4695840.0}

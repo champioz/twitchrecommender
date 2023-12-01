@@ -1,0 +1,1 @@
+{"channel": "blacksilverexs", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 18, "hours_streamed": 28, "streams": 5, "mature": 1, "language": "German", "account_age": 2376000.0}

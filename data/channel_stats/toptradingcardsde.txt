@@ -1,0 +1,1 @@
+{"channel": "toptradingcardsde", "avg_viewers": 27, "followers_gained": 29, "peak_viewers": 38, "hours_streamed": 12, "streams": 8, "mature": 0, "language": "German", "account_age": 2229120.0}

@@ -1,0 +1,1 @@
+{"channel": "bypepe77", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 4, "streams": 4, "mature": 1, "language": "Spanish", "account_age": 1218240.0}

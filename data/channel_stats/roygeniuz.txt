@@ -1,0 +1,1 @@
+{"channel": "roygeniuz", "avg_viewers": 8, "followers_gained": 4, "peak_viewers": 32, "hours_streamed": 21, "streams": 9, "mature": 1, "language": "Spanish", "account_age": 2748960.0}

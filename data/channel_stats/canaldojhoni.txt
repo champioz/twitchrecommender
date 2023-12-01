@@ -1,0 +1,1 @@
+{"channel": "canaldojhoni", "avg_viewers": 18, "followers_gained": 71, "peak_viewers": 55, "hours_streamed": 66, "streams": 33, "mature": 0, "language": "Portuguese", "account_age": 1414080.0}

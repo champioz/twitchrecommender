@@ -1,0 +1,1 @@
+{"channel": "c4credit", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 63, "streams": 12, "mature": 1, "language": "English", "account_age": 4577760.0}

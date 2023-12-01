@@ -1,0 +1,1 @@
+{"channel": "leejoosu", "avg_viewers": 1, "followers_gained": 16, "peak_viewers": 12, "hours_streamed": 65, "streams": 19, "mature": 0, "language": "Korean", "account_age": 396000.0}

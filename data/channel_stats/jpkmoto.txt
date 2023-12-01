@@ -1,0 +1,1 @@
+{"channel": "jpkmoto", "avg_viewers": 32, "followers_gained": 122, "peak_viewers": 336, "hours_streamed": 115, "streams": 24, "mature": 1, "language": "English", "account_age": 2682720.0}

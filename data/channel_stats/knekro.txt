@@ -1,0 +1,1 @@
+{"channel": "knekro", "avg_viewers": 2073, "followers_gained": 3042, "peak_viewers": 3174, "hours_streamed": 100, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 1218240.0}

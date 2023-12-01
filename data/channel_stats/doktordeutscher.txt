@@ -1,0 +1,1 @@
+{"channel": "doktordeutscher", "avg_viewers": 17, "followers_gained": 5, "peak_viewers": 165, "hours_streamed": 80, "streams": 21, "mature": 1, "language": "German", "account_age": 2397600.0}

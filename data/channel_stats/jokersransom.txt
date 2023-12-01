@@ -1,0 +1,1 @@
+{"channel": "jokersransom", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 3, "streams": 4, "mature": 0, "language": "English", "account_age": 2007360.0}

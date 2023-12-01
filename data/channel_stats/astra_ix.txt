@@ -1,0 +1,1 @@
+{"channel": "astra_ix", "avg_viewers": 34, "followers_gained": 157, "peak_viewers": 117, "hours_streamed": 97, "streams": 23, "mature": 0, "language": "English", "account_age": 1860480.0}

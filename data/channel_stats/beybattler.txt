@@ -1,0 +1,1 @@
+{"channel": "beybattler", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 37, "streams": 18, "mature": 0, "language": "English", "account_age": 2583360.0}

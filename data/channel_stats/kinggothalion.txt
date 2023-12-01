@@ -1,0 +1,1 @@
+{"channel": "kinggothalion", "avg_viewers": 3521, "followers_gained": 5541, "peak_viewers": 10592, "hours_streamed": 202, "streams": 32, "mature": 0, "language": "English", "account_age": 3257280.0}

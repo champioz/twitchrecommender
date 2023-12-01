@@ -1,0 +1,1 @@
+{"channel": "studyy", "avg_viewers": 61, "followers_gained": 599, "peak_viewers": 440, "hours_streamed": 130, "streams": 27, "mature": 0, "language": "English", "account_age": 3990240.0}

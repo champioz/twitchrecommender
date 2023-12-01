@@ -1,0 +1,1 @@
+{"channel": "jotacanario", "avg_viewers": 61, "followers_gained": 761, "peak_viewers": 332, "hours_streamed": 184, "streams": 32, "mature": 1, "language": "Spanish", "account_age": 2265120.0}

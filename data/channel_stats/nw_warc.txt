@@ -1,0 +1,1 @@
+{"channel": "nw_warc", "avg_viewers": 12, "followers_gained": 802, "peak_viewers": 253, "hours_streamed": 147, "streams": 52, "mature": 0, "language": "Russian", "account_age": 2466720.0}

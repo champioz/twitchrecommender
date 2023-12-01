@@ -1,0 +1,1 @@
+{"channel": "cabrito_montes", "avg_viewers": 107, "followers_gained": 128, "peak_viewers": 184, "hours_streamed": 114, "streams": 19, "mature": 0, "language": "Portuguese", "account_age": 1170720.0}

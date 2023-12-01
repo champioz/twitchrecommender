@@ -1,0 +1,1 @@
+{"channel": "boxer_lim", "avg_viewers": 914, "followers_gained": 115, "peak_viewers": 1629, "hours_streamed": 13, "streams": 3, "mature": 0, "language": "Korean", "account_age": 365760.0}

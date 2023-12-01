@@ -1,0 +1,1 @@
+{"channel": "harutomo", "avg_viewers": 6, "followers_gained": 11, "peak_viewers": 28, "hours_streamed": 40, "streams": 21, "mature": 0, "language": "Japanese", "account_age": 4903200.0}

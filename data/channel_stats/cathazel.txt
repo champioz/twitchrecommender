@@ -1,0 +1,1 @@
+{"channel": "cathazel", "avg_viewers": 87, "followers_gained": 25, "peak_viewers": 100, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Turkish", "account_age": 1257120.0}

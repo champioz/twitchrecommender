@@ -1,0 +1,1 @@
+{"channel": "floriixnfn", "avg_viewers": 30, "followers_gained": 123, "peak_viewers": 57, "hours_streamed": 9, "streams": 6, "mature": 0, "language": "German", "account_age": 2289600.0}

@@ -1,0 +1,1 @@
+{"channel": "renniesaurus", "avg_viewers": 122, "followers_gained": 154, "peak_viewers": 1164, "hours_streamed": 193, "streams": 25, "mature": 0, "language": "English", "account_age": 2931840.0}

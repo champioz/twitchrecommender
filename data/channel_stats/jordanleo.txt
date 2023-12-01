@@ -1,0 +1,1 @@
+{"channel": "jordanleo", "avg_viewers": 1, "followers_gained": 21, "peak_viewers": 11, "hours_streamed": 207, "streams": 41, "mature": 1, "language": "English", "account_age": 940320.0}

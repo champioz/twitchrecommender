@@ -1,0 +1,1 @@
+{"channel": "kkorime", "avg_viewers": 13, "followers_gained": 12, "peak_viewers": 23, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 990720.0}

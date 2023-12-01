@@ -1,0 +1,1 @@
+{"channel": "drknaw", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 5, "streams": 5, "mature": 1, "language": "English", "account_age": 1991520.0}

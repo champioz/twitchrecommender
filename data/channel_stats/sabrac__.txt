@@ -1,0 +1,1 @@
+{"channel": "sabrac__", "avg_viewers": 106, "followers_gained": 238, "peak_viewers": 380, "hours_streamed": 77, "streams": 30, "mature": 0, "language": "Japanese", "account_age": 1347840.0}

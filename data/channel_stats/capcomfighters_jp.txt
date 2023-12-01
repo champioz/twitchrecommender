@@ -1,0 +1,1 @@
+{"channel": "capcomfighters_jp", "avg_viewers": 2345, "followers_gained": 303, "peak_viewers": 5159, "hours_streamed": 10, "streams": 2, "mature": 0, "language": "Japanese", "account_age": 1298880.0}

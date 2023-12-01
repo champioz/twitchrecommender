@@ -1,0 +1,1 @@
+{"channel": "smallexplamp", "avg_viewers": 41, "followers_gained": 207, "peak_viewers": 70, "hours_streamed": 54, "streams": 11, "mature": 0, "language": "English", "account_age": 2710080.0}

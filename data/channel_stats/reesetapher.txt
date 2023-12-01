@@ -1,0 +1,1 @@
+{"channel": "reesetapher", "avg_viewers": 25, "followers_gained": 8, "peak_viewers": 68, "hours_streamed": 80, "streams": 17, "mature": 1, "language": "English", "account_age": 2494080.0}

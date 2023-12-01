@@ -1,0 +1,1 @@
+{"channel": "fenyxu", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 19, "hours_streamed": 34, "streams": 16, "mature": 1, "language": "Spanish", "account_age": 3951360.0}

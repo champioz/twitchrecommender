@@ -1,0 +1,1 @@
+{"channel": "covert_muffin", "avg_viewers": 57, "followers_gained": 344, "peak_viewers": 922, "hours_streamed": 81, "streams": 22, "mature": 1, "language": "English", "account_age": 3611520.0}

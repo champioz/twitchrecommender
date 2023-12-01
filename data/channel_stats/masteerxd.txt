@@ -1,0 +1,1 @@
+{"channel": "masteerxd", "avg_viewers": 880, "followers_gained": 36606, "peak_viewers": 3967, "hours_streamed": 266, "streams": 61, "mature": 1, "language": "Portuguese", "account_age": 502560.0}

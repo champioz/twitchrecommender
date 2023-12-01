@@ -1,0 +1,1 @@
+{"channel": "classboso", "avg_viewers": 108, "followers_gained": 29, "peak_viewers": 485, "hours_streamed": 303, "streams": 36, "mature": 0, "language": "English", "account_age": 2190240.0}

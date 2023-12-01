@@ -1,0 +1,1 @@
+{"channel": "maura55", "avg_viewers": 84, "followers_gained": 126, "peak_viewers": 253, "hours_streamed": 24, "streams": 11, "mature": 0, "language": "Spanish", "account_age": 2831040.0}

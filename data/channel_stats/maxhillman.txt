@@ -1,0 +1,1 @@
+{"channel": "maxhillman", "avg_viewers": 3, "followers_gained": 14, "peak_viewers": 11, "hours_streamed": 11, "streams": 11, "mature": 1, "language": "English", "account_age": 4013280.0}

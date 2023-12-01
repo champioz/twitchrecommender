@@ -1,0 +1,1 @@
+{"channel": "sgtgrafoyni", "avg_viewers": 168, "followers_gained": 1167, "peak_viewers": 384, "hours_streamed": 187, "streams": 29, "mature": 0, "language": "Russian", "account_age": 2132640.0}

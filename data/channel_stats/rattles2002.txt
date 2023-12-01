@@ -1,0 +1,1 @@
+{"channel": "rattles2002", "avg_viewers": 28, "followers_gained": 40, "peak_viewers": 86, "hours_streamed": 28, "streams": 15, "mature": 1, "language": "German", "account_age": 2538720.0}

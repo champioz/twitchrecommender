@@ -1,0 +1,1 @@
+{"channel": "pattheflip", "avg_viewers": 33, "followers_gained": 133, "peak_viewers": 287, "hours_streamed": 29, "streams": 13, "mature": 1, "language": "English", "account_age": 4969440.0}

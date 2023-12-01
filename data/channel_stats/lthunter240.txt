@@ -1,0 +1,1 @@
+{"channel": "lthunter240", "avg_viewers": 10, "followers_gained": 79, "peak_viewers": 24, "hours_streamed": 36, "streams": 15, "mature": 0, "language": "English", "account_age": 501120.0}

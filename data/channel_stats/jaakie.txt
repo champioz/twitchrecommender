@@ -1,0 +1,1 @@
+{"channel": "jaakie", "avg_viewers": 13, "followers_gained": 83, "peak_viewers": 44, "hours_streamed": 97, "streams": 31, "mature": 0, "language": "English", "account_age": 3363840.0}

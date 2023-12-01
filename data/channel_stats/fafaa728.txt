@@ -1,0 +1,1 @@
+{"channel": "fafaa728", "avg_viewers": 398, "followers_gained": 191, "peak_viewers": 715, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "Chinese", "account_age": 3882240.0}

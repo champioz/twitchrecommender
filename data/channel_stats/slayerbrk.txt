@@ -1,0 +1,1 @@
+{"channel": "slayerbrk", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 20, "hours_streamed": 13, "streams": 9, "mature": 1, "language": "English", "account_age": 1332000.0}

@@ -1,0 +1,1 @@
+{"channel": "permapregnant", "avg_viewers": 8, "followers_gained": 32, "peak_viewers": 26, "hours_streamed": 122, "streams": 47, "mature": 0, "language": "Italian", "account_age": 564480.0}

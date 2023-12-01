@@ -1,0 +1,1 @@
+{"channel": "trebamax", "avg_viewers": 79, "followers_gained": 2627, "peak_viewers": 217, "hours_streamed": 82, "streams": 30, "mature": 0, "language": "Czech", "account_age": 289440.0}

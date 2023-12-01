@@ -1,0 +1,1 @@
+{"channel": "smap", "avg_viewers": 2, "followers_gained": 28, "peak_viewers": 8, "hours_streamed": 103, "streams": 17, "mature": 0, "language": "German", "account_age": 2844000.0}

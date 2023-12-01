@@ -1,0 +1,1 @@
+{"channel": "anqii", "avg_viewers": 96, "followers_gained": 5, "peak_viewers": 123, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "German", "account_age": 2152800.0}

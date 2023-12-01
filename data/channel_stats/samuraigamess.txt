@@ -1,0 +1,1 @@
+{"channel": "samuraigamess", "avg_viewers": 19, "followers_gained": 117, "peak_viewers": 41, "hours_streamed": 44, "streams": 17, "mature": 1, "language": "Portuguese", "account_age": 3316320.0}

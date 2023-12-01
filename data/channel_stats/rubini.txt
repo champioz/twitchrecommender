@@ -1,0 +1,1 @@
+{"channel": "rubini", "avg_viewers": 717, "followers_gained": 2043, "peak_viewers": 2191, "hours_streamed": 227, "streams": 32, "mature": 1, "language": "Portuguese", "account_age": 1859040.0}

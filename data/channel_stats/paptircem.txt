@@ -1,0 +1,1 @@
+{"channel": "paptircem", "avg_viewers": 20, "followers_gained": 3607, "peak_viewers": 170, "hours_streamed": 17, "streams": 9, "mature": 1, "language": "Turkish", "account_age": 205920.0}

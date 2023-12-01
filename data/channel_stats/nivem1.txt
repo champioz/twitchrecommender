@@ -1,0 +1,1 @@
+{"channel": "nivem1", "avg_viewers": 20, "followers_gained": 180, "peak_viewers": 134, "hours_streamed": 44, "streams": 21, "mature": 1, "language": "Spanish", "account_age": 1527840.0}

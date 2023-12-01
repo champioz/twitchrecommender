@@ -1,0 +1,1 @@
+{"channel": "phasegames", "avg_viewers": 12, "followers_gained": 8193, "peak_viewers": 27, "hours_streamed": 33, "streams": 9, "mature": 0, "language": "English", "account_age": 2970720.0}

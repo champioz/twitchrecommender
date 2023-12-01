@@ -1,0 +1,1 @@
+{"channel": "dark_angel_23", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 11, "hours_streamed": 61, "streams": 13, "mature": 1, "language": "German", "account_age": 1818720.0}

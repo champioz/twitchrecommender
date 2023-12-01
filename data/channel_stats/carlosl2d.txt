@@ -1,0 +1,1 @@
+{"channel": "carlosl2d", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 17, "hours_streamed": 85, "streams": 18, "mature": 1, "language": "English", "account_age": 1785600.0}

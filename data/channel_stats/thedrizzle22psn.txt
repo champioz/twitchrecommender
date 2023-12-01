@@ -1,0 +1,1 @@
+{"channel": "thedrizzle22psn", "avg_viewers": 18, "followers_gained": 102, "peak_viewers": 37, "hours_streamed": 73, "streams": 22, "mature": 1, "language": "English", "account_age": 1232640.0}

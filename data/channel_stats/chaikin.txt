@@ -1,0 +1,1 @@
+{"channel": "chaikin", "avg_viewers": 6, "followers_gained": 46, "peak_viewers": 22, "hours_streamed": 93, "streams": 26, "mature": 1, "language": "Russian", "account_age": 3492000.0}

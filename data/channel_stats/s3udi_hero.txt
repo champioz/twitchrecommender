@@ -1,0 +1,1 @@
+{"channel": "s3udi_hero", "avg_viewers": 23, "followers_gained": 1378, "peak_viewers": 1470, "hours_streamed": 133, "streams": 53, "mature": 0, "language": "Arabic", "account_age": 1082880.0}

@@ -1,0 +1,1 @@
+{"channel": "pollygreenstream", "avg_viewers": 4, "followers_gained": 9, "peak_viewers": 13, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Russian", "account_age": 388800.0}

@@ -1,0 +1,1 @@
+{"channel": "csgofightnight", "avg_viewers": 155, "followers_gained": 345, "peak_viewers": 1159, "hours_streamed": 31, "streams": 15, "mature": 0, "language": "English", "account_age": 227520.0}

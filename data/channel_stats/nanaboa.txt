@@ -1,0 +1,1 @@
+{"channel": "nanaboa", "avg_viewers": 153, "followers_gained": 179, "peak_viewers": 382, "hours_streamed": 125, "streams": 20, "mature": 1, "language": "Chinese", "account_age": 2639520.0}

@@ -1,0 +1,1 @@
+{"channel": "8ull", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "English", "account_age": 3686400.0}

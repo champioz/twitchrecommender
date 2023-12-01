@@ -1,0 +1,1 @@
+{"channel": "sartaziel", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 48, "hours_streamed": 89, "streams": 20, "mature": 1, "language": "French", "account_age": 2580480.0}

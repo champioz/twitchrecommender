@@ -1,0 +1,1 @@
+{"channel": "ceruttera", "avg_viewers": 4, "followers_gained": 22, "peak_viewers": 14, "hours_streamed": 18, "streams": 7, "mature": 0, "language": "Portuguese", "account_age": 836640.0}

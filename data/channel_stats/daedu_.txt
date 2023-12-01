@@ -1,0 +1,1 @@
+{"channel": "daedu_", "avg_viewers": 19, "followers_gained": 38, "peak_viewers": 93, "hours_streamed": 139, "streams": 34, "mature": 0, "language": "Korean", "account_age": 548640.0}

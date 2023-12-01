@@ -1,0 +1,1 @@
+{"channel": "soloprosxl", "avg_viewers": 4, "followers_gained": 121, "peak_viewers": 26, "hours_streamed": 187, "streams": 56, "mature": 1, "language": "Spanish", "account_age": 2090880.0}

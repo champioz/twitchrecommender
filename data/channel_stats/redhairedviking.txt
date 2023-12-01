@@ -1,0 +1,1 @@
+{"channel": "redhairedviking", "avg_viewers": 5, "followers_gained": 59, "peak_viewers": 72, "hours_streamed": 96, "streams": 31, "mature": 1, "language": "English", "account_age": 3421440.0}

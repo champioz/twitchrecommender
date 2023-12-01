@@ -1,0 +1,1 @@
+{"channel": "lampadov", "avg_viewers": 49, "followers_gained": 1, "peak_viewers": 75, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Russian", "account_age": 1049760.0}

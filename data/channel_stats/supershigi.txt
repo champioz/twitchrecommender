@@ -1,0 +1,1 @@
+{"channel": "supershigi", "avg_viewers": 159, "followers_gained": 572, "peak_viewers": 469, "hours_streamed": 34, "streams": 9, "mature": 0, "language": "English", "account_age": 3690720.0}

@@ -1,0 +1,1 @@
+{"channel": "derzinni", "avg_viewers": 17, "followers_gained": 6, "peak_viewers": 78, "hours_streamed": 48, "streams": 13, "mature": 1, "language": "German", "account_age": 2368800.0}

@@ -1,0 +1,1 @@
+{"channel": "projectzero203", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 13, "hours_streamed": 25, "streams": 18, "mature": 1, "language": "English", "account_age": 2772000.0}

@@ -1,0 +1,1 @@
+{"channel": "sevvalice", "avg_viewers": 24, "followers_gained": 81, "peak_viewers": 63, "hours_streamed": 14, "streams": 11, "mature": 1, "language": "Turkish", "account_age": 377280.0}

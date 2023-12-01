@@ -1,0 +1,1 @@
+{"channel": "erickson1010", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "Russian", "account_age": 2308320.0}

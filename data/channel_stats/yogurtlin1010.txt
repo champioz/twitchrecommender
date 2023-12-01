@@ -1,0 +1,1 @@
+{"channel": "yogurtlin1010", "avg_viewers": 991, "followers_gained": 248, "peak_viewers": 1986, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "Chinese", "account_age": 1984320.0}

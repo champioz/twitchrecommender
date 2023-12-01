@@ -1,0 +1,1 @@
+{"channel": "profit_l", "avg_viewers": 13, "followers_gained": 104, "peak_viewers": 35, "hours_streamed": 122, "streams": 39, "mature": 0, "language": "English", "account_age": 669600.0}

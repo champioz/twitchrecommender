@@ -1,0 +1,1 @@
+{"channel": "misslemontree", "avg_viewers": 89, "followers_gained": 53, "peak_viewers": 209, "hours_streamed": 35, "streams": 9, "mature": 1, "language": "German", "account_age": 3324960.0}

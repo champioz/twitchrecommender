@@ -1,0 +1,1 @@
+{"channel": "linololz", "avg_viewers": 29, "followers_gained": 66, "peak_viewers": 202, "hours_streamed": 96, "streams": 22, "mature": 0, "language": "Chinese", "account_age": 2386080.0}

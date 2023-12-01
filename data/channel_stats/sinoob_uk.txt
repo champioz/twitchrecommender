@@ -1,0 +1,1 @@
+{"channel": "sinoob_uk", "avg_viewers": 4, "followers_gained": 16, "peak_viewers": 11, "hours_streamed": 153, "streams": 29, "mature": 1, "language": "English", "account_age": 2976480.0}

@@ -1,0 +1,1 @@
+{"channel": "thejameskz", "avg_viewers": 10, "followers_gained": 59, "peak_viewers": 41, "hours_streamed": 153, "streams": 39, "mature": 1, "language": "English", "account_age": 4199040.0}

@@ -1,0 +1,1 @@
+{"channel": "shybang_min", "avg_viewers": 4, "followers_gained": 50, "peak_viewers": 20, "hours_streamed": 91, "streams": 19, "mature": 0, "language": "Korean", "account_age": 792000.0}

@@ -1,0 +1,1 @@
+{"channel": "arakutv", "avg_viewers": 3, "followers_gained": 15, "peak_viewers": 13, "hours_streamed": 164, "streams": 29, "mature": 1, "language": "English", "account_age": 3873600.0}

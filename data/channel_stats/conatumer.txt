@@ -1,0 +1,1 @@
+{"channel": "conatumer", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 13, "hours_streamed": 100, "streams": 31, "mature": 0, "language": "Korean", "account_age": 1306080.0}

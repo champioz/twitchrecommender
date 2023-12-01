@@ -1,0 +1,1 @@
+{"channel": "thiseguy", "avg_viewers": 723, "followers_gained": 487, "peak_viewers": 2481, "hours_streamed": 80, "streams": 21, "mature": 1, "language": "German", "account_age": 2652480.0}

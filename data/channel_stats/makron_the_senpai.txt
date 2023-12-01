@@ -1,0 +1,1 @@
+{"channel": "makron_the_senpai", "avg_viewers": 6, "followers_gained": 8, "peak_viewers": 17, "hours_streamed": 47, "streams": 12, "mature": 0, "language": "Russian", "account_age": 2096640.0}

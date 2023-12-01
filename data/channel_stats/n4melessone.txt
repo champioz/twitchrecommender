@@ -1,0 +1,1 @@
+{"channel": "n4melessone", "avg_viewers": 13, "followers_gained": 9, "peak_viewers": 75, "hours_streamed": 69, "streams": 13, "mature": 0, "language": "Japanese", "account_age": 3153600.0}

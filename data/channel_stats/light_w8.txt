@@ -1,0 +1,1 @@
+{"channel": "light_w8", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 5, "streams": 4, "mature": 1, "language": "English", "account_age": 2403360.0}

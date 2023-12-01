@@ -1,0 +1,1 @@
+{"channel": "blanket_term", "avg_viewers": 5, "followers_gained": 15, "peak_viewers": 14, "hours_streamed": 45, "streams": 13, "mature": 0, "language": "English", "account_age": 1520640.0}

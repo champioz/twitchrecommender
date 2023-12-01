@@ -1,0 +1,1 @@
+{"channel": "nivriim", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 4, "hours_streamed": 17, "streams": 16, "mature": 0, "language": "Spanish", "account_age": 1419840.0}

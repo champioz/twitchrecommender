@@ -1,0 +1,1 @@
+{"channel": "raahdical", "avg_viewers": 52, "followers_gained": 248, "peak_viewers": 226, "hours_streamed": 113, "streams": 23, "mature": 0, "language": "French", "account_age": 1056960.0}

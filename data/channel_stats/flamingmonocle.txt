@@ -1,0 +1,1 @@
+{"channel": "flamingmonocle", "avg_viewers": 40, "followers_gained": 45, "peak_viewers": 76, "hours_streamed": 64, "streams": 17, "mature": 0, "language": "English", "account_age": 2812320.0}

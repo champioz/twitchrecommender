@@ -1,0 +1,1 @@
+{"channel": "hairraito", "avg_viewers": 31, "followers_gained": 2080, "peak_viewers": 94, "hours_streamed": 196, "streams": 79, "mature": 1, "language": "Italian", "account_age": 2216160.0}

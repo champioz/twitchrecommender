@@ -1,0 +1,1 @@
+{"channel": "realpower", "avg_viewers": 44, "followers_gained": 84, "peak_viewers": 81, "hours_streamed": 64, "streams": 18, "mature": 0, "language": "English", "account_age": 2128320.0}

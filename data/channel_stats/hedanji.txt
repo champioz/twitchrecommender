@@ -1,0 +1,1 @@
+{"channel": "hedanji", "avg_viewers": 66, "followers_gained": 338, "peak_viewers": 160, "hours_streamed": 222, "streams": 32, "mature": 0, "language": "Korean", "account_age": 751680.0}

@@ -1,0 +1,1 @@
+{"channel": "ero_g", "avg_viewers": 134, "followers_gained": 112, "peak_viewers": 368, "hours_streamed": 95, "streams": 22, "mature": 1, "language": "French", "account_age": 2579040.0}

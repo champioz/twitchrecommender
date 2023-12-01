@@ -1,0 +1,1 @@
+{"channel": "z4cker98", "avg_viewers": 2, "followers_gained": 32, "peak_viewers": 19, "hours_streamed": 198, "streams": 57, "mature": 1, "language": "English", "account_age": 2528640.0}

@@ -1,0 +1,1 @@
+{"channel": "adamconover", "avg_viewers": 49, "followers_gained": 73, "peak_viewers": 61, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "English", "account_age": 2731680.0}

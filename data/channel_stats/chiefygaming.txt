@@ -1,0 +1,1 @@
+{"channel": "chiefygaming", "avg_viewers": 11, "followers_gained": 14, "peak_viewers": 27, "hours_streamed": 56, "streams": 15, "mature": 0, "language": "English", "account_age": 2772000.0}

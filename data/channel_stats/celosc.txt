@@ -1,0 +1,1 @@
+{"channel": "celosc", "avg_viewers": 3, "followers_gained": 65, "peak_viewers": 15, "hours_streamed": 136, "streams": 47, "mature": 1, "language": "Portuguese", "account_age": 901440.0}

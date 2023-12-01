@@ -1,0 +1,1 @@
+{"channel": "ostern", "avg_viewers": 15, "followers_gained": 72, "peak_viewers": 51, "hours_streamed": 65, "streams": 25, "mature": 1, "language": "English", "account_age": 758880.0}

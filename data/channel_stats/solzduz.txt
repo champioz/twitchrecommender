@@ -1,0 +1,1 @@
+{"channel": "solzduz", "avg_viewers": 0, "followers_gained": 7, "peak_viewers": 3, "hours_streamed": 10, "streams": 8, "mature": 0, "language": "Thai", "account_age": 1219680.0}

@@ -1,0 +1,1 @@
+{"channel": "javierpj06", "avg_viewers": 0, "followers_gained": 11, "peak_viewers": 6, "hours_streamed": 52, "streams": 28, "mature": 1, "language": "Spanish", "account_age": 1499040.0}

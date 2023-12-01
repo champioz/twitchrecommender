@@ -1,0 +1,1 @@
+{"channel": "ryrrrr", "avg_viewers": 7, "followers_gained": 55, "peak_viewers": 19, "hours_streamed": 53, "streams": 15, "mature": 1, "language": "Spanish", "account_age": 2610720.0}

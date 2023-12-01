@@ -1,0 +1,1 @@
+{"channel": "pobelter", "avg_viewers": 585, "followers_gained": 389, "peak_viewers": 1396, "hours_streamed": 11, "streams": 7, "mature": 0, "language": "English", "account_age": 4128480.0}

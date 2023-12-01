@@ -1,0 +1,1 @@
+{"channel": "jrocklol", "avg_viewers": 7, "followers_gained": 138, "peak_viewers": 30, "hours_streamed": 174, "streams": 31, "mature": 0, "language": "Portuguese", "account_age": 976320.0}

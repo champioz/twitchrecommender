@@ -1,0 +1,1 @@
+{"channel": "hustlebr", "avg_viewers": 13, "followers_gained": 155, "peak_viewers": 45, "hours_streamed": 120, "streams": 27, "mature": 1, "language": "Portuguese", "account_age": 3551040.0}

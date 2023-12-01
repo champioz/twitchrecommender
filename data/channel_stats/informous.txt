@@ -1,0 +1,1 @@
+{"channel": "informous", "avg_viewers": 75, "followers_gained": 412, "peak_viewers": 169, "hours_streamed": 33, "streams": 16, "mature": 0, "language": "English", "account_age": 2233440.0}

@@ -1,0 +1,1 @@
+{"channel": "xzscrappyxz", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 42, "hours_streamed": 26, "streams": 11, "mature": 0, "language": "English", "account_age": 3216960.0}

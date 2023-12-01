@@ -1,0 +1,1 @@
+{"channel": "glenn_jp", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 31, "hours_streamed": 60, "streams": 16, "mature": 0, "language": "Japanese", "account_age": 2292480.0}

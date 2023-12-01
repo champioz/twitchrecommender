@@ -1,0 +1,1 @@
+{"channel": "tahsinvac", "avg_viewers": 5, "followers_gained": 26, "peak_viewers": 16, "hours_streamed": 14, "streams": 11, "mature": 0, "language": "Turkish", "account_age": 3404160.0}

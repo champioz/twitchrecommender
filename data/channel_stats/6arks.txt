@@ -1,0 +1,1 @@
+{"channel": "6arks", "avg_viewers": 10, "followers_gained": 31, "peak_viewers": 20, "hours_streamed": 15, "streams": 6, "mature": 0, "language": "English", "account_age": 2988000.0}

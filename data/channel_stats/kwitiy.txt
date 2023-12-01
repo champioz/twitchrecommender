@@ -1,0 +1,1 @@
+{"channel": "kwitiy", "avg_viewers": 13, "followers_gained": 320, "peak_viewers": 44, "hours_streamed": 91, "streams": 20, "mature": 0, "language": "Arabic", "account_age": 2079360.0}

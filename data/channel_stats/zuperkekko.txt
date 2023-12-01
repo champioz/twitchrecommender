@@ -1,0 +1,1 @@
+{"channel": "zuperkekko", "avg_viewers": 32, "followers_gained": 170, "peak_viewers": 231, "hours_streamed": 73, "streams": 20, "mature": 1, "language": "English", "account_age": 2354400.0}

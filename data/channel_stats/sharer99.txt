@@ -1,0 +1,1 @@
+{"channel": "sharer99", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 10, "hours_streamed": 86, "streams": 28, "mature": 0, "language": "Korean", "account_age": 446400.0}

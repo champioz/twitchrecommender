@@ -1,0 +1,1 @@
+{"channel": "cap_jp", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Japanese", "account_age": 1792800.0}

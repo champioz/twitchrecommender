@@ -1,0 +1,1 @@
+{"channel": "jalin1223", "avg_viewers": 15, "followers_gained": 8, "peak_viewers": 25, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "Chinese", "account_age": 3821760.0}

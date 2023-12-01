@@ -1,0 +1,1 @@
+{"channel": "rohulk2010", "avg_viewers": 59, "followers_gained": 90, "peak_viewers": 102, "hours_streamed": 24, "streams": 6, "mature": 1, "language": "English", "account_age": 4608000.0}

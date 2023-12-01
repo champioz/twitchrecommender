@@ -1,0 +1,1 @@
+{"channel": "cappingtv", "avg_viewers": 129, "followers_gained": 193, "peak_viewers": 513, "hours_streamed": 15, "streams": 8, "mature": 0, "language": "English", "account_age": 1566720.0}

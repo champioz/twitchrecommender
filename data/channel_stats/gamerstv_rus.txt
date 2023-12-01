@@ -1,0 +1,1 @@
+{"channel": "gamerstv_rus", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "Russian", "account_age": 3093120.0}

@@ -1,0 +1,1 @@
+{"channel": "hae_dal_hi", "avg_viewers": 20, "followers_gained": 79, "peak_viewers": 32, "hours_streamed": 117, "streams": 25, "mature": 1, "language": "Korean", "account_age": 829440.0}

@@ -1,0 +1,1 @@
+{"channel": "elclubdelflameo", "avg_viewers": 11, "followers_gained": 30, "peak_viewers": 32, "hours_streamed": 24, "streams": 7, "mature": 1, "language": "Spanish", "account_age": 1529280.0}

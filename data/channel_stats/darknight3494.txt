@@ -1,0 +1,1 @@
+{"channel": "darknight3494", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 22, "streams": 7, "mature": 1, "language": "English", "account_age": 1844640.0}

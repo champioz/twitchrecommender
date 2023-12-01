@@ -1,0 +1,1 @@
+{"channel": "savagemorph", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 13, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "English", "account_age": 2204640.0}

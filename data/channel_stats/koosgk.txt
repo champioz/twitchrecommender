@@ -1,0 +1,1 @@
+{"channel": "koosgk", "avg_viewers": 81, "followers_gained": 145, "peak_viewers": 158, "hours_streamed": 56, "streams": 21, "mature": 0, "language": "Dutch", "account_age": 1465920.0}

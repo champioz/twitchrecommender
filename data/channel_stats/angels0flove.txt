@@ -1,0 +1,1 @@
+{"channel": "angels0flove", "avg_viewers": 74, "followers_gained": 457, "peak_viewers": 182, "hours_streamed": 43, "streams": 13, "mature": 0, "language": "Italian", "account_age": 2802240.0}

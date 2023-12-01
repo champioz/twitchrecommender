@@ -1,0 +1,1 @@
+{"channel": "fjorme", "avg_viewers": 2, "followers_gained": 34, "peak_viewers": 13, "hours_streamed": 45, "streams": 12, "mature": 0, "language": "English", "account_age": 1375200.0}

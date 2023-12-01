@@ -1,0 +1,1 @@
+{"channel": "jestbubbles", "avg_viewers": 5, "followers_gained": 57, "peak_viewers": 14, "hours_streamed": 65, "streams": 29, "mature": 0, "language": "English", "account_age": 668160.0}

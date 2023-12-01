@@ -1,0 +1,1 @@
+{"channel": "sanux", "avg_viewers": 7, "followers_gained": 22, "peak_viewers": 169, "hours_streamed": 134, "streams": 35, "mature": 1, "language": "Norwegian", "account_age": 5735520.0}

@@ -1,0 +1,1 @@
+{"channel": "ikeranov", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 10, "hours_streamed": 81, "streams": 18, "mature": 1, "language": "Bulgarian", "account_age": 1778400.0}

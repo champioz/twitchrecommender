@@ -1,0 +1,1 @@
+{"channel": "bobbilly", "avg_viewers": 4, "followers_gained": 38, "peak_viewers": 15, "hours_streamed": 169, "streams": 33, "mature": 0, "language": "English", "account_age": 3132000.0}

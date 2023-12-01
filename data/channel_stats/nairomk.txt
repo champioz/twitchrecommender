@@ -1,0 +1,1 @@
+{"channel": "nairomk", "avg_viewers": 2244, "followers_gained": 5840, "peak_viewers": 9400, "hours_streamed": 196, "streams": 30, "mature": 0, "language": "English", "account_age": 2471040.0}

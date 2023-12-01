@@ -1,0 +1,1 @@
+{"channel": "seravium", "avg_viewers": 15, "followers_gained": 61, "peak_viewers": 34, "hours_streamed": 70, "streams": 12, "mature": 0, "language": "English", "account_age": 2268000.0}

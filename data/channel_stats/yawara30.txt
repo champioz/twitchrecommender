@@ -1,0 +1,1 @@
+{"channel": "yawara30", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 21, "hours_streamed": 249, "streams": 37, "mature": 0, "language": "Chinese", "account_age": 1632960.0}

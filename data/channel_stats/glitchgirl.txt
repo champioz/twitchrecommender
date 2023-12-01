@@ -1,0 +1,1 @@
+{"channel": "glitchgirl", "avg_viewers": 35, "followers_gained": 94, "peak_viewers": 68, "hours_streamed": 18, "streams": 7, "mature": 1, "language": "Spanish", "account_age": 1653120.0}

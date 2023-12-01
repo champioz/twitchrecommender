@@ -1,0 +1,1 @@
+{"channel": "lnta", "avg_viewers": 41, "followers_gained": 17, "peak_viewers": 87, "hours_streamed": 22, "streams": 5, "mature": 0, "language": "Russian", "account_age": 1464480.0}

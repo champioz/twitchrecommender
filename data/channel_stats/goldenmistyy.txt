@@ -1,0 +1,1 @@
+{"channel": "goldenmistyy", "avg_viewers": 5, "followers_gained": 5, "peak_viewers": 11, "hours_streamed": 11, "streams": 4, "mature": 1, "language": "English", "account_age": 1113120.0}

@@ -1,0 +1,1 @@
+{"channel": "aardonyx", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 6, "streams": 6, "mature": 1, "language": "Hungarian", "account_age": 803520.0}

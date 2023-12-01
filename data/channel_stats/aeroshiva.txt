@@ -1,0 +1,1 @@
+{"channel": "aeroshiva", "avg_viewers": 19, "followers_gained": 270, "peak_viewers": 194, "hours_streamed": 113, "streams": 19, "mature": 1, "language": "German", "account_age": 1765440.0}

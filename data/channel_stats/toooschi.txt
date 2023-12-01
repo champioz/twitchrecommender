@@ -1,0 +1,1 @@
+{"channel": "toooschi", "avg_viewers": 8, "followers_gained": 0, "peak_viewers": 14, "hours_streamed": 5, "streams": 5, "mature": 0, "language": "English", "account_age": 2756160.0}

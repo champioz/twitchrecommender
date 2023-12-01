@@ -1,0 +1,1 @@
+{"channel": "wannabe_me", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 2, "hours_streamed": 7, "streams": 1, "mature": 1, "language": "Danish", "account_age": 2013120.0}

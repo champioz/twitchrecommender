@@ -1,0 +1,1 @@
+{"channel": "ninaxli", "avg_viewers": 15, "followers_gained": 34, "peak_viewers": 28, "hours_streamed": 16, "streams": 9, "mature": 0, "language": "German", "account_age": 1278720.0}

@@ -1,0 +1,1 @@
+{"channel": "atztv", "avg_viewers": 27, "followers_gained": 938, "peak_viewers": 250, "hours_streamed": 139, "streams": 30, "mature": 0, "language": "Portuguese", "account_age": 1804320.0}

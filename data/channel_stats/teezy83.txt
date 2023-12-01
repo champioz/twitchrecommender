@@ -1,0 +1,1 @@
+{"channel": "teezy83", "avg_viewers": 1, "followers_gained": 75, "peak_viewers": 32, "hours_streamed": 85, "streams": 34, "mature": 0, "language": "German", "account_age": 491040.0}

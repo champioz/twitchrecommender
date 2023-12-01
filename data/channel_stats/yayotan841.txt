@@ -1,0 +1,1 @@
+{"channel": "yayotan841", "avg_viewers": 6, "followers_gained": 17, "peak_viewers": 19, "hours_streamed": 50, "streams": 16, "mature": 1, "language": "Japanese", "account_age": 881280.0}

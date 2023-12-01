@@ -1,0 +1,1 @@
+{"channel": "vitruth", "avg_viewers": 13, "followers_gained": 3, "peak_viewers": 43, "hours_streamed": 9, "streams": 2, "mature": 0, "language": "English", "account_age": 1925280.0}

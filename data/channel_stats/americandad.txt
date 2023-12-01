@@ -1,0 +1,1 @@
+{"channel": "americandad", "avg_viewers": 464, "followers_gained": 1908, "peak_viewers": 14915, "hours_streamed": 88, "streams": 19, "mature": 0, "language": "English", "account_age": 1332000.0}

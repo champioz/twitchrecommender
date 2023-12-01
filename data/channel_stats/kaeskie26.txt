@@ -1,0 +1,1 @@
+{"channel": "kaeskie26", "avg_viewers": 3, "followers_gained": 20, "peak_viewers": 12, "hours_streamed": 100, "streams": 21, "mature": 1, "language": "", "account_age": 1082880.0}

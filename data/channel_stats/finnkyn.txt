@@ -1,0 +1,1 @@
+{"channel": "finnkyn", "avg_viewers": 1, "followers_gained": 290, "peak_viewers": 7, "hours_streamed": 25, "streams": 11, "mature": 0, "language": "Russian", "account_age": 1025280.0}

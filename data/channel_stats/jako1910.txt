@@ -1,0 +1,1 @@
+{"channel": "jako1910", "avg_viewers": 43, "followers_gained": 25, "peak_viewers": 141, "hours_streamed": 42, "streams": 26, "mature": 0, "language": "Japanese", "account_age": 1931040.0}

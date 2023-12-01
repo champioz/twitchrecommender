@@ -1,0 +1,1 @@
+{"channel": "moemustaine", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 10, "hours_streamed": 29, "streams": 20, "mature": 1, "language": "Chinese", "account_age": 3746880.0}

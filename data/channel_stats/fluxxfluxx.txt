@@ -1,0 +1,1 @@
+{"channel": "fluxxfluxx", "avg_viewers": 28, "followers_gained": 9, "peak_viewers": 169, "hours_streamed": 9, "streams": 8, "mature": 1, "language": "German", "account_age": 1347840.0}

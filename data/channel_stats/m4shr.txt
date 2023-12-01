@@ -1,0 +1,1 @@
+{"channel": "m4shr", "avg_viewers": 2, "followers_gained": 79, "peak_viewers": 14, "hours_streamed": 33, "streams": 10, "mature": 0, "language": "Arabic", "account_age": 698400.0}

@@ -1,0 +1,1 @@
+{"channel": "airupthere1", "avg_viewers": 10, "followers_gained": 92, "peak_viewers": 32, "hours_streamed": 212, "streams": 43, "mature": 0, "language": "Russian", "account_age": 3598560.0}

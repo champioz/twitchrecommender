@@ -1,0 +1,1 @@
+{"channel": "globtopus", "avg_viewers": 148, "followers_gained": 158, "peak_viewers": 294, "hours_streamed": 72, "streams": 24, "mature": 1, "language": "French", "account_age": 3625920.0}

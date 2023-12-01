@@ -1,0 +1,1 @@
+{"channel": "kings1zzle", "avg_viewers": 5, "followers_gained": 17, "peak_viewers": 12, "hours_streamed": 40, "streams": 11, "mature": 1, "language": "English", "account_age": 1477440.0}

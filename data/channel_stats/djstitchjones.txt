@@ -1,0 +1,1 @@
+{"channel": "djstitchjones", "avg_viewers": 5, "followers_gained": 16, "peak_viewers": 10, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "English", "account_age": 993600.0}

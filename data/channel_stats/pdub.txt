@@ -1,0 +1,1 @@
+{"channel": "pdub", "avg_viewers": 12, "followers_gained": 30, "peak_viewers": 30, "hours_streamed": 144, "streams": 16, "mature": 1, "language": "English", "account_age": 3448800.0}

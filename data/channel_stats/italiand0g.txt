@@ -1,0 +1,1 @@
+{"channel": "italiand0g", "avg_viewers": 108, "followers_gained": 180, "peak_viewers": 264, "hours_streamed": 82, "streams": 30, "mature": 0, "language": "Italian", "account_age": 2260800.0}

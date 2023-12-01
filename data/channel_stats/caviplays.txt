@@ -1,0 +1,1 @@
+{"channel": "caviplays", "avg_viewers": 3, "followers_gained": 49, "peak_viewers": 24, "hours_streamed": 50, "streams": 15, "mature": 1, "language": "English", "account_age": 249120.0}

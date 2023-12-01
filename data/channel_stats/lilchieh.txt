@@ -1,0 +1,1 @@
+{"channel": "lilchieh", "avg_viewers": 5, "followers_gained": 92, "peak_viewers": 18, "hours_streamed": 200, "streams": 56, "mature": 1, "language": "Chinese", "account_age": 468000.0}

@@ -1,0 +1,1 @@
+{"channel": "quetschiii", "avg_viewers": 7, "followers_gained": 55, "peak_viewers": 24, "hours_streamed": 42, "streams": 13, "mature": 1, "language": "German", "account_age": 2414880.0}

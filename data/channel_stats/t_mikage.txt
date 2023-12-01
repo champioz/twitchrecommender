@@ -1,0 +1,1 @@
+{"channel": "t_mikage", "avg_viewers": 39, "followers_gained": 154, "peak_viewers": 77, "hours_streamed": 98, "streams": 30, "mature": 0, "language": "Japanese", "account_age": 420480.0}

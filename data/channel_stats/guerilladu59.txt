@@ -1,0 +1,1 @@
+{"channel": "guerilladu59", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 8, "hours_streamed": 87, "streams": 51, "mature": 1, "language": "French", "account_age": 2269440.0}

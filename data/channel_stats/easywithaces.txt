@@ -1,0 +1,1 @@
+{"channel": "easywithaces", "avg_viewers": 983, "followers_gained": 1704, "peak_viewers": 2873, "hours_streamed": 134, "streams": 22, "mature": 1, "language": "English", "account_age": 2345760.0}

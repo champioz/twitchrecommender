@@ -1,0 +1,1 @@
+{"channel": "esilejoy", "avg_viewers": 13, "followers_gained": 3, "peak_viewers": 32, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "Dutch", "account_age": 2165760.0}

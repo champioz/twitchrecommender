@@ -1,0 +1,1 @@
+{"channel": "chico44", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "German", "account_age": 1539360.0}

@@ -1,0 +1,1 @@
+{"channel": "zigi_hate", "avg_viewers": 52, "followers_gained": 517, "peak_viewers": 152, "hours_streamed": 169, "streams": 31, "mature": 0, "language": "Russian", "account_age": 1782720.0}

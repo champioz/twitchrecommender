@@ -1,0 +1,1 @@
+{"channel": "flick1b", "avg_viewers": 19, "followers_gained": 51, "peak_viewers": 110, "hours_streamed": 29, "streams": 14, "mature": 1, "language": "Spanish", "account_age": 1350720.0}

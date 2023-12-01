@@ -1,0 +1,1 @@
+{"channel": "pokerisivut", "avg_viewers": 49, "followers_gained": 50, "peak_viewers": 125, "hours_streamed": 157, "streams": 26, "mature": 1, "language": "Finnish", "account_age": 1824480.0}

@@ -1,0 +1,1 @@
+{"channel": "themanapool", "avg_viewers": 11, "followers_gained": 6, "peak_viewers": 28, "hours_streamed": 59, "streams": 19, "mature": 0, "language": "English", "account_age": 2877120.0}

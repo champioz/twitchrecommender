@@ -1,0 +1,1 @@
+{"channel": "lollysta", "avg_viewers": 7, "followers_gained": 65, "peak_viewers": 18, "hours_streamed": 85, "streams": 15, "mature": 1, "language": "Turkish", "account_age": 721440.0}

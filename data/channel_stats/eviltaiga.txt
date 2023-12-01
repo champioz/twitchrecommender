@@ -1,0 +1,1 @@
+{"channel": "eviltaiga", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 4, "streams": 1, "mature": 1, "language": "German", "account_age": 2577600.0}

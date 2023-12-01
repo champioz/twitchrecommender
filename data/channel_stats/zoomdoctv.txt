@@ -1,0 +1,1 @@
+{"channel": "zoomdoctv", "avg_viewers": 5, "followers_gained": 34, "peak_viewers": 21, "hours_streamed": 80, "streams": 19, "mature": 1, "language": "Russian", "account_age": 1569600.0}

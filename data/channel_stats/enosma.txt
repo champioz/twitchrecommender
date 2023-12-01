@@ -1,0 +1,1 @@
+{"channel": "enosma", "avg_viewers": 4, "followers_gained": 40, "peak_viewers": 34, "hours_streamed": 137, "streams": 20, "mature": 1, "language": "French", "account_age": 2321280.0}

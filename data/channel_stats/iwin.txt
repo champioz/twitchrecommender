@@ -1,0 +1,1 @@
+{"channel": "iwin", "avg_viewers": 6, "followers_gained": 29, "peak_viewers": 17, "hours_streamed": 59, "streams": 29, "mature": 1, "language": "English", "account_age": 550080.0}

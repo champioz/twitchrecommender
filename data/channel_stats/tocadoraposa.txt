@@ -1,0 +1,1 @@
+{"channel": "tocadoraposa", "avg_viewers": 12, "followers_gained": 267, "peak_viewers": 100, "hours_streamed": 119, "streams": 37, "mature": 1, "language": "Portuguese", "account_age": 537120.0}

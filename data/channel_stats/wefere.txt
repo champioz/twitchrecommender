@@ -1,0 +1,1 @@
+{"channel": "wefere", "avg_viewers": 330, "followers_gained": 4747, "peak_viewers": 469, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 1319040.0}

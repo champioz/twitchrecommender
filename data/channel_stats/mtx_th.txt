@@ -1,0 +1,1 @@
+{"channel": "mtx_th", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 10, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "Thai", "account_age": 928800.0}

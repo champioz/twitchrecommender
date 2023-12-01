@@ -1,0 +1,1 @@
+{"channel": "zasteno1", "avg_viewers": 32, "followers_gained": 131, "peak_viewers": 116, "hours_streamed": 87, "streams": 32, "mature": 1, "language": "Russian", "account_age": 201600.0}

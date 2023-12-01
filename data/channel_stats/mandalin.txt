@@ -1,0 +1,1 @@
+{"channel": "mandalin", "avg_viewers": 19, "followers_gained": 4, "peak_viewers": 50, "hours_streamed": 20, "streams": 4, "mature": 0, "language": "English", "account_age": 1687680.0}

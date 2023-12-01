@@ -1,0 +1,1 @@
+{"channel": "kamiineyko", "avg_viewers": 17, "followers_gained": 3, "peak_viewers": 33, "hours_streamed": 16, "streams": 3, "mature": 1, "language": "French", "account_age": 2746080.0}

@@ -1,0 +1,1 @@
+{"channel": "detox_", "avg_viewers": 0, "followers_gained": 14, "peak_viewers": 5, "hours_streamed": 15, "streams": 26, "mature": 0, "language": "Slovak", "account_age": 303840.0}

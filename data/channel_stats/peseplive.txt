@@ -1,0 +1,1 @@
+{"channel": "peseplive", "avg_viewers": 115, "followers_gained": 239, "peak_viewers": 341, "hours_streamed": 94, "streams": 16, "mature": 0, "language": "English", "account_age": 2561760.0}

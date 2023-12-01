@@ -1,0 +1,1 @@
+{"channel": "real__energy", "avg_viewers": 4, "followers_gained": 10, "peak_viewers": 11, "hours_streamed": 81, "streams": 22, "mature": 1, "language": "German", "account_age": 760320.0}

@@ -1,0 +1,1 @@
+{"channel": "classic_christinee", "avg_viewers": 120, "followers_gained": 162, "peak_viewers": 230, "hours_streamed": 46, "streams": 12, "mature": 0, "language": "English", "account_age": 1399680.0}

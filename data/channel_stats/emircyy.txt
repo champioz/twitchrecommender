@@ -1,0 +1,1 @@
+{"channel": "emircyy", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 36, "streams": 22, "mature": 0, "language": "German", "account_age": 1643040.0}

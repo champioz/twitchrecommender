@@ -1,0 +1,1 @@
+{"channel": "xboxmilgrau", "avg_viewers": 104, "followers_gained": 568, "peak_viewers": 251, "hours_streamed": 234, "streams": 31, "mature": 1, "language": "Portuguese", "account_age": 2172960.0}

@@ -1,0 +1,1 @@
+{"channel": "valkyrjaer", "avg_viewers": 10, "followers_gained": 30, "peak_viewers": 22, "hours_streamed": 54, "streams": 11, "mature": 1, "language": "Norwegian", "account_age": 3132000.0}

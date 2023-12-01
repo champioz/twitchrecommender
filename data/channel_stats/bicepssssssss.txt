@@ -1,0 +1,1 @@
+{"channel": "bicepssssssss", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 17, "hours_streamed": 76, "streams": 11, "mature": 0, "language": "English", "account_age": 1291680.0}

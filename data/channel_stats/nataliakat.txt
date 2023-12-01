@@ -1,0 +1,1 @@
+{"channel": "nataliakat", "avg_viewers": 15, "followers_gained": 28, "peak_viewers": 27, "hours_streamed": 9, "streams": 4, "mature": 1, "language": "English", "account_age": 1360800.0}

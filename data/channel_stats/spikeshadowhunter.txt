@@ -1,0 +1,1 @@
+{"channel": "spikeshadowhunter", "avg_viewers": 60, "followers_gained": 32, "peak_viewers": 81, "hours_streamed": 8, "streams": 6, "mature": 0, "language": "Italian", "account_age": 2273760.0}

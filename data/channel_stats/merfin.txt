@@ -1,0 +1,1 @@
+{"channel": "merfin", "avg_viewers": 6, "followers_gained": 60, "peak_viewers": 44, "hours_streamed": 76, "streams": 28, "mature": 0, "language": "English", "account_age": 921600.0}

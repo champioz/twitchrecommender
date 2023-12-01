@@ -1,0 +1,1 @@
+{"channel": "chx42", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 16, "hours_streamed": 31, "streams": 19, "mature": 1, "language": "English", "account_age": 750240.0}

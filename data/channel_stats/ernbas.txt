@@ -1,0 +1,1 @@
+{"channel": "ernbas", "avg_viewers": 5, "followers_gained": 18, "peak_viewers": 14, "hours_streamed": 84, "streams": 13, "mature": 1, "language": "German", "account_age": 2766240.0}

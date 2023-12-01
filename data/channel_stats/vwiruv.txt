@@ -1,0 +1,1 @@
+{"channel": "vwiruv", "avg_viewers": 16, "followers_gained": 35, "peak_viewers": 178, "hours_streamed": 126, "streams": 27, "mature": 0, "language": "Korean", "account_age": 3182400.0}

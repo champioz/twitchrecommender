@@ -1,0 +1,1 @@
+{"channel": "old_guardian", "avg_viewers": 32, "followers_gained": 169, "peak_viewers": 94, "hours_streamed": 58, "streams": 26, "mature": 0, "language": "English", "account_age": 2846880.0}

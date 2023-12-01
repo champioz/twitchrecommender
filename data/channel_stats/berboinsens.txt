@@ -1,0 +1,1 @@
+{"channel": "berboinsens", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 6, "hours_streamed": 12, "streams": 4, "mature": 0, "language": "German", "account_age": 2393280.0}

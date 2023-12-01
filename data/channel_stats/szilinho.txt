@@ -1,0 +1,1 @@
+{"channel": "szilinho", "avg_viewers": 12, "followers_gained": 443, "peak_viewers": 41, "hours_streamed": 120, "streams": 27, "mature": 0, "language": "Hungarian", "account_age": 737280.0}

@@ -1,0 +1,1 @@
+{"channel": "fediich", "avg_viewers": 24, "followers_gained": 368, "peak_viewers": 130, "hours_streamed": 149, "streams": 31, "mature": 1, "language": "Russian", "account_age": 446400.0}

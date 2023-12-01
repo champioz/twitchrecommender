@@ -1,0 +1,1 @@
+{"channel": "dustalk", "avg_viewers": 5, "followers_gained": 21, "peak_viewers": 38, "hours_streamed": 166, "streams": 26, "mature": 1, "language": "English", "account_age": 3716640.0}

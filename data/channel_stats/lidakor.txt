@@ -1,0 +1,1 @@
+{"channel": "lidakor", "avg_viewers": 33, "followers_gained": 181, "peak_viewers": 146, "hours_streamed": 32, "streams": 13, "mature": 0, "language": "English", "account_age": 961920.0}

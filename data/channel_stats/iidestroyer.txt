@@ -1,0 +1,1 @@
+{"channel": "iidestroyer", "avg_viewers": 59, "followers_gained": 1633, "peak_viewers": 207, "hours_streamed": 115, "streams": 23, "mature": 1, "language": "Arabic", "account_age": 3348000.0}

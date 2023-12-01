@@ -1,0 +1,1 @@
+{"channel": "emylure", "avg_viewers": 39, "followers_gained": 3, "peak_viewers": 51, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Italian", "account_age": 809280.0}

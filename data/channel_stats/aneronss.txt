@@ -1,0 +1,1 @@
+{"channel": "aneronss", "avg_viewers": 8, "followers_gained": 132, "peak_viewers": 30, "hours_streamed": 109, "streams": 22, "mature": 1, "language": "Spanish", "account_age": 483840.0}

@@ -1,0 +1,1 @@
+{"channel": "kazuulgame", "avg_viewers": 9, "followers_gained": 18, "peak_viewers": 18, "hours_streamed": 14, "streams": 7, "mature": 0, "language": "Russian", "account_age": 1815840.0}

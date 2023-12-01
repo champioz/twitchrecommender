@@ -1,0 +1,1 @@
+{"channel": "the__vk", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "Russian", "account_age": 3016800.0}

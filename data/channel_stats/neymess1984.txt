@@ -1,0 +1,1 @@
+{"channel": "neymess1984", "avg_viewers": 2, "followers_gained": 15, "peak_viewers": 7, "hours_streamed": 27, "streams": 18, "mature": 1, "language": "Spanish", "account_age": 2750400.0}

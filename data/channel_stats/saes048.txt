@@ -1,0 +1,1 @@
+{"channel": "saes048", "avg_viewers": 51, "followers_gained": 332, "peak_viewers": 133, "hours_streamed": 158, "streams": 24, "mature": 1, "language": "German", "account_age": 671040.0}

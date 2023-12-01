@@ -1,0 +1,1 @@
+{"channel": "taylo365", "avg_viewers": 21, "followers_gained": 280, "peak_viewers": 263, "hours_streamed": 132, "streams": 21, "mature": 0, "language": "English", "account_age": 3919680.0}

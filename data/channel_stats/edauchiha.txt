@@ -1,0 +1,1 @@
+{"channel": "edauchiha", "avg_viewers": 23, "followers_gained": 377, "peak_viewers": 53, "hours_streamed": 45, "streams": 11, "mature": 1, "language": "German", "account_age": 476640.0}

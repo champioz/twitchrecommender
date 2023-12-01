@@ -1,0 +1,1 @@
+{"channel": "nfearcz", "avg_viewers": 17, "followers_gained": 13, "peak_viewers": 335, "hours_streamed": 61, "streams": 10, "mature": 1, "language": "Czech", "account_age": 2947680.0}

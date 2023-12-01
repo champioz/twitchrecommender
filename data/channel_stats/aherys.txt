@@ -1,0 +1,1 @@
+{"channel": "aherys", "avg_viewers": 73, "followers_gained": 541, "peak_viewers": 696, "hours_streamed": 106, "streams": 27, "mature": 0, "language": "English", "account_age": 3824640.0}

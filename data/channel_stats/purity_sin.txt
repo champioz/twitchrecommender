@@ -1,0 +1,1 @@
+{"channel": "purity_sin", "avg_viewers": 13, "followers_gained": 51, "peak_viewers": 28, "hours_streamed": 52, "streams": 23, "mature": 1, "language": "English", "account_age": 1733760.0}

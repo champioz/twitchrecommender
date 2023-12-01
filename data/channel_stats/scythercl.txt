@@ -1,0 +1,1 @@
+{"channel": "scythercl", "avg_viewers": 11, "followers_gained": 15, "peak_viewers": 23, "hours_streamed": 41, "streams": 10, "mature": 1, "language": "Spanish", "account_age": 2566080.0}

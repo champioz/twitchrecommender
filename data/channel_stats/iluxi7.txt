@@ -1,0 +1,1 @@
+{"channel": "iluxi7", "avg_viewers": 7, "followers_gained": 85, "peak_viewers": 25, "hours_streamed": 55, "streams": 23, "mature": 0, "language": "Spanish", "account_age": 162720.0}

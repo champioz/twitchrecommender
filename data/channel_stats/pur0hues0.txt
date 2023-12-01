@@ -1,0 +1,1 @@
+{"channel": "pur0hues0", "avg_viewers": 2, "followers_gained": 67, "peak_viewers": 27, "hours_streamed": 65, "streams": 20, "mature": 1, "language": "Spanish", "account_age": 1136160.0}

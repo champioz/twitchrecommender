@@ -1,0 +1,1 @@
+{"channel": "muriellecom", "avg_viewers": 8, "followers_gained": 26, "peak_viewers": 28, "hours_streamed": 34, "streams": 9, "mature": 1, "language": "German", "account_age": 1020960.0}

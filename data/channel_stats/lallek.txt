@@ -1,0 +1,1 @@
+{"channel": "lallek", "avg_viewers": 28, "followers_gained": 129, "peak_viewers": 85, "hours_streamed": 113, "streams": 32, "mature": 0, "language": "German", "account_age": 5136480.0}

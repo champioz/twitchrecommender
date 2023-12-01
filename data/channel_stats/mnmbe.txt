@@ -1,0 +1,1 @@
+{"channel": "mnmbe", "avg_viewers": 11, "followers_gained": 74, "peak_viewers": 20, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "Dutch", "account_age": 214560.0}

@@ -1,0 +1,1 @@
+{"channel": "serastation", "avg_viewers": 2, "followers_gained": 48, "peak_viewers": 11, "hours_streamed": 94, "streams": 37, "mature": 0, "language": "Spanish", "account_age": 2980800.0}

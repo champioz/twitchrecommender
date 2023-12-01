@@ -1,0 +1,1 @@
+{"channel": "imlojuu", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 4, "streams": 5, "mature": 0, "language": "Portuguese", "account_age": 1584000.0}

@@ -1,0 +1,1 @@
+{"channel": "sofilein", "avg_viewers": 214, "followers_gained": 567, "peak_viewers": 985, "hours_streamed": 46, "streams": 14, "mature": 0, "language": "English", "account_age": 3407040.0}

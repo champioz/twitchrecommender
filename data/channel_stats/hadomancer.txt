@@ -1,0 +1,1 @@
+{"channel": "hadomancer", "avg_viewers": 75, "followers_gained": 49, "peak_viewers": 189, "hours_streamed": 45, "streams": 21, "mature": 0, "language": "Portuguese", "account_age": 4511520.0}

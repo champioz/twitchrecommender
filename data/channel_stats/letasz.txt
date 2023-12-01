@@ -1,0 +1,1 @@
+{"channel": "letasz", "avg_viewers": 75, "followers_gained": 200, "peak_viewers": 290, "hours_streamed": 35, "streams": 13, "mature": 1, "language": "Portuguese", "account_age": 1032480.0}

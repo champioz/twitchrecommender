@@ -1,0 +1,1 @@
+{"channel": "1337sauce", "avg_viewers": 16, "followers_gained": 151, "peak_viewers": 111, "hours_streamed": 214, "streams": 36, "mature": 1, "language": "English", "account_age": 2576160.0}

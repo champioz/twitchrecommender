@@ -1,0 +1,1 @@
+{"channel": "slamantha", "avg_viewers": 11, "followers_gained": 3, "peak_viewers": 25, "hours_streamed": 59, "streams": 16, "mature": 0, "language": "English", "account_age": 1523520.0}

@@ -1,0 +1,1 @@
+{"channel": "ospadelbarrio", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 16, "streams": 10, "mature": 1, "language": "French", "account_age": 3497760.0}

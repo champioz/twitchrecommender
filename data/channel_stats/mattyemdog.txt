@@ -1,0 +1,1 @@
+{"channel": "mattyemdog", "avg_viewers": 21, "followers_gained": 433, "peak_viewers": 55, "hours_streamed": 81, "streams": 18, "mature": 1, "language": "English", "account_age": 2177280.0}

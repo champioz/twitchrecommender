@@ -1,0 +1,1 @@
+{"channel": "linkzr", "avg_viewers": 325, "followers_gained": 1285, "peak_viewers": 1097, "hours_streamed": 54, "streams": 16, "mature": 1, "language": "English", "account_age": 2617920.0}

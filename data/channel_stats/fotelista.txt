@@ -1,0 +1,1 @@
+{"channel": "fotelista", "avg_viewers": 1, "followers_gained": 12, "peak_viewers": 6, "hours_streamed": 26, "streams": 13, "mature": 0, "language": "Hungarian", "account_age": 168480.0}

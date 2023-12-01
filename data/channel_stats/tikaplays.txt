@@ -1,0 +1,1 @@
+{"channel": "tikaplays", "avg_viewers": 1, "followers_gained": 16, "peak_viewers": 6, "hours_streamed": 36, "streams": 22, "mature": 1, "language": "English", "account_age": 1186560.0}

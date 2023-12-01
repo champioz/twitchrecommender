@@ -1,0 +1,1 @@
+{"channel": "joshua_official", "avg_viewers": 6, "followers_gained": 35, "peak_viewers": 45, "hours_streamed": 43, "streams": 18, "mature": 0, "language": "Slovak", "account_age": 2077920.0}

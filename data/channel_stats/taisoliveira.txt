@@ -1,0 +1,1 @@
+{"channel": "taisoliveira", "avg_viewers": 13, "followers_gained": 1101, "peak_viewers": 319, "hours_streamed": 140, "streams": 39, "mature": 0, "language": "Portuguese", "account_age": 1159200.0}

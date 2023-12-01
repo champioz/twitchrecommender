@@ -1,0 +1,1 @@
+{"channel": "lostmysanity47", "avg_viewers": 38, "followers_gained": 240, "peak_viewers": 218, "hours_streamed": 93, "streams": 25, "mature": 0, "language": "English", "account_age": 2291040.0}

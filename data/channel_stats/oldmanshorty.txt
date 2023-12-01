@@ -1,0 +1,1 @@
+{"channel": "oldmanshorty", "avg_viewers": 60, "followers_gained": 275, "peak_viewers": 118, "hours_streamed": 129, "streams": 16, "mature": 0, "language": "English", "account_age": 2648160.0}

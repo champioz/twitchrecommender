@@ -1,0 +1,1 @@
+{"channel": "tina___", "avg_viewers": 22, "followers_gained": 34, "peak_viewers": 51, "hours_streamed": 82, "streams": 17, "mature": 0, "language": "Korean", "account_age": 509760.0}

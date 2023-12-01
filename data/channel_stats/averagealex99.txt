@@ -1,0 +1,1 @@
+{"channel": "averagealex99", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 22, "hours_streamed": 59, "streams": 16, "mature": 1, "language": "English", "account_age": 2545920.0}

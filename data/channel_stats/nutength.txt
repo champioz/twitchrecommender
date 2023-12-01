@@ -1,0 +1,1 @@
+{"channel": "nutength", "avg_viewers": 46, "followers_gained": 287, "peak_viewers": 100, "hours_streamed": 96, "streams": 31, "mature": 0, "language": "Thai", "account_age": 1326240.0}

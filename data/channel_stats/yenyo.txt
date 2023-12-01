@@ -1,0 +1,1 @@
+{"channel": "yenyo", "avg_viewers": 2, "followers_gained": 47, "peak_viewers": 98, "hours_streamed": 82, "streams": 24, "mature": 0, "language": "English", "account_age": 462240.0}

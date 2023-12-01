@@ -1,0 +1,1 @@
+{"channel": "trmtzd", "avg_viewers": 20, "followers_gained": 37, "peak_viewers": 50, "hours_streamed": 29, "streams": 12, "mature": 0, "language": "Russian", "account_age": 2508480.0}

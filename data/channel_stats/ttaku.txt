@@ -1,0 +1,1 @@
+{"channel": "ttaku", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 33, "streams": 17, "mature": 0, "language": "English", "account_age": 3741120.0}

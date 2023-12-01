@@ -1,0 +1,1 @@
+{"channel": "nazzerator", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 7, "streams": 5, "mature": 1, "language": "English", "account_age": 1775520.0}

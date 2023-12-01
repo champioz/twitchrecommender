@@ -1,0 +1,1 @@
+{"channel": "gspotdota", "avg_viewers": 1446, "followers_gained": 1140, "peak_viewers": 2339, "hours_streamed": 65, "streams": 15, "mature": 0, "language": "Russian", "account_age": 3255840.0}

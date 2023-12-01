@@ -1,0 +1,1 @@
+{"channel": "hani_tv", "avg_viewers": 16, "followers_gained": 164, "peak_viewers": 40, "hours_streamed": 147, "streams": 28, "mature": 1, "language": "Arabic", "account_age": 696960.0}

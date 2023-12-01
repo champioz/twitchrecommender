@@ -1,0 +1,1 @@
+{"channel": "red_game", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 2, "hours_streamed": 3, "streams": 4, "mature": 1, "language": "French", "account_age": 2034720.0}

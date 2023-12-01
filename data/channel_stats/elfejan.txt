@@ -1,0 +1,1 @@
+{"channel": "elfejan", "avg_viewers": 54, "followers_gained": 124, "peak_viewers": 118, "hours_streamed": 88, "streams": 11, "mature": 0, "language": "Russian", "account_age": 1673280.0}

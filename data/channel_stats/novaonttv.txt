@@ -1,0 +1,1 @@
+{"channel": "novaonttv", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 2259360.0}

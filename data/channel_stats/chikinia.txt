@@ -1,0 +1,1 @@
+{"channel": "chikinia", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 4, "hours_streamed": 19, "streams": 9, "mature": 1, "language": "English", "account_age": 1005120.0}

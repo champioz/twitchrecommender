@@ -1,0 +1,1 @@
+{"channel": "popeestick", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 2, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "Thai", "account_age": 3264480.0}

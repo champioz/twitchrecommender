@@ -1,0 +1,1 @@
+{"channel": "revi", "avg_viewers": 44, "followers_gained": 169, "peak_viewers": 85, "hours_streamed": 104, "streams": 14, "mature": 1, "language": "German", "account_age": 2165760.0}

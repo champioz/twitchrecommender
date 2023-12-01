@@ -1,0 +1,1 @@
+{"channel": "rinny_prinny", "avg_viewers": 6, "followers_gained": 35, "peak_viewers": 40, "hours_streamed": 106, "streams": 33, "mature": 0, "language": "English", "account_age": 2780640.0}

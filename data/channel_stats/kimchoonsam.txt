@@ -1,0 +1,1 @@
+{"channel": "kimchoonsam", "avg_viewers": 75, "followers_gained": 19, "peak_viewers": 168, "hours_streamed": 6, "streams": 1, "mature": 0, "language": "Korean", "account_age": 2917440.0}

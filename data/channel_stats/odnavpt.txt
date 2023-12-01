@@ -1,0 +1,1 @@
+{"channel": "odnavpt", "avg_viewers": 5, "followers_gained": 24, "peak_viewers": 224, "hours_streamed": 53, "streams": 20, "mature": 1, "language": "Portuguese", "account_age": 3276000.0}

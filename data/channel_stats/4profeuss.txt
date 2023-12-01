@@ -1,0 +1,1 @@
+{"channel": "4profeuss", "avg_viewers": 34, "followers_gained": 172, "peak_viewers": 91, "hours_streamed": 23, "streams": 15, "mature": 0, "language": "Turkish", "account_age": 619200.0}

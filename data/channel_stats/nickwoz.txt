@@ -1,0 +1,1 @@
+{"channel": "nickwoz", "avg_viewers": 22, "followers_gained": 138, "peak_viewers": 59, "hours_streamed": 79, "streams": 18, "mature": 0, "language": "English", "account_age": 3693600.0}

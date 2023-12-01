@@ -1,0 +1,1 @@
+{"channel": "tokyosou", "avg_viewers": 45, "followers_gained": 28, "peak_viewers": 283, "hours_streamed": 53, "streams": 16, "mature": 0, "language": "Japanese", "account_age": 3216960.0}

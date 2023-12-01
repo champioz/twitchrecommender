@@ -1,0 +1,1 @@
+{"channel": "intensityqc", "avg_viewers": 32, "followers_gained": 401, "peak_viewers": 119, "hours_streamed": 160, "streams": 27, "mature": 1, "language": "French", "account_age": 735840.0}

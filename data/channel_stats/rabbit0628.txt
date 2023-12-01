@@ -1,0 +1,1 @@
+{"channel": "rabbit0628", "avg_viewers": 35, "followers_gained": 2, "peak_viewers": 92, "hours_streamed": 15, "streams": 4, "mature": 0, "language": "Chinese", "account_age": 1785600.0}

@@ -1,0 +1,1 @@
+{"channel": "archnet01", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 15, "hours_streamed": 103, "streams": 45, "mature": 0, "language": "Korean", "account_age": 1751040.0}

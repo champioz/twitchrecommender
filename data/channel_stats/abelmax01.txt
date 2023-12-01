@@ -1,0 +1,1 @@
+{"channel": "abelmax01", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 2, "hours_streamed": 2, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 2190240.0}

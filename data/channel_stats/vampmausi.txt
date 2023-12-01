@@ -1,0 +1,1 @@
+{"channel": "vampmausi", "avg_viewers": 4, "followers_gained": 16, "peak_viewers": 16, "hours_streamed": 67, "streams": 17, "mature": 1, "language": "German", "account_age": 1355040.0}

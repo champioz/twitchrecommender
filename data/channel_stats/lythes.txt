@@ -1,0 +1,1 @@
+{"channel": "lythes", "avg_viewers": 67, "followers_gained": 217, "peak_viewers": 160, "hours_streamed": 66, "streams": 16, "mature": 1, "language": "English", "account_age": 2273760.0}

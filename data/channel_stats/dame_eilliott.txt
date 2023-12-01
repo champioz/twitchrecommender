@@ -1,0 +1,1 @@
+{"channel": "dame_eilliott", "avg_viewers": 7, "followers_gained": 5, "peak_viewers": 13, "hours_streamed": 6, "streams": 2, "mature": 1, "language": "French", "account_age": 2491200.0}

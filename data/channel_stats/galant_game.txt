@@ -1,0 +1,1 @@
+{"channel": "galant_game", "avg_viewers": 38, "followers_gained": 433, "peak_viewers": 184, "hours_streamed": 140, "streams": 31, "mature": 1, "language": "Russian", "account_age": 705600.0}

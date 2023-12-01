@@ -1,0 +1,1 @@
+{"channel": "j0yjoyy", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 19, "hours_streamed": 4, "streams": 4, "mature": 0, "language": "English", "account_age": 469440.0}

@@ -1,0 +1,1 @@
+{"channel": "desertdog", "avg_viewers": 25, "followers_gained": 133, "peak_viewers": 60, "hours_streamed": 133, "streams": 14, "mature": 0, "language": "English", "account_age": 3255840.0}

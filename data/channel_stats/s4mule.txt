@@ -1,0 +1,1 @@
+{"channel": "s4mule", "avg_viewers": 15, "followers_gained": 20, "peak_viewers": 148, "hours_streamed": 78, "streams": 24, "mature": 0, "language": "Spanish", "account_age": 2772000.0}

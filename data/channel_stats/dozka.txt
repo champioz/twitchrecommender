@@ -1,0 +1,1 @@
+{"channel": "dozka", "avg_viewers": 24, "followers_gained": 37, "peak_viewers": 91, "hours_streamed": 67, "streams": 14, "mature": 0, "language": "Russian", "account_age": 1941120.0}

@@ -1,0 +1,1 @@
+{"channel": "ace_the_supervillain", "avg_viewers": 154, "followers_gained": 352, "peak_viewers": 311, "hours_streamed": 76, "streams": 24, "mature": 1, "language": "Italian", "account_age": 2724480.0}

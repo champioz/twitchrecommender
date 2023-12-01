@@ -1,0 +1,1 @@
+{"channel": "ladyqueen", "avg_viewers": 56, "followers_gained": 144, "peak_viewers": 1271, "hours_streamed": 28, "streams": 11, "mature": 1, "language": "English", "account_age": 709920.0}

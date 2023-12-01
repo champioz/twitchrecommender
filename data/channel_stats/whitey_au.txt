@@ -1,0 +1,1 @@
+{"channel": "whitey_au", "avg_viewers": 20, "followers_gained": 65, "peak_viewers": 41, "hours_streamed": 74, "streams": 15, "mature": 0, "language": "English", "account_age": 2109600.0}

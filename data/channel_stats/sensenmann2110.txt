@@ -1,0 +1,1 @@
+{"channel": "sensenmann2110", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 11, "hours_streamed": 116, "streams": 26, "mature": 1, "language": "German", "account_age": 2247840.0}

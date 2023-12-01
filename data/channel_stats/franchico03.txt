@@ -1,0 +1,1 @@
+{"channel": "franchico03", "avg_viewers": 30, "followers_gained": 75, "peak_viewers": 53, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "Portuguese", "account_age": 1720800.0}

@@ -1,0 +1,1 @@
+{"channel": "acurity_javox", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 0, "hours_streamed": 0, "streams": 0, "mature": 0, "language": "Swedish", "account_age": 214560.0}

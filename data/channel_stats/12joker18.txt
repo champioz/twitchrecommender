@@ -1,0 +1,1 @@
+{"channel": "12joker18", "avg_viewers": 4, "followers_gained": 69, "peak_viewers": 16, "hours_streamed": 244, "streams": 61, "mature": 1, "language": "German", "account_age": 2471040.0}

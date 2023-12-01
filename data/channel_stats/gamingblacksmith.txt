@@ -1,0 +1,1 @@
+{"channel": "gamingblacksmith", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 39, "hours_streamed": 55, "streams": 16, "mature": 0, "language": "English", "account_age": 3841920.0}

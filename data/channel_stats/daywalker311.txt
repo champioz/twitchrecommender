@@ -1,0 +1,1 @@
+{"channel": "daywalker311", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 8, "streams": 3, "mature": 1, "language": "German", "account_age": 2705760.0}

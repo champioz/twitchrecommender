@@ -1,0 +1,1 @@
+{"channel": "xleds", "avg_viewers": 7, "followers_gained": 79, "peak_viewers": 36, "hours_streamed": 39, "streams": 17, "mature": 1, "language": "Spanish", "account_age": 2635200.0}

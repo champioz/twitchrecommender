@@ -1,0 +1,1 @@
+{"channel": "guizzi_", "avg_viewers": 152, "followers_gained": 11023, "peak_viewers": 2276, "hours_streamed": 93, "streams": 33, "mature": 0, "language": "French", "account_age": 1275840.0}

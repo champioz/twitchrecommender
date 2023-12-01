@@ -1,0 +1,1 @@
+{"channel": "bleach_medicine", "avg_viewers": 44, "followers_gained": 174, "peak_viewers": 103, "hours_streamed": 94, "streams": 17, "mature": 1, "language": "English", "account_age": 1388160.0}

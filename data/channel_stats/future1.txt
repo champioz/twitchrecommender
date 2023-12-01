@@ -1,0 +1,1 @@
+{"channel": "future1", "avg_viewers": 99, "followers_gained": 151, "peak_viewers": 406, "hours_streamed": 24, "streams": 11, "mature": 1, "language": "English", "account_age": 1527840.0}

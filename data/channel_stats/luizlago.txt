@@ -1,0 +1,1 @@
+{"channel": "luizlago", "avg_viewers": 4, "followers_gained": 7, "peak_viewers": 12, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Portuguese", "account_age": 3656160.0}

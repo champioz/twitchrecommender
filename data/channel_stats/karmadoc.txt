@@ -1,0 +1,1 @@
+{"channel": "karmadoc", "avg_viewers": 109, "followers_gained": 223, "peak_viewers": 218, "hours_streamed": 124, "streams": 27, "mature": 1, "language": "Spanish", "account_age": 2956320.0}

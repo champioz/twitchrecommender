@@ -1,0 +1,1 @@
+{"channel": "emzgamez", "avg_viewers": 2, "followers_gained": 19, "peak_viewers": 13, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "Swedish", "account_age": 1656000.0}

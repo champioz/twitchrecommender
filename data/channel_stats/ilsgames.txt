@@ -1,0 +1,1 @@
+{"channel": "ilsgames", "avg_viewers": 185, "followers_gained": 125, "peak_viewers": 385, "hours_streamed": 98, "streams": 27, "mature": 1, "language": "Chinese", "account_age": 3679200.0}

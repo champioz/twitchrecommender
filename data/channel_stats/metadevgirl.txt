@@ -1,0 +1,1 @@
+{"channel": "metadevgirl", "avg_viewers": 6, "followers_gained": 37, "peak_viewers": 16, "hours_streamed": 28, "streams": 8, "mature": 0, "language": "English", "account_age": 2342880.0}

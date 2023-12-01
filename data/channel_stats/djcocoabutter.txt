@@ -1,0 +1,1 @@
+{"channel": "djcocoabutter", "avg_viewers": 8, "followers_gained": 50, "peak_viewers": 40, "hours_streamed": 25, "streams": 9, "mature": 1, "language": "English", "account_age": 2928960.0}

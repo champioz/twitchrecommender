@@ -1,0 +1,1 @@
+{"channel": "crosswei", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 15, "hours_streamed": 58, "streams": 14, "mature": 1, "language": "Chinese", "account_age": 1589760.0}

@@ -1,0 +1,1 @@
+{"channel": "sw_bear", "avg_viewers": 7, "followers_gained": 25, "peak_viewers": 36, "hours_streamed": 40, "streams": 15, "mature": 0, "language": "Japanese", "account_age": 1235520.0}

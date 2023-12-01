@@ -1,0 +1,1 @@
+{"channel": "smokeeeg", "avg_viewers": 5, "followers_gained": 19, "peak_viewers": 15, "hours_streamed": 76, "streams": 14, "mature": 1, "language": "English", "account_age": 1958400.0}

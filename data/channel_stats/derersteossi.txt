@@ -1,0 +1,1 @@
+{"channel": "derersteossi", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 5, "hours_streamed": 44, "streams": 10, "mature": 1, "language": "German", "account_age": 2255040.0}

@@ -1,0 +1,1 @@
+{"channel": "vellkiss", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 11, "hours_streamed": 25, "streams": 14, "mature": 1, "language": "Portuguese", "account_age": 1188000.0}

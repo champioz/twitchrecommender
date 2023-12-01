@@ -1,0 +1,1 @@
+{"channel": "l4r0us", "avg_viewers": 12, "followers_gained": 315, "peak_viewers": 41, "hours_streamed": 190, "streams": 52, "mature": 0, "language": "Spanish", "account_age": 2515680.0}

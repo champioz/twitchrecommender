@@ -1,0 +1,1 @@
+{"channel": "mrpapabaer", "avg_viewers": 38, "followers_gained": 131, "peak_viewers": 104, "hours_streamed": 120, "streams": 22, "mature": 1, "language": "German", "account_age": 3149280.0}

@@ -1,0 +1,1 @@
+{"channel": "ffamelive", "avg_viewers": 4, "followers_gained": 7, "peak_viewers": 97, "hours_streamed": 55, "streams": 19, "mature": 0, "language": "Thai", "account_age": 921600.0}

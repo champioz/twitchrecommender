@@ -1,0 +1,1 @@
+{"channel": "bango", "avg_viewers": 15, "followers_gained": 3, "peak_viewers": 30, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "English", "account_age": 1599840.0}

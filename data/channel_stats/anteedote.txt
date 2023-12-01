@@ -1,0 +1,1 @@
+{"channel": "anteedote", "avg_viewers": 6, "followers_gained": 18, "peak_viewers": 37, "hours_streamed": 60, "streams": 22, "mature": 0, "language": "English", "account_age": 3108960.0}

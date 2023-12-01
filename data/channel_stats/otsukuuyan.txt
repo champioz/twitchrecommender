@@ -1,0 +1,1 @@
+{"channel": "otsukuuyan", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 40, "hours_streamed": 18, "streams": 11, "mature": 0, "language": "Japanese", "account_age": 696960.0}

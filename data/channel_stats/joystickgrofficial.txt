@@ -1,0 +1,1 @@
+{"channel": "joystickgrofficial", "avg_viewers": 45, "followers_gained": 28, "peak_viewers": 59, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "English", "account_age": 1213920.0}

@@ -1,0 +1,1 @@
+{"channel": "linxaus", "avg_viewers": 16, "followers_gained": 45, "peak_viewers": 47, "hours_streamed": 147, "streams": 23, "mature": 1, "language": "English", "account_age": 1349280.0}

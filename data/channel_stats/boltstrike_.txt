@@ -1,0 +1,1 @@
+{"channel": "boltstrike_", "avg_viewers": 51, "followers_gained": 41, "peak_viewers": 83, "hours_streamed": 11, "streams": 4, "mature": 0, "language": "English", "account_age": 2672640.0}

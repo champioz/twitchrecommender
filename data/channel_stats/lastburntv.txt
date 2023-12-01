@@ -1,0 +1,1 @@
+{"channel": "lastburntv", "avg_viewers": 6, "followers_gained": 16, "peak_viewers": 13, "hours_streamed": 156, "streams": 19, "mature": 0, "language": "Korean", "account_age": 1627200.0}

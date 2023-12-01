@@ -1,0 +1,1 @@
+{"channel": "michihoyer", "avg_viewers": 3, "followers_gained": 23, "peak_viewers": 37, "hours_streamed": 53, "streams": 18, "mature": 0, "language": "English", "account_age": 1906560.0}

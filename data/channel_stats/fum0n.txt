@@ -1,0 +1,1 @@
+{"channel": "fum0n", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 4, "streams": 3, "mature": 1, "language": "Spanish", "account_age": 855360.0}

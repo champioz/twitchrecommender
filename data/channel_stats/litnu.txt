@@ -1,0 +1,1 @@
+{"channel": "litnu", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 14, "hours_streamed": 59, "streams": 14, "mature": 1, "language": "English", "account_age": 2841120.0}

@@ -1,0 +1,1 @@
+{"channel": "torgershark", "avg_viewers": 7, "followers_gained": 80, "peak_viewers": 23, "hours_streamed": 50, "streams": 15, "mature": 1, "language": "English", "account_age": 770400.0}

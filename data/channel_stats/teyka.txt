@@ -1,0 +1,1 @@
+{"channel": "teyka", "avg_viewers": 198, "followers_gained": 896, "peak_viewers": 2718, "hours_streamed": 240, "streams": 31, "mature": 0, "language": "Russian", "account_age": 3814560.0}

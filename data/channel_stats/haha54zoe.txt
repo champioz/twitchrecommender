@@ -1,0 +1,1 @@
+{"channel": "haha54zoe", "avg_viewers": 78, "followers_gained": 285, "peak_viewers": 196, "hours_streamed": 79, "streams": 22, "mature": 1, "language": "Chinese", "account_age": 3399840.0}

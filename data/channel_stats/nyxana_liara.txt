@@ -1,0 +1,1 @@
+{"channel": "nyxana_liara", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "German", "account_age": 1778400.0}

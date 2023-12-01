@@ -1,0 +1,1 @@
+{"channel": "alinagerber", "avg_viewers": 10, "followers_gained": 33, "peak_viewers": 66, "hours_streamed": 11, "streams": 5, "mature": 1, "language": "Russian", "account_age": 1232640.0}

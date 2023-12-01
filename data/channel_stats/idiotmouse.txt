@@ -1,0 +1,1 @@
+{"channel": "idiotmouse", "avg_viewers": 140, "followers_gained": 696, "peak_viewers": 304, "hours_streamed": 96, "streams": 22, "mature": 0, "language": "English", "account_age": 574560.0}

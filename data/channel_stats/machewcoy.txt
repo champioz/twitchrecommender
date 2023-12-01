@@ -1,0 +1,1 @@
+{"channel": "machewcoy", "avg_viewers": 10, "followers_gained": 3, "peak_viewers": 19, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "English", "account_age": 2361600.0}

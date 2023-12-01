@@ -1,0 +1,1 @@
+{"channel": "lizard_zoe", "avg_viewers": 2, "followers_gained": 19, "peak_viewers": 31, "hours_streamed": 89, "streams": 33, "mature": 1, "language": "French", "account_age": 2272320.0}

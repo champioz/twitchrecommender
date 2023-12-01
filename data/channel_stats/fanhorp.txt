@@ -1,0 +1,1 @@
+{"channel": "fanhorp", "avg_viewers": 207, "followers_gained": 3979, "peak_viewers": 1183, "hours_streamed": 124, "streams": 24, "mature": 1, "language": "Portuguese", "account_age": 1333440.0}

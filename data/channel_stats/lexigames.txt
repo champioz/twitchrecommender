@@ -1,0 +1,1 @@
+{"channel": "lexigames", "avg_viewers": 19, "followers_gained": 538, "peak_viewers": 60, "hours_streamed": 83, "streams": 30, "mature": 0, "language": "English", "account_age": 646560.0}

@@ -1,0 +1,1 @@
+{"channel": "yeonsoograce", "avg_viewers": 26, "followers_gained": 93, "peak_viewers": 69, "hours_streamed": 56, "streams": 22, "mature": 0, "language": "English", "account_age": 302400.0}

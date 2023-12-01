@@ -1,0 +1,1 @@
+{"channel": "aveon_", "avg_viewers": 23, "followers_gained": 29, "peak_viewers": 55, "hours_streamed": 49, "streams": 26, "mature": 0, "language": "English", "account_age": 1823040.0}

@@ -1,0 +1,1 @@
+{"channel": "caucher", "avg_viewers": 71, "followers_gained": 313, "peak_viewers": 243, "hours_streamed": 139, "streams": 40, "mature": 1, "language": "Hungarian", "account_age": 1241280.0}

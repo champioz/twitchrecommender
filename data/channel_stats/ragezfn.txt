@@ -1,0 +1,1 @@
+{"channel": "ragezfn", "avg_viewers": 90, "followers_gained": 1841, "peak_viewers": 303, "hours_streamed": 55, "streams": 20, "mature": 0, "language": "Italian", "account_age": 1078560.0}

@@ -1,0 +1,1 @@
+{"channel": "aimer_b", "avg_viewers": 34, "followers_gained": 31, "peak_viewers": 76, "hours_streamed": 16, "streams": 8, "mature": 1, "language": "English", "account_age": 4327200.0}

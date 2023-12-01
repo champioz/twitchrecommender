@@ -1,0 +1,1 @@
+{"channel": "doctorburd", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 18, "hours_streamed": 78, "streams": 16, "mature": 1, "language": "English", "account_age": 951840.0}

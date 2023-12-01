@@ -1,0 +1,1 @@
+{"channel": "plzdonhakme", "avg_viewers": 38, "followers_gained": 1, "peak_viewers": 97, "hours_streamed": 20, "streams": 4, "mature": 0, "language": "English", "account_age": 2596320.0}

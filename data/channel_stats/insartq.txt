@@ -1,0 +1,1 @@
+{"channel": "insartq", "avg_viewers": 1, "followers_gained": 336, "peak_viewers": 11, "hours_streamed": 89, "streams": 21, "mature": 0, "language": "Russian", "account_age": 2544480.0}

@@ -1,0 +1,1 @@
+{"channel": "tiousek", "avg_viewers": 3, "followers_gained": 43, "peak_viewers": 14, "hours_streamed": 282, "streams": 32, "mature": 0, "language": "Czech", "account_age": 933120.0}

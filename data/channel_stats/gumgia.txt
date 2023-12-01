@@ -1,0 +1,1 @@
+{"channel": "gumgia", "avg_viewers": 37, "followers_gained": 6, "peak_viewers": 90, "hours_streamed": 11, "streams": 4, "mature": 1, "language": "Chinese", "account_age": 3173760.0}

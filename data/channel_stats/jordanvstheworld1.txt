@@ -1,0 +1,1 @@
+{"channel": "jordanvstheworld1", "avg_viewers": 7, "followers_gained": 78, "peak_viewers": 139, "hours_streamed": 94, "streams": 21, "mature": 0, "language": "English", "account_age": 1177920.0}

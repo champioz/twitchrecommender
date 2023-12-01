@@ -1,0 +1,1 @@
+{"channel": "theastropub", "avg_viewers": 73, "followers_gained": 57, "peak_viewers": 197, "hours_streamed": 61, "streams": 15, "mature": 1, "language": "English", "account_age": 1861920.0}

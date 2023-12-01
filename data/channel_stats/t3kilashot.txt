@@ -1,0 +1,1 @@
+{"channel": "t3kilashot", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 7, "hours_streamed": 74, "streams": 25, "mature": 1, "language": "Spanish", "account_age": 1579680.0}

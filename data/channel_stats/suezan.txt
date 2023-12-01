@@ -1,0 +1,1 @@
+{"channel": "suezan", "avg_viewers": 17, "followers_gained": 20, "peak_viewers": 35, "hours_streamed": 18, "streams": 9, "mature": 1, "language": "English", "account_age": 1539360.0}

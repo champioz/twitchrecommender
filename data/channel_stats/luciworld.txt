@@ -1,0 +1,1 @@
+{"channel": "luciworld", "avg_viewers": 20, "followers_gained": 60, "peak_viewers": 42, "hours_streamed": 12, "streams": 5, "mature": 0, "language": "Korean", "account_age": 532800.0}

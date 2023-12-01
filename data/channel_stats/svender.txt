@@ -1,0 +1,1 @@
+{"channel": "svender", "avg_viewers": 3, "followers_gained": 15, "peak_viewers": 52, "hours_streamed": 79, "streams": 24, "mature": 0, "language": "German", "account_age": 1599840.0}

@@ -1,0 +1,1 @@
+{"channel": "kapotaque", "avg_viewers": 57, "followers_gained": 454, "peak_viewers": 130, "hours_streamed": 63, "streams": 19, "mature": 0, "language": "French", "account_age": 2793600.0}

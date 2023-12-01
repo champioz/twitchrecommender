@@ -1,0 +1,1 @@
+{"channel": "jcoolaid", "avg_viewers": 18, "followers_gained": 56, "peak_viewers": 47, "hours_streamed": 110, "streams": 22, "mature": 0, "language": "English", "account_age": 1814400.0}

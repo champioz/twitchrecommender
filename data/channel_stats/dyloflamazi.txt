@@ -1,0 +1,1 @@
+{"channel": "dyloflamazi", "avg_viewers": 5, "followers_gained": 205, "peak_viewers": 21, "hours_streamed": 88, "streams": 24, "mature": 0, "language": "Spanish", "account_age": 1643040.0}

@@ -1,0 +1,1 @@
+{"channel": "lordsemilol", "avg_viewers": 118, "followers_gained": 1377, "peak_viewers": 1101, "hours_streamed": 184, "streams": 28, "mature": 0, "language": "Portuguese", "account_age": 1012320.0}

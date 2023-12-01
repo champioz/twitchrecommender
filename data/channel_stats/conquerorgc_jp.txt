@@ -1,0 +1,1 @@
+{"channel": "conquerorgc_jp", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 12, "hours_streamed": 15, "streams": 8, "mature": 0, "language": "Japanese", "account_age": 633600.0}

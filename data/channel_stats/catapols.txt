@@ -1,0 +1,1 @@
+{"channel": "catapols", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 36, "streams": 31, "mature": 1, "language": "English", "account_age": 4152960.0}

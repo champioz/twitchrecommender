@@ -1,0 +1,1 @@
+{"channel": "thenamelessx5", "avg_viewers": 2, "followers_gained": 160, "peak_viewers": 27, "hours_streamed": 100, "streams": 37, "mature": 1, "language": "Arabic", "account_age": 182880.0}

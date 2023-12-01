@@ -1,0 +1,1 @@
+{"channel": "codyumm", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 13, "hours_streamed": 35, "streams": 11, "mature": 1, "language": "English", "account_age": 3101760.0}

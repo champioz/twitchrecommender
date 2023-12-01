@@ -1,0 +1,1 @@
+{"channel": "strompest", "avg_viewers": 64, "followers_gained": 40, "peak_viewers": 674, "hours_streamed": 18, "streams": 7, "mature": 1, "language": "English", "account_age": 2989440.0}

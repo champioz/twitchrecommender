@@ -1,0 +1,1 @@
+{"channel": "fishy_cakess", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 20, "hours_streamed": 54, "streams": 15, "mature": 0, "language": "English", "account_age": 2377440.0}

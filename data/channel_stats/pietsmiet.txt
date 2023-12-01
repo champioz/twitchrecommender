@@ -1,0 +1,1 @@
+{"channel": "pietsmiet", "avg_viewers": 3995, "followers_gained": 3593, "peak_viewers": 11123, "hours_streamed": 47, "streams": 16, "mature": 1, "language": "German", "account_age": 4348800.0}

@@ -1,0 +1,1 @@
+{"channel": "supermexicanbros", "avg_viewers": 3, "followers_gained": 63, "peak_viewers": 10, "hours_streamed": 67, "streams": 18, "mature": 1, "language": "English", "account_age": 2492640.0}

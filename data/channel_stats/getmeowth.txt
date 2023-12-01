@@ -1,0 +1,1 @@
+{"channel": "getmeowth", "avg_viewers": 95, "followers_gained": 277, "peak_viewers": 194, "hours_streamed": 85, "streams": 20, "mature": 0, "language": "English", "account_age": 2892960.0}

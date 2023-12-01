@@ -1,0 +1,1 @@
+{"channel": "skuzy", "avg_viewers": 7, "followers_gained": 50, "peak_viewers": 22, "hours_streamed": 83, "streams": 27, "mature": 1, "language": "English", "account_age": 1249920.0}

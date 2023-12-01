@@ -1,0 +1,1 @@
+{"channel": "voltariux", "avg_viewers": 34, "followers_gained": 47, "peak_viewers": 137, "hours_streamed": 29, "streams": 8, "mature": 0, "language": "French", "account_age": 2796480.0}

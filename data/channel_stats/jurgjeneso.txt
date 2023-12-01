@@ -1,0 +1,1 @@
+{"channel": "jurgjeneso", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 12, "hours_streamed": 62, "streams": 30, "mature": 0, "language": "Polish", "account_age": 826560.0}

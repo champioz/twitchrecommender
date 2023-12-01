@@ -1,0 +1,1 @@
+{"channel": "jagolewahar", "avg_viewers": 44, "followers_gained": 0, "peak_viewers": 160, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "French", "account_age": 4440960.0}

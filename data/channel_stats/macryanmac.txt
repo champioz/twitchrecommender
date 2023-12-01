@@ -1,0 +1,1 @@
+{"channel": "macryanmac", "avg_viewers": 8, "followers_gained": 33, "peak_viewers": 24, "hours_streamed": 36, "streams": 12, "mature": 0, "language": "English", "account_age": 2648160.0}

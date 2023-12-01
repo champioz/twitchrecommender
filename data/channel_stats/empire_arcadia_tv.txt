@@ -1,0 +1,1 @@
+{"channel": "empire_arcadia_tv", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 74, "streams": 25, "mature": 1, "language": "English", "account_age": 3928320.0}

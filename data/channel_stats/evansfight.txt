@@ -1,0 +1,1 @@
+{"channel": "evansfight", "avg_viewers": 4, "followers_gained": 35, "peak_viewers": 19, "hours_streamed": 101, "streams": 34, "mature": 1, "language": "English", "account_age": 4160160.0}

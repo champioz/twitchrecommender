@@ -1,0 +1,1 @@
+{"channel": "barelandhorses1", "avg_viewers": 4, "followers_gained": 36, "peak_viewers": 16, "hours_streamed": 58, "streams": 22, "mature": 1, "language": "English", "account_age": 466560.0}

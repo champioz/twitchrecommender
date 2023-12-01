@@ -1,0 +1,1 @@
+{"channel": "gsl", "avg_viewers": 8385, "followers_gained": 2484, "peak_viewers": 15905, "hours_streamed": 32, "streams": 9, "mature": 0, "language": "English", "account_age": 2986560.0}

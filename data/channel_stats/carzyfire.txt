@@ -1,0 +1,1 @@
+{"channel": "carzyfire", "avg_viewers": 8, "followers_gained": 254, "peak_viewers": 33, "hours_streamed": 160, "streams": 35, "mature": 0, "language": "German", "account_age": 1620000.0}

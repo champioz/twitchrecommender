@@ -1,0 +1,1 @@
+{"channel": "talynwolfen", "avg_viewers": 2, "followers_gained": 13, "peak_viewers": 28, "hours_streamed": 66, "streams": 19, "mature": 1, "language": "English", "account_age": 3191040.0}

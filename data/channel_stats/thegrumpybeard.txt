@@ -1,0 +1,1 @@
+{"channel": "thegrumpybeard", "avg_viewers": 117, "followers_gained": 399, "peak_viewers": 931, "hours_streamed": 118, "streams": 21, "mature": 1, "language": "English", "account_age": 2835360.0}

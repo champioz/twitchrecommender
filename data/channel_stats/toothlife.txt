@@ -1,0 +1,1 @@
+{"channel": "toothlife", "avg_viewers": 32, "followers_gained": 13, "peak_viewers": 60, "hours_streamed": 20, "streams": 4, "mature": 0, "language": "Korean", "account_age": 1729440.0}

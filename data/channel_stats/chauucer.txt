@@ -1,0 +1,1 @@
+{"channel": "chauucer", "avg_viewers": 27, "followers_gained": 18, "peak_viewers": 58, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "Other", "account_age": 3490560.0}

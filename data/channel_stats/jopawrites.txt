@@ -1,0 +1,1 @@
+{"channel": "jopawrites", "avg_viewers": 27, "followers_gained": 75, "peak_viewers": 67, "hours_streamed": 135, "streams": 24, "mature": 0, "language": "English", "account_age": 1179360.0}

@@ -1,0 +1,1 @@
+{"channel": "prostoaleshka", "avg_viewers": 2, "followers_gained": 15, "peak_viewers": 9, "hours_streamed": 173, "streams": 27, "mature": 0, "language": "Russian", "account_age": 938880.0}

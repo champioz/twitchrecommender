@@ -1,0 +1,1 @@
+{"channel": "wfox_", "avg_viewers": 297, "followers_gained": 1750, "peak_viewers": 1289, "hours_streamed": 336, "streams": 26, "mature": 0, "language": "Thai", "account_age": 908640.0}

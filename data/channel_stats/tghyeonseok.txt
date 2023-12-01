@@ -1,0 +1,1 @@
+{"channel": "tghyeonseok", "avg_viewers": 29, "followers_gained": 126, "peak_viewers": 129, "hours_streamed": 117, "streams": 25, "mature": 0, "language": "Korean", "account_age": 1192320.0}

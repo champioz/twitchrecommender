@@ -1,0 +1,1 @@
+{"channel": "demonspawns", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 13, "hours_streamed": 5, "streams": 1, "mature": 1, "language": "English", "account_age": 1559520.0}

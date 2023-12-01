@@ -1,0 +1,1 @@
+{"channel": "zentenlol", "avg_viewers": 149, "followers_gained": 631, "peak_viewers": 552, "hours_streamed": 272, "streams": 28, "mature": 1, "language": "German", "account_age": 3106080.0}

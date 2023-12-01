@@ -1,0 +1,1 @@
+{"channel": "ghostphilly", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "English", "account_age": 1749600.0}

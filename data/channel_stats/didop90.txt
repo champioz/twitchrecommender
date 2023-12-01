@@ -1,0 +1,1 @@
+{"channel": "didop90", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 10, "hours_streamed": 190, "streams": 48, "mature": 1, "language": "Spanish", "account_age": 3317760.0}

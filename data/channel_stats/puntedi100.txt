@@ -1,0 +1,1 @@
+{"channel": "puntedi100", "avg_viewers": 41, "followers_gained": 16, "peak_viewers": 73, "hours_streamed": 16, "streams": 8, "mature": 0, "language": "Italian", "account_age": 2975040.0}

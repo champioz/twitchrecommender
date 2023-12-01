@@ -1,0 +1,1 @@
+{"channel": "trixouutv", "avg_viewers": 7, "followers_gained": 73, "peak_viewers": 20, "hours_streamed": 16, "streams": 13, "mature": 0, "language": "French", "account_age": 696960.0}

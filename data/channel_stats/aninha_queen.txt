@@ -1,0 +1,1 @@
+{"channel": "aninha_queen", "avg_viewers": 108, "followers_gained": 1397, "peak_viewers": 487, "hours_streamed": 67, "streams": 14, "mature": 1, "language": "Portuguese", "account_age": 3576960.0}

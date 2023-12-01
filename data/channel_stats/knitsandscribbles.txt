@@ -1,0 +1,1 @@
+{"channel": "knitsandscribbles", "avg_viewers": 17, "followers_gained": 29, "peak_viewers": 43, "hours_streamed": 23, "streams": 11, "mature": 1, "language": "English", "account_age": 3034080.0}

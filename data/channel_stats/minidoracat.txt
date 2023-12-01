@@ -1,0 +1,1 @@
+{"channel": "minidoracat", "avg_viewers": 25, "followers_gained": 31, "peak_viewers": 92, "hours_streamed": 151, "streams": 31, "mature": 0, "language": "Chinese", "account_age": 2947680.0}

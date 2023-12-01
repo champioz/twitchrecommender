@@ -1,0 +1,1 @@
+{"channel": "lunnita", "avg_viewers": 8, "followers_gained": 48, "peak_viewers": 20, "hours_streamed": 28, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 3241440.0}

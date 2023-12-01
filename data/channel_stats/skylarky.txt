@@ -1,0 +1,1 @@
+{"channel": "skylarky", "avg_viewers": 9, "followers_gained": 42, "peak_viewers": 22, "hours_streamed": 63, "streams": 17, "mature": 0, "language": "English", "account_age": 3381120.0}

@@ -1,0 +1,1 @@
+{"channel": "rrwannn", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 12, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "French", "account_age": 1350720.0}

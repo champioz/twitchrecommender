@@ -1,0 +1,1 @@
+{"channel": "thetouchi", "avg_viewers": 14, "followers_gained": 26, "peak_viewers": 55, "hours_streamed": 15, "streams": 8, "mature": 1, "language": "German", "account_age": 3277440.0}

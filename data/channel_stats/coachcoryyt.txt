@@ -1,0 +1,1 @@
+{"channel": "coachcoryyt", "avg_viewers": 406, "followers_gained": 3135, "peak_viewers": 1883, "hours_streamed": 9, "streams": 5, "mature": 0, "language": "English", "account_age": 812160.0}

@@ -1,0 +1,1 @@
+{"channel": "spacefox7895", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 8, "hours_streamed": 74, "streams": 33, "mature": 0, "language": "Korean", "account_age": 708480.0}

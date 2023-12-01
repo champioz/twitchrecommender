@@ -1,0 +1,1 @@
+{"channel": "hackerlou1", "avg_viewers": 44, "followers_gained": 61, "peak_viewers": 166, "hours_streamed": 192, "streams": 40, "mature": 1, "language": "German", "account_age": 2744640.0}

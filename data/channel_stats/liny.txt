@@ -1,0 +1,1 @@
+{"channel": "liny", "avg_viewers": 16, "followers_gained": 767, "peak_viewers": 286, "hours_streamed": 178, "streams": 59, "mature": 0, "language": "French", "account_age": 892800.0}

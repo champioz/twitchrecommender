@@ -1,0 +1,1 @@
+{"channel": "the_galleguin", "avg_viewers": 4, "followers_gained": 47, "peak_viewers": 22, "hours_streamed": 159, "streams": 51, "mature": 1, "language": "Spanish", "account_age": 743040.0}

@@ -1,0 +1,1 @@
+{"channel": "teddy_recks", "avg_viewers": 119, "followers_gained": 346, "peak_viewers": 351, "hours_streamed": 70, "streams": 17, "mature": 0, "language": "English", "account_age": 3981600.0}

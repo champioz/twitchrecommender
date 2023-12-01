@@ -1,0 +1,1 @@
+{"channel": "simplyseze", "avg_viewers": 20, "followers_gained": 60, "peak_viewers": 44, "hours_streamed": 23, "streams": 6, "mature": 1, "language": "English", "account_age": 2007360.0}

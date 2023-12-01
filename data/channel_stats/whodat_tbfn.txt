@@ -1,0 +1,1 @@
+{"channel": "whodat_tbfn", "avg_viewers": 4, "followers_gained": 10, "peak_viewers": 15, "hours_streamed": 17, "streams": 6, "mature": 0, "language": "English", "account_age": 4662720.0}

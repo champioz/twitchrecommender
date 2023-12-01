@@ -1,0 +1,1 @@
+{"channel": "itsmaus", "avg_viewers": 1, "followers_gained": 14, "peak_viewers": 10, "hours_streamed": 156, "streams": 33, "mature": 1, "language": "English", "account_age": 2041920.0}

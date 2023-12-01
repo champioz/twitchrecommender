@@ -1,0 +1,1 @@
+{"channel": "deltajford", "avg_viewers": 4, "followers_gained": 22, "peak_viewers": 233, "hours_streamed": 81, "streams": 22, "mature": 1, "language": "English", "account_age": 2531520.0}

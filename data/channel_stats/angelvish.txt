@@ -1,0 +1,1 @@
+{"channel": "angelvish", "avg_viewers": 6, "followers_gained": 89, "peak_viewers": 141, "hours_streamed": 55, "streams": 20, "mature": 1, "language": "English", "account_age": 2625120.0}

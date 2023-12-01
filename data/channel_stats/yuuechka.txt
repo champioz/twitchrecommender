@@ -1,0 +1,1 @@
+{"channel": "yuuechka", "avg_viewers": 549, "followers_gained": 24450, "peak_viewers": 1065, "hours_streamed": 72, "streams": 22, "mature": 0, "language": "Russian", "account_age": 201600.0}

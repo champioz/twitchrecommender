@@ -1,0 +1,1 @@
+{"channel": "jasper7se", "avg_viewers": 1266, "followers_gained": 1384, "peak_viewers": 2855, "hours_streamed": 93, "streams": 22, "mature": 0, "language": "Japanese", "account_age": 2430720.0}

@@ -1,0 +1,1 @@
+{"channel": "kalnore", "avg_viewers": 5, "followers_gained": 43, "peak_viewers": 25, "hours_streamed": 124, "streams": 27, "mature": 1, "language": "English", "account_age": 1500480.0}

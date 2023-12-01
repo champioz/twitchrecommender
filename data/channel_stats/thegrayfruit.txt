@@ -1,0 +1,1 @@
+{"channel": "thegrayfruit", "avg_viewers": 66, "followers_gained": 1663, "peak_viewers": 175, "hours_streamed": 55, "streams": 26, "mature": 0, "language": "English", "account_age": 1179360.0}

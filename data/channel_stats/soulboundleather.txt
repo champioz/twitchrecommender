@@ -1,0 +1,1 @@
+{"channel": "soulboundleather", "avg_viewers": 31, "followers_gained": 20, "peak_viewers": 63, "hours_streamed": 67, "streams": 25, "mature": 0, "language": "English", "account_age": 3096000.0}

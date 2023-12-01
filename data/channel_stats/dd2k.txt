@@ -1,0 +1,1 @@
+{"channel": "dd2k", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 16, "streams": 12, "mature": 1, "language": "English", "account_age": 1853280.0}

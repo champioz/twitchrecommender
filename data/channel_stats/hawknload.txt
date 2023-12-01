@@ -1,0 +1,1 @@
+{"channel": "hawknload", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 6, "hours_streamed": 183, "streams": 37, "mature": 1, "language": "English", "account_age": 1527840.0}

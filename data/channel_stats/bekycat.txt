@@ -1,0 +1,1 @@
+{"channel": "bekycat", "avg_viewers": 15, "followers_gained": 324, "peak_viewers": 42, "hours_streamed": 75, "streams": 24, "mature": 1, "language": "Spanish", "account_age": 1294560.0}

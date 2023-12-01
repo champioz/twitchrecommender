@@ -1,0 +1,1 @@
+{"channel": "noverb", "avg_viewers": 126, "followers_gained": 79, "peak_viewers": 351, "hours_streamed": 55, "streams": 13, "mature": 0, "language": "English", "account_age": 3428640.0}

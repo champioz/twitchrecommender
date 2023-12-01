@@ -1,0 +1,1 @@
+{"channel": "othergun", "avg_viewers": 35, "followers_gained": 52, "peak_viewers": 131, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "French", "account_age": 4235040.0}

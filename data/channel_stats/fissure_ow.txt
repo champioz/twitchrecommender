@@ -1,0 +1,1 @@
+{"channel": "fissure_ow", "avg_viewers": 93, "followers_gained": 1701, "peak_viewers": 301, "hours_streamed": 175, "streams": 33, "mature": 0, "language": "Korean", "account_age": 1339200.0}

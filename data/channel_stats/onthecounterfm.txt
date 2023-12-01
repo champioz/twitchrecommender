@@ -1,0 +1,1 @@
+{"channel": "onthecounterfm", "avg_viewers": 12, "followers_gained": 24, "peak_viewers": 35, "hours_streamed": 17, "streams": 7, "mature": 0, "language": "English", "account_age": 617760.0}

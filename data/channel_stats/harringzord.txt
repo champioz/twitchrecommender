@@ -1,0 +1,1 @@
+{"channel": "harringzord", "avg_viewers": 71, "followers_gained": 17, "peak_viewers": 125, "hours_streamed": 17, "streams": 9, "mature": 1, "language": "English", "account_age": 1889280.0}

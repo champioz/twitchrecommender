@@ -1,0 +1,1 @@
+{"channel": "celeste", "avg_viewers": 95, "followers_gained": 124, "peak_viewers": 214, "hours_streamed": 22, "streams": 9, "mature": 1, "language": "English", "account_age": 3414240.0}

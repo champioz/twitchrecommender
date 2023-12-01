@@ -1,0 +1,1 @@
+{"channel": "dragonspits", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 11, "hours_streamed": 37, "streams": 18, "mature": 1, "language": "Japanese", "account_age": 4628160.0}

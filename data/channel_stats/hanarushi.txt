@@ -1,0 +1,1 @@
+{"channel": "hanarushi", "avg_viewers": 6, "followers_gained": 25, "peak_viewers": 26, "hours_streamed": 727, "streams": 9, "mature": 0, "language": "Chinese", "account_age": 1978560.0}

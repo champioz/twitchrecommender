@@ -1,0 +1,1 @@
+{"channel": "dyablorosa", "avg_viewers": 61, "followers_gained": 8, "peak_viewers": 161, "hours_streamed": 57, "streams": 29, "mature": 1, "language": "Spanish", "account_age": 3733920.0}

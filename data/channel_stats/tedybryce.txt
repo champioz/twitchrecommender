@@ -1,0 +1,1 @@
+{"channel": "tedybryce", "avg_viewers": 25, "followers_gained": 14, "peak_viewers": 57, "hours_streamed": 45, "streams": 14, "mature": 0, "language": "English", "account_age": 3700800.0}

@@ -1,0 +1,1 @@
+{"channel": "xiyoung1999", "avg_viewers": 5, "followers_gained": 18, "peak_viewers": 15, "hours_streamed": 27, "streams": 13, "mature": 0, "language": "Korean", "account_age": 911520.0}

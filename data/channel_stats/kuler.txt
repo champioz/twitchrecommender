@@ -1,0 +1,1 @@
+{"channel": "kuler", "avg_viewers": 60, "followers_gained": 1342, "peak_viewers": 128, "hours_streamed": 101, "streams": 26, "mature": 0, "language": "English", "account_age": 2406240.0}

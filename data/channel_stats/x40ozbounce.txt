@@ -1,0 +1,1 @@
+{"channel": "x40ozbounce", "avg_viewers": 36, "followers_gained": 331, "peak_viewers": 77, "hours_streamed": 51, "streams": 13, "mature": 1, "language": "English", "account_age": 2082240.0}

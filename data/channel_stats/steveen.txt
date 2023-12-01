@@ -1,0 +1,1 @@
+{"channel": "steveen", "avg_viewers": 32, "followers_gained": 110, "peak_viewers": 139, "hours_streamed": 43, "streams": 10, "mature": 1, "language": "Portuguese", "account_age": 2593440.0}

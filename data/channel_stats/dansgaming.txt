@@ -1,0 +1,1 @@
+{"channel": "dansgaming", "avg_viewers": 3706, "followers_gained": 2049, "peak_viewers": 8042, "hours_streamed": 307, "streams": 46, "mature": 0, "language": "English", "account_age": 5284800.0}

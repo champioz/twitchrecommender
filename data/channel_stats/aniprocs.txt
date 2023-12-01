@@ -1,0 +1,1 @@
+{"channel": "aniprocs", "avg_viewers": 2, "followers_gained": 45, "peak_viewers": 19, "hours_streamed": 137, "streams": 28, "mature": 0, "language": "English", "account_age": 2072160.0}

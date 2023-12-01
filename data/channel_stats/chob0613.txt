@@ -1,0 +1,1 @@
+{"channel": "chob0613", "avg_viewers": 50, "followers_gained": 69, "peak_viewers": 108, "hours_streamed": 115, "streams": 19, "mature": 0, "language": "Korean", "account_age": 1157760.0}

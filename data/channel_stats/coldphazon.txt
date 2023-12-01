@@ -1,0 +1,1 @@
+{"channel": "coldphazon", "avg_viewers": 41, "followers_gained": 315, "peak_viewers": 111, "hours_streamed": 168, "streams": 23, "mature": 1, "language": "English", "account_age": 4358880.0}

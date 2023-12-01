@@ -1,0 +1,1 @@
+{"channel": "steponetv", "avg_viewers": 18, "followers_gained": 17, "peak_viewers": 38, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Arabic", "account_age": 577440.0}

@@ -1,0 +1,1 @@
+{"channel": "pamellaribeiro25", "avg_viewers": 61, "followers_gained": 669, "peak_viewers": 137, "hours_streamed": 95, "streams": 24, "mature": 0, "language": "Portuguese", "account_age": 2589120.0}

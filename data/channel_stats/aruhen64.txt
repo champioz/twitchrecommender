@@ -1,0 +1,1 @@
+{"channel": "aruhen64", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 7, "hours_streamed": 17, "streams": 6, "mature": 0, "language": "Spanish", "account_age": 851040.0}

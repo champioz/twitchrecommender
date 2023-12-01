@@ -1,0 +1,1 @@
+{"channel": "jayrangtv", "avg_viewers": 15, "followers_gained": 39, "peak_viewers": 87, "hours_streamed": 109, "streams": 30, "mature": 0, "language": "Korean", "account_age": 1404000.0}

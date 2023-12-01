@@ -1,0 +1,1 @@
+{"channel": "jofrik99", "avg_viewers": 15, "followers_gained": 357, "peak_viewers": 208, "hours_streamed": 184, "streams": 48, "mature": 1, "language": "Portuguese", "account_age": 2684160.0}

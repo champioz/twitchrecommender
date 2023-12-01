@@ -1,0 +1,1 @@
+{"channel": "hertzera", "avg_viewers": 25, "followers_gained": 1808, "peak_viewers": 743, "hours_streamed": 155, "streams": 42, "mature": 0, "language": "Portuguese", "account_age": 1440000.0}

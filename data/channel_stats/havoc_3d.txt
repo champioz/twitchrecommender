@@ -1,0 +1,1 @@
+{"channel": "havoc_3d", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 24, "streams": 9, "mature": 0, "language": "English", "account_age": 633600.0}

@@ -1,0 +1,1 @@
+{"channel": "minegrain", "avg_viewers": 3, "followers_gained": 28, "peak_viewers": 26, "hours_streamed": 36, "streams": 26, "mature": 0, "language": "Thai", "account_age": 1588320.0}

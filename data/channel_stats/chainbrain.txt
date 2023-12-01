@@ -1,0 +1,1 @@
+{"channel": "chainbrain", "avg_viewers": 93, "followers_gained": 567, "peak_viewers": 553, "hours_streamed": 128, "streams": 20, "mature": 0, "language": "English", "account_age": 3483360.0}

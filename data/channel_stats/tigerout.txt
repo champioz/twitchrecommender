@@ -1,0 +1,1 @@
+{"channel": "tigerout", "avg_viewers": 58, "followers_gained": 546, "peak_viewers": 165, "hours_streamed": 56, "streams": 27, "mature": 0, "language": "Bulgarian", "account_age": 2999520.0}

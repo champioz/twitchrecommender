@@ -1,0 +1,1 @@
+{"channel": "air_ow", "avg_viewers": 5, "followers_gained": 16, "peak_viewers": 46, "hours_streamed": 45, "streams": 8, "mature": 0, "language": "English", "account_age": 2988000.0}

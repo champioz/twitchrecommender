@@ -1,0 +1,1 @@
+{"channel": "lou_relativ", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 11, "hours_streamed": 33, "streams": 21, "mature": 1, "language": "German", "account_age": 992160.0}

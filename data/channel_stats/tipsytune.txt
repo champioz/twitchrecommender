@@ -1,0 +1,1 @@
+{"channel": "tipsytune", "avg_viewers": 19, "followers_gained": 74, "peak_viewers": 37, "hours_streamed": 50, "streams": 9, "mature": 1, "language": "English", "account_age": 537120.0}

@@ -1,0 +1,1 @@
+{"channel": "jdmax1210", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 33, "hours_streamed": 38, "streams": 25, "mature": 1, "language": "English", "account_age": 1396800.0}

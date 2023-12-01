@@ -1,0 +1,1 @@
+{"channel": "lxensei", "avg_viewers": 6, "followers_gained": 24, "peak_viewers": 14, "hours_streamed": 53, "streams": 16, "mature": 1, "language": "English", "account_age": 378720.0}

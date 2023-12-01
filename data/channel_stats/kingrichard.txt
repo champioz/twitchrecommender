@@ -1,0 +1,1 @@
+{"channel": "kingrichard", "avg_viewers": 4769, "followers_gained": 6957, "peak_viewers": 10082, "hours_streamed": 171, "streams": 24, "mature": 0, "language": "English", "account_age": 2648160.0}

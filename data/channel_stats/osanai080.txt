@@ -1,0 +1,1 @@
+{"channel": "osanai080", "avg_viewers": 8, "followers_gained": 42, "peak_viewers": 27, "hours_streamed": 105, "streams": 35, "mature": 0, "language": "Japanese", "account_age": 1127520.0}

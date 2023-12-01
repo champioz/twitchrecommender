@@ -1,0 +1,1 @@
+{"channel": "berkbal", "avg_viewers": 23, "followers_gained": 208, "peak_viewers": 216, "hours_streamed": 48, "streams": 20, "mature": 1, "language": "Turkish", "account_age": 2836800.0}

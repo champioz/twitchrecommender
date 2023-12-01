@@ -1,0 +1,1 @@
+{"channel": "dinklebean", "avg_viewers": 161, "followers_gained": 1021, "peak_viewers": 1750, "hours_streamed": 81, "streams": 33, "mature": 1, "language": "English", "account_age": 853920.0}

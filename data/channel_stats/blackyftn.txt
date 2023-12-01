@@ -1,0 +1,1 @@
+{"channel": "blackyftn", "avg_viewers": 11, "followers_gained": 215, "peak_viewers": 28, "hours_streamed": 34, "streams": 16, "mature": 0, "language": "French", "account_age": 194400.0}

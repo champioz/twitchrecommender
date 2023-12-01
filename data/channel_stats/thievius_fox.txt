@@ -1,0 +1,1 @@
+{"channel": "thievius_fox", "avg_viewers": 14, "followers_gained": 41, "peak_viewers": 92, "hours_streamed": 63, "streams": 13, "mature": 1, "language": "English", "account_age": 2448000.0}

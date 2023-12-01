@@ -1,0 +1,1 @@
+{"channel": "audifreds", "avg_viewers": 43, "followers_gained": 310, "peak_viewers": 77, "hours_streamed": 183, "streams": 30, "mature": 0, "language": "Spanish", "account_age": 2892960.0}

@@ -1,0 +1,1 @@
+{"channel": "limerick88", "avg_viewers": 26, "followers_gained": 54, "peak_viewers": 115, "hours_streamed": 23, "streams": 7, "mature": 1, "language": "Swedish", "account_age": 4180320.0}

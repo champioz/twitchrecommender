@@ -1,0 +1,1 @@
+{"channel": "aggresso", "avg_viewers": 6, "followers_gained": 41, "peak_viewers": 24, "hours_streamed": 56, "streams": 17, "mature": 0, "language": "French", "account_age": 3624480.0}

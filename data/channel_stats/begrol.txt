@@ -1,0 +1,1 @@
+{"channel": "begrol", "avg_viewers": 11, "followers_gained": 11, "peak_viewers": 47, "hours_streamed": 288, "streams": 74, "mature": 0, "language": "Russian", "account_age": 2257920.0}

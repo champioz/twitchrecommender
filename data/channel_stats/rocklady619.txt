@@ -1,0 +1,1 @@
+{"channel": "rocklady619", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "German", "account_age": 1307520.0}

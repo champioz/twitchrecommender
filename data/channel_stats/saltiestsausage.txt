@@ -1,0 +1,1 @@
+{"channel": "saltiestsausage", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 16, "hours_streamed": 57, "streams": 15, "mature": 0, "language": "English", "account_age": 1848960.0}

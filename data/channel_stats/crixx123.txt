@@ -1,0 +1,1 @@
+{"channel": "crixx123", "avg_viewers": 4, "followers_gained": 9, "peak_viewers": 19, "hours_streamed": 134, "streams": 26, "mature": 0, "language": "English", "account_age": 1638720.0}

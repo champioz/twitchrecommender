@@ -1,0 +1,1 @@
+{"channel": "holyhowl", "avg_viewers": 3, "followers_gained": 67, "peak_viewers": 12, "hours_streamed": 43, "streams": 22, "mature": 0, "language": "Italian", "account_age": 2551680.0}

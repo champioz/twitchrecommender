@@ -1,0 +1,1 @@
+{"channel": "uplayn2", "avg_viewers": 9, "followers_gained": 12, "peak_viewers": 24, "hours_streamed": 110, "streams": 18, "mature": 1, "language": "English", "account_age": 2988000.0}

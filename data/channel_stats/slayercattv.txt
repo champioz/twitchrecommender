@@ -1,0 +1,1 @@
+{"channel": "slayercattv", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 8, "hours_streamed": 207, "streams": 28, "mature": 0, "language": "Russian", "account_age": 2128320.0}

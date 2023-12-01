@@ -1,0 +1,1 @@
+{"channel": "namarikirin", "avg_viewers": 751, "followers_gained": 374, "peak_viewers": 939, "hours_streamed": 26, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 790560.0}

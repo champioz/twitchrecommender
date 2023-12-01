@@ -1,0 +1,1 @@
+{"channel": "nalaa_3", "avg_viewers": 9, "followers_gained": 30, "peak_viewers": 49, "hours_streamed": 29, "streams": 25, "mature": 1, "language": "English", "account_age": 1087200.0}

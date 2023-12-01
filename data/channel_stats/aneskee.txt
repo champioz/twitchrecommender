@@ -1,0 +1,1 @@
+{"channel": "aneskee", "avg_viewers": 11, "followers_gained": 26, "peak_viewers": 35, "hours_streamed": 14, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 2376000.0}

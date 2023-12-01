@@ -1,0 +1,1 @@
+{"channel": "qforina", "avg_viewers": 72, "followers_gained": 387, "peak_viewers": 142, "hours_streamed": 40, "streams": 14, "mature": 1, "language": "Bulgarian", "account_age": 3492000.0}

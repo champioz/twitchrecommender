@@ -1,0 +1,1 @@
+{"channel": "omegatooyew", "avg_viewers": 10, "followers_gained": 63, "peak_viewers": 75, "hours_streamed": 224, "streams": 35, "mature": 0, "language": "English", "account_age": 1640160.0}

@@ -1,0 +1,1 @@
+{"channel": "bostossmc", "avg_viewers": 81, "followers_gained": 30, "peak_viewers": 135, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "Korean", "account_age": 2394720.0}

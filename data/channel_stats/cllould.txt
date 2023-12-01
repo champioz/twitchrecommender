@@ -1,0 +1,1 @@
+{"channel": "cllould", "avg_viewers": 28, "followers_gained": 12, "peak_viewers": 62, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "English", "account_age": 3978720.0}

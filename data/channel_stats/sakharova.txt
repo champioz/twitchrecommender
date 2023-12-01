@@ -1,0 +1,1 @@
+{"channel": "sakharova", "avg_viewers": 10, "followers_gained": 12, "peak_viewers": 28, "hours_streamed": 52, "streams": 13, "mature": 1, "language": "Russian", "account_age": 2478240.0}

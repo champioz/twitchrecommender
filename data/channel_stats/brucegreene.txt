@@ -1,0 +1,1 @@
+{"channel": "brucegreene", "avg_viewers": 334, "followers_gained": 3010, "peak_viewers": 2240, "hours_streamed": 76, "streams": 23, "mature": 0, "language": "English", "account_age": 2823840.0}

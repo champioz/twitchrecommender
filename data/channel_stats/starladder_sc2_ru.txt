@@ -1,0 +1,1 @@
+{"channel": "starladder_sc2_ru", "avg_viewers": 3642, "followers_gained": 1222, "peak_viewers": 7461, "hours_streamed": 28, "streams": 3, "mature": 0, "language": "Russian", "account_age": 1560960.0}

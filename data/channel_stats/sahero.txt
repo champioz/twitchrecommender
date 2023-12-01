@@ -1,0 +1,1 @@
+{"channel": "sahero", "avg_viewers": 6, "followers_gained": 28, "peak_viewers": 55, "hours_streamed": 5, "streams": 6, "mature": 0, "language": "Arabic", "account_age": 3489120.0}

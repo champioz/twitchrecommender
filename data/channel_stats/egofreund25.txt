@@ -1,0 +1,1 @@
+{"channel": "egofreund25", "avg_viewers": 4, "followers_gained": 146, "peak_viewers": 17, "hours_streamed": 168, "streams": 22, "mature": 1, "language": "German", "account_age": 2138400.0}

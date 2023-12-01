@@ -1,0 +1,1 @@
+{"channel": "skill4ltu", "avg_viewers": 928, "followers_gained": 1821, "peak_viewers": 1650, "hours_streamed": 142, "streams": 23, "mature": 1, "language": "English", "account_age": 1889280.0}

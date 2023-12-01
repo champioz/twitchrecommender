@@ -1,0 +1,1 @@
+{"channel": "closer", "avg_viewers": 1447, "followers_gained": 9314, "peak_viewers": 2444, "hours_streamed": 35, "streams": 16, "mature": 0, "language": "Turkish", "account_age": 1114560.0}

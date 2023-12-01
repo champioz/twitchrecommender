@@ -1,0 +1,1 @@
+{"channel": "danielad", "avg_viewers": 2, "followers_gained": 42, "peak_viewers": 15, "hours_streamed": 76, "streams": 30, "mature": 1, "language": "English", "account_age": 812160.0}

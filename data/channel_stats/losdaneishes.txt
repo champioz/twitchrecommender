@@ -1,0 +1,1 @@
+{"channel": "losdaneishes", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 2, "hours_streamed": 13, "streams": 5, "mature": 0, "language": "English", "account_age": 2764800.0}

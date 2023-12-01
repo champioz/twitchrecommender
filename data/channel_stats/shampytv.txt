@@ -1,0 +1,1 @@
+{"channel": "shampytv", "avg_viewers": 8, "followers_gained": 70, "peak_viewers": 44, "hours_streamed": 75, "streams": 15, "mature": 0, "language": "English", "account_age": 2404800.0}

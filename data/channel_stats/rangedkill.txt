@@ -1,0 +1,1 @@
+{"channel": "rangedkill", "avg_viewers": 7, "followers_gained": 71, "peak_viewers": 51, "hours_streamed": 172, "streams": 25, "mature": 1, "language": "English", "account_age": 1333440.0}

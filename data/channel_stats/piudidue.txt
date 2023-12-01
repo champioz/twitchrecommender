@@ -1,0 +1,1 @@
+{"channel": "piudidue", "avg_viewers": 13, "followers_gained": 34, "peak_viewers": 29, "hours_streamed": 108, "streams": 26, "mature": 0, "language": "English", "account_age": 1026720.0}

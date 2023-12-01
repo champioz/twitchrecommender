@@ -1,0 +1,1 @@
+{"channel": "hyper2374", "avg_viewers": 126, "followers_gained": 46, "peak_viewers": 1518, "hours_streamed": 204, "streams": 26, "mature": 0, "language": "Chinese", "account_age": 2835360.0}

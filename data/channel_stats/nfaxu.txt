@@ -1,0 +1,1 @@
+{"channel": "nfaxu", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 1, "streams": 2, "mature": 1, "language": "German", "account_age": 2036160.0}

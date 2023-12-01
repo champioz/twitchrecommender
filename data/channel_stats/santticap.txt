@@ -1,0 +1,1 @@
+{"channel": "santticap", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 8, "hours_streamed": 1, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 815040.0}

@@ -1,0 +1,1 @@
+{"channel": "ddwari", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 13, "hours_streamed": 23, "streams": 6, "mature": 1, "language": "Hungarian", "account_age": 2052000.0}

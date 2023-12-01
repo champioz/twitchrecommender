@@ -1,0 +1,1 @@
+{"channel": "jesssul", "avg_viewers": 62, "followers_gained": 393, "peak_viewers": 167, "hours_streamed": 158, "streams": 33, "mature": 0, "language": "Korean", "account_age": 194400.0}

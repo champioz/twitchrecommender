@@ -1,0 +1,1 @@
+{"channel": "aby19467", "avg_viewers": 3, "followers_gained": 18, "peak_viewers": 17, "hours_streamed": 177, "streams": 24, "mature": 0, "language": "Korean", "account_age": 665280.0}

@@ -1,0 +1,1 @@
+{"channel": "thedevon", "avg_viewers": 3, "followers_gained": 10, "peak_viewers": 16, "hours_streamed": 58, "streams": 15, "mature": 1, "language": "French", "account_age": 3179520.0}

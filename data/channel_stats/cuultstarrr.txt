@@ -1,0 +1,1 @@
+{"channel": "cuultstarrr", "avg_viewers": 5, "followers_gained": 20, "peak_viewers": 22, "hours_streamed": 234, "streams": 54, "mature": 1, "language": "German", "account_age": 960480.0}

@@ -1,0 +1,1 @@
+{"channel": "braamz", "avg_viewers": 62, "followers_gained": 131, "peak_viewers": 119, "hours_streamed": 24, "streams": 11, "mature": 0, "language": "French", "account_age": 2694240.0}

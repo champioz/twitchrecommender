@@ -1,0 +1,1 @@
+{"channel": "p4ndemoniia", "avg_viewers": 12, "followers_gained": 45, "peak_viewers": 55, "hours_streamed": 72, "streams": 9, "mature": 1, "language": "German", "account_age": 429120.0}

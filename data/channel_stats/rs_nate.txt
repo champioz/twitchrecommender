@@ -1,0 +1,1 @@
+{"channel": "rs_nate", "avg_viewers": 99, "followers_gained": 586, "peak_viewers": 379, "hours_streamed": 137, "streams": 25, "mature": 0, "language": "English", "account_age": 2939040.0}

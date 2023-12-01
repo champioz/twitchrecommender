@@ -1,0 +1,1 @@
+{"channel": "impyraa", "avg_viewers": 2, "followers_gained": 55, "peak_viewers": 16, "hours_streamed": 46, "streams": 13, "mature": 1, "language": "English", "account_age": 1984320.0}

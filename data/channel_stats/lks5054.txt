@@ -1,0 +1,1 @@
+{"channel": "lks5054", "avg_viewers": 12, "followers_gained": 50, "peak_viewers": 50, "hours_streamed": 189, "streams": 32, "mature": 1, "language": "Korean", "account_age": 1270080.0}

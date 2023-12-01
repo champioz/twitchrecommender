@@ -1,0 +1,1 @@
+{"channel": "fearmortem", "avg_viewers": 6, "followers_gained": 22, "peak_viewers": 22, "hours_streamed": 81, "streams": 19, "mature": 1, "language": "French", "account_age": 1869120.0}

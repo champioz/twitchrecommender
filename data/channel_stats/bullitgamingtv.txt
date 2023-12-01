@@ -1,0 +1,1 @@
+{"channel": "bullitgamingtv", "avg_viewers": 18, "followers_gained": 34, "peak_viewers": 46, "hours_streamed": 95, "streams": 18, "mature": 1, "language": "German", "account_age": 3359520.0}

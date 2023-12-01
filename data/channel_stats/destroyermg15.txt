@@ -1,0 +1,1 @@
+{"channel": "destroyermg15", "avg_viewers": 5, "followers_gained": 18, "peak_viewers": 16, "hours_streamed": 31, "streams": 11, "mature": 1, "language": "Spanish", "account_age": 2142720.0}

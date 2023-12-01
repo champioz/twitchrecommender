@@ -1,0 +1,1 @@
+{"channel": "klm1187", "avg_viewers": 16, "followers_gained": 17, "peak_viewers": 364, "hours_streamed": 48, "streams": 16, "mature": 1, "language": "English", "account_age": 1876320.0}

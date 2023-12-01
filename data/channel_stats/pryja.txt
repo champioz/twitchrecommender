@@ -1,0 +1,1 @@
+{"channel": "pryja", "avg_viewers": 21, "followers_gained": 0, "peak_viewers": 48, "hours_streamed": 21, "streams": 6, "mature": 1, "language": "German", "account_age": 2273760.0}

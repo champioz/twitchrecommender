@@ -1,0 +1,1 @@
+{"channel": "chs_tv", "avg_viewers": 12, "followers_gained": 239, "peak_viewers": 219, "hours_streamed": 118, "streams": 30, "mature": 1, "language": "Portuguese", "account_age": 2056320.0}

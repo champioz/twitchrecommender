@@ -1,0 +1,1 @@
+{"channel": "yinyenyen", "avg_viewers": 44, "followers_gained": 4, "peak_viewers": 84, "hours_streamed": 53, "streams": 17, "mature": 1, "language": "Chinese", "account_age": 3602880.0}

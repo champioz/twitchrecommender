@@ -1,0 +1,1 @@
+{"channel": "tacofister", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 17, "hours_streamed": 20, "streams": 9, "mature": 1, "language": "English", "account_age": 2482560.0}

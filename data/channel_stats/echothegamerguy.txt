@@ -1,0 +1,1 @@
+{"channel": "echothegamerguy", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 27, "hours_streamed": 128, "streams": 31, "mature": 1, "language": "English", "account_age": 1910880.0}

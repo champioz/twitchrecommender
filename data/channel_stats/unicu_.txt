@@ -1,0 +1,1 @@
+{"channel": "unicu_", "avg_viewers": 35, "followers_gained": 572, "peak_viewers": 79, "hours_streamed": 233, "streams": 39, "mature": 1, "language": "Romanian", "account_age": 1044000.0}

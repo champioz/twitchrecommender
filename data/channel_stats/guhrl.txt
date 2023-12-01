@@ -1,0 +1,1 @@
+{"channel": "guhrl", "avg_viewers": 83, "followers_gained": 1375, "peak_viewers": 311, "hours_streamed": 227, "streams": 34, "mature": 0, "language": "English", "account_age": 2900160.0}

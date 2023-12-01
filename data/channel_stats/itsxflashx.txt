@@ -1,0 +1,1 @@
+{"channel": "itsxflashx", "avg_viewers": 12, "followers_gained": 25, "peak_viewers": 63, "hours_streamed": 41, "streams": 12, "mature": 0, "language": "English", "account_age": 2338560.0}

@@ -1,0 +1,1 @@
+{"channel": "msoriginale", "avg_viewers": 13, "followers_gained": 130, "peak_viewers": 34, "hours_streamed": 98, "streams": 20, "mature": 1, "language": "English", "account_age": 567360.0}

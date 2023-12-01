@@ -1,0 +1,1 @@
+{"channel": "miezeschatze", "avg_viewers": 9, "followers_gained": 47, "peak_viewers": 56, "hours_streamed": 48, "streams": 12, "mature": 1, "language": "German", "account_age": 2547360.0}

@@ -1,0 +1,1 @@
+{"channel": "mrdartsbroadcast", "avg_viewers": 30, "followers_gained": 50, "peak_viewers": 73, "hours_streamed": 55, "streams": 15, "mature": 1, "language": "English", "account_age": 3018240.0}

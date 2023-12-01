@@ -1,0 +1,1 @@
+{"channel": "melebron", "avg_viewers": 222, "followers_gained": 1435, "peak_viewers": 472, "hours_streamed": 140, "streams": 20, "mature": 1, "language": "Bulgarian", "account_age": 1903680.0}

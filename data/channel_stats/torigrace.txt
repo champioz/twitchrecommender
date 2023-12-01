@@ -1,0 +1,1 @@
+{"channel": "torigrace", "avg_viewers": 32, "followers_gained": 16, "peak_viewers": 46, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 2170080.0}

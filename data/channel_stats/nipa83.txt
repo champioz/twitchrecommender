@@ -1,0 +1,1 @@
+{"channel": "nipa83", "avg_viewers": 35, "followers_gained": 1, "peak_viewers": 47, "hours_streamed": 6, "streams": 2, "mature": 1, "language": "Finnish", "account_age": 2941920.0}

@@ -1,0 +1,1 @@
+{"channel": "strodles", "avg_viewers": 10, "followers_gained": 213, "peak_viewers": 44, "hours_streamed": 236, "streams": 30, "mature": 0, "language": "English", "account_age": 766080.0}

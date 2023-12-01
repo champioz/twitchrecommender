@@ -1,0 +1,1 @@
+{"channel": "brotundvideospiele", "avg_viewers": 16, "followers_gained": 63, "peak_viewers": 62, "hours_streamed": 68, "streams": 11, "mature": 0, "language": "German", "account_age": 2396160.0}

@@ -1,0 +1,1 @@
+{"channel": "darthxile", "avg_viewers": 10, "followers_gained": 52, "peak_viewers": 107, "hours_streamed": 87, "streams": 26, "mature": 0, "language": "English", "account_age": 3235680.0}

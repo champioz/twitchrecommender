@@ -1,0 +1,1 @@
+{"channel": "zaza4", "avg_viewers": 7, "followers_gained": 27, "peak_viewers": 25, "hours_streamed": 16, "streams": 5, "mature": 0, "language": "Portuguese", "account_age": 3372480.0}

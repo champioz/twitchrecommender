@@ -1,0 +1,1 @@
+{"channel": "isoply", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "English", "account_age": 1995840.0}

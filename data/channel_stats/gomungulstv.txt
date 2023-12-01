@@ -1,0 +1,1 @@
+{"channel": "gomungulstv", "avg_viewers": 206, "followers_gained": 522, "peak_viewers": 673, "hours_streamed": 145, "streams": 45, "mature": 0, "language": "Russian", "account_age": 2916000.0}

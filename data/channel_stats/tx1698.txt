@@ -1,0 +1,1 @@
+{"channel": "tx1698", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 13, "hours_streamed": 92, "streams": 33, "mature": 0, "language": "Chinese", "account_age": 3212640.0}

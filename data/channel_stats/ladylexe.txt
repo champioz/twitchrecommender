@@ -1,0 +1,1 @@
+{"channel": "ladylexe", "avg_viewers": 9, "followers_gained": 37, "peak_viewers": 24, "hours_streamed": 60, "streams": 23, "mature": 1, "language": "English", "account_age": 2535840.0}

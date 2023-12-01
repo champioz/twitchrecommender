@@ -1,0 +1,1 @@
+{"channel": "waddy333", "avg_viewers": 6, "followers_gained": 5, "peak_viewers": 18, "hours_streamed": 172, "streams": 29, "mature": 0, "language": "English", "account_age": 5222880.0}

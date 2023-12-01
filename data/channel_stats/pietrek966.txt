@@ -1,0 +1,1 @@
+{"channel": "pietrek966", "avg_viewers": 11, "followers_gained": 82, "peak_viewers": 27, "hours_streamed": 30, "streams": 7, "mature": 1, "language": "Polish", "account_age": 2213280.0}

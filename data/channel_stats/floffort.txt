@@ -1,0 +1,1 @@
+{"channel": "floffort", "avg_viewers": 3, "followers_gained": 38, "peak_viewers": 10, "hours_streamed": 54, "streams": 16, "mature": 1, "language": "German", "account_age": 2407680.0}

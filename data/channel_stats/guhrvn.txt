@@ -1,0 +1,1 @@
+{"channel": "guhrvn", "avg_viewers": 8, "followers_gained": 10, "peak_viewers": 84, "hours_streamed": 46, "streams": 12, "mature": 1, "language": "Portuguese", "account_age": 3114720.0}

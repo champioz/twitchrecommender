@@ -1,0 +1,1 @@
+{"channel": "magikmurillo", "avg_viewers": 18, "followers_gained": 117, "peak_viewers": 183, "hours_streamed": 119, "streams": 22, "mature": 0, "language": "English", "account_age": 509760.0}

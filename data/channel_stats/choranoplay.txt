@@ -1,0 +1,1 @@
+{"channel": "choranoplay", "avg_viewers": 12, "followers_gained": 296, "peak_viewers": 71, "hours_streamed": 88, "streams": 19, "mature": 1, "language": "Portuguese", "account_age": 2203200.0}

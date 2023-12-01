@@ -1,0 +1,1 @@
+{"channel": "detune", "avg_viewers": 47, "followers_gained": 60, "peak_viewers": 105, "hours_streamed": 40, "streams": 8, "mature": 0, "language": "English", "account_age": 2685600.0}

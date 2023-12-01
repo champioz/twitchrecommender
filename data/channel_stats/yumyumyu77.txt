@@ -1,0 +1,1 @@
+{"channel": "yumyumyu77", "avg_viewers": 4251, "followers_gained": 9364, "peak_viewers": 11417, "hours_streamed": 154, "streams": 23, "mature": 0, "language": "Korean", "account_age": 1166400.0}

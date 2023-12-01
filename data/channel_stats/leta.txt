@@ -1,0 +1,1 @@
+{"channel": "leta", "avg_viewers": 73, "followers_gained": 109, "peak_viewers": 167, "hours_streamed": 66, "streams": 29, "mature": 0, "language": "Italian", "account_age": 1702080.0}

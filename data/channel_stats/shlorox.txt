@@ -1,0 +1,1 @@
+{"channel": "shlorox", "avg_viewers": 5256, "followers_gained": 6624, "peak_viewers": 11015, "hours_streamed": 153, "streams": 30, "mature": 0, "language": "German", "account_age": 3379680.0}

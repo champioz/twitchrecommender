@@ -1,0 +1,1 @@
+{"channel": "pooreuni", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 15, "hours_streamed": 22, "streams": 12, "mature": 0, "language": "Korean", "account_age": 2616480.0}

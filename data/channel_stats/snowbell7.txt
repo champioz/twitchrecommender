@@ -1,0 +1,1 @@
+{"channel": "snowbell7", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 29, "hours_streamed": 204, "streams": 30, "mature": 0, "language": "Korean", "account_age": 2043360.0}

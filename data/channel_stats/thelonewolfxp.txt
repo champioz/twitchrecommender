@@ -1,0 +1,1 @@
+{"channel": "thelonewolfxp", "avg_viewers": 16, "followers_gained": 69, "peak_viewers": 46, "hours_streamed": 12, "streams": 7, "mature": 0, "language": "English", "account_age": 2090880.0}

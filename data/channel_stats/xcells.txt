@@ -1,0 +1,1 @@
+{"channel": "xcells", "avg_viewers": 48, "followers_gained": 389, "peak_viewers": 213, "hours_streamed": 214, "streams": 48, "mature": 1, "language": "English", "account_age": 2070720.0}

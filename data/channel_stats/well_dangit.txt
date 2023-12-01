@@ -1,0 +1,1 @@
+{"channel": "well_dangit", "avg_viewers": 9, "followers_gained": 36, "peak_viewers": 27, "hours_streamed": 51, "streams": 13, "mature": 1, "language": "English", "account_age": 1660320.0}

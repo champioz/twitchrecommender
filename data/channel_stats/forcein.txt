@@ -1,0 +1,1 @@
+{"channel": "forcein", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 14, "streams": 3, "mature": 0, "language": "English", "account_age": 2962080.0}

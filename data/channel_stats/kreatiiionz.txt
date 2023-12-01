@@ -1,0 +1,1 @@
+{"channel": "kreatiiionz", "avg_viewers": 6, "followers_gained": 67, "peak_viewers": 20, "hours_streamed": 118, "streams": 30, "mature": 0, "language": "English", "account_age": 731520.0}

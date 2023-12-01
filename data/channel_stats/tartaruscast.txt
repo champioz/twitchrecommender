@@ -1,0 +1,1 @@
+{"channel": "tartaruscast", "avg_viewers": 270, "followers_gained": 390, "peak_viewers": 535, "hours_streamed": 52, "streams": 14, "mature": 0, "language": "Czech", "account_age": 1961280.0}

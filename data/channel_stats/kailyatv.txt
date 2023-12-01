@@ -1,0 +1,1 @@
+{"channel": "kailyatv", "avg_viewers": 19, "followers_gained": 31, "peak_viewers": 107, "hours_streamed": 91, "streams": 18, "mature": 0, "language": "English", "account_age": 2017440.0}

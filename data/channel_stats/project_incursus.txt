@@ -1,0 +1,1 @@
+{"channel": "project_incursus", "avg_viewers": 64, "followers_gained": 361, "peak_viewers": 118, "hours_streamed": 42, "streams": 10, "mature": 0, "language": "English", "account_age": 1771200.0}

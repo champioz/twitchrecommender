@@ -1,0 +1,1 @@
+{"channel": "tridiabolos", "avg_viewers": 11, "followers_gained": 7, "peak_viewers": 26, "hours_streamed": 50, "streams": 12, "mature": 1, "language": "German", "account_age": 1673280.0}

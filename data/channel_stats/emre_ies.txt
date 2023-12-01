@@ -1,0 +1,1 @@
+{"channel": "emre_ies", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Turkish", "account_age": 936000.0}

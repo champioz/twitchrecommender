@@ -1,0 +1,1 @@
+{"channel": "shanksfgc", "avg_viewers": 149, "followers_gained": 41, "peak_viewers": 197, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 1200960.0}

@@ -1,0 +1,1 @@
+{"channel": "k0nfetti", "avg_viewers": 38, "followers_gained": 458, "peak_viewers": 339, "hours_streamed": 49, "streams": 16, "mature": 0, "language": "German", "account_age": 1605600.0}

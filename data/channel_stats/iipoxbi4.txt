@@ -1,0 +1,1 @@
+{"channel": "iipoxbi4", "avg_viewers": 32, "followers_gained": 14, "peak_viewers": 97, "hours_streamed": 57, "streams": 10, "mature": 1, "language": "Russian", "account_age": 1779840.0}

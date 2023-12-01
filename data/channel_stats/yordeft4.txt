@@ -1,0 +1,1 @@
+{"channel": "yordeft4", "avg_viewers": 9, "followers_gained": 96, "peak_viewers": 24, "hours_streamed": 71, "streams": 33, "mature": 1, "language": "Spanish", "account_age": 2226240.0}

@@ -1,0 +1,1 @@
+{"channel": "azossiya", "avg_viewers": 2, "followers_gained": 25, "peak_viewers": 13, "hours_streamed": 166, "streams": 45, "mature": 0, "language": "Korean", "account_age": 463680.0}

@@ -1,0 +1,1 @@
+{"channel": "beardmentv", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 1, "streams": 2, "mature": 1, "language": "German", "account_age": 228960.0}

@@ -1,0 +1,1 @@
+{"channel": "gang_gang2xx", "avg_viewers": 20, "followers_gained": 468, "peak_viewers": 401, "hours_streamed": 174, "streams": 54, "mature": 0, "language": "English", "account_age": 475200.0}

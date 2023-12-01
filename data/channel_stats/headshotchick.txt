@@ -1,0 +1,1 @@
+{"channel": "headshotchick", "avg_viewers": 206, "followers_gained": 4177, "peak_viewers": 4123, "hours_streamed": 101, "streams": 18, "mature": 0, "language": "English", "account_age": 816480.0}

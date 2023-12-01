@@ -1,0 +1,1 @@
+{"channel": "bambooshadow", "avg_viewers": 15, "followers_gained": 32, "peak_viewers": 45, "hours_streamed": 26, "streams": 13, "mature": 1, "language": "German", "account_age": 3362400.0}

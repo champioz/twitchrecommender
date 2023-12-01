@@ -1,0 +1,1 @@
+{"channel": "sethjessbry32", "avg_viewers": 12, "followers_gained": 16, "peak_viewers": 31, "hours_streamed": 38, "streams": 8, "mature": 1, "language": "English", "account_age": 2996640.0}

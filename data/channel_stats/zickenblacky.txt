@@ -1,0 +1,1 @@
+{"channel": "zickenblacky", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 16, "hours_streamed": 14, "streams": 5, "mature": 1, "language": "German", "account_age": 3378240.0}

@@ -1,0 +1,1 @@
+{"channel": "mandarawr", "avg_viewers": 9, "followers_gained": 25, "peak_viewers": 40, "hours_streamed": 12, "streams": 3, "mature": 1, "language": "English", "account_age": 1152000.0}

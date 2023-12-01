@@ -1,0 +1,1 @@
+{"channel": "ninja", "avg_viewers": 41446, "followers_gained": 161290, "peak_viewers": 155854, "hours_streamed": 99, "streams": 16, "mature": 0, "language": "English", "account_age": 4492800.0}

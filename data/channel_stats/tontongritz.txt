@@ -1,0 +1,1 @@
+{"channel": "tontongritz", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 22, "streams": 4, "mature": 1, "language": "French", "account_age": 561600.0}

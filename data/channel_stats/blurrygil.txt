@@ -1,0 +1,1 @@
+{"channel": "blurrygil", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 15, "hours_streamed": 94, "streams": 18, "mature": 0, "language": "English", "account_age": 3718080.0}

@@ -1,0 +1,1 @@
+{"channel": "kypsi_", "avg_viewers": 4, "followers_gained": 73, "peak_viewers": 19, "hours_streamed": 78, "streams": 27, "mature": 0, "language": "English", "account_age": 479520.0}

@@ -1,0 +1,1 @@
+{"channel": "domenicowaccoo", "avg_viewers": 712, "followers_gained": 0, "peak_viewers": 859, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Turkish", "account_age": 1173600.0}

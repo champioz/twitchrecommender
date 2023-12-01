@@ -1,0 +1,1 @@
+{"channel": "indoshorty", "avg_viewers": 11, "followers_gained": 77, "peak_viewers": 24, "hours_streamed": 73, "streams": 26, "mature": 1, "language": "Dutch", "account_age": 1029600.0}

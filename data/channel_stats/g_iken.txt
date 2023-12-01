@@ -1,0 +1,1 @@
+{"channel": "g_iken", "avg_viewers": 202, "followers_gained": 404, "peak_viewers": 376, "hours_streamed": 45, "streams": 11, "mature": 0, "language": "Korean", "account_age": 1706400.0}

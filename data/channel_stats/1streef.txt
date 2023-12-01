@@ -1,0 +1,1 @@
+{"channel": "1streef", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 12, "streams": 6, "mature": 0, "language": "English", "account_age": 2224800.0}

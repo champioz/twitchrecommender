@@ -1,0 +1,1 @@
+{"channel": "kingdoublea", "avg_viewers": 13, "followers_gained": 110, "peak_viewers": 38, "hours_streamed": 71, "streams": 29, "mature": 1, "language": "English", "account_age": 233280.0}

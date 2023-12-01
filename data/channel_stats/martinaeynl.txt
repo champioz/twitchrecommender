@@ -1,0 +1,1 @@
+{"channel": "martinaeynl", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 72, "streams": 23, "mature": 1, "language": "Dutch", "account_age": 2652480.0}

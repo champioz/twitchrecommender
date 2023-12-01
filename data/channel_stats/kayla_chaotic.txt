@@ -1,0 +1,1 @@
+{"channel": "kayla_chaotic", "avg_viewers": 17, "followers_gained": 118, "peak_viewers": 51, "hours_streamed": 88, "streams": 28, "mature": 1, "language": "English", "account_age": 1766880.0}

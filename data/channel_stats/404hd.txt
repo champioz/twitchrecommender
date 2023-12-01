@@ -1,0 +1,1 @@
+{"channel": "404hd", "avg_viewers": 62, "followers_gained": 205, "peak_viewers": 171, "hours_streamed": 100, "streams": 14, "mature": 0, "language": "English", "account_age": 1677600.0}

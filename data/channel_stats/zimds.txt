@@ -1,0 +1,1 @@
+{"channel": "zimds", "avg_viewers": 18, "followers_gained": 82, "peak_viewers": 48, "hours_streamed": 139, "streams": 23, "mature": 1, "language": "English", "account_age": 2155680.0}

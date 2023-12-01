@@ -1,0 +1,1 @@
+{"channel": "crust1337", "avg_viewers": 15, "followers_gained": 60, "peak_viewers": 284, "hours_streamed": 86, "streams": 17, "mature": 1, "language": "German", "account_age": 2096640.0}

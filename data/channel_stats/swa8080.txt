@@ -1,0 +1,1 @@
+{"channel": "swa8080", "avg_viewers": 8, "followers_gained": 56, "peak_viewers": 23, "hours_streamed": 88, "streams": 39, "mature": 0, "language": "English", "account_age": 1730880.0}

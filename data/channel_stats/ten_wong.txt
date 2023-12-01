@@ -1,0 +1,1 @@
+{"channel": "ten_wong", "avg_viewers": 14, "followers_gained": 45, "peak_viewers": 33, "hours_streamed": 78, "streams": 14, "mature": 0, "language": "Chinese", "account_age": 1032480.0}

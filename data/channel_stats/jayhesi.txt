@@ -1,0 +1,1 @@
+{"channel": "jayhesi", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 43, "streams": 16, "mature": 1, "language": "English", "account_age": 3209760.0}

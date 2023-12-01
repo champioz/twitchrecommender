@@ -1,0 +1,1 @@
+{"channel": "eternalbeautytv", "avg_viewers": 5, "followers_gained": 11, "peak_viewers": 14, "hours_streamed": 96, "streams": 22, "mature": 0, "language": "English", "account_age": 2400480.0}

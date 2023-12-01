@@ -1,0 +1,1 @@
+{"channel": "iipk", "avg_viewers": 139, "followers_gained": 503, "peak_viewers": 1599, "hours_streamed": 183, "streams": 29, "mature": 1, "language": "English", "account_age": 3077280.0}

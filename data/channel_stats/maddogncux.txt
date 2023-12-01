@@ -1,0 +1,1 @@
+{"channel": "maddogncux", "avg_viewers": 12, "followers_gained": 94, "peak_viewers": 153, "hours_streamed": 228, "streams": 57, "mature": 1, "language": "Russian", "account_age": 3582720.0}

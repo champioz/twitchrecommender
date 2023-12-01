@@ -1,0 +1,1 @@
+{"channel": "lumi", "avg_viewers": 807, "followers_gained": 2544, "peak_viewers": 1286, "hours_streamed": 151, "streams": 20, "mature": 1, "language": "English", "account_age": 4338720.0}

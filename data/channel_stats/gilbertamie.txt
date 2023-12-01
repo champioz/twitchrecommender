@@ -1,0 +1,1 @@
+{"channel": "gilbertamie", "avg_viewers": 58, "followers_gained": 193, "peak_viewers": 182, "hours_streamed": 104, "streams": 21, "mature": 1, "language": "English", "account_age": 4220640.0}

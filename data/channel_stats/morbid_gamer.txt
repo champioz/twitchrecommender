@@ -1,0 +1,1 @@
+{"channel": "morbid_gamer", "avg_viewers": 17, "followers_gained": 244, "peak_viewers": 48, "hours_streamed": 43, "streams": 19, "mature": 0, "language": "English", "account_age": 1506240.0}

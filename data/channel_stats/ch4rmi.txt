@@ -1,0 +1,1 @@
+{"channel": "ch4rmi", "avg_viewers": 21, "followers_gained": 0, "peak_viewers": 43, "hours_streamed": 43, "streams": 11, "mature": 1, "language": "German", "account_age": 2557440.0}

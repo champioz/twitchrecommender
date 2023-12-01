@@ -1,0 +1,1 @@
+{"channel": "bravefantasy", "avg_viewers": 11, "followers_gained": 66, "peak_viewers": 37, "hours_streamed": 209, "streams": 45, "mature": 0, "language": "English", "account_age": 1686240.0}

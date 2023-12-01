@@ -1,0 +1,1 @@
+{"channel": "malikbrowne", "avg_viewers": 10, "followers_gained": 69, "peak_viewers": 42, "hours_streamed": 83, "streams": 16, "mature": 0, "language": "English", "account_age": 3005280.0}

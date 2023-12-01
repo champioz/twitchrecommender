@@ -1,0 +1,1 @@
+{"channel": "kreilo_", "avg_viewers": 83, "followers_gained": 3, "peak_viewers": 185, "hours_streamed": 72, "streams": 15, "mature": 1, "language": "German", "account_age": 2224800.0}

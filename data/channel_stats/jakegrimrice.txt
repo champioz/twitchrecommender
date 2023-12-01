@@ -1,0 +1,1 @@
+{"channel": "jakegrimrice", "avg_viewers": 5, "followers_gained": 15, "peak_viewers": 17, "hours_streamed": 13, "streams": 4, "mature": 1, "language": "English", "account_age": 2077920.0}

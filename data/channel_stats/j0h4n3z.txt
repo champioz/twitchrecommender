@@ -1,0 +1,1 @@
+{"channel": "j0h4n3z", "avg_viewers": 7, "followers_gained": 30, "peak_viewers": 83, "hours_streamed": 111, "streams": 29, "mature": 1, "language": "Czech", "account_age": 1994400.0}

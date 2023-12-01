@@ -1,0 +1,1 @@
+{"channel": "tulenb4ik", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 0, "streams": 2, "mature": 0, "language": "Russian", "account_age": 3522240.0}

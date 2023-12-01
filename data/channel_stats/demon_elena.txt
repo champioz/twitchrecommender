@@ -1,0 +1,1 @@
+{"channel": "demon_elena", "avg_viewers": 5, "followers_gained": 21, "peak_viewers": 19, "hours_streamed": 91, "streams": 28, "mature": 1, "language": "Chinese", "account_age": 1303200.0}

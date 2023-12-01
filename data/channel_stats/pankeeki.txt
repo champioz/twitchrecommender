@@ -1,0 +1,1 @@
+{"channel": "pankeeki", "avg_viewers": 36, "followers_gained": 3, "peak_viewers": 50, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "Finnish", "account_age": 2260800.0}

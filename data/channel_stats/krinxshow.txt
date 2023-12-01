@@ -1,0 +1,1 @@
+{"channel": "krinxshow", "avg_viewers": 157, "followers_gained": 1, "peak_viewers": 841, "hours_streamed": 63, "streams": 21, "mature": 1, "language": "English", "account_age": 3584160.0}

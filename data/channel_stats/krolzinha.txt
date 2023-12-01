@@ -1,0 +1,1 @@
+{"channel": "krolzinha", "avg_viewers": 148, "followers_gained": 479, "peak_viewers": 324, "hours_streamed": 60, "streams": 16, "mature": 0, "language": "Portuguese", "account_age": 2966400.0}

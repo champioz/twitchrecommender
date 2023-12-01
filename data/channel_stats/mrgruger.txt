@@ -1,0 +1,1 @@
+{"channel": "mrgruger", "avg_viewers": 5, "followers_gained": 32, "peak_viewers": 27, "hours_streamed": 103, "streams": 33, "mature": 0, "language": "German", "account_age": 943200.0}

@@ -1,0 +1,1 @@
+{"channel": "zallard1", "avg_viewers": 140, "followers_gained": 332, "peak_viewers": 314, "hours_streamed": 24, "streams": 6, "mature": 0, "language": "English", "account_age": 5467680.0}

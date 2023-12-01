@@ -1,0 +1,1 @@
+{"channel": "papatroon", "avg_viewers": 19, "followers_gained": 70, "peak_viewers": 35, "hours_streamed": 182, "streams": 27, "mature": 1, "language": "Russian", "account_age": 924480.0}

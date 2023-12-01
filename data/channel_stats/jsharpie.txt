@@ -1,0 +1,1 @@
+{"channel": "jsharpie", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 19, "hours_streamed": 81, "streams": 15, "mature": 0, "language": "English", "account_age": 4361760.0}

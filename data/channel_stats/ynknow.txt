@@ -1,0 +1,1 @@
+{"channel": "ynknow", "avg_viewers": 81, "followers_gained": 533, "peak_viewers": 573, "hours_streamed": 151, "streams": 66, "mature": 1, "language": "Russian", "account_age": 1650240.0}

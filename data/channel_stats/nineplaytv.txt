@@ -1,0 +1,1 @@
+{"channel": "nineplaytv", "avg_viewers": 2, "followers_gained": 25, "peak_viewers": 14, "hours_streamed": 54, "streams": 27, "mature": 1, "language": "French", "account_age": 1418400.0}

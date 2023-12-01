@@ -1,0 +1,1 @@
+{"channel": "barbaurke", "avg_viewers": 67, "followers_gained": 61, "peak_viewers": 106, "hours_streamed": 41, "streams": 14, "mature": 1, "language": "English", "account_age": 1867680.0}

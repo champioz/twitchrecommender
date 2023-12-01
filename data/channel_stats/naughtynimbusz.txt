@@ -1,0 +1,1 @@
+{"channel": "naughtynimbusz", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 12, "hours_streamed": 14, "streams": 8, "mature": 0, "language": "English", "account_age": 2714400.0}

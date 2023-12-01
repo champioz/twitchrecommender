@@ -1,0 +1,1 @@
+{"channel": "spideyy", "avg_viewers": 129, "followers_gained": 2493, "peak_viewers": 1338, "hours_streamed": 156, "streams": 30, "mature": 0, "language": "English", "account_age": 1062720.0}

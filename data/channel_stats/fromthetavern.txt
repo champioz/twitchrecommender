@@ -1,0 +1,1 @@
+{"channel": "fromthetavern", "avg_viewers": 89, "followers_gained": 50, "peak_viewers": 187, "hours_streamed": 56, "streams": 8, "mature": 0, "language": "Russian", "account_age": 1473120.0}

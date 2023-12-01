@@ -1,0 +1,1 @@
+{"channel": "mabagi", "avg_viewers": 3, "followers_gained": 14, "peak_viewers": 15, "hours_streamed": 128, "streams": 26, "mature": 0, "language": "Korean", "account_age": 737280.0}

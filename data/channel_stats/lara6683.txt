@@ -1,0 +1,1 @@
+{"channel": "lara6683", "avg_viewers": 848, "followers_gained": 5212, "peak_viewers": 1897, "hours_streamed": 40, "streams": 13, "mature": 0, "language": "English", "account_age": 2383200.0}

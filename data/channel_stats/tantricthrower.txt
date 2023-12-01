@@ -1,0 +1,1 @@
+{"channel": "tantricthrower", "avg_viewers": 11, "followers_gained": 33, "peak_viewers": 45, "hours_streamed": 83, "streams": 17, "mature": 1, "language": "English", "account_age": 4786560.0}

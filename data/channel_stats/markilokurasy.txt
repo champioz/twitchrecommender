@@ -1,0 +1,1 @@
+{"channel": "markilokurasy", "avg_viewers": 1367, "followers_gained": 10033, "peak_viewers": 2999, "hours_streamed": 89, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 2465280.0}

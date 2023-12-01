@@ -1,0 +1,1 @@
+{"channel": "mr_moppel", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 12, "hours_streamed": 59, "streams": 18, "mature": 1, "language": "German", "account_age": 2003040.0}

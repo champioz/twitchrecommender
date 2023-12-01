@@ -1,0 +1,1 @@
+{"channel": "graphicnoodles", "avg_viewers": 4, "followers_gained": 16, "peak_viewers": 20, "hours_streamed": 47, "streams": 12, "mature": 0, "language": "English", "account_age": 1398240.0}

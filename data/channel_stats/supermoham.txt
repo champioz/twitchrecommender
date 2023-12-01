@@ -1,0 +1,1 @@
+{"channel": "supermoham", "avg_viewers": 5, "followers_gained": 22, "peak_viewers": 26, "hours_streamed": 48, "streams": 14, "mature": 0, "language": "Arabic", "account_age": 2093760.0}

@@ -1,0 +1,1 @@
+{"channel": "seansstream", "avg_viewers": 138, "followers_gained": 50, "peak_viewers": 1436, "hours_streamed": 202, "streams": 19, "mature": 0, "language": "German", "account_age": 2026080.0}

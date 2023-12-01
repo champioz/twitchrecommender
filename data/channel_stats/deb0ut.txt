@@ -1,0 +1,1 @@
+{"channel": "deb0ut", "avg_viewers": 10, "followers_gained": 12, "peak_viewers": 19, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "Spanish", "account_age": 3047040.0}

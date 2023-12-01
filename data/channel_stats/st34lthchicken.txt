@@ -1,0 +1,1 @@
+{"channel": "st34lthchicken", "avg_viewers": 16, "followers_gained": 85, "peak_viewers": 52, "hours_streamed": 92, "streams": 19, "mature": 0, "language": "English", "account_age": 2386080.0}

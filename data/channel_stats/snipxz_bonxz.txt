@@ -1,0 +1,1 @@
+{"channel": "snipxz_bonxz", "avg_viewers": 1, "followers_gained": 31, "peak_viewers": 10, "hours_streamed": 7, "streams": 13, "mature": 0, "language": "English", "account_age": 158400.0}

@@ -1,0 +1,1 @@
+{"channel": "xrundotx", "avg_viewers": 4, "followers_gained": 16, "peak_viewers": 32, "hours_streamed": 94, "streams": 29, "mature": 0, "language": "English", "account_age": 1994400.0}

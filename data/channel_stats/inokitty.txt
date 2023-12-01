@@ -1,0 +1,1 @@
+{"channel": "inokitty", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 18, "hours_streamed": 41, "streams": 9, "mature": 1, "language": "English", "account_age": 1873440.0}

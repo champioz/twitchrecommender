@@ -1,0 +1,1 @@
+{"channel": "di_bear", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 18, "hours_streamed": 341, "streams": 33, "mature": 1, "language": "English", "account_age": 1116000.0}

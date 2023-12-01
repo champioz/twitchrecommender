@@ -1,0 +1,1 @@
+{"channel": "elechibato", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 15, "streams": 14, "mature": 0, "language": "Spanish", "account_age": 1951200.0}

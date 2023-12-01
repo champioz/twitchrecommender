@@ -1,0 +1,1 @@
+{"channel": "keny78iro", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 14, "streams": 9, "mature": 1, "language": "Polish", "account_age": 3467520.0}

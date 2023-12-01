@@ -1,0 +1,1 @@
+{"channel": "betaetadelota", "avg_viewers": 94, "followers_gained": 1035, "peak_viewers": 162, "hours_streamed": 19, "streams": 10, "mature": 1, "language": "English", "account_age": 2571840.0}

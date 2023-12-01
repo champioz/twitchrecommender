@@ -1,0 +1,1 @@
+{"channel": "torona1", "avg_viewers": 432, "followers_gained": 793, "peak_viewers": 635, "hours_streamed": 15, "streams": 7, "mature": 0, "language": "Korean", "account_age": 800640.0}

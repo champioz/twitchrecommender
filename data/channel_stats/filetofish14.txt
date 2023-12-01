@@ -1,0 +1,1 @@
+{"channel": "filetofish14", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 7, "streams": 6, "mature": 0, "language": "Polish", "account_age": 2082240.0}

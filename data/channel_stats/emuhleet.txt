@@ -1,0 +1,1 @@
+{"channel": "emuhleet", "avg_viewers": 23, "followers_gained": 16, "peak_viewers": 64, "hours_streamed": 12, "streams": 6, "mature": 0, "language": "English", "account_age": 3326400.0}

@@ -1,0 +1,1 @@
+{"channel": "buco", "avg_viewers": 5, "followers_gained": 4, "peak_viewers": 35, "hours_streamed": 75, "streams": 17, "mature": 1, "language": "Hungarian", "account_age": 3071520.0}

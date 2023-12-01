@@ -1,0 +1,1 @@
+{"channel": "evoluindocomridokuto", "avg_viewers": 7, "followers_gained": 34, "peak_viewers": 20, "hours_streamed": 93, "streams": 30, "mature": 0, "language": "Portuguese", "account_age": 1124640.0}

@@ -1,0 +1,1 @@
+{"channel": "newsancom", "avg_viewers": 14, "followers_gained": 17, "peak_viewers": 28, "hours_streamed": 102, "streams": 29, "mature": 0, "language": "Japanese", "account_age": 118080.0}

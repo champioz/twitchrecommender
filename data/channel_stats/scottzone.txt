@@ -1,0 +1,1 @@
+{"channel": "scottzone", "avg_viewers": 580, "followers_gained": 1909, "peak_viewers": 1021, "hours_streamed": 67, "streams": 14, "mature": 0, "language": "English", "account_age": 2701440.0}

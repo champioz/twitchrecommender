@@ -1,0 +1,1 @@
+{"channel": "cookie_mad", "avg_viewers": 5, "followers_gained": 27, "peak_viewers": 14, "hours_streamed": 124, "streams": 22, "mature": 1, "language": "French", "account_age": 2792160.0}

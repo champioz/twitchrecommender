@@ -1,0 +1,1 @@
+{"channel": "furaoplays", "avg_viewers": 10, "followers_gained": 102, "peak_viewers": 24, "hours_streamed": 46, "streams": 13, "mature": 1, "language": "Portuguese", "account_age": 1131840.0}

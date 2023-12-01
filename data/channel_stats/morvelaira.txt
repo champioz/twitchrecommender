@@ -1,0 +1,1 @@
+{"channel": "morvelaira", "avg_viewers": 24, "followers_gained": 45, "peak_viewers": 55, "hours_streamed": 43, "streams": 12, "mature": 1, "language": "English", "account_age": 4155840.0}

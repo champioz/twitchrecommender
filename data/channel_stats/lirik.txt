@@ -1,0 +1,1 @@
+{"channel": "lirik", "avg_viewers": 14283, "followers_gained": 4947, "peak_viewers": 28342, "hours_streamed": 151, "streams": 24, "mature": 0, "language": "English", "account_age": 4258080.0}

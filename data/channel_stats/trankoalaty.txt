@@ -1,0 +1,1 @@
+{"channel": "trankoalaty", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 15, "hours_streamed": 34, "streams": 17, "mature": 1, "language": "English", "account_age": 1261440.0}

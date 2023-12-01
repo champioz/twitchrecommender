@@ -1,0 +1,1 @@
+{"channel": "akamikeb", "avg_viewers": 73, "followers_gained": 23, "peak_viewers": 139, "hours_streamed": 64, "streams": 19, "mature": 1, "language": "English", "account_age": 4767840.0}

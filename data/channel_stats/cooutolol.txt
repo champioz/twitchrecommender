@@ -1,0 +1,1 @@
+{"channel": "cooutolol", "avg_viewers": 23, "followers_gained": 53, "peak_viewers": 477, "hours_streamed": 46, "streams": 13, "mature": 0, "language": "Portuguese", "account_age": 2527200.0}

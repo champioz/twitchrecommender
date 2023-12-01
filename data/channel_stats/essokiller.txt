@@ -1,0 +1,1 @@
+{"channel": "essokiller", "avg_viewers": 5, "followers_gained": 32, "peak_viewers": 18, "hours_streamed": 66, "streams": 13, "mature": 1, "language": "German", "account_age": 3182400.0}

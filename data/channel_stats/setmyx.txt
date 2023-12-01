@@ -1,0 +1,1 @@
+{"channel": "setmyx", "avg_viewers": 31, "followers_gained": 11, "peak_viewers": 61, "hours_streamed": 9, "streams": 3, "mature": 0, "language": "English", "account_age": 3600000.0}

@@ -1,0 +1,1 @@
+{"channel": "amazyntrex", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 34, "streams": 23, "mature": 0, "language": "Portuguese", "account_age": 872640.0}

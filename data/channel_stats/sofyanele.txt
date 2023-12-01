@@ -1,0 +1,1 @@
+{"channel": "sofyanele", "avg_viewers": 8, "followers_gained": 36, "peak_viewers": 16, "hours_streamed": 13, "streams": 6, "mature": 1, "language": "Spanish", "account_age": 885600.0}

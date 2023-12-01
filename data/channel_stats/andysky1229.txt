@@ -1,0 +1,1 @@
+{"channel": "andysky1229", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Chinese", "account_age": 1670400.0}

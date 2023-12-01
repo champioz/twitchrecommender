@@ -1,0 +1,1 @@
+{"channel": "zmialo", "avg_viewers": 9, "followers_gained": 4, "peak_viewers": 22, "hours_streamed": 12, "streams": 6, "mature": 0, "language": "Polish", "account_age": 475200.0}

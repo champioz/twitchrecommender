@@ -1,0 +1,1 @@
+{"channel": "arran1904", "avg_viewers": 8, "followers_gained": 36, "peak_viewers": 24, "hours_streamed": 22, "streams": 15, "mature": 0, "language": "English", "account_age": 2049120.0}

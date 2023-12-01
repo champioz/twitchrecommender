@@ -1,0 +1,1 @@
+{"channel": "jrttv", "avg_viewers": 55, "followers_gained": 40, "peak_viewers": 106, "hours_streamed": 9, "streams": 3, "mature": 0, "language": "English", "account_age": 1848960.0}

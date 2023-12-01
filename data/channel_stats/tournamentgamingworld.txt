@@ -1,0 +1,1 @@
+{"channel": "tournamentgamingworld", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 3, "hours_streamed": 7, "streams": 5, "mature": 0, "language": "English", "account_age": 381600.0}

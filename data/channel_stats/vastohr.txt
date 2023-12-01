@@ -1,0 +1,1 @@
+{"channel": "vastohr", "avg_viewers": 84, "followers_gained": 314, "peak_viewers": 828, "hours_streamed": 33, "streams": 9, "mature": 0, "language": "Portuguese", "account_age": 2154240.0}

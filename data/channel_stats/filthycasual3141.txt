@@ -1,0 +1,1 @@
+{"channel": "filthycasual3141", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 13, "streams": 14, "mature": 1, "language": "English", "account_age": 180000.0}

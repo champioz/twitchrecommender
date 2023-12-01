@@ -1,0 +1,1 @@
+{"channel": "gsalz", "avg_viewers": 8, "followers_gained": 181, "peak_viewers": 217, "hours_streamed": 255, "streams": 36, "mature": 0, "language": "English", "account_age": 1909440.0}

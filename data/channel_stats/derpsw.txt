@@ -1,0 +1,1 @@
+{"channel": "derpsw", "avg_viewers": 14, "followers_gained": 150, "peak_viewers": 54, "hours_streamed": 41, "streams": 8, "mature": 1, "language": "Portuguese", "account_age": 2746080.0}

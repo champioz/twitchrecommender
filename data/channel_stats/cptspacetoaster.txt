@@ -1,0 +1,1 @@
+{"channel": "cptspacetoaster", "avg_viewers": 24, "followers_gained": 62, "peak_viewers": 100, "hours_streamed": 31, "streams": 5, "mature": 0, "language": "English", "account_age": 2377440.0}

@@ -1,0 +1,1 @@
+{"channel": "corebri", "avg_viewers": 26, "followers_gained": 2, "peak_viewers": 66, "hours_streamed": 4, "streams": 4, "mature": 1, "language": "English", "account_age": 4115520.0}

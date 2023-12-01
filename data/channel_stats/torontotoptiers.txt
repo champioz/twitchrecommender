@@ -1,0 +1,1 @@
+{"channel": "torontotoptiers", "avg_viewers": 446, "followers_gained": 625, "peak_viewers": 2964, "hours_streamed": 38, "streams": 9, "mature": 0, "language": "English", "account_age": 4417920.0}

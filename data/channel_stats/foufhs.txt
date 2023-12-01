@@ -1,0 +1,1 @@
+{"channel": "foufhs", "avg_viewers": 9, "followers_gained": 6, "peak_viewers": 24, "hours_streamed": 10, "streams": 3, "mature": 1, "language": "Greek", "account_age": 2746080.0}

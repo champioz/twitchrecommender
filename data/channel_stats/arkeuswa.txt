@@ -1,0 +1,1 @@
+{"channel": "arkeuswa", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 15, "hours_streamed": 27, "streams": 10, "mature": 1, "language": "Italian", "account_age": 3078720.0}

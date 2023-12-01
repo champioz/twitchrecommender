@@ -1,0 +1,1 @@
+{"channel": "serwinterofficial", "avg_viewers": 89, "followers_gained": 70, "peak_viewers": 146, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "English", "account_age": 1667520.0}

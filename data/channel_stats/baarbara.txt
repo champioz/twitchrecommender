@@ -1,0 +1,1 @@
+{"channel": "baarbara", "avg_viewers": 10, "followers_gained": 198, "peak_viewers": 75, "hours_streamed": 156, "streams": 38, "mature": 0, "language": "Portuguese", "account_age": 897120.0}

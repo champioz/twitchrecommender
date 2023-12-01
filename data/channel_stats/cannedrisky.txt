@@ -1,0 +1,1 @@
+{"channel": "cannedrisky", "avg_viewers": 22, "followers_gained": 5, "peak_viewers": 51, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "English", "account_age": 190080.0}

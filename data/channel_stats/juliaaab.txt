@@ -1,0 +1,1 @@
+{"channel": "juliaaab", "avg_viewers": 40, "followers_gained": 87, "peak_viewers": 75, "hours_streamed": 45, "streams": 15, "mature": 1, "language": "German", "account_age": 1820160.0}

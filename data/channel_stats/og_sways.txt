@@ -1,0 +1,1 @@
+{"channel": "og_sways", "avg_viewers": 9, "followers_gained": 26, "peak_viewers": 74, "hours_streamed": 29, "streams": 12, "mature": 0, "language": "English", "account_age": 2910240.0}

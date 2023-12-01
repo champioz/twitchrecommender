@@ -1,0 +1,1 @@
+{"channel": "muzzy_hs", "avg_viewers": 204, "followers_gained": 43, "peak_viewers": 1235, "hours_streamed": 21, "streams": 6, "mature": 0, "language": "English", "account_age": 2407680.0}

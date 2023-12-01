@@ -1,0 +1,1 @@
+{"channel": "likkrit", "avg_viewers": 223, "followers_gained": 178, "peak_viewers": 575, "hours_streamed": 25, "streams": 5, "mature": 0, "language": "Russian", "account_age": 3261600.0}

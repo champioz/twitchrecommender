@@ -1,0 +1,1 @@
+{"channel": "alekinn", "avg_viewers": 1, "followers_gained": 21, "peak_viewers": 8, "hours_streamed": 20, "streams": 8, "mature": 0, "language": "Portuguese", "account_age": 1363680.0}

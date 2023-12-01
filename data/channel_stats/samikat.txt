@@ -1,0 +1,1 @@
+{"channel": "samikat", "avg_viewers": 31, "followers_gained": 155, "peak_viewers": 178, "hours_streamed": 114, "streams": 13, "mature": 1, "language": "English", "account_age": 2800800.0}

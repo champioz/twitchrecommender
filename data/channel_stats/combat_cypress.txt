@@ -1,0 +1,1 @@
+{"channel": "combat_cypress", "avg_viewers": 11, "followers_gained": 91, "peak_viewers": 28, "hours_streamed": 63, "streams": 34, "mature": 0, "language": "Russian", "account_age": 1009440.0}

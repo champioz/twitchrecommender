@@ -1,0 +1,1 @@
+{"channel": "akanitch", "avg_viewers": 4, "followers_gained": 72, "peak_viewers": 12, "hours_streamed": 46, "streams": 41, "mature": 0, "language": "English", "account_age": 704160.0}

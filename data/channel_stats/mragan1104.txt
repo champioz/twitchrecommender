@@ -1,0 +1,1 @@
+{"channel": "mragan1104", "avg_viewers": 5, "followers_gained": 20, "peak_viewers": 17, "hours_streamed": 97, "streams": 39, "mature": 0, "language": "Chinese", "account_age": 879840.0}

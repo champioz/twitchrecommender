@@ -1,0 +1,1 @@
+{"channel": "areuming", "avg_viewers": 18, "followers_gained": 153, "peak_viewers": 32, "hours_streamed": 19, "streams": 8, "mature": 0, "language": "Korean", "account_age": 1644480.0}

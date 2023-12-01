@@ -1,0 +1,1 @@
+{"channel": "heodalsome_", "avg_viewers": 11, "followers_gained": 59, "peak_viewers": 38, "hours_streamed": 90, "streams": 27, "mature": 0, "language": "Korean", "account_age": 374400.0}

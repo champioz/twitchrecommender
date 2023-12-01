@@ -1,0 +1,1 @@
+{"channel": "finalgodftw", "avg_viewers": 112, "followers_gained": 921, "peak_viewers": 274, "hours_streamed": 29, "streams": 14, "mature": 1, "language": "English", "account_age": 2854080.0}

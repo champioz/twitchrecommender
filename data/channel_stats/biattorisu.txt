@@ -1,0 +1,1 @@
+{"channel": "biattorisu", "avg_viewers": 5, "followers_gained": 30, "peak_viewers": 17, "hours_streamed": 74, "streams": 18, "mature": 0, "language": "Portuguese", "account_age": 756000.0}

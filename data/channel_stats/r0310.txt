@@ -1,0 +1,1 @@
+{"channel": "r0310", "avg_viewers": 84, "followers_gained": 51, "peak_viewers": 159, "hours_streamed": 21, "streams": 5, "mature": 0, "language": "Japanese", "account_age": 888480.0}

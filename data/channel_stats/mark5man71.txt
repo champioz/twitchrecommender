@@ -1,0 +1,1 @@
+{"channel": "mark5man71", "avg_viewers": 13, "followers_gained": 19, "peak_viewers": 32, "hours_streamed": 97, "streams": 31, "mature": 0, "language": "German", "account_age": 2910240.0}

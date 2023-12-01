@@ -1,0 +1,1 @@
+{"channel": "jaca2001", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 18, "streams": 12, "mature": 1, "language": "Portuguese", "account_age": 2067840.0}

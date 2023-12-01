@@ -1,0 +1,1 @@
+{"channel": "mssolesurvivor", "avg_viewers": 6, "followers_gained": 14, "peak_viewers": 59, "hours_streamed": 51, "streams": 16, "mature": 1, "language": "English", "account_age": 2296800.0}

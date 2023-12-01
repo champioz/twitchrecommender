@@ -1,0 +1,1 @@
+{"channel": "fuusions", "avg_viewers": 0, "followers_gained": 21, "peak_viewers": 9, "hours_streamed": 123, "streams": 45, "mature": 1, "language": "English", "account_age": 1353600.0}

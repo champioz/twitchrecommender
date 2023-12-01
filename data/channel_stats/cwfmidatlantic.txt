@@ -1,0 +1,1 @@
+{"channel": "cwfmidatlantic", "avg_viewers": 28, "followers_gained": 13, "peak_viewers": 40, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 770400.0}

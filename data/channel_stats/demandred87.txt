@@ -1,0 +1,1 @@
+{"channel": "demandred87", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "English", "account_age": 3012480.0}

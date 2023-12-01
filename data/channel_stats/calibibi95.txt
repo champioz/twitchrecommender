@@ -1,0 +1,1 @@
+{"channel": "calibibi95", "avg_viewers": 14, "followers_gained": 126, "peak_viewers": 48, "hours_streamed": 100, "streams": 23, "mature": 1, "language": "French", "account_age": 2348640.0}

@@ -1,0 +1,1 @@
+{"channel": "tugux", "avg_viewers": 25, "followers_gained": 10, "peak_viewers": 47, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "German", "account_age": 3579840.0}

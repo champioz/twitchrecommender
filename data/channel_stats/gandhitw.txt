@@ -1,0 +1,1 @@
+{"channel": "gandhitw", "avg_viewers": 199, "followers_gained": 483, "peak_viewers": 435, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "Turkish", "account_age": 3576960.0}

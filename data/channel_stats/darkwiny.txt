@@ -1,0 +1,1 @@
+{"channel": "darkwiny", "avg_viewers": 57, "followers_gained": 1, "peak_viewers": 107, "hours_streamed": 37, "streams": 4, "mature": 0, "language": "English", "account_age": 5176800.0}

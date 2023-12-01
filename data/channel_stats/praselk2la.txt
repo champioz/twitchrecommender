@@ -1,0 +1,1 @@
+{"channel": "praselk2la", "avg_viewers": 7, "followers_gained": 73, "peak_viewers": 22, "hours_streamed": 101, "streams": 33, "mature": 0, "language": "Russian", "account_age": 2198880.0}

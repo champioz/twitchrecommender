@@ -1,0 +1,1 @@
+{"channel": "jsing", "avg_viewers": 79, "followers_gained": 156, "peak_viewers": 523, "hours_streamed": 119, "streams": 21, "mature": 1, "language": "Russian", "account_age": 2492640.0}

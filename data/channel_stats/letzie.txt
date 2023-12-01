@@ -1,0 +1,1 @@
+{"channel": "letzie", "avg_viewers": 9, "followers_gained": 11, "peak_viewers": 20, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "English", "account_age": 3300480.0}

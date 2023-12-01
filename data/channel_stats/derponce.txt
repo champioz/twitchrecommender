@@ -1,0 +1,1 @@
+{"channel": "derponce", "avg_viewers": 12, "followers_gained": 286, "peak_viewers": 56, "hours_streamed": 59, "streams": 16, "mature": 0, "language": "Portuguese", "account_age": 3366720.0}

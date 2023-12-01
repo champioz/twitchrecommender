@@ -1,0 +1,1 @@
+{"channel": "rodriguezjr", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 77, "streams": 18, "mature": 1, "language": "English", "account_age": 5168160.0}

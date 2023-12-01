@@ -1,0 +1,1 @@
+{"channel": "jr_kirito", "avg_viewers": 0, "followers_gained": 12, "peak_viewers": 5, "hours_streamed": 48, "streams": 17, "mature": 0, "language": "English", "account_age": 2139840.0}

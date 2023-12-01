@@ -1,0 +1,1 @@
+{"channel": "amamiya1196", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 121, "streams": 35, "mature": 0, "language": "Japanese", "account_age": 1182240.0}

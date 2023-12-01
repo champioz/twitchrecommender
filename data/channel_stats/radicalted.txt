@@ -1,0 +1,1 @@
+{"channel": "radicalted", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 17, "hours_streamed": 50, "streams": 15, "mature": 1, "language": "English", "account_age": 4341600.0}

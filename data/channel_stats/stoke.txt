@@ -1,0 +1,1 @@
+{"channel": "stoke", "avg_viewers": 14, "followers_gained": 47, "peak_viewers": 80, "hours_streamed": 80, "streams": 36, "mature": 1, "language": "German", "account_age": 3434400.0}

@@ -1,0 +1,1 @@
+{"channel": "bubblyqt", "avg_viewers": 15, "followers_gained": 115, "peak_viewers": 39, "hours_streamed": 83, "streams": 21, "mature": 1, "language": "English", "account_age": 2331360.0}

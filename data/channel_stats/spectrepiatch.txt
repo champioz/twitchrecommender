@@ -1,0 +1,1 @@
+{"channel": "spectrepiatch", "avg_viewers": 104, "followers_gained": 238, "peak_viewers": 356, "hours_streamed": 98, "streams": 15, "mature": 1, "language": "German", "account_age": 2711520.0}

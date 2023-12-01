@@ -1,0 +1,1 @@
+{"channel": "cheerlidi", "avg_viewers": 32, "followers_gained": 391, "peak_viewers": 253, "hours_streamed": 86, "streams": 22, "mature": 1, "language": "German", "account_age": 940320.0}

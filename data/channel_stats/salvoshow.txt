@@ -1,0 +1,1 @@
+{"channel": "salvoshow", "avg_viewers": 3, "followers_gained": 36, "peak_viewers": 22, "hours_streamed": 70, "streams": 30, "mature": 0, "language": "Italian", "account_age": 2465280.0}

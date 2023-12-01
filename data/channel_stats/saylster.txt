@@ -1,0 +1,1 @@
+{"channel": "saylster", "avg_viewers": 27, "followers_gained": 778, "peak_viewers": 105, "hours_streamed": 123, "streams": 34, "mature": 0, "language": "Turkish", "account_age": 905760.0}

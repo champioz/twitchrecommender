@@ -1,0 +1,1 @@
+{"channel": "shilin", "avg_viewers": 67, "followers_gained": 385, "peak_viewers": 173, "hours_streamed": 165, "streams": 21, "mature": 0, "language": "English", "account_age": 3175200.0}

@@ -1,0 +1,1 @@
+{"channel": "zebraquake", "avg_viewers": 29, "followers_gained": 52, "peak_viewers": 110, "hours_streamed": 52, "streams": 18, "mature": 0, "language": "English", "account_age": 3879360.0}

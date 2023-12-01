@@ -1,0 +1,1 @@
+{"channel": "kezulka", "avg_viewers": 6, "followers_gained": 202, "peak_viewers": 160, "hours_streamed": 267, "streams": 33, "mature": 1, "language": "Spanish", "account_age": 1605600.0}

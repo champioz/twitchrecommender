@@ -1,0 +1,1 @@
+{"channel": "otly", "avg_viewers": 8, "followers_gained": 7, "peak_viewers": 19, "hours_streamed": 15, "streams": 8, "mature": 1, "language": "Dutch", "account_age": 2196000.0}

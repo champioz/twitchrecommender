@@ -1,0 +1,1 @@
+{"channel": "hitujiha", "avg_viewers": 126, "followers_gained": 46, "peak_viewers": 243, "hours_streamed": 142, "streams": 30, "mature": 0, "language": "Japanese", "account_age": 2265120.0}

@@ -1,0 +1,1 @@
+{"channel": "rebl_deadmau5", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 11, "streams": 6, "mature": 0, "language": "English", "account_age": 1379520.0}

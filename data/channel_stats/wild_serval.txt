@@ -1,0 +1,1 @@
+{"channel": "wild_serval", "avg_viewers": 5, "followers_gained": 8, "peak_viewers": 14, "hours_streamed": 59, "streams": 18, "mature": 0, "language": "Russian", "account_age": 2676960.0}

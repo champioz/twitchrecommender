@@ -1,0 +1,1 @@
+{"channel": "joacoxx96", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 47, "streams": 14, "mature": 0, "language": "Spanish", "account_age": 456480.0}

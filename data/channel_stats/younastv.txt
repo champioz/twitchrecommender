@@ -1,0 +1,1 @@
+{"channel": "younastv", "avg_viewers": 21, "followers_gained": 32, "peak_viewers": 51, "hours_streamed": 53, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 3144960.0}

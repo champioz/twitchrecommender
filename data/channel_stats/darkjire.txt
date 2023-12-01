@@ -1,0 +1,1 @@
+{"channel": "darkjire", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 5, "hours_streamed": 133, "streams": 30, "mature": 1, "language": "German", "account_age": 3299040.0}

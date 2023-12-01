@@ -1,0 +1,1 @@
+{"channel": "tehrani", "avg_viewers": 110, "followers_gained": 1258, "peak_viewers": 448, "hours_streamed": 25, "streams": 7, "mature": 1, "language": "English", "account_age": 806400.0}

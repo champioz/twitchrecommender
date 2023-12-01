@@ -1,0 +1,1 @@
+{"channel": "shiphtur", "avg_viewers": 3156, "followers_gained": 5361, "peak_viewers": 7248, "hours_streamed": 211, "streams": 28, "mature": 0, "language": "English", "account_age": 4027680.0}

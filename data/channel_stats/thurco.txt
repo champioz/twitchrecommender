@@ -1,0 +1,1 @@
+{"channel": "thurco", "avg_viewers": 109, "followers_gained": 261, "peak_viewers": 630, "hours_streamed": 61, "streams": 17, "mature": 0, "language": "English", "account_age": 2790720.0}

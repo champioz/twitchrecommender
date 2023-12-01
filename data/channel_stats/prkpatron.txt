@@ -1,0 +1,1 @@
+{"channel": "prkpatron", "avg_viewers": 3, "followers_gained": 29, "peak_viewers": 11, "hours_streamed": 39, "streams": 15, "mature": 1, "language": "Spanish", "account_age": 1895040.0}

@@ -1,0 +1,1 @@
+{"channel": "krama", "avg_viewers": 20, "followers_gained": 48, "peak_viewers": 65, "hours_streamed": 32, "streams": 12, "mature": 1, "language": "French", "account_age": 3578400.0}

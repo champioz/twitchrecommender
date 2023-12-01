@@ -1,0 +1,1 @@
+{"channel": "aladdintv", "avg_viewers": 898, "followers_gained": 5550, "peak_viewers": 2529, "hours_streamed": 95, "streams": 21, "mature": 0, "language": "German", "account_age": 2270880.0}

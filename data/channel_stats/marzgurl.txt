@@ -1,0 +1,1 @@
+{"channel": "marzgurl", "avg_viewers": 9, "followers_gained": 10, "peak_viewers": 17, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "English", "account_age": 5266080.0}

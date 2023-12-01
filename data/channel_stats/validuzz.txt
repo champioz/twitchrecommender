@@ -1,0 +1,1 @@
+{"channel": "validuzz", "avg_viewers": 11, "followers_gained": 42, "peak_viewers": 58, "hours_streamed": 228, "streams": 29, "mature": 1, "language": "English", "account_age": 2198880.0}

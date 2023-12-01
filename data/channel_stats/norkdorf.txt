@@ -1,0 +1,1 @@
+{"channel": "norkdorf", "avg_viewers": 128, "followers_gained": 105, "peak_viewers": 263, "hours_streamed": 77, "streams": 16, "mature": 1, "language": "English", "account_age": 804960.0}

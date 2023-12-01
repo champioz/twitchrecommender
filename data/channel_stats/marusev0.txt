@@ -1,0 +1,1 @@
+{"channel": "marusev0", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 20, "streams": 7, "mature": 1, "language": "Polish", "account_age": 345600.0}

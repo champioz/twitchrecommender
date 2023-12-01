@@ -1,0 +1,1 @@
+{"channel": "huseyin_dagli", "avg_viewers": 8, "followers_gained": 1, "peak_viewers": 48, "hours_streamed": 32, "streams": 15, "mature": 0, "language": "Turkish", "account_age": 2331360.0}

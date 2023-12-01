@@ -1,0 +1,1 @@
+{"channel": "aywi", "avg_viewers": 32, "followers_gained": 308, "peak_viewers": 132, "hours_streamed": 34, "streams": 12, "mature": 0, "language": "Russian", "account_age": 2676960.0}

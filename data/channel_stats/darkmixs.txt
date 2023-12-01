@@ -1,0 +1,1 @@
+{"channel": "darkmixs", "avg_viewers": 9, "followers_gained": 66, "peak_viewers": 35, "hours_streamed": 46, "streams": 12, "mature": 1, "language": "English", "account_age": 1890720.0}

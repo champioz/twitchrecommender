@@ -1,0 +1,1 @@
+{"channel": "deathfouton", "avg_viewers": 20, "followers_gained": 152, "peak_viewers": 156, "hours_streamed": 124, "streams": 29, "mature": 0, "language": "English", "account_age": 3342240.0}

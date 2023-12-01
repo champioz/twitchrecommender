@@ -1,0 +1,1 @@
+{"channel": "gator36", "avg_viewers": 3, "followers_gained": 12, "peak_viewers": 18, "hours_streamed": 41, "streams": 11, "mature": 1, "language": "English", "account_age": 2288160.0}

@@ -1,0 +1,1 @@
+{"channel": "the_weava", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 6, "hours_streamed": 52, "streams": 15, "mature": 0, "language": "English", "account_age": 3716640.0}

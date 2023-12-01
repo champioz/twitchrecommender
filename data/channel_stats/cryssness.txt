@@ -1,0 +1,1 @@
+{"channel": "cryssness", "avg_viewers": 94, "followers_gained": 490, "peak_viewers": 343, "hours_streamed": 87, "streams": 36, "mature": 0, "language": "Italian", "account_age": 2417760.0}

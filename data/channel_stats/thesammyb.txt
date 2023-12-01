@@ -1,0 +1,1 @@
+{"channel": "thesammyb", "avg_viewers": 16, "followers_gained": 127, "peak_viewers": 44, "hours_streamed": 139, "streams": 22, "mature": 0, "language": "English", "account_age": 1087200.0}

@@ -1,0 +1,1 @@
+{"channel": "heeduji", "avg_viewers": 26, "followers_gained": 131, "peak_viewers": 51, "hours_streamed": 91, "streams": 24, "mature": 0, "language": "Korean", "account_age": 259200.0}

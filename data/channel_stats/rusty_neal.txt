@@ -1,0 +1,1 @@
+{"channel": "rusty_neal", "avg_viewers": 7, "followers_gained": 79, "peak_viewers": 23, "hours_streamed": 174, "streams": 26, "mature": 1, "language": "English", "account_age": 1196640.0}

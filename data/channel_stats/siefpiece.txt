@@ -1,0 +1,1 @@
+{"channel": "siefpiece", "avg_viewers": 14, "followers_gained": 223, "peak_viewers": 47, "hours_streamed": 288, "streams": 32, "mature": 1, "language": "English", "account_age": 2178720.0}

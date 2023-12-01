@@ -1,0 +1,1 @@
+{"channel": "renaudrengi", "avg_viewers": 0, "followers_gained": 13, "peak_viewers": 4, "hours_streamed": 28, "streams": 18, "mature": 0, "language": "French", "account_age": 460800.0}

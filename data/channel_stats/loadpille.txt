@@ -1,0 +1,1 @@
+{"channel": "loadpille", "avg_viewers": 10, "followers_gained": 32, "peak_viewers": 26, "hours_streamed": 49, "streams": 12, "mature": 1, "language": "German", "account_age": 3713760.0}

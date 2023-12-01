@@ -1,0 +1,1 @@
+{"channel": "bittersweet_symphony", "avg_viewers": 11, "followers_gained": 3, "peak_viewers": 23, "hours_streamed": 17, "streams": 5, "mature": 1, "language": "German", "account_age": 1997280.0}

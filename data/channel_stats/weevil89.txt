@@ -1,0 +1,1 @@
+{"channel": "weevil89", "avg_viewers": 10, "followers_gained": 53, "peak_viewers": 78, "hours_streamed": 111, "streams": 29, "mature": 1, "language": "English", "account_age": 3699360.0}

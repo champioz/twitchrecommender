@@ -1,0 +1,1 @@
+{"channel": "cuneytkaya", "avg_viewers": 5, "followers_gained": 229, "peak_viewers": 24, "hours_streamed": 124, "streams": 33, "mature": 0, "language": "Turkish", "account_age": 1612800.0}

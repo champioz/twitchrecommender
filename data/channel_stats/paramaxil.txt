@@ -1,0 +1,1 @@
+{"channel": "paramaxil", "avg_viewers": 590, "followers_gained": 1239, "peak_viewers": 2301, "hours_streamed": 167, "streams": 24, "mature": 0, "language": "Polish", "account_age": 2916000.0}

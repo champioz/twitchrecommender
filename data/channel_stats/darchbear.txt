@@ -1,0 +1,1 @@
+{"channel": "darchbear", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 13, "hours_streamed": 19, "streams": 5, "mature": 1, "language": "English", "account_age": 3762720.0}

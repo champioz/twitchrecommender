@@ -1,0 +1,1 @@
+{"channel": "sleepypan", "avg_viewers": 10, "followers_gained": 36, "peak_viewers": 39, "hours_streamed": 64, "streams": 12, "mature": 0, "language": "English", "account_age": 3434400.0}

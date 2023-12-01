@@ -1,0 +1,1 @@
+{"channel": "tiggerz_", "avg_viewers": 4, "followers_gained": 25, "peak_viewers": 49, "hours_streamed": 28, "streams": 9, "mature": 0, "language": "Bulgarian", "account_age": 2034720.0}

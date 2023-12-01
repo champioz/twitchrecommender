@@ -1,0 +1,1 @@
+{"channel": "kuzler", "avg_viewers": 4, "followers_gained": 9, "peak_viewers": 15, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 1461600.0}

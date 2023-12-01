@@ -1,0 +1,1 @@
+{"channel": "emoarbiter", "avg_viewers": 10, "followers_gained": 5, "peak_viewers": 26, "hours_streamed": 21, "streams": 7, "mature": 0, "language": "English", "account_age": 4576320.0}

@@ -1,0 +1,1 @@
+{"channel": "ksardas", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 9, "hours_streamed": 20, "streams": 13, "mature": 0, "language": "Russian", "account_age": 833760.0}

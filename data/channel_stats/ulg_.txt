@@ -1,0 +1,1 @@
+{"channel": "ulg_", "avg_viewers": 0, "followers_gained": 14, "peak_viewers": 47, "hours_streamed": 125, "streams": 106, "mature": 0, "language": "Japanese", "account_age": 3281760.0}

@@ -1,0 +1,1 @@
+{"channel": "legolas1v9", "avg_viewers": 10, "followers_gained": 12, "peak_viewers": 20, "hours_streamed": 13, "streams": 8, "mature": 0, "language": "Spanish", "account_age": 531360.0}

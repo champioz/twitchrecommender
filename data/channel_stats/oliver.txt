@@ -1,0 +1,1 @@
+{"channel": "oliver", "avg_viewers": 22, "followers_gained": 91, "peak_viewers": 62, "hours_streamed": 40, "streams": 5, "mature": 1, "language": "English", "account_age": 3363840.0}

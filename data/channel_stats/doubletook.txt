@@ -1,0 +1,1 @@
+{"channel": "doubletook", "avg_viewers": 53, "followers_gained": 125, "peak_viewers": 253, "hours_streamed": 58, "streams": 12, "mature": 0, "language": "Korean", "account_age": 1319040.0}

@@ -1,0 +1,1 @@
+{"channel": "lumxnosity", "avg_viewers": 2, "followers_gained": 36, "peak_viewers": 7, "hours_streamed": 28, "streams": 12, "mature": 0, "language": "English", "account_age": 1352160.0}

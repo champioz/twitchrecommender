@@ -1,0 +1,1 @@
+{"channel": "lawtender", "avg_viewers": 14, "followers_gained": 291, "peak_viewers": 47, "hours_streamed": 111, "streams": 33, "mature": 1, "language": "English", "account_age": 794880.0}

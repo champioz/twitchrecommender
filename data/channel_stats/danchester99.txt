@@ -1,0 +1,1 @@
+{"channel": "danchester99", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 10, "hours_streamed": 20, "streams": 5, "mature": 1, "language": "Russian", "account_age": 675360.0}

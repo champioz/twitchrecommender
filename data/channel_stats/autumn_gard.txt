@@ -1,0 +1,1 @@
+{"channel": "autumn_gard", "avg_viewers": 10, "followers_gained": 35, "peak_viewers": 26, "hours_streamed": 15, "streams": 7, "mature": 0, "language": "English", "account_age": 2170080.0}

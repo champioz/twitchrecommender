@@ -1,0 +1,1 @@
+{"channel": "kfpgod", "avg_viewers": 63, "followers_gained": 7, "peak_viewers": 204, "hours_streamed": 68, "streams": 18, "mature": 0, "language": "English", "account_age": 2646720.0}

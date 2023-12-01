@@ -1,0 +1,1 @@
+{"channel": "xxkristinxx3", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 5, "hours_streamed": 49, "streams": 21, "mature": 1, "language": "Other", "account_age": 1794240.0}

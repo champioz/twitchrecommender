@@ -1,0 +1,1 @@
+{"channel": "siyahmsf", "avg_viewers": 4, "followers_gained": 71, "peak_viewers": 24, "hours_streamed": 56, "streams": 17, "mature": 0, "language": "Turkish", "account_age": 1486080.0}

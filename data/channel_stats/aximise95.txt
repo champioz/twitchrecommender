@@ -1,0 +1,1 @@
+{"channel": "aximise95", "avg_viewers": 15, "followers_gained": 1, "peak_viewers": 34, "hours_streamed": 14, "streams": 5, "mature": 0, "language": "German", "account_age": 2237760.0}

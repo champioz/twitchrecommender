@@ -1,0 +1,1 @@
+{"channel": "discjockey", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 5, "streams": 3, "mature": 1, "language": "Turkish", "account_age": 3152160.0}

@@ -1,0 +1,1 @@
+{"channel": "karupups", "avg_viewers": 107, "followers_gained": 264, "peak_viewers": 473, "hours_streamed": 52, "streams": 12, "mature": 0, "language": "Russian", "account_age": 442080.0}

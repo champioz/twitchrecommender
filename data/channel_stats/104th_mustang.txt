@@ -1,0 +1,1 @@
+{"channel": "104th_mustang", "avg_viewers": 16, "followers_gained": 32, "peak_viewers": 41, "hours_streamed": 25, "streams": 11, "mature": 1, "language": "English", "account_age": 1287360.0}

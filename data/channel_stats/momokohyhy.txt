@@ -1,0 +1,1 @@
+{"channel": "momokohyhy", "avg_viewers": 20, "followers_gained": 5, "peak_viewers": 31, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "Arabic", "account_age": 2037600.0}

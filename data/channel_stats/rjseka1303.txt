@@ -1,0 +1,1 @@
+{"channel": "rjseka1303", "avg_viewers": 66, "followers_gained": 215, "peak_viewers": 136, "hours_streamed": 52, "streams": 12, "mature": 0, "language": "Korean", "account_age": 1120320.0}

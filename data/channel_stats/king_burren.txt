@@ -1,0 +1,1 @@
+{"channel": "king_burren", "avg_viewers": 91, "followers_gained": 3420, "peak_viewers": 892, "hours_streamed": 132, "streams": 31, "mature": 0, "language": "English", "account_age": 1075680.0}

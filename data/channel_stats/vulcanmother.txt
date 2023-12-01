@@ -1,0 +1,1 @@
+{"channel": "vulcanmother", "avg_viewers": 7, "followers_gained": 87, "peak_viewers": 33, "hours_streamed": 125, "streams": 26, "mature": 0, "language": "Italian", "account_age": 2168640.0}

@@ -1,0 +1,1 @@
+{"channel": "aulddragon", "avg_viewers": 11, "followers_gained": 25, "peak_viewers": 28, "hours_streamed": 44, "streams": 9, "mature": 0, "language": "English", "account_age": 3687840.0}

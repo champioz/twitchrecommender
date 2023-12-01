@@ -1,0 +1,1 @@
+{"channel": "thicccmatty", "avg_viewers": 3, "followers_gained": 21, "peak_viewers": 13, "hours_streamed": 42, "streams": 18, "mature": 1, "language": "English", "account_age": 1153440.0}

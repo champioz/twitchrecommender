@@ -1,0 +1,1 @@
+{"channel": "merlinidota", "avg_viewers": 465, "followers_gained": 49, "peak_viewers": 915, "hours_streamed": 26, "streams": 7, "mature": 0, "language": "English", "account_age": 4131360.0}

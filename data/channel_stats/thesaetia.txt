@@ -1,0 +1,1 @@
+{"channel": "thesaetia", "avg_viewers": 38, "followers_gained": 32, "peak_viewers": 136, "hours_streamed": 120, "streams": 24, "mature": 1, "language": "Russian", "account_age": 4216320.0}

@@ -1,0 +1,1 @@
+{"channel": "z8r6q4d4f5e3", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 21, "hours_streamed": 39, "streams": 14, "mature": 1, "language": "Chinese", "account_age": 3134880.0}

@@ -1,0 +1,1 @@
+{"channel": "hoek", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "English", "account_age": 2183040.0}

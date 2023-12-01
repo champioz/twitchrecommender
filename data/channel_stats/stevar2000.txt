@@ -1,0 +1,1 @@
+{"channel": "stevar2000", "avg_viewers": 42, "followers_gained": 432, "peak_viewers": 976, "hours_streamed": 111, "streams": 32, "mature": 0, "language": "German", "account_age": 1988640.0}

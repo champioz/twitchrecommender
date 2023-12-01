@@ -1,0 +1,1 @@
+{"channel": "ichrispanda", "avg_viewers": 8, "followers_gained": 17, "peak_viewers": 56, "hours_streamed": 46, "streams": 13, "mature": 0, "language": "English", "account_age": 4154400.0}

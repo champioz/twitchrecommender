@@ -1,0 +1,1 @@
+{"channel": "reppukk", "avg_viewers": 39, "followers_gained": 438, "peak_viewers": 383, "hours_streamed": 214, "streams": 32, "mature": 1, "language": "Portuguese", "account_age": 984960.0}

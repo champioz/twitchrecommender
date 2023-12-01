@@ -1,0 +1,1 @@
+{"channel": "krazy_bong", "avg_viewers": 12, "followers_gained": 451, "peak_viewers": 100, "hours_streamed": 240, "streams": 34, "mature": 1, "language": "Portuguese", "account_age": 1255680.0}

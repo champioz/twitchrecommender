@@ -1,0 +1,1 @@
+{"channel": "ms_vixen", "avg_viewers": 123, "followers_gained": 409, "peak_viewers": 360, "hours_streamed": 164, "streams": 25, "mature": 0, "language": "English", "account_age": 4812480.0}

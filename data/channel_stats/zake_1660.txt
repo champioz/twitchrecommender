@@ -1,0 +1,1 @@
+{"channel": "zake_1660", "avg_viewers": 29, "followers_gained": 37, "peak_viewers": 62, "hours_streamed": 94, "streams": 25, "mature": 0, "language": "Japanese", "account_age": 1631520.0}

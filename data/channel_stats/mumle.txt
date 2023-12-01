@@ -1,0 +1,1 @@
+{"channel": "mumle", "avg_viewers": 15, "followers_gained": 105, "peak_viewers": 37, "hours_streamed": 159, "streams": 30, "mature": 1, "language": "Danish", "account_age": 2076480.0}

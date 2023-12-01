@@ -1,0 +1,1 @@
+{"channel": "loadingreadyrun", "avg_viewers": 408, "followers_gained": 1046, "peak_viewers": 1636, "hours_streamed": 200, "streams": 55, "mature": 0, "language": "English", "account_age": 3990240.0}

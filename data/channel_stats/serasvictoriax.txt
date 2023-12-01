@@ -1,0 +1,1 @@
+{"channel": "serasvictoriax", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 17, "hours_streamed": 93, "streams": 19, "mature": 1, "language": "German", "account_age": 3261600.0}

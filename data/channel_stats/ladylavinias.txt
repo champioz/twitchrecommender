@@ -1,0 +1,1 @@
+{"channel": "ladylavinias", "avg_viewers": 55, "followers_gained": 766, "peak_viewers": 353, "hours_streamed": 95, "streams": 22, "mature": 0, "language": "English", "account_age": 3412800.0}

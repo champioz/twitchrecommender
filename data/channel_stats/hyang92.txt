@@ -1,0 +1,1 @@
+{"channel": "hyang92", "avg_viewers": 1, "followers_gained": 16, "peak_viewers": 7, "hours_streamed": 56, "streams": 16, "mature": 0, "language": "Korean", "account_age": 1310400.0}

@@ -1,0 +1,1 @@
+{"channel": "shanks_1co", "avg_viewers": 4, "followers_gained": 10, "peak_viewers": 13, "hours_streamed": 79, "streams": 15, "mature": 1, "language": "Spanish", "account_age": 2082240.0}

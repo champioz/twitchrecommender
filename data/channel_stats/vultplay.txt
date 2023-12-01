@@ -1,0 +1,1 @@
+{"channel": "vultplay", "avg_viewers": 43, "followers_gained": 394, "peak_viewers": 123, "hours_streamed": 236, "streams": 39, "mature": 0, "language": "English", "account_age": 3569760.0}

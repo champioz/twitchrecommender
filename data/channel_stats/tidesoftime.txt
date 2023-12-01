@@ -1,0 +1,1 @@
+{"channel": "tidesoftime", "avg_viewers": 3277, "followers_gained": 16733, "peak_viewers": 12171, "hours_streamed": 293, "streams": 24, "mature": 0, "language": "English", "account_age": 4438080.0}

@@ -1,0 +1,1 @@
+{"channel": "yakkocmn", "avg_viewers": 48, "followers_gained": 123, "peak_viewers": 102, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "English", "account_age": 3710880.0}

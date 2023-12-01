@@ -1,0 +1,1 @@
+{"channel": "its_kim", "avg_viewers": 80, "followers_gained": 0, "peak_viewers": 80, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 1660320.0}

@@ -1,0 +1,1 @@
+{"channel": "guipepe", "avg_viewers": 60, "followers_gained": 282, "peak_viewers": 336, "hours_streamed": 48, "streams": 12, "mature": 1, "language": "Portuguese", "account_age": 4377600.0}

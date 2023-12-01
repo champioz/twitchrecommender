@@ -1,0 +1,1 @@
+{"channel": "garter", "avg_viewers": 65, "followers_gained": 83, "peak_viewers": 149, "hours_streamed": 156, "streams": 23, "mature": 1, "language": "English", "account_age": 3656160.0}

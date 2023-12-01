@@ -1,0 +1,1 @@
+{"channel": "souls_mt", "avg_viewers": 34, "followers_gained": 59, "peak_viewers": 99, "hours_streamed": 33, "streams": 10, "mature": 0, "language": "Portuguese", "account_age": 3160800.0}

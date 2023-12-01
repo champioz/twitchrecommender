@@ -1,0 +1,1 @@
+{"channel": "floormattv", "avg_viewers": 22, "followers_gained": 104, "peak_viewers": 58, "hours_streamed": 36, "streams": 13, "mature": 0, "language": "English", "account_age": 2216160.0}

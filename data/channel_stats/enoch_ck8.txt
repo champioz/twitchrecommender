@@ -1,0 +1,1 @@
+{"channel": "enoch_ck8", "avg_viewers": 10, "followers_gained": 9, "peak_viewers": 29, "hours_streamed": 16, "streams": 3, "mature": 1, "language": "Chinese", "account_age": 3182400.0}

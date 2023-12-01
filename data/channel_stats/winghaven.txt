@@ -1,0 +1,1 @@
+{"channel": "winghaven", "avg_viewers": 488, "followers_gained": 5856, "peak_viewers": 1686, "hours_streamed": 243, "streams": 47, "mature": 0, "language": "Spanish", "account_age": 3336480.0}

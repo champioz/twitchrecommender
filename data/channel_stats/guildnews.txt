@@ -1,0 +1,1 @@
+{"channel": "guildnews", "avg_viewers": 44, "followers_gained": 23, "peak_viewers": 126, "hours_streamed": 64, "streams": 22, "mature": 0, "language": "German", "account_age": 3296160.0}

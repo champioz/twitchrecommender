@@ -1,0 +1,1 @@
+{"channel": "jessica_noelie", "avg_viewers": 12, "followers_gained": 339, "peak_viewers": 37, "hours_streamed": 114, "streams": 22, "mature": 0, "language": "German", "account_age": 989280.0}

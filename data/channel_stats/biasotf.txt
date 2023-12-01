@@ -1,0 +1,1 @@
+{"channel": "biasotf", "avg_viewers": 10, "followers_gained": 607, "peak_viewers": 84, "hours_streamed": 85, "streams": 26, "mature": 1, "language": "English", "account_age": 1575360.0}

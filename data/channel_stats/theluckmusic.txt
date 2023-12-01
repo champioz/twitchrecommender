@@ -1,0 +1,1 @@
+{"channel": "theluckmusic", "avg_viewers": 67, "followers_gained": 129, "peak_viewers": 152, "hours_streamed": 11, "streams": 6, "mature": 0, "language": "English", "account_age": 1404000.0}

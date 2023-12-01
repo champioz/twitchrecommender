@@ -1,0 +1,1 @@
+{"channel": "gicaas", "avg_viewers": 48, "followers_gained": 170, "peak_viewers": 138, "hours_streamed": 34, "streams": 13, "mature": 0, "language": "Turkish", "account_age": 1863360.0}

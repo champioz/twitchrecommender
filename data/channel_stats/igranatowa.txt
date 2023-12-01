@@ -1,0 +1,1 @@
+{"channel": "igranatowa", "avg_viewers": 68, "followers_gained": 411, "peak_viewers": 957, "hours_streamed": 88, "streams": 23, "mature": 0, "language": "Polish", "account_age": 3807360.0}

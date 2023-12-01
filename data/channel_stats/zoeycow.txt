@@ -1,0 +1,1 @@
+{"channel": "zoeycow", "avg_viewers": 2, "followers_gained": 21, "peak_viewers": 10, "hours_streamed": 153, "streams": 31, "mature": 1, "language": "English", "account_age": 3503520.0}

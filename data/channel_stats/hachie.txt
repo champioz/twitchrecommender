@@ -1,0 +1,1 @@
+{"channel": "hachie", "avg_viewers": 24, "followers_gained": 36, "peak_viewers": 134, "hours_streamed": 35, "streams": 6, "mature": 0, "language": "English", "account_age": 2681280.0}

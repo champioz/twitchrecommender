@@ -1,0 +1,1 @@
+{"channel": "teroxzz", "avg_viewers": 19, "followers_gained": 41, "peak_viewers": 130, "hours_streamed": 30, "streams": 13, "mature": 1, "language": "Finnish", "account_age": 2246400.0}

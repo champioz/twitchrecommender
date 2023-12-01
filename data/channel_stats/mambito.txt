@@ -1,0 +1,1 @@
+{"channel": "mambito", "avg_viewers": 7, "followers_gained": 7, "peak_viewers": 10, "hours_streamed": 2, "streams": 3, "mature": 0, "language": "English", "account_age": 1362240.0}

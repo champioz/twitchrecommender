@@ -1,0 +1,1 @@
+{"channel": "un_snipzz", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 6, "streams": 4, "mature": 1, "language": "German", "account_age": 1133280.0}

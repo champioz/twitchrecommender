@@ -1,0 +1,1 @@
+{"channel": "x456000", "avg_viewers": 16, "followers_gained": 5, "peak_viewers": 27, "hours_streamed": 8, "streams": 2, "mature": 0, "language": "Chinese", "account_age": 3133440.0}

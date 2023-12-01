@@ -1,0 +1,1 @@
+{"channel": "apolloz", "avg_viewers": 11, "followers_gained": 27, "peak_viewers": 50, "hours_streamed": 102, "streams": 18, "mature": 0, "language": "English", "account_age": 4446720.0}

@@ -1,0 +1,1 @@
+{"channel": "p1k4", "avg_viewers": 20, "followers_gained": 30, "peak_viewers": 46, "hours_streamed": 109, "streams": 27, "mature": 1, "language": "Russian", "account_age": 4874400.0}

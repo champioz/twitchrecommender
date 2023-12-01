@@ -1,0 +1,1 @@
+{"channel": "sunn", "avg_viewers": 170, "followers_gained": 4285, "peak_viewers": 547, "hours_streamed": 127, "streams": 36, "mature": 1, "language": "Hungarian", "account_age": 502560.0}

@@ -1,0 +1,1 @@
+{"channel": "twizter96", "avg_viewers": 11, "followers_gained": 168, "peak_viewers": 23, "hours_streamed": 54, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 2196000.0}

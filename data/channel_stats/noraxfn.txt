@@ -1,0 +1,1 @@
+{"channel": "noraxfn", "avg_viewers": 0, "followers_gained": 17, "peak_viewers": 6, "hours_streamed": 16, "streams": 11, "mature": 1, "language": "German", "account_age": 371520.0}

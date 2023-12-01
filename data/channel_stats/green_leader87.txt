@@ -1,0 +1,1 @@
+{"channel": "green_leader87", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 25, "streams": 9, "mature": 1, "language": "English", "account_age": 2450880.0}

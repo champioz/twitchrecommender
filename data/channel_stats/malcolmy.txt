@@ -1,0 +1,1 @@
+{"channel": "malcolmy", "avg_viewers": 42, "followers_gained": 181, "peak_viewers": 120, "hours_streamed": 40, "streams": 16, "mature": 0, "language": "English", "account_age": 796320.0}

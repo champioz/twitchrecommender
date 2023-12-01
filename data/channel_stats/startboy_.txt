@@ -1,0 +1,1 @@
+{"channel": "startboy_", "avg_viewers": 223, "followers_gained": 2483, "peak_viewers": 686, "hours_streamed": 76, "streams": 25, "mature": 0, "language": "Polish", "account_age": 1700640.0}

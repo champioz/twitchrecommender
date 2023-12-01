@@ -1,0 +1,1 @@
+{"channel": "rumhamhs", "avg_viewers": 12, "followers_gained": 45, "peak_viewers": 43, "hours_streamed": 93, "streams": 18, "mature": 0, "language": "English", "account_age": 1087200.0}

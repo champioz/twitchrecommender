@@ -1,0 +1,1 @@
+{"channel": "chuckysz", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 1, "streams": 2, "mature": 1, "language": "Portuguese", "account_age": 2790720.0}

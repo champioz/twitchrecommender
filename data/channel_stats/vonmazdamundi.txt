@@ -1,0 +1,1 @@
+{"channel": "vonmazdamundi", "avg_viewers": 16, "followers_gained": 84, "peak_viewers": 30, "hours_streamed": 200, "streams": 42, "mature": 1, "language": "Russian", "account_age": 285120.0}

@@ -1,0 +1,1 @@
+{"channel": "antielitz", "avg_viewers": 201, "followers_gained": 24, "peak_viewers": 306, "hours_streamed": 25, "streams": 5, "mature": 0, "language": "English", "account_age": 2531520.0}

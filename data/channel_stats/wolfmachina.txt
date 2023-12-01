@@ -1,0 +1,1 @@
+{"channel": "wolfmachina", "avg_viewers": 30, "followers_gained": 18, "peak_viewers": 75, "hours_streamed": 77, "streams": 18, "mature": 0, "language": "English", "account_age": 3728160.0}

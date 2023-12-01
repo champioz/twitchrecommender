@@ -1,0 +1,1 @@
+{"channel": "twojkszmar", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 60, "streams": 19, "mature": 1, "language": "Polish", "account_age": 3589920.0}

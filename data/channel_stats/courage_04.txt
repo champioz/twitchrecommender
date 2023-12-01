@@ -1,0 +1,1 @@
+{"channel": "courage_04", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 63, "hours_streamed": 43, "streams": 11, "mature": 1, "language": "English", "account_age": 3000960.0}

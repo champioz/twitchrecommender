@@ -1,0 +1,1 @@
+{"channel": "chang8763", "avg_viewers": 124, "followers_gained": 37, "peak_viewers": 301, "hours_streamed": 31, "streams": 7, "mature": 0, "language": "Chinese", "account_age": 600480.0}

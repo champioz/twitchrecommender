@@ -1,0 +1,1 @@
+{"channel": "theenclase", "avg_viewers": 485, "followers_gained": 1408, "peak_viewers": 1325, "hours_streamed": 231, "streams": 37, "mature": 1, "language": "German", "account_age": 4379040.0}

@@ -1,0 +1,1 @@
+{"channel": "ryou_sasayaki", "avg_viewers": 61, "followers_gained": 16, "peak_viewers": 91, "hours_streamed": 34, "streams": 16, "mature": 0, "language": "Japanese", "account_age": 781920.0}

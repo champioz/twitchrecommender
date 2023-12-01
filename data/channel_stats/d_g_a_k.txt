@@ -1,0 +1,1 @@
+{"channel": "d_g_a_k", "avg_viewers": 27, "followers_gained": 102, "peak_viewers": 99, "hours_streamed": 301, "streams": 33, "mature": 0, "language": "Russian", "account_age": 3074400.0}

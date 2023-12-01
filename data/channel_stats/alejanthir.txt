@@ -1,0 +1,1 @@
+{"channel": "alejanthir", "avg_viewers": 15, "followers_gained": 78, "peak_viewers": 41, "hours_streamed": 82, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 946080.0}

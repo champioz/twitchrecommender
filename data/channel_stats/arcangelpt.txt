@@ -1,0 +1,1 @@
+{"channel": "arcangelpt", "avg_viewers": 53, "followers_gained": 488, "peak_viewers": 255, "hours_streamed": 191, "streams": 20, "mature": 1, "language": "Portuguese", "account_age": 764640.0}

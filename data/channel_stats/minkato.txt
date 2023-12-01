@@ -1,0 +1,1 @@
+{"channel": "minkato", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 21, "hours_streamed": 74, "streams": 14, "mature": 0, "language": "Russian", "account_age": 2567520.0}

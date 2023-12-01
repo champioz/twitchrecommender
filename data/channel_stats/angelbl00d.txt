@@ -1,0 +1,1 @@
+{"channel": "angelbl00d", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 66, "hours_streamed": 135, "streams": 29, "mature": 1, "language": "Norwegian", "account_age": 3039840.0}

@@ -1,0 +1,1 @@
+{"channel": "clawarcade", "avg_viewers": 3, "followers_gained": 197, "peak_viewers": 30, "hours_streamed": 556, "streams": 11, "mature": 0, "language": "English", "account_age": 1068480.0}

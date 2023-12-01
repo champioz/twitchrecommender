@@ -1,0 +1,1 @@
+{"channel": "babyrobbenklopfer", "avg_viewers": 5, "followers_gained": 8, "peak_viewers": 17, "hours_streamed": 136, "streams": 39, "mature": 1, "language": "German", "account_age": 3427200.0}

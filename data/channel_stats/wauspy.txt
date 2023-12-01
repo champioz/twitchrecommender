@@ -1,0 +1,1 @@
+{"channel": "wauspy", "avg_viewers": 22, "followers_gained": 2012, "peak_viewers": 73, "hours_streamed": 161, "streams": 30, "mature": 0, "language": "English", "account_age": 505440.0}

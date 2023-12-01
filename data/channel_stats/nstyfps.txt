@@ -1,0 +1,1 @@
+{"channel": "nstyfps", "avg_viewers": 1, "followers_gained": 24, "peak_viewers": 12, "hours_streamed": 152, "streams": 34, "mature": 1, "language": "English", "account_age": 449280.0}

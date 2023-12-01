@@ -1,0 +1,1 @@
+{"channel": "ballvalve", "avg_viewers": 34, "followers_gained": 165, "peak_viewers": 103, "hours_streamed": 57, "streams": 9, "mature": 0, "language": "English", "account_age": 750240.0}

@@ -1,0 +1,1 @@
+{"channel": "owem", "avg_viewers": 8, "followers_gained": 51, "peak_viewers": 23, "hours_streamed": 84, "streams": 42, "mature": 1, "language": "English", "account_age": 2622240.0}

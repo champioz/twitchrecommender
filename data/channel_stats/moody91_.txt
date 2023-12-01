@@ -1,0 +1,1 @@
+{"channel": "moody91_", "avg_viewers": 32, "followers_gained": 1324, "peak_viewers": 103, "hours_streamed": 46, "streams": 20, "mature": 0, "language": "Arabic", "account_age": 151200.0}

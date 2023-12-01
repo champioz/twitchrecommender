@@ -1,0 +1,1 @@
+{"channel": "richtertwitch", "avg_viewers": 44, "followers_gained": 36, "peak_viewers": 87, "hours_streamed": 15, "streams": 3, "mature": 1, "language": "German", "account_age": 1830240.0}

@@ -1,0 +1,1 @@
+{"channel": "defenestrandojogos", "avg_viewers": 45, "followers_gained": 1, "peak_viewers": 75, "hours_streamed": 2, "streams": 2, "mature": 1, "language": "Portuguese", "account_age": 3307680.0}

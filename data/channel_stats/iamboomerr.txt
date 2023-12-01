@@ -1,0 +1,1 @@
+{"channel": "iamboomerr", "avg_viewers": 26, "followers_gained": 644, "peak_viewers": 99, "hours_streamed": 143, "streams": 45, "mature": 1, "language": "English", "account_age": 3363840.0}

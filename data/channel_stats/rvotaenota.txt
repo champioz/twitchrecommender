@@ -1,0 +1,1 @@
+{"channel": "rvotaenota", "avg_viewers": 77, "followers_gained": 95, "peak_viewers": 152, "hours_streamed": 51, "streams": 16, "mature": 0, "language": "Russian", "account_age": 1671840.0}

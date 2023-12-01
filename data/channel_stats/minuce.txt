@@ -1,0 +1,1 @@
+{"channel": "minuce", "avg_viewers": 9, "followers_gained": 15, "peak_viewers": 22, "hours_streamed": 20, "streams": 5, "mature": 0, "language": "French", "account_age": 3124800.0}

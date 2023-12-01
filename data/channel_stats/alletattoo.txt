@@ -1,0 +1,1 @@
+{"channel": "alletattoo", "avg_viewers": 12, "followers_gained": 130, "peak_viewers": 59, "hours_streamed": 67, "streams": 42, "mature": 1, "language": "Italian", "account_age": 568800.0}

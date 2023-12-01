@@ -1,0 +1,1 @@
+{"channel": "donthecrown", "avg_viewers": 170, "followers_gained": 364, "peak_viewers": 399, "hours_streamed": 148, "streams": 24, "mature": 0, "language": "English", "account_age": 3850560.0}

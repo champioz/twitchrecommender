@@ -1,0 +1,1 @@
+{"channel": "yomax", "avg_viewers": 652, "followers_gained": 3168, "peak_viewers": 1719, "hours_streamed": 36, "streams": 14, "mature": 0, "language": "French", "account_age": 2494080.0}

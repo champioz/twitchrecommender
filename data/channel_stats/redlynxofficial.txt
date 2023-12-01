@@ -1,0 +1,1 @@
+{"channel": "redlynxofficial", "avg_viewers": 27, "followers_gained": 8, "peak_viewers": 106, "hours_streamed": 39, "streams": 18, "mature": 0, "language": "English", "account_age": 3247200.0}

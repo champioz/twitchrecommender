@@ -1,0 +1,1 @@
+{"channel": "thenocturnalplay", "avg_viewers": 9, "followers_gained": 17, "peak_viewers": 22, "hours_streamed": 93, "streams": 12, "mature": 1, "language": "English", "account_age": 1550880.0}

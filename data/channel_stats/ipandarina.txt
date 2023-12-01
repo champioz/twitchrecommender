@@ -1,0 +1,1 @@
+{"channel": "ipandarina", "avg_viewers": 94, "followers_gained": 508, "peak_viewers": 1477, "hours_streamed": 42, "streams": 16, "mature": 0, "language": "Spanish", "account_age": 1710720.0}

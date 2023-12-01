@@ -1,0 +1,1 @@
+{"channel": "villarinoob", "avg_viewers": 5, "followers_gained": 45, "peak_viewers": 19, "hours_streamed": 28, "streams": 19, "mature": 1, "language": "Spanish", "account_age": 1689120.0}

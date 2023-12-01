@@ -1,0 +1,1 @@
+{"channel": "bestmarmotte", "avg_viewers": 363, "followers_gained": 836, "peak_viewers": 1822, "hours_streamed": 109, "streams": 24, "mature": 0, "language": "French", "account_age": 2495520.0}

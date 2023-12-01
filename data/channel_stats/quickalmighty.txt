@@ -1,0 +1,1 @@
+{"channel": "quickalmighty", "avg_viewers": 6, "followers_gained": 10, "peak_viewers": 38, "hours_streamed": 22, "streams": 3, "mature": 0, "language": "English", "account_age": 2983680.0}

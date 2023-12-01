@@ -1,0 +1,1 @@
+{"channel": "safarianna", "avg_viewers": 8, "followers_gained": 2, "peak_viewers": 20, "hours_streamed": 9, "streams": 6, "mature": 1, "language": "German", "account_age": 2725920.0}

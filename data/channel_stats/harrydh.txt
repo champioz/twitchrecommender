@@ -1,0 +1,1 @@
+{"channel": "harrydh", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 7, "hours_streamed": 11, "streams": 12, "mature": 0, "language": "English", "account_age": 576000.0}

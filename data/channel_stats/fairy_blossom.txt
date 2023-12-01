@@ -1,0 +1,1 @@
+{"channel": "fairy_blossom", "avg_viewers": 9, "followers_gained": 17, "peak_viewers": 25, "hours_streamed": 11, "streams": 4, "mature": 1, "language": "German", "account_age": 1075680.0}

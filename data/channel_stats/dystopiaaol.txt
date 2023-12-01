@@ -1,0 +1,1 @@
+{"channel": "dystopiaaol", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 16, "hours_streamed": 62, "streams": 20, "mature": 0, "language": "German", "account_age": 4325760.0}

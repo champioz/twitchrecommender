@@ -1,0 +1,1 @@
+{"channel": "day9tv", "avg_viewers": 2716, "followers_gained": 3453, "peak_viewers": 12883, "hours_streamed": 60, "streams": 14, "mature": 0, "language": "English", "account_age": 4547520.0}

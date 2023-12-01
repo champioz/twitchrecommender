@@ -1,0 +1,1 @@
+{"channel": "fokelvin", "avg_viewers": 0, "followers_gained": 20, "peak_viewers": 3, "hours_streamed": 19, "streams": 10, "mature": 1, "language": "Portuguese", "account_age": 3980160.0}

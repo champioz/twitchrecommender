@@ -1,0 +1,1 @@
+{"channel": "dcn_dan", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 43, "streams": 14, "mature": 1, "language": "English", "account_age": 1650240.0}

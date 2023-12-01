@@ -1,0 +1,1 @@
+{"channel": "tbcr_", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 8, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "English", "account_age": 3173760.0}

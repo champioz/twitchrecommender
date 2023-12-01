@@ -1,0 +1,1 @@
+{"channel": "luzielerebus", "avg_viewers": 25, "followers_gained": 183, "peak_viewers": 49, "hours_streamed": 149, "streams": 26, "mature": 1, "language": "Spanish", "account_age": 3006720.0}

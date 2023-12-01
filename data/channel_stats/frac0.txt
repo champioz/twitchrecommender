@@ -1,0 +1,1 @@
+{"channel": "frac0", "avg_viewers": 10, "followers_gained": 5, "peak_viewers": 27, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "German", "account_age": 3733920.0}

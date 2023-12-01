@@ -1,0 +1,1 @@
+{"channel": "shugababy", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 16, "hours_streamed": 72, "streams": 33, "mature": 0, "language": "Russian", "account_age": 1414080.0}

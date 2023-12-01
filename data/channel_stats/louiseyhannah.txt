@@ -1,0 +1,1 @@
+{"channel": "louiseyhannah", "avg_viewers": 48, "followers_gained": 231, "peak_viewers": 77, "hours_streamed": 51, "streams": 15, "mature": 0, "language": "English", "account_age": 1035360.0}

@@ -1,0 +1,1 @@
+{"channel": "inkuv", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 6, "streams": 4, "mature": 1, "language": "Polish", "account_age": 2214720.0}

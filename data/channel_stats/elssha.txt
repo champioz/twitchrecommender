@@ -1,0 +1,1 @@
+{"channel": "elssha", "avg_viewers": 25, "followers_gained": 31, "peak_viewers": 56, "hours_streamed": 48, "streams": 14, "mature": 0, "language": "English", "account_age": 1967040.0}

@@ -1,0 +1,1 @@
+{"channel": "korimae", "avg_viewers": 46, "followers_gained": 301, "peak_viewers": 186, "hours_streamed": 182, "streams": 28, "mature": 1, "language": "English", "account_age": 1661760.0}

@@ -1,0 +1,1 @@
+{"channel": "banzoruie", "avg_viewers": 31, "followers_gained": 14, "peak_viewers": 36, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 2381760.0}

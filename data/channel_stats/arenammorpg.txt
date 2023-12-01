@@ -1,0 +1,1 @@
+{"channel": "arenammorpg", "avg_viewers": 26, "followers_gained": 70, "peak_viewers": 340, "hours_streamed": 246, "streams": 28, "mature": 0, "language": "Russian", "account_age": 1081440.0}

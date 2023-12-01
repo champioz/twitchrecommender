@@ -1,0 +1,1 @@
+{"channel": "itsloving", "avg_viewers": 6, "followers_gained": 6, "peak_viewers": 10, "hours_streamed": 9, "streams": 2, "mature": 1, "language": "German", "account_age": 2504160.0}

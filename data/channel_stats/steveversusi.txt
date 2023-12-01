@@ -1,0 +1,1 @@
+{"channel": "steveversusi", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 7, "streams": 4, "mature": 1, "language": "English", "account_age": 1837440.0}

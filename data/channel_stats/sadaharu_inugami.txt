@@ -1,0 +1,1 @@
+{"channel": "sadaharu_inugami", "avg_viewers": 6, "followers_gained": 18, "peak_viewers": 38, "hours_streamed": 74, "streams": 28, "mature": 0, "language": "Japanese", "account_age": 184320.0}

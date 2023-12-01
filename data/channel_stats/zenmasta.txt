@@ -1,0 +1,1 @@
+{"channel": "zenmasta", "avg_viewers": 45, "followers_gained": 51, "peak_viewers": 104, "hours_streamed": 48, "streams": 20, "mature": 1, "language": "Bulgarian", "account_age": 797760.0}

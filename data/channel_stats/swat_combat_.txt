@@ -1,0 +1,1 @@
+{"channel": "swat_combat_", "avg_viewers": 8, "followers_gained": 44, "peak_viewers": 63, "hours_streamed": 70, "streams": 15, "mature": 1, "language": "German", "account_age": 773280.0}

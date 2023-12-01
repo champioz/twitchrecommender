@@ -1,0 +1,1 @@
+{"channel": "gieras51", "avg_viewers": 44, "followers_gained": 726, "peak_viewers": 151, "hours_streamed": 68, "streams": 21, "mature": 0, "language": "Polish", "account_age": 4360320.0}

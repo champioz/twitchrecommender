@@ -1,0 +1,1 @@
+{"channel": "inoid", "avg_viewers": 100, "followers_gained": 6253, "peak_viewers": 223, "hours_streamed": 67, "streams": 16, "mature": 0, "language": "Arabic", "account_age": 2269440.0}

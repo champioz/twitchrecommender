@@ -1,0 +1,1 @@
+{"channel": "ellunya", "avg_viewers": 5, "followers_gained": 28, "peak_viewers": 22, "hours_streamed": 75, "streams": 20, "mature": 1, "language": "English", "account_age": 2831040.0}

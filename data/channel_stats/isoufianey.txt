@@ -1,0 +1,1 @@
+{"channel": "isoufianey", "avg_viewers": 7, "followers_gained": 68, "peak_viewers": 30, "hours_streamed": 40, "streams": 12, "mature": 0, "language": "Dutch", "account_age": 1595520.0}

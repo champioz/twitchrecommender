@@ -1,0 +1,1 @@
+{"channel": "tsm_bramachtuzi", "avg_viewers": 54, "followers_gained": 64, "peak_viewers": 148, "hours_streamed": 9, "streams": 6, "mature": 0, "language": "German", "account_age": 1189440.0}

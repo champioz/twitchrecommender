@@ -1,0 +1,1 @@
+{"channel": "iroh", "avg_viewers": 295, "followers_gained": 729, "peak_viewers": 588, "hours_streamed": 16, "streams": 6, "mature": 0, "language": "Turkish", "account_age": 879840.0}

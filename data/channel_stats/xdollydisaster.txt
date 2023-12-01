@@ -1,0 +1,1 @@
+{"channel": "xdollydisaster", "avg_viewers": 7, "followers_gained": 40, "peak_viewers": 15, "hours_streamed": 76, "streams": 27, "mature": 0, "language": "English", "account_age": 1375200.0}

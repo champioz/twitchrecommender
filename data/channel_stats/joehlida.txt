@@ -1,0 +1,1 @@
+{"channel": "joehlida", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 9, "streams": 5, "mature": 0, "language": "Portuguese", "account_age": 1370880.0}

@@ -1,0 +1,1 @@
+{"channel": "gatto", "avg_viewers": 63, "followers_gained": 74, "peak_viewers": 112, "hours_streamed": 16, "streams": 4, "mature": 0, "language": "English", "account_age": 1180800.0}

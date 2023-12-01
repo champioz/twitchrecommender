@@ -1,0 +1,1 @@
+{"channel": "itscoryb", "avg_viewers": 5, "followers_gained": 69, "peak_viewers": 23, "hours_streamed": 69, "streams": 19, "mature": 1, "language": "English", "account_age": 1992960.0}

@@ -1,0 +1,1 @@
+{"channel": "girbeagly", "avg_viewers": 39, "followers_gained": 129, "peak_viewers": 180, "hours_streamed": 56, "streams": 20, "mature": 0, "language": "English", "account_age": 3276000.0}

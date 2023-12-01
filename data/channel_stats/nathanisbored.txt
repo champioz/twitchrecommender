@@ -1,0 +1,1 @@
+{"channel": "nathanisbored", "avg_viewers": 7, "followers_gained": 4, "peak_viewers": 20, "hours_streamed": 19, "streams": 6, "mature": 1, "language": "English", "account_age": 5063040.0}

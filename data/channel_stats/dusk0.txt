@@ -1,0 +1,1 @@
+{"channel": "dusk0", "avg_viewers": 15, "followers_gained": 122, "peak_viewers": 53, "hours_streamed": 146, "streams": 33, "mature": 1, "language": "Czech", "account_age": 1582560.0}

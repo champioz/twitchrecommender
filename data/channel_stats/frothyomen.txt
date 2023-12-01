@@ -1,0 +1,1 @@
+{"channel": "frothyomen", "avg_viewers": 51, "followers_gained": 167, "peak_viewers": 138, "hours_streamed": 75, "streams": 20, "mature": 0, "language": "English", "account_age": 4114080.0}

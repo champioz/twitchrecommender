@@ -1,0 +1,1 @@
+{"channel": "raesear", "avg_viewers": 7, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 6, "streams": 1, "mature": 1, "language": "English", "account_age": 3726720.0}

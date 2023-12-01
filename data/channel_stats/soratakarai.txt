@@ -1,0 +1,1 @@
+{"channel": "soratakarai", "avg_viewers": 6, "followers_gained": 14, "peak_viewers": 20, "hours_streamed": 74, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 1258560.0}

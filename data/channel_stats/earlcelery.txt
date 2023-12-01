@@ -1,0 +1,1 @@
+{"channel": "earlcelery", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 14, "hours_streamed": 66, "streams": 15, "mature": 1, "language": "English", "account_age": 4606560.0}

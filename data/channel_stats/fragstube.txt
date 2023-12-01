@@ -1,0 +1,1 @@
+{"channel": "fragstube", "avg_viewers": 78, "followers_gained": 364, "peak_viewers": 303, "hours_streamed": 151, "streams": 26, "mature": 1, "language": "German", "account_age": 2161440.0}

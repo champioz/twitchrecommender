@@ -1,0 +1,1 @@
+{"channel": "nekhs", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 5, "hours_streamed": 42, "streams": 14, "mature": 1, "language": "English", "account_age": 3866400.0}

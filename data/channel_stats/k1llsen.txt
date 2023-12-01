@@ -1,0 +1,1 @@
+{"channel": "k1llsen", "avg_viewers": 368, "followers_gained": 1061, "peak_viewers": 1089, "hours_streamed": 50, "streams": 12, "mature": 1, "language": "English", "account_age": 3411360.0}

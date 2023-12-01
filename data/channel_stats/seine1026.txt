@@ -1,0 +1,1 @@
+{"channel": "seine1026", "avg_viewers": 68, "followers_gained": 557, "peak_viewers": 444, "hours_streamed": 194, "streams": 37, "mature": 0, "language": "Korean", "account_age": 1454400.0}

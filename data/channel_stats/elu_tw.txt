@@ -1,0 +1,1 @@
+{"channel": "elu_tw", "avg_viewers": 7, "followers_gained": 33, "peak_viewers": 22, "hours_streamed": 61, "streams": 17, "mature": 0, "language": "French", "account_age": 812160.0}

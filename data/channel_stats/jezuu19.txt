@@ -1,0 +1,1 @@
+{"channel": "jezuu19", "avg_viewers": 2, "followers_gained": 36, "peak_viewers": 13, "hours_streamed": 124, "streams": 60, "mature": 1, "language": "Spanish", "account_age": 758880.0}

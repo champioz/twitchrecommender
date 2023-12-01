@@ -1,0 +1,1 @@
+{"channel": "hatefulbox", "avg_viewers": 12, "followers_gained": 230, "peak_viewers": 44, "hours_streamed": 169, "streams": 28, "mature": 0, "language": "English", "account_age": 2373120.0}

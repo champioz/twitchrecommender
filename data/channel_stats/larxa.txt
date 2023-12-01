@@ -1,0 +1,1 @@
+{"channel": "larxa", "avg_viewers": 133, "followers_gained": 786, "peak_viewers": 367, "hours_streamed": 136, "streams": 25, "mature": 1, "language": "English", "account_age": 3096000.0}

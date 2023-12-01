@@ -1,0 +1,1 @@
+{"channel": "kttiger666", "avg_viewers": 39, "followers_gained": 162, "peak_viewers": 95, "hours_streamed": 48, "streams": 21, "mature": 1, "language": "Spanish", "account_age": 3585600.0}

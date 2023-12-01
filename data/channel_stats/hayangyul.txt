@@ -1,0 +1,1 @@
+{"channel": "hayangyul", "avg_viewers": 30, "followers_gained": 304, "peak_viewers": 60, "hours_streamed": 82, "streams": 16, "mature": 0, "language": "Korean", "account_age": 601920.0}

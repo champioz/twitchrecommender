@@ -1,0 +1,1 @@
+{"channel": "canaldomega", "avg_viewers": 40, "followers_gained": 174, "peak_viewers": 152, "hours_streamed": 68, "streams": 21, "mature": 0, "language": "Portuguese", "account_age": 3120480.0}

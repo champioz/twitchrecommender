@@ -1,0 +1,1 @@
+{"channel": "inflames289", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 2, "hours_streamed": 1, "streams": 3, "mature": 1, "language": "English", "account_age": 3021120.0}

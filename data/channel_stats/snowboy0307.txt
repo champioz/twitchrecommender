@@ -1,0 +1,1 @@
+{"channel": "snowboy0307", "avg_viewers": 5, "followers_gained": 72, "peak_viewers": 35, "hours_streamed": 63, "streams": 16, "mature": 1, "language": "French", "account_age": 2273760.0}

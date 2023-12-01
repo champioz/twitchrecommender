@@ -1,0 +1,1 @@
+{"channel": "meleeeveryday", "avg_viewers": 30, "followers_gained": 124, "peak_viewers": 533, "hours_streamed": 204, "streams": 44, "mature": 1, "language": "English", "account_age": 2102400.0}

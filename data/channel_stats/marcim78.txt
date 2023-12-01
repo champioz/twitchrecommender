@@ -1,0 +1,1 @@
+{"channel": "marcim78", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 12, "hours_streamed": 129, "streams": 81, "mature": 1, "language": "Polish", "account_age": 2422080.0}

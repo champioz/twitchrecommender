@@ -1,0 +1,1 @@
+{"channel": "srjackson", "avg_viewers": 6, "followers_gained": 96, "peak_viewers": 21, "hours_streamed": 74, "streams": 39, "mature": 0, "language": "Spanish", "account_age": 862560.0}

@@ -1,0 +1,1 @@
+{"channel": "9qoq", "avg_viewers": 391, "followers_gained": 1503, "peak_viewers": 1000, "hours_streamed": 152, "streams": 17, "mature": 1, "language": "Chinese", "account_age": 829440.0}

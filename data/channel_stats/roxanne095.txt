@@ -1,0 +1,1 @@
+{"channel": "roxanne095", "avg_viewers": 1092, "followers_gained": 528, "peak_viewers": 1398, "hours_streamed": 13, "streams": 4, "mature": 0, "language": "Chinese", "account_age": 4458240.0}

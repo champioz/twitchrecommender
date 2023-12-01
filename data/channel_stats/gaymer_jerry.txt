@@ -1,0 +1,1 @@
+{"channel": "gaymer_jerry", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 8, "hours_streamed": 9, "streams": 2, "mature": 1, "language": "English", "account_age": 2125440.0}

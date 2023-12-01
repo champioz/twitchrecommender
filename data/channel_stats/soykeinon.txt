@@ -1,0 +1,1 @@
+{"channel": "soykeinon", "avg_viewers": 5, "followers_gained": 64, "peak_viewers": 25, "hours_streamed": 97, "streams": 38, "mature": 1, "language": "Spanish", "account_age": 1464480.0}

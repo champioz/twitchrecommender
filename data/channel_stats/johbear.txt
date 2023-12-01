@@ -1,0 +1,1 @@
+{"channel": "johbear", "avg_viewers": 52, "followers_gained": 282, "peak_viewers": 1129, "hours_streamed": 29, "streams": 9, "mature": 0, "language": "English", "account_age": 3854880.0}

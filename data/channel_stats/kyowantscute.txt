@@ -1,0 +1,1 @@
+{"channel": "kyowantscute", "avg_viewers": 15, "followers_gained": 25, "peak_viewers": 94, "hours_streamed": 57, "streams": 16, "mature": 0, "language": "English", "account_age": 3864960.0}

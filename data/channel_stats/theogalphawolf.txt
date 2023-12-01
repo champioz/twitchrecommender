@@ -1,0 +1,1 @@
+{"channel": "theogalphawolf", "avg_viewers": 2, "followers_gained": 19, "peak_viewers": 12, "hours_streamed": 84, "streams": 33, "mature": 1, "language": "English", "account_age": 1650240.0}

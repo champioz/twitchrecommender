@@ -1,0 +1,1 @@
+{"channel": "sloppywalrusx", "avg_viewers": 6, "followers_gained": 104, "peak_viewers": 24, "hours_streamed": 59, "streams": 21, "mature": 0, "language": "English", "account_age": 254880.0}

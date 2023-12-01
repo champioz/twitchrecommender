@@ -1,0 +1,1 @@
+{"channel": "brionykay", "avg_viewers": 14, "followers_gained": 52, "peak_viewers": 47, "hours_streamed": 20, "streams": 8, "mature": 0, "language": "English", "account_age": 2388960.0}

@@ -1,0 +1,1 @@
+{"channel": "phantomvalkyria", "avg_viewers": 1, "followers_gained": 19, "peak_viewers": 13, "hours_streamed": 105, "streams": 35, "mature": 1, "language": "English", "account_age": 901440.0}

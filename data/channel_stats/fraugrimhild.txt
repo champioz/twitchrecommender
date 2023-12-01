@@ -1,0 +1,1 @@
+{"channel": "fraugrimhild", "avg_viewers": 42, "followers_gained": 2222, "peak_viewers": 137, "hours_streamed": 81, "streams": 24, "mature": 1, "language": "English", "account_age": 2946240.0}

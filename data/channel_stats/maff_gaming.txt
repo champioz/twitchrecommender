@@ -1,0 +1,1 @@
+{"channel": "maff_gaming", "avg_viewers": 8, "followers_gained": 5, "peak_viewers": 15, "hours_streamed": 37, "streams": 7, "mature": 1, "language": "German", "account_age": 1402560.0}

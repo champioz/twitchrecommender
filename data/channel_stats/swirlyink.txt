@@ -1,0 +1,1 @@
+{"channel": "swirlyink", "avg_viewers": 33, "followers_gained": 38, "peak_viewers": 122, "hours_streamed": 42, "streams": 8, "mature": 1, "language": "English", "account_age": 1486080.0}

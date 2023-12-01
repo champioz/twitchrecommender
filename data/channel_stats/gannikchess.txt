@@ -1,0 +1,1 @@
+{"channel": "gannikchess", "avg_viewers": 372, "followers_gained": 764, "peak_viewers": 2070, "hours_streamed": 76, "streams": 24, "mature": 0, "language": "Russian", "account_age": 1473120.0}

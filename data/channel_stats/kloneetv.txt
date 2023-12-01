@@ -1,0 +1,1 @@
+{"channel": "kloneetv", "avg_viewers": 8, "followers_gained": 35, "peak_viewers": 27, "hours_streamed": 85, "streams": 30, "mature": 1, "language": "Spanish", "account_age": 2188800.0}

@@ -1,0 +1,1 @@
+{"channel": "shipenen", "avg_viewers": 16, "followers_gained": 122, "peak_viewers": 67, "hours_streamed": 50, "streams": 15, "mature": 0, "language": "Finnish", "account_age": 708480.0}

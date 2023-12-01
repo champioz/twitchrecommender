@@ -1,0 +1,1 @@
+{"channel": "ramenos", "avg_viewers": 16, "followers_gained": 12, "peak_viewers": 47, "hours_streamed": 37, "streams": 11, "mature": 0, "language": "French", "account_age": 3597120.0}

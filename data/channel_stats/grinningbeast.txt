@@ -1,0 +1,1 @@
+{"channel": "grinningbeast", "avg_viewers": 18, "followers_gained": 90, "peak_viewers": 138, "hours_streamed": 360, "streams": 61, "mature": 0, "language": "Russian", "account_age": 172800.0}

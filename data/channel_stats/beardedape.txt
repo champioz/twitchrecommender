@@ -1,0 +1,1 @@
+{"channel": "beardedape", "avg_viewers": 0, "followers_gained": 7, "peak_viewers": 7, "hours_streamed": 109, "streams": 35, "mature": 1, "language": "French", "account_age": 3394080.0}

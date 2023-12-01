@@ -1,0 +1,1 @@
+{"channel": "kaykrisify", "avg_viewers": 110, "followers_gained": 145, "peak_viewers": 232, "hours_streamed": 128, "streams": 18, "mature": 0, "language": "English", "account_age": 3503520.0}

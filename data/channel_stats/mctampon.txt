@@ -1,0 +1,1 @@
+{"channel": "mctampon", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 47, "streams": 28, "mature": 1, "language": "Polish", "account_age": 3291840.0}

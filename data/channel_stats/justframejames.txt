@@ -1,0 +1,1 @@
+{"channel": "justframejames", "avg_viewers": 12, "followers_gained": 110, "peak_viewers": 56, "hours_streamed": 83, "streams": 24, "mature": 0, "language": "English", "account_age": 4148640.0}

@@ -1,0 +1,1 @@
+{"channel": "merlin_the", "avg_viewers": 4, "followers_gained": 59, "peak_viewers": 17, "hours_streamed": 175, "streams": 40, "mature": 0, "language": "English", "account_age": 226080.0}

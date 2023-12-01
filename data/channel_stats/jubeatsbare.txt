@@ -1,0 +1,1 @@
+{"channel": "jubeatsbare", "avg_viewers": 5, "followers_gained": 88, "peak_viewers": 48, "hours_streamed": 44, "streams": 20, "mature": 0, "language": "English", "account_age": 2286720.0}

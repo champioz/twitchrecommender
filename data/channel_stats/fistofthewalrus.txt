@@ -1,0 +1,1 @@
+{"channel": "fistofthewalrus", "avg_viewers": 208, "followers_gained": 676, "peak_viewers": 505, "hours_streamed": 165, "streams": 25, "mature": 1, "language": "English", "account_age": 2802240.0}

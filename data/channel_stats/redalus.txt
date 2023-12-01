@@ -1,0 +1,1 @@
+{"channel": "redalus", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 9, "streams": 6, "mature": 1, "language": "English", "account_age": 4010400.0}

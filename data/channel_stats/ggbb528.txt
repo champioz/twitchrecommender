@@ -1,0 +1,1 @@
+{"channel": "ggbb528", "avg_viewers": 1418, "followers_gained": 1362, "peak_viewers": 5357, "hours_streamed": 98, "streams": 24, "mature": 0, "language": "Chinese", "account_age": 3653280.0}

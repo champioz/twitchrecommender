@@ -1,0 +1,1 @@
+{"channel": "thatkat", "avg_viewers": 16, "followers_gained": 13, "peak_viewers": 52, "hours_streamed": 13, "streams": 5, "mature": 1, "language": "English", "account_age": 1831680.0}

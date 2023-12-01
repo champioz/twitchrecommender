@@ -1,0 +1,1 @@
+{"channel": "tasteslikesalt", "avg_viewers": 26, "followers_gained": 563, "peak_viewers": 141, "hours_streamed": 142, "streams": 17, "mature": 1, "language": "English", "account_age": 2054880.0}

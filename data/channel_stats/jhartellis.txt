@@ -1,0 +1,1 @@
+{"channel": "jhartellis", "avg_viewers": 88, "followers_gained": 213, "peak_viewers": 203, "hours_streamed": 57, "streams": 18, "mature": 0, "language": "English", "account_age": 2033280.0}

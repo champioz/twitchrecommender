@@ -1,0 +1,1 @@
+{"channel": "szukerek", "avg_viewers": 21, "followers_gained": 79, "peak_viewers": 104, "hours_streamed": 37, "streams": 14, "mature": 0, "language": "Polish", "account_age": 2128320.0}

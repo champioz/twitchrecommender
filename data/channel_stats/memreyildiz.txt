@@ -1,0 +1,1 @@
+{"channel": "memreyildiz", "avg_viewers": 538, "followers_gained": 7880, "peak_viewers": 1574, "hours_streamed": 44, "streams": 16, "mature": 1, "language": "Turkish", "account_age": 800640.0}

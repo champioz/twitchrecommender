@@ -1,0 +1,1 @@
+{"channel": "marc_34x", "avg_viewers": 2, "followers_gained": 13, "peak_viewers": 12, "hours_streamed": 17, "streams": 13, "mature": 0, "language": "English", "account_age": 650880.0}

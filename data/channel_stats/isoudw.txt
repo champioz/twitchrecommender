@@ -1,0 +1,1 @@
+{"channel": "isoudw", "avg_viewers": 13, "followers_gained": 14, "peak_viewers": 24, "hours_streamed": 4, "streams": 4, "mature": 1, "language": "French", "account_age": 4420800.0}

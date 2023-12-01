@@ -1,0 +1,1 @@
+{"channel": "znowdog_", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 5, "hours_streamed": 12, "streams": 10, "mature": 0, "language": "German", "account_age": 308160.0}

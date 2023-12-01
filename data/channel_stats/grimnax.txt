@@ -1,0 +1,1 @@
+{"channel": "grimnax", "avg_viewers": 2340, "followers_gained": 18969, "peak_viewers": 11128, "hours_streamed": 192, "streams": 32, "mature": 0, "language": "Turkish", "account_age": 4646880.0}

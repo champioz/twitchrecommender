@@ -1,0 +1,1 @@
+{"channel": "zemrics", "avg_viewers": 17, "followers_gained": 174, "peak_viewers": 90, "hours_streamed": 30, "streams": 10, "mature": 0, "language": "English", "account_age": 2989440.0}

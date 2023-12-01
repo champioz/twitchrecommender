@@ -1,0 +1,1 @@
+{"channel": "dacchei", "avg_viewers": 65, "followers_gained": 370, "peak_viewers": 129, "hours_streamed": 32, "streams": 11, "mature": 1, "language": "English", "account_age": 3019680.0}

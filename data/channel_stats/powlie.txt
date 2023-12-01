@@ -1,0 +1,1 @@
+{"channel": "powlie", "avg_viewers": 181, "followers_gained": 45, "peak_viewers": 854, "hours_streamed": 6, "streams": 1, "mature": 1, "language": "Polish", "account_age": 3663360.0}

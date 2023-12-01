@@ -1,0 +1,1 @@
+{"channel": "wildlands", "avg_viewers": 133, "followers_gained": 99, "peak_viewers": 379, "hours_streamed": 275, "streams": 32, "mature": 0, "language": "English", "account_age": 3180960.0}

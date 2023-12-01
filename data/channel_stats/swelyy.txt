@@ -1,0 +1,1 @@
+{"channel": "swelyy", "avg_viewers": 752, "followers_gained": 9235, "peak_viewers": 3248, "hours_streamed": 20, "streams": 8, "mature": 0, "language": "Arabic", "account_age": 790560.0}

@@ -1,0 +1,1 @@
+{"channel": "dangenentertainment", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 6, "hours_streamed": 8, "streams": 7, "mature": 1, "language": "English", "account_age": 1031040.0}

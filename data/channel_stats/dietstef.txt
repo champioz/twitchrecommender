@@ -1,0 +1,1 @@
+{"channel": "dietstef", "avg_viewers": 23, "followers_gained": 21, "peak_viewers": 50, "hours_streamed": 29, "streams": 10, "mature": 1, "language": "English", "account_age": 1319040.0}

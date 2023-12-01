@@ -1,0 +1,1 @@
+{"channel": "cedii_kingsley", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 15, "hours_streamed": 23, "streams": 7, "mature": 1, "language": "German", "account_age": 1792800.0}

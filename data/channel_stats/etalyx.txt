@@ -1,0 +1,1 @@
+{"channel": "etalyx", "avg_viewers": 278, "followers_gained": 347, "peak_viewers": 697, "hours_streamed": 146, "streams": 18, "mature": 0, "language": "English", "account_age": 3934080.0}

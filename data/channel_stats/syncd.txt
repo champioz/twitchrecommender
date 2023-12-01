@@ -1,0 +1,1 @@
+{"channel": "syncd", "avg_viewers": 6, "followers_gained": 8, "peak_viewers": 16, "hours_streamed": 9, "streams": 5, "mature": 0, "language": "German", "account_age": 2286720.0}

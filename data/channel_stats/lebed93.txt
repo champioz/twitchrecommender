@@ -1,0 +1,1 @@
+{"channel": "lebed93", "avg_viewers": 647, "followers_gained": 448, "peak_viewers": 1217, "hours_streamed": 83, "streams": 15, "mature": 1, "language": "Ukrainian", "account_age": 3399840.0}

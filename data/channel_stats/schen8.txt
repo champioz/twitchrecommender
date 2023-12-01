@@ -1,0 +1,1 @@
+{"channel": "schen8", "avg_viewers": 17, "followers_gained": 57, "peak_viewers": 62, "hours_streamed": 76, "streams": 20, "mature": 1, "language": "English", "account_age": 2227680.0}

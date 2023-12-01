@@ -1,0 +1,1 @@
+{"channel": "shironamie", "avg_viewers": 19, "followers_gained": 339, "peak_viewers": 43, "hours_streamed": 124, "streams": 40, "mature": 1, "language": "French", "account_age": 2832480.0}

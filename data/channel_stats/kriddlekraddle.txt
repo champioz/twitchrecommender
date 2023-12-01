@@ -1,0 +1,1 @@
+{"channel": "kriddlekraddle", "avg_viewers": 21, "followers_gained": 41, "peak_viewers": 84, "hours_streamed": 486, "streams": 33, "mature": 0, "language": "English", "account_age": 3335040.0}

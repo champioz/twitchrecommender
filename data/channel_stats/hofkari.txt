@@ -1,0 +1,1 @@
+{"channel": "hofkari", "avg_viewers": 67, "followers_gained": 300, "peak_viewers": 154, "hours_streamed": 134, "streams": 47, "mature": 1, "language": "Spanish", "account_age": 2882880.0}

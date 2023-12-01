@@ -1,0 +1,1 @@
+{"channel": "partykat62", "avg_viewers": 7, "followers_gained": 8, "peak_viewers": 15, "hours_streamed": 25, "streams": 8, "mature": 1, "language": "English", "account_age": 864000.0}

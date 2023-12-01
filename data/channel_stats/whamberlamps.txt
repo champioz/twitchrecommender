@@ -1,0 +1,1 @@
+{"channel": "whamberlamps", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 12, "streams": 18, "mature": 0, "language": "English", "account_age": 1962720.0}

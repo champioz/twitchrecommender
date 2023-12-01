@@ -1,0 +1,1 @@
+{"channel": "ragemichaelis", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 31, "hours_streamed": 10, "streams": 2, "mature": 1, "language": "English", "account_age": 2200320.0}

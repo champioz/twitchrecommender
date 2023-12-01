@@ -1,0 +1,1 @@
+{"channel": "killerlady12", "avg_viewers": 28, "followers_gained": 64, "peak_viewers": 76, "hours_streamed": 68, "streams": 17, "mature": 1, "language": "German", "account_age": 1825920.0}

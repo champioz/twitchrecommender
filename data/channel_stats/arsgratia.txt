@@ -1,0 +1,1 @@
+{"channel": "arsgratia", "avg_viewers": 6, "followers_gained": 61, "peak_viewers": 102, "hours_streamed": 82, "streams": 22, "mature": 1, "language": "Russian", "account_age": 2243520.0}

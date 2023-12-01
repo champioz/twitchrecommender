@@ -1,0 +1,1 @@
+{"channel": "reborn_frog", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 19, "hours_streamed": 25, "streams": 12, "mature": 0, "language": "Japanese", "account_age": 2566080.0}

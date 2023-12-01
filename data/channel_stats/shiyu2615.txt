@@ -1,0 +1,1 @@
+{"channel": "shiyu2615", "avg_viewers": 61, "followers_gained": 153, "peak_viewers": 180, "hours_streamed": 402, "streams": 36, "mature": 0, "language": "Chinese", "account_age": 2511360.0}

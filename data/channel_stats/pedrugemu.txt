@@ -1,0 +1,1 @@
+{"channel": "pedrugemu", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 9, "hours_streamed": 38, "streams": 15, "mature": 1, "language": "Spanish", "account_age": 1222560.0}

@@ -1,0 +1,1 @@
+{"channel": "lunksauce", "avg_viewers": 29, "followers_gained": 64, "peak_viewers": 115, "hours_streamed": 107, "streams": 15, "mature": 1, "language": "English", "account_age": 1097280.0}

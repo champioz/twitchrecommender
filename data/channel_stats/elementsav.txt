@@ -1,0 +1,1 @@
+{"channel": "elementsav", "avg_viewers": 3, "followers_gained": 9, "peak_viewers": 9, "hours_streamed": 122, "streams": 24, "mature": 0, "language": "Norwegian", "account_age": 1912320.0}

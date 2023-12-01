@@ -1,0 +1,1 @@
+{"channel": "tkdgus296", "avg_viewers": 44, "followers_gained": 845, "peak_viewers": 109, "hours_streamed": 69, "streams": 21, "mature": 0, "language": "Korean", "account_age": 747360.0}

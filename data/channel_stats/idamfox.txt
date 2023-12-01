@@ -1,0 +1,1 @@
+{"channel": "idamfox", "avg_viewers": 5, "followers_gained": 141, "peak_viewers": 41, "hours_streamed": 131, "streams": 31, "mature": 1, "language": "Spanish", "account_age": 3176640.0}

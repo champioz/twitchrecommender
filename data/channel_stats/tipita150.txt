@@ -1,0 +1,1 @@
+{"channel": "tipita150", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 16, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "French", "account_age": 1510560.0}

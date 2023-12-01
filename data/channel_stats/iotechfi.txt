@@ -1,0 +1,1 @@
+{"channel": "iotechfi", "avg_viewers": 222, "followers_gained": 31, "peak_viewers": 280, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "Finnish", "account_age": 714240.0}

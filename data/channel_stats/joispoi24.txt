@@ -1,0 +1,1 @@
+{"channel": "joispoi24", "avg_viewers": 49, "followers_gained": 1329, "peak_viewers": 103, "hours_streamed": 99, "streams": 35, "mature": 0, "language": "English", "account_age": 3116160.0}

@@ -1,0 +1,1 @@
+{"channel": "user_t3st", "avg_viewers": 4, "followers_gained": 37, "peak_viewers": 22, "hours_streamed": 63, "streams": 25, "mature": 0, "language": "Polish", "account_age": 2329920.0}

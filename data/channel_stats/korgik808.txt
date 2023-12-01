@@ -1,0 +1,1 @@
+{"channel": "korgik808", "avg_viewers": 9, "followers_gained": 39, "peak_viewers": 146, "hours_streamed": 122, "streams": 24, "mature": 0, "language": "Russian", "account_age": 784800.0}

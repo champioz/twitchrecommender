@@ -1,0 +1,1 @@
+{"channel": "chasingcarrots", "avg_viewers": 12, "followers_gained": 28, "peak_viewers": 44, "hours_streamed": 17, "streams": 9, "mature": 0, "language": "English", "account_age": 1645920.0}

@@ -1,0 +1,1 @@
+{"channel": "elpcngr", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 14, "hours_streamed": 10, "streams": 6, "mature": 0, "language": "Japanese", "account_age": 254880.0}

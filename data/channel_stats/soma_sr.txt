@@ -1,0 +1,1 @@
+{"channel": "soma_sr", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 23, "hours_streamed": 44, "streams": 27, "mature": 0, "language": "French", "account_age": 2599200.0}

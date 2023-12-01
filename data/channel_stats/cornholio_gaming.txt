@@ -1,0 +1,1 @@
+{"channel": "cornholio_gaming", "avg_viewers": 12, "followers_gained": 38, "peak_viewers": 29, "hours_streamed": 88, "streams": 15, "mature": 1, "language": "German", "account_age": 2545920.0}

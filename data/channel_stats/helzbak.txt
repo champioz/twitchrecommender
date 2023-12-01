@@ -1,0 +1,1 @@
+{"channel": "helzbak", "avg_viewers": 24, "followers_gained": 153, "peak_viewers": 86, "hours_streamed": 38, "streams": 20, "mature": 0, "language": "French", "account_age": 1906560.0}

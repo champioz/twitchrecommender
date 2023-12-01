@@ -1,0 +1,1 @@
+{"channel": "sinchus", "avg_viewers": 5, "followers_gained": 40, "peak_viewers": 22, "hours_streamed": 185, "streams": 24, "mature": 0, "language": "Russian", "account_age": 2832480.0}

@@ -1,0 +1,1 @@
+{"channel": "domminez", "avg_viewers": 8, "followers_gained": 23, "peak_viewers": 23, "hours_streamed": 6, "streams": 5, "mature": 0, "language": "Swedish", "account_age": 544320.0}

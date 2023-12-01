@@ -1,0 +1,1 @@
+{"channel": "thebrosavelt", "avg_viewers": 10, "followers_gained": 35, "peak_viewers": 26, "hours_streamed": 34, "streams": 15, "mature": 1, "language": "English", "account_age": 851040.0}

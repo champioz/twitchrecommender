@@ -1,0 +1,1 @@
+{"channel": "luki", "avg_viewers": 33, "followers_gained": 57, "peak_viewers": 189, "hours_streamed": 134, "streams": 24, "mature": 0, "language": "English", "account_age": 1362240.0}

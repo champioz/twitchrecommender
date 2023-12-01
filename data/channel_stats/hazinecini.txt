@@ -1,0 +1,1 @@
+{"channel": "hazinecini", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 390, "hours_streamed": 73, "streams": 30, "mature": 1, "language": "Turkish", "account_age": 675360.0}

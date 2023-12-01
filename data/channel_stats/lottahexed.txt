@@ -1,0 +1,1 @@
+{"channel": "lottahexed", "avg_viewers": 13, "followers_gained": 3, "peak_viewers": 94, "hours_streamed": 11, "streams": 4, "mature": 1, "language": "Russian", "account_age": 2949120.0}

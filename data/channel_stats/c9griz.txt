@@ -1,0 +1,1 @@
+{"channel": "c9griz", "avg_viewers": 9, "followers_gained": 126, "peak_viewers": 69, "hours_streamed": 202, "streams": 26, "mature": 0, "language": "Polish", "account_age": 2999520.0}

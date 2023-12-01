@@ -1,0 +1,1 @@
+{"channel": "mellana", "avg_viewers": 129, "followers_gained": 694, "peak_viewers": 324, "hours_streamed": 104, "streams": 19, "mature": 0, "language": "English", "account_age": 2836800.0}

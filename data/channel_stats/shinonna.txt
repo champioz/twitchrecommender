@@ -1,0 +1,1 @@
+{"channel": "shinonna", "avg_viewers": 18, "followers_gained": 18, "peak_viewers": 52, "hours_streamed": 27, "streams": 6, "mature": 1, "language": "Bulgarian", "account_age": 2557440.0}

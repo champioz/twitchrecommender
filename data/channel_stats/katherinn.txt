@@ -1,0 +1,1 @@
+{"channel": "katherinn", "avg_viewers": 19, "followers_gained": 411, "peak_viewers": 226, "hours_streamed": 85, "streams": 17, "mature": 1, "language": "Spanish", "account_age": 1700640.0}

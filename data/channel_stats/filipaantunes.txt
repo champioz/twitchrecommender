@@ -1,0 +1,1 @@
+{"channel": "filipaantunes", "avg_viewers": 52, "followers_gained": 473, "peak_viewers": 771, "hours_streamed": 66, "streams": 13, "mature": 0, "language": "Portuguese", "account_age": 3372480.0}

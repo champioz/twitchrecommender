@@ -1,0 +1,1 @@
+{"channel": "g9074552", "avg_viewers": 21, "followers_gained": 37, "peak_viewers": 56, "hours_streamed": 138, "streams": 38, "mature": 0, "language": "Chinese", "account_age": 4154400.0}

@@ -1,0 +1,1 @@
+{"channel": "wot_lifelines", "avg_viewers": 18, "followers_gained": 34, "peak_viewers": 67, "hours_streamed": 96, "streams": 20, "mature": 1, "language": "German", "account_age": 1908000.0}

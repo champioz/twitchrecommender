@@ -1,0 +1,1 @@
+{"channel": "hatschyuh", "avg_viewers": 45, "followers_gained": 284, "peak_viewers": 242, "hours_streamed": 104, "streams": 22, "mature": 0, "language": "English", "account_age": 1304640.0}

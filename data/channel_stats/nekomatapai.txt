@@ -1,0 +1,1 @@
+{"channel": "nekomatapai", "avg_viewers": 13, "followers_gained": 93, "peak_viewers": 30, "hours_streamed": 108, "streams": 21, "mature": 1, "language": "English", "account_age": 2463840.0}

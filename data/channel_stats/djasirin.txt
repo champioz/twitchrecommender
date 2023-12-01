@@ -1,0 +1,1 @@
+{"channel": "djasirin", "avg_viewers": 10, "followers_gained": 44, "peak_viewers": 27, "hours_streamed": 80, "streams": 19, "mature": 1, "language": "English", "account_age": 2206080.0}

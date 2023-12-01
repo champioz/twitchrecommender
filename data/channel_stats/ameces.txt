@@ -1,0 +1,1 @@
+{"channel": "ameces", "avg_viewers": 21, "followers_gained": 69, "peak_viewers": 73, "hours_streamed": 94, "streams": 16, "mature": 1, "language": "Finnish", "account_age": 3467520.0}

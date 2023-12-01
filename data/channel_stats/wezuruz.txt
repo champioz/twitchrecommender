@@ -1,0 +1,1 @@
+{"channel": "wezuruz", "avg_viewers": 0, "followers_gained": 15, "peak_viewers": 8, "hours_streamed": 69, "streams": 37, "mature": 0, "language": "Portuguese", "account_age": 1421280.0}

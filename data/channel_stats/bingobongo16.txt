@@ -1,0 +1,1 @@
+{"channel": "bingobongo16", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 12, "hours_streamed": 53, "streams": 20, "mature": 1, "language": "German", "account_age": 744480.0}

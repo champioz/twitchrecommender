@@ -1,0 +1,1 @@
+{"channel": "anytimeshield", "avg_viewers": 179, "followers_gained": 4229, "peak_viewers": 724, "hours_streamed": 286, "streams": 40, "mature": 0, "language": "Spanish", "account_age": 1887840.0}

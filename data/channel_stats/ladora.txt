@@ -1,0 +1,1 @@
+{"channel": "ladora", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 8, "hours_streamed": 30, "streams": 11, "mature": 1, "language": "English", "account_age": 460800.0}

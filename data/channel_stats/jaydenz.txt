@@ -1,0 +1,1 @@
+{"channel": "jaydenz", "avg_viewers": 18, "followers_gained": 37, "peak_viewers": 41, "hours_streamed": 45, "streams": 12, "mature": 0, "language": "English", "account_age": 1874880.0}

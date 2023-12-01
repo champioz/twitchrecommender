@@ -1,0 +1,1 @@
+{"channel": "brinjolf85", "avg_viewers": 1, "followers_gained": 11, "peak_viewers": 5, "hours_streamed": 23, "streams": 6, "mature": 1, "language": "Italian", "account_age": 1964160.0}

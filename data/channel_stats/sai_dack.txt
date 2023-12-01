@@ -1,0 +1,1 @@
+{"channel": "sai_dack", "avg_viewers": 5, "followers_gained": 19, "peak_viewers": 21, "hours_streamed": 17, "streams": 8, "mature": 0, "language": "Spanish", "account_age": 2527200.0}

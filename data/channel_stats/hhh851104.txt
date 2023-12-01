@@ -1,0 +1,1 @@
+{"channel": "hhh851104", "avg_viewers": 3, "followers_gained": 10, "peak_viewers": 12, "hours_streamed": 79, "streams": 18, "mature": 0, "language": "Korean", "account_age": 865440.0}

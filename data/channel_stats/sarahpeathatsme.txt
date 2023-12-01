@@ -1,0 +1,1 @@
+{"channel": "sarahpeathatsme", "avg_viewers": 44, "followers_gained": 29, "peak_viewers": 105, "hours_streamed": 34, "streams": 5, "mature": 1, "language": "English", "account_age": 1903680.0}

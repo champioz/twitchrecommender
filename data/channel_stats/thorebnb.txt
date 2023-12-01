@@ -1,0 +1,1 @@
+{"channel": "thorebnb", "avg_viewers": 11, "followers_gained": 126, "peak_viewers": 96, "hours_streamed": 158, "streams": 29, "mature": 1, "language": "German", "account_age": 655200.0}

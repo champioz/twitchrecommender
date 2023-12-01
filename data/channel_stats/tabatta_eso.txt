@@ -1,0 +1,1 @@
+{"channel": "tabatta_eso", "avg_viewers": 43, "followers_gained": 120, "peak_viewers": 70, "hours_streamed": 36, "streams": 14, "mature": 0, "language": "English", "account_age": 986400.0}

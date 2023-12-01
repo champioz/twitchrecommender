@@ -1,0 +1,1 @@
+{"channel": "bettinghub", "avg_viewers": 22, "followers_gained": 19, "peak_viewers": 43, "hours_streamed": 11, "streams": 5, "mature": 1, "language": "English", "account_age": 2736000.0}

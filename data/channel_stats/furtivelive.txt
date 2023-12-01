@@ -1,0 +1,1 @@
+{"channel": "furtivelive", "avg_viewers": 50, "followers_gained": 130, "peak_viewers": 105, "hours_streamed": 102, "streams": 19, "mature": 0, "language": "English", "account_age": 1254240.0}

@@ -1,0 +1,1 @@
+{"channel": "kingmak91", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 20, "hours_streamed": 16, "streams": 5, "mature": 1, "language": "English", "account_age": 488160.0}

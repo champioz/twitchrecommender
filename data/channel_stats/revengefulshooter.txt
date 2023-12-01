@@ -1,0 +1,1 @@
+{"channel": "revengefulshooter", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 31, "streams": 13, "mature": 1, "language": "English", "account_age": 1029600.0}

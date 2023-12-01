@@ -1,0 +1,1 @@
+{"channel": "7ezgamegg", "avg_viewers": 4, "followers_gained": 106, "peak_viewers": 44, "hours_streamed": 39, "streams": 26, "mature": 0, "language": "Bulgarian", "account_age": 1386720.0}

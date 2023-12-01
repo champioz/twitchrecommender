@@ -1,0 +1,1 @@
+{"channel": "aaleiix", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 5, "hours_streamed": 34, "streams": 16, "mature": 0, "language": "French", "account_age": 3738240.0}

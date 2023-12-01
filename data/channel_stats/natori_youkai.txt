@@ -1,0 +1,1 @@
+{"channel": "natori_youkai", "avg_viewers": 8, "followers_gained": 16, "peak_viewers": 22, "hours_streamed": 242, "streams": 35, "mature": 1, "language": "Chinese", "account_age": 1306080.0}

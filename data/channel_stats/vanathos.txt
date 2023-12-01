@@ -1,0 +1,1 @@
+{"channel": "vanathos", "avg_viewers": 15, "followers_gained": 11, "peak_viewers": 43, "hours_streamed": 36, "streams": 12, "mature": 1, "language": "Polish", "account_age": 2975040.0}

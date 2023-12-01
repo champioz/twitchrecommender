@@ -1,0 +1,1 @@
+{"channel": "yiin_", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 35, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 1294560.0}

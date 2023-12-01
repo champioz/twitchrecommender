@@ -1,0 +1,1 @@
+{"channel": "smkog", "avg_viewers": 10, "followers_gained": 18, "peak_viewers": 22, "hours_streamed": 32, "streams": 5, "mature": 0, "language": "English", "account_age": 3926880.0}

@@ -1,0 +1,1 @@
+{"channel": "formacaofireball", "avg_viewers": 86, "followers_gained": 59, "peak_viewers": 115, "hours_streamed": 7, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 2594880.0}

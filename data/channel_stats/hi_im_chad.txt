@@ -1,0 +1,1 @@
+{"channel": "hi_im_chad", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 12, "hours_streamed": 30, "streams": 11, "mature": 1, "language": "English", "account_age": 3283200.0}

@@ -1,0 +1,1 @@
+{"channel": "ayyitzm3h", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 9, "hours_streamed": 114, "streams": 41, "mature": 1, "language": "English", "account_age": 450720.0}

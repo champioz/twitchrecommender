@@ -1,0 +1,1 @@
+{"channel": "stroothalm", "avg_viewers": 18, "followers_gained": 970, "peak_viewers": 68, "hours_streamed": 104, "streams": 16, "mature": 0, "language": "German", "account_age": 727200.0}

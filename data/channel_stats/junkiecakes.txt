@@ -1,0 +1,1 @@
+{"channel": "junkiecakes", "avg_viewers": 37, "followers_gained": 145, "peak_viewers": 227, "hours_streamed": 99, "streams": 24, "mature": 1, "language": "French", "account_age": 3080160.0}

@@ -1,0 +1,1 @@
+{"channel": "dwp1992", "avg_viewers": 9, "followers_gained": 23, "peak_viewers": 27, "hours_streamed": 28, "streams": 9, "mature": 0, "language": "English", "account_age": 3127680.0}

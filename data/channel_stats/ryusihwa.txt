@@ -1,0 +1,1 @@
+{"channel": "ryusihwa", "avg_viewers": 24, "followers_gained": 10, "peak_viewers": 53, "hours_streamed": 40, "streams": 9, "mature": 0, "language": "Korean", "account_age": 3129120.0}

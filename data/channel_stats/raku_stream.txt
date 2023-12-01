@@ -1,0 +1,1 @@
+{"channel": "raku_stream", "avg_viewers": 7, "followers_gained": 116, "peak_viewers": 25, "hours_streamed": 61, "streams": 19, "mature": 0, "language": "Spanish", "account_age": 594720.0}

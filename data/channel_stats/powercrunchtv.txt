@@ -1,0 +1,1 @@
+{"channel": "powercrunchtv", "avg_viewers": 23, "followers_gained": 62, "peak_viewers": 67, "hours_streamed": 102, "streams": 22, "mature": 1, "language": "English", "account_age": 1483200.0}

@@ -1,0 +1,1 @@
+{"channel": "rkdxoals0409", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 12, "hours_streamed": 63, "streams": 28, "mature": 0, "language": "Korean", "account_age": 1421280.0}

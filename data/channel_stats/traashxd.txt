@@ -1,0 +1,1 @@
+{"channel": "traashxd", "avg_viewers": 21, "followers_gained": 403, "peak_viewers": 46, "hours_streamed": 59, "streams": 12, "mature": 0, "language": "German", "account_age": 718560.0}

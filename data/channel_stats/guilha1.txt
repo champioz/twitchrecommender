@@ -1,0 +1,1 @@
+{"channel": "guilha1", "avg_viewers": 6, "followers_gained": 26, "peak_viewers": 15, "hours_streamed": 14, "streams": 5, "mature": 0, "language": "Portuguese", "account_age": 3713760.0}

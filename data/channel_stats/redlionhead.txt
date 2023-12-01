@@ -1,0 +1,1 @@
+{"channel": "redlionhead", "avg_viewers": 8, "followers_gained": 35, "peak_viewers": 23, "hours_streamed": 61, "streams": 17, "mature": 1, "language": "English", "account_age": 2576160.0}

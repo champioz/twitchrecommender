@@ -1,0 +1,1 @@
+{"channel": "eckocharlie72", "avg_viewers": 3, "followers_gained": 88, "peak_viewers": 112, "hours_streamed": 266, "streams": 77, "mature": 1, "language": "Spanish", "account_age": 999360.0}

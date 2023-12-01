@@ -1,0 +1,1 @@
+{"channel": "kartagaie49", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 8, "hours_streamed": 50, "streams": 22, "mature": 1, "language": "Chinese", "account_age": 3762720.0}

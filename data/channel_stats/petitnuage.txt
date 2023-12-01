@@ -1,0 +1,1 @@
+{"channel": "petitnuage", "avg_viewers": 15, "followers_gained": 43, "peak_viewers": 47, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "French", "account_age": 2291040.0}

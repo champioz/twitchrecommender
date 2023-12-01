@@ -1,0 +1,1 @@
+{"channel": "paradizzofps", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 10, "streams": 7, "mature": 0, "language": "Portuguese", "account_age": 1288800.0}

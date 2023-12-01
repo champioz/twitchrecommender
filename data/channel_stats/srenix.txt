@@ -1,0 +1,1 @@
+{"channel": "srenix", "avg_viewers": 89, "followers_gained": 198, "peak_viewers": 174, "hours_streamed": 62, "streams": 17, "mature": 0, "language": "English", "account_age": 912960.0}

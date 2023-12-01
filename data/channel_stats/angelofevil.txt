@@ -1,0 +1,1 @@
+{"channel": "angelofevil", "avg_viewers": 12, "followers_gained": 474, "peak_viewers": 41, "hours_streamed": 240, "streams": 50, "mature": 1, "language": "Italian", "account_age": 707040.0}

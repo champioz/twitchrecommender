@@ -1,0 +1,1 @@
+{"channel": "kingmotu", "avg_viewers": 0, "followers_gained": 13, "peak_viewers": 6, "hours_streamed": 45, "streams": 15, "mature": 1, "language": "German", "account_age": 1814400.0}

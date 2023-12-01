@@ -1,0 +1,1 @@
+{"channel": "cpt_memoo", "avg_viewers": 89, "followers_gained": 148, "peak_viewers": 165, "hours_streamed": 63, "streams": 17, "mature": 0, "language": "Turkish", "account_age": 1794240.0}

@@ -1,0 +1,1 @@
+{"channel": "huggbeestv", "avg_viewers": 139, "followers_gained": 541, "peak_viewers": 313, "hours_streamed": 77, "streams": 19, "mature": 0, "language": "English", "account_age": 1762560.0}

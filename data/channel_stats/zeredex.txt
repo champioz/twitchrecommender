@@ -1,0 +1,1 @@
+{"channel": "zeredex", "avg_viewers": 5, "followers_gained": 10, "peak_viewers": 14, "hours_streamed": 54, "streams": 23, "mature": 1, "language": "English", "account_age": 3012480.0}

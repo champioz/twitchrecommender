@@ -1,0 +1,1 @@
+{"channel": "chris_low", "avg_viewers": 21, "followers_gained": 29, "peak_viewers": 48, "hours_streamed": 40, "streams": 12, "mature": 0, "language": "Russian", "account_age": 2226240.0}

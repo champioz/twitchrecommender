@@ -1,0 +1,1 @@
+{"channel": "chaxten", "avg_viewers": 2, "followers_gained": 30, "peak_viewers": 10, "hours_streamed": 81, "streams": 23, "mature": 0, "language": "English", "account_age": 838080.0}

@@ -1,0 +1,1 @@
+{"channel": "sevenjungle", "avg_viewers": 77, "followers_gained": 298, "peak_viewers": 112, "hours_streamed": 16, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 1353600.0}

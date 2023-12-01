@@ -1,0 +1,1 @@
+{"channel": "mingbeom", "avg_viewers": 14, "followers_gained": 31, "peak_viewers": 54, "hours_streamed": 313, "streams": 31, "mature": 0, "language": "Korean", "account_age": 1193760.0}

@@ -1,0 +1,1 @@
+{"channel": "thisisyur4", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 0, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "Russian", "account_age": 666720.0}

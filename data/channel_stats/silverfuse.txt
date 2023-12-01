@@ -1,0 +1,1 @@
+{"channel": "silverfuse", "avg_viewers": 48, "followers_gained": 16, "peak_viewers": 97, "hours_streamed": 18, "streams": 5, "mature": 0, "language": "English", "account_age": 3327840.0}

@@ -1,0 +1,1 @@
+{"channel": "lyon3k", "avg_viewers": 30, "followers_gained": 110, "peak_viewers": 76, "hours_streamed": 72, "streams": 16, "mature": 1, "language": "Chinese", "account_age": 1936800.0}

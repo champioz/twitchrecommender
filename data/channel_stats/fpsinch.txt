@@ -1,0 +1,1 @@
+{"channel": "fpsinch", "avg_viewers": 8, "followers_gained": 57, "peak_viewers": 33, "hours_streamed": 92, "streams": 39, "mature": 1, "language": "English", "account_age": 2619360.0}

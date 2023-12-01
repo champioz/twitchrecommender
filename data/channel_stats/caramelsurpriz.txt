@@ -1,0 +1,1 @@
+{"channel": "caramelsurpriz", "avg_viewers": 23, "followers_gained": 91, "peak_viewers": 68, "hours_streamed": 112, "streams": 15, "mature": 1, "language": "English", "account_age": 1916640.0}

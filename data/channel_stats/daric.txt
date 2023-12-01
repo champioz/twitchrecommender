@@ -1,0 +1,1 @@
+{"channel": "daric", "avg_viewers": 37, "followers_gained": 66, "peak_viewers": 89, "hours_streamed": 63, "streams": 16, "mature": 0, "language": "English", "account_age": 2121120.0}

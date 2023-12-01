@@ -1,0 +1,1 @@
+{"channel": "xicoolol", "avg_viewers": 75, "followers_gained": 127, "peak_viewers": 371, "hours_streamed": 45, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 3293280.0}

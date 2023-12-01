@@ -1,0 +1,1 @@
+{"channel": "leya_si", "avg_viewers": 9, "followers_gained": 38, "peak_viewers": 24, "hours_streamed": 76, "streams": 22, "mature": 1, "language": "English", "account_age": 3384000.0}

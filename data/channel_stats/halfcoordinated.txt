@@ -1,0 +1,1 @@
+{"channel": "halfcoordinated", "avg_viewers": 23, "followers_gained": 26, "peak_viewers": 42, "hours_streamed": 113, "streams": 22, "mature": 0, "language": "English", "account_age": 5137920.0}

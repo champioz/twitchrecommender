@@ -1,0 +1,1 @@
+{"channel": "thefirstjosh", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 60, "streams": 17, "mature": 0, "language": "English", "account_age": 3192480.0}

@@ -1,0 +1,1 @@
+{"channel": "nerineri", "avg_viewers": 31, "followers_gained": 9, "peak_viewers": 56, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "English", "account_age": 1506240.0}

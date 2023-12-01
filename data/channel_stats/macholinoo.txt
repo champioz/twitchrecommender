@@ -1,0 +1,1 @@
+{"channel": "macholinoo", "avg_viewers": 210, "followers_gained": 613, "peak_viewers": 534, "hours_streamed": 106, "streams": 18, "mature": 1, "language": "German", "account_age": 1611360.0}

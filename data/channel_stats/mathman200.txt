@@ -1,0 +1,1 @@
+{"channel": "mathman200", "avg_viewers": 13, "followers_gained": 21, "peak_viewers": 261, "hours_streamed": 78, "streams": 15, "mature": 0, "language": "English", "account_age": 4472640.0}

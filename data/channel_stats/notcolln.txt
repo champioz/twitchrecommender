@@ -1,0 +1,1 @@
+{"channel": "notcolln", "avg_viewers": 75, "followers_gained": 350, "peak_viewers": 427, "hours_streamed": 216, "streams": 26, "mature": 0, "language": "German", "account_age": 1321920.0}

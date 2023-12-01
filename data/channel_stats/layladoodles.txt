@@ -1,0 +1,1 @@
+{"channel": "layladoodles", "avg_viewers": 5, "followers_gained": 29, "peak_viewers": 18, "hours_streamed": 160, "streams": 33, "mature": 1, "language": "English", "account_age": 2168640.0}

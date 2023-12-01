@@ -1,0 +1,1 @@
+{"channel": "behxo", "avg_viewers": 23, "followers_gained": 235, "peak_viewers": 266, "hours_streamed": 58, "streams": 20, "mature": 0, "language": "English", "account_age": 2443680.0}

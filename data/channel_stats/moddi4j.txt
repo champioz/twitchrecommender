@@ -1,0 +1,1 @@
+{"channel": "moddi4j", "avg_viewers": 161, "followers_gained": 1028, "peak_viewers": 305, "hours_streamed": 65, "streams": 20, "mature": 1, "language": "Arabic", "account_age": 632160.0}

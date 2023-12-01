@@ -1,0 +1,1 @@
+{"channel": "glhfmagic", "avg_viewers": 13, "followers_gained": 7, "peak_viewers": 21, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "English", "account_age": 3255840.0}

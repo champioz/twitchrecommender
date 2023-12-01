@@ -1,0 +1,1 @@
+{"channel": "gabibizinha", "avg_viewers": 5, "followers_gained": 76, "peak_viewers": 79, "hours_streamed": 48, "streams": 21, "mature": 0, "language": "Portuguese", "account_age": 917280.0}

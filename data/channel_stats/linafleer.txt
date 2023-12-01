@@ -1,0 +1,1 @@
+{"channel": "linafleer", "avg_viewers": 75, "followers_gained": 196, "peak_viewers": 131, "hours_streamed": 41, "streams": 14, "mature": 1, "language": "German", "account_age": 4128480.0}

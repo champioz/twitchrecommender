@@ -1,0 +1,1 @@
+{"channel": "kakisaura", "avg_viewers": 9, "followers_gained": 153, "peak_viewers": 37, "hours_streamed": 135, "streams": 21, "mature": 1, "language": "Portuguese", "account_age": 2689920.0}

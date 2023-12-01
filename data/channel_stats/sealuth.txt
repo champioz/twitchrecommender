@@ -1,0 +1,1 @@
+{"channel": "sealuth", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 1, "hours_streamed": 2, "streams": 3, "mature": 0, "language": "German", "account_age": 4191840.0}

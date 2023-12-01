@@ -1,0 +1,1 @@
+{"channel": "friranner", "avg_viewers": 9, "followers_gained": 14, "peak_viewers": 34, "hours_streamed": 116, "streams": 30, "mature": 1, "language": "Spanish", "account_age": 1782720.0}

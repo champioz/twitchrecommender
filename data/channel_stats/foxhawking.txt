@@ -1,0 +1,1 @@
+{"channel": "foxhawking", "avg_viewers": 2, "followers_gained": 31, "peak_viewers": 21, "hours_streamed": 190, "streams": 44, "mature": 1, "language": "English", "account_age": 3042720.0}

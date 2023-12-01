@@ -1,0 +1,1 @@
+{"channel": "chaosmachinegr", "avg_viewers": 54, "followers_gained": 290, "peak_viewers": 194, "hours_streamed": 100, "streams": 19, "mature": 0, "language": "English", "account_age": 1100160.0}

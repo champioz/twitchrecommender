@@ -1,0 +1,1 @@
+{"channel": "dncbr", "avg_viewers": 122, "followers_gained": 322, "peak_viewers": 362, "hours_streamed": 125, "streams": 27, "mature": 1, "language": "Portuguese", "account_age": 1363680.0}

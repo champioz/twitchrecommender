@@ -1,0 +1,1 @@
+{"channel": "thdlock", "avg_viewers": 423, "followers_gained": 2178, "peak_viewers": 3190, "hours_streamed": 241, "streams": 22, "mature": 0, "language": "English", "account_age": 4229280.0}

@@ -1,0 +1,1 @@
+{"channel": "itskevin183", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "English", "account_age": 737280.0}

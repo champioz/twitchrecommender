@@ -1,0 +1,1 @@
+{"channel": "theanimekingx", "avg_viewers": 7, "followers_gained": 45, "peak_viewers": 25, "hours_streamed": 77, "streams": 17, "mature": 0, "language": "English", "account_age": 3543840.0}

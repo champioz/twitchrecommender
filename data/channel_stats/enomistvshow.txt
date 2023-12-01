@@ -1,0 +1,1 @@
+{"channel": "enomistvshow", "avg_viewers": 5, "followers_gained": 155, "peak_viewers": 18, "hours_streamed": 114, "streams": 35, "mature": 1, "language": "Italian", "account_age": 1713600.0}

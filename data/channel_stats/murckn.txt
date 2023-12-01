@@ -1,0 +1,1 @@
+{"channel": "murckn", "avg_viewers": 2, "followers_gained": 109, "peak_viewers": 10, "hours_streamed": 147, "streams": 35, "mature": 0, "language": "English", "account_age": 1519200.0}

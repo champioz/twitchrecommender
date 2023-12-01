@@ -1,0 +1,1 @@
+{"channel": "zavadahs", "avg_viewers": 130, "followers_gained": 179, "peak_viewers": 909, "hours_streamed": 201, "streams": 37, "mature": 0, "language": "Polish", "account_age": 2085120.0}

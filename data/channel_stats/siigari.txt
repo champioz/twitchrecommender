@@ -1,0 +1,1 @@
+{"channel": "siigari", "avg_viewers": 6, "followers_gained": 26, "peak_viewers": 13, "hours_streamed": 16, "streams": 4, "mature": 0, "language": "English", "account_age": 5202720.0}

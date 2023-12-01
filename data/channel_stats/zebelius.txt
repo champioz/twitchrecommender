@@ -1,0 +1,1 @@
+{"channel": "zebelius", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 10, "hours_streamed": 38, "streams": 16, "mature": 0, "language": "Swedish", "account_age": 1056960.0}

@@ -1,0 +1,1 @@
+{"channel": "pokeball35", "avg_viewers": 2, "followers_gained": 42, "peak_viewers": 46, "hours_streamed": 64, "streams": 31, "mature": 0, "language": "English", "account_age": 3418560.0}

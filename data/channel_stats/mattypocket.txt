@@ -1,0 +1,1 @@
+{"channel": "mattypocket", "avg_viewers": 505, "followers_gained": 279, "peak_viewers": 857, "hours_streamed": 103, "streams": 24, "mature": 0, "language": "English", "account_age": 3752640.0}

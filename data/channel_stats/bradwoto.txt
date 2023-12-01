@@ -1,0 +1,1 @@
+{"channel": "bradwoto", "avg_viewers": 578, "followers_gained": 18690, "peak_viewers": 1482, "hours_streamed": 98, "streams": 22, "mature": 1, "language": "English", "account_age": 2443680.0}

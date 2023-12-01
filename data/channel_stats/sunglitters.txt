@@ -1,0 +1,1 @@
+{"channel": "sunglitters", "avg_viewers": 81, "followers_gained": 84, "peak_viewers": 229, "hours_streamed": 110, "streams": 23, "mature": 0, "language": "English", "account_age": 2089440.0}

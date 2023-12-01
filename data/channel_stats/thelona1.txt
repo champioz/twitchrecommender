@@ -1,0 +1,1 @@
+{"channel": "thelona1", "avg_viewers": 15, "followers_gained": 24, "peak_viewers": 54, "hours_streamed": 150, "streams": 17, "mature": 1, "language": "English", "account_age": 3188160.0}

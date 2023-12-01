@@ -1,0 +1,1 @@
+{"channel": "unclejung", "avg_viewers": 6, "followers_gained": 7, "peak_viewers": 25, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "Korean", "account_age": 1638720.0}

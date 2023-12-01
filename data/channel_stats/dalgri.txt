@@ -1,0 +1,1 @@
+{"channel": "dalgri", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 22, "hours_streamed": 42, "streams": 38, "mature": 1, "language": "English", "account_age": 4148640.0}

@@ -1,0 +1,1 @@
+{"channel": "marvincaio512", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 8, "streams": 5, "mature": 1, "language": "Portuguese", "account_age": 2393280.0}

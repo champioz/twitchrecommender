@@ -1,0 +1,1 @@
+{"channel": "mienow666", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 11, "hours_streamed": 115, "streams": 22, "mature": 1, "language": "Chinese", "account_age": 1569600.0}

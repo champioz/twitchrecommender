@@ -1,0 +1,1 @@
+{"channel": "wijiro", "avg_viewers": 10, "followers_gained": 1, "peak_viewers": 36, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "Russian", "account_age": 3149280.0}

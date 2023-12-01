@@ -1,0 +1,1 @@
+{"channel": "symfuhny", "avg_viewers": 10956, "followers_gained": 119702, "peak_viewers": 30228, "hours_streamed": 212, "streams": 30, "mature": 0, "language": "English", "account_age": 3731040.0}

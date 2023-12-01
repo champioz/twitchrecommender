@@ -1,0 +1,1 @@
+{"channel": "maybe_ivan", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "German", "account_age": 696960.0}

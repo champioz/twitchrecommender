@@ -1,0 +1,1 @@
+{"channel": "vvhite_angel", "avg_viewers": 90, "followers_gained": 480, "peak_viewers": 253, "hours_streamed": 43, "streams": 11, "mature": 0, "language": "French", "account_age": 3840480.0}

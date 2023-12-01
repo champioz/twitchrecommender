@@ -1,0 +1,1 @@
+{"channel": "aurateur", "avg_viewers": 3212, "followers_gained": 8628, "peak_viewers": 5594, "hours_streamed": 241, "streams": 27, "mature": 1, "language": "English", "account_age": 1944000.0}

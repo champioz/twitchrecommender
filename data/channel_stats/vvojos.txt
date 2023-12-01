@@ -1,0 +1,1 @@
+{"channel": "vvojos", "avg_viewers": 7, "followers_gained": 49, "peak_viewers": 34, "hours_streamed": 154, "streams": 35, "mature": 1, "language": "Polish", "account_age": 2229120.0}

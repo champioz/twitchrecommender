@@ -1,0 +1,1 @@
+{"channel": "simsloverforever89", "avg_viewers": 3, "followers_gained": 33, "peak_viewers": 13, "hours_streamed": 40, "streams": 17, "mature": 1, "language": "English", "account_age": 1098720.0}

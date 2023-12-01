@@ -1,0 +1,1 @@
+{"channel": "rainy", "avg_viewers": 29, "followers_gained": 38, "peak_viewers": 57, "hours_streamed": 154, "streams": 24, "mature": 0, "language": "English", "account_age": 4348800.0}

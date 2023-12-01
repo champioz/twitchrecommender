@@ -1,0 +1,1 @@
+{"channel": "steveparker", "avg_viewers": 57, "followers_gained": 50, "peak_viewers": 109, "hours_streamed": 45, "streams": 11, "mature": 1, "language": "German", "account_age": 3365280.0}

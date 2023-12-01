@@ -1,0 +1,1 @@
+{"channel": "partypokertv", "avg_viewers": 56, "followers_gained": 52, "peak_viewers": 238, "hours_streamed": 57, "streams": 11, "mature": 1, "language": "English", "account_age": 1743840.0}

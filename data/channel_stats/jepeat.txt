@@ -1,0 +1,1 @@
+{"channel": "jepeat", "avg_viewers": 0, "followers_gained": 9, "peak_viewers": 6, "hours_streamed": 15, "streams": 10, "mature": 0, "language": "Danish", "account_age": 509760.0}

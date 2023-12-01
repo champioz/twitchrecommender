@@ -1,0 +1,1 @@
+{"channel": "jetbat", "avg_viewers": 63, "followers_gained": 31, "peak_viewers": 137, "hours_streamed": 60, "streams": 16, "mature": 1, "language": "Finnish", "account_age": 2672640.0}

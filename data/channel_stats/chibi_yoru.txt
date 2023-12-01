@@ -1,0 +1,1 @@
+{"channel": "chibi_yoru", "avg_viewers": 42, "followers_gained": 200, "peak_viewers": 133, "hours_streamed": 78, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 2675520.0}

@@ -1,0 +1,1 @@
+{"channel": "zulaoyun", "avg_viewers": 337, "followers_gained": 684, "peak_viewers": 986, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "Turkish", "account_age": 2622240.0}

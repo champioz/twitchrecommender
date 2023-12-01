@@ -1,0 +1,1 @@
+{"channel": "kixnt", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 13, "hours_streamed": 14, "streams": 13, "mature": 1, "language": "Spanish", "account_age": 722880.0}

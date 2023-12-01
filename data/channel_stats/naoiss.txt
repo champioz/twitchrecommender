@@ -1,0 +1,1 @@
+{"channel": "naoiss", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 3443040.0}

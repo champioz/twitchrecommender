@@ -1,0 +1,1 @@
+{"channel": "freefarm_m", "avg_viewers": 29, "followers_gained": 128, "peak_viewers": 88, "hours_streamed": 172, "streams": 28, "mature": 1, "language": "Russian", "account_age": 2507040.0}

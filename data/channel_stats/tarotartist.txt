@@ -1,0 +1,1 @@
+{"channel": "tarotartist", "avg_viewers": 6, "followers_gained": 65, "peak_viewers": 21, "hours_streamed": 26, "streams": 10, "mature": 1, "language": "English", "account_age": 3142080.0}

@@ -1,0 +1,1 @@
+{"channel": "ivegottensolucky", "avg_viewers": 32, "followers_gained": 72, "peak_viewers": 138, "hours_streamed": 168, "streams": 28, "mature": 0, "language": "English", "account_age": 3072960.0}

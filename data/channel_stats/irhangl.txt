@@ -1,0 +1,1 @@
+{"channel": "irhangl", "avg_viewers": 6, "followers_gained": 19, "peak_viewers": 22, "hours_streamed": 45, "streams": 14, "mature": 1, "language": "German", "account_age": 2102400.0}

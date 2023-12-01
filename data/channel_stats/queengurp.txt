@@ -1,0 +1,1 @@
+{"channel": "queengurp", "avg_viewers": 5, "followers_gained": 27, "peak_viewers": 98, "hours_streamed": 65, "streams": 24, "mature": 0, "language": "English", "account_age": 2049120.0}

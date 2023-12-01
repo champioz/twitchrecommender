@@ -1,0 +1,1 @@
+{"channel": "rikoxinjection", "avg_viewers": 16, "followers_gained": 297, "peak_viewers": 46, "hours_streamed": 188, "streams": 30, "mature": 0, "language": "Arabic", "account_age": 2017440.0}

@@ -1,0 +1,1 @@
+{"channel": "sefearion", "avg_viewers": 65, "followers_gained": 117, "peak_viewers": 241, "hours_streamed": 226, "streams": 30, "mature": 0, "language": "English", "account_age": 2702880.0}

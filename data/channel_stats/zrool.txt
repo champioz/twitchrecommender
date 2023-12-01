@@ -1,0 +1,1 @@
+{"channel": "zrool", "avg_viewers": 331, "followers_gained": 2142, "peak_viewers": 1381, "hours_streamed": 219, "streams": 23, "mature": 0, "language": "Danish", "account_age": 3028320.0}

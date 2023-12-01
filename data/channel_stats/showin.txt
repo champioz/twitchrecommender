@@ -1,0 +1,1 @@
+{"channel": "showin", "avg_viewers": 1, "followers_gained": 18, "peak_viewers": 6, "hours_streamed": 18, "streams": 6, "mature": 0, "language": "French", "account_age": 1850400.0}

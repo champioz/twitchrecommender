@@ -1,0 +1,1 @@
+{"channel": "dragonslayerosumc", "avg_viewers": 2, "followers_gained": 34, "peak_viewers": 14, "hours_streamed": 22, "streams": 15, "mature": 0, "language": "English", "account_age": 168480.0}

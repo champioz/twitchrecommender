@@ -1,0 +1,1 @@
+{"channel": "okamasu", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 32, "streams": 8, "mature": 1, "language": "English", "account_age": 2846880.0}

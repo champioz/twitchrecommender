@@ -1,0 +1,1 @@
+{"channel": "flair", "avg_viewers": 124, "followers_gained": 465, "peak_viewers": 702, "hours_streamed": 131, "streams": 27, "mature": 0, "language": "English", "account_age": 3005280.0}

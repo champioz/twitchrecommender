@@ -1,0 +1,1 @@
+{"channel": "sweetienka", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 16, "streams": 4, "mature": 1, "language": "Slovak", "account_age": 2325600.0}

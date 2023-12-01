@@ -1,0 +1,1 @@
+{"channel": "snoopy_r6s", "avg_viewers": 5, "followers_gained": 71, "peak_viewers": 18, "hours_streamed": 8, "streams": 6, "mature": 0, "language": "Arabic", "account_age": 905760.0}

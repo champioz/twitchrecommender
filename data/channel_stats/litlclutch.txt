@@ -1,0 +1,1 @@
+{"channel": "litlclutch", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 18, "hours_streamed": 100, "streams": 9, "mature": 0, "language": "English", "account_age": 3153600.0}

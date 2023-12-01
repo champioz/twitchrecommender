@@ -1,0 +1,1 @@
+{"channel": "w84me2join", "avg_viewers": 55, "followers_gained": 192, "peak_viewers": 201, "hours_streamed": 40, "streams": 15, "mature": 1, "language": "Turkish", "account_age": 3919680.0}

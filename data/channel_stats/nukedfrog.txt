@@ -1,0 +1,1 @@
+{"channel": "nukedfrog", "avg_viewers": 11, "followers_gained": 10, "peak_viewers": 24, "hours_streamed": 25, "streams": 7, "mature": 1, "language": "Danish", "account_age": 2221920.0}

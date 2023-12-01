@@ -1,0 +1,1 @@
+{"channel": "tsilipitridi", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "Greek", "account_age": 2227680.0}

@@ -1,0 +1,1 @@
+{"channel": "71revolutioon", "avg_viewers": 0, "followers_gained": 9, "peak_viewers": 2, "hours_streamed": 5, "streams": 5, "mature": 1, "language": "Portuguese", "account_age": 411840.0}

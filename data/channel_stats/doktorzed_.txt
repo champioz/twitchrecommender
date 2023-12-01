@@ -1,0 +1,1 @@
+{"channel": "doktorzed_", "avg_viewers": 15, "followers_gained": 42, "peak_viewers": 31, "hours_streamed": 83, "streams": 25, "mature": 1, "language": "Czech", "account_age": 2734560.0}

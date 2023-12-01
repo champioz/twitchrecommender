@@ -1,0 +1,1 @@
+{"channel": "noobzdowntv", "avg_viewers": 9, "followers_gained": 23, "peak_viewers": 37, "hours_streamed": 17, "streams": 5, "mature": 1, "language": "German", "account_age": 2149920.0}

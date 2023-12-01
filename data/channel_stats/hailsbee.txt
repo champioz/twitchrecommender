@@ -1,0 +1,1 @@
+{"channel": "hailsbee", "avg_viewers": 308, "followers_gained": 707, "peak_viewers": 2702, "hours_streamed": 18, "streams": 9, "mature": 1, "language": "English", "account_age": 2318400.0}

@@ -1,0 +1,1 @@
+{"channel": "spicetomeatchew", "avg_viewers": 25, "followers_gained": 43, "peak_viewers": 54, "hours_streamed": 58, "streams": 14, "mature": 0, "language": "English", "account_age": 3970080.0}

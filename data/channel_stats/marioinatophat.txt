@@ -1,0 +1,1 @@
+{"channel": "marioinatophat", "avg_viewers": 145, "followers_gained": 217, "peak_viewers": 223, "hours_streamed": 34, "streams": 10, "mature": 0, "language": "English", "account_age": 3998880.0}

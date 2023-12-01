@@ -1,0 +1,1 @@
+{"channel": "yeahunter", "avg_viewers": 129, "followers_gained": 1044, "peak_viewers": 347, "hours_streamed": 136, "streams": 20, "mature": 0, "language": "Hungarian", "account_age": 3926880.0}

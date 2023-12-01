@@ -1,0 +1,1 @@
+{"channel": "frosty_spawnx", "avg_viewers": 0, "followers_gained": 47, "peak_viewers": 4, "hours_streamed": 99, "streams": 39, "mature": 1, "language": "English", "account_age": 360000.0}

@@ -1,0 +1,1 @@
+{"channel": "leshira", "avg_viewers": 27, "followers_gained": 14, "peak_viewers": 53, "hours_streamed": 6, "streams": 2, "mature": 1, "language": "Portuguese", "account_age": 1764000.0}

@@ -1,0 +1,1 @@
+{"channel": "the_mirakl", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 0, "hours_streamed": 0, "streams": 0, "mature": 1, "language": "Norwegian", "account_age": 789120.0}

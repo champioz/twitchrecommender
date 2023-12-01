@@ -1,0 +1,1 @@
+{"channel": "trymacs", "avg_viewers": 8320, "followers_gained": 36760, "peak_viewers": 91389, "hours_streamed": 174, "streams": 31, "mature": 0, "language": "German", "account_age": 2698560.0}

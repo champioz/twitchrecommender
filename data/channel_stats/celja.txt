@@ -1,0 +1,1 @@
+{"channel": "celja", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 20, "hours_streamed": 58, "streams": 26, "mature": 1, "language": "Finnish", "account_age": 2001600.0}

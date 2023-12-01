@@ -1,0 +1,1 @@
+{"channel": "mrcorakas", "avg_viewers": 24, "followers_gained": 124, "peak_viewers": 163, "hours_streamed": 60, "streams": 26, "mature": 0, "language": "Greek", "account_age": 1104480.0}

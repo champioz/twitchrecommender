@@ -1,0 +1,1 @@
+{"channel": "sidneystorm", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 1, "hours_streamed": 9, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 789120.0}

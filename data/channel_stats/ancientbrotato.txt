@@ -1,0 +1,1 @@
+{"channel": "ancientbrotato", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 8, "hours_streamed": 69, "streams": 14, "mature": 1, "language": "English", "account_age": 743040.0}

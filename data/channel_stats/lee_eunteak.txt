@@ -1,0 +1,1 @@
+{"channel": "lee_eunteak", "avg_viewers": 14, "followers_gained": 117, "peak_viewers": 90, "hours_streamed": 127, "streams": 28, "mature": 0, "language": "Korean", "account_age": 227520.0}

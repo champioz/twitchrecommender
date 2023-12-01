@@ -1,0 +1,1 @@
+{"channel": "mushamaru_", "avg_viewers": 7, "followers_gained": 30, "peak_viewers": 204, "hours_streamed": 81, "streams": 32, "mature": 0, "language": "Japanese", "account_age": 869760.0}

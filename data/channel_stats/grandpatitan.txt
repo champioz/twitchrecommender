@@ -1,0 +1,1 @@
+{"channel": "grandpatitan", "avg_viewers": 23, "followers_gained": 100, "peak_viewers": 85, "hours_streamed": 119, "streams": 19, "mature": 0, "language": "English", "account_age": 3205440.0}

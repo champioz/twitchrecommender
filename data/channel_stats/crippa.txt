@@ -1,0 +1,1 @@
+{"channel": "crippa", "avg_viewers": 88, "followers_gained": 144, "peak_viewers": 171, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Swedish", "account_age": 3382560.0}

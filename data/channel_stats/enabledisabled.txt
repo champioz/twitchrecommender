@@ -1,0 +1,1 @@
+{"channel": "enabledisabled", "avg_viewers": 14, "followers_gained": 124, "peak_viewers": 35, "hours_streamed": 91, "streams": 18, "mature": 0, "language": "Portuguese", "account_age": 2304000.0}

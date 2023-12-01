@@ -1,0 +1,1 @@
+{"channel": "osmosisbzh", "avg_viewers": 8, "followers_gained": 30, "peak_viewers": 24, "hours_streamed": 62, "streams": 11, "mature": 1, "language": "French", "account_age": 1776960.0}

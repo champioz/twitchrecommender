@@ -1,0 +1,1 @@
+{"channel": "heelmike", "avg_viewers": 643, "followers_gained": 26248, "peak_viewers": 5065, "hours_streamed": 201, "streams": 43, "mature": 1, "language": "English", "account_age": 2125440.0}

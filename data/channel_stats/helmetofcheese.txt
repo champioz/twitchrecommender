@@ -1,0 +1,1 @@
+{"channel": "helmetofcheese", "avg_viewers": 20, "followers_gained": 29, "peak_viewers": 73, "hours_streamed": 224, "streams": 36, "mature": 1, "language": "English", "account_age": 3648960.0}

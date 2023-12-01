@@ -1,0 +1,1 @@
+{"channel": "forbir", "avg_viewers": 34, "followers_gained": 167, "peak_viewers": 61, "hours_streamed": 13, "streams": 6, "mature": 0, "language": "Turkish", "account_age": 2306880.0}

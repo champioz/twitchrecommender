@@ -1,0 +1,1 @@
+{"channel": "illapassion", "avg_viewers": 12, "followers_gained": 17, "peak_viewers": 29, "hours_streamed": 49, "streams": 11, "mature": 0, "language": "English", "account_age": 2331360.0}

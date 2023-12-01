@@ -1,0 +1,1 @@
+{"channel": "kaelynatv", "avg_viewers": 22, "followers_gained": 24, "peak_viewers": 34, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "French", "account_age": 946080.0}

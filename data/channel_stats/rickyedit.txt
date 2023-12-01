@@ -1,0 +1,1 @@
+{"channel": "rickyedit", "avg_viewers": 533, "followers_gained": 4038, "peak_viewers": 1658, "hours_streamed": 93, "streams": 24, "mature": 0, "language": "Spanish", "account_age": 1823040.0}

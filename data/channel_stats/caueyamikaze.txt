@@ -1,0 +1,1 @@
+{"channel": "caueyamikaze", "avg_viewers": 6, "followers_gained": 81, "peak_viewers": 15, "hours_streamed": 45, "streams": 14, "mature": 0, "language": "Portuguese", "account_age": 3039840.0}

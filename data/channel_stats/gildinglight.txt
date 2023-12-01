@@ -1,0 +1,1 @@
+{"channel": "gildinglight", "avg_viewers": 10, "followers_gained": 25, "peak_viewers": 20, "hours_streamed": 4, "streams": 6, "mature": 0, "language": "English", "account_age": 203040.0}

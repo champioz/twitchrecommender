@@ -1,0 +1,1 @@
+{"channel": "sunn1e", "avg_viewers": 4, "followers_gained": 15, "peak_viewers": 16, "hours_streamed": 33, "streams": 6, "mature": 0, "language": "Russian", "account_age": 2571840.0}

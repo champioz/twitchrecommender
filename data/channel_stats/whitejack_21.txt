@@ -1,0 +1,1 @@
+{"channel": "whitejack_21", "avg_viewers": 24, "followers_gained": 209, "peak_viewers": 86, "hours_streamed": 73, "streams": 14, "mature": 0, "language": "Japanese", "account_age": 1065600.0}

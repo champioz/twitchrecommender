@@ -1,0 +1,1 @@
+{"channel": "ashinaa", "avg_viewers": 3, "followers_gained": 33, "peak_viewers": 15, "hours_streamed": 91, "streams": 24, "mature": 1, "language": "Spanish", "account_age": 3648960.0}

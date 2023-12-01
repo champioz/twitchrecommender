@@ -1,0 +1,1 @@
+{"channel": "kriegan_ow", "avg_viewers": 44, "followers_gained": 383, "peak_viewers": 124, "hours_streamed": 163, "streams": 37, "mature": 0, "language": "French", "account_age": 1788480.0}

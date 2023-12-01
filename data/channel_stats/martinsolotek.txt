@@ -1,0 +1,1 @@
+{"channel": "martinsolotek", "avg_viewers": 7, "followers_gained": 26, "peak_viewers": 95, "hours_streamed": 114, "streams": 41, "mature": 0, "language": "English", "account_age": 1280160.0}

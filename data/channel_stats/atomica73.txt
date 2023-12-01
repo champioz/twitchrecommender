@@ -1,0 +1,1 @@
+{"channel": "atomica73", "avg_viewers": 28, "followers_gained": 55, "peak_viewers": 103, "hours_streamed": 298, "streams": 49, "mature": 1, "language": "German", "account_age": 2913120.0}

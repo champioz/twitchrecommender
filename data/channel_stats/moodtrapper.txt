@@ -1,0 +1,1 @@
+{"channel": "moodtrapper", "avg_viewers": 100, "followers_gained": 450, "peak_viewers": 160, "hours_streamed": 82, "streams": 19, "mature": 1, "language": "English", "account_age": 624960.0}

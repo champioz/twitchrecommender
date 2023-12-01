@@ -1,0 +1,1 @@
+{"channel": "nickyfgc", "avg_viewers": 9, "followers_gained": 17, "peak_viewers": 31, "hours_streamed": 9, "streams": 4, "mature": 1, "language": "English", "account_age": 3251520.0}

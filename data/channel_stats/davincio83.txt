@@ -1,0 +1,1 @@
+{"channel": "davincio83", "avg_viewers": 12, "followers_gained": 60, "peak_viewers": 26, "hours_streamed": 124, "streams": 35, "mature": 1, "language": "Polish", "account_age": 1850400.0}

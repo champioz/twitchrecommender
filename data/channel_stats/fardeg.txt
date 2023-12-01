@@ -1,0 +1,1 @@
+{"channel": "fardeg", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "Swedish", "account_age": 2013120.0}

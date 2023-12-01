@@ -1,0 +1,1 @@
+{"channel": "dyri", "avg_viewers": 34, "followers_gained": 147, "peak_viewers": 121, "hours_streamed": 71, "streams": 13, "mature": 1, "language": "German", "account_age": 3589920.0}

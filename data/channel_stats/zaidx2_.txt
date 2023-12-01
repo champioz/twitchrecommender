@@ -1,0 +1,1 @@
+{"channel": "zaidx2_", "avg_viewers": 1, "followers_gained": 192, "peak_viewers": 51, "hours_streamed": 134, "streams": 115, "mature": 1, "language": "Arabic", "account_age": 2243520.0}

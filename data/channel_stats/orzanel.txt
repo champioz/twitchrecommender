@@ -1,0 +1,1 @@
+{"channel": "orzanel", "avg_viewers": 368, "followers_gained": 302, "peak_viewers": 741, "hours_streamed": 205, "streams": 42, "mature": 1, "language": "English", "account_age": 3231360.0}

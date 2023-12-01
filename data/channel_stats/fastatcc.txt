@@ -1,0 +1,1 @@
+{"channel": "fastatcc", "avg_viewers": 42, "followers_gained": 69, "peak_viewers": 171, "hours_streamed": 130, "streams": 31, "mature": 0, "language": "English", "account_age": 2744640.0}

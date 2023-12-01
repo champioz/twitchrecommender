@@ -1,0 +1,1 @@
+{"channel": "cil__nation", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 7, "hours_streamed": 45, "streams": 9, "mature": 0, "language": "English", "account_age": 3147840.0}

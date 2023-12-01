@@ -1,0 +1,1 @@
+{"channel": "redtro60", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 18, "streams": 8, "mature": 0, "language": "English", "account_age": 475200.0}

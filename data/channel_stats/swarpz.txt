@@ -1,0 +1,1 @@
+{"channel": "swarpz", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 6, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Turkish", "account_age": 2691360.0}

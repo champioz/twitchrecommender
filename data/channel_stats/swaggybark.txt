@@ -1,0 +1,1 @@
+{"channel": "swaggybark", "avg_viewers": 99, "followers_gained": 985, "peak_viewers": 240, "hours_streamed": 65, "streams": 17, "mature": 0, "language": "Turkish", "account_age": 838080.0}

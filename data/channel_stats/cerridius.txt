@@ -1,0 +1,1 @@
+{"channel": "cerridius", "avg_viewers": 266, "followers_gained": 4144, "peak_viewers": 2115, "hours_streamed": 107, "streams": 23, "mature": 0, "language": "English", "account_age": 2151360.0}

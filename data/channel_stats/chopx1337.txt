@@ -1,0 +1,1 @@
+{"channel": "chopx1337", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 6, "hours_streamed": 59, "streams": 15, "mature": 1, "language": "English", "account_age": 2265120.0}

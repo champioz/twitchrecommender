@@ -1,0 +1,1 @@
+{"channel": "runeflame1", "avg_viewers": 6, "followers_gained": 10, "peak_viewers": 22, "hours_streamed": 27, "streams": 9, "mature": 0, "language": "English", "account_age": 1601280.0}

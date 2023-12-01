@@ -1,0 +1,1 @@
+{"channel": "vodaphonis", "avg_viewers": 8, "followers_gained": 15, "peak_viewers": 25, "hours_streamed": 132, "streams": 22, "mature": 1, "language": "German", "account_age": 1761120.0}

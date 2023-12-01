@@ -1,0 +1,1 @@
+{"channel": "clyxius", "avg_viewers": 1, "followers_gained": 23, "peak_viewers": 10, "hours_streamed": 143, "streams": 31, "mature": 0, "language": "English", "account_age": 2154240.0}

@@ -1,0 +1,1 @@
+{"channel": "marghenefe", "avg_viewers": 9, "followers_gained": 1, "peak_viewers": 14, "hours_streamed": 6, "streams": 2, "mature": 1, "language": "Italian", "account_age": 2988000.0}

@@ -1,0 +1,1 @@
+{"channel": "pim_sweat16", "avg_viewers": 99, "followers_gained": 45, "peak_viewers": 144, "hours_streamed": 3, "streams": 3, "mature": 0, "language": "Thai", "account_age": 686880.0}

@@ -1,0 +1,1 @@
+{"channel": "armin2047", "avg_viewers": 4, "followers_gained": 595, "peak_viewers": 32, "hours_streamed": 24, "streams": 14, "mature": 0, "language": "English", "account_age": 544320.0}

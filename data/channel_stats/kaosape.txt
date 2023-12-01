@@ -1,0 +1,1 @@
+{"channel": "kaosape", "avg_viewers": 37, "followers_gained": 29, "peak_viewers": 95, "hours_streamed": 75, "streams": 14, "mature": 1, "language": "Dutch", "account_age": 3641760.0}

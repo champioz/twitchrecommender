@@ -1,0 +1,1 @@
+{"channel": "airisregion", "avg_viewers": 25, "followers_gained": 0, "peak_viewers": 34, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Chinese", "account_age": 2787840.0}

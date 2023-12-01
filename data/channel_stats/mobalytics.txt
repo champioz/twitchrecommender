@@ -1,0 +1,1 @@
+{"channel": "mobalytics", "avg_viewers": 37, "followers_gained": 729, "peak_viewers": 139, "hours_streamed": 15, "streams": 13, "mature": 0, "language": "English", "account_age": 1323360.0}

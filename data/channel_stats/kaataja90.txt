@@ -1,0 +1,1 @@
+{"channel": "kaataja90", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 2, "hours_streamed": 5, "streams": 4, "mature": 1, "language": "Finnish", "account_age": 1118880.0}

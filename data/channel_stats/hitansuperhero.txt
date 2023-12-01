@@ -1,0 +1,1 @@
+{"channel": "hitansuperhero", "avg_viewers": 20, "followers_gained": 17, "peak_viewers": 105, "hours_streamed": 62, "streams": 13, "mature": 0, "language": "Russian", "account_age": 2223360.0}

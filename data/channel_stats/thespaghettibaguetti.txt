@@ -1,0 +1,1 @@
+{"channel": "thespaghettibaguetti", "avg_viewers": 20, "followers_gained": 156, "peak_viewers": 86, "hours_streamed": 102, "streams": 20, "mature": 1, "language": "English", "account_age": 227520.0}

@@ -1,0 +1,1 @@
+{"channel": "devilsluv", "avg_viewers": 15, "followers_gained": 15, "peak_viewers": 30, "hours_streamed": 18, "streams": 8, "mature": 0, "language": "Spanish", "account_age": 1573920.0}

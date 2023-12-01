@@ -1,0 +1,1 @@
+{"channel": "auroralyngdal", "avg_viewers": 28, "followers_gained": 11, "peak_viewers": 48, "hours_streamed": 15, "streams": 8, "mature": 0, "language": "English", "account_age": 3051360.0}

@@ -1,0 +1,1 @@
+{"channel": "rastafmtg", "avg_viewers": 28, "followers_gained": 154, "peak_viewers": 92, "hours_streamed": 41, "streams": 11, "mature": 0, "language": "Portuguese", "account_age": 313920.0}

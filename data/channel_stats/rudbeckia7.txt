@@ -1,0 +1,1 @@
+{"channel": "rudbeckia7", "avg_viewers": 2154, "followers_gained": 2496, "peak_viewers": 4040, "hours_streamed": 204, "streams": 26, "mature": 0, "language": "Korean", "account_age": 3157920.0}

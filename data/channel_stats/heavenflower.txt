@@ -1,0 +1,1 @@
+{"channel": "heavenflower", "avg_viewers": 7, "followers_gained": 10, "peak_viewers": 15, "hours_streamed": 3, "streams": 2, "mature": 1, "language": "German", "account_age": 2296800.0}

@@ -1,0 +1,1 @@
+{"channel": "alphapreachertv", "avg_viewers": 2, "followers_gained": 19, "peak_viewers": 14, "hours_streamed": 152, "streams": 34, "mature": 1, "language": "English", "account_age": 887040.0}

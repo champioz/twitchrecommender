@@ -1,0 +1,1 @@
+{"channel": "1337wildcherry", "avg_viewers": 23, "followers_gained": 123, "peak_viewers": 50, "hours_streamed": 85, "streams": 29, "mature": 0, "language": "Russian", "account_age": 1749600.0}

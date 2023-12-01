@@ -1,0 +1,1 @@
+{"channel": "hugooh_", "avg_viewers": 6, "followers_gained": 35, "peak_viewers": 18, "hours_streamed": 14, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 1458720.0}

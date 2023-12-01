@@ -1,0 +1,1 @@
+{"channel": "samuhgamer", "avg_viewers": 37, "followers_gained": 246, "peak_viewers": 81, "hours_streamed": 225, "streams": 30, "mature": 1, "language": "Portuguese", "account_age": 142560.0}

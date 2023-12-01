@@ -1,0 +1,1 @@
+{"channel": "seriozhenka", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 10, "streams": 2, "mature": 1, "language": "Finnish", "account_age": 167040.0}

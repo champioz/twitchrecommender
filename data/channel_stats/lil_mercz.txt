@@ -1,0 +1,1 @@
+{"channel": "lil_mercz", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 7, "hours_streamed": 51, "streams": 17, "mature": 1, "language": "English", "account_age": 754560.0}

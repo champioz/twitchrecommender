@@ -1,0 +1,1 @@
+{"channel": "brunnitv", "avg_viewers": 3, "followers_gained": 57, "peak_viewers": 13, "hours_streamed": 81, "streams": 26, "mature": 0, "language": "German", "account_age": 751680.0}

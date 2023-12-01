@@ -1,0 +1,1 @@
+{"channel": "darkness_43", "avg_viewers": 5, "followers_gained": 50, "peak_viewers": 32, "hours_streamed": 44, "streams": 12, "mature": 0, "language": "English", "account_age": 335520.0}

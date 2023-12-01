@@ -1,0 +1,1 @@
+{"channel": "logiiyt", "avg_viewers": 154, "followers_gained": 897, "peak_viewers": 433, "hours_streamed": 153, "streams": 31, "mature": 0, "language": "Spanish", "account_age": 2358720.0}

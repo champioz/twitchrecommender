@@ -1,0 +1,1 @@
+{"channel": "piccot", "avg_viewers": 1, "followers_gained": 15, "peak_viewers": 5, "hours_streamed": 94, "streams": 33, "mature": 0, "language": "Japanese", "account_age": 2679840.0}

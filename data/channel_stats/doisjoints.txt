@@ -1,0 +1,1 @@
+{"channel": "doisjoints", "avg_viewers": 8, "followers_gained": 146, "peak_viewers": 127, "hours_streamed": 294, "streams": 39, "mature": 1, "language": "Portuguese", "account_age": 3477600.0}

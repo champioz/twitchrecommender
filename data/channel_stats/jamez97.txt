@@ -1,0 +1,1 @@
+{"channel": "jamez97", "avg_viewers": 27, "followers_gained": 185, "peak_viewers": 86, "hours_streamed": 75, "streams": 16, "mature": 0, "language": "Czech", "account_age": 2397600.0}

@@ -1,0 +1,1 @@
+{"channel": "astromeridian", "avg_viewers": 54, "followers_gained": 107, "peak_viewers": 107, "hours_streamed": 71, "streams": 18, "mature": 1, "language": "Russian", "account_age": 2626560.0}

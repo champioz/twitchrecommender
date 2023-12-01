@@ -1,0 +1,1 @@
+{"channel": "dcuatro_dnl", "avg_viewers": 4, "followers_gained": 33, "peak_viewers": 12, "hours_streamed": 39, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 1686240.0}

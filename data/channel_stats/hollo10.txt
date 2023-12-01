@@ -1,0 +1,1 @@
+{"channel": "hollo10", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 8, "hours_streamed": 19, "streams": 12, "mature": 0, "language": "English", "account_age": 1830240.0}

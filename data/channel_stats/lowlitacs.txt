@@ -1,0 +1,1 @@
+{"channel": "lowlitacs", "avg_viewers": 4, "followers_gained": 19, "peak_viewers": 20, "hours_streamed": 40, "streams": 12, "mature": 0, "language": "German", "account_age": 2404800.0}

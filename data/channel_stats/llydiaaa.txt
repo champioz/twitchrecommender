@@ -1,0 +1,1 @@
+{"channel": "llydiaaa", "avg_viewers": 42, "followers_gained": 40, "peak_viewers": 87, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "Japanese", "account_age": 2249280.0}

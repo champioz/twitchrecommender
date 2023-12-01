@@ -1,0 +1,1 @@
+{"channel": "ryan9387", "avg_viewers": 7, "followers_gained": 10, "peak_viewers": 53, "hours_streamed": 14, "streams": 6, "mature": 0, "language": "English", "account_age": 3144960.0}

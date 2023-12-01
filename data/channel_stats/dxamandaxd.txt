@@ -1,0 +1,1 @@
+{"channel": "dxamandaxd", "avg_viewers": 5, "followers_gained": 30, "peak_viewers": 33, "hours_streamed": 14, "streams": 8, "mature": 1, "language": "Portuguese", "account_age": 3132000.0}

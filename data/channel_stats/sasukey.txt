@@ -1,0 +1,1 @@
+{"channel": "sasukey", "avg_viewers": 141, "followers_gained": 1372, "peak_viewers": 559, "hours_streamed": 21, "streams": 12, "mature": 0, "language": "German", "account_age": 2208960.0}

@@ -1,0 +1,1 @@
+{"channel": "rikentv", "avg_viewers": 9, "followers_gained": 60, "peak_viewers": 50, "hours_streamed": 99, "streams": 17, "mature": 1, "language": "English", "account_age": 2875680.0}

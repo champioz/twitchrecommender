@@ -1,0 +1,1 @@
+{"channel": "5alive", "avg_viewers": 127, "followers_gained": 553, "peak_viewers": 368, "hours_streamed": 27, "streams": 8, "mature": 0, "language": "German", "account_age": 1393920.0}

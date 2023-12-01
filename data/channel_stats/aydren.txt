@@ -1,0 +1,1 @@
+{"channel": "aydren", "avg_viewers": 57, "followers_gained": 138, "peak_viewers": 1280, "hours_streamed": 147, "streams": 26, "mature": 0, "language": "English", "account_age": 4235040.0}

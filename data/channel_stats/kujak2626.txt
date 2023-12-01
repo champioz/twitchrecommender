@@ -1,0 +1,1 @@
+{"channel": "kujak2626", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 24, "streams": 8, "mature": 1, "language": "Slovak", "account_age": 1975680.0}

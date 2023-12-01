@@ -1,0 +1,1 @@
+{"channel": "teyzyl", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 10, "hours_streamed": 36, "streams": 10, "mature": 0, "language": "French", "account_age": 4243680.0}

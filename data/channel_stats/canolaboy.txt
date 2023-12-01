@@ -1,0 +1,1 @@
+{"channel": "canolaboy", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 11, "hours_streamed": 37, "streams": 12, "mature": 1, "language": "English", "account_age": 1961280.0}

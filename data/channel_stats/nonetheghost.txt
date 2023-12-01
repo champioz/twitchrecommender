@@ -1,0 +1,1 @@
+{"channel": "nonetheghost", "avg_viewers": 260, "followers_gained": 1536, "peak_viewers": 400, "hours_streamed": 25, "streams": 11, "mature": 0, "language": "Spanish", "account_age": 3702240.0}

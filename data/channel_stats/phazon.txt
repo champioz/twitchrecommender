@@ -1,0 +1,1 @@
+{"channel": "phazon", "avg_viewers": 37, "followers_gained": 133, "peak_viewers": 94, "hours_streamed": 15, "streams": 8, "mature": 1, "language": "English", "account_age": 1274400.0}

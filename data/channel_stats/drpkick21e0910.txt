@@ -1,0 +1,1 @@
+{"channel": "drpkick21e0910", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 9, "streams": 9, "mature": 1, "language": "English", "account_age": 1104480.0}

@@ -1,0 +1,1 @@
+{"channel": "yight", "avg_viewers": 52, "followers_gained": 216, "peak_viewers": 90, "hours_streamed": 55, "streams": 22, "mature": 1, "language": "English", "account_age": 1258560.0}

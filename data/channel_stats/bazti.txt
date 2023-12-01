@@ -1,0 +1,1 @@
+{"channel": "bazti", "avg_viewers": 18, "followers_gained": 13, "peak_viewers": 30, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Swedish", "account_age": 2404800.0}

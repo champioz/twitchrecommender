@@ -1,0 +1,1 @@
+{"channel": "pregianza", "avg_viewers": 119, "followers_gained": 102, "peak_viewers": 219, "hours_streamed": 36, "streams": 27, "mature": 0, "language": "Italian", "account_age": 2867040.0}

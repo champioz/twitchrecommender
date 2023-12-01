@@ -1,0 +1,1 @@
+{"channel": "elmiillor", "avg_viewers": 2763, "followers_gained": 7231, "peak_viewers": 5016, "hours_streamed": 184, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 3219840.0}

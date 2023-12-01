@@ -1,0 +1,1 @@
+{"channel": "gelubabatv", "avg_viewers": 138, "followers_gained": 275, "peak_viewers": 339, "hours_streamed": 50, "streams": 9, "mature": 1, "language": "English", "account_age": 2321280.0}

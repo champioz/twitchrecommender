@@ -1,0 +1,1 @@
+{"channel": "shadowfox", "avg_viewers": 66, "followers_gained": 112, "peak_viewers": 133, "hours_streamed": 106, "streams": 14, "mature": 1, "language": "English", "account_age": 1304640.0}

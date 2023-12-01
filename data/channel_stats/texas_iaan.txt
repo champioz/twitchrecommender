@@ -1,0 +1,1 @@
+{"channel": "texas_iaan", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "English", "account_age": 1137600.0}

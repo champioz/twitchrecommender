@@ -1,0 +1,1 @@
+{"channel": "velocinator", "avg_viewers": 11, "followers_gained": 37, "peak_viewers": 98, "hours_streamed": 26, "streams": 6, "mature": 0, "language": "English", "account_age": 2580480.0}

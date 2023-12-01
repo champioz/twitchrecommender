@@ -1,0 +1,1 @@
+{"channel": "chillixxtv", "avg_viewers": 68, "followers_gained": 228, "peak_viewers": 168, "hours_streamed": 68, "streams": 17, "mature": 0, "language": "German", "account_age": 1980000.0}

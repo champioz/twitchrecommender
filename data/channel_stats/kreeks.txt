@@ -1,0 +1,1 @@
+{"channel": "kreeks", "avg_viewers": 102, "followers_gained": 4935, "peak_viewers": 3601, "hours_streamed": 91, "streams": 37, "mature": 0, "language": "French", "account_age": 1686240.0}

@@ -1,0 +1,1 @@
+{"channel": "moxide", "avg_viewers": 9, "followers_gained": 141, "peak_viewers": 26, "hours_streamed": 86, "streams": 19, "mature": 0, "language": "English", "account_age": 2122560.0}

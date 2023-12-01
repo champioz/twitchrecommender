@@ -1,0 +1,1 @@
+{"channel": "baymavi", "avg_viewers": 3, "followers_gained": 19, "peak_viewers": 10, "hours_streamed": 31, "streams": 14, "mature": 1, "language": "Turkish", "account_age": 2698560.0}

@@ -1,0 +1,1 @@
+{"channel": "tk_ikari", "avg_viewers": 32, "followers_gained": 153, "peak_viewers": 231, "hours_streamed": 91, "streams": 22, "mature": 0, "language": "Korean", "account_age": 1118880.0}

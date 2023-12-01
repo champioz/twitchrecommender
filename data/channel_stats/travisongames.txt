@@ -1,0 +1,1 @@
+{"channel": "travisongames", "avg_viewers": 39, "followers_gained": 170, "peak_viewers": 158, "hours_streamed": 49, "streams": 18, "mature": 0, "language": "Czech", "account_age": 466560.0}

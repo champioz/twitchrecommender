@@ -1,0 +1,1 @@
+{"channel": "faultyjetpack", "avg_viewers": 55, "followers_gained": 78, "peak_viewers": 192, "hours_streamed": 89, "streams": 17, "mature": 1, "language": "English", "account_age": 2066400.0}

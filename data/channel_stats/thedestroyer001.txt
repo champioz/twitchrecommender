@@ -1,0 +1,1 @@
+{"channel": "thedestroyer001", "avg_viewers": 27, "followers_gained": 67, "peak_viewers": 61, "hours_streamed": 57, "streams": 17, "mature": 0, "language": "English", "account_age": 1991520.0}

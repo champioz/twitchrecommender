@@ -1,0 +1,1 @@
+{"channel": "thebat226", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 7, "streams": 1, "mature": 1, "language": "English", "account_age": 2334240.0}

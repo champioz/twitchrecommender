@@ -1,0 +1,1 @@
+{"channel": "legendary_matty", "avg_viewers": 3, "followers_gained": 18, "peak_viewers": 17, "hours_streamed": 66, "streams": 26, "mature": 1, "language": "English", "account_age": 1991520.0}

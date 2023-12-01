@@ -1,0 +1,1 @@
+{"channel": "tyti4", "avg_viewers": 52, "followers_gained": 55, "peak_viewers": 157, "hours_streamed": 79, "streams": 31, "mature": 0, "language": "Russian", "account_age": 2129760.0}

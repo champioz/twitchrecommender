@@ -1,0 +1,1 @@
+{"channel": "martinjuza", "avg_viewers": 737, "followers_gained": 1844, "peak_viewers": 1722, "hours_streamed": 71, "streams": 10, "mature": 0, "language": "English", "account_age": 3464640.0}

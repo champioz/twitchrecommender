@@ -1,0 +1,1 @@
+{"channel": "thegoldenblazer", "avg_viewers": 52, "followers_gained": 275, "peak_viewers": 256, "hours_streamed": 158, "streams": 30, "mature": 0, "language": "English", "account_age": 2305440.0}

@@ -1,0 +1,1 @@
+{"channel": "lootlinkme", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 11, "hours_streamed": 17, "streams": 8, "mature": 1, "language": "English", "account_age": 302400.0}

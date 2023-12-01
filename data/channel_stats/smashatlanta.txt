@@ -1,0 +1,1 @@
+{"channel": "smashatlanta", "avg_viewers": 19, "followers_gained": 113, "peak_viewers": 120, "hours_streamed": 48, "streams": 12, "mature": 0, "language": "English", "account_age": 907200.0}

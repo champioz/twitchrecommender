@@ -1,0 +1,1 @@
+{"channel": "krazycries", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 15, "hours_streamed": 92, "streams": 18, "mature": 0, "language": "English", "account_age": 1836000.0}

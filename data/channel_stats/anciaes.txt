@@ -1,0 +1,1 @@
+{"channel": "anciaes", "avg_viewers": 40, "followers_gained": 1053, "peak_viewers": 898, "hours_streamed": 158, "streams": 39, "mature": 0, "language": "Portuguese", "account_age": 1133280.0}

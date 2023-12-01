@@ -1,0 +1,1 @@
+{"channel": "cr1m3_xd", "avg_viewers": 16, "followers_gained": 51, "peak_viewers": 35, "hours_streamed": 17, "streams": 7, "mature": 0, "language": "Danish", "account_age": 1712160.0}

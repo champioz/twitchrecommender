@@ -1,0 +1,1 @@
+{"channel": "shauril", "avg_viewers": 11, "followers_gained": 16, "peak_viewers": 22, "hours_streamed": 11, "streams": 5, "mature": 1, "language": "Russian", "account_age": 1820160.0}

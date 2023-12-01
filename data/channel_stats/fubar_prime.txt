@@ -1,0 +1,1 @@
+{"channel": "fubar_prime", "avg_viewers": 35, "followers_gained": 277, "peak_viewers": 450, "hours_streamed": 46, "streams": 17, "mature": 1, "language": "English", "account_age": 794880.0}

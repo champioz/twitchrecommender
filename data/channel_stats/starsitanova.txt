@@ -1,0 +1,1 @@
+{"channel": "starsitanova", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 17, "hours_streamed": 11, "streams": 5, "mature": 0, "language": "English", "account_age": 1774080.0}

@@ -1,0 +1,1 @@
+{"channel": "dobblesxd", "avg_viewers": 0, "followers_gained": 11, "peak_viewers": 7, "hours_streamed": 88, "streams": 21, "mature": 0, "language": "English", "account_age": 1275840.0}

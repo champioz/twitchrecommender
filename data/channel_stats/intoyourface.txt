@@ -1,0 +1,1 @@
+{"channel": "intoyourface", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 20, "hours_streamed": 27, "streams": 14, "mature": 0, "language": "German", "account_age": 2603520.0}

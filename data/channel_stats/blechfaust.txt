@@ -1,0 +1,1 @@
+{"channel": "blechfaust", "avg_viewers": 10, "followers_gained": 8, "peak_viewers": 23, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "German", "account_age": 3284640.0}

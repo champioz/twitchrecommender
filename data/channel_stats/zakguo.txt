@@ -1,0 +1,1 @@
+{"channel": "zakguo", "avg_viewers": 21, "followers_gained": 67, "peak_viewers": 53, "hours_streamed": 89, "streams": 21, "mature": 0, "language": "Chinese", "account_age": 3003840.0}

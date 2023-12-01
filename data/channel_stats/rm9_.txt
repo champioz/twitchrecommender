@@ -1,0 +1,1 @@
+{"channel": "rm9_", "avg_viewers": 92, "followers_gained": 13, "peak_viewers": 183, "hours_streamed": 191, "streams": 27, "mature": 1, "language": "Chinese", "account_age": 5055840.0}

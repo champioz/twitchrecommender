@@ -1,0 +1,1 @@
+{"channel": "esquia_", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 23, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "Japanese", "account_age": 1517760.0}

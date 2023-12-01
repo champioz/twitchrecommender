@@ -1,0 +1,1 @@
+{"channel": "cloy_styx", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 8, "streams": 7, "mature": 0, "language": "German", "account_age": 2412000.0}

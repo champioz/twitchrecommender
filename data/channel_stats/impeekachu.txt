@@ -1,0 +1,1 @@
+{"channel": "impeekachu", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "German", "account_age": 226080.0}

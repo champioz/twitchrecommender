@@ -1,0 +1,1 @@
+{"channel": "cavecult", "avg_viewers": 6, "followers_gained": 8, "peak_viewers": 13, "hours_streamed": 27, "streams": 12, "mature": 1, "language": "English", "account_age": 612000.0}

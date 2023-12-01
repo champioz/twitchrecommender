@@ -1,0 +1,1 @@
+{"channel": "ryryxxo", "avg_viewers": 20, "followers_gained": 748, "peak_viewers": 105, "hours_streamed": 122, "streams": 32, "mature": 0, "language": "English", "account_age": 560160.0}

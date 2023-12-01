@@ -1,0 +1,1 @@
+{"channel": "wagnaroks", "avg_viewers": 150, "followers_gained": 34, "peak_viewers": 252, "hours_streamed": 19, "streams": 6, "mature": 1, "language": "English", "account_age": 1375200.0}

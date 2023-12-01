@@ -1,0 +1,1 @@
+{"channel": "mai_kuai", "avg_viewers": 5, "followers_gained": 19, "peak_viewers": 28, "hours_streamed": 71, "streams": 22, "mature": 1, "language": "Chinese", "account_age": 2628000.0}

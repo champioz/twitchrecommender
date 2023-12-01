@@ -1,0 +1,1 @@
+{"channel": "genevievemoongarden", "avg_viewers": 7, "followers_gained": 54, "peak_viewers": 31, "hours_streamed": 69, "streams": 14, "mature": 0, "language": "English", "account_age": 722880.0}

@@ -1,0 +1,1 @@
+{"channel": "koda_l__", "avg_viewers": 10, "followers_gained": 137, "peak_viewers": 42, "hours_streamed": 136, "streams": 23, "mature": 0, "language": "Russian", "account_age": 1255680.0}

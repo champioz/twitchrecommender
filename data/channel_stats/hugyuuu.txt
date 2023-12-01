@@ -1,0 +1,1 @@
+{"channel": "hugyuuu", "avg_viewers": 15, "followers_gained": 29, "peak_viewers": 46, "hours_streamed": 156, "streams": 24, "mature": 0, "language": "Korean", "account_age": 1451520.0}

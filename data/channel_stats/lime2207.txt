@@ -1,0 +1,1 @@
+{"channel": "lime2207", "avg_viewers": 71, "followers_gained": 117, "peak_viewers": 159, "hours_streamed": 98, "streams": 26, "mature": 0, "language": "Korean", "account_age": 799200.0}

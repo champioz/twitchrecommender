@@ -1,0 +1,1 @@
+{"channel": "djpernicus", "avg_viewers": 165, "followers_gained": 93, "peak_viewers": 514, "hours_streamed": 77, "streams": 25, "mature": 0, "language": "English", "account_age": 3388320.0}

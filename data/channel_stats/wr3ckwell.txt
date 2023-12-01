@@ -1,0 +1,1 @@
+{"channel": "wr3ckwell", "avg_viewers": 46, "followers_gained": 254, "peak_viewers": 165, "hours_streamed": 169, "streams": 24, "mature": 0, "language": "English", "account_age": 3120480.0}

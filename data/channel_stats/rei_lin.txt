@@ -1,0 +1,1 @@
+{"channel": "rei_lin", "avg_viewers": 12, "followers_gained": 32, "peak_viewers": 91, "hours_streamed": 44, "streams": 12, "mature": 0, "language": "English", "account_age": 3288960.0}

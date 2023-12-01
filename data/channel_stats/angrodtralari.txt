@@ -1,0 +1,1 @@
+{"channel": "angrodtralari", "avg_viewers": 33, "followers_gained": 421, "peak_viewers": 140, "hours_streamed": 164, "streams": 35, "mature": 0, "language": "Spanish", "account_age": 3854880.0}

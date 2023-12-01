@@ -1,0 +1,1 @@
+{"channel": "villumm", "avg_viewers": 6, "followers_gained": 50, "peak_viewers": 59, "hours_streamed": 151, "streams": 29, "mature": 1, "language": "Danish", "account_age": 2442240.0}

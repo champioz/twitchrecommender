@@ -1,0 +1,1 @@
+{"channel": "hansiwurst", "avg_viewers": 43, "followers_gained": 138, "peak_viewers": 164, "hours_streamed": 48, "streams": 12, "mature": 1, "language": "German", "account_age": 1069920.0}

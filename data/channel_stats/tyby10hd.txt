@@ -1,0 +1,1 @@
+{"channel": "tyby10hd", "avg_viewers": 17, "followers_gained": 128, "peak_viewers": 38, "hours_streamed": 118, "streams": 28, "mature": 0, "language": "Romanian", "account_age": 2594880.0}

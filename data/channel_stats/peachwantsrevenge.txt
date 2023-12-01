@@ -1,0 +1,1 @@
+{"channel": "peachwantsrevenge", "avg_viewers": 6, "followers_gained": 15, "peak_viewers": 22, "hours_streamed": 69, "streams": 23, "mature": 1, "language": "English", "account_age": 2747520.0}

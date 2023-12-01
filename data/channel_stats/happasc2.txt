@@ -1,0 +1,1 @@
+{"channel": "happasc2", "avg_viewers": 460, "followers_gained": 115, "peak_viewers": 1065, "hours_streamed": 169, "streams": 22, "mature": 1, "language": "Russian", "account_age": 3895200.0}

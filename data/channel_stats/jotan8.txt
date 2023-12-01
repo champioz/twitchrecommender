@@ -1,0 +1,1 @@
+{"channel": "jotan8", "avg_viewers": 7, "followers_gained": 48, "peak_viewers": 27, "hours_streamed": 90, "streams": 25, "mature": 0, "language": "Spanish", "account_age": 1104480.0}

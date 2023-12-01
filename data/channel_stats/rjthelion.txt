@@ -1,0 +1,1 @@
+{"channel": "rjthelion", "avg_viewers": 3, "followers_gained": 64, "peak_viewers": 12, "hours_streamed": 115, "streams": 43, "mature": 1, "language": "English", "account_age": 724320.0}

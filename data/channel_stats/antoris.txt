@@ -1,0 +1,1 @@
+{"channel": "antoris", "avg_viewers": 34, "followers_gained": 1, "peak_viewers": 107, "hours_streamed": 16, "streams": 6, "mature": 1, "language": "Polish", "account_age": 3633120.0}

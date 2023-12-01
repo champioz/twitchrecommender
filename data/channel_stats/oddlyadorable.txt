@@ -1,0 +1,1 @@
+{"channel": "oddlyadorable", "avg_viewers": 2, "followers_gained": 52, "peak_viewers": 9, "hours_streamed": 121, "streams": 41, "mature": 1, "language": "English", "account_age": 705600.0}

@@ -1,0 +1,1 @@
+{"channel": "war_gost", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 12, "hours_streamed": 51, "streams": 16, "mature": 0, "language": "Greek", "account_age": 2633760.0}

@@ -1,0 +1,1 @@
+{"channel": "makingsofahero", "avg_viewers": 5, "followers_gained": 21, "peak_viewers": 36, "hours_streamed": 48, "streams": 13, "mature": 1, "language": "English", "account_age": 3687840.0}

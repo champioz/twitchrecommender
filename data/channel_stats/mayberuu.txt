@@ -1,0 +1,1 @@
+{"channel": "mayberuu", "avg_viewers": 383, "followers_gained": 401, "peak_viewers": 960, "hours_streamed": 205, "streams": 29, "mature": 1, "language": "Chinese", "account_age": 2134080.0}

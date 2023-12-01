@@ -1,0 +1,1 @@
+{"channel": "sherbertg", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 25, "hours_streamed": 31, "streams": 16, "mature": 0, "language": "English", "account_age": 3672000.0}

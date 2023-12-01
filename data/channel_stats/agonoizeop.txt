@@ -1,0 +1,1 @@
+{"channel": "agonoizeop", "avg_viewers": 14, "followers_gained": 123, "peak_viewers": 40, "hours_streamed": 197, "streams": 27, "mature": 1, "language": "German", "account_age": 1811520.0}

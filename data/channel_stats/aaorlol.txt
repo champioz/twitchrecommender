@@ -1,0 +1,1 @@
+{"channel": "aaorlol", "avg_viewers": 17, "followers_gained": 75, "peak_viewers": 57, "hours_streamed": 390, "streams": 34, "mature": 1, "language": "Chinese", "account_age": 2361600.0}

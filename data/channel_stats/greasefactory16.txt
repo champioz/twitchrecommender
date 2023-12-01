@@ -1,0 +1,1 @@
+{"channel": "greasefactory16", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 5, "streams": 3, "mature": 1, "language": "English", "account_age": 1690560.0}

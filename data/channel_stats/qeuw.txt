@@ -1,0 +1,1 @@
+{"channel": "qeuw", "avg_viewers": 23, "followers_gained": 19, "peak_viewers": 77, "hours_streamed": 165, "streams": 28, "mature": 1, "language": "English", "account_age": 3777120.0}

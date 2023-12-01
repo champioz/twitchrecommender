@@ -1,0 +1,1 @@
+{"channel": "xo_trixy", "avg_viewers": 823, "followers_gained": 4355, "peak_viewers": 1808, "hours_streamed": 89, "streams": 16, "mature": 0, "language": "French", "account_age": 1670400.0}

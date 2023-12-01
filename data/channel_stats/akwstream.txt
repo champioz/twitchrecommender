@@ -1,0 +1,1 @@
+{"channel": "akwstream", "avg_viewers": 4, "followers_gained": 7, "peak_viewers": 17, "hours_streamed": 91, "streams": 33, "mature": 0, "language": "Japanese", "account_age": 2859840.0}

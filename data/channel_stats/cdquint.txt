@@ -1,0 +1,1 @@
+{"channel": "cdquint", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 19, "hours_streamed": 26, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 4118400.0}

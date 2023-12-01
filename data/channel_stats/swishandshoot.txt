@@ -1,0 +1,1 @@
+{"channel": "swishandshoot", "avg_viewers": 38, "followers_gained": 30, "peak_viewers": 98, "hours_streamed": 66, "streams": 18, "mature": 0, "language": "English", "account_age": 1948320.0}

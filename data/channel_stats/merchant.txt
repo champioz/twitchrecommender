@@ -1,0 +1,1 @@
+{"channel": "merchant", "avg_viewers": 332, "followers_gained": 492, "peak_viewers": 904, "hours_streamed": 23, "streams": 7, "mature": 0, "language": "English", "account_age": 1975680.0}

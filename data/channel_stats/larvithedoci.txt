@@ -1,0 +1,1 @@
+{"channel": "larvithedoci", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 1, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "German", "account_age": 2725920.0}

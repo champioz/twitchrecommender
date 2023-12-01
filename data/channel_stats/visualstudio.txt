@@ -1,0 +1,1 @@
+{"channel": "visualstudio", "avg_viewers": 36, "followers_gained": 168, "peak_viewers": 68, "hours_streamed": 14, "streams": 9, "mature": 0, "language": "English", "account_age": 1706400.0}

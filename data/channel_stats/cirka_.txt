@@ -1,0 +1,1 @@
+{"channel": "cirka_", "avg_viewers": 18, "followers_gained": 94, "peak_viewers": 370, "hours_streamed": 156, "streams": 25, "mature": 1, "language": "French", "account_age": 2797920.0}

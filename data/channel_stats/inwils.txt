@@ -1,0 +1,1 @@
+{"channel": "inwils", "avg_viewers": 30, "followers_gained": 51, "peak_viewers": 223, "hours_streamed": 83, "streams": 24, "mature": 1, "language": "English", "account_age": 4900320.0}

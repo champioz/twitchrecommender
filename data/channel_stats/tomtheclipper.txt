@@ -1,0 +1,1 @@
+{"channel": "tomtheclipper", "avg_viewers": 7, "followers_gained": 35, "peak_viewers": 23, "hours_streamed": 12, "streams": 7, "mature": 0, "language": "English", "account_age": 1288800.0}

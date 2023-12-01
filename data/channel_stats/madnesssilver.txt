@@ -1,0 +1,1 @@
+{"channel": "madnesssilver", "avg_viewers": 18, "followers_gained": 3, "peak_viewers": 49, "hours_streamed": 50, "streams": 12, "mature": 1, "language": "Chinese (Hong Kong SAR)", "account_age": 3792960.0}

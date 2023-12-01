@@ -1,0 +1,1 @@
+{"channel": "digital_trauma", "avg_viewers": 21, "followers_gained": 4, "peak_viewers": 62, "hours_streamed": 21, "streams": 5, "mature": 1, "language": "English", "account_age": 627840.0}

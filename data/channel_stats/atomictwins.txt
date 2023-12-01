@@ -1,0 +1,1 @@
+{"channel": "atomictwins", "avg_viewers": 69, "followers_gained": 507, "peak_viewers": 297, "hours_streamed": 84, "streams": 17, "mature": 1, "language": "English", "account_age": 588960.0}

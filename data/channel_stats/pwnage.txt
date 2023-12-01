@@ -1,0 +1,1 @@
+{"channel": "pwnage", "avg_viewers": 203, "followers_gained": 536, "peak_viewers": 811, "hours_streamed": 42, "streams": 10, "mature": 0, "language": "Turkish", "account_age": 1785600.0}

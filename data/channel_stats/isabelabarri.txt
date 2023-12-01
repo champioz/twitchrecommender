@@ -1,0 +1,1 @@
+{"channel": "isabelabarri", "avg_viewers": 52, "followers_gained": 602, "peak_viewers": 111, "hours_streamed": 48, "streams": 12, "mature": 0, "language": "Portuguese", "account_age": 1404000.0}

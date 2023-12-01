@@ -1,0 +1,1 @@
+{"channel": "kenobisboch", "avg_viewers": 84, "followers_gained": 227, "peak_viewers": 187, "hours_streamed": 54, "streams": 37, "mature": 0, "language": "Italian", "account_age": 1262880.0}

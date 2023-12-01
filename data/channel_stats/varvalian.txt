@@ -1,0 +1,1 @@
+{"channel": "varvalian", "avg_viewers": 323, "followers_gained": 2480, "peak_viewers": 1137, "hours_streamed": 119, "streams": 30, "mature": 0, "language": "Japanese", "account_age": 1520640.0}

@@ -1,0 +1,1 @@
+{"channel": "javierklp", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 6, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 3574080.0}

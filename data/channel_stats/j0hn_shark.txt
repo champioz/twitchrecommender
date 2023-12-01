@@ -1,0 +1,1 @@
+{"channel": "j0hn_shark", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "French", "account_age": 1828800.0}

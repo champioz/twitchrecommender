@@ -1,0 +1,1 @@
+{"channel": "krystalcakes", "avg_viewers": 16, "followers_gained": 21, "peak_viewers": 40, "hours_streamed": 31, "streams": 9, "mature": 1, "language": "English", "account_age": 2367360.0}

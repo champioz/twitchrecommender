@@ -1,0 +1,1 @@
+{"channel": "sodekmtg", "avg_viewers": 89, "followers_gained": 169, "peak_viewers": 201, "hours_streamed": 16, "streams": 5, "mature": 0, "language": "English", "account_age": 2011680.0}

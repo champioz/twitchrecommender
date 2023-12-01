@@ -1,0 +1,1 @@
+{"channel": "marin32166", "avg_viewers": 3, "followers_gained": 64, "peak_viewers": 15, "hours_streamed": 267, "streams": 58, "mature": 0, "language": "Korean", "account_age": 884160.0}

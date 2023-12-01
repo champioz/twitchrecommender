@@ -1,0 +1,1 @@
+{"channel": "retroberra", "avg_viewers": 10, "followers_gained": 18, "peak_viewers": 29, "hours_streamed": 170, "streams": 40, "mature": 0, "language": "Swedish", "account_age": 2743200.0}

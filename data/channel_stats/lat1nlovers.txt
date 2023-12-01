@@ -1,0 +1,1 @@
+{"channel": "lat1nlovers", "avg_viewers": 5, "followers_gained": 40, "peak_viewers": 14, "hours_streamed": 120, "streams": 28, "mature": 0, "language": "Spanish", "account_age": 3241440.0}

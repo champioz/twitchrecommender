@@ -1,0 +1,1 @@
+{"channel": "navarroxx", "avg_viewers": 88, "followers_gained": 324, "peak_viewers": 137, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "Spanish", "account_age": 3178080.0}

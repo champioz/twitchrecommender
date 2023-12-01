@@ -1,0 +1,1 @@
+{"channel": "piskisss", "avg_viewers": 39, "followers_gained": 341, "peak_viewers": 217, "hours_streamed": 5, "streams": 5, "mature": 1, "language": "Czech", "account_age": 2057760.0}

@@ -1,0 +1,1 @@
+{"channel": "krisfn_", "avg_viewers": 33, "followers_gained": 346, "peak_viewers": 67, "hours_streamed": 28, "streams": 13, "mature": 0, "language": "Norwegian", "account_age": 632160.0}

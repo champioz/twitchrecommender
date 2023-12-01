@@ -1,0 +1,1 @@
+{"channel": "hurai3", "avg_viewers": 41, "followers_gained": 15, "peak_viewers": 99, "hours_streamed": 57, "streams": 12, "mature": 0, "language": "Korean", "account_age": 901440.0}

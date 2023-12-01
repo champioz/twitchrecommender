@@ -1,0 +1,1 @@
+{"channel": "evil2k", "avg_viewers": 15, "followers_gained": 92, "peak_viewers": 167, "hours_streamed": 91, "streams": 32, "mature": 0, "language": "Arabic", "account_age": 3261600.0}

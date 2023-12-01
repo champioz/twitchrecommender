@@ -1,0 +1,1 @@
+{"channel": "zoodasa", "avg_viewers": 701, "followers_gained": 4577, "peak_viewers": 1792, "hours_streamed": 86, "streams": 15, "mature": 0, "language": "Korean", "account_age": 1448640.0}

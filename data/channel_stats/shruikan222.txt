@@ -1,0 +1,1 @@
+{"channel": "shruikan222", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 36, "hours_streamed": 21, "streams": 9, "mature": 1, "language": "English", "account_age": 2738880.0}

@@ -1,0 +1,1 @@
+{"channel": "dabao9527", "avg_viewers": 10, "followers_gained": 46, "peak_viewers": 33, "hours_streamed": 212, "streams": 37, "mature": 0, "language": "Chinese", "account_age": 3096000.0}

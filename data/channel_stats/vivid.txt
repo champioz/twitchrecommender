@@ -1,0 +1,1 @@
+{"channel": "vivid", "avg_viewers": 2683, "followers_gained": 665, "peak_viewers": 3951, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "English", "account_age": 2495520.0}

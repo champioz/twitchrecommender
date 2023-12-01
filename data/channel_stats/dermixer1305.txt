@@ -1,0 +1,1 @@
+{"channel": "dermixer1305", "avg_viewers": 8, "followers_gained": 4, "peak_viewers": 28, "hours_streamed": 9, "streams": 5, "mature": 1, "language": "German", "account_age": 3101760.0}

@@ -1,0 +1,1 @@
+{"channel": "mcbaze", "avg_viewers": 71, "followers_gained": 775, "peak_viewers": 237, "hours_streamed": 241, "streams": 27, "mature": 0, "language": "English", "account_age": 3703680.0}

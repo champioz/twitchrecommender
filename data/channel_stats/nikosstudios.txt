@@ -1,0 +1,1 @@
+{"channel": "nikosstudios", "avg_viewers": 10, "followers_gained": 22, "peak_viewers": 30, "hours_streamed": 91, "streams": 23, "mature": 0, "language": "English", "account_age": 2400480.0}

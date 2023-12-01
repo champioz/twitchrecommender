@@ -1,0 +1,1 @@
+{"channel": "spacenutz85", "avg_viewers": 35, "followers_gained": 33, "peak_viewers": 100, "hours_streamed": 43, "streams": 14, "mature": 0, "language": "English", "account_age": 1213920.0}

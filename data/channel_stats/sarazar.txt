@@ -1,0 +1,1 @@
+{"channel": "sarazar", "avg_viewers": 233, "followers_gained": 130, "peak_viewers": 380, "hours_streamed": 14, "streams": 5, "mature": 1, "language": "German", "account_age": 2463840.0}

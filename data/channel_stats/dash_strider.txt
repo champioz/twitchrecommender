@@ -1,0 +1,1 @@
+{"channel": "dash_strider", "avg_viewers": 1, "followers_gained": 8, "peak_viewers": 9, "hours_streamed": 80, "streams": 31, "mature": 1, "language": "English", "account_age": 1249920.0}

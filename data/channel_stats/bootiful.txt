@@ -1,0 +1,1 @@
+{"channel": "bootiful", "avg_viewers": 11, "followers_gained": 64, "peak_viewers": 31, "hours_streamed": 126, "streams": 31, "mature": 1, "language": "English", "account_age": 3150720.0}

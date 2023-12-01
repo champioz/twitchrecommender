@@ -1,0 +1,1 @@
+{"channel": "thenorthernalex", "avg_viewers": 53, "followers_gained": 337, "peak_viewers": 165, "hours_streamed": 91, "streams": 33, "mature": 0, "language": "English", "account_age": 3211200.0}

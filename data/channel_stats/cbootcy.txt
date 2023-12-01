@@ -1,0 +1,1 @@
+{"channel": "cbootcy", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 5, "streams": 5, "mature": 0, "language": "English", "account_age": 2161440.0}

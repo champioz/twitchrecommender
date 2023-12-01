@@ -1,0 +1,1 @@
+{"channel": "butae29", "avg_viewers": 40, "followers_gained": 13, "peak_viewers": 58, "hours_streamed": 34, "streams": 6, "mature": 0, "language": "Japanese", "account_age": 90720.0}

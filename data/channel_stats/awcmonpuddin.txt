@@ -1,0 +1,1 @@
+{"channel": "awcmonpuddin", "avg_viewers": 32, "followers_gained": 217, "peak_viewers": 64, "hours_streamed": 63, "streams": 15, "mature": 1, "language": "English", "account_age": 2259360.0}

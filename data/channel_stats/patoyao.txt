@@ -1,0 +1,1 @@
+{"channel": "patoyao", "avg_viewers": 95, "followers_gained": 62, "peak_viewers": 158, "hours_streamed": 43, "streams": 7, "mature": 0, "language": "Thai", "account_age": 3774240.0}

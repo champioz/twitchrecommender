@@ -1,0 +1,1 @@
+{"channel": "volkfenrir", "avg_viewers": 5, "followers_gained": 62, "peak_viewers": 20, "hours_streamed": 137, "streams": 30, "mature": 1, "language": "Russian", "account_age": 3299040.0}

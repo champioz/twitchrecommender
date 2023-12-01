@@ -1,0 +1,1 @@
+{"channel": "usf4dave", "avg_viewers": 8, "followers_gained": 2, "peak_viewers": 16, "hours_streamed": 7, "streams": 4, "mature": 0, "language": "English", "account_age": 1193760.0}

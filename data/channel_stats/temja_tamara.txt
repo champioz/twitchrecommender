@@ -1,0 +1,1 @@
+{"channel": "temja_tamara", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 1, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "German", "account_age": 1225440.0}

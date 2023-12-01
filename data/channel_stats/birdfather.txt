@@ -1,0 +1,1 @@
+{"channel": "birdfather", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 2, "hours_streamed": 11, "streams": 6, "mature": 0, "language": "English", "account_age": 2777760.0}

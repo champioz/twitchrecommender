@@ -1,0 +1,1 @@
+{"channel": "dixielapeste", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 14, "hours_streamed": 95, "streams": 32, "mature": 0, "language": "French", "account_age": 1317600.0}

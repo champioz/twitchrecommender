@@ -1,0 +1,1 @@
+{"channel": "siinghto", "avg_viewers": 0, "followers_gained": 9, "peak_viewers": 3, "hours_streamed": 126, "streams": 50, "mature": 0, "language": "Thai", "account_age": 420480.0}

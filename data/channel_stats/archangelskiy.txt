@@ -1,0 +1,1 @@
+{"channel": "archangelskiy", "avg_viewers": 136, "followers_gained": 234, "peak_viewers": 784, "hours_streamed": 158, "streams": 22, "mature": 0, "language": "Russian", "account_age": 921600.0}

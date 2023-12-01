@@ -1,0 +1,1 @@
+{"channel": "winzniwz", "avg_viewers": 0, "followers_gained": 8, "peak_viewers": 5, "hours_streamed": 37, "streams": 13, "mature": 0, "language": "Thai", "account_age": 731520.0}

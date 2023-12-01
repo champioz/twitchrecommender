@@ -1,0 +1,1 @@
+{"channel": "beardslay", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 4, "hours_streamed": 62, "streams": 23, "mature": 1, "language": "English", "account_age": 643680.0}

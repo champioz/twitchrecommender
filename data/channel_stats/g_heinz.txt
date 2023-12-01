@@ -1,0 +1,1 @@
+{"channel": "g_heinz", "avg_viewers": 5, "followers_gained": 4, "peak_viewers": 12, "hours_streamed": 23, "streams": 4, "mature": 0, "language": "English", "account_age": 3106080.0}

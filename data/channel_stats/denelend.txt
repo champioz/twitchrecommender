@@ -1,0 +1,1 @@
+{"channel": "denelend", "avg_viewers": 2, "followers_gained": 54, "peak_viewers": 14, "hours_streamed": 99, "streams": 30, "mature": 0, "language": "Ukrainian", "account_age": 984960.0}

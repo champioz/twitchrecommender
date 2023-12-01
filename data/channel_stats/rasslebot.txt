@@ -1,0 +1,1 @@
+{"channel": "rasslebot", "avg_viewers": 1, "followers_gained": 133, "peak_viewers": 31, "hours_streamed": 715, "streams": 22, "mature": 0, "language": "English", "account_age": 279360.0}

@@ -1,0 +1,1 @@
+{"channel": "wickedknucker", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 66, "streams": 12, "mature": 1, "language": "Swedish", "account_age": 1552320.0}

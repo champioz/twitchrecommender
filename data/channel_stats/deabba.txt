@@ -1,0 +1,1 @@
+{"channel": "deabba", "avg_viewers": 22, "followers_gained": 647, "peak_viewers": 180, "hours_streamed": 62, "streams": 17, "mature": 1, "language": "English", "account_age": 2982240.0}

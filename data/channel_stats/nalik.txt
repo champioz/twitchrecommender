@@ -1,0 +1,1 @@
+{"channel": "nalik", "avg_viewers": 9, "followers_gained": 52, "peak_viewers": 74, "hours_streamed": 55, "streams": 13, "mature": 1, "language": "Portuguese", "account_age": 2967840.0}

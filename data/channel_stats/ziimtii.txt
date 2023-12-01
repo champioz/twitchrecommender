@@ -1,0 +1,1 @@
+{"channel": "ziimtii", "avg_viewers": 12, "followers_gained": 157, "peak_viewers": 38, "hours_streamed": 66, "streams": 22, "mature": 1, "language": "German", "account_age": 1948320.0}

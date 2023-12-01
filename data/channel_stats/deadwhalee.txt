@@ -1,0 +1,1 @@
+{"channel": "deadwhalee", "avg_viewers": 7, "followers_gained": 18, "peak_viewers": 60, "hours_streamed": 84, "streams": 20, "mature": 0, "language": "Russian", "account_age": 1431360.0}

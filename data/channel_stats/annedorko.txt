@@ -1,0 +1,1 @@
+{"channel": "annedorko", "avg_viewers": 23, "followers_gained": 40, "peak_viewers": 150, "hours_streamed": 39, "streams": 10, "mature": 1, "language": "English", "account_age": 665280.0}

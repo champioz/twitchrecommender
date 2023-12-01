@@ -1,0 +1,1 @@
+{"channel": "vaiyl", "avg_viewers": 10, "followers_gained": 83, "peak_viewers": 111, "hours_streamed": 237, "streams": 29, "mature": 0, "language": "English", "account_age": 3054240.0}

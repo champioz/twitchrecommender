@@ -1,0 +1,1 @@
+{"channel": "kounekocafe", "avg_viewers": 11, "followers_gained": 73, "peak_viewers": 97, "hours_streamed": 79, "streams": 11, "mature": 1, "language": "English", "account_age": 720000.0}

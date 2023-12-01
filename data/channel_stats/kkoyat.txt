@@ -1,0 +1,1 @@
+{"channel": "kkoyat", "avg_viewers": 123, "followers_gained": 141, "peak_viewers": 363, "hours_streamed": 111, "streams": 35, "mature": 0, "language": "Korean", "account_age": 495360.0}

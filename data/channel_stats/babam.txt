@@ -1,0 +1,1 @@
+{"channel": "babam", "avg_viewers": 238, "followers_gained": 413, "peak_viewers": 2254, "hours_streamed": 78, "streams": 28, "mature": 0, "language": "Russian", "account_age": 4181760.0}

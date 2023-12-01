@@ -1,0 +1,1 @@
+{"channel": "sverdlovsktv", "avg_viewers": 18, "followers_gained": 272, "peak_viewers": 67, "hours_streamed": 213, "streams": 49, "mature": 0, "language": "Russian", "account_age": 862560.0}

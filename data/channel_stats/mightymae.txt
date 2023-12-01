@@ -1,0 +1,1 @@
+{"channel": "mightymae", "avg_viewers": 44, "followers_gained": 64, "peak_viewers": 88, "hours_streamed": 26, "streams": 7, "mature": 1, "language": "English", "account_age": 1476000.0}

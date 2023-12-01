@@ -1,0 +1,1 @@
+{"channel": "mjjtv", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 6, "streams": 7, "mature": 1, "language": "German", "account_age": 1857600.0}

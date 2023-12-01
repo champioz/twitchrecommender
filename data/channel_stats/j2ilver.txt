@@ -1,0 +1,1 @@
+{"channel": "j2ilver", "avg_viewers": 6, "followers_gained": 31, "peak_viewers": 31, "hours_streamed": 159, "streams": 23, "mature": 0, "language": "Korean", "account_age": 1405440.0}

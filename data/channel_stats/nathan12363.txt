@@ -1,0 +1,1 @@
+{"channel": "nathan12363", "avg_viewers": 3, "followers_gained": 10, "peak_viewers": 16, "hours_streamed": 29, "streams": 14, "mature": 0, "language": "English", "account_age": 594720.0}

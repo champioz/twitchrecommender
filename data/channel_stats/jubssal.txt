@@ -1,0 +1,1 @@
+{"channel": "jubssal", "avg_viewers": 289, "followers_gained": 396, "peak_viewers": 843, "hours_streamed": 94, "streams": 17, "mature": 1, "language": "Korean", "account_age": 1264320.0}

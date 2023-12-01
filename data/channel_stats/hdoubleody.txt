@@ -1,0 +1,1 @@
+{"channel": "hdoubleody", "avg_viewers": 8, "followers_gained": 180, "peak_viewers": 26, "hours_streamed": 152, "streams": 48, "mature": 0, "language": "English", "account_age": 308160.0}

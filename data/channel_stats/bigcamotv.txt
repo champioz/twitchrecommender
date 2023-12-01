@@ -1,0 +1,1 @@
+{"channel": "bigcamotv", "avg_viewers": 17, "followers_gained": 231, "peak_viewers": 42, "hours_streamed": 107, "streams": 19, "mature": 0, "language": "English", "account_age": 622080.0}

@@ -1,0 +1,1 @@
+{"channel": "bashcoo", "avg_viewers": 7, "followers_gained": 4, "peak_viewers": 27, "hours_streamed": 168, "streams": 32, "mature": 1, "language": "German", "account_age": 1324800.0}

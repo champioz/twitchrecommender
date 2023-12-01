@@ -1,0 +1,1 @@
+{"channel": "mikuchinatsu", "avg_viewers": 23, "followers_gained": 336, "peak_viewers": 50, "hours_streamed": 83, "streams": 38, "mature": 0, "language": "Spanish", "account_age": 3919680.0}

@@ -1,0 +1,1 @@
+{"channel": "aaatozed", "avg_viewers": 8, "followers_gained": 24, "peak_viewers": 24, "hours_streamed": 61, "streams": 14, "mature": 1, "language": "English", "account_age": 2646720.0}

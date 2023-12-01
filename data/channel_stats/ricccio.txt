@@ -1,0 +1,1 @@
+{"channel": "ricccio", "avg_viewers": 58, "followers_gained": 84, "peak_viewers": 154, "hours_streamed": 28, "streams": 9, "mature": 0, "language": "Russian", "account_age": 2833920.0}

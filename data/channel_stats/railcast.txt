@@ -1,0 +1,1 @@
+{"channel": "railcast", "avg_viewers": 3, "followers_gained": 21, "peak_viewers": 11, "hours_streamed": 153, "streams": 39, "mature": 1, "language": "English", "account_age": 3229920.0}

@@ -1,0 +1,1 @@
+{"channel": "hulla_szilva", "avg_viewers": 137, "followers_gained": 704, "peak_viewers": 303, "hours_streamed": 229, "streams": 54, "mature": 1, "language": "Hungarian", "account_age": 3195360.0}

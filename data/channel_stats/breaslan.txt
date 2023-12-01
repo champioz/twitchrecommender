@@ -1,0 +1,1 @@
+{"channel": "breaslan", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 10, "hours_streamed": 16, "streams": 14, "mature": 0, "language": "Turkish", "account_age": 937440.0}

@@ -1,0 +1,1 @@
+{"channel": "cab4llero94", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 7, "hours_streamed": 22, "streams": 11, "mature": 1, "language": "Spanish", "account_age": 2394720.0}

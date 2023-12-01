@@ -1,0 +1,1 @@
+{"channel": "apg4ming", "avg_viewers": 8, "followers_gained": 109, "peak_viewers": 67, "hours_streamed": 65, "streams": 12, "mature": 1, "language": "English", "account_age": 813600.0}

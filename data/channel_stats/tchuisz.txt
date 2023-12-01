@@ -1,0 +1,1 @@
+{"channel": "tchuisz", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 12, "hours_streamed": 80, "streams": 26, "mature": 1, "language": "Portuguese", "account_age": 2001600.0}

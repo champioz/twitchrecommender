@@ -1,0 +1,1 @@
+{"channel": "lunalyrik", "avg_viewers": 78, "followers_gained": 186, "peak_viewers": 152, "hours_streamed": 65, "streams": 14, "mature": 0, "language": "English", "account_age": 1984320.0}

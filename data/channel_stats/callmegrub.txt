@@ -1,0 +1,1 @@
+{"channel": "callmegrub", "avg_viewers": 411, "followers_gained": 3704, "peak_viewers": 1886, "hours_streamed": 170, "streams": 30, "mature": 1, "language": "English", "account_age": 1002240.0}

@@ -1,0 +1,1 @@
+{"channel": "chaosd1", "avg_viewers": 11, "followers_gained": 3, "peak_viewers": 24, "hours_streamed": 22, "streams": 6, "mature": 1, "language": "English", "account_age": 4747680.0}

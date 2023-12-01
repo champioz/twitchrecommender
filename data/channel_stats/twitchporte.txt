@@ -1,0 +1,1 @@
+{"channel": "twitchporte", "avg_viewers": 9, "followers_gained": 111, "peak_viewers": 41, "hours_streamed": 199, "streams": 29, "mature": 1, "language": "English", "account_age": 318240.0}

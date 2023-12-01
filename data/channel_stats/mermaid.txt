@@ -1,0 +1,1 @@
+{"channel": "mermaid", "avg_viewers": 69, "followers_gained": 55, "peak_viewers": 128, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "Portuguese", "account_age": 2786400.0}

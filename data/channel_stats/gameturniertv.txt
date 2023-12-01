@@ -1,0 +1,1 @@
+{"channel": "gameturniertv", "avg_viewers": 14, "followers_gained": 0, "peak_viewers": 25, "hours_streamed": 9, "streams": 3, "mature": 0, "language": "German", "account_age": 2590560.0}

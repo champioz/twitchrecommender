@@ -1,0 +1,1 @@
+{"channel": "ciziklivan", "avg_viewers": 15, "followers_gained": 31, "peak_viewers": 49, "hours_streamed": 23, "streams": 5, "mature": 0, "language": "Turkish", "account_age": 1391040.0}

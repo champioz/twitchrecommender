@@ -1,0 +1,1 @@
+{"channel": "perlenfuchs", "avg_viewers": 7, "followers_gained": 15, "peak_viewers": 28, "hours_streamed": 13, "streams": 2, "mature": 1, "language": "German", "account_age": 1751040.0}

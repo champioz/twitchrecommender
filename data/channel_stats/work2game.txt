@@ -1,0 +1,1 @@
+{"channel": "work2game", "avg_viewers": 45, "followers_gained": 631, "peak_viewers": 490, "hours_streamed": 50, "streams": 25, "mature": 0, "language": "English", "account_age": 1124640.0}

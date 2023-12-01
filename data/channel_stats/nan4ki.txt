@@ -1,0 +1,1 @@
+{"channel": "nan4ki", "avg_viewers": 4, "followers_gained": 29, "peak_viewers": 16, "hours_streamed": 104, "streams": 20, "mature": 1, "language": "German", "account_age": 3077280.0}

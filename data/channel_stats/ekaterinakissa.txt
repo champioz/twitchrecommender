@@ -1,0 +1,1 @@
+{"channel": "ekaterinakissa", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 30, "hours_streamed": 32, "streams": 12, "mature": 1, "language": "Russian", "account_age": 2656800.0}

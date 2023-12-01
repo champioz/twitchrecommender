@@ -1,0 +1,1 @@
+{"channel": "hookey", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 83, "streams": 18, "mature": 1, "language": "English", "account_age": 4127040.0}

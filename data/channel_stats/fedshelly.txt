@@ -1,0 +1,1 @@
+{"channel": "fedshelly", "avg_viewers": 18, "followers_gained": 48, "peak_viewers": 46, "hours_streamed": 14, "streams": 8, "mature": 0, "language": "German", "account_age": 411840.0}

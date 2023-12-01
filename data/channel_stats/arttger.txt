@@ -1,0 +1,1 @@
+{"channel": "arttger", "avg_viewers": 91, "followers_gained": 200, "peak_viewers": 280, "hours_streamed": 198, "streams": 27, "mature": 0, "language": "Korean", "account_age": 2005920.0}

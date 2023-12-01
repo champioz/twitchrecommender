@@ -1,0 +1,1 @@
+{"channel": "teknokasap", "avg_viewers": 32, "followers_gained": 741, "peak_viewers": 90, "hours_streamed": 161, "streams": 32, "mature": 1, "language": "Turkish", "account_age": 2462400.0}

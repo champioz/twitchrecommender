@@ -1,0 +1,1 @@
+{"channel": "yoko_factor", "avg_viewers": 15, "followers_gained": 56, "peak_viewers": 39, "hours_streamed": 68, "streams": 7, "mature": 1, "language": "English", "account_age": 982080.0}

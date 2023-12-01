@@ -1,0 +1,1 @@
+{"channel": "poukegam", "avg_viewers": 11, "followers_gained": 165, "peak_viewers": 30, "hours_streamed": 193, "streams": 32, "mature": 1, "language": "Spanish", "account_age": 1624320.0}

@@ -1,0 +1,1 @@
+{"channel": "the_stranguh", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 11, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "English", "account_age": 2296800.0}

@@ -1,0 +1,1 @@
+{"channel": "hanuta52", "avg_viewers": 48, "followers_gained": 40, "peak_viewers": 240, "hours_streamed": 66, "streams": 12, "mature": 1, "language": "German", "account_age": 1981440.0}

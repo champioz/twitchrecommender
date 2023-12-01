@@ -1,0 +1,1 @@
+{"channel": "miragefla", "avg_viewers": 15, "followers_gained": 16, "peak_viewers": 47, "hours_streamed": 35, "streams": 11, "mature": 0, "language": "English", "account_age": 2708640.0}

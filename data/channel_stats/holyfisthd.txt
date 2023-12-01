@@ -1,0 +1,1 @@
+{"channel": "holyfisthd", "avg_viewers": 157, "followers_gained": 43, "peak_viewers": 302, "hours_streamed": 49, "streams": 9, "mature": 1, "language": "German", "account_age": 3412800.0}

@@ -1,0 +1,1 @@
+{"channel": "ryscu", "avg_viewers": 7, "followers_gained": 106, "peak_viewers": 14, "hours_streamed": 7, "streams": 6, "mature": 0, "language": "English", "account_age": 2449440.0}

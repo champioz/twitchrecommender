@@ -1,0 +1,1 @@
+{"channel": "brockthe_rock", "avg_viewers": 8, "followers_gained": 579, "peak_viewers": 36, "hours_streamed": 92, "streams": 40, "mature": 0, "language": "English", "account_age": 989280.0}

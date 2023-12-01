@@ -1,0 +1,1 @@
+{"channel": "mogoon14", "avg_viewers": 134, "followers_gained": 1213, "peak_viewers": 257, "hours_streamed": 68, "streams": 13, "mature": 0, "language": "Korean", "account_age": 858240.0}

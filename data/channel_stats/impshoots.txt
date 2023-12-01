@@ -1,0 +1,1 @@
+{"channel": "impshoots", "avg_viewers": 6, "followers_gained": 60, "peak_viewers": 17, "hours_streamed": 41, "streams": 14, "mature": 0, "language": "English", "account_age": 655200.0}

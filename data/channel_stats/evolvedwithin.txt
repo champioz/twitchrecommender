@@ -1,0 +1,1 @@
+{"channel": "evolvedwithin", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 6, "hours_streamed": 71, "streams": 23, "mature": 1, "language": "English", "account_age": 707040.0}

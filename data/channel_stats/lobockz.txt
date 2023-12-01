@@ -1,0 +1,1 @@
+{"channel": "lobockz", "avg_viewers": 33, "followers_gained": 87, "peak_viewers": 129, "hours_streamed": 26, "streams": 8, "mature": 1, "language": "Spanish", "account_age": 2046240.0}

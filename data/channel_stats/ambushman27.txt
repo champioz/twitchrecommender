@@ -1,0 +1,1 @@
+{"channel": "ambushman27", "avg_viewers": 6, "followers_gained": 41, "peak_viewers": 26, "hours_streamed": 130, "streams": 29, "mature": 1, "language": "English", "account_age": 2200320.0}

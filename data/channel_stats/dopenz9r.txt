@@ -1,0 +1,1 @@
+{"channel": "dopenz9r", "avg_viewers": 17, "followers_gained": 87, "peak_viewers": 80, "hours_streamed": 64, "streams": 29, "mature": 0, "language": "English", "account_age": 311040.0}

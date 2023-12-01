@@ -1,0 +1,1 @@
+{"channel": "johnyyy51", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 10, "hours_streamed": 60, "streams": 20, "mature": 1, "language": "English", "account_age": 2779200.0}

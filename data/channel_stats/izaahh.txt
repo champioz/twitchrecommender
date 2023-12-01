@@ -1,0 +1,1 @@
+{"channel": "izaahh", "avg_viewers": 11, "followers_gained": 35, "peak_viewers": 28, "hours_streamed": 74, "streams": 19, "mature": 1, "language": "English", "account_age": 2748960.0}

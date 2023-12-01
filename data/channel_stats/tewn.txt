@@ -1,0 +1,1 @@
+{"channel": "tewn", "avg_viewers": 40, "followers_gained": 2, "peak_viewers": 128, "hours_streamed": 62, "streams": 17, "mature": 0, "language": "English", "account_age": 1476000.0}

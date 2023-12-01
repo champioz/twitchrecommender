@@ -1,0 +1,1 @@
+{"channel": "heosam", "avg_viewers": 40, "followers_gained": 138, "peak_viewers": 79, "hours_streamed": 68, "streams": 16, "mature": 0, "language": "Korean", "account_age": 1535040.0}

@@ -1,0 +1,1 @@
+{"channel": "minthon19", "avg_viewers": 113, "followers_gained": 105, "peak_viewers": 284, "hours_streamed": 67, "streams": 11, "mature": 0, "language": "Russian", "account_age": 1926720.0}

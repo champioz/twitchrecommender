@@ -1,0 +1,1 @@
+{"channel": "rooslugs", "avg_viewers": 7, "followers_gained": 41, "peak_viewers": 242, "hours_streamed": 100, "streams": 29, "mature": 0, "language": "English", "account_age": 1386720.0}

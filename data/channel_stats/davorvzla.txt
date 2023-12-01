@@ -1,0 +1,1 @@
+{"channel": "davorvzla", "avg_viewers": 7, "followers_gained": 168, "peak_viewers": 22, "hours_streamed": 127, "streams": 36, "mature": 1, "language": "Spanish", "account_age": 354240.0}

@@ -1,0 +1,1 @@
+{"channel": "mawrkoh", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 12, "hours_streamed": 10, "streams": 2, "mature": 0, "language": "English", "account_age": 2812320.0}

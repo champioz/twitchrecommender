@@ -1,0 +1,1 @@
+{"channel": "rydrik", "avg_viewers": 15, "followers_gained": 9, "peak_viewers": 25, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "Portuguese", "account_age": 891360.0}

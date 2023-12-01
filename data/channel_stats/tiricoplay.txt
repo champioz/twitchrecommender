@@ -1,0 +1,1 @@
+{"channel": "tiricoplay", "avg_viewers": 42, "followers_gained": 57, "peak_viewers": 100, "hours_streamed": 100, "streams": 17, "mature": 1, "language": "Portuguese", "account_age": 545760.0}

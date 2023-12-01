@@ -1,0 +1,1 @@
+{"channel": "flapiix", "avg_viewers": 269, "followers_gained": 3397, "peak_viewers": 1223, "hours_streamed": 85, "streams": 22, "mature": 0, "language": "French", "account_age": 2285280.0}

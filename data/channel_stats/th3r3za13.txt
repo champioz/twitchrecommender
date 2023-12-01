@@ -1,0 +1,1 @@
+{"channel": "th3r3za13", "avg_viewers": 4, "followers_gained": 15, "peak_viewers": 13, "hours_streamed": 40, "streams": 10, "mature": 1, "language": "English", "account_age": 3571200.0}

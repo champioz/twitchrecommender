@@ -1,0 +1,1 @@
+{"channel": "mirdex_", "avg_viewers": 8, "followers_gained": 443, "peak_viewers": 33, "hours_streamed": 90, "streams": 16, "mature": 0, "language": "Czech", "account_age": 793440.0}

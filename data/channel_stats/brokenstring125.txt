@@ -1,0 +1,1 @@
+{"channel": "brokenstring125", "avg_viewers": 18, "followers_gained": 43, "peak_viewers": 83, "hours_streamed": 59, "streams": 14, "mature": 0, "language": "English", "account_age": 2691360.0}

@@ -1,0 +1,1 @@
+{"channel": "flashis_games", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 8, "hours_streamed": 32, "streams": 12, "mature": 1, "language": "German", "account_age": 1828800.0}

@@ -1,0 +1,1 @@
+{"channel": "firatyz", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Turkish", "account_age": 2001600.0}

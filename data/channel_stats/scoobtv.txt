@@ -1,0 +1,1 @@
+{"channel": "scoobtv", "avg_viewers": 40, "followers_gained": 146, "peak_viewers": 192, "hours_streamed": 43, "streams": 17, "mature": 0, "language": "English", "account_age": 2649600.0}

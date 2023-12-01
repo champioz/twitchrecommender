@@ -1,0 +1,1 @@
+{"channel": "hitpointinn", "avg_viewers": 20, "followers_gained": 106, "peak_viewers": 38, "hours_streamed": 51, "streams": 18, "mature": 1, "language": "English", "account_age": 2134080.0}

@@ -1,0 +1,1 @@
+{"channel": "cinnpie", "avg_viewers": 99, "followers_gained": 620, "peak_viewers": 926, "hours_streamed": 53, "streams": 14, "mature": 0, "language": "English", "account_age": 1834560.0}

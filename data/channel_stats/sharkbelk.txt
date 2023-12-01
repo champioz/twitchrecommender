@@ -1,0 +1,1 @@
+{"channel": "sharkbelk", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 2291040.0}

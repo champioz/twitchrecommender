@@ -1,0 +1,1 @@
+{"channel": "emerymusic", "avg_viewers": 14, "followers_gained": 22, "peak_viewers": 35, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "English", "account_age": 246240.0}

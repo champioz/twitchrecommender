@@ -1,0 +1,1 @@
+{"channel": "murtork", "avg_viewers": 10, "followers_gained": 44, "peak_viewers": 23, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "Russian", "account_age": 1903680.0}

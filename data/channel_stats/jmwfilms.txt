@@ -1,0 +1,1 @@
+{"channel": "jmwfilms", "avg_viewers": 9, "followers_gained": 205, "peak_viewers": 21, "hours_streamed": 12, "streams": 6, "mature": 0, "language": "English", "account_age": 3041280.0}

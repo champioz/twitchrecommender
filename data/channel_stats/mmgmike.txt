@@ -1,0 +1,1 @@
+{"channel": "mmgmike", "avg_viewers": 5, "followers_gained": 5, "peak_viewers": 14, "hours_streamed": 28, "streams": 9, "mature": 1, "language": "English", "account_age": 2363040.0}

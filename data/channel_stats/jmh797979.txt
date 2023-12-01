@@ -1,0 +1,1 @@
+{"channel": "jmh797979", "avg_viewers": 50, "followers_gained": 4, "peak_viewers": 106, "hours_streamed": 26, "streams": 5, "mature": 0, "language": "Korean", "account_age": 1061280.0}

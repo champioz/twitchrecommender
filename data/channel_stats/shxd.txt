@@ -1,0 +1,1 @@
+{"channel": "shxd", "avg_viewers": 5, "followers_gained": 24, "peak_viewers": 30, "hours_streamed": 29, "streams": 11, "mature": 0, "language": "English", "account_age": 1848960.0}

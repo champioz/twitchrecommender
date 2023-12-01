@@ -1,0 +1,1 @@
+{"channel": "tdubgaming03", "avg_viewers": 7, "followers_gained": 96, "peak_viewers": 205, "hours_streamed": 24, "streams": 13, "mature": 0, "language": "English", "account_age": 826560.0}

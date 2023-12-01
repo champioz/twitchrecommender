@@ -1,0 +1,1 @@
+{"channel": "apathy", "avg_viewers": 146, "followers_gained": 46, "peak_viewers": 421, "hours_streamed": 22, "streams": 9, "mature": 0, "language": "English", "account_age": 3951360.0}

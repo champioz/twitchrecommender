@@ -1,0 +1,1 @@
+{"channel": "davinciyoutube", "avg_viewers": 28, "followers_gained": 108, "peak_viewers": 101, "hours_streamed": 13, "streams": 8, "mature": 0, "language": "German", "account_age": 1450080.0}

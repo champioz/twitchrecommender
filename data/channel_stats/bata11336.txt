@@ -1,0 +1,1 @@
+{"channel": "bata11336", "avg_viewers": 88, "followers_gained": 17, "peak_viewers": 150, "hours_streamed": 21, "streams": 5, "mature": 0, "language": "Japanese", "account_age": 1556640.0}

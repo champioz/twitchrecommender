@@ -1,0 +1,1 @@
+{"channel": "naiikaii", "avg_viewers": 56, "followers_gained": 13, "peak_viewers": 82, "hours_streamed": 17, "streams": 3, "mature": 0, "language": "German", "account_age": 3991680.0}

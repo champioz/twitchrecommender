@@ -1,0 +1,1 @@
+{"channel": "tugigamerstv", "avg_viewers": 14, "followers_gained": 8, "peak_viewers": 115, "hours_streamed": 24, "streams": 8, "mature": 0, "language": "Turkish", "account_age": 1097280.0}

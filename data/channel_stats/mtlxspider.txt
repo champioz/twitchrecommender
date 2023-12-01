@@ -1,0 +1,1 @@
+{"channel": "mtlxspider", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 2, "hours_streamed": 17, "streams": 12, "mature": 1, "language": "English", "account_age": 1656000.0}

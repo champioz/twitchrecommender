@@ -1,0 +1,1 @@
+{"channel": "nirk0ng", "avg_viewers": 39, "followers_gained": 138, "peak_viewers": 106, "hours_streamed": 109, "streams": 26, "mature": 1, "language": "Greek", "account_age": 3507840.0}

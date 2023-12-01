@@ -1,0 +1,1 @@
+{"channel": "mopster64", "avg_viewers": 5, "followers_gained": 11, "peak_viewers": 16, "hours_streamed": 48, "streams": 25, "mature": 1, "language": "English", "account_age": 2329920.0}

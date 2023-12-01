@@ -1,0 +1,1 @@
+{"channel": "sliverlive", "avg_viewers": 5, "followers_gained": 4, "peak_viewers": 15, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "German", "account_age": 1594080.0}

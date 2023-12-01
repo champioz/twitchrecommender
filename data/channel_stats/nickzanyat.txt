@@ -1,0 +1,1 @@
+{"channel": "nickzanyat", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 60, "streams": 35, "mature": 0, "language": "Russian", "account_age": 686880.0}

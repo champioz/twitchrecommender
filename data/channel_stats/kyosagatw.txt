@@ -1,0 +1,1 @@
+{"channel": "kyosagatw", "avg_viewers": 16, "followers_gained": 6, "peak_viewers": 40, "hours_streamed": 27, "streams": 6, "mature": 1, "language": "Chinese", "account_age": 3911040.0}

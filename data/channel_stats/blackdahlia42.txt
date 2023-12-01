@@ -1,0 +1,1 @@
+{"channel": "blackdahlia42", "avg_viewers": 9, "followers_gained": 19, "peak_viewers": 20, "hours_streamed": 32, "streams": 9, "mature": 1, "language": "English", "account_age": 1778400.0}

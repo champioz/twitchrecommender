@@ -1,0 +1,1 @@
+{"channel": "radioaktiverbob", "avg_viewers": 35, "followers_gained": 0, "peak_viewers": 58, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "German", "account_age": 135360.0}

@@ -1,0 +1,1 @@
+{"channel": "ksantagato", "avg_viewers": 20, "followers_gained": 11, "peak_viewers": 30, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "English", "account_age": 642240.0}

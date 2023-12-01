@@ -1,0 +1,1 @@
+{"channel": "gabscornio_", "avg_viewers": 10, "followers_gained": 58, "peak_viewers": 19, "hours_streamed": 11, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 2229120.0}

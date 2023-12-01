@@ -1,0 +1,1 @@
+{"channel": "iamhelder", "avg_viewers": 4, "followers_gained": 67, "peak_viewers": 11, "hours_streamed": 149, "streams": 30, "mature": 1, "language": "English", "account_age": 799200.0}

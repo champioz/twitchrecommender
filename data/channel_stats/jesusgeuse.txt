@@ -1,0 +1,1 @@
+{"channel": "jesusgeuse", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 10, "hours_streamed": 3, "streams": 4, "mature": 0, "language": "English", "account_age": 3139200.0}

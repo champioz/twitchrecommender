@@ -1,0 +1,1 @@
+{"channel": "spicalol", "avg_viewers": 143, "followers_gained": 72, "peak_viewers": 584, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "English", "account_age": 845280.0}

@@ -1,0 +1,1 @@
+{"channel": "pequenaeva_", "avg_viewers": 51, "followers_gained": 901, "peak_viewers": 548, "hours_streamed": 40, "streams": 14, "mature": 1, "language": "Portuguese", "account_age": 933120.0}

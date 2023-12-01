@@ -1,0 +1,1 @@
+{"channel": "walruspi", "avg_viewers": 6, "followers_gained": 45, "peak_viewers": 50, "hours_streamed": 52, "streams": 27, "mature": 1, "language": "English", "account_age": 230400.0}

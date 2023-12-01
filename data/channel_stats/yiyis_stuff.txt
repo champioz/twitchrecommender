@@ -1,0 +1,1 @@
+{"channel": "yiyis_stuff", "avg_viewers": 10, "followers_gained": 24, "peak_viewers": 20, "hours_streamed": 13, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 976320.0}

@@ -1,0 +1,1 @@
+{"channel": "disabledentertainment", "avg_viewers": 7, "followers_gained": 124, "peak_viewers": 373, "hours_streamed": 208, "streams": 37, "mature": 1, "language": "English", "account_age": 960480.0}

@@ -1,0 +1,1 @@
+{"channel": "kittyklawtv", "avg_viewers": 292, "followers_gained": 146, "peak_viewers": 373, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Russian", "account_age": 2331360.0}

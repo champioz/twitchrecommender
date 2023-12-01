@@ -1,0 +1,1 @@
+{"channel": "hiitiergawd", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 11, "hours_streamed": 25, "streams": 9, "mature": 0, "language": "English", "account_age": 959040.0}

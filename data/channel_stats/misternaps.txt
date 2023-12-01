@@ -1,0 +1,1 @@
+{"channel": "misternaps", "avg_viewers": 9, "followers_gained": 151, "peak_viewers": 24, "hours_streamed": 194, "streams": 30, "mature": 1, "language": "English", "account_age": 2917440.0}

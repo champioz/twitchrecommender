@@ -1,0 +1,1 @@
+{"channel": "pitarine", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 12, "hours_streamed": 25, "streams": 5, "mature": 1, "language": "German", "account_age": 1321920.0}

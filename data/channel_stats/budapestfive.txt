@@ -1,0 +1,1 @@
+{"channel": "budapestfive", "avg_viewers": 130, "followers_gained": 457, "peak_viewers": 456, "hours_streamed": 30, "streams": 13, "mature": 1, "language": "Hungarian", "account_age": 286560.0}

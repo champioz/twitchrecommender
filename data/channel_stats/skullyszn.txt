@@ -1,0 +1,1 @@
+{"channel": "skullyszn", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 0, "hours_streamed": 1, "streams": 3, "mature": 0, "language": "English", "account_age": 162720.0}

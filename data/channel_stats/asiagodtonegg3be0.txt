@@ -1,0 +1,1 @@
+{"channel": "asiagodtonegg3be0", "avg_viewers": 4274, "followers_gained": 2187, "peak_viewers": 6637, "hours_streamed": 118, "streams": 19, "mature": 0, "language": "Chinese", "account_age": 3283200.0}

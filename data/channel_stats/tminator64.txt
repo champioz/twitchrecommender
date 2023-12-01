@@ -1,0 +1,1 @@
+{"channel": "tminator64", "avg_viewers": 11, "followers_gained": 17, "peak_viewers": 26, "hours_streamed": 68, "streams": 26, "mature": 1, "language": "English", "account_age": 3877920.0}

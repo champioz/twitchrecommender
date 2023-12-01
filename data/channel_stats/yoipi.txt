@@ -1,0 +1,1 @@
+{"channel": "yoipi", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 24, "hours_streamed": 56, "streams": 18, "mature": 0, "language": "English", "account_age": 4034880.0}

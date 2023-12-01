@@ -1,0 +1,1 @@
+{"channel": "ilove_ur_smile", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 17, "hours_streamed": 21, "streams": 9, "mature": 1, "language": "French", "account_age": 2208960.0}

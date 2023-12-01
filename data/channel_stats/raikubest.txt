@@ -1,0 +1,1 @@
+{"channel": "raikubest", "avg_viewers": 338, "followers_gained": 91, "peak_viewers": 494, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "English", "account_age": 3759840.0}

@@ -1,0 +1,1 @@
+{"channel": "muppetsinspace", "avg_viewers": 18, "followers_gained": 0, "peak_viewers": 31, "hours_streamed": 12, "streams": 2, "mature": 0, "language": "English", "account_age": 1319040.0}

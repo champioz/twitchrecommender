@@ -1,0 +1,1 @@
+{"channel": "hungrytaaco", "avg_viewers": 0, "followers_gained": 7, "peak_viewers": 5, "hours_streamed": 19, "streams": 11, "mature": 0, "language": "Spanish", "account_age": 1764000.0}

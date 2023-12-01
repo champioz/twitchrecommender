@@ -1,0 +1,1 @@
+{"channel": "fnvleldls", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 66, "hours_streamed": 64, "streams": 34, "mature": 1, "language": "Korean", "account_age": 1294560.0}

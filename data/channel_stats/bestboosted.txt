@@ -1,0 +1,1 @@
+{"channel": "bestboosted", "avg_viewers": 5, "followers_gained": 88, "peak_viewers": 14, "hours_streamed": 38, "streams": 18, "mature": 0, "language": "Italian", "account_age": 1105920.0}

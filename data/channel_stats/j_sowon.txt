@@ -1,0 +1,1 @@
+{"channel": "j_sowon", "avg_viewers": 43, "followers_gained": 63, "peak_viewers": 86, "hours_streamed": 68, "streams": 11, "mature": 0, "language": "Korean", "account_age": 2357280.0}

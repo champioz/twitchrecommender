@@ -1,0 +1,1 @@
+{"channel": "face", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 38, "hours_streamed": 22, "streams": 10, "mature": 0, "language": "English", "account_age": 822240.0}

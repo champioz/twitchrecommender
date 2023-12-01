@@ -1,0 +1,1 @@
+{"channel": "aydenk1ng", "avg_viewers": 3, "followers_gained": 9, "peak_viewers": 39, "hours_streamed": 13, "streams": 9, "mature": 0, "language": "Polish", "account_age": 2782080.0}

@@ -1,0 +1,1 @@
+{"channel": "dinoagw", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 13, "streams": 3, "mature": 1, "language": "German", "account_age": 803520.0}

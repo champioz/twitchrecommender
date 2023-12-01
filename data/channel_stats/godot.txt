@@ -1,0 +1,1 @@
+{"channel": "godot", "avg_viewers": 39, "followers_gained": 163, "peak_viewers": 319, "hours_streamed": 94, "streams": 18, "mature": 0, "language": "English", "account_age": 4150080.0}

@@ -1,0 +1,1 @@
+{"channel": "feijonn", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 7, "hours_streamed": 13, "streams": 11, "mature": 1, "language": "Portuguese", "account_age": 3594240.0}

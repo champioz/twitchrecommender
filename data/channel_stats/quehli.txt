@@ -1,0 +1,1 @@
+{"channel": "quehli", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 9, "hours_streamed": 43, "streams": 12, "mature": 1, "language": "German", "account_age": 1625760.0}

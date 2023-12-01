@@ -1,0 +1,1 @@
+{"channel": "dareeal", "avg_viewers": 66, "followers_gained": 645, "peak_viewers": 316, "hours_streamed": 29, "streams": 11, "mature": 1, "language": "French", "account_age": 1471680.0}

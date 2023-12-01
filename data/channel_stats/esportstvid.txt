@@ -1,0 +1,1 @@
+{"channel": "esportstvid", "avg_viewers": 5, "followers_gained": 17, "peak_viewers": 49, "hours_streamed": 24, "streams": 11, "mature": 0, "language": "English", "account_age": 387360.0}

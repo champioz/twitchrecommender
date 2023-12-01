@@ -1,0 +1,1 @@
+{"channel": "martin_guerrero", "avg_viewers": 225, "followers_gained": 220, "peak_viewers": 831, "hours_streamed": 56, "streams": 14, "mature": 1, "language": "German", "account_age": 3337920.0}

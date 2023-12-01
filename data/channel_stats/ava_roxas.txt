@@ -1,0 +1,1 @@
+{"channel": "ava_roxas", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 101, "streams": 26, "mature": 0, "language": "Japanese", "account_age": 254880.0}

@@ -1,0 +1,1 @@
+{"channel": "slordef", "avg_viewers": 14, "followers_gained": 47, "peak_viewers": 67, "hours_streamed": 99, "streams": 25, "mature": 1, "language": "French", "account_age": 3866400.0}

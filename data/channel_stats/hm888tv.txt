@@ -1,0 +1,1 @@
+{"channel": "hm888tv", "avg_viewers": 71, "followers_gained": 143, "peak_viewers": 218, "hours_streamed": 9, "streams": 3, "mature": 1, "language": "Thai", "account_age": 1137600.0}

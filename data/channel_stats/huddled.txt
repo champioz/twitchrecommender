@@ -1,0 +1,1 @@
+{"channel": "huddled", "avg_viewers": 40, "followers_gained": 56, "peak_viewers": 57, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "English", "account_age": 3422880.0}

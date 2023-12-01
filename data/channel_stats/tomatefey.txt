@@ -1,0 +1,1 @@
+{"channel": "tomatefey", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 4, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 2206080.0}

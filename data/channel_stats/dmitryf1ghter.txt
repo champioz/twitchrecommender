@@ -1,0 +1,1 @@
+{"channel": "dmitryf1ghter", "avg_viewers": 8, "followers_gained": 78, "peak_viewers": 86, "hours_streamed": 252, "streams": 28, "mature": 1, "language": "Russian", "account_age": 440640.0}

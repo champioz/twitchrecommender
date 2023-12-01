@@ -1,0 +1,1 @@
+{"channel": "tigermom", "avg_viewers": 41, "followers_gained": 149, "peak_viewers": 221, "hours_streamed": 27, "streams": 6, "mature": 0, "language": "English", "account_age": 2361600.0}

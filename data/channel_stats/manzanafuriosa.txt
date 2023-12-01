@@ -1,0 +1,1 @@
+{"channel": "manzanafuriosa", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 9, "hours_streamed": 50, "streams": 22, "mature": 1, "language": "Spanish", "account_age": 2828160.0}

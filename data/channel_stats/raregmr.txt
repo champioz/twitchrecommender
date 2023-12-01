@@ -1,0 +1,1 @@
+{"channel": "raregmr", "avg_viewers": 6, "followers_gained": 62, "peak_viewers": 24, "hours_streamed": 104, "streams": 28, "mature": 0, "language": "Hungarian", "account_age": 820800.0}

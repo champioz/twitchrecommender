@@ -1,0 +1,1 @@
+{"channel": "420jenkins", "avg_viewers": 86, "followers_gained": 374, "peak_viewers": 316, "hours_streamed": 77, "streams": 19, "mature": 0, "language": "English", "account_age": 2856960.0}

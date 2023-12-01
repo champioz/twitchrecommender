@@ -1,0 +1,1 @@
+{"channel": "djmilks", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 25, "streams": 13, "mature": 0, "language": "Russian", "account_age": 2799360.0}

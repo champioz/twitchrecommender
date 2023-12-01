@@ -1,0 +1,1 @@
+{"channel": "maihopawango", "avg_viewers": 250, "followers_gained": 827, "peak_viewers": 713, "hours_streamed": 196, "streams": 26, "mature": 0, "language": "German", "account_age": 3957120.0}

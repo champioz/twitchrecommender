@@ -1,0 +1,1 @@
+{"channel": "starsnoop", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 15, "streams": 9, "mature": 0, "language": "English", "account_age": 2291040.0}

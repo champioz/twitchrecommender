@@ -1,0 +1,1 @@
+{"channel": "arisec", "avg_viewers": 7, "followers_gained": 27, "peak_viewers": 43, "hours_streamed": 172, "streams": 16, "mature": 0, "language": "English", "account_age": 2652480.0}

@@ -1,0 +1,1 @@
+{"channel": "pixopat", "avg_viewers": 85, "followers_gained": 128, "peak_viewers": 154, "hours_streamed": 40, "streams": 11, "mature": 0, "language": "Turkish", "account_age": 4502880.0}

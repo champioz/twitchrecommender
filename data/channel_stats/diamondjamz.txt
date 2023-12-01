@@ -1,0 +1,1 @@
+{"channel": "diamondjamz", "avg_viewers": 85, "followers_gained": 27, "peak_viewers": 119, "hours_streamed": 9, "streams": 2, "mature": 0, "language": "English", "account_age": 2566080.0}

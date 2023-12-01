@@ -1,0 +1,1 @@
+{"channel": "jiggoyo", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 32, "streams": 11, "mature": 0, "language": "Thai", "account_age": 876960.0}

@@ -1,0 +1,1 @@
+{"channel": "jordysnta", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 2, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Dutch", "account_age": 741600.0}

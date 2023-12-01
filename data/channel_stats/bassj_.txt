@@ -1,0 +1,1 @@
+{"channel": "bassj_", "avg_viewers": 3, "followers_gained": 49, "peak_viewers": 23, "hours_streamed": 176, "streams": 43, "mature": 1, "language": "Czech", "account_age": 1681920.0}

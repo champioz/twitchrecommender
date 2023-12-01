@@ -1,0 +1,1 @@
+{"channel": "igotsmoothment", "avg_viewers": 7, "followers_gained": 148, "peak_viewers": 30, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "German", "account_age": 1872000.0}

@@ -1,0 +1,1 @@
+{"channel": "tjonesss", "avg_viewers": 43, "followers_gained": 31, "peak_viewers": 524, "hours_streamed": 56, "streams": 19, "mature": 0, "language": "English", "account_age": 2400480.0}

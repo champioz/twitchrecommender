@@ -1,0 +1,1 @@
+{"channel": "brawsabi", "avg_viewers": 14, "followers_gained": 24, "peak_viewers": 23, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "Spanish", "account_age": 3820320.0}

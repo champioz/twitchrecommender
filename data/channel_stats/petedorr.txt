@@ -1,0 +1,1 @@
+{"channel": "petedorr", "avg_viewers": 85, "followers_gained": 72, "peak_viewers": 182, "hours_streamed": 122, "streams": 22, "mature": 0, "language": "English", "account_age": 5561280.0}

@@ -1,0 +1,1 @@
+{"channel": "bachavez", "avg_viewers": 16, "followers_gained": 283, "peak_viewers": 46, "hours_streamed": 195, "streams": 42, "mature": 1, "language": "English", "account_age": 2507040.0}

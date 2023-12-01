@@ -1,0 +1,1 @@
+{"channel": "kaalii", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 13, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "German", "account_age": 3337920.0}

@@ -1,0 +1,1 @@
+{"channel": "mayotube213", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 34, "streams": 16, "mature": 0, "language": "German", "account_age": 987840.0}

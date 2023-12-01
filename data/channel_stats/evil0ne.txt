@@ -1,0 +1,1 @@
+{"channel": "evil0ne", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 14, "hours_streamed": 14, "streams": 9, "mature": 1, "language": "English", "account_age": 4381920.0}

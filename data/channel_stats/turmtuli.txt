@@ -1,0 +1,1 @@
+{"channel": "turmtuli", "avg_viewers": 81, "followers_gained": 114, "peak_viewers": 208, "hours_streamed": 47, "streams": 10, "mature": 1, "language": "Other", "account_age": 1009440.0}

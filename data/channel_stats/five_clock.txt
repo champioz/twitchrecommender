@@ -1,0 +1,1 @@
+{"channel": "five_clock", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 19, "hours_streamed": 29, "streams": 15, "mature": 0, "language": "Korean", "account_age": 924480.0}

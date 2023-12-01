@@ -1,0 +1,1 @@
+{"channel": "corki24", "avg_viewers": 12, "followers_gained": 238, "peak_viewers": 46, "hours_streamed": 80, "streams": 22, "mature": 1, "language": "Spanish", "account_age": 2357280.0}

@@ -1,0 +1,1 @@
+{"channel": "vaxastyle", "avg_viewers": 283, "followers_gained": 505, "peak_viewers": 471, "hours_streamed": 107, "streams": 19, "mature": 0, "language": "Russian", "account_age": 4050720.0}

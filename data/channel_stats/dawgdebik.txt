@@ -1,0 +1,1 @@
+{"channel": "dawgdebik", "avg_viewers": 2087, "followers_gained": 1480, "peak_viewers": 3456, "hours_streamed": 21, "streams": 6, "mature": 0, "language": "Russian", "account_age": 817920.0}

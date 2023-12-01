@@ -1,0 +1,1 @@
+{"channel": "sanekcapslock", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 17, "streams": 10, "mature": 0, "language": "English", "account_age": 2161440.0}

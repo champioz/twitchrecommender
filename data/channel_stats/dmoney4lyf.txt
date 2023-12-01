@@ -1,0 +1,1 @@
+{"channel": "dmoney4lyf", "avg_viewers": 32, "followers_gained": 96, "peak_viewers": 88, "hours_streamed": 71, "streams": 21, "mature": 1, "language": "English", "account_age": 744480.0}

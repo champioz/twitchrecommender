@@ -1,0 +1,1 @@
+{"channel": "xanzus_", "avg_viewers": 21, "followers_gained": 2, "peak_viewers": 25, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Arabic", "account_age": 1219680.0}

@@ -1,0 +1,1 @@
+{"channel": "lilsimsie", "avg_viewers": 712, "followers_gained": 3446, "peak_viewers": 1159, "hours_streamed": 39, "streams": 14, "mature": 0, "language": "English", "account_age": 1903680.0}

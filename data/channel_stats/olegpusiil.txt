@@ -1,0 +1,1 @@
+{"channel": "olegpusiil", "avg_viewers": 18, "followers_gained": 156, "peak_viewers": 40, "hours_streamed": 26, "streams": 17, "mature": 0, "language": "Russian", "account_age": 540000.0}

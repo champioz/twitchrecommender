@@ -1,0 +1,1 @@
+{"channel": "papapollo", "avg_viewers": 25, "followers_gained": 15, "peak_viewers": 70, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 1347840.0}

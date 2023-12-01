@@ -1,0 +1,1 @@
+{"channel": "iraffer", "avg_viewers": 85, "followers_gained": 28, "peak_viewers": 126, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "English", "account_age": 3663360.0}

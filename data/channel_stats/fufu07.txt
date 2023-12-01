@@ -1,0 +1,1 @@
+{"channel": "fufu07", "avg_viewers": 6, "followers_gained": 47, "peak_viewers": 20, "hours_streamed": 107, "streams": 27, "mature": 1, "language": "Polish", "account_age": 2766240.0}

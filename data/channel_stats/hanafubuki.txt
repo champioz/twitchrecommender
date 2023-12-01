@@ -1,0 +1,1 @@
+{"channel": "hanafubuki", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 13, "hours_streamed": 13, "streams": 5, "mature": 1, "language": "English", "account_age": 1789920.0}

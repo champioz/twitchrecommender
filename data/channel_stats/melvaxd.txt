@@ -1,0 +1,1 @@
+{"channel": "melvaxd", "avg_viewers": 3, "followers_gained": 54, "peak_viewers": 16, "hours_streamed": 138, "streams": 34, "mature": 0, "language": "Turkish", "account_age": 2136960.0}

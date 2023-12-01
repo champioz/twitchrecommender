@@ -1,0 +1,1 @@
+{"channel": "nightcrawt", "avg_viewers": 3, "followers_gained": 29, "peak_viewers": 13, "hours_streamed": 113, "streams": 47, "mature": 1, "language": "German", "account_age": 1087200.0}

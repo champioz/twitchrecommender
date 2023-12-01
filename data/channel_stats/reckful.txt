@@ -1,0 +1,1 @@
+{"channel": "reckful", "avg_viewers": 8753, "followers_gained": 17028, "peak_viewers": 25961, "hours_streamed": 215, "streams": 25, "mature": 0, "language": "English", "account_age": 5114880.0}

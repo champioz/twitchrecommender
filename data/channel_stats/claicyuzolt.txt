@@ -1,0 +1,1 @@
+{"channel": "claicyuzolt", "avg_viewers": 285, "followers_gained": 531, "peak_viewers": 1009, "hours_streamed": 62, "streams": 12, "mature": 1, "language": "English", "account_age": 3731040.0}

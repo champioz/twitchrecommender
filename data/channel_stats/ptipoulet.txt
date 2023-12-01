@@ -1,0 +1,1 @@
+{"channel": "ptipoulet", "avg_viewers": 5, "followers_gained": 13, "peak_viewers": 21, "hours_streamed": 47, "streams": 15, "mature": 1, "language": "French", "account_age": 3555360.0}

@@ -1,0 +1,1 @@
+{"channel": "rochelli113", "avg_viewers": 23, "followers_gained": 281, "peak_viewers": 111, "hours_streamed": 109, "streams": 24, "mature": 0, "language": "Korean", "account_age": 1454400.0}

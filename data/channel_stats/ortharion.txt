@@ -1,0 +1,1 @@
+{"channel": "ortharion", "avg_viewers": 68, "followers_gained": 58, "peak_viewers": 414, "hours_streamed": 90, "streams": 33, "mature": 1, "language": "Turkish", "account_age": 2728800.0}

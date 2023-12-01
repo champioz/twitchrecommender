@@ -1,0 +1,1 @@
+{"channel": "phoekun", "avg_viewers": 11, "followers_gained": 4, "peak_viewers": 25, "hours_streamed": 36, "streams": 13, "mature": 0, "language": "English", "account_age": 3614400.0}

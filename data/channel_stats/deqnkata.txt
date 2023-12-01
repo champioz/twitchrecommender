@@ -1,0 +1,1 @@
+{"channel": "deqnkata", "avg_viewers": 41, "followers_gained": 122, "peak_viewers": 124, "hours_streamed": 156, "streams": 25, "mature": 0, "language": "English", "account_age": 3715200.0}

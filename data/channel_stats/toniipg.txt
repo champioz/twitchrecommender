@@ -1,0 +1,1 @@
+{"channel": "toniipg", "avg_viewers": 1, "followers_gained": 27, "peak_viewers": 10, "hours_streamed": 113, "streams": 78, "mature": 1, "language": "Spanish", "account_age": 1941120.0}

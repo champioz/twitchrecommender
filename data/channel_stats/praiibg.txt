@@ -1,0 +1,1 @@
+{"channel": "praiibg", "avg_viewers": 133, "followers_gained": 44, "peak_viewers": 274, "hours_streamed": 19, "streams": 6, "mature": 0, "language": "German", "account_age": 4284000.0}

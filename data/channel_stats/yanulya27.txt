@@ -1,0 +1,1 @@
+{"channel": "yanulya27", "avg_viewers": 58, "followers_gained": 806, "peak_viewers": 114, "hours_streamed": 73, "streams": 24, "mature": 1, "language": "Russian", "account_age": 341280.0}

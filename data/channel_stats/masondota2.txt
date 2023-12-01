@@ -1,0 +1,1 @@
+{"channel": "masondota2", "avg_viewers": 2615, "followers_gained": 3279, "peak_viewers": 5190, "hours_streamed": 96, "streams": 29, "mature": 1, "language": "English", "account_age": 3381120.0}

@@ -1,0 +1,1 @@
+{"channel": "multigamingde", "avg_viewers": 6, "followers_gained": 51, "peak_viewers": 113, "hours_streamed": 293, "streams": 41, "mature": 1, "language": "German", "account_age": 927360.0}

@@ -1,0 +1,1 @@
+{"channel": "coffeekingtv", "avg_viewers": 57, "followers_gained": 17, "peak_viewers": 90, "hours_streamed": 55, "streams": 10, "mature": 0, "language": "English", "account_age": 2102400.0}

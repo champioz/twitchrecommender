@@ -1,0 +1,1 @@
+{"channel": "saudadeesports", "avg_viewers": 8, "followers_gained": 81, "peak_viewers": 20, "hours_streamed": 40, "streams": 16, "mature": 1, "language": "Spanish", "account_age": 1074240.0}

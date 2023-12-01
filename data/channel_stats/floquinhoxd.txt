@@ -1,0 +1,1 @@
+{"channel": "floquinhoxd", "avg_viewers": 103, "followers_gained": 17, "peak_viewers": 173, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 1530720.0}

@@ -1,0 +1,1 @@
+{"channel": "dogbrain666", "avg_viewers": 114, "followers_gained": 766, "peak_viewers": 668, "hours_streamed": 85, "streams": 25, "mature": 0, "language": "Thai", "account_age": 131040.0}

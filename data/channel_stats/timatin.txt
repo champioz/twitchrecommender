@@ -1,0 +1,1 @@
+{"channel": "timatin", "avg_viewers": 16, "followers_gained": 84, "peak_viewers": 68, "hours_streamed": 74, "streams": 27, "mature": 0, "language": "Japanese", "account_age": 2020320.0}

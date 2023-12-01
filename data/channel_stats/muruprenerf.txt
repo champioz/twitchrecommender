@@ -1,0 +1,1 @@
+{"channel": "muruprenerf", "avg_viewers": 13, "followers_gained": 26, "peak_viewers": 28, "hours_streamed": 36, "streams": 15, "mature": 1, "language": "French", "account_age": 1039680.0}

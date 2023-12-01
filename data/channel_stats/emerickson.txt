@@ -1,0 +1,1 @@
+{"channel": "emerickson", "avg_viewers": 454, "followers_gained": 917, "peak_viewers": 1087, "hours_streamed": 56, "streams": 16, "mature": 0, "language": "Czech", "account_age": 2449440.0}

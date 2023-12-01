@@ -1,0 +1,1 @@
+{"channel": "tekkenkawaii", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 2247840.0}

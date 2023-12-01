@@ -1,0 +1,1 @@
+{"channel": "xbriggs", "avg_viewers": 8, "followers_gained": 100, "peak_viewers": 43, "hours_streamed": 116, "streams": 35, "mature": 1, "language": "English", "account_age": 2142720.0}

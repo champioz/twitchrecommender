@@ -1,0 +1,1 @@
+{"channel": "jamietopples", "avg_viewers": 93, "followers_gained": 508, "peak_viewers": 641, "hours_streamed": 158, "streams": 25, "mature": 0, "language": "English", "account_age": 1920960.0}

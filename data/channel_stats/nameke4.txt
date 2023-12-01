@@ -1,0 +1,1 @@
+{"channel": "nameke4", "avg_viewers": 1, "followers_gained": 13, "peak_viewers": 9, "hours_streamed": 15, "streams": 9, "mature": 0, "language": "English", "account_age": 727200.0}

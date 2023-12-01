@@ -1,0 +1,1 @@
+{"channel": "mortalcake", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Dutch", "account_age": 3320640.0}

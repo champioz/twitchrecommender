@@ -1,0 +1,1 @@
+{"channel": "tinchenmausi", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 11, "hours_streamed": 25, "streams": 6, "mature": 1, "language": "German", "account_age": 1787040.0}

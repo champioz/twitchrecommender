@@ -1,0 +1,1 @@
+{"channel": "pinpingho", "avg_viewers": 16, "followers_gained": 5, "peak_viewers": 29, "hours_streamed": 4, "streams": 4, "mature": 0, "language": "Chinese", "account_age": 3528000.0}

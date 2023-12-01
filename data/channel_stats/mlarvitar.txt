@@ -1,0 +1,1 @@
+{"channel": "mlarvitar", "avg_viewers": 9, "followers_gained": 17, "peak_viewers": 112, "hours_streamed": 23, "streams": 8, "mature": 0, "language": "English", "account_age": 2926080.0}

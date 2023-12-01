@@ -1,0 +1,1 @@
+{"channel": "tarvis79", "avg_viewers": 8, "followers_gained": 21, "peak_viewers": 17, "hours_streamed": 69, "streams": 18, "mature": 1, "language": "English", "account_age": 721440.0}

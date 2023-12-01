@@ -1,0 +1,1 @@
+{"channel": "assaultszn", "avg_viewers": 1219, "followers_gained": 29797, "peak_viewers": 4960, "hours_streamed": 115, "streams": 33, "mature": 0, "language": "English", "account_age": 2273760.0}

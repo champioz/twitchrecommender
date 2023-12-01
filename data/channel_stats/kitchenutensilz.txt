@@ -1,0 +1,1 @@
+{"channel": "kitchenutensilz", "avg_viewers": 5, "followers_gained": 75, "peak_viewers": 65, "hours_streamed": 73, "streams": 28, "mature": 1, "language": "English", "account_age": 1520640.0}

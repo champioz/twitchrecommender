@@ -1,0 +1,1 @@
+{"channel": "luthyem", "avg_viewers": 10, "followers_gained": 28, "peak_viewers": 21, "hours_streamed": 31, "streams": 8, "mature": 1, "language": "Spanish", "account_age": 1190880.0}

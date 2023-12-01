@@ -1,0 +1,1 @@
+{"channel": "m3rtv", "avg_viewers": 4, "followers_gained": 74, "peak_viewers": 18, "hours_streamed": 158, "streams": 51, "mature": 1, "language": "Turkish", "account_age": 2669760.0}

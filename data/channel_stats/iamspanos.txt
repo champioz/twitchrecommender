@@ -1,0 +1,1 @@
+{"channel": "iamspanos", "avg_viewers": 14, "followers_gained": 64, "peak_viewers": 37, "hours_streamed": 55, "streams": 19, "mature": 1, "language": "English", "account_age": 2165760.0}

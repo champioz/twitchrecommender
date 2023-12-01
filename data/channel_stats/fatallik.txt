@@ -1,0 +1,1 @@
+{"channel": "fatallik", "avg_viewers": 13, "followers_gained": 13, "peak_viewers": 35, "hours_streamed": 60, "streams": 15, "mature": 0, "language": "Czech", "account_age": 4112640.0}

@@ -1,0 +1,1 @@
+{"channel": "knallx", "avg_viewers": 3, "followers_gained": 55, "peak_viewers": 32, "hours_streamed": 52, "streams": 14, "mature": 1, "language": "Swedish", "account_age": 3362400.0}

@@ -1,0 +1,1 @@
+{"channel": "buuh", "avg_viewers": 34, "followers_gained": 43, "peak_viewers": 58, "hours_streamed": 37, "streams": 15, "mature": 1, "language": "German", "account_age": 1267200.0}

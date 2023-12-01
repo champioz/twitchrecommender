@@ -1,0 +1,1 @@
+{"channel": "giantsshowdown", "avg_viewers": 265, "followers_gained": 40, "peak_viewers": 358, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 414720.0}

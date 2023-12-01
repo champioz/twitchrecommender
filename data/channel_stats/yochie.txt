@@ -1,0 +1,1 @@
+{"channel": "yochie", "avg_viewers": 4, "followers_gained": 16, "peak_viewers": 29, "hours_streamed": 74, "streams": 16, "mature": 0, "language": "English", "account_age": 3041280.0}

@@ -1,0 +1,1 @@
+{"channel": "nahloo", "avg_viewers": 14, "followers_gained": 70, "peak_viewers": 51, "hours_streamed": 21, "streams": 6, "mature": 0, "language": "English", "account_age": 2580480.0}

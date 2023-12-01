@@ -1,0 +1,1 @@
+{"channel": "dekellner", "avg_viewers": 6, "followers_gained": 7, "peak_viewers": 24, "hours_streamed": 57, "streams": 11, "mature": 1, "language": "German", "account_age": 1559520.0}

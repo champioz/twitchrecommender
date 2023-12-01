@@ -1,0 +1,1 @@
+{"channel": "theblackroar", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 25, "streams": 8, "mature": 0, "language": "Turkish", "account_age": 3736800.0}

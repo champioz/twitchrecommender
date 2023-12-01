@@ -1,0 +1,1 @@
+{"channel": "itscappy", "avg_viewers": 5, "followers_gained": 10, "peak_viewers": 14, "hours_streamed": 47, "streams": 12, "mature": 0, "language": "English", "account_age": 4201920.0}

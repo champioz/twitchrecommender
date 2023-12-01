@@ -1,0 +1,1 @@
+{"channel": "yozhyk", "avg_viewers": 385, "followers_gained": 49, "peak_viewers": 492, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "Ukrainian", "account_age": 3450240.0}

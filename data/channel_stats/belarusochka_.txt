@@ -1,0 +1,1 @@
+{"channel": "belarusochka_", "avg_viewers": 11, "followers_gained": 207, "peak_viewers": 225, "hours_streamed": 80, "streams": 20, "mature": 1, "language": "Russian", "account_age": 136800.0}

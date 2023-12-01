@@ -1,0 +1,1 @@
+{"channel": "jaguarxpaw", "avg_viewers": 9, "followers_gained": 24, "peak_viewers": 23, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "English", "account_age": 609120.0}

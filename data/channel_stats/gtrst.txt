@@ -1,0 +1,1 @@
+{"channel": "gtrst", "avg_viewers": 5, "followers_gained": 71, "peak_viewers": 47, "hours_streamed": 121, "streams": 35, "mature": 0, "language": "Turkish", "account_age": 2558880.0}

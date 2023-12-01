@@ -1,0 +1,1 @@
+{"channel": "starsplinter", "avg_viewers": 28, "followers_gained": 16, "peak_viewers": 54, "hours_streamed": 70, "streams": 17, "mature": 0, "language": "German", "account_age": 2106720.0}

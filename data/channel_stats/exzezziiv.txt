@@ -1,0 +1,1 @@
+{"channel": "exzezziiv", "avg_viewers": 6, "followers_gained": 46, "peak_viewers": 34, "hours_streamed": 155, "streams": 25, "mature": 1, "language": "German", "account_age": 825120.0}

@@ -1,0 +1,1 @@
+{"channel": "aqelyy", "avg_viewers": 63, "followers_gained": 48, "peak_viewers": 110, "hours_streamed": 1, "streams": 1, "mature": 1, "language": "Turkish", "account_age": 3009600.0}

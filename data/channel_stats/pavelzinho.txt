@@ -1,0 +1,1 @@
+{"channel": "pavelzinho", "avg_viewers": 26, "followers_gained": 2, "peak_viewers": 34, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 2619360.0}

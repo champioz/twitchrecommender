@@ -1,0 +1,1 @@
+{"channel": "grimmybear", "avg_viewers": 174, "followers_gained": 192, "peak_viewers": 428, "hours_streamed": 109, "streams": 22, "mature": 0, "language": "English", "account_age": 3157920.0}

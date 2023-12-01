@@ -1,0 +1,1 @@
+{"channel": "chuboh", "avg_viewers": 102, "followers_gained": 37, "peak_viewers": 165, "hours_streamed": 23, "streams": 5, "mature": 0, "language": "English", "account_age": 4419360.0}

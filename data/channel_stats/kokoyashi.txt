@@ -1,0 +1,1 @@
+{"channel": "kokoyashi", "avg_viewers": 10, "followers_gained": 124, "peak_viewers": 53, "hours_streamed": 61, "streams": 17, "mature": 0, "language": "English", "account_age": 1225440.0}

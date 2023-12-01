@@ -1,0 +1,1 @@
+{"channel": "dmusiks", "avg_viewers": 12, "followers_gained": 402, "peak_viewers": 94, "hours_streamed": 131, "streams": 28, "mature": 0, "language": "French", "account_age": 1153440.0}

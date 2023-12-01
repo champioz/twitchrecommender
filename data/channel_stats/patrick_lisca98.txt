@@ -1,0 +1,1 @@
+{"channel": "patrick_lisca98", "avg_viewers": 3, "followers_gained": 36, "peak_viewers": 23, "hours_streamed": 149, "streams": 55, "mature": 0, "language": "Italian", "account_age": 519840.0}

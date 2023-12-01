@@ -1,0 +1,1 @@
+{"channel": "esty8nine", "avg_viewers": 24, "followers_gained": 57, "peak_viewers": 218, "hours_streamed": 158, "streams": 26, "mature": 0, "language": "English", "account_age": 3808800.0}

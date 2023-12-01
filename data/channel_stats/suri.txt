@@ -1,0 +1,1 @@
+{"channel": "suri", "avg_viewers": 251, "followers_gained": 5951, "peak_viewers": 654, "hours_streamed": 101, "streams": 26, "mature": 1, "language": "Hungarian", "account_age": 1134720.0}

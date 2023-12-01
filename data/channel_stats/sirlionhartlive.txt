@@ -1,0 +1,1 @@
+{"channel": "sirlionhartlive", "avg_viewers": 76, "followers_gained": 106, "peak_viewers": 156, "hours_streamed": 107, "streams": 15, "mature": 0, "language": "English", "account_age": 3350880.0}

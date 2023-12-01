@@ -1,0 +1,1 @@
+{"channel": "chjna4q", "avg_viewers": 143, "followers_gained": 42, "peak_viewers": 185, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 1931040.0}

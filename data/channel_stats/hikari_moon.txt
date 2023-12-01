@@ -1,0 +1,1 @@
+{"channel": "hikari_moon", "avg_viewers": 7, "followers_gained": 3, "peak_viewers": 13, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "English", "account_age": 1419840.0}

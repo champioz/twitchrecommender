@@ -1,0 +1,1 @@
+{"channel": "jenyfear", "avg_viewers": 111, "followers_gained": 595, "peak_viewers": 219, "hours_streamed": 62, "streams": 19, "mature": 0, "language": "Swedish", "account_age": 911520.0}

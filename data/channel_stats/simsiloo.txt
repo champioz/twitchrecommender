@@ -1,0 +1,1 @@
+{"channel": "simsiloo", "avg_viewers": 107, "followers_gained": 306, "peak_viewers": 184, "hours_streamed": 38, "streams": 11, "mature": 0, "language": "English", "account_age": 3755520.0}

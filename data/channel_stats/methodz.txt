@@ -1,0 +1,1 @@
+{"channel": "methodz", "avg_viewers": 199, "followers_gained": 290, "peak_viewers": 567, "hours_streamed": 20, "streams": 7, "mature": 0, "language": "English", "account_age": 3388320.0}

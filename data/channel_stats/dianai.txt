@@ -1,0 +1,1 @@
+{"channel": "dianai", "avg_viewers": 13, "followers_gained": 285, "peak_viewers": 57, "hours_streamed": 46, "streams": 20, "mature": 0, "language": "Polish", "account_age": 983520.0}

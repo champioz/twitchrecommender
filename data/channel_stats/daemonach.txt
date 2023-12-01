@@ -1,0 +1,1 @@
+{"channel": "daemonach", "avg_viewers": 6, "followers_gained": 222, "peak_viewers": 86, "hours_streamed": 247, "streams": 32, "mature": 1, "language": "Russian", "account_age": 2142720.0}

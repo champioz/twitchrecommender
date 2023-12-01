@@ -1,0 +1,1 @@
+{"channel": "xjaycee_", "avg_viewers": 15, "followers_gained": 8, "peak_viewers": 29, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 1092960.0}

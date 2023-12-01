@@ -1,0 +1,1 @@
+{"channel": "tgctourstv", "avg_viewers": 27, "followers_gained": 17, "peak_viewers": 43, "hours_streamed": 5, "streams": 5, "mature": 0, "language": "English", "account_age": 2291040.0}

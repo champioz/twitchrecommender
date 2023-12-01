@@ -1,0 +1,1 @@
+{"channel": "atoli_kusaka", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 29, "streams": 8, "mature": 0, "language": "Japanese", "account_age": 3693600.0}

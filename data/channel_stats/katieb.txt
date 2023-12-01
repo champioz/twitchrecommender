@@ -1,0 +1,1 @@
+{"channel": "katieb", "avg_viewers": 6, "followers_gained": 5, "peak_viewers": 133, "hours_streamed": 111, "streams": 29, "mature": 1, "language": "English", "account_age": 2135520.0}

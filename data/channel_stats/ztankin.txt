@@ -1,0 +1,1 @@
+{"channel": "ztankin", "avg_viewers": 8, "followers_gained": 63, "peak_viewers": 84, "hours_streamed": 80, "streams": 22, "mature": 0, "language": "English", "account_age": 1473120.0}

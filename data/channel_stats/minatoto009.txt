@@ -1,0 +1,1 @@
+{"channel": "minatoto009", "avg_viewers": 1, "followers_gained": 16, "peak_viewers": 10, "hours_streamed": 90, "streams": 39, "mature": 1, "language": "French", "account_age": 2651040.0}

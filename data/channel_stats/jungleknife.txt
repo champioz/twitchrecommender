@@ -1,0 +1,1 @@
+{"channel": "jungleknife", "avg_viewers": 7, "followers_gained": 27, "peak_viewers": 18, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Chinese", "account_age": 3178080.0}

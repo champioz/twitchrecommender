@@ -1,0 +1,1 @@
+{"channel": "aldur1986", "avg_viewers": 9, "followers_gained": 5, "peak_viewers": 27, "hours_streamed": 28, "streams": 8, "mature": 1, "language": "German", "account_age": 1882080.0}

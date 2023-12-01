@@ -1,0 +1,1 @@
+{"channel": "hauki", "avg_viewers": 55, "followers_gained": 21, "peak_viewers": 128, "hours_streamed": 10, "streams": 2, "mature": 0, "language": "English", "account_age": 3372480.0}

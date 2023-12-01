@@ -1,0 +1,1 @@
+{"channel": "senyhaerts", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 8, "hours_streamed": 13, "streams": 5, "mature": 1, "language": "German", "account_age": 1941120.0}

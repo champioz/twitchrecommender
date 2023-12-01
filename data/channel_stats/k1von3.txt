@@ -1,0 +1,1 @@
+{"channel": "k1von3", "avg_viewers": 71, "followers_gained": 246, "peak_viewers": 141, "hours_streamed": 25, "streams": 9, "mature": 1, "language": "German", "account_age": 2299680.0}

@@ -1,0 +1,1 @@
+{"channel": "hollytwolf", "avg_viewers": 73, "followers_gained": 660, "peak_viewers": 161, "hours_streamed": 18, "streams": 8, "mature": 1, "language": "English", "account_age": 2427840.0}

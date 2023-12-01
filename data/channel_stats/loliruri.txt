@@ -1,0 +1,1 @@
+{"channel": "loliruri", "avg_viewers": 33, "followers_gained": 48, "peak_viewers": 111, "hours_streamed": 86, "streams": 20, "mature": 0, "language": "Russian", "account_age": 2213280.0}

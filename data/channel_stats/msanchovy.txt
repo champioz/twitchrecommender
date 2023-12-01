@@ -1,0 +1,1 @@
+{"channel": "msanchovy", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 10, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "English", "account_age": 178560.0}

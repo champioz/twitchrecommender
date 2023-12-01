@@ -1,0 +1,1 @@
+{"channel": "ch4nten", "avg_viewers": 34, "followers_gained": 19, "peak_viewers": 54, "hours_streamed": 11, "streams": 5, "mature": 0, "language": "Danish", "account_age": 689760.0}

@@ -1,0 +1,1 @@
+{"channel": "annimu", "avg_viewers": 7, "followers_gained": 3, "peak_viewers": 28, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "English", "account_age": 3457440.0}

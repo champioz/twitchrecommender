@@ -1,0 +1,1 @@
+{"channel": "captainashbacon", "avg_viewers": 112, "followers_gained": 469, "peak_viewers": 440, "hours_streamed": 103, "streams": 18, "mature": 1, "language": "English", "account_age": 3503520.0}

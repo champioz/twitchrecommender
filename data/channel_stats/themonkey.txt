@@ -1,0 +1,1 @@
+{"channel": "themonkey", "avg_viewers": 2, "followers_gained": 13, "peak_viewers": 29, "hours_streamed": 40, "streams": 13, "mature": 1, "language": "English", "account_age": 2835360.0}

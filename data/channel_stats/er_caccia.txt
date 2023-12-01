@@ -1,0 +1,1 @@
+{"channel": "er_caccia", "avg_viewers": 56, "followers_gained": 486, "peak_viewers": 169, "hours_streamed": 40, "streams": 21, "mature": 0, "language": "Italian", "account_age": 858240.0}

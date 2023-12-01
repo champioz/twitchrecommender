@@ -1,0 +1,1 @@
+{"channel": "alskfl222", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "Korean", "account_age": 2531520.0}

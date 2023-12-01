@@ -1,0 +1,1 @@
+{"channel": "ahmadalshayiip", "avg_viewers": 96, "followers_gained": 712, "peak_viewers": 220, "hours_streamed": 26, "streams": 11, "mature": 0, "language": "Arabic", "account_age": 545760.0}

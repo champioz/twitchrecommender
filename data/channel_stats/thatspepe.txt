@@ -1,0 +1,1 @@
+{"channel": "thatspepe", "avg_viewers": 3, "followers_gained": 195, "peak_viewers": 23, "hours_streamed": 81, "streams": 14, "mature": 1, "language": "German", "account_age": 1483200.0}

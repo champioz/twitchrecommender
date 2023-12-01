@@ -1,0 +1,1 @@
+{"channel": "clydethamonkey", "avg_viewers": 101, "followers_gained": 15, "peak_viewers": 275, "hours_streamed": 6, "streams": 1, "mature": 1, "language": "English", "account_age": 3447360.0}

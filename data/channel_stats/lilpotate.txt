@@ -1,0 +1,1 @@
+{"channel": "lilpotate", "avg_viewers": 10, "followers_gained": 252, "peak_viewers": 45, "hours_streamed": 69, "streams": 14, "mature": 0, "language": "English", "account_age": 416160.0}

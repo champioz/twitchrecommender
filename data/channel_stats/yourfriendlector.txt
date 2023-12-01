@@ -1,0 +1,1 @@
+{"channel": "yourfriendlector", "avg_viewers": 13, "followers_gained": 61, "peak_viewers": 43, "hours_streamed": 71, "streams": 21, "mature": 1, "language": "English", "account_age": 1164960.0}

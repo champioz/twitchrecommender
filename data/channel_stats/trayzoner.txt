@@ -1,0 +1,1 @@
+{"channel": "trayzoner", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 2, "hours_streamed": 2, "streams": 2, "mature": 1, "language": "German", "account_age": 168480.0}

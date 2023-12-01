@@ -1,0 +1,1 @@
+{"channel": "willkey87", "avg_viewers": 15, "followers_gained": 19, "peak_viewers": 31, "hours_streamed": 26, "streams": 7, "mature": 0, "language": "Finnish", "account_age": 3290400.0}

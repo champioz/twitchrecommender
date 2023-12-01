@@ -1,0 +1,1 @@
+{"channel": "doctorgreyface", "avg_viewers": 13, "followers_gained": 42, "peak_viewers": 60, "hours_streamed": 125, "streams": 35, "mature": 1, "language": "English", "account_age": 2610720.0}

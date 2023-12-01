@@ -1,0 +1,1 @@
+{"channel": "yoitsgold", "avg_viewers": 165, "followers_gained": 6569, "peak_viewers": 1446, "hours_streamed": 136, "streams": 30, "mature": 0, "language": "English", "account_age": 2132640.0}

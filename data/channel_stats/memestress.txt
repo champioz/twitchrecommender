@@ -1,0 +1,1 @@
+{"channel": "memestress", "avg_viewers": 16, "followers_gained": 73, "peak_viewers": 67, "hours_streamed": 25, "streams": 6, "mature": 1, "language": "English", "account_age": 1656000.0}

@@ -1,0 +1,1 @@
+{"channel": "goku2093", "avg_viewers": 48, "followers_gained": 78, "peak_viewers": 218, "hours_streamed": 211, "streams": 26, "mature": 0, "language": "Korean", "account_age": 2360160.0}

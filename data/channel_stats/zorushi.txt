@@ -1,0 +1,1 @@
+{"channel": "zorushi", "avg_viewers": 9, "followers_gained": 45, "peak_viewers": 87, "hours_streamed": 89, "streams": 22, "mature": 1, "language": "English", "account_age": 2404800.0}

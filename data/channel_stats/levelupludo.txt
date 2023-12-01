@@ -1,0 +1,1 @@
+{"channel": "levelupludo", "avg_viewers": 27, "followers_gained": 103, "peak_viewers": 78, "hours_streamed": 155, "streams": 26, "mature": 0, "language": "English", "account_age": 970560.0}

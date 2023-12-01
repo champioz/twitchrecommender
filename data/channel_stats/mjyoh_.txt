@@ -1,0 +1,1 @@
+{"channel": "mjyoh_", "avg_viewers": 28, "followers_gained": 291, "peak_viewers": 257, "hours_streamed": 129, "streams": 31, "mature": 1, "language": "German", "account_age": 2309760.0}

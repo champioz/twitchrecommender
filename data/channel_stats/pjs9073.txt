@@ -1,0 +1,1 @@
+{"channel": "pjs9073", "avg_viewers": 1497, "followers_gained": 6003, "peak_viewers": 6278, "hours_streamed": 170, "streams": 38, "mature": 0, "language": "Korean", "account_age": 1516320.0}

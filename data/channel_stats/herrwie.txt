@@ -1,0 +1,1 @@
+{"channel": "herrwie", "avg_viewers": 10, "followers_gained": 6, "peak_viewers": 22, "hours_streamed": 49, "streams": 13, "mature": 1, "language": "German", "account_age": 2388960.0}

@@ -1,0 +1,1 @@
+{"channel": "magictea", "avg_viewers": 120, "followers_gained": 1528, "peak_viewers": 323, "hours_streamed": 279, "streams": 35, "mature": 1, "language": "English", "account_age": 3515040.0}

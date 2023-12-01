@@ -1,0 +1,1 @@
+{"channel": "jojl", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 8, "hours_streamed": 14, "streams": 13, "mature": 1, "language": "English", "account_age": 2412000.0}

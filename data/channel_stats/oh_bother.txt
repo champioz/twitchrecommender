@@ -1,0 +1,1 @@
+{"channel": "oh_bother", "avg_viewers": 51, "followers_gained": 124, "peak_viewers": 111, "hours_streamed": 67, "streams": 12, "mature": 0, "language": "English", "account_age": 3703680.0}

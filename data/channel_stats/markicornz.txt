@@ -1,0 +1,1 @@
+{"channel": "markicornz", "avg_viewers": 14, "followers_gained": 69, "peak_viewers": 78, "hours_streamed": 44, "streams": 12, "mature": 0, "language": "English", "account_age": 1864800.0}

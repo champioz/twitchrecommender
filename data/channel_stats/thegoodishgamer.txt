@@ -1,0 +1,1 @@
+{"channel": "thegoodishgamer", "avg_viewers": 1, "followers_gained": 50, "peak_viewers": 15, "hours_streamed": 140, "streams": 24, "mature": 0, "language": "English", "account_age": 253440.0}

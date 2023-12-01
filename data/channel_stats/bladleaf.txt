@@ -1,0 +1,1 @@
+{"channel": "bladleaf", "avg_viewers": 20, "followers_gained": 528, "peak_viewers": 51, "hours_streamed": 233, "streams": 40, "mature": 0, "language": "English", "account_age": 604800.0}

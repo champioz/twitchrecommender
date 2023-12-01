@@ -1,0 +1,1 @@
+{"channel": "afromask", "avg_viewers": 84, "followers_gained": 27, "peak_viewers": 123, "hours_streamed": 26, "streams": 8, "mature": 0, "language": "Japanese", "account_age": 2606400.0}

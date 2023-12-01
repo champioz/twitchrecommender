@@ -1,0 +1,1 @@
+{"channel": "itsayeejayy", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 13, "hours_streamed": 7, "streams": 4, "mature": 1, "language": "English", "account_age": 1293120.0}

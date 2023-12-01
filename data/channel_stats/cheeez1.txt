@@ -1,0 +1,1 @@
+{"channel": "cheeez1", "avg_viewers": 22, "followers_gained": 265, "peak_viewers": 40, "hours_streamed": 69, "streams": 28, "mature": 0, "language": "Russian", "account_age": 1853280.0}

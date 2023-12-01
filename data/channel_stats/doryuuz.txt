@@ -1,0 +1,1 @@
+{"channel": "doryuuz", "avg_viewers": 53, "followers_gained": 625, "peak_viewers": 187, "hours_streamed": 250, "streams": 22, "mature": 1, "language": "English", "account_age": 3928320.0}

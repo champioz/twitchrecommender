@@ -1,0 +1,1 @@
+{"channel": "som_byeol", "avg_viewers": 44, "followers_gained": 29, "peak_viewers": 95, "hours_streamed": 18, "streams": 5, "mature": 0, "language": "Korean", "account_age": 403200.0}

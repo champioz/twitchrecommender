@@ -1,0 +1,1 @@
+{"channel": "neozjonazz", "avg_viewers": 23, "followers_gained": 413, "peak_viewers": 1058, "hours_streamed": 130, "streams": 37, "mature": 0, "language": "German", "account_age": 1637280.0}

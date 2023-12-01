@@ -1,0 +1,1 @@
+{"channel": "vouo7", "avg_viewers": 8, "followers_gained": 51, "peak_viewers": 19, "hours_streamed": 164, "streams": 26, "mature": 0, "language": "Korean", "account_age": 381600.0}

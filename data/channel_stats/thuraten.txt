@@ -1,0 +1,1 @@
+{"channel": "thuraten", "avg_viewers": 711, "followers_gained": 6634, "peak_viewers": 2406, "hours_streamed": 61, "streams": 18, "mature": 0, "language": "Turkish", "account_age": 2839680.0}

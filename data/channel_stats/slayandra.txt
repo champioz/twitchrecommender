@@ -1,0 +1,1 @@
+{"channel": "slayandra", "avg_viewers": 9, "followers_gained": 152, "peak_viewers": 47, "hours_streamed": 90, "streams": 40, "mature": 1, "language": "German", "account_age": 3299040.0}

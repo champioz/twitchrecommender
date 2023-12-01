@@ -1,0 +1,1 @@
+{"channel": "epsyloncat", "avg_viewers": 134, "followers_gained": 69, "peak_viewers": 217, "hours_streamed": 12, "streams": 7, "mature": 0, "language": "Spanish", "account_age": 3515040.0}

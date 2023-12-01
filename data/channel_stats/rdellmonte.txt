@@ -1,0 +1,1 @@
+{"channel": "rdellmonte", "avg_viewers": 53, "followers_gained": 43, "peak_viewers": 74, "hours_streamed": 37, "streams": 5, "mature": 1, "language": "Portuguese", "account_age": 2681280.0}

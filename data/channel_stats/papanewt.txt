@@ -1,0 +1,1 @@
+{"channel": "papanewt", "avg_viewers": 3, "followers_gained": 11, "peak_viewers": 15, "hours_streamed": 71, "streams": 20, "mature": 1, "language": "English", "account_age": 1078560.0}

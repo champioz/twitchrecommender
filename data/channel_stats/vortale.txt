@@ -1,0 +1,1 @@
+{"channel": "vortale", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 8, "hours_streamed": 16, "streams": 5, "mature": 1, "language": "English", "account_age": 5150880.0}

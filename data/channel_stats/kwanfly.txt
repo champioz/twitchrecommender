@@ -1,0 +1,1 @@
+{"channel": "kwanfly", "avg_viewers": 6, "followers_gained": 42, "peak_viewers": 16, "hours_streamed": 23, "streams": 9, "mature": 0, "language": "Thai", "account_age": 1376640.0}

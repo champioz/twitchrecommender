@@ -1,0 +1,1 @@
+{"channel": "wizarjry", "avg_viewers": 9, "followers_gained": 102, "peak_viewers": 30, "hours_streamed": 160, "streams": 26, "mature": 1, "language": "English", "account_age": 424800.0}

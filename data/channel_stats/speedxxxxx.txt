@@ -1,0 +1,1 @@
+{"channel": "speedxxxxx", "avg_viewers": 15, "followers_gained": 48, "peak_viewers": 37, "hours_streamed": 76, "streams": 25, "mature": 0, "language": "German", "account_age": 1296000.0}

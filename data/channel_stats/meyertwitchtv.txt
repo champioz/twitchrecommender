@@ -1,0 +1,1 @@
+{"channel": "meyertwitchtv", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 10, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "German", "account_age": 564480.0}

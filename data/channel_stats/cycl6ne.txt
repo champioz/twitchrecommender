@@ -1,0 +1,1 @@
+{"channel": "cycl6ne", "avg_viewers": 13, "followers_gained": 31, "peak_viewers": 101, "hours_streamed": 11, "streams": 6, "mature": 1, "language": "English", "account_age": 1772640.0}

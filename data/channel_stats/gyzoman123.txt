@@ -1,0 +1,1 @@
+{"channel": "gyzoman123", "avg_viewers": 1, "followers_gained": 32, "peak_viewers": 7, "hours_streamed": 114, "streams": 78, "mature": 0, "language": "English", "account_age": 550080.0}

@@ -1,0 +1,1 @@
+{"channel": "nemos", "avg_viewers": 224, "followers_gained": 1664, "peak_viewers": 697, "hours_streamed": 50, "streams": 15, "mature": 0, "language": "Italian", "account_age": 1383840.0}

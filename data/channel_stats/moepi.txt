@@ -1,0 +1,1 @@
+{"channel": "moepi", "avg_viewers": 37, "followers_gained": 4, "peak_viewers": 233, "hours_streamed": 54, "streams": 10, "mature": 0, "language": "German", "account_age": 2720160.0}

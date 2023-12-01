@@ -1,0 +1,1 @@
+{"channel": "pembepati", "avg_viewers": 177, "followers_gained": 1431, "peak_viewers": 2714, "hours_streamed": 50, "streams": 7, "mature": 1, "language": "Turkish", "account_age": 2000160.0}

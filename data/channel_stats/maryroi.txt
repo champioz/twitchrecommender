@@ -1,0 +1,1 @@
+{"channel": "maryroi", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 8, "hours_streamed": 4, "streams": 4, "mature": 0, "language": "Spanish", "account_age": 610560.0}

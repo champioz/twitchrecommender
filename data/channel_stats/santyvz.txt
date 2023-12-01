@@ -1,0 +1,1 @@
+{"channel": "santyvz", "avg_viewers": 5, "followers_gained": 106, "peak_viewers": 18, "hours_streamed": 181, "streams": 34, "mature": 1, "language": "Spanish", "account_age": 868320.0}

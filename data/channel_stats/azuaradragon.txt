@@ -1,0 +1,1 @@
+{"channel": "azuaradragon", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 6, "hours_streamed": 58, "streams": 38, "mature": 1, "language": "English", "account_age": 537120.0}

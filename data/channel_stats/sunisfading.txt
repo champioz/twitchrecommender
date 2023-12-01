@@ -1,0 +1,1 @@
+{"channel": "sunisfading", "avg_viewers": 15, "followers_gained": 125, "peak_viewers": 184, "hours_streamed": 90, "streams": 27, "mature": 0, "language": "Russian", "account_age": 1421280.0}

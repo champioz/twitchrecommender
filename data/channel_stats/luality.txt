@@ -1,0 +1,1 @@
+{"channel": "luality", "avg_viewers": 95, "followers_gained": 516, "peak_viewers": 172, "hours_streamed": 133, "streams": 21, "mature": 0, "language": "English", "account_age": 1421280.0}

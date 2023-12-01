@@ -1,0 +1,1 @@
+{"channel": "madameberry", "avg_viewers": 13, "followers_gained": 38, "peak_viewers": 56, "hours_streamed": 33, "streams": 9, "mature": 1, "language": "English", "account_age": 4184640.0}

@@ -1,0 +1,1 @@
+{"channel": "lt_raven", "avg_viewers": 422, "followers_gained": 2548, "peak_viewers": 2087, "hours_streamed": 116, "streams": 23, "mature": 1, "language": "English", "account_age": 1859040.0}

@@ -1,0 +1,1 @@
+{"channel": "froggerow", "avg_viewers": 140, "followers_gained": 1710, "peak_viewers": 1298, "hours_streamed": 116, "streams": 34, "mature": 0, "language": "English", "account_age": 1560960.0}

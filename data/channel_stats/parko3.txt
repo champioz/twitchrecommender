@@ -1,0 +1,1 @@
+{"channel": "parko3", "avg_viewers": 17, "followers_gained": 15, "peak_viewers": 31, "hours_streamed": 18, "streams": 7, "mature": 1, "language": "English", "account_age": 2783520.0}

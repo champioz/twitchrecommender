@@ -1,0 +1,1 @@
+{"channel": "missmimiii", "avg_viewers": 8, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "German", "account_age": 2525760.0}

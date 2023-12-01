@@ -1,0 +1,1 @@
+{"channel": "mclaffytaffy", "avg_viewers": 133, "followers_gained": 213, "peak_viewers": 417, "hours_streamed": 213, "streams": 28, "mature": 0, "language": "English", "account_age": 4095360.0}

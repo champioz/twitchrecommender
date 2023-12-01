@@ -1,0 +1,1 @@
+{"channel": "baddlxgod", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "German", "account_age": 1895040.0}

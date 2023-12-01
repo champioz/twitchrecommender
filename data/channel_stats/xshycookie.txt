@@ -1,0 +1,1 @@
+{"channel": "xshycookie", "avg_viewers": 18, "followers_gained": 102, "peak_viewers": 43, "hours_streamed": 37, "streams": 13, "mature": 1, "language": "English", "account_age": 1239840.0}

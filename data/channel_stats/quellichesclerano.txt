@@ -1,0 +1,1 @@
+{"channel": "quellichesclerano", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 8, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Italian", "account_age": 2622240.0}

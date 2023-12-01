@@ -1,0 +1,1 @@
+{"channel": "theb2bomber", "avg_viewers": 4, "followers_gained": 22, "peak_viewers": 17, "hours_streamed": 68, "streams": 9, "mature": 1, "language": "English", "account_age": 2198880.0}

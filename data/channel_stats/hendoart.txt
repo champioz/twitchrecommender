@@ -1,0 +1,1 @@
+{"channel": "hendoart", "avg_viewers": 46, "followers_gained": 250, "peak_viewers": 70, "hours_streamed": 8, "streams": 3, "mature": 1, "language": "English", "account_age": 2141280.0}

@@ -1,0 +1,1 @@
+{"channel": "animedrache", "avg_viewers": 3, "followers_gained": 11, "peak_viewers": 11, "hours_streamed": 173, "streams": 26, "mature": 1, "language": "German", "account_age": 2041920.0}

@@ -1,0 +1,1 @@
+{"channel": "elysa2000", "avg_viewers": 14, "followers_gained": 32, "peak_viewers": 33, "hours_streamed": 19, "streams": 8, "mature": 1, "language": "English", "account_age": 2456640.0}

@@ -1,0 +1,1 @@
+{"channel": "hagakure187", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 22, "streams": 10, "mature": 1, "language": "German", "account_age": 591840.0}

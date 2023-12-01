@@ -1,0 +1,1 @@
+{"channel": "pg_esports", "avg_viewers": 1509, "followers_gained": 1415, "peak_viewers": 3903, "hours_streamed": 110, "streams": 20, "mature": 0, "language": "Italian", "account_age": 2975040.0}

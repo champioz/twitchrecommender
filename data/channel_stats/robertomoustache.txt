@@ -1,0 +1,1 @@
+{"channel": "robertomoustache", "avg_viewers": 4, "followers_gained": 11, "peak_viewers": 16, "hours_streamed": 38, "streams": 12, "mature": 0, "language": "French", "account_age": 3319200.0}

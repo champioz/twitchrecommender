@@ -1,0 +1,1 @@
+{"channel": "wailam_1020", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 20, "hours_streamed": 29, "streams": 17, "mature": 0, "language": "Chinese", "account_age": 724320.0}

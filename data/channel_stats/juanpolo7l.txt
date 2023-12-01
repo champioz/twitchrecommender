@@ -1,0 +1,1 @@
+{"channel": "juanpolo7l", "avg_viewers": 34, "followers_gained": 3, "peak_viewers": 43, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 2531520.0}

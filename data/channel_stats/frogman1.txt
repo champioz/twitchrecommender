@@ -1,0 +1,1 @@
+{"channel": "frogman1", "avg_viewers": 525, "followers_gained": 5747, "peak_viewers": 2025, "hours_streamed": 125, "streams": 22, "mature": 0, "language": "Portuguese", "account_age": 1074240.0}

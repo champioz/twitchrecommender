@@ -1,0 +1,1 @@
+{"channel": "theniks14", "avg_viewers": 4, "followers_gained": 22, "peak_viewers": 15, "hours_streamed": 58, "streams": 17, "mature": 1, "language": "French", "account_age": 3565440.0}

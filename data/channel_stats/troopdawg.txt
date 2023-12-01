@@ -1,0 +1,1 @@
+{"channel": "troopdawg", "avg_viewers": 20, "followers_gained": 113, "peak_viewers": 62, "hours_streamed": 109, "streams": 23, "mature": 0, "language": "English", "account_age": 1736640.0}

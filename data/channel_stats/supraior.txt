@@ -1,0 +1,1 @@
+{"channel": "supraior", "avg_viewers": 16, "followers_gained": 79, "peak_viewers": 356, "hours_streamed": 79, "streams": 12, "mature": 0, "language": "English", "account_age": 2678400.0}

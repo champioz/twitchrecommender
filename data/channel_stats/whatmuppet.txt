@@ -1,0 +1,1 @@
+{"channel": "whatmuppet", "avg_viewers": 6, "followers_gained": 102, "peak_viewers": 22, "hours_streamed": 64, "streams": 16, "mature": 1, "language": "English", "account_age": 1546560.0}

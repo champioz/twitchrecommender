@@ -1,0 +1,1 @@
+{"channel": "slimkirby", "avg_viewers": 17, "followers_gained": 41, "peak_viewers": 87, "hours_streamed": 100, "streams": 24, "mature": 0, "language": "English", "account_age": 5892480.0}

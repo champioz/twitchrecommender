@@ -1,0 +1,1 @@
+{"channel": "fishyjd", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 78, "hours_streamed": 60, "streams": 12, "mature": 0, "language": "English", "account_age": 2079360.0}

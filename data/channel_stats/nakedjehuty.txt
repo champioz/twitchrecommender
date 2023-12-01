@@ -1,0 +1,1 @@
+{"channel": "nakedjehuty", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 29, "hours_streamed": 95, "streams": 30, "mature": 0, "language": "Chinese", "account_age": 5247360.0}

@@ -1,0 +1,1 @@
+{"channel": "looperkele", "avg_viewers": 35, "followers_gained": 56, "peak_viewers": 75, "hours_streamed": 38, "streams": 11, "mature": 0, "language": "English", "account_age": 2969280.0}

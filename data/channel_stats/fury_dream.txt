@@ -1,0 +1,1 @@
+{"channel": "fury_dream", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 4, "streams": 5, "mature": 0, "language": "Russian", "account_age": 1977120.0}

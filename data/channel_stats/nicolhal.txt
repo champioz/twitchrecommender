@@ -1,0 +1,1 @@
+{"channel": "nicolhal", "avg_viewers": 14, "followers_gained": 16, "peak_viewers": 24, "hours_streamed": 5, "streams": 6, "mature": 0, "language": "Slovak", "account_age": 938880.0}

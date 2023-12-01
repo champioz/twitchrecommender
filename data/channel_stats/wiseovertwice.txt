@@ -1,0 +1,1 @@
+{"channel": "wiseovertwice", "avg_viewers": 150, "followers_gained": 534, "peak_viewers": 921, "hours_streamed": 93, "streams": 18, "mature": 0, "language": "Russian", "account_age": 2135520.0}

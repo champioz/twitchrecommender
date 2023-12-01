@@ -1,0 +1,1 @@
+{"channel": "danielamoral3s", "avg_viewers": 66, "followers_gained": 3345, "peak_viewers": 516, "hours_streamed": 146, "streams": 24, "mature": 0, "language": "Spanish", "account_age": 324000.0}

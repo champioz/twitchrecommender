@@ -1,0 +1,1 @@
+{"channel": "greglefrancais", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 101, "hours_streamed": 79, "streams": 23, "mature": 1, "language": "French", "account_age": 1261440.0}

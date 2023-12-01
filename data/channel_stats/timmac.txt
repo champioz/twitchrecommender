@@ -1,0 +1,1 @@
+{"channel": "timmac", "avg_viewers": 2804, "followers_gained": 11892, "peak_viewers": 10699, "hours_streamed": 307, "streams": 29, "mature": 1, "language": "English", "account_age": 5096160.0}

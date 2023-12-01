@@ -1,0 +1,1 @@
+{"channel": "mechaf", "avg_viewers": 30, "followers_gained": 44, "peak_viewers": 60, "hours_streamed": 181, "streams": 34, "mature": 1, "language": "English", "account_age": 3751200.0}

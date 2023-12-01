@@ -1,0 +1,1 @@
+{"channel": "vegax1001", "avg_viewers": 4, "followers_gained": 32, "peak_viewers": 21, "hours_streamed": 65, "streams": 27, "mature": 1, "language": "Portuguese", "account_age": 1478880.0}

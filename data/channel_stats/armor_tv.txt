@@ -1,0 +1,1 @@
+{"channel": "armor_tv", "avg_viewers": 300, "followers_gained": 1051, "peak_viewers": 569, "hours_streamed": 78, "streams": 29, "mature": 0, "language": "Russian", "account_age": 2613600.0}

@@ -1,0 +1,1 @@
+{"channel": "futbolenvivomx", "avg_viewers": 393, "followers_gained": 432, "peak_viewers": 1602, "hours_streamed": 21, "streams": 8, "mature": 0, "language": "Spanish", "account_age": 115200.0}

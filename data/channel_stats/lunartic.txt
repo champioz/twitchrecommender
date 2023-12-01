@@ -1,0 +1,1 @@
+{"channel": "lunartic", "avg_viewers": 14, "followers_gained": 62, "peak_viewers": 44, "hours_streamed": 126, "streams": 36, "mature": 0, "language": "English", "account_age": 2836800.0}

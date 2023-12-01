@@ -1,0 +1,1 @@
+{"channel": "masaa_ow", "avg_viewers": 52, "followers_gained": 257, "peak_viewers": 547, "hours_streamed": 45, "streams": 20, "mature": 0, "language": "English", "account_age": 1284480.0}

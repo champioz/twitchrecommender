@@ -1,0 +1,1 @@
+{"channel": "dnakaboom", "avg_viewers": 3, "followers_gained": 10, "peak_viewers": 12, "hours_streamed": 34, "streams": 12, "mature": 0, "language": "German", "account_age": 3718080.0}

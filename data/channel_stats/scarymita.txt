@@ -1,0 +1,1 @@
+{"channel": "scarymita", "avg_viewers": 31, "followers_gained": 463, "peak_viewers": 124, "hours_streamed": 27, "streams": 12, "mature": 0, "language": "English", "account_age": 1314720.0}

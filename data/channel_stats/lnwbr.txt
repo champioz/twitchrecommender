@@ -1,0 +1,1 @@
+{"channel": "lnwbr", "avg_viewers": 20, "followers_gained": 12, "peak_viewers": 36, "hours_streamed": 33, "streams": 23, "mature": 0, "language": "German", "account_age": 2816640.0}

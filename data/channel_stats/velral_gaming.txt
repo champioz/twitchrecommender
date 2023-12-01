@@ -1,0 +1,1 @@
+{"channel": "velral_gaming", "avg_viewers": 24, "followers_gained": 16, "peak_viewers": 51, "hours_streamed": 88, "streams": 19, "mature": 1, "language": "Hungarian", "account_age": 2334240.0}

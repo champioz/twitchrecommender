@@ -1,0 +1,1 @@
+{"channel": "mattrp", "avg_viewers": 442, "followers_gained": 1906, "peak_viewers": 2003, "hours_streamed": 87, "streams": 19, "mature": 1, "language": "English", "account_age": 4440960.0}

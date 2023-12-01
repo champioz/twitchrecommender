@@ -1,0 +1,1 @@
+{"channel": "altorn_achm", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 33, "streams": 10, "mature": 1, "language": "English", "account_age": 3310560.0}

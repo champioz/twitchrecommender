@@ -1,0 +1,1 @@
+{"channel": "mooters", "avg_viewers": 17, "followers_gained": 102, "peak_viewers": 133, "hours_streamed": 159, "streams": 25, "mature": 0, "language": "Korean", "account_age": 3808800.0}

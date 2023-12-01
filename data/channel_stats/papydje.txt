@@ -1,0 +1,1 @@
+{"channel": "papydje", "avg_viewers": 7, "followers_gained": 14, "peak_viewers": 16, "hours_streamed": 19, "streams": 4, "mature": 1, "language": "French", "account_age": 2321280.0}

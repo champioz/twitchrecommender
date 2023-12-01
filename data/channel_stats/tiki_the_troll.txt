@@ -1,0 +1,1 @@
+{"channel": "tiki_the_troll", "avg_viewers": 8, "followers_gained": 10, "peak_viewers": 46, "hours_streamed": 50, "streams": 16, "mature": 1, "language": "English", "account_age": 2851200.0}

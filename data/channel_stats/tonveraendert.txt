@@ -1,0 +1,1 @@
+{"channel": "tonveraendert", "avg_viewers": 93, "followers_gained": 679, "peak_viewers": 240, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "German", "account_age": 607680.0}

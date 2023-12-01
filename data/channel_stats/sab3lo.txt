@@ -1,0 +1,1 @@
+{"channel": "sab3lo", "avg_viewers": 37, "followers_gained": 8, "peak_viewers": 48, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 1811520.0}

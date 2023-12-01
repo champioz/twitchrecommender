@@ -1,0 +1,1 @@
+{"channel": "amlinkvrs", "avg_viewers": 6, "followers_gained": 15, "peak_viewers": 18, "hours_streamed": 84, "streams": 26, "mature": 0, "language": "English", "account_age": 1192320.0}

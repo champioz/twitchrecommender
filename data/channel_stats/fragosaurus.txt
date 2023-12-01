@@ -1,0 +1,1 @@
+{"channel": "fragosaurus", "avg_viewers": 5, "followers_gained": 10, "peak_viewers": 56, "hours_streamed": 138, "streams": 20, "mature": 1, "language": "English", "account_age": 1169280.0}

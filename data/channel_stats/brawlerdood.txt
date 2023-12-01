@@ -1,0 +1,1 @@
+{"channel": "brawlerdood", "avg_viewers": 4, "followers_gained": 25, "peak_viewers": 31, "hours_streamed": 73, "streams": 24, "mature": 1, "language": "English", "account_age": 1864800.0}

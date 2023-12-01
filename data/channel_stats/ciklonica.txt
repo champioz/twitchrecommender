@@ -1,0 +1,1 @@
+{"channel": "ciklonica", "avg_viewers": 296, "followers_gained": 3904, "peak_viewers": 995, "hours_streamed": 154, "streams": 25, "mature": 0, "language": "Russian", "account_age": 1932480.0}

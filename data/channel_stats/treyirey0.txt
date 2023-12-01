@@ -1,0 +1,1 @@
+{"channel": "treyirey0", "avg_viewers": 35, "followers_gained": 180, "peak_viewers": 710, "hours_streamed": 99, "streams": 6, "mature": 1, "language": "English", "account_age": 2895840.0}

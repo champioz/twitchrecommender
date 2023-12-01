@@ -1,0 +1,1 @@
+{"channel": "missp0tato", "avg_viewers": 3, "followers_gained": 11, "peak_viewers": 10, "hours_streamed": 13, "streams": 2, "mature": 1, "language": "English", "account_age": 685440.0}

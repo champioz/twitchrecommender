@@ -1,0 +1,1 @@
+{"channel": "juju", "avg_viewers": 262, "followers_gained": 1953, "peak_viewers": 1077, "hours_streamed": 14, "streams": 7, "mature": 0, "language": "English", "account_age": 1062720.0}

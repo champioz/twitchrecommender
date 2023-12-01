@@ -1,0 +1,1 @@
+{"channel": "ms_trix", "avg_viewers": 4, "followers_gained": 115, "peak_viewers": 28, "hours_streamed": 167, "streams": 28, "mature": 1, "language": "English", "account_age": 1399680.0}

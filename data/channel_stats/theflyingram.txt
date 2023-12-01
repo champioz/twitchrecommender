@@ -1,0 +1,1 @@
+{"channel": "theflyingram", "avg_viewers": 69, "followers_gained": 121, "peak_viewers": 562, "hours_streamed": 185, "streams": 45, "mature": 0, "language": "Turkish", "account_age": 2845440.0}

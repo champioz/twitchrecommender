@@ -1,0 +1,1 @@
+{"channel": "cwelth", "avg_viewers": 262, "followers_gained": 386, "peak_viewers": 667, "hours_streamed": 15, "streams": 4, "mature": 1, "language": "Russian", "account_age": 2809440.0}

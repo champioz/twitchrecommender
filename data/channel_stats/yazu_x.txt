@@ -1,0 +1,1 @@
+{"channel": "yazu_x", "avg_viewers": 7, "followers_gained": 11, "peak_viewers": 19, "hours_streamed": 85, "streams": 18, "mature": 0, "language": "English", "account_age": 5443200.0}

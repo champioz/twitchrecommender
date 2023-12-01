@@ -1,0 +1,1 @@
+{"channel": "kazumaybe", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 6, "streams": 7, "mature": 0, "language": "Japanese", "account_age": 874080.0}

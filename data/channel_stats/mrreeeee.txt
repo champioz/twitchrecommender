@@ -1,0 +1,1 @@
+{"channel": "mrreeeee", "avg_viewers": 1, "followers_gained": 33, "peak_viewers": 11, "hours_streamed": 90, "streams": 33, "mature": 1, "language": "English", "account_age": 2757600.0}

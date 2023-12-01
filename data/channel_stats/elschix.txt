@@ -1,0 +1,1 @@
+{"channel": "elschix", "avg_viewers": 68, "followers_gained": 195, "peak_viewers": 198, "hours_streamed": 34, "streams": 12, "mature": 0, "language": "German", "account_age": 2092320.0}

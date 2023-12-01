@@ -1,0 +1,1 @@
+{"channel": "jdragon_21", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 14, "hours_streamed": 9, "streams": 3, "mature": 1, "language": "English", "account_age": 2384640.0}

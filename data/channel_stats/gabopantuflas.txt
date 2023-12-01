@@ -1,0 +1,1 @@
+{"channel": "gabopantuflas", "avg_viewers": 1, "followers_gained": 20, "peak_viewers": 14, "hours_streamed": 140, "streams": 35, "mature": 1, "language": "Spanish", "account_age": 4213440.0}

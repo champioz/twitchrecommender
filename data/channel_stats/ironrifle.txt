@@ -1,0 +1,1 @@
+{"channel": "ironrifle", "avg_viewers": 4, "followers_gained": 16, "peak_viewers": 15, "hours_streamed": 219, "streams": 59, "mature": 1, "language": "Polish", "account_age": 3438720.0}

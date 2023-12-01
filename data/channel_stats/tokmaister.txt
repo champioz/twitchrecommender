@@ -1,0 +1,1 @@
+{"channel": "tokmaister", "avg_viewers": 4, "followers_gained": 97, "peak_viewers": 11, "hours_streamed": 90, "streams": 40, "mature": 0, "language": "Czech", "account_age": 768960.0}

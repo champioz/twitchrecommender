@@ -1,0 +1,1 @@
+{"channel": "exwong", "avg_viewers": 3, "followers_gained": 20, "peak_viewers": 13, "hours_streamed": 156, "streams": 34, "mature": 1, "language": "Russian", "account_age": 2390400.0}

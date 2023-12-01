@@ -1,0 +1,1 @@
+{"channel": "snilloconator", "avg_viewers": 4, "followers_gained": 16, "peak_viewers": 12, "hours_streamed": 61, "streams": 32, "mature": 0, "language": "English", "account_age": 5130720.0}

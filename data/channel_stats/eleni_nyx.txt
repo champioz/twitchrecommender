@@ -1,0 +1,1 @@
+{"channel": "eleni_nyx", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 33, "streams": 13, "mature": 0, "language": "Italian", "account_age": 2139840.0}

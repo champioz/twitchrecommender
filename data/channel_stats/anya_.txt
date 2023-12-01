@@ -1,0 +1,1 @@
+{"channel": "anya_", "avg_viewers": 31, "followers_gained": 288, "peak_viewers": 87, "hours_streamed": 95, "streams": 27, "mature": 1, "language": "English", "account_age": 1696320.0}

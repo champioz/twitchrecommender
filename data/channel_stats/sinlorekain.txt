@@ -1,0 +1,1 @@
+{"channel": "sinlorekain", "avg_viewers": 19, "followers_gained": 21, "peak_viewers": 56, "hours_streamed": 41, "streams": 12, "mature": 1, "language": "English", "account_age": 2240640.0}

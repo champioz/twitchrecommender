@@ -1,0 +1,1 @@
+{"channel": "viperdemon", "avg_viewers": 617, "followers_gained": 3116, "peak_viewers": 2270, "hours_streamed": 348, "streams": 35, "mature": 0, "language": "Thai", "account_age": 3450240.0}

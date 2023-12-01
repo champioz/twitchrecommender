@@ -1,0 +1,1 @@
+{"channel": "mekroy", "avg_viewers": 53, "followers_gained": 162, "peak_viewers": 168, "hours_streamed": 146, "streams": 38, "mature": 0, "language": "Ukrainian", "account_age": 2338560.0}

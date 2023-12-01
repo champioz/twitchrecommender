@@ -1,0 +1,1 @@
+{"channel": "lulu_x5", "avg_viewers": 10, "followers_gained": 6, "peak_viewers": 16, "hours_streamed": 6, "streams": 4, "mature": 1, "language": "English", "account_age": 1071360.0}

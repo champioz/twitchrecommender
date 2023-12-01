@@ -1,0 +1,1 @@
+{"channel": "rolltherole", "avg_viewers": 16, "followers_gained": 73, "peak_viewers": 36, "hours_streamed": 68, "streams": 17, "mature": 1, "language": "English", "account_age": 216000.0}

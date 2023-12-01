@@ -1,0 +1,1 @@
+{"channel": "mackenseize", "avg_viewers": 50, "followers_gained": 104, "peak_viewers": 94, "hours_streamed": 21, "streams": 8, "mature": 1, "language": "English", "account_age": 2795040.0}

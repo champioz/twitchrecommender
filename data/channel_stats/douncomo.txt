@@ -1,0 +1,1 @@
+{"channel": "douncomo", "avg_viewers": 28, "followers_gained": 31, "peak_viewers": 108, "hours_streamed": 209, "streams": 37, "mature": 0, "language": "Japanese", "account_age": 522720.0}

@@ -1,0 +1,1 @@
+{"channel": "cogollot1", "avg_viewers": 8, "followers_gained": 8, "peak_viewers": 13, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 770400.0}

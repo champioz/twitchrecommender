@@ -1,0 +1,1 @@
+{"channel": "patchesxli", "avg_viewers": 6, "followers_gained": 67, "peak_viewers": 17, "hours_streamed": 100, "streams": 24, "mature": 1, "language": "English", "account_age": 463680.0}

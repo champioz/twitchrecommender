@@ -1,0 +1,1 @@
+{"channel": "skorngaming", "avg_viewers": 9, "followers_gained": 28, "peak_viewers": 97, "hours_streamed": 48, "streams": 15, "mature": 1, "language": "English", "account_age": 728640.0}

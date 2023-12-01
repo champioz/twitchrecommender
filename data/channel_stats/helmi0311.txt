@@ -1,0 +1,1 @@
+{"channel": "helmi0311", "avg_viewers": 6, "followers_gained": 83, "peak_viewers": 34, "hours_streamed": 68, "streams": 29, "mature": 1, "language": "German", "account_age": 2315520.0}

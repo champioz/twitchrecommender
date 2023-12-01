@@ -1,0 +1,1 @@
+{"channel": "mrfox_plays", "avg_viewers": 37, "followers_gained": 37, "peak_viewers": 137, "hours_streamed": 2, "streams": 2, "mature": 1, "language": "Other", "account_age": 483840.0}

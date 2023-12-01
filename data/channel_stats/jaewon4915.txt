@@ -1,0 +1,1 @@
+{"channel": "jaewon4915", "avg_viewers": 387, "followers_gained": 4034, "peak_viewers": 776, "hours_streamed": 41, "streams": 18, "mature": 0, "language": "Korean", "account_age": 1434240.0}

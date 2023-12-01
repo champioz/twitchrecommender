@@ -1,0 +1,1 @@
+{"channel": "mentertainment", "avg_viewers": 2192, "followers_gained": 312, "peak_viewers": 5598, "hours_streamed": 22, "streams": 11, "mature": 0, "language": "Chinese", "account_age": 1490400.0}

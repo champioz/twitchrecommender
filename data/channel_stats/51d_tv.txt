@@ -1,0 +1,1 @@
+{"channel": "51d_tv", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 9, "hours_streamed": 134, "streams": 32, "mature": 1, "language": "German", "account_age": 856800.0}

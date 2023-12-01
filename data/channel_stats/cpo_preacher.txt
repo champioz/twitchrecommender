@@ -1,0 +1,1 @@
+{"channel": "cpo_preacher", "avg_viewers": 16, "followers_gained": 23, "peak_viewers": 52, "hours_streamed": 118, "streams": 35, "mature": 1, "language": "German", "account_age": 401760.0}

@@ -1,0 +1,1 @@
+{"channel": "briba20", "avg_viewers": 15, "followers_gained": 6, "peak_viewers": 30, "hours_streamed": 14, "streams": 3, "mature": 1, "language": "English", "account_age": 1152000.0}

@@ -1,0 +1,1 @@
+{"channel": "hotseaoficial", "avg_viewers": 57, "followers_gained": 2, "peak_viewers": 93, "hours_streamed": 14, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 1254240.0}

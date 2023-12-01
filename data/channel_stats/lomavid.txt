@@ -1,0 +1,1 @@
+{"channel": "lomavid", "avg_viewers": 24, "followers_gained": 17, "peak_viewers": 80, "hours_streamed": 63, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 3996000.0}

@@ -1,0 +1,1 @@
+{"channel": "wanderbot", "avg_viewers": 175, "followers_gained": 929, "peak_viewers": 412, "hours_streamed": 241, "streams": 31, "mature": 0, "language": "English", "account_age": 3026880.0}

@@ -1,0 +1,1 @@
+{"channel": "arpatsche", "avg_viewers": 4, "followers_gained": 34, "peak_viewers": 23, "hours_streamed": 56, "streams": 18, "mature": 1, "language": "German", "account_age": 987840.0}

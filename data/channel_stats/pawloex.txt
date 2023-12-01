@@ -1,0 +1,1 @@
+{"channel": "pawloex", "avg_viewers": 27, "followers_gained": 55, "peak_viewers": 108, "hours_streamed": 152, "streams": 24, "mature": 0, "language": "Polish", "account_age": 3350880.0}

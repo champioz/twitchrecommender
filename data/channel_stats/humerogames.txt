@@ -1,0 +1,1 @@
+{"channel": "humerogames", "avg_viewers": 68, "followers_gained": 326, "peak_viewers": 172, "hours_streamed": 175, "streams": 33, "mature": 1, "language": "Spanish", "account_age": 2475360.0}

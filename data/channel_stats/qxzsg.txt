@@ -1,0 +1,1 @@
+{"channel": "qxzsg", "avg_viewers": 6, "followers_gained": 8, "peak_viewers": 39, "hours_streamed": 20, "streams": 8, "mature": 0, "language": "English", "account_age": 3902400.0}

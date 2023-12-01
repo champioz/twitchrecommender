@@ -1,0 +1,1 @@
+{"channel": "eissfeldtow", "avg_viewers": 20, "followers_gained": 4, "peak_viewers": 33, "hours_streamed": 12, "streams": 4, "mature": 0, "language": "German", "account_age": 1615680.0}

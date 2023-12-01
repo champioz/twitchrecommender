@@ -1,0 +1,1 @@
+{"channel": "sandrajennifer", "avg_viewers": 27, "followers_gained": 96, "peak_viewers": 78, "hours_streamed": 27, "streams": 9, "mature": 0, "language": "Swedish", "account_age": 3215520.0}

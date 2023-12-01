@@ -1,0 +1,1 @@
+{"channel": "wolvesatmydoor", "avg_viewers": 75, "followers_gained": 61, "peak_viewers": 307, "hours_streamed": 95, "streams": 20, "mature": 0, "language": "English", "account_age": 3340800.0}

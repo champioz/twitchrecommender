@@ -1,0 +1,1 @@
+{"channel": "hjuiklop", "avg_viewers": 9, "followers_gained": 1, "peak_viewers": 23, "hours_streamed": 40, "streams": 8, "mature": 1, "language": "Chinese", "account_age": 2327040.0}

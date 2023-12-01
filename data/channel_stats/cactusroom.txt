@@ -1,0 +1,1 @@
+{"channel": "cactusroom", "avg_viewers": 5, "followers_gained": 52, "peak_viewers": 21, "hours_streamed": 140, "streams": 28, "mature": 0, "language": "English", "account_age": 303840.0}

@@ -1,0 +1,1 @@
+{"channel": "sketton", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 9, "hours_streamed": 15, "streams": 8, "mature": 0, "language": "Spanish", "account_age": 734400.0}

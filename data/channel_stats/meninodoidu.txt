@@ -1,0 +1,1 @@
+{"channel": "meninodoidu", "avg_viewers": 24, "followers_gained": 129, "peak_viewers": 67, "hours_streamed": 17, "streams": 6, "mature": 0, "language": "Portuguese", "account_age": 1478880.0}

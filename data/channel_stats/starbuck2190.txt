@@ -1,0 +1,1 @@
+{"channel": "starbuck2190", "avg_viewers": 37, "followers_gained": 60, "peak_viewers": 77, "hours_streamed": 26, "streams": 7, "mature": 1, "language": "English", "account_age": 2560320.0}

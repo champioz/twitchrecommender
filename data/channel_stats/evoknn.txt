@@ -1,0 +1,1 @@
+{"channel": "evoknn", "avg_viewers": 9, "followers_gained": 237, "peak_viewers": 30, "hours_streamed": 114, "streams": 35, "mature": 0, "language": "French", "account_age": 2612160.0}

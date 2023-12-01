@@ -1,0 +1,1 @@
+{"channel": "jskee_", "avg_viewers": 17, "followers_gained": 342, "peak_viewers": 272, "hours_streamed": 285, "streams": 32, "mature": 1, "language": "English", "account_age": 2224800.0}

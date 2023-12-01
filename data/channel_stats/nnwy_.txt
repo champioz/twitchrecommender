@@ -1,0 +1,1 @@
+{"channel": "nnwy_", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 6, "streams": 4, "mature": 1, "language": "German", "account_age": 665280.0}

@@ -1,0 +1,1 @@
+{"channel": "jubes6666", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 1, "hours_streamed": 37, "streams": 34, "mature": 0, "language": "Thai", "account_age": 427680.0}

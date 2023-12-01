@@ -1,0 +1,1 @@
+{"channel": "jphanta", "avg_viewers": 62, "followers_gained": 577, "peak_viewers": 180, "hours_streamed": 63, "streams": 27, "mature": 0, "language": "English", "account_age": 2587680.0}

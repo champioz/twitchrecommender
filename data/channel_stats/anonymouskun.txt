@@ -1,0 +1,1 @@
+{"channel": "anonymouskun", "avg_viewers": 2, "followers_gained": 46, "peak_viewers": 24, "hours_streamed": 67, "streams": 32, "mature": 0, "language": "English", "account_age": 2668320.0}

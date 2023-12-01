@@ -1,0 +1,1 @@
+{"channel": "yusijen", "avg_viewers": 5, "followers_gained": 76, "peak_viewers": 16, "hours_streamed": 63, "streams": 28, "mature": 1, "language": "Turkish", "account_age": 2476800.0}

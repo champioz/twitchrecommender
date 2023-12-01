@@ -1,0 +1,1 @@
+{"channel": "jimmy33336523", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 21, "hours_streamed": 51, "streams": 15, "mature": 0, "language": "Chinese", "account_age": 591840.0}

@@ -1,0 +1,1 @@
+{"channel": "beddamatri91", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 12, "hours_streamed": 60, "streams": 44, "mature": 0, "language": "Italian", "account_age": 642240.0}

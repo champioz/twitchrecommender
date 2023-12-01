@@ -1,0 +1,1 @@
+{"channel": "nelyaray", "avg_viewers": 112, "followers_gained": 949, "peak_viewers": 416, "hours_streamed": 103, "streams": 24, "mature": 0, "language": "Russian", "account_age": 1863360.0}

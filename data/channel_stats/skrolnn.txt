@@ -1,0 +1,1 @@
+{"channel": "skrolnn", "avg_viewers": 430, "followers_gained": 2, "peak_viewers": 2004, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "German", "account_age": 1735200.0}

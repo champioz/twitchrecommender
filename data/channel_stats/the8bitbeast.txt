@@ -1,0 +1,1 @@
+{"channel": "the8bitbeast", "avg_viewers": 13, "followers_gained": 41, "peak_viewers": 505, "hours_streamed": 67, "streams": 21, "mature": 0, "language": "English", "account_age": 2980800.0}

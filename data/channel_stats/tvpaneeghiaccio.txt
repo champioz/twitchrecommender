@@ -1,0 +1,1 @@
+{"channel": "tvpaneeghiaccio", "avg_viewers": 6, "followers_gained": 96, "peak_viewers": 150, "hours_streamed": 132, "streams": 32, "mature": 0, "language": "Italian", "account_age": 2970720.0}

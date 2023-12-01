@@ -1,0 +1,1 @@
+{"channel": "jaguarkill", "avg_viewers": 12, "followers_gained": 64, "peak_viewers": 45, "hours_streamed": 71, "streams": 21, "mature": 0, "language": "Portuguese", "account_age": 1092960.0}

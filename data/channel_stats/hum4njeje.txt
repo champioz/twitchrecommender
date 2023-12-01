@@ -1,0 +1,1 @@
+{"channel": "hum4njeje", "avg_viewers": 20, "followers_gained": 2, "peak_viewers": 30, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "Greek", "account_age": 3389760.0}

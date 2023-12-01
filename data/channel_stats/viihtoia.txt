@@ -1,0 +1,1 @@
+{"channel": "viihtoia", "avg_viewers": 19, "followers_gained": 912, "peak_viewers": 102, "hours_streamed": 129, "streams": 26, "mature": 0, "language": "Portuguese", "account_age": 2083680.0}

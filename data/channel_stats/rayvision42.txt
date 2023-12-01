@@ -1,0 +1,1 @@
+{"channel": "rayvision42", "avg_viewers": 28, "followers_gained": 32, "peak_viewers": 55, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "English", "account_age": 2754720.0}

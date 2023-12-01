@@ -1,0 +1,1 @@
+{"channel": "ironcladlion", "avg_viewers": 19, "followers_gained": 94, "peak_viewers": 49, "hours_streamed": 98, "streams": 17, "mature": 0, "language": "English", "account_age": 2517120.0}

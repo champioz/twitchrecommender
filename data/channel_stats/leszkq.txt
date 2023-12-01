@@ -1,0 +1,1 @@
+{"channel": "leszkq", "avg_viewers": 3, "followers_gained": 63, "peak_viewers": 35, "hours_streamed": 201, "streams": 68, "mature": 0, "language": "Polish", "account_age": 1254240.0}

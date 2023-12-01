@@ -1,0 +1,1 @@
+{"channel": "buzinho", "avg_viewers": 1, "followers_gained": 46, "peak_viewers": 17, "hours_streamed": 42, "streams": 33, "mature": 0, "language": "Portuguese", "account_age": 322560.0}

@@ -1,0 +1,1 @@
+{"channel": "lorraineesport", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 11, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "French", "account_age": 2894400.0}

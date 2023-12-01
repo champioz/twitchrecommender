@@ -1,0 +1,1 @@
+{"channel": "ozataku", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 153, "streams": 32, "mature": 0, "language": "Japanese", "account_age": 1643040.0}

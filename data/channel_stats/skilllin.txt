@@ -1,0 +1,1 @@
+{"channel": "skilllin", "avg_viewers": 15, "followers_gained": 44, "peak_viewers": 27, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "English", "account_age": 1496160.0}

@@ -1,0 +1,1 @@
+{"channel": "yesitsjaime", "avg_viewers": 1, "followers_gained": 65, "peak_viewers": 14, "hours_streamed": 204, "streams": 37, "mature": 0, "language": "English", "account_age": 344160.0}

@@ -1,0 +1,1 @@
+{"channel": "mmuayx", "avg_viewers": 10, "followers_gained": 265, "peak_viewers": 59, "hours_streamed": 97, "streams": 27, "mature": 1, "language": "Thai", "account_age": 547200.0}

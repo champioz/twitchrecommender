@@ -1,0 +1,1 @@
+{"channel": "nianfo", "avg_viewers": 9, "followers_gained": 73, "peak_viewers": 28, "hours_streamed": 255, "streams": 37, "mature": 1, "language": "French", "account_age": 2885760.0}

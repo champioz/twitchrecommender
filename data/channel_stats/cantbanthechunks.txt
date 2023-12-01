@@ -1,0 +1,1 @@
+{"channel": "cantbanthechunks", "avg_viewers": 9, "followers_gained": 111, "peak_viewers": 27, "hours_streamed": 167, "streams": 42, "mature": 1, "language": "English", "account_age": 1918080.0}

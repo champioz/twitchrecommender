@@ -1,0 +1,1 @@
+{"channel": "inzaynia", "avg_viewers": 249, "followers_gained": 482, "peak_viewers": 709, "hours_streamed": 143, "streams": 21, "mature": 0, "language": "German", "account_age": 3405600.0}

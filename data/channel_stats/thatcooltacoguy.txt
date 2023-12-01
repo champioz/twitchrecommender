@@ -1,0 +1,1 @@
+{"channel": "thatcooltacoguy", "avg_viewers": 18, "followers_gained": 5, "peak_viewers": 31, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 1690560.0}

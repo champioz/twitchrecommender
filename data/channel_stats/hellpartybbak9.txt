@@ -1,0 +1,1 @@
+{"channel": "hellpartybbak9", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 13, "streams": 4, "mature": 0, "language": "Korean", "account_age": 1000800.0}

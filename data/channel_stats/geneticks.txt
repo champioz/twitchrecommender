@@ -1,0 +1,1 @@
+{"channel": "geneticks", "avg_viewers": 2, "followers_gained": 28, "peak_viewers": 25, "hours_streamed": 59, "streams": 16, "mature": 1, "language": "Portuguese", "account_age": 3047040.0}

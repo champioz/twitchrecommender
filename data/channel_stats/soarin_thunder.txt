@@ -1,0 +1,1 @@
+{"channel": "soarin_thunder", "avg_viewers": 12, "followers_gained": 68, "peak_viewers": 87, "hours_streamed": 323, "streams": 37, "mature": 1, "language": "English", "account_age": 2892960.0}

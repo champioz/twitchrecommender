@@ -1,0 +1,1 @@
+{"channel": "jonathanallen93", "avg_viewers": 9, "followers_gained": 22, "peak_viewers": 19, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "English", "account_age": 609120.0}

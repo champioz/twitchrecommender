@@ -1,0 +1,1 @@
+{"channel": "lilsoose", "avg_viewers": 51, "followers_gained": 212, "peak_viewers": 245, "hours_streamed": 32, "streams": 20, "mature": 1, "language": "English", "account_age": 829440.0}

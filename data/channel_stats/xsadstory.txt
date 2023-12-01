@@ -1,0 +1,1 @@
+{"channel": "xsadstory", "avg_viewers": 24, "followers_gained": 1297, "peak_viewers": 106, "hours_streamed": 156, "streams": 40, "mature": 0, "language": "Arabic", "account_age": 1625760.0}

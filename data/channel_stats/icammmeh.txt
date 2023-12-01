@@ -1,0 +1,1 @@
+{"channel": "icammmeh", "avg_viewers": 9, "followers_gained": 17, "peak_viewers": 21, "hours_streamed": 20, "streams": 8, "mature": 1, "language": "English", "account_age": 3248640.0}

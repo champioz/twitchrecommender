@@ -1,0 +1,1 @@
+{"channel": "panic3519", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 10, "hours_streamed": 9, "streams": 3, "mature": 0, "language": "Japanese", "account_age": 951840.0}

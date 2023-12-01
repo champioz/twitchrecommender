@@ -1,0 +1,1 @@
+{"channel": "kingeen", "avg_viewers": 61, "followers_gained": 846, "peak_viewers": 159, "hours_streamed": 85, "streams": 27, "mature": 0, "language": "Swedish", "account_age": 2558880.0}

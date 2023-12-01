@@ -1,0 +1,1 @@
+{"channel": "vlados1", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "Russian", "account_age": 1491840.0}

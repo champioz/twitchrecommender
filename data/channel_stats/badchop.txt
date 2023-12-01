@@ -1,0 +1,1 @@
+{"channel": "badchop", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 8, "hours_streamed": 40, "streams": 15, "mature": 1, "language": "English", "account_age": 1918080.0}

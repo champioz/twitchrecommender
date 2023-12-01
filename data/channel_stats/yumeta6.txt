@@ -1,0 +1,1 @@
+{"channel": "yumeta6", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 13, "hours_streamed": 34, "streams": 14, "mature": 0, "language": "Japanese", "account_age": 950400.0}

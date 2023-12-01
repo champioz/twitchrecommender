@@ -1,0 +1,1 @@
+{"channel": "louu_maa", "avg_viewers": 20, "followers_gained": 8, "peak_viewers": 39, "hours_streamed": 8, "streams": 3, "mature": 1, "language": "Greek", "account_age": 902880.0}

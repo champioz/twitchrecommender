@@ -1,0 +1,1 @@
+{"channel": "sebkad", "avg_viewers": 25, "followers_gained": 27, "peak_viewers": 88, "hours_streamed": 79, "streams": 15, "mature": 1, "language": "German", "account_age": 1448640.0}

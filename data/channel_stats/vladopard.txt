@@ -1,0 +1,1 @@
+{"channel": "vladopard", "avg_viewers": 16, "followers_gained": 223, "peak_viewers": 39, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "English", "account_age": 2373120.0}

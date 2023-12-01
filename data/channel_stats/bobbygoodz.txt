@@ -1,0 +1,1 @@
+{"channel": "bobbygoodz", "avg_viewers": 0, "followers_gained": 18, "peak_viewers": 5, "hours_streamed": 73, "streams": 33, "mature": 1, "language": "English", "account_age": 633600.0}

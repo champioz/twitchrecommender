@@ -1,0 +1,1 @@
+{"channel": "bobbytheturtle29", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 13, "streams": 8, "mature": 0, "language": "English", "account_age": 2780640.0}

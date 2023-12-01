@@ -1,0 +1,1 @@
+{"channel": "anniegreen", "avg_viewers": 46, "followers_gained": 681, "peak_viewers": 212, "hours_streamed": 63, "streams": 23, "mature": 0, "language": "English", "account_age": 565920.0}

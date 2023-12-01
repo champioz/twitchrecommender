@@ -1,0 +1,1 @@
+{"channel": "lintgod", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "English", "account_age": 3147840.0}

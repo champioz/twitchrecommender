@@ -1,0 +1,1 @@
+{"channel": "r0dik", "avg_viewers": 42, "followers_gained": 63, "peak_viewers": 87, "hours_streamed": 43, "streams": 10, "mature": 1, "language": "French", "account_age": 2705760.0}

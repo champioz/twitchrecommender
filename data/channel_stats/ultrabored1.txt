@@ -1,0 +1,1 @@
+{"channel": "ultrabored1", "avg_viewers": 6, "followers_gained": 24, "peak_viewers": 18, "hours_streamed": 30, "streams": 12, "mature": 0, "language": "English", "account_age": 3234240.0}

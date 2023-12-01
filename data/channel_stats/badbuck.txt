@@ -1,0 +1,1 @@
+{"channel": "badbuck", "avg_viewers": 11, "followers_gained": 5, "peak_viewers": 42, "hours_streamed": 70, "streams": 26, "mature": 1, "language": "English", "account_age": 3726720.0}

@@ -1,0 +1,1 @@
+{"channel": "bullkin_tv", "avg_viewers": 327, "followers_gained": 1225, "peak_viewers": 1282, "hours_streamed": 46, "streams": 9, "mature": 1, "language": "Russian", "account_age": 2158560.0}

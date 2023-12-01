@@ -1,0 +1,1 @@
+{"channel": "davidgalego", "avg_viewers": 6, "followers_gained": 46, "peak_viewers": 25, "hours_streamed": 91, "streams": 24, "mature": 1, "language": "Portuguese", "account_age": 2049120.0}

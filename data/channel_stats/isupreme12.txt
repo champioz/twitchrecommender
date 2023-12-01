@@ -1,0 +1,1 @@
+{"channel": "isupreme12", "avg_viewers": 4, "followers_gained": 55, "peak_viewers": 13, "hours_streamed": 54, "streams": 16, "mature": 0, "language": "Spanish", "account_age": 1103040.0}

@@ -1,0 +1,1 @@
+{"channel": "miriamsink", "avg_viewers": 14, "followers_gained": 436, "peak_viewers": 53, "hours_streamed": 175, "streams": 51, "mature": 1, "language": "French", "account_age": 2158560.0}

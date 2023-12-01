@@ -1,0 +1,1 @@
+{"channel": "s1032204", "avg_viewers": 870, "followers_gained": 3512, "peak_viewers": 2198, "hours_streamed": 127, "streams": 30, "mature": 0, "language": "Korean", "account_age": 1440000.0}

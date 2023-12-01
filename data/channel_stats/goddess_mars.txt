@@ -1,0 +1,1 @@
+{"channel": "goddess_mars", "avg_viewers": 10, "followers_gained": 28, "peak_viewers": 27, "hours_streamed": 32, "streams": 14, "mature": 1, "language": "English", "account_age": 1133280.0}

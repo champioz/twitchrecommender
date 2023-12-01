@@ -1,0 +1,1 @@
+{"channel": "zerokill_85", "avg_viewers": 13, "followers_gained": 23, "peak_viewers": 26, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 1272960.0}

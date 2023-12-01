@@ -1,0 +1,1 @@
+{"channel": "cloverofficial", "avg_viewers": 35, "followers_gained": 162, "peak_viewers": 65, "hours_streamed": 38, "streams": 14, "mature": 1, "language": "English", "account_age": 1234080.0}

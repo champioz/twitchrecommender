@@ -1,0 +1,1 @@
+{"channel": "sceatt", "avg_viewers": 12, "followers_gained": 267, "peak_viewers": 79, "hours_streamed": 108, "streams": 34, "mature": 0, "language": "Thai", "account_age": 1369440.0}

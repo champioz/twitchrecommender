@@ -1,0 +1,1 @@
+{"channel": "ttinyytv", "avg_viewers": 118, "followers_gained": 562, "peak_viewers": 507, "hours_streamed": 84, "streams": 24, "mature": 0, "language": "English", "account_age": 3178080.0}

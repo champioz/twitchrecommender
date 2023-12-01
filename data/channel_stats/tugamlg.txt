@@ -1,0 +1,1 @@
+{"channel": "tugamlg", "avg_viewers": 12, "followers_gained": 17, "peak_viewers": 44, "hours_streamed": 12, "streams": 4, "mature": 0, "language": "Portuguese", "account_age": 960480.0}

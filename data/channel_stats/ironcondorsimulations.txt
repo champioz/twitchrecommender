@@ -1,0 +1,1 @@
+{"channel": "ironcondorsimulations", "avg_viewers": 12, "followers_gained": 14, "peak_viewers": 35, "hours_streamed": 12, "streams": 5, "mature": 1, "language": "English", "account_age": 1579680.0}

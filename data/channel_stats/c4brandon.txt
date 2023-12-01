@@ -1,0 +1,1 @@
+{"channel": "c4brandon", "avg_viewers": 2, "followers_gained": 33, "peak_viewers": 11, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "English", "account_age": 960480.0}

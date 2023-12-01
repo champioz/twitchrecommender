@@ -1,0 +1,1 @@
+{"channel": "akaoverdose", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 0, "hours_streamed": 0, "streams": 0, "mature": 1, "language": "Turkish", "account_age": 1537920.0}

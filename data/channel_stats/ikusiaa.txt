@@ -1,0 +1,1 @@
+{"channel": "ikusiaa", "avg_viewers": 96, "followers_gained": 564, "peak_viewers": 273, "hours_streamed": 50, "streams": 8, "mature": 0, "language": "Polish", "account_age": 1936800.0}

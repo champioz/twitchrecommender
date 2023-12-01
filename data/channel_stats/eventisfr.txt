@@ -1,0 +1,1 @@
+{"channel": "eventisfr", "avg_viewers": 43, "followers_gained": 493, "peak_viewers": 122, "hours_streamed": 53, "streams": 13, "mature": 0, "language": "French", "account_age": 1522080.0}

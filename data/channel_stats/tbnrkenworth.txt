@@ -1,0 +1,1 @@
+{"channel": "tbnrkenworth", "avg_viewers": 174, "followers_gained": 2675, "peak_viewers": 494, "hours_streamed": 41, "streams": 12, "mature": 1, "language": "English", "account_age": 3048480.0}

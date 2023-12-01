@@ -1,0 +1,1 @@
+{"channel": "alphaplays_yt", "avg_viewers": 61, "followers_gained": 385, "peak_viewers": 172, "hours_streamed": 114, "streams": 25, "mature": 1, "language": "Spanish", "account_age": 1235520.0}

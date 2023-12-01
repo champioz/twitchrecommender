@@ -1,0 +1,1 @@
+{"channel": "thornsetc", "avg_viewers": 15, "followers_gained": 130, "peak_viewers": 47, "hours_streamed": 62, "streams": 18, "mature": 1, "language": "English", "account_age": 1355040.0}

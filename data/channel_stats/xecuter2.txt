@@ -1,0 +1,1 @@
+{"channel": "xecuter2", "avg_viewers": 3, "followers_gained": 19, "peak_viewers": 11, "hours_streamed": 88, "streams": 27, "mature": 1, "language": "English", "account_age": 4027680.0}

@@ -1,0 +1,1 @@
+{"channel": "bl7ck", "avg_viewers": 7, "followers_gained": 187, "peak_viewers": 39, "hours_streamed": 143, "streams": 37, "mature": 0, "language": "Portuguese", "account_age": 822240.0}

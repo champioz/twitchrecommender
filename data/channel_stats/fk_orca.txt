@@ -1,0 +1,1 @@
+{"channel": "fk_orca", "avg_viewers": 174, "followers_gained": 2149, "peak_viewers": 1080, "hours_streamed": 153, "streams": 31, "mature": 1, "language": "English", "account_age": 252000.0}

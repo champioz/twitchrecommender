@@ -1,0 +1,1 @@
+{"channel": "sparkymark1976", "avg_viewers": 9, "followers_gained": 8, "peak_viewers": 23, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "English", "account_age": 1988640.0}

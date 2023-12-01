@@ -1,0 +1,1 @@
+{"channel": "devil_king_yoru", "avg_viewers": 5, "followers_gained": 11, "peak_viewers": 87, "hours_streamed": 79, "streams": 20, "mature": 0, "language": "German", "account_age": 4174560.0}

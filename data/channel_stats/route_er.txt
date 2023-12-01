@@ -1,0 +1,1 @@
+{"channel": "route_er", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 24, "hours_streamed": 83, "streams": 28, "mature": 0, "language": "English", "account_age": 1376640.0}

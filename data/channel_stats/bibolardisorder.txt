@@ -1,0 +1,1 @@
+{"channel": "bibolardisorder", "avg_viewers": 15, "followers_gained": 1, "peak_viewers": 30, "hours_streamed": 16, "streams": 5, "mature": 1, "language": "Finnish", "account_age": 3641760.0}

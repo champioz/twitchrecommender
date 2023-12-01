@@ -1,0 +1,1 @@
+{"channel": "wessicaaa", "avg_viewers": 4, "followers_gained": 31, "peak_viewers": 25, "hours_streamed": 47, "streams": 11, "mature": 1, "language": "English", "account_age": 1465920.0}

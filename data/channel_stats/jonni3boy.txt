@@ -1,0 +1,1 @@
+{"channel": "jonni3boy", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 37, "streams": 23, "mature": 1, "language": "English", "account_age": 1968480.0}

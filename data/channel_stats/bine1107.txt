@@ -1,0 +1,1 @@
+{"channel": "bine1107", "avg_viewers": 39, "followers_gained": 27, "peak_viewers": 95, "hours_streamed": 24, "streams": 9, "mature": 0, "language": "German", "account_age": 1365120.0}

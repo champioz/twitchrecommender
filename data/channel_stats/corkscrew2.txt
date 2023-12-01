@@ -1,0 +1,1 @@
+{"channel": "corkscrew2", "avg_viewers": 323, "followers_gained": 1677, "peak_viewers": 653, "hours_streamed": 20, "streams": 7, "mature": 0, "language": "Bulgarian", "account_age": 3100320.0}

@@ -1,0 +1,1 @@
+{"channel": "saprox", "avg_viewers": 12, "followers_gained": 4, "peak_viewers": 39, "hours_streamed": 85, "streams": 16, "mature": 1, "language": "German", "account_age": 4135680.0}

@@ -1,0 +1,1 @@
+{"channel": "zoli_g", "avg_viewers": 5, "followers_gained": 15, "peak_viewers": 14, "hours_streamed": 32, "streams": 16, "mature": 1, "language": "English", "account_age": 2515680.0}

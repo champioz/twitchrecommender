@@ -1,0 +1,1 @@
+{"channel": "likeeone", "avg_viewers": 11, "followers_gained": 0, "peak_viewers": 28, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Russian", "account_age": 1041120.0}

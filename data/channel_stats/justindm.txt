@@ -1,0 +1,1 @@
+{"channel": "justindm", "avg_viewers": 21, "followers_gained": 28, "peak_viewers": 56, "hours_streamed": 17, "streams": 9, "mature": 0, "language": "English", "account_age": 2723040.0}

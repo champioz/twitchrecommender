@@ -1,0 +1,1 @@
+{"channel": "riptidesan", "avg_viewers": 170, "followers_gained": 336, "peak_viewers": 2955, "hours_streamed": 36, "streams": 10, "mature": 1, "language": "English", "account_age": 2590560.0}

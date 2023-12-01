@@ -1,0 +1,1 @@
+{"channel": "jnkchris", "avg_viewers": 17, "followers_gained": 3, "peak_viewers": 20, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "German", "account_age": 3807360.0}

@@ -1,0 +1,1 @@
+{"channel": "dertobistreamt", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 10, "hours_streamed": 32, "streams": 11, "mature": 1, "language": "German", "account_age": 682560.0}

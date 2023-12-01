@@ -1,0 +1,1 @@
+{"channel": "mini_dave", "avg_viewers": 17, "followers_gained": 95, "peak_viewers": 64, "hours_streamed": 145, "streams": 24, "mature": 0, "language": "English", "account_age": 3108960.0}

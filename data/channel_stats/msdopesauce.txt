@@ -1,0 +1,1 @@
+{"channel": "msdopesauce", "avg_viewers": 29, "followers_gained": 3961, "peak_viewers": 358, "hours_streamed": 225, "streams": 21, "mature": 0, "language": "English", "account_age": 734400.0}

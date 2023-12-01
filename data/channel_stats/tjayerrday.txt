@@ -1,0 +1,1 @@
+{"channel": "tjayerrday", "avg_viewers": 292, "followers_gained": 11191, "peak_viewers": 603, "hours_streamed": 199, "streams": 40, "mature": 0, "language": "English", "account_age": 1693440.0}

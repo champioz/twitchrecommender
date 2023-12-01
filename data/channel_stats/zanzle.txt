@@ -1,0 +1,1 @@
+{"channel": "zanzle", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 15, "hours_streamed": 26, "streams": 12, "mature": 1, "language": "English", "account_age": 2471040.0}

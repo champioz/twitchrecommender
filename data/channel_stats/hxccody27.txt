@@ -1,0 +1,1 @@
+{"channel": "hxccody27", "avg_viewers": 9, "followers_gained": 51, "peak_viewers": 30, "hours_streamed": 56, "streams": 16, "mature": 1, "language": "English", "account_age": 2803680.0}

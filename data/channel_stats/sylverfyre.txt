@@ -1,0 +1,1 @@
+{"channel": "sylverfyre", "avg_viewers": 11, "followers_gained": 24, "peak_viewers": 462, "hours_streamed": 45, "streams": 21, "mature": 1, "language": "English", "account_age": 4455360.0}

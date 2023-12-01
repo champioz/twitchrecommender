@@ -1,0 +1,1 @@
+{"channel": "rochiinha", "avg_viewers": 3, "followers_gained": 12, "peak_viewers": 16, "hours_streamed": 21, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 1172160.0}

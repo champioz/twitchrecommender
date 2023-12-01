@@ -1,0 +1,1 @@
+{"channel": "shroomhead_one", "avg_viewers": 15, "followers_gained": 56, "peak_viewers": 33, "hours_streamed": 49, "streams": 10, "mature": 1, "language": "English", "account_age": 2460960.0}

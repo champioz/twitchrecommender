@@ -1,0 +1,1 @@
+{"channel": "evorox", "avg_viewers": 863, "followers_gained": 2563, "peak_viewers": 3214, "hours_streamed": 87, "streams": 20, "mature": 1, "language": "German", "account_age": 2812320.0}

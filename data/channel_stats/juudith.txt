@@ -1,0 +1,1 @@
+{"channel": "juudith", "avg_viewers": 48, "followers_gained": 703, "peak_viewers": 181, "hours_streamed": 23, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 2823840.0}

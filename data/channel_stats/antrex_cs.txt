@@ -1,0 +1,1 @@
+{"channel": "antrex_cs", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 10, "hours_streamed": 36, "streams": 21, "mature": 1, "language": "German", "account_age": 2809440.0}

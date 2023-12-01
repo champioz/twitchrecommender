@@ -1,0 +1,1 @@
+{"channel": "just_stevo", "avg_viewers": 232, "followers_gained": 590, "peak_viewers": 471, "hours_streamed": 107, "streams": 24, "mature": 0, "language": "English", "account_age": 1451520.0}

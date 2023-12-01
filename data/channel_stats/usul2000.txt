@@ -1,0 +1,1 @@
+{"channel": "usul2000", "avg_viewers": 562, "followers_gained": 207, "peak_viewers": 2671, "hours_streamed": 9, "streams": 2, "mature": 0, "language": "French", "account_age": 1722240.0}

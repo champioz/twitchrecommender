@@ -1,0 +1,1 @@
+{"channel": "oursneakyboi", "avg_viewers": 5, "followers_gained": 33, "peak_viewers": 16, "hours_streamed": 39, "streams": 19, "mature": 1, "language": "English", "account_age": 635040.0}

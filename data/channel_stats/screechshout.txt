@@ -1,0 +1,1 @@
+{"channel": "screechshout", "avg_viewers": 9, "followers_gained": 1, "peak_viewers": 37, "hours_streamed": 77, "streams": 41, "mature": 1, "language": "Chinese", "account_age": 4944960.0}

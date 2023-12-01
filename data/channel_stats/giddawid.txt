@@ -1,0 +1,1 @@
+{"channel": "giddawid", "avg_viewers": 22, "followers_gained": 106, "peak_viewers": 505, "hours_streamed": 124, "streams": 22, "mature": 0, "language": "English", "account_age": 2646720.0}

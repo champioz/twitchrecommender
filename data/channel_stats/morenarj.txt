@@ -1,0 +1,1 @@
+{"channel": "morenarj", "avg_viewers": 25, "followers_gained": 1080, "peak_viewers": 211, "hours_streamed": 159, "streams": 25, "mature": 0, "language": "Portuguese", "account_age": 665280.0}

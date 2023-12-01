@@ -1,0 +1,1 @@
+{"channel": "xdeevah", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 12, "hours_streamed": 43, "streams": 12, "mature": 1, "language": "English", "account_age": 1886400.0}

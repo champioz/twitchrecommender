@@ -1,0 +1,1 @@
+{"channel": "zethaa", "avg_viewers": 13, "followers_gained": 48, "peak_viewers": 35, "hours_streamed": 29, "streams": 15, "mature": 0, "language": "Spanish", "account_age": 1069920.0}

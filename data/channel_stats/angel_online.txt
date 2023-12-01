@@ -1,0 +1,1 @@
+{"channel": "angel_online", "avg_viewers": 8, "followers_gained": 4, "peak_viewers": 16, "hours_streamed": 12, "streams": 2, "mature": 1, "language": "German", "account_age": 2098080.0}

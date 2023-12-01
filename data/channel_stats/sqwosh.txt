@@ -1,0 +1,1 @@
+{"channel": "sqwosh", "avg_viewers": 12, "followers_gained": 56, "peak_viewers": 25, "hours_streamed": 27, "streams": 11, "mature": 0, "language": "Russian", "account_age": 1304640.0}

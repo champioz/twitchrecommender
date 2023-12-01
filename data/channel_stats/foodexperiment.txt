@@ -1,0 +1,1 @@
+{"channel": "foodexperiment", "avg_viewers": 7, "followers_gained": 26, "peak_viewers": 28, "hours_streamed": 14, "streams": 5, "mature": 0, "language": "English", "account_age": 591840.0}

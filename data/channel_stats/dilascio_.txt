@@ -1,0 +1,1 @@
+{"channel": "dilascio_", "avg_viewers": 7, "followers_gained": 58, "peak_viewers": 33, "hours_streamed": 35, "streams": 9, "mature": 0, "language": "Portuguese", "account_age": 1343520.0}

@@ -1,0 +1,1 @@
+{"channel": "behindthegameschannel", "avg_viewers": 48, "followers_gained": 539, "peak_viewers": 140, "hours_streamed": 41, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 1177920.0}

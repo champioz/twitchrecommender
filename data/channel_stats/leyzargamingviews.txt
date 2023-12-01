@@ -1,0 +1,1 @@
+{"channel": "leyzargamingviews", "avg_viewers": 53, "followers_gained": 436, "peak_viewers": 128, "hours_streamed": 40, "streams": 16, "mature": 1, "language": "English", "account_age": 2531520.0}

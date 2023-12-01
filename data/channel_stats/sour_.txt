@@ -1,0 +1,1 @@
+{"channel": "sour_", "avg_viewers": 13, "followers_gained": 79, "peak_viewers": 28, "hours_streamed": 34, "streams": 11, "mature": 0, "language": "English", "account_age": 1579680.0}

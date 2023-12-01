@@ -1,0 +1,1 @@
+{"channel": "yeddi", "avg_viewers": 37, "followers_gained": 233, "peak_viewers": 70, "hours_streamed": 52, "streams": 16, "mature": 0, "language": "English", "account_age": 1473120.0}

@@ -1,0 +1,1 @@
+{"channel": "themgoroth", "avg_viewers": 3, "followers_gained": 18, "peak_viewers": 15, "hours_streamed": 92, "streams": 27, "mature": 1, "language": "Spanish", "account_age": 1736640.0}

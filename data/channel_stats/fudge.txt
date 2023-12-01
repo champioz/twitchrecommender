@@ -1,0 +1,1 @@
+{"channel": "fudge", "avg_viewers": 74, "followers_gained": 125, "peak_viewers": 473, "hours_streamed": 130, "streams": 29, "mature": 1, "language": "English", "account_age": 1349280.0}

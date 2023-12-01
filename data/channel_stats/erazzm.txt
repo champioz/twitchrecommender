@@ -1,0 +1,1 @@
+{"channel": "erazzm", "avg_viewers": 7, "followers_gained": 38, "peak_viewers": 20, "hours_streamed": 83, "streams": 21, "mature": 0, "language": "Russian", "account_age": 2828160.0}

@@ -1,0 +1,1 @@
+{"channel": "tentsuki", "avg_viewers": 3, "followers_gained": 27, "peak_viewers": 31, "hours_streamed": 129, "streams": 32, "mature": 1, "language": "French", "account_age": 4024800.0}

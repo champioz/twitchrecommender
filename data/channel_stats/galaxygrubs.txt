@@ -1,0 +1,1 @@
+{"channel": "galaxygrubs", "avg_viewers": 2, "followers_gained": 22, "peak_viewers": 9, "hours_streamed": 74, "streams": 17, "mature": 0, "language": "English", "account_age": 1740960.0}

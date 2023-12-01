@@ -1,0 +1,1 @@
+{"channel": "skylight3933", "avg_viewers": 23, "followers_gained": 17, "peak_viewers": 49, "hours_streamed": 15, "streams": 3, "mature": 0, "language": "Korean", "account_age": 1257120.0}

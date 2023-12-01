@@ -1,0 +1,1 @@
+{"channel": "puraaj", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 118, "streams": 27, "mature": 1, "language": "English", "account_age": 4125600.0}

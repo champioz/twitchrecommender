@@ -1,0 +1,1 @@
+{"channel": "dripthedm", "avg_viewers": 1, "followers_gained": 35, "peak_viewers": 19, "hours_streamed": 122, "streams": 30, "mature": 0, "language": "English", "account_age": 1910880.0}

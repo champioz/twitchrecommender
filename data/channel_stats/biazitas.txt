@@ -1,0 +1,1 @@
+{"channel": "biazitas", "avg_viewers": 6, "followers_gained": 74, "peak_viewers": 20, "hours_streamed": 22, "streams": 4, "mature": 1, "language": "Portuguese", "account_age": 695520.0}

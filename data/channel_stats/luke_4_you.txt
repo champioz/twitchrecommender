@@ -1,0 +1,1 @@
+{"channel": "luke_4_you", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 28, "hours_streamed": 103, "streams": 28, "mature": 1, "language": "German", "account_age": 1399680.0}

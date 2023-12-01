@@ -1,0 +1,1 @@
+{"channel": "angelcharme3", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 19, "streams": 16, "mature": 1, "language": "German", "account_age": 684000.0}

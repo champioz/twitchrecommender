@@ -1,0 +1,1 @@
+{"channel": "cannibal_dota", "avg_viewers": 103, "followers_gained": 486, "peak_viewers": 281, "hours_streamed": 160, "streams": 49, "mature": 0, "language": "Russian", "account_age": 2283840.0}

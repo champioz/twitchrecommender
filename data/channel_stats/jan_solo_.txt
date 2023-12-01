@@ -1,0 +1,1 @@
+{"channel": "jan_solo_", "avg_viewers": 66, "followers_gained": 55, "peak_viewers": 386, "hours_streamed": 68, "streams": 27, "mature": 0, "language": "English", "account_age": 1677600.0}

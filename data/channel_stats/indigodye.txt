@@ -1,0 +1,1 @@
+{"channel": "indigodye", "avg_viewers": 5, "followers_gained": 99, "peak_viewers": 186, "hours_streamed": 210, "streams": 52, "mature": 1, "language": "English", "account_age": 2573280.0}

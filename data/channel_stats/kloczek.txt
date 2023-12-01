@@ -1,0 +1,1 @@
+{"channel": "kloczek", "avg_viewers": 23, "followers_gained": 6, "peak_viewers": 50, "hours_streamed": 44, "streams": 14, "mature": 0, "language": "Polish", "account_age": 2908800.0}

@@ -1,0 +1,1 @@
+{"channel": "arcadebulls", "avg_viewers": 419, "followers_gained": 1229, "peak_viewers": 1016, "hours_streamed": 248, "streams": 36, "mature": 1, "language": "Czech", "account_age": 2034720.0}

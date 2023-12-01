@@ -1,0 +1,1 @@
+{"channel": "javilicop", "avg_viewers": 17, "followers_gained": 29, "peak_viewers": 72, "hours_streamed": 166, "streams": 69, "mature": 0, "language": "Spanish", "account_age": 3925440.0}

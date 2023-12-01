@@ -1,0 +1,1 @@
+{"channel": "cocolilly", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 9, "hours_streamed": 7, "streams": 4, "mature": 0, "language": "English", "account_age": 2743200.0}

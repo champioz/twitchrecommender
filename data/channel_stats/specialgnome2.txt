@@ -1,0 +1,1 @@
+{"channel": "specialgnome2", "avg_viewers": 26, "followers_gained": 129, "peak_viewers": 102, "hours_streamed": 135, "streams": 25, "mature": 0, "language": "Korean", "account_age": 843840.0}

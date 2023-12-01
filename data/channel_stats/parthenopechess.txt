@@ -1,0 +1,1 @@
+{"channel": "parthenopechess", "avg_viewers": 80, "followers_gained": 52, "peak_viewers": 275, "hours_streamed": 8, "streams": 6, "mature": 0, "language": "Italian", "account_age": 737280.0}

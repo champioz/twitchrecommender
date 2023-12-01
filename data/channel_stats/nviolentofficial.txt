@@ -1,0 +1,1 @@
+{"channel": "nviolentofficial", "avg_viewers": 128, "followers_gained": 306, "peak_viewers": 215, "hours_streamed": 47, "streams": 13, "mature": 1, "language": "German", "account_age": 1772640.0}

@@ -1,0 +1,1 @@
+{"channel": "thatcrazytonkguy", "avg_viewers": 13, "followers_gained": 48, "peak_viewers": 30, "hours_streamed": 26, "streams": 22, "mature": 0, "language": "English", "account_age": 1065600.0}

@@ -1,0 +1,1 @@
+{"channel": "hyuniix", "avg_viewers": 4, "followers_gained": 21, "peak_viewers": 17, "hours_streamed": 33, "streams": 13, "mature": 0, "language": "French", "account_age": 609120.0}

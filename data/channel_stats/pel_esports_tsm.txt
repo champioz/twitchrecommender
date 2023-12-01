@@ -1,0 +1,1 @@
+{"channel": "pel_esports_tsm", "avg_viewers": 213, "followers_gained": 57, "peak_viewers": 348, "hours_streamed": 11, "streams": 3, "mature": 0, "language": "English", "account_age": 197280.0}

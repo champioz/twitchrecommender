@@ -1,0 +1,1 @@
+{"channel": "cs_max", "avg_viewers": 217, "followers_gained": 1232, "peak_viewers": 410, "hours_streamed": 87, "streams": 18, "mature": 0, "language": "Russian", "account_age": 1804320.0}

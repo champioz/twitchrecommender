@@ -1,0 +1,1 @@
+{"channel": "antonio_el_7", "avg_viewers": 2, "followers_gained": 62, "peak_viewers": 9, "hours_streamed": 126, "streams": 23, "mature": 0, "language": "Spanish", "account_age": 2885760.0}

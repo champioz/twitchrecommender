@@ -1,0 +1,1 @@
+{"channel": "miszu94", "avg_viewers": 9, "followers_gained": 6, "peak_viewers": 17, "hours_streamed": 19, "streams": 12, "mature": 1, "language": "Polish", "account_age": 4345920.0}

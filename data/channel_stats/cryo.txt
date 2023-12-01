@@ -1,0 +1,1 @@
+{"channel": "cryo", "avg_viewers": 36, "followers_gained": 66, "peak_viewers": 87, "hours_streamed": 71, "streams": 14, "mature": 0, "language": "English", "account_age": 3162240.0}

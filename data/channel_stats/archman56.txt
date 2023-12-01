@@ -1,0 +1,1 @@
+{"channel": "archman56", "avg_viewers": 31, "followers_gained": 57, "peak_viewers": 109, "hours_streamed": 49, "streams": 17, "mature": 1, "language": "English", "account_age": 1887840.0}

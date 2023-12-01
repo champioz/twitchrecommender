@@ -1,0 +1,1 @@
+{"channel": "deuscl", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 3733920.0}

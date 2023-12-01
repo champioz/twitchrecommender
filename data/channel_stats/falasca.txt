@@ -1,0 +1,1 @@
+{"channel": "falasca", "avg_viewers": 4, "followers_gained": 45, "peak_viewers": 12, "hours_streamed": 54, "streams": 49, "mature": 0, "language": "English", "account_age": 1736640.0}

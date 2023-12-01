@@ -1,0 +1,1 @@
+{"channel": "courtneyysmoke", "avg_viewers": 169, "followers_gained": 626, "peak_viewers": 323, "hours_streamed": 16, "streams": 4, "mature": 1, "language": "English", "account_age": 1848960.0}

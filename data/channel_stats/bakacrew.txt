@@ -1,0 +1,1 @@
+{"channel": "bakacrew", "avg_viewers": 13, "followers_gained": 14, "peak_viewers": 34, "hours_streamed": 169, "streams": 36, "mature": 0, "language": "German", "account_age": 2462400.0}

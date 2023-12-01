@@ -1,0 +1,1 @@
+{"channel": "bladeandsoul", "avg_viewers": 1143, "followers_gained": 11, "peak_viewers": 1450, "hours_streamed": 1, "streams": 1, "mature": 1, "language": "English", "account_age": 2270880.0}

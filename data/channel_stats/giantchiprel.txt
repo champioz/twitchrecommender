@@ -1,0 +1,1 @@
+{"channel": "giantchiprel", "avg_viewers": 42, "followers_gained": 53, "peak_viewers": 143, "hours_streamed": 172, "streams": 29, "mature": 1, "language": "English", "account_age": 5476320.0}

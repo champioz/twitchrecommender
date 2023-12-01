@@ -1,0 +1,1 @@
+{"channel": "akhobaar", "avg_viewers": 27, "followers_gained": 21, "peak_viewers": 131, "hours_streamed": 55, "streams": 14, "mature": 1, "language": "German", "account_age": 4265280.0}

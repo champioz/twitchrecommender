@@ -1,0 +1,1 @@
+{"channel": "itnblastoise", "avg_viewers": 2, "followers_gained": 113, "peak_viewers": 9, "hours_streamed": 39, "streams": 25, "mature": 1, "language": "Italian", "account_age": 188640.0}

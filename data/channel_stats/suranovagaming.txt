@@ -1,0 +1,1 @@
+{"channel": "suranovagaming", "avg_viewers": 12, "followers_gained": 99, "peak_viewers": 24, "hours_streamed": 90, "streams": 19, "mature": 1, "language": "English", "account_age": 1788480.0}

@@ -1,0 +1,1 @@
+{"channel": "michalwisniewskipl", "avg_viewers": 46, "followers_gained": 8, "peak_viewers": 63, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Polish", "account_age": 2337120.0}

@@ -1,0 +1,1 @@
+{"channel": "kursed", "avg_viewers": 13, "followers_gained": 17, "peak_viewers": 63, "hours_streamed": 61, "streams": 17, "mature": 0, "language": "English", "account_age": 1294560.0}

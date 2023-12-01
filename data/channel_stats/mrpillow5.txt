@@ -1,0 +1,1 @@
+{"channel": "mrpillow5", "avg_viewers": 12, "followers_gained": 149, "peak_viewers": 29, "hours_streamed": 80, "streams": 19, "mature": 0, "language": "English", "account_age": 838080.0}

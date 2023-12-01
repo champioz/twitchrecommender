@@ -1,0 +1,1 @@
+{"channel": "jbrasty", "avg_viewers": 19, "followers_gained": 33, "peak_viewers": 52, "hours_streamed": 120, "streams": 38, "mature": 0, "language": "English", "account_age": 1951200.0}

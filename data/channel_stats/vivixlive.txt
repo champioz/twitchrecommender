@@ -1,0 +1,1 @@
+{"channel": "vivixlive", "avg_viewers": 3, "followers_gained": 36, "peak_viewers": 20, "hours_streamed": 173, "streams": 45, "mature": 1, "language": "French", "account_age": 2671200.0}

@@ -1,0 +1,1 @@
+{"channel": "fcg_kalebthefox", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 2, "hours_streamed": 9, "streams": 6, "mature": 1, "language": "German", "account_age": 1886400.0}

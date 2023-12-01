@@ -1,0 +1,1 @@
+{"channel": "soors", "avg_viewers": 9, "followers_gained": 31, "peak_viewers": 39, "hours_streamed": 98, "streams": 20, "mature": 0, "language": "Russian", "account_age": 1861920.0}

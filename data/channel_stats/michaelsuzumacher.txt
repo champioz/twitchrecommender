@@ -1,0 +1,1 @@
+{"channel": "michaelsuzumacher", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 28, "streams": 2, "mature": 0, "language": "Japanese", "account_age": 2276640.0}

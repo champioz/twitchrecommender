@@ -1,0 +1,1 @@
+{"channel": "alessiocalcio06", "avg_viewers": 5, "followers_gained": 11, "peak_viewers": 17, "hours_streamed": 37, "streams": 12, "mature": 0, "language": "English", "account_age": 1075680.0}

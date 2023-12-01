@@ -1,0 +1,1 @@
+{"channel": "eldiariodekode", "avg_viewers": 26, "followers_gained": 144, "peak_viewers": 58, "hours_streamed": 104, "streams": 35, "mature": 0, "language": "Spanish", "account_age": 3229920.0}

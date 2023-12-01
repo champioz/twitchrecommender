@@ -1,0 +1,1 @@
+{"channel": "scottie_the_god", "avg_viewers": 3, "followers_gained": 107, "peak_viewers": 22, "hours_streamed": 185, "streams": 90, "mature": 0, "language": "English", "account_age": 1890720.0}

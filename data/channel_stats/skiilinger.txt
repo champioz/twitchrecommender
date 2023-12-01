@@ -1,0 +1,1 @@
+{"channel": "skiilinger", "avg_viewers": 18, "followers_gained": 65, "peak_viewers": 52, "hours_streamed": 23, "streams": 17, "mature": 1, "language": "English", "account_age": 1406880.0}

@@ -1,0 +1,1 @@
+{"channel": "coppag2", "avg_viewers": 278, "followers_gained": 2603, "peak_viewers": 991, "hours_streamed": 204, "streams": 26, "mature": 0, "language": "Korean", "account_age": 1085760.0}

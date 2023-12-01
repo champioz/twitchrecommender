@@ -1,0 +1,1 @@
+{"channel": "manaphy12456", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 10, "hours_streamed": 79, "streams": 31, "mature": 1, "language": "French", "account_age": 4618080.0}

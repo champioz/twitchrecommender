@@ -1,0 +1,1 @@
+{"channel": "zylria", "avg_viewers": 22, "followers_gained": 37, "peak_viewers": 107, "hours_streamed": 34, "streams": 8, "mature": 0, "language": "English", "account_age": 2033280.0}

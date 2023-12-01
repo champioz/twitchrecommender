@@ -1,0 +1,1 @@
+{"channel": "eavee", "avg_viewers": 77, "followers_gained": 21, "peak_viewers": 148, "hours_streamed": 49, "streams": 15, "mature": 1, "language": "English", "account_age": 2685600.0}

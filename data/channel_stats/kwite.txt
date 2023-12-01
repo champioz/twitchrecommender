@@ -1,0 +1,1 @@
+{"channel": "kwite", "avg_viewers": 184, "followers_gained": 880, "peak_viewers": 319, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "English", "account_age": 1572480.0}

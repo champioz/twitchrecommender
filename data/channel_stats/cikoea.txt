@@ -1,0 +1,1 @@
+{"channel": "cikoea", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "Turkish", "account_age": 1385280.0}

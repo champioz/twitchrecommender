@@ -1,0 +1,1 @@
+{"channel": "avo_nacl", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 17, "streams": 6, "mature": 1, "language": "English", "account_age": 2341440.0}

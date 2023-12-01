@@ -1,0 +1,1 @@
+{"channel": "pekuod", "avg_viewers": 5, "followers_gained": 12, "peak_viewers": 126, "hours_streamed": 89, "streams": 20, "mature": 1, "language": "Spanish", "account_age": 2020320.0}

@@ -1,0 +1,1 @@
+{"channel": "mstattoobabygrl", "avg_viewers": 3, "followers_gained": 49, "peak_viewers": 14, "hours_streamed": 53, "streams": 27, "mature": 1, "language": "English", "account_age": 161280.0}

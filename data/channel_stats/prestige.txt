@@ -1,0 +1,1 @@
+{"channel": "prestige", "avg_viewers": 366, "followers_gained": 2294, "peak_viewers": 935, "hours_streamed": 47, "streams": 19, "mature": 0, "language": "Russian", "account_age": 561600.0}

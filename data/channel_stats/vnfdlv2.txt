@@ -1,0 +1,1 @@
+{"channel": "vnfdlv2", "avg_viewers": 11, "followers_gained": 48, "peak_viewers": 38, "hours_streamed": 139, "streams": 30, "mature": 0, "language": "Korean", "account_age": 1182240.0}

@@ -1,0 +1,1 @@
+{"channel": "nordschnack", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 13, "hours_streamed": 163, "streams": 36, "mature": 1, "language": "German", "account_age": 3352320.0}

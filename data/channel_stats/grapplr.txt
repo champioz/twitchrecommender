@@ -1,0 +1,1 @@
+{"channel": "grapplr", "avg_viewers": 24, "followers_gained": 6, "peak_viewers": 38, "hours_streamed": 11, "streams": 5, "mature": 0, "language": "English", "account_age": 1300320.0}

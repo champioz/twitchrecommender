@@ -1,0 +1,1 @@
+{"channel": "cyclops_osaka", "avg_viewers": 103, "followers_gained": 126, "peak_viewers": 365, "hours_streamed": 39, "streams": 18, "mature": 0, "language": "Japanese", "account_age": 1159200.0}

@@ -1,0 +1,1 @@
+{"channel": "educoz", "avg_viewers": 37, "followers_gained": 52, "peak_viewers": 97, "hours_streamed": 77, "streams": 21, "mature": 0, "language": "Italian", "account_age": 3055680.0}

@@ -1,0 +1,1 @@
+{"channel": "paperarioms", "avg_viewers": 17, "followers_gained": 27, "peak_viewers": 79, "hours_streamed": 38, "streams": 18, "mature": 0, "language": "English", "account_age": 3728160.0}

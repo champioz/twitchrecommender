@@ -1,0 +1,1 @@
+{"channel": "dthrocker", "avg_viewers": 2, "followers_gained": 22, "peak_viewers": 10, "hours_streamed": 138, "streams": 25, "mature": 0, "language": "English", "account_age": 3430080.0}

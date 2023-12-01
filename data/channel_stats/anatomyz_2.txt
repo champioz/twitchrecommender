@@ -1,0 +1,1 @@
+{"channel": "anatomyz_2", "avg_viewers": 20, "followers_gained": 24, "peak_viewers": 71, "hours_streamed": 47, "streams": 10, "mature": 0, "language": "English", "account_age": 2646720.0}

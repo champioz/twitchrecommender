@@ -1,0 +1,1 @@
+{"channel": "dk_nice1", "avg_viewers": 26, "followers_gained": 1, "peak_viewers": 51, "hours_streamed": 26, "streams": 8, "mature": 0, "language": "English", "account_age": 2878560.0}

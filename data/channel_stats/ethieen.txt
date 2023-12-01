@@ -1,0 +1,1 @@
+{"channel": "ethieen", "avg_viewers": 367, "followers_gained": 694, "peak_viewers": 1069, "hours_streamed": 29, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 3104640.0}

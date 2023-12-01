@@ -1,0 +1,1 @@
+{"channel": "notjuves", "avg_viewers": 6, "followers_gained": 4, "peak_viewers": 11, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "English", "account_age": 2319840.0}

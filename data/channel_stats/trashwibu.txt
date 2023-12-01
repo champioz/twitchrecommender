@@ -1,0 +1,1 @@
+{"channel": "trashwibu", "avg_viewers": 0, "followers_gained": 15, "peak_viewers": 6, "hours_streamed": 53, "streams": 12, "mature": 0, "language": "Vietnamese", "account_age": 1961280.0}

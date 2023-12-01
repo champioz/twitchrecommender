@@ -1,0 +1,1 @@
+{"channel": "nongbuhem", "avg_viewers": 30, "followers_gained": 157, "peak_viewers": 110, "hours_streamed": 203, "streams": 27, "mature": 0, "language": "Korean", "account_age": 1028160.0}

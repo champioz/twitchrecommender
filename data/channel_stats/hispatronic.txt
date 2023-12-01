@@ -1,0 +1,1 @@
+{"channel": "hispatronic", "avg_viewers": 4, "followers_gained": 87, "peak_viewers": 39, "hours_streamed": 131, "streams": 48, "mature": 0, "language": "Spanish", "account_age": 1044000.0}

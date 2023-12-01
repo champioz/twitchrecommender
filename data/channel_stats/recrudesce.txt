@@ -1,0 +1,1 @@
+{"channel": "recrudesce", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 11, "hours_streamed": 55, "streams": 21, "mature": 1, "language": "English", "account_age": 3326400.0}

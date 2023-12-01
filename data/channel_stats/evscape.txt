@@ -1,0 +1,1 @@
+{"channel": "evscape", "avg_viewers": 75, "followers_gained": 182, "peak_viewers": 196, "hours_streamed": 55, "streams": 12, "mature": 0, "language": "English", "account_age": 2197440.0}

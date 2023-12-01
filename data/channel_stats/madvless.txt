@@ -1,0 +1,1 @@
+{"channel": "madvless", "avg_viewers": 8, "followers_gained": 177, "peak_viewers": 589, "hours_streamed": 196, "streams": 43, "mature": 1, "language": "Russian", "account_age": 1785600.0}

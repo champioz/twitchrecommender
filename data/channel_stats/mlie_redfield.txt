@@ -1,0 +1,1 @@
+{"channel": "mlie_redfield", "avg_viewers": 18, "followers_gained": 7, "peak_viewers": 59, "hours_streamed": 21, "streams": 7, "mature": 1, "language": "Swedish", "account_age": 2401920.0}

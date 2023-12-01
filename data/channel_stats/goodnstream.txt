@@ -1,0 +1,1 @@
+{"channel": "goodnstream", "avg_viewers": 3, "followers_gained": 25, "peak_viewers": 13, "hours_streamed": 11, "streams": 12, "mature": 0, "language": "French", "account_age": 1817280.0}

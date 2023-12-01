@@ -1,0 +1,1 @@
+{"channel": "alurana", "avg_viewers": 15, "followers_gained": 530, "peak_viewers": 41, "hours_streamed": 211, "streams": 35, "mature": 0, "language": "Portuguese", "account_age": 1059840.0}

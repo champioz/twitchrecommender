@@ -1,0 +1,1 @@
+{"channel": "tessuntorpeedo", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 7, "hours_streamed": 40, "streams": 10, "mature": 0, "language": "Finnish", "account_age": 1787040.0}

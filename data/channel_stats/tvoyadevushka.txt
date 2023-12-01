@@ -1,0 +1,1 @@
+{"channel": "tvoyadevushka", "avg_viewers": 77, "followers_gained": 371, "peak_viewers": 114, "hours_streamed": 28, "streams": 11, "mature": 1, "language": "Russian", "account_age": 1383840.0}

@@ -1,0 +1,1 @@
+{"channel": "kaizerofhue", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 11, "streams": 4, "mature": 0, "language": "English", "account_age": 3313440.0}

@@ -1,0 +1,1 @@
+{"channel": "zilverk", "avg_viewers": 164, "followers_gained": 1605, "peak_viewers": 736, "hours_streamed": 82, "streams": 29, "mature": 0, "language": "Spanish", "account_age": 3192480.0}

@@ -1,0 +1,1 @@
+{"channel": "casinotest24", "avg_viewers": 416, "followers_gained": 1405, "peak_viewers": 1756, "hours_streamed": 169, "streams": 33, "mature": 1, "language": "German", "account_age": 1903680.0}

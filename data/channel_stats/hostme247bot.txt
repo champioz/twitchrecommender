@@ -1,0 +1,1 @@
+{"channel": "hostme247bot", "avg_viewers": 16, "followers_gained": 265, "peak_viewers": 61, "hours_streamed": 527, "streams": 20, "mature": 0, "language": "English", "account_age": 152640.0}

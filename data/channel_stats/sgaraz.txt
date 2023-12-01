@@ -1,0 +1,1 @@
+{"channel": "sgaraz", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 10, "streams": 3, "mature": 1, "language": "Spanish", "account_age": 2460960.0}

@@ -1,0 +1,1 @@
+{"channel": "nuna_suna", "avg_viewers": 7, "followers_gained": 4, "peak_viewers": 24, "hours_streamed": 186, "streams": 23, "mature": 0, "language": "Korean", "account_age": 554400.0}

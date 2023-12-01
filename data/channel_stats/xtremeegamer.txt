@@ -1,0 +1,1 @@
+{"channel": "xtremeegamer", "avg_viewers": 1, "followers_gained": 39, "peak_viewers": 14, "hours_streamed": 91, "streams": 23, "mature": 1, "language": "English", "account_age": 1088640.0}

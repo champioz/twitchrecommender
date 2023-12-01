@@ -1,0 +1,1 @@
+{"channel": "javilongojf", "avg_viewers": 55, "followers_gained": 137, "peak_viewers": 143, "hours_streamed": 162, "streams": 39, "mature": 0, "language": "Spanish", "account_age": 1608480.0}

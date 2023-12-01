@@ -1,0 +1,1 @@
+{"channel": "plutov_ka", "avg_viewers": 3, "followers_gained": 51, "peak_viewers": 11, "hours_streamed": 41, "streams": 16, "mature": 0, "language": "Russian", "account_age": 1054080.0}

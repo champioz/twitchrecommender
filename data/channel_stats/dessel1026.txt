@@ -1,0 +1,1 @@
+{"channel": "dessel1026", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 21, "streams": 7, "mature": 1, "language": "English", "account_age": 2711520.0}

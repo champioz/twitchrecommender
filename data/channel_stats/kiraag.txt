@@ -1,0 +1,1 @@
+{"channel": "kiraag", "avg_viewers": 2, "followers_gained": 50, "peak_viewers": 25, "hours_streamed": 149, "streams": 41, "mature": 1, "language": "French", "account_age": 1261440.0}

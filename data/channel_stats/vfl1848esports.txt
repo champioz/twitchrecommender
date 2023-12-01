@@ -1,0 +1,1 @@
+{"channel": "vfl1848esports", "avg_viewers": 15, "followers_gained": 13, "peak_viewers": 45, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "German", "account_age": 887040.0}

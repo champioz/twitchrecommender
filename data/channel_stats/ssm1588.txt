@@ -1,0 +1,1 @@
+{"channel": "ssm1588", "avg_viewers": 85, "followers_gained": 730, "peak_viewers": 381, "hours_streamed": 344, "streams": 35, "mature": 0, "language": "Korean", "account_age": 1454400.0}

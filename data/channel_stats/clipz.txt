@@ -1,0 +1,1 @@
+{"channel": "clipz", "avg_viewers": 32, "followers_gained": 299, "peak_viewers": 798, "hours_streamed": 56, "streams": 19, "mature": 0, "language": "English", "account_age": 1805760.0}

@@ -1,0 +1,1 @@
+{"channel": "spsdebo", "avg_viewers": 5, "followers_gained": 91, "peak_viewers": 20, "hours_streamed": 110, "streams": 29, "mature": 1, "language": "English", "account_age": 4448160.0}

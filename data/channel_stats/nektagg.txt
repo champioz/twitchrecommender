@@ -1,0 +1,1 @@
+{"channel": "nektagg", "avg_viewers": 46, "followers_gained": 78, "peak_viewers": 181, "hours_streamed": 61, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 1631520.0}

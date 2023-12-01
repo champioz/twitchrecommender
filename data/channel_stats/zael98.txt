@@ -1,0 +1,1 @@
+{"channel": "zael98", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 11, "hours_streamed": 5, "streams": 4, "mature": 1, "language": "Spanish", "account_age": 2404800.0}

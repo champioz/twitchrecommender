@@ -1,0 +1,1 @@
+{"channel": "tikotan", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 18, "streams": 17, "mature": 0, "language": "English", "account_age": 2458080.0}

@@ -1,0 +1,1 @@
+{"channel": "xefandegameplay", "avg_viewers": 11, "followers_gained": 5, "peak_viewers": 46, "hours_streamed": 31, "streams": 7, "mature": 0, "language": "Hungarian", "account_age": 2124000.0}

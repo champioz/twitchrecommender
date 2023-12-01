@@ -1,0 +1,1 @@
+{"channel": "dudeyxd", "avg_viewers": 13, "followers_gained": 59, "peak_viewers": 55, "hours_streamed": 24, "streams": 5, "mature": 0, "language": "English", "account_age": 1749600.0}

@@ -1,0 +1,1 @@
+{"channel": "harmaakorva", "avg_viewers": 174, "followers_gained": 703, "peak_viewers": 376, "hours_streamed": 150, "streams": 21, "mature": 0, "language": "Finnish", "account_age": 3290400.0}

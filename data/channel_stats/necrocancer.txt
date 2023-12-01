@@ -1,0 +1,1 @@
+{"channel": "necrocancer", "avg_viewers": 185, "followers_gained": 128, "peak_viewers": 596, "hours_streamed": 22, "streams": 5, "mature": 1, "language": "Turkish", "account_age": 1628640.0}

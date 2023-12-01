@@ -1,0 +1,1 @@
+{"channel": "covertriot", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 31, "hours_streamed": 90, "streams": 24, "mature": 1, "language": "English", "account_age": 947520.0}

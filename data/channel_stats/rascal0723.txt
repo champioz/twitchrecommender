@@ -1,0 +1,1 @@
+{"channel": "rascal0723", "avg_viewers": 145, "followers_gained": 149, "peak_viewers": 249, "hours_streamed": 12, "streams": 4, "mature": 0, "language": "Korean", "account_age": 1339200.0}

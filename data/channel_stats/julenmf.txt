@@ -1,0 +1,1 @@
+{"channel": "julenmf", "avg_viewers": 0, "followers_gained": 32, "peak_viewers": 4, "hours_streamed": 66, "streams": 27, "mature": 1, "language": "Spanish", "account_age": 1386720.0}

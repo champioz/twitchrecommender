@@ -1,0 +1,1 @@
+{"channel": "bluebyxd", "avg_viewers": 18, "followers_gained": 1, "peak_viewers": 25, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 2332800.0}

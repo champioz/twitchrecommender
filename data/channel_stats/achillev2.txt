@@ -1,0 +1,1 @@
+{"channel": "achillev2", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 8, "hours_streamed": 23, "streams": 16, "mature": 0, "language": "Romanian", "account_age": 1605600.0}

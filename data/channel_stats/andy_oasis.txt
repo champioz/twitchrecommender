@@ -1,0 +1,1 @@
+{"channel": "andy_oasis", "avg_viewers": 105, "followers_gained": 211, "peak_viewers": 172, "hours_streamed": 22, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 1689120.0}

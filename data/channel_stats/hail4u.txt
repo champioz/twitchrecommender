@@ -1,0 +1,1 @@
+{"channel": "hail4u", "avg_viewers": 23, "followers_gained": 48, "peak_viewers": 52, "hours_streamed": 54, "streams": 17, "mature": 0, "language": "Chinese", "account_age": 1097280.0}

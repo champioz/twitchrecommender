@@ -1,0 +1,1 @@
+{"channel": "fox_happiness", "avg_viewers": 46, "followers_gained": 298, "peak_viewers": 86, "hours_streamed": 79, "streams": 27, "mature": 0, "language": "Russian", "account_age": 1408320.0}

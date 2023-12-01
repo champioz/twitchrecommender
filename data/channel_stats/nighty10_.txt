@@ -1,0 +1,1 @@
+{"channel": "nighty10_", "avg_viewers": 2, "followers_gained": 47, "peak_viewers": 8, "hours_streamed": 132, "streams": 30, "mature": 1, "language": "German", "account_age": 1104480.0}

@@ -1,0 +1,1 @@
+{"channel": "sheknives", "avg_viewers": 18, "followers_gained": 57, "peak_viewers": 39, "hours_streamed": 58, "streams": 22, "mature": 0, "language": "English", "account_age": 3644640.0}

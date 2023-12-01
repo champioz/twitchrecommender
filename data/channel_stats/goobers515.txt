@@ -1,0 +1,1 @@
+{"channel": "goobers515", "avg_viewers": 102, "followers_gained": 37, "peak_viewers": 194, "hours_streamed": 64, "streams": 15, "mature": 1, "language": "English", "account_age": 2664000.0}

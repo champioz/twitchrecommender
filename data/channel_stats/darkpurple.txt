@@ -1,0 +1,1 @@
+{"channel": "darkpurple", "avg_viewers": 13, "followers_gained": 47, "peak_viewers": 66, "hours_streamed": 59, "streams": 25, "mature": 0, "language": "English", "account_age": 1887840.0}

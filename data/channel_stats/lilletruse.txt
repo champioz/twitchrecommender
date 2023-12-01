@@ -1,0 +1,1 @@
+{"channel": "lilletruse", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 7, "hours_streamed": 22, "streams": 9, "mature": 0, "language": "English", "account_age": 2505600.0}

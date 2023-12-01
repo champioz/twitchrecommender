@@ -1,0 +1,1 @@
+{"channel": "icetzy", "avg_viewers": 17, "followers_gained": 218, "peak_viewers": 170, "hours_streamed": 36, "streams": 15, "mature": 0, "language": "Portuguese", "account_age": 1101600.0}

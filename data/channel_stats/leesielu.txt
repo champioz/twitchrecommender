@@ -1,0 +1,1 @@
+{"channel": "leesielu", "avg_viewers": 19, "followers_gained": 454, "peak_viewers": 68, "hours_streamed": 150, "streams": 16, "mature": 1, "language": "English", "account_age": 843840.0}

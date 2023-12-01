@@ -1,0 +1,1 @@
+{"channel": "brunocsg0", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 7, "hours_streamed": 7, "streams": 4, "mature": 0, "language": "English", "account_age": 493920.0}

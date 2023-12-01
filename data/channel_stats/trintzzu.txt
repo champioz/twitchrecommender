@@ -1,0 +1,1 @@
+{"channel": "trintzzu", "avg_viewers": 6, "followers_gained": 30, "peak_viewers": 21, "hours_streamed": 38, "streams": 16, "mature": 1, "language": "Other", "account_age": 1196640.0}

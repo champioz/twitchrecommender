@@ -1,0 +1,1 @@
+{"channel": "pharnzie", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 8, "hours_streamed": 53, "streams": 7, "mature": 0, "language": "English", "account_age": 2288160.0}

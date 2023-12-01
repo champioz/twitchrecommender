@@ -1,0 +1,1 @@
+{"channel": "namaeomoitukanai", "avg_viewers": 31, "followers_gained": 3, "peak_viewers": 60, "hours_streamed": 14, "streams": 2, "mature": 0, "language": "Japanese", "account_age": 1088640.0}

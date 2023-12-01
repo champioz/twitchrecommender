@@ -1,0 +1,1 @@
+{"channel": "hags04", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "English", "account_age": 515520.0}

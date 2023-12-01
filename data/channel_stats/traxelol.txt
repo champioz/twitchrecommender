@@ -1,0 +1,1 @@
+{"channel": "traxelol", "avg_viewers": 49, "followers_gained": 647, "peak_viewers": 147, "hours_streamed": 197, "streams": 40, "mature": 0, "language": "Swedish", "account_age": 3281760.0}

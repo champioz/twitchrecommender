@@ -1,0 +1,1 @@
+{"channel": "colbyman34", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "English", "account_age": 185760.0}

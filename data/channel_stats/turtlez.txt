@@ -1,0 +1,1 @@
+{"channel": "turtlez", "avg_viewers": 12, "followers_gained": 28, "peak_viewers": 39, "hours_streamed": 62, "streams": 40, "mature": 0, "language": "German", "account_age": 3394080.0}

@@ -1,0 +1,1 @@
+{"channel": "s2xl", "avg_viewers": 2, "followers_gained": 43, "peak_viewers": 9, "hours_streamed": 161, "streams": 47, "mature": 1, "language": "English", "account_age": 601920.0}

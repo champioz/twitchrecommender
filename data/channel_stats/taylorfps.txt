@@ -1,0 +1,1 @@
+{"channel": "taylorfps", "avg_viewers": 5, "followers_gained": 8, "peak_viewers": 17, "hours_streamed": 14, "streams": 5, "mature": 0, "language": "Chinese", "account_age": 3385440.0}

@@ -1,0 +1,1 @@
+{"channel": "greenchord", "avg_viewers": 5, "followers_gained": 32, "peak_viewers": 16, "hours_streamed": 38, "streams": 14, "mature": 0, "language": "English", "account_age": 1958400.0}

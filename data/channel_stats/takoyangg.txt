@@ -1,0 +1,1 @@
+{"channel": "takoyangg", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 55, "streams": 16, "mature": 0, "language": "Japanese", "account_age": 2368800.0}

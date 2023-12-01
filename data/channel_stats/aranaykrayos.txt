@@ -1,0 +1,1 @@
+{"channel": "aranaykrayos", "avg_viewers": 4, "followers_gained": 7, "peak_viewers": 13, "hours_streamed": 12, "streams": 6, "mature": 1, "language": "German", "account_age": 2399040.0}

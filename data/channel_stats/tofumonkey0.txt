@@ -1,0 +1,1 @@
+{"channel": "tofumonkey0", "avg_viewers": 20, "followers_gained": 34, "peak_viewers": 47, "hours_streamed": 36, "streams": 16, "mature": 0, "language": "English", "account_age": 1035360.0}

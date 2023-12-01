@@ -1,0 +1,1 @@
+{"channel": "dongerduck", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 13, "hours_streamed": 36, "streams": 11, "mature": 1, "language": "English", "account_age": 2730240.0}

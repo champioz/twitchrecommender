@@ -1,0 +1,1 @@
+{"channel": "nevesnettv", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 31, "hours_streamed": 73, "streams": 21, "mature": 0, "language": "English", "account_age": 3384000.0}

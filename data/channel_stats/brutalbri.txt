@@ -1,0 +1,1 @@
+{"channel": "brutalbri", "avg_viewers": 20, "followers_gained": 56, "peak_viewers": 62, "hours_streamed": 100, "streams": 25, "mature": 1, "language": "English", "account_age": 1504800.0}

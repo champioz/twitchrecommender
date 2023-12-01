@@ -1,0 +1,1 @@
+{"channel": "blondiepeach", "avg_viewers": 66, "followers_gained": 2032, "peak_viewers": 272, "hours_streamed": 99, "streams": 26, "mature": 0, "language": "French", "account_age": 1876320.0}

@@ -1,0 +1,1 @@
+{"channel": "phoenix_169", "avg_viewers": 7, "followers_gained": 4, "peak_viewers": 15, "hours_streamed": 21, "streams": 7, "mature": 0, "language": "English", "account_age": 2183040.0}

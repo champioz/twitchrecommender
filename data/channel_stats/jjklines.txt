@@ -1,0 +1,1 @@
+{"channel": "jjklines", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 5, "streams": 1, "mature": 1, "language": "English", "account_age": 1944000.0}

@@ -1,0 +1,1 @@
+{"channel": "skartiz", "avg_viewers": 176, "followers_gained": 2039, "peak_viewers": 624, "hours_streamed": 116, "streams": 30, "mature": 1, "language": "French", "account_age": 3464640.0}

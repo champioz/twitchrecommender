@@ -1,0 +1,1 @@
+{"channel": "sprayooza", "avg_viewers": 11, "followers_gained": 14, "peak_viewers": 26, "hours_streamed": 21, "streams": 6, "mature": 0, "language": "Polish", "account_age": 213120.0}

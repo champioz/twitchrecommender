@@ -1,0 +1,1 @@
+{"channel": "gthang", "avg_viewers": 66, "followers_gained": 29, "peak_viewers": 230, "hours_streamed": 79, "streams": 25, "mature": 1, "language": "German", "account_age": 2684160.0}

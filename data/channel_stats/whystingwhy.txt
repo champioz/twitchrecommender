@@ -1,0 +1,1 @@
+{"channel": "whystingwhy", "avg_viewers": 15, "followers_gained": 13, "peak_viewers": 32, "hours_streamed": 18, "streams": 4, "mature": 1, "language": "Russian", "account_age": 3831840.0}

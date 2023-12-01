@@ -1,0 +1,1 @@
+{"channel": "z3ropt", "avg_viewers": 14, "followers_gained": 26, "peak_viewers": 67, "hours_streamed": 24, "streams": 9, "mature": 1, "language": "Portuguese", "account_age": 1581120.0}

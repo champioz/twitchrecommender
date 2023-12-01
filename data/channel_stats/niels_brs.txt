@@ -1,0 +1,1 @@
+{"channel": "niels_brs", "avg_viewers": 21, "followers_gained": 48, "peak_viewers": 53, "hours_streamed": 27, "streams": 8, "mature": 1, "language": "Dutch", "account_age": 1984320.0}

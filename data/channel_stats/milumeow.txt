@@ -1,0 +1,1 @@
+{"channel": "milumeow", "avg_viewers": 20, "followers_gained": 52, "peak_viewers": 43, "hours_streamed": 17, "streams": 6, "mature": 1, "language": "Chinese", "account_age": 1792800.0}

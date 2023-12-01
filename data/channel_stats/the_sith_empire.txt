@@ -1,0 +1,1 @@
+{"channel": "the_sith_empire", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 11, "hours_streamed": 24, "streams": 11, "mature": 1, "language": "English", "account_age": 1545120.0}

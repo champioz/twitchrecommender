@@ -1,0 +1,1 @@
+{"channel": "serysah", "avg_viewers": 12, "followers_gained": 164, "peak_viewers": 26, "hours_streamed": 115, "streams": 21, "mature": 1, "language": "German", "account_age": 2132640.0}

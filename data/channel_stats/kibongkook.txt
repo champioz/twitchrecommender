@@ -1,0 +1,1 @@
+{"channel": "kibongkook", "avg_viewers": 14, "followers_gained": 5, "peak_viewers": 98, "hours_streamed": 83, "streams": 17, "mature": 0, "language": "Korean", "account_age": 3515040.0}

@@ -1,0 +1,1 @@
+{"channel": "levvika", "avg_viewers": 18, "followers_gained": 221, "peak_viewers": 83, "hours_streamed": 114, "streams": 52, "mature": 0, "language": "Russian", "account_age": 861120.0}

@@ -1,0 +1,1 @@
+{"channel": "its_wiked", "avg_viewers": 800, "followers_gained": 7536, "peak_viewers": 24605, "hours_streamed": 212, "streams": 24, "mature": 0, "language": "English", "account_age": 3481920.0}

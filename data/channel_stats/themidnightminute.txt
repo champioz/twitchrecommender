@@ -1,0 +1,1 @@
+{"channel": "themidnightminute", "avg_viewers": 8, "followers_gained": 218, "peak_viewers": 628, "hours_streamed": 142, "streams": 21, "mature": 1, "language": "English", "account_age": 2449440.0}

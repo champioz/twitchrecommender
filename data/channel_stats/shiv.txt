@@ -1,0 +1,1 @@
+{"channel": "shiv", "avg_viewers": 165, "followers_gained": 385, "peak_viewers": 360, "hours_streamed": 39, "streams": 11, "mature": 0, "language": "French", "account_age": 2227680.0}

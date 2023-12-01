@@ -1,0 +1,1 @@
+{"channel": "fiercekittenz", "avg_viewers": 44, "followers_gained": 45, "peak_viewers": 99, "hours_streamed": 26, "streams": 11, "mature": 0, "language": "English", "account_age": 2725920.0}

@@ -1,0 +1,1 @@
+{"channel": "mattyotv", "avg_viewers": 23, "followers_gained": 17, "peak_viewers": 151, "hours_streamed": 136, "streams": 29, "mature": 1, "language": "Japanese", "account_age": 1490400.0}

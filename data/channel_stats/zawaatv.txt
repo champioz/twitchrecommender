@@ -1,0 +1,1 @@
+{"channel": "zawaatv", "avg_viewers": 2, "followers_gained": 54, "peak_viewers": 14, "hours_streamed": 222, "streams": 89, "mature": 0, "language": "Polish", "account_age": 2145600.0}

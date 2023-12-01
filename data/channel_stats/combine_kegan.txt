@@ -1,0 +1,1 @@
+{"channel": "combine_kegan", "avg_viewers": 20, "followers_gained": 9, "peak_viewers": 34, "hours_streamed": 32, "streams": 7, "mature": 0, "language": "English", "account_age": 3908160.0}

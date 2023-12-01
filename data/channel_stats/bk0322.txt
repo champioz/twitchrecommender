@@ -1,0 +1,1 @@
+{"channel": "bk0322", "avg_viewers": 54, "followers_gained": 21, "peak_viewers": 214, "hours_streamed": 27, "streams": 12, "mature": 0, "language": "Chinese", "account_age": 326880.0}

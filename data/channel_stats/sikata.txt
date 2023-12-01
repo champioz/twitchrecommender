@@ -1,0 +1,1 @@
+{"channel": "sikata", "avg_viewers": 13, "followers_gained": 8, "peak_viewers": 30, "hours_streamed": 9, "streams": 1, "mature": 1, "language": "Swedish", "account_age": 4068000.0}

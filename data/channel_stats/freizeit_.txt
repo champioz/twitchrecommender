@@ -1,0 +1,1 @@
+{"channel": "freizeit_", "avg_viewers": 9, "followers_gained": 0, "peak_viewers": 23, "hours_streamed": 24, "streams": 12, "mature": 0, "language": "German", "account_age": 642240.0}

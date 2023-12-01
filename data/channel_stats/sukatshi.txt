@@ -1,0 +1,1 @@
+{"channel": "sukatshi", "avg_viewers": 21, "followers_gained": 87, "peak_viewers": 71, "hours_streamed": 52, "streams": 13, "mature": 1, "language": "French", "account_age": 1920960.0}

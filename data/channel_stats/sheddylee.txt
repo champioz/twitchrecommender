@@ -1,0 +1,1 @@
+{"channel": "sheddylee", "avg_viewers": 12, "followers_gained": 59, "peak_viewers": 47, "hours_streamed": 65, "streams": 18, "mature": 1, "language": "English", "account_age": 3464640.0}

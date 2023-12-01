@@ -1,0 +1,1 @@
+{"channel": "moonfaller", "avg_viewers": 66, "followers_gained": 177, "peak_viewers": 149, "hours_streamed": 80, "streams": 14, "mature": 0, "language": "English", "account_age": 1130400.0}

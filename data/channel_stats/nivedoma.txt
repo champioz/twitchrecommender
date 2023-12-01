@@ -1,0 +1,1 @@
+{"channel": "nivedoma", "avg_viewers": 6, "followers_gained": 18, "peak_viewers": 18, "hours_streamed": 93, "streams": 31, "mature": 0, "language": "Russian", "account_age": 3885120.0}

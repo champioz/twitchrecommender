@@ -1,0 +1,1 @@
+{"channel": "fetziediegranate", "avg_viewers": 23, "followers_gained": 23, "peak_viewers": 63, "hours_streamed": 74, "streams": 21, "mature": 1, "language": "German", "account_age": 2325600.0}

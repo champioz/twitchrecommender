@@ -1,0 +1,1 @@
+{"channel": "t_ippers", "avg_viewers": 5, "followers_gained": 27, "peak_viewers": 17, "hours_streamed": 25, "streams": 5, "mature": 1, "language": "English", "account_age": 688320.0}

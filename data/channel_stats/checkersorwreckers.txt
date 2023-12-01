@@ -1,0 +1,1 @@
+{"channel": "checkersorwreckers", "avg_viewers": 59, "followers_gained": 76, "peak_viewers": 401, "hours_streamed": 18, "streams": 9, "mature": 0, "language": "English", "account_age": 2545920.0}

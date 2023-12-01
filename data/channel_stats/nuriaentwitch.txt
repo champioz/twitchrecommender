@@ -1,0 +1,1 @@
+{"channel": "nuriaentwitch", "avg_viewers": 16, "followers_gained": 511, "peak_viewers": 71, "hours_streamed": 110, "streams": 33, "mature": 1, "language": "Spanish", "account_age": 2054880.0}

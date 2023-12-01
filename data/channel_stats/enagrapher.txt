@@ -1,0 +1,1 @@
+{"channel": "enagrapher", "avg_viewers": 14, "followers_gained": 134, "peak_viewers": 83, "hours_streamed": 59, "streams": 26, "mature": 1, "language": "Italian", "account_age": 2312640.0}

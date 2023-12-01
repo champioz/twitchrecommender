@@ -1,0 +1,1 @@
+{"channel": "honokamura", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 9, "streams": 6, "mature": 1, "language": "German", "account_age": 2489760.0}

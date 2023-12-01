@@ -1,0 +1,1 @@
+{"channel": "aquila7x", "avg_viewers": 9, "followers_gained": 52, "peak_viewers": 39, "hours_streamed": 37, "streams": 12, "mature": 1, "language": "English", "account_age": 712800.0}

@@ -1,0 +1,1 @@
+{"channel": "thecompletionist", "avg_viewers": 642, "followers_gained": 219, "peak_viewers": 782, "hours_streamed": 6, "streams": 1, "mature": 0, "language": "English", "account_age": 4145760.0}

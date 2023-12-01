@@ -1,0 +1,1 @@
+{"channel": "metflixbrasil", "avg_viewers": 3, "followers_gained": 78, "peak_viewers": 27, "hours_streamed": 77, "streams": 7, "mature": 1, "language": "Portuguese", "account_age": 813600.0}

@@ -1,0 +1,1 @@
+{"channel": "erazornexus", "avg_viewers": 9, "followers_gained": 3, "peak_viewers": 15, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "English", "account_age": 2289600.0}

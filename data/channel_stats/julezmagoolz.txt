@@ -1,0 +1,1 @@
+{"channel": "julezmagoolz", "avg_viewers": 18, "followers_gained": 62, "peak_viewers": 50, "hours_streamed": 54, "streams": 14, "mature": 0, "language": "English", "account_age": 3424320.0}

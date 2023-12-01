@@ -1,0 +1,1 @@
+{"channel": "djeffkay", "avg_viewers": 10, "followers_gained": 7, "peak_viewers": 23, "hours_streamed": 4, "streams": 1, "mature": 1, "language": "German", "account_age": 486720.0}

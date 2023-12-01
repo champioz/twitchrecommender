@@ -1,0 +1,1 @@
+{"channel": "hypertux0011", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "English", "account_age": 1985760.0}

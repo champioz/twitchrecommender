@@ -1,0 +1,1 @@
+{"channel": "itsmearobaz", "avg_viewers": 3, "followers_gained": 69, "peak_viewers": 26, "hours_streamed": 270, "streams": 84, "mature": 1, "language": "French", "account_age": 1114560.0}

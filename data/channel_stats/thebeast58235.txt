@@ -1,0 +1,1 @@
+{"channel": "thebeast58235", "avg_viewers": 19, "followers_gained": 7, "peak_viewers": 52, "hours_streamed": 14, "streams": 6, "mature": 1, "language": "English", "account_age": 3615840.0}

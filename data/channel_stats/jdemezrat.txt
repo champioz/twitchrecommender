@@ -1,0 +1,1 @@
+{"channel": "jdemezrat", "avg_viewers": 70, "followers_gained": 355, "peak_viewers": 184, "hours_streamed": 11, "streams": 9, "mature": 0, "language": "Czech", "account_age": 1948320.0}

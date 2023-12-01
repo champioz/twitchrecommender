@@ -1,0 +1,1 @@
+{"channel": "ibrahimlive", "avg_viewers": 20, "followers_gained": 1527, "peak_viewers": 65, "hours_streamed": 119, "streams": 31, "mature": 0, "language": "Arabic", "account_age": 303840.0}

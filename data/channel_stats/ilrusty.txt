@@ -1,0 +1,1 @@
+{"channel": "ilrusty", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 10, "hours_streamed": 33, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 2970720.0}

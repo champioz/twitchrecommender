@@ -1,0 +1,1 @@
+{"channel": "ascelinadeniz", "avg_viewers": 25, "followers_gained": 61, "peak_viewers": 63, "hours_streamed": 7, "streams": 6, "mature": 1, "language": "Turkish", "account_age": 980640.0}

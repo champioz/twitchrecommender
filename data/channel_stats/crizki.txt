@@ -1,0 +1,1 @@
+{"channel": "crizki", "avg_viewers": 13, "followers_gained": 592, "peak_viewers": 51, "hours_streamed": 64, "streams": 18, "mature": 1, "language": "Finnish", "account_age": 2872800.0}

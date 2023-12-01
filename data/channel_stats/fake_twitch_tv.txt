@@ -1,0 +1,1 @@
+{"channel": "fake_twitch_tv", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 21, "streams": 17, "mature": 0, "language": "English", "account_age": 419040.0}

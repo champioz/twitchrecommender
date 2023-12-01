@@ -1,0 +1,1 @@
+{"channel": "melphior", "avg_viewers": 3, "followers_gained": 12, "peak_viewers": 10, "hours_streamed": 18, "streams": 8, "mature": 0, "language": "English", "account_age": 819360.0}

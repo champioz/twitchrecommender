@@ -1,0 +1,1 @@
+{"channel": "psherotv", "avg_viewers": 283, "followers_gained": 139, "peak_viewers": 1416, "hours_streamed": 239, "streams": 27, "mature": 0, "language": "English", "account_age": 4042080.0}

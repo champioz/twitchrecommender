@@ -1,0 +1,1 @@
+{"channel": "urbvic", "avg_viewers": 4, "followers_gained": 48, "peak_viewers": 18, "hours_streamed": 102, "streams": 34, "mature": 0, "language": "Spanish", "account_age": 1477440.0}

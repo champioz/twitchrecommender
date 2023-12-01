@@ -1,0 +1,1 @@
+{"channel": "rokocadiz1", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 13, "hours_streamed": 32, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 1848960.0}

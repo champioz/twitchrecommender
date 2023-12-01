@@ -1,0 +1,1 @@
+{"channel": "cosmoxtv", "avg_viewers": 25, "followers_gained": 192, "peak_viewers": 98, "hours_streamed": 66, "streams": 23, "mature": 0, "language": "Turkish", "account_age": 1137600.0}

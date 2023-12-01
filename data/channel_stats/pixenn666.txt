@@ -1,0 +1,1 @@
+{"channel": "pixenn666", "avg_viewers": 18, "followers_gained": 15, "peak_viewers": 49, "hours_streamed": 63, "streams": 12, "mature": 0, "language": "Russian", "account_age": 1416960.0}

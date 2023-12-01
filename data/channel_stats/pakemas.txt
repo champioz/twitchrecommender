@@ -1,0 +1,1 @@
+{"channel": "pakemas", "avg_viewers": 15, "followers_gained": 39, "peak_viewers": 54, "hours_streamed": 124, "streams": 43, "mature": 1, "language": "Spanish", "account_age": 3080160.0}

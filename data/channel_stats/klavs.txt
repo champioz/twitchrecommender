@@ -1,0 +1,1 @@
+{"channel": "klavs", "avg_viewers": 5, "followers_gained": 18, "peak_viewers": 14, "hours_streamed": 12, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 840960.0}

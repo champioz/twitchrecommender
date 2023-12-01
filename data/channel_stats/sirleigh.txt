@@ -1,0 +1,1 @@
+{"channel": "sirleigh", "avg_viewers": 100, "followers_gained": 3, "peak_viewers": 326, "hours_streamed": 63, "streams": 11, "mature": 0, "language": "English", "account_age": 1395360.0}

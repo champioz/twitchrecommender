@@ -1,0 +1,1 @@
+{"channel": "game_daytona_shiki", "avg_viewers": 12, "followers_gained": 2, "peak_viewers": 42, "hours_streamed": 18, "streams": 7, "mature": 0, "language": "Japanese", "account_age": 1919520.0}

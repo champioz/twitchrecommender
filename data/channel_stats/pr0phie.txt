@@ -1,0 +1,1 @@
+{"channel": "pr0phie", "avg_viewers": 95, "followers_gained": 305, "peak_viewers": 343, "hours_streamed": 58, "streams": 14, "mature": 1, "language": "English", "account_age": 1113120.0}

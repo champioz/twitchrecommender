@@ -1,0 +1,1 @@
+{"channel": "iaxulu", "avg_viewers": 19, "followers_gained": 49, "peak_viewers": 210, "hours_streamed": 51, "streams": 21, "mature": 1, "language": "German", "account_age": 1546560.0}

@@ -1,0 +1,1 @@
+{"channel": "tekken", "avg_viewers": 6088, "followers_gained": 2535, "peak_viewers": 20042, "hours_streamed": 34, "streams": 5, "mature": 0, "language": "English", "account_age": 5823360.0}

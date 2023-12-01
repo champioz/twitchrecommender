@@ -1,0 +1,1 @@
+{"channel": "barbarousking", "avg_viewers": 2400, "followers_gained": 18393, "peak_viewers": 5559, "hours_streamed": 268, "streams": 53, "mature": 1, "language": "English", "account_age": 2869920.0}

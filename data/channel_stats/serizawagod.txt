@@ -1,0 +1,1 @@
+{"channel": "serizawagod", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 40, "streams": 15, "mature": 0, "language": "Japanese", "account_age": 1671840.0}

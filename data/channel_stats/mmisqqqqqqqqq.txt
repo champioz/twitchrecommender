@@ -1,0 +1,1 @@
+{"channel": "mmisqqqqqqqqq", "avg_viewers": 6, "followers_gained": 8, "peak_viewers": 17, "hours_streamed": 155, "streams": 36, "mature": 1, "language": "Chinese", "account_age": 2067840.0}

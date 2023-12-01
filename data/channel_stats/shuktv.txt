@@ -1,0 +1,1 @@
+{"channel": "shuktv", "avg_viewers": 12, "followers_gained": 92, "peak_viewers": 117, "hours_streamed": 176, "streams": 29, "mature": 1, "language": "Portuguese", "account_age": 2102400.0}

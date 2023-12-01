@@ -1,0 +1,1 @@
+{"channel": "bryner", "avg_viewers": 40, "followers_gained": 58, "peak_viewers": 117, "hours_streamed": 20, "streams": 11, "mature": 0, "language": "Danish", "account_age": 2495520.0}

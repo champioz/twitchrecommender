@@ -1,0 +1,1 @@
+{"channel": "bieldomaul", "avg_viewers": 87, "followers_gained": 95, "peak_viewers": 488, "hours_streamed": 59, "streams": 22, "mature": 0, "language": "Portuguese", "account_age": 3091680.0}

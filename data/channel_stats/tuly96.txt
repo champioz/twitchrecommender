@@ -1,0 +1,1 @@
+{"channel": "tuly96", "avg_viewers": 9, "followers_gained": 183, "peak_viewers": 1860, "hours_streamed": 111, "streams": 61, "mature": 0, "language": "Spanish", "account_age": 3051360.0}

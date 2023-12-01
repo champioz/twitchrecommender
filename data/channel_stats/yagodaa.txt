@@ -1,0 +1,1 @@
+{"channel": "yagodaa", "avg_viewers": 20, "followers_gained": 209, "peak_viewers": 311, "hours_streamed": 126, "streams": 36, "mature": 0, "language": "Russian", "account_age": 2370240.0}

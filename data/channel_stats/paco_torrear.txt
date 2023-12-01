@@ -1,0 +1,1 @@
+{"channel": "paco_torrear", "avg_viewers": 23, "followers_gained": 320, "peak_viewers": 75, "hours_streamed": 72, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 1732320.0}

@@ -1,0 +1,1 @@
+{"channel": "ninetaro", "avg_viewers": 5, "followers_gained": 28, "peak_viewers": 53, "hours_streamed": 22, "streams": 16, "mature": 0, "language": "Thai", "account_age": 1395360.0}

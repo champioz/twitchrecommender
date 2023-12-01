@@ -1,0 +1,1 @@
+{"channel": "sr_lucas", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 7, "hours_streamed": 3, "streams": 2, "mature": 1, "language": "English", "account_age": 1215360.0}

@@ -1,0 +1,1 @@
+{"channel": "debelah_", "avg_viewers": 7, "followers_gained": 40, "peak_viewers": 20, "hours_streamed": 129, "streams": 16, "mature": 0, "language": "Korean", "account_age": 953280.0}

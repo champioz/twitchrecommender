@@ -1,0 +1,1 @@
+{"channel": "pnkly", "avg_viewers": 5, "followers_gained": 8, "peak_viewers": 13, "hours_streamed": 133, "streams": 24, "mature": 0, "language": "Korean", "account_age": 1175040.0}

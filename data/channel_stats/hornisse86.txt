@@ -1,0 +1,1 @@
+{"channel": "hornisse86", "avg_viewers": 168, "followers_gained": 1622, "peak_viewers": 1538, "hours_streamed": 185, "streams": 34, "mature": 1, "language": "German", "account_age": 3653280.0}

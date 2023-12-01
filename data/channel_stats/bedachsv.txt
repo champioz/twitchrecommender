@@ -1,0 +1,1 @@
+{"channel": "bedachsv", "avg_viewers": 22, "followers_gained": 33, "peak_viewers": 76, "hours_streamed": 44, "streams": 17, "mature": 0, "language": "Russian", "account_age": 528480.0}

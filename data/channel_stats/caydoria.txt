@@ -1,0 +1,1 @@
+{"channel": "caydoria", "avg_viewers": 14, "followers_gained": 13, "peak_viewers": 26, "hours_streamed": 37, "streams": 10, "mature": 1, "language": "English", "account_age": 1938240.0}

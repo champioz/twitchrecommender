@@ -1,0 +1,1 @@
+{"channel": "hochgedrueckttv", "avg_viewers": 269, "followers_gained": 193, "peak_viewers": 371, "hours_streamed": 7, "streams": 4, "mature": 1, "language": "German", "account_age": 516960.0}

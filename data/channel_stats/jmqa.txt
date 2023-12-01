@@ -1,0 +1,1 @@
+{"channel": "jmqa", "avg_viewers": 11, "followers_gained": 14, "peak_viewers": 39, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "Russian", "account_age": 3306240.0}

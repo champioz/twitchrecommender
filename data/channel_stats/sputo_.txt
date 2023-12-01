@@ -1,0 +1,1 @@
+{"channel": "sputo_", "avg_viewers": 22, "followers_gained": 122, "peak_viewers": 68, "hours_streamed": 25, "streams": 7, "mature": 0, "language": "Polish", "account_age": 685440.0}

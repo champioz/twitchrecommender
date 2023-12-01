@@ -1,0 +1,1 @@
+{"channel": "rusty_wires", "avg_viewers": 10, "followers_gained": 91, "peak_viewers": 31, "hours_streamed": 246, "streams": 29, "mature": 1, "language": "English", "account_age": 1206720.0}

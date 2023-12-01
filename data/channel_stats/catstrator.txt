@@ -1,0 +1,1 @@
+{"channel": "catstrator", "avg_viewers": 140, "followers_gained": 79, "peak_viewers": 224, "hours_streamed": 19, "streams": 6, "mature": 0, "language": "English", "account_age": 4072320.0}

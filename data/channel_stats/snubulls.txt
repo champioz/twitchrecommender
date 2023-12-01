@@ -1,0 +1,1 @@
+{"channel": "snubulls", "avg_viewers": 20, "followers_gained": 22, "peak_viewers": 76, "hours_streamed": 34, "streams": 9, "mature": 1, "language": "German", "account_age": 1180800.0}

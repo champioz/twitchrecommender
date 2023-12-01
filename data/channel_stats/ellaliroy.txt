@@ -1,0 +1,1 @@
+{"channel": "ellaliroy", "avg_viewers": 3, "followers_gained": 43, "peak_viewers": 16, "hours_streamed": 105, "streams": 28, "mature": 0, "language": "Russian", "account_age": 450720.0}

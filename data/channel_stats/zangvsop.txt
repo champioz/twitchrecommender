@@ -1,0 +1,1 @@
+{"channel": "zangvsop", "avg_viewers": 23, "followers_gained": 107, "peak_viewers": 52, "hours_streamed": 357, "streams": 25, "mature": 0, "language": "English", "account_age": 2263680.0}

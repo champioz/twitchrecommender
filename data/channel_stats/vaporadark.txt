@@ -1,0 +1,1 @@
+{"channel": "vaporadark", "avg_viewers": 1825, "followers_gained": 234, "peak_viewers": 3113, "hours_streamed": 40, "streams": 9, "mature": 0, "language": "English", "account_age": 3496320.0}

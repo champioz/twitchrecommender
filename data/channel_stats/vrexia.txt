@@ -1,0 +1,1 @@
+{"channel": "vrexia", "avg_viewers": 60, "followers_gained": 340, "peak_viewers": 189, "hours_streamed": 234, "streams": 26, "mature": 0, "language": "English", "account_age": 1012320.0}

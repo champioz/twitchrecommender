@@ -1,0 +1,1 @@
+{"channel": "f4natix83", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 13, "streams": 7, "mature": 0, "language": "German", "account_age": 1457280.0}

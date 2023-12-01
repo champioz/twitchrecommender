@@ -1,0 +1,1 @@
+{"channel": "jezeveccz89", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 6, "hours_streamed": 8, "streams": 7, "mature": 0, "language": "Czech", "account_age": 1519200.0}

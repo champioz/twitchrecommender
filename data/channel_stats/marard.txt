@@ -1,0 +1,1 @@
+{"channel": "marard", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 10, "hours_streamed": 81, "streams": 36, "mature": 0, "language": "Czech", "account_age": 2777760.0}

@@ -1,0 +1,1 @@
+{"channel": "georgi_tv", "avg_viewers": 1, "followers_gained": 14, "peak_viewers": 4, "hours_streamed": 42, "streams": 21, "mature": 0, "language": "Spanish", "account_age": 2063520.0}

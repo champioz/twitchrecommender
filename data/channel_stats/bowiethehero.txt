@@ -1,0 +1,1 @@
+{"channel": "bowiethehero", "avg_viewers": 140, "followers_gained": 162, "peak_viewers": 249, "hours_streamed": 186, "streams": 25, "mature": 1, "language": "English", "account_age": 3643200.0}

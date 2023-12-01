@@ -1,0 +1,1 @@
+{"channel": "rignis", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 10, "streams": 5, "mature": 1, "language": "English", "account_age": 1837440.0}

@@ -1,0 +1,1 @@
+{"channel": "varimkrokodil", "avg_viewers": 48, "followers_gained": 35, "peak_viewers": 184, "hours_streamed": 74, "streams": 14, "mature": 1, "language": "Russian", "account_age": 1704960.0}

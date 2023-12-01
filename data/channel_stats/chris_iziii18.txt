@@ -1,0 +1,1 @@
+{"channel": "chris_iziii18", "avg_viewers": 3, "followers_gained": 93, "peak_viewers": 23, "hours_streamed": 173, "streams": 65, "mature": 1, "language": "French", "account_age": 2219040.0}

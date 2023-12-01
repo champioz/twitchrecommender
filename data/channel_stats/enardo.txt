@@ -1,0 +1,1 @@
+{"channel": "enardo", "avg_viewers": 136, "followers_gained": 1472, "peak_viewers": 349, "hours_streamed": 18, "streams": 6, "mature": 0, "language": "English", "account_age": 2416320.0}

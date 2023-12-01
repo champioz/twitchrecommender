@@ -1,0 +1,1 @@
+{"channel": "tibi_ch", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 13, "hours_streamed": 32, "streams": 11, "mature": 0, "language": "Japanese", "account_age": 545760.0}

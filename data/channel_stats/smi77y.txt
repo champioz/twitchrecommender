@@ -1,0 +1,1 @@
+{"channel": "smi77y", "avg_viewers": 46, "followers_gained": 2, "peak_viewers": 86, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "English", "account_age": 5721120.0}

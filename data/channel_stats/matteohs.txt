@@ -1,0 +1,1 @@
+{"channel": "matteohs", "avg_viewers": 1062, "followers_gained": 12655, "peak_viewers": 2791, "hours_streamed": 139, "streams": 38, "mature": 0, "language": "Italian", "account_age": 1689120.0}

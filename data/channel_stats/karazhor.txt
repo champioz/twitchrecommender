@@ -1,0 +1,1 @@
+{"channel": "karazhor", "avg_viewers": 77, "followers_gained": 129, "peak_viewers": 262, "hours_streamed": 41, "streams": 13, "mature": 0, "language": "German", "account_age": 2520000.0}

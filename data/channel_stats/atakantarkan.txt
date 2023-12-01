@@ -1,0 +1,1 @@
+{"channel": "atakantarkan", "avg_viewers": 552, "followers_gained": 5189, "peak_viewers": 1528, "hours_streamed": 68, "streams": 16, "mature": 0, "language": "Turkish", "account_age": 1020960.0}

@@ -1,0 +1,1 @@
+{"channel": "unrealemir", "avg_viewers": 1, "followers_gained": 26, "peak_viewers": 14, "hours_streamed": 43, "streams": 14, "mature": 1, "language": "Turkish", "account_age": 355680.0}

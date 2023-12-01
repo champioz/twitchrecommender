@@ -1,0 +1,1 @@
+{"channel": "taelios", "avg_viewers": 50, "followers_gained": 225, "peak_viewers": 250, "hours_streamed": 240, "streams": 32, "mature": 1, "language": "English", "account_age": 3441600.0}

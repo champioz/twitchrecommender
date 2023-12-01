@@ -1,0 +1,1 @@
+{"channel": "matrenn", "avg_viewers": 86, "followers_gained": 171, "peak_viewers": 159, "hours_streamed": 100, "streams": 24, "mature": 1, "language": "English", "account_age": 1195200.0}

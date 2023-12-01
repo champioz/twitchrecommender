@@ -1,0 +1,1 @@
+{"channel": "stronglegs", "avg_viewers": 20, "followers_gained": 84, "peak_viewers": 735, "hours_streamed": 86, "streams": 18, "mature": 1, "language": "English", "account_age": 2142720.0}

@@ -1,0 +1,1 @@
+{"channel": "z1ppon", "avg_viewers": 0, "followers_gained": 8, "peak_viewers": 7, "hours_streamed": 93, "streams": 26, "mature": 0, "language": "Thai", "account_age": 722880.0}

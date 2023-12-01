@@ -1,0 +1,1 @@
+{"channel": "daviidcrazyy", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 2, "hours_streamed": 1, "streams": 4, "mature": 0, "language": "Spanish", "account_age": 413280.0}

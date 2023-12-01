@@ -1,0 +1,1 @@
+{"channel": "fiskerplay", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 11, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Danish", "account_age": 1196640.0}

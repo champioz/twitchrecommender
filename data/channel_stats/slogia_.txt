@@ -1,0 +1,1 @@
+{"channel": "slogia_", "avg_viewers": 3, "followers_gained": 16, "peak_viewers": 9, "hours_streamed": 38, "streams": 19, "mature": 1, "language": "Italian", "account_age": 3257280.0}

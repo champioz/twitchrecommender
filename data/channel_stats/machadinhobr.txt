@@ -1,0 +1,1 @@
+{"channel": "machadinhobr", "avg_viewers": 9, "followers_gained": 123, "peak_viewers": 17, "hours_streamed": 7, "streams": 5, "mature": 1, "language": "Portuguese", "account_age": 1968480.0}

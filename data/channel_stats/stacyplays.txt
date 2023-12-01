@@ -1,0 +1,1 @@
+{"channel": "stacyplays", "avg_viewers": 187, "followers_gained": 1535, "peak_viewers": 697, "hours_streamed": 13, "streams": 6, "mature": 0, "language": "English", "account_age": 2851200.0}

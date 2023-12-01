@@ -1,0 +1,1 @@
+{"channel": "ryan_4k", "avg_viewers": 9, "followers_gained": 2, "peak_viewers": 42, "hours_streamed": 32, "streams": 11, "mature": 1, "language": "German", "account_age": 2076480.0}

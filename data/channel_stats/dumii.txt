@@ -1,0 +1,1 @@
+{"channel": "dumii", "avg_viewers": 56, "followers_gained": 1422, "peak_viewers": 148, "hours_streamed": 17, "streams": 6, "mature": 0, "language": "English", "account_age": 3268800.0}

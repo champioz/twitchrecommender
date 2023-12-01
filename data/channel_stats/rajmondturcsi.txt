@@ -1,0 +1,1 @@
+{"channel": "rajmondturcsi", "avg_viewers": 5, "followers_gained": 57, "peak_viewers": 20, "hours_streamed": 26, "streams": 6, "mature": 1, "language": "Hungarian", "account_age": 1643040.0}

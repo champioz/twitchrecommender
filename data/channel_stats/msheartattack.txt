@@ -1,0 +1,1 @@
+{"channel": "msheartattack", "avg_viewers": 19, "followers_gained": 326, "peak_viewers": 67, "hours_streamed": 89, "streams": 36, "mature": 1, "language": "English", "account_age": 3129120.0}

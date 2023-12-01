@@ -1,0 +1,1 @@
+{"channel": "rabbiit", "avg_viewers": 20, "followers_gained": 17, "peak_viewers": 40, "hours_streamed": 23, "streams": 7, "mature": 1, "language": "French", "account_age": 2154240.0}

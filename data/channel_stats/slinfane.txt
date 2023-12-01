@@ -1,0 +1,1 @@
+{"channel": "slinfane", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 13, "hours_streamed": 102, "streams": 22, "mature": 1, "language": "German", "account_age": 3693600.0}

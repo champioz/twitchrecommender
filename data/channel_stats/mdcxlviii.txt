@@ -1,0 +1,1 @@
+{"channel": "mdcxlviii", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 17, "hours_streamed": 78, "streams": 16, "mature": 1, "language": "English", "account_age": 401760.0}

@@ -1,0 +1,1 @@
+{"channel": "advhaunted", "avg_viewers": 14, "followers_gained": 476, "peak_viewers": 128, "hours_streamed": 131, "streams": 29, "mature": 0, "language": "English", "account_age": 3787200.0}

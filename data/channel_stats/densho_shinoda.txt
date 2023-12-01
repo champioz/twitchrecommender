@@ -1,0 +1,1 @@
+{"channel": "densho_shinoda", "avg_viewers": 39, "followers_gained": 4, "peak_viewers": 56, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 3834720.0}

@@ -1,0 +1,1 @@
+{"channel": "adis628", "avg_viewers": 13, "followers_gained": 50, "peak_viewers": 25, "hours_streamed": 34, "streams": 12, "mature": 0, "language": "Slovak", "account_age": 2283840.0}

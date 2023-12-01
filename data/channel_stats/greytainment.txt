@@ -1,0 +1,1 @@
+{"channel": "greytainment", "avg_viewers": 36, "followers_gained": 174, "peak_viewers": 83, "hours_streamed": 102, "streams": 25, "mature": 1, "language": "German", "account_age": 138240.0}

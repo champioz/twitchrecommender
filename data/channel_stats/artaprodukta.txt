@@ -1,0 +1,1 @@
+{"channel": "artaprodukta", "avg_viewers": 8, "followers_gained": 15, "peak_viewers": 85, "hours_streamed": 93, "streams": 20, "mature": 1, "language": "German", "account_age": 1379520.0}

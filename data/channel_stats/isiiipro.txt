@@ -1,0 +1,1 @@
+{"channel": "isiiipro", "avg_viewers": 182, "followers_gained": 43, "peak_viewers": 288, "hours_streamed": 99, "streams": 25, "mature": 0, "language": "Japanese", "account_age": 3576960.0}

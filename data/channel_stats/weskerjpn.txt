@@ -1,0 +1,1 @@
+{"channel": "weskerjpn", "avg_viewers": 187, "followers_gained": 731, "peak_viewers": 504, "hours_streamed": 112, "streams": 35, "mature": 0, "language": "Japanese", "account_age": 1255680.0}

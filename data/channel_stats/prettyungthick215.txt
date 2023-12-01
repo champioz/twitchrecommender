@@ -1,0 +1,1 @@
+{"channel": "prettyungthick215", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 26, "hours_streamed": 76, "streams": 74, "mature": 0, "language": "English", "account_age": 1274400.0}

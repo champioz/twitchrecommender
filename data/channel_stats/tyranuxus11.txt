@@ -1,0 +1,1 @@
+{"channel": "tyranuxus11", "avg_viewers": 76, "followers_gained": 57, "peak_viewers": 275, "hours_streamed": 26, "streams": 7, "mature": 0, "language": "Polish", "account_age": 1589760.0}

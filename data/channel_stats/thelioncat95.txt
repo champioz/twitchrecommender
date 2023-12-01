@@ -1,0 +1,1 @@
+{"channel": "thelioncat95", "avg_viewers": 26, "followers_gained": 576, "peak_viewers": 57, "hours_streamed": 86, "streams": 37, "mature": 0, "language": "Spanish", "account_age": 1278720.0}

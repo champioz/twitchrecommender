@@ -1,0 +1,1 @@
+{"channel": "mczolly92", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 14, "hours_streamed": 7, "streams": 5, "mature": 1, "language": "English", "account_age": 610560.0}

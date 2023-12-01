@@ -1,0 +1,1 @@
+{"channel": "markelitooo", "avg_viewers": 20, "followers_gained": 15, "peak_viewers": 53, "hours_streamed": 20, "streams": 8, "mature": 0, "language": "Swedish", "account_age": 3293280.0}

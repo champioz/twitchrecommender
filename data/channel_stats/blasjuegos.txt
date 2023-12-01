@@ -1,0 +1,1 @@
+{"channel": "blasjuegos", "avg_viewers": 5, "followers_gained": 50, "peak_viewers": 18, "hours_streamed": 59, "streams": 26, "mature": 1, "language": "Spanish", "account_age": 2972160.0}

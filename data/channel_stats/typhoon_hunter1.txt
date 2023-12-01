@@ -1,0 +1,1 @@
+{"channel": "typhoon_hunter1", "avg_viewers": 7, "followers_gained": 36, "peak_viewers": 24, "hours_streamed": 28, "streams": 12, "mature": 1, "language": "English", "account_age": 708480.0}

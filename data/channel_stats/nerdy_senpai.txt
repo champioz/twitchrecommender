@@ -1,0 +1,1 @@
+{"channel": "nerdy_senpai", "avg_viewers": 20, "followers_gained": 115, "peak_viewers": 40, "hours_streamed": 45, "streams": 16, "mature": 1, "language": "English", "account_age": 283680.0}

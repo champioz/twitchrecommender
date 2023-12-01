@@ -1,0 +1,1 @@
+{"channel": "hosu0904", "avg_viewers": 274, "followers_gained": 18, "peak_viewers": 651, "hours_streamed": 76, "streams": 19, "mature": 0, "language": "Korean", "account_age": 1398240.0}

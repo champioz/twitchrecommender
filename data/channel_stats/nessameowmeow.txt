@@ -1,0 +1,1 @@
+{"channel": "nessameowmeow", "avg_viewers": 123, "followers_gained": 255, "peak_viewers": 1070, "hours_streamed": 38, "streams": 10, "mature": 0, "language": "English", "account_age": 1375200.0}

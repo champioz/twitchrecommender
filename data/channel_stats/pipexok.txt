@@ -1,0 +1,1 @@
+{"channel": "pipexok", "avg_viewers": 17, "followers_gained": 35, "peak_viewers": 47, "hours_streamed": 21, "streams": 11, "mature": 0, "language": "Spanish", "account_age": 2774880.0}

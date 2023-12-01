@@ -1,0 +1,1 @@
+{"channel": "bdt17", "avg_viewers": 11, "followers_gained": 10, "peak_viewers": 23, "hours_streamed": 16, "streams": 5, "mature": 0, "language": "English", "account_age": 2315520.0}

@@ -1,0 +1,1 @@
+{"channel": "sillerspiller", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 16, "streams": 11, "mature": 1, "language": "English", "account_age": 1540800.0}

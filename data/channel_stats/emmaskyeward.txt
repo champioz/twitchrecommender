@@ -1,0 +1,1 @@
+{"channel": "emmaskyeward", "avg_viewers": 39, "followers_gained": 75, "peak_viewers": 163, "hours_streamed": 42, "streams": 11, "mature": 0, "language": "English", "account_age": 2488320.0}

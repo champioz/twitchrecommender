@@ -1,0 +1,1 @@
+{"channel": "lama_gflxxt", "avg_viewers": 1, "followers_gained": 28, "peak_viewers": 11, "hours_streamed": 41, "streams": 26, "mature": 0, "language": "German", "account_age": 273600.0}

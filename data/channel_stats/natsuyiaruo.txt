@@ -1,0 +1,1 @@
+{"channel": "natsuyiaruo", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 11, "hours_streamed": 191, "streams": 23, "mature": 0, "language": "Chinese", "account_age": 580320.0}

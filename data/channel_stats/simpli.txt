@@ -1,0 +1,1 @@
+{"channel": "simpli", "avg_viewers": 7, "followers_gained": 19, "peak_viewers": 30, "hours_streamed": 65, "streams": 18, "mature": 0, "language": "English", "account_age": 1010880.0}

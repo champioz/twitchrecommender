@@ -1,0 +1,1 @@
+{"channel": "brinibaby13", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "English", "account_age": 3758400.0}

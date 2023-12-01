@@ -1,0 +1,1 @@
+{"channel": "yrfan", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 19, "hours_streamed": 22, "streams": 7, "mature": 1, "language": "French", "account_age": 3385440.0}

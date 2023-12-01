@@ -1,0 +1,1 @@
+{"channel": "tattoomann", "avg_viewers": 9, "followers_gained": 231, "peak_viewers": 35, "hours_streamed": 714, "streams": 20, "mature": 0, "language": "German", "account_age": 2422080.0}

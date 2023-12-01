@@ -1,0 +1,1 @@
+{"channel": "andythps", "avg_viewers": 20, "followers_gained": 110, "peak_viewers": 75, "hours_streamed": 46, "streams": 13, "mature": 0, "language": "English", "account_age": 4430880.0}

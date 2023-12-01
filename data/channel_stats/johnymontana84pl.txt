@@ -1,0 +1,1 @@
+{"channel": "johnymontana84pl", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 10, "hours_streamed": 55, "streams": 20, "mature": 1, "language": "Polish", "account_age": 2478240.0}

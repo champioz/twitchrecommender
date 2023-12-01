@@ -1,0 +1,1 @@
+{"channel": "jeggerbombjpeg", "avg_viewers": 4, "followers_gained": 26, "peak_viewers": 18, "hours_streamed": 36, "streams": 21, "mature": 1, "language": "English", "account_age": 684000.0}

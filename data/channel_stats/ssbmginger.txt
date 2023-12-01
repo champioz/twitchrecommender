@@ -1,0 +1,1 @@
+{"channel": "ssbmginger", "avg_viewers": 60, "followers_gained": 298, "peak_viewers": 267, "hours_streamed": 118, "streams": 35, "mature": 0, "language": "English", "account_age": 1607040.0}

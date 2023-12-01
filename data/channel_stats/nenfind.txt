@@ -1,0 +1,1 @@
+{"channel": "nenfind", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 11, "hours_streamed": 24, "streams": 7, "mature": 1, "language": "Russian", "account_age": 2491200.0}

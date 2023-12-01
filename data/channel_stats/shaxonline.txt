@@ -1,0 +1,1 @@
+{"channel": "shaxonline", "avg_viewers": 3, "followers_gained": 32, "peak_viewers": 9, "hours_streamed": 33, "streams": 15, "mature": 0, "language": "Slovak", "account_age": 2534400.0}

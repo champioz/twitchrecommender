@@ -1,0 +1,1 @@
+{"channel": "kayuun", "avg_viewers": 218, "followers_gained": 775, "peak_viewers": 1403, "hours_streamed": 48, "streams": 7, "mature": 0, "language": "English", "account_age": 2651040.0}

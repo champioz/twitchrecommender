@@ -1,0 +1,1 @@
+{"channel": "museun", "avg_viewers": 4, "followers_gained": 25, "peak_viewers": 14, "hours_streamed": 127, "streams": 20, "mature": 1, "language": "English", "account_age": 4255200.0}

@@ -1,0 +1,1 @@
+{"channel": "truehypermario", "avg_viewers": 3, "followers_gained": 9, "peak_viewers": 19, "hours_streamed": 24, "streams": 7, "mature": 0, "language": "Finnish", "account_age": 1487520.0}

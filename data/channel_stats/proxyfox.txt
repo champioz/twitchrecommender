@@ -1,0 +1,1 @@
+{"channel": "proxyfox", "avg_viewers": 174, "followers_gained": 726, "peak_viewers": 290, "hours_streamed": 91, "streams": 20, "mature": 0, "language": "English", "account_age": 3333600.0}

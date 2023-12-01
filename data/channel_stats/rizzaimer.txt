@@ -1,0 +1,1 @@
+{"channel": "rizzaimer", "avg_viewers": 84, "followers_gained": 163, "peak_viewers": 169, "hours_streamed": 14, "streams": 9, "mature": 0, "language": "Portuguese", "account_age": 1389600.0}

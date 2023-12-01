@@ -1,0 +1,1 @@
+{"channel": "kyleaye", "avg_viewers": 13, "followers_gained": 17, "peak_viewers": 28, "hours_streamed": 25, "streams": 5, "mature": 0, "language": "English", "account_age": 2548800.0}

@@ -1,0 +1,1 @@
+{"channel": "goodygamingnews", "avg_viewers": 8, "followers_gained": 15, "peak_viewers": 16, "hours_streamed": 31, "streams": 9, "mature": 0, "language": "German", "account_age": 2292480.0}

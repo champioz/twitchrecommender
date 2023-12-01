@@ -1,0 +1,1 @@
+{"channel": "headburglar", "avg_viewers": 44, "followers_gained": 68, "peak_viewers": 125, "hours_streamed": 20, "streams": 6, "mature": 0, "language": "English", "account_age": 587520.0}

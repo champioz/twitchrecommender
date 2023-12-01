@@ -1,0 +1,1 @@
+{"channel": "recuerd0p", "avg_viewers": 341, "followers_gained": 5145, "peak_viewers": 725, "hours_streamed": 129, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 855360.0}

@@ -1,0 +1,1 @@
+{"channel": "jenziman2", "avg_viewers": 12, "followers_gained": 13, "peak_viewers": 49, "hours_streamed": 43, "streams": 11, "mature": 1, "language": "English", "account_age": 4184640.0}

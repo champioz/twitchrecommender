@@ -1,0 +1,1 @@
+{"channel": "wanderly", "avg_viewers": 6, "followers_gained": 41, "peak_viewers": 162, "hours_streamed": 40, "streams": 24, "mature": 0, "language": "Russian", "account_age": 1755360.0}

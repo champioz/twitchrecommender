@@ -1,0 +1,1 @@
+{"channel": "lyuska", "avg_viewers": 85, "followers_gained": 35, "peak_viewers": 200, "hours_streamed": 14, "streams": 3, "mature": 1, "language": "Russian", "account_age": 3307680.0}

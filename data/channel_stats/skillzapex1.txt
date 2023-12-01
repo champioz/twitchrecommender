@@ -1,0 +1,1 @@
+{"channel": "skillzapex1", "avg_viewers": 8, "followers_gained": 162, "peak_viewers": 96, "hours_streamed": 114, "streams": 29, "mature": 0, "language": "English", "account_age": 1321920.0}

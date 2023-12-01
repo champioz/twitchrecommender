@@ -1,0 +1,1 @@
+{"channel": "plaguemkr", "avg_viewers": 2, "followers_gained": 45, "peak_viewers": 11, "hours_streamed": 36, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 1330560.0}

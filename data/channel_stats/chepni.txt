@@ -1,0 +1,1 @@
+{"channel": "chepni", "avg_viewers": 50, "followers_gained": 1858, "peak_viewers": 103, "hours_streamed": 101, "streams": 34, "mature": 0, "language": "Turkish", "account_age": 1437120.0}

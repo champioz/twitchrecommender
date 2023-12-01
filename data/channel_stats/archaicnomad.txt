@@ -1,0 +1,1 @@
+{"channel": "archaicnomad", "avg_viewers": 8, "followers_gained": 17, "peak_viewers": 18, "hours_streamed": 47, "streams": 10, "mature": 1, "language": "English", "account_age": 976320.0}

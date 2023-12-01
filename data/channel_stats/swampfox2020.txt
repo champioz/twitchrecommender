@@ -1,0 +1,1 @@
+{"channel": "swampfox2020", "avg_viewers": 43, "followers_gained": 390, "peak_viewers": 654, "hours_streamed": 235, "streams": 29, "mature": 1, "language": "English", "account_age": 3870720.0}

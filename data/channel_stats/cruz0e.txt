@@ -1,0 +1,1 @@
+{"channel": "cruz0e", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 3, "hours_streamed": 16, "streams": 4, "mature": 1, "language": "English", "account_age": 1568160.0}

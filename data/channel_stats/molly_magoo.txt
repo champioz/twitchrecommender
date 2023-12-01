@@ -1,0 +1,1 @@
+{"channel": "molly_magoo", "avg_viewers": 33, "followers_gained": 88, "peak_viewers": 260, "hours_streamed": 76, "streams": 19, "mature": 1, "language": "English", "account_age": 1339200.0}

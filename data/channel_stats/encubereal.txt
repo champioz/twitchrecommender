@@ -1,0 +1,1 @@
+{"channel": "encubereal", "avg_viewers": 19, "followers_gained": 3, "peak_viewers": 35, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "English", "account_age": 2466720.0}

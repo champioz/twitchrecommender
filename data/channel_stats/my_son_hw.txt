@@ -1,0 +1,1 @@
+{"channel": "my_son_hw", "avg_viewers": 33, "followers_gained": 16, "peak_viewers": 81, "hours_streamed": 20, "streams": 8, "mature": 1, "language": "English", "account_age": 1480320.0}

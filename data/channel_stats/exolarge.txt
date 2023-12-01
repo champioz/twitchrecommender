@@ -1,0 +1,1 @@
+{"channel": "exolarge", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 19, "hours_streamed": 16, "streams": 6, "mature": 0, "language": "Korean", "account_age": 1728000.0}

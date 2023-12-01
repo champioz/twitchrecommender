@@ -1,0 +1,1 @@
+{"channel": "thefitzz35", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 16, "streams": 5, "mature": 0, "language": "English", "account_age": 2152800.0}

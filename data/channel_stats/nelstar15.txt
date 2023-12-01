@@ -1,0 +1,1 @@
+{"channel": "nelstar15", "avg_viewers": 14, "followers_gained": 23, "peak_viewers": 90, "hours_streamed": 25, "streams": 9, "mature": 1, "language": "English", "account_age": 2342880.0}

@@ -1,0 +1,1 @@
+{"channel": "matthxw2", "avg_viewers": 81, "followers_gained": 253, "peak_viewers": 352, "hours_streamed": 67, "streams": 14, "mature": 0, "language": "English", "account_age": 3003840.0}

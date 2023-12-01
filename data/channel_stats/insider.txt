@@ -1,0 +1,1 @@
+{"channel": "insider", "avg_viewers": 103, "followers_gained": 157, "peak_viewers": 596, "hours_streamed": 51, "streams": 12, "mature": 0, "language": "Russian", "account_age": 3602880.0}

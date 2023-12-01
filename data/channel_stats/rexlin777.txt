@@ -1,0 +1,1 @@
+{"channel": "rexlin777", "avg_viewers": 154, "followers_gained": 1100, "peak_viewers": 1294, "hours_streamed": 63, "streams": 12, "mature": 0, "language": "Chinese", "account_age": 2432160.0}

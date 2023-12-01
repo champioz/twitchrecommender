@@ -1,0 +1,1 @@
+{"channel": "imtinii", "avg_viewers": 21, "followers_gained": 147, "peak_viewers": 54, "hours_streamed": 72, "streams": 13, "mature": 0, "language": "Norwegian", "account_age": 444960.0}

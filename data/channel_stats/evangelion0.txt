@@ -1,0 +1,1 @@
+{"channel": "evangelion0", "avg_viewers": 3120, "followers_gained": 13298, "peak_viewers": 9652, "hours_streamed": 160, "streams": 30, "mature": 0, "language": "Spanish", "account_age": 2838240.0}

@@ -1,0 +1,1 @@
+{"channel": "kdash212", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 33, "hours_streamed": 14, "streams": 13, "mature": 1, "language": "Chinese", "account_age": 2943360.0}

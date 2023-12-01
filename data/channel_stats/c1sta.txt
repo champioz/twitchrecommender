@@ -1,0 +1,1 @@
+{"channel": "c1sta", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 3, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "French", "account_age": 3500640.0}

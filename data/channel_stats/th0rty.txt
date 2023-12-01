@@ -1,0 +1,1 @@
+{"channel": "th0rty", "avg_viewers": 9, "followers_gained": 17, "peak_viewers": 22, "hours_streamed": 40, "streams": 13, "mature": 1, "language": "German", "account_age": 2655360.0}

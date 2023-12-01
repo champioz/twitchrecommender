@@ -1,0 +1,1 @@
+{"channel": "feelthemoon_", "avg_viewers": 8, "followers_gained": 95, "peak_viewers": 30, "hours_streamed": 32, "streams": 15, "mature": 0, "language": "Thai", "account_age": 148320.0}

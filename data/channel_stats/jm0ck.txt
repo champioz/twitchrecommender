@@ -1,0 +1,1 @@
+{"channel": "jm0ck", "avg_viewers": 8, "followers_gained": 373, "peak_viewers": 26, "hours_streamed": 60, "streams": 29, "mature": 0, "language": "English", "account_age": 1566720.0}

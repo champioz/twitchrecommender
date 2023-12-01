@@ -1,0 +1,1 @@
+{"channel": "anti_booster", "avg_viewers": 194, "followers_gained": 482, "peak_viewers": 659, "hours_streamed": 133, "streams": 20, "mature": 0, "language": "Russian", "account_age": 3464640.0}

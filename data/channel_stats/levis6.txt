@@ -1,0 +1,1 @@
+{"channel": "levis6", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 13, "hours_streamed": 25, "streams": 9, "mature": 0, "language": "Polish", "account_age": 2028960.0}

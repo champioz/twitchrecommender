@@ -1,0 +1,1 @@
+{"channel": "spektreplays", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 23, "hours_streamed": 37, "streams": 11, "mature": 1, "language": "English", "account_age": 3775680.0}

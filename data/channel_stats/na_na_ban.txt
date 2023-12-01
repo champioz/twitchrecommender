@@ -1,0 +1,1 @@
+{"channel": "na_na_ban", "avg_viewers": 7, "followers_gained": 12, "peak_viewers": 80, "hours_streamed": 59, "streams": 14, "mature": 0, "language": "Japanese", "account_age": 874080.0}

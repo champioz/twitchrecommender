@@ -1,0 +1,1 @@
+{"channel": "halipatsuinen", "avg_viewers": 8, "followers_gained": 13, "peak_viewers": 23, "hours_streamed": 23, "streams": 5, "mature": 1, "language": "Finnish", "account_age": 2255040.0}

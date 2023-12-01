@@ -1,0 +1,1 @@
+{"channel": "dramuthla", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 21, "hours_streamed": 24, "streams": 5, "mature": 0, "language": "English", "account_age": 388800.0}

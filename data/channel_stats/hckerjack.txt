@@ -1,0 +1,1 @@
+{"channel": "hckerjack", "avg_viewers": 86, "followers_gained": 270, "peak_viewers": 189, "hours_streamed": 144, "streams": 20, "mature": 1, "language": "German", "account_age": 3032640.0}

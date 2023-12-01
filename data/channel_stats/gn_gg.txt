@@ -1,0 +1,1 @@
+{"channel": "gn_gg", "avg_viewers": 1364, "followers_gained": 2924, "peak_viewers": 3872, "hours_streamed": 187, "streams": 24, "mature": 0, "language": "Russian", "account_age": 2135520.0}

@@ -1,0 +1,1 @@
+{"channel": "catopon", "avg_viewers": 22, "followers_gained": 9, "peak_viewers": 48, "hours_streamed": 46, "streams": 15, "mature": 0, "language": "Russian", "account_age": 1834560.0}

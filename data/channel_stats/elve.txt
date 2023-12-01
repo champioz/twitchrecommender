@@ -1,0 +1,1 @@
+{"channel": "elve", "avg_viewers": 9, "followers_gained": 60, "peak_viewers": 26, "hours_streamed": 79, "streams": 26, "mature": 0, "language": "English", "account_age": 1059840.0}

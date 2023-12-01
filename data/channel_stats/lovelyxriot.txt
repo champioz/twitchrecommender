@@ -1,0 +1,1 @@
+{"channel": "lovelyxriot", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 6, "hours_streamed": 17, "streams": 7, "mature": 1, "language": "English", "account_age": 1550880.0}

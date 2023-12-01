@@ -1,0 +1,1 @@
+{"channel": "vertiigogaming", "avg_viewers": 259, "followers_gained": 126, "peak_viewers": 300, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "English", "account_age": 2100960.0}

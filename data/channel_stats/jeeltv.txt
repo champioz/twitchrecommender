@@ -1,0 +1,1 @@
+{"channel": "jeeltv", "avg_viewers": 532, "followers_gained": 1707, "peak_viewers": 1306, "hours_streamed": 113, "streams": 26, "mature": 0, "language": "French", "account_age": 1844640.0}

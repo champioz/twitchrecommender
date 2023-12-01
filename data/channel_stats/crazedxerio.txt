@@ -1,0 +1,1 @@
+{"channel": "crazedxerio", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 25, "hours_streamed": 11, "streams": 4, "mature": 1, "language": "English", "account_age": 2875680.0}

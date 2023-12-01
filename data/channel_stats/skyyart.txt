@@ -1,0 +1,1 @@
+{"channel": "skyyart", "avg_viewers": 1334, "followers_gained": 6600, "peak_viewers": 4411, "hours_streamed": 84, "streams": 16, "mature": 0, "language": "French", "account_age": 2587680.0}

@@ -1,0 +1,1 @@
+{"channel": "jesterarke", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 35, "hours_streamed": 105, "streams": 12, "mature": 1, "language": "English", "account_age": 1789920.0}

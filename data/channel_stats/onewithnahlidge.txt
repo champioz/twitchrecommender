@@ -1,0 +1,1 @@
+{"channel": "onewithnahlidge", "avg_viewers": 31, "followers_gained": 258, "peak_viewers": 125, "hours_streamed": 276, "streams": 27, "mature": 1, "language": "English", "account_age": 1848960.0}

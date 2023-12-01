@@ -1,0 +1,1 @@
+{"channel": "chefstrobel", "avg_viewers": 473, "followers_gained": 3005, "peak_viewers": 2448, "hours_streamed": 114, "streams": 36, "mature": 0, "language": "German", "account_age": 1447200.0}

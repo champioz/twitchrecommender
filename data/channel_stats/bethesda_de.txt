@@ -1,0 +1,1 @@
+{"channel": "bethesda_de", "avg_viewers": 443, "followers_gained": 667, "peak_viewers": 1672, "hours_streamed": 23, "streams": 9, "mature": 1, "language": "German", "account_age": 2337120.0}

@@ -1,0 +1,1 @@
+{"channel": "unclepunk", "avg_viewers": 97, "followers_gained": 537, "peak_viewers": 3060, "hours_streamed": 80, "streams": 26, "mature": 1, "language": "English", "account_age": 1876320.0}

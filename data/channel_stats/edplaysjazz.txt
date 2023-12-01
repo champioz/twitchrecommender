@@ -1,0 +1,1 @@
+{"channel": "edplaysjazz", "avg_viewers": 15, "followers_gained": 234, "peak_viewers": 114, "hours_streamed": 189, "streams": 51, "mature": 1, "language": "English", "account_age": 956160.0}

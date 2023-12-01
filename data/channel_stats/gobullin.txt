@@ -1,0 +1,1 @@
+{"channel": "gobullin", "avg_viewers": 23, "followers_gained": 3, "peak_viewers": 67, "hours_streamed": 43, "streams": 18, "mature": 0, "language": "Korean", "account_age": 544320.0}

@@ -1,0 +1,1 @@
+{"channel": "rewcruitafriend", "avg_viewers": 13, "followers_gained": 6, "peak_viewers": 29, "hours_streamed": 17, "streams": 2, "mature": 1, "language": "English", "account_age": 1667520.0}

@@ -1,0 +1,1 @@
+{"channel": "jusniper", "avg_viewers": 1, "followers_gained": 26, "peak_viewers": 7, "hours_streamed": 35, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 816480.0}

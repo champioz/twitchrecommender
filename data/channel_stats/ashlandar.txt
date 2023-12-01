@@ -1,0 +1,1 @@
+{"channel": "ashlandar", "avg_viewers": 6, "followers_gained": 78, "peak_viewers": 15, "hours_streamed": 318, "streams": 30, "mature": 1, "language": "English", "account_age": 2527200.0}

@@ -1,0 +1,1 @@
+{"channel": "gesori_pro", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 12, "hours_streamed": 48, "streams": 13, "mature": 1, "language": "Korean", "account_age": 3192480.0}

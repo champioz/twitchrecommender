@@ -1,0 +1,1 @@
+{"channel": "drjordano", "avg_viewers": 13, "followers_gained": 144, "peak_viewers": 95, "hours_streamed": 180, "streams": 30, "mature": 0, "language": "English", "account_age": 3186720.0}

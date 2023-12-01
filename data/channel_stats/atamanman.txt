@@ -1,0 +1,1 @@
+{"channel": "atamanman", "avg_viewers": 232, "followers_gained": 1349, "peak_viewers": 580, "hours_streamed": 126, "streams": 17, "mature": 1, "language": "Japanese", "account_age": 2874240.0}

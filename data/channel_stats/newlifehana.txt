@@ -1,0 +1,1 @@
+{"channel": "newlifehana", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 9, "hours_streamed": 122, "streams": 25, "mature": 0, "language": "Chinese", "account_age": 1238400.0}

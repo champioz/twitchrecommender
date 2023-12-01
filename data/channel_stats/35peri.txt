@@ -1,0 +1,1 @@
+{"channel": "35peri", "avg_viewers": 2, "followers_gained": 93, "peak_viewers": 12, "hours_streamed": 66, "streams": 18, "mature": 0, "language": "Turkish", "account_age": 436320.0}

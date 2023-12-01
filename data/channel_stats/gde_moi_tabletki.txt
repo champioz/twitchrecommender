@@ -1,0 +1,1 @@
+{"channel": "gde_moi_tabletki", "avg_viewers": 6, "followers_gained": 0, "peak_viewers": 12, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Russian", "account_age": 4014720.0}

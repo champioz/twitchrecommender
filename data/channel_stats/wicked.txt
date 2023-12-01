@@ -1,0 +1,1 @@
+{"channel": "wicked", "avg_viewers": 45, "followers_gained": 23, "peak_viewers": 79, "hours_streamed": 25, "streams": 8, "mature": 0, "language": "English", "account_age": 1363680.0}

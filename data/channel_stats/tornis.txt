@@ -1,0 +1,1 @@
+{"channel": "tornis", "avg_viewers": 100, "followers_gained": 62, "peak_viewers": 175, "hours_streamed": 94, "streams": 19, "mature": 0, "language": "English", "account_age": 4360320.0}

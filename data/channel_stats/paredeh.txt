@@ -1,0 +1,1 @@
+{"channel": "paredeh", "avg_viewers": 2, "followers_gained": 39, "peak_viewers": 10, "hours_streamed": 68, "streams": 21, "mature": 0, "language": "Portuguese", "account_age": 656640.0}

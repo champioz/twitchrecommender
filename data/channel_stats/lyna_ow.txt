@@ -1,0 +1,1 @@
+{"channel": "lyna_ow", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 49, "hours_streamed": 32, "streams": 13, "mature": 0, "language": "English", "account_age": 3359520.0}

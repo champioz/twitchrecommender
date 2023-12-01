@@ -1,0 +1,1 @@
+{"channel": "lovelymomo", "avg_viewers": 445, "followers_gained": 530, "peak_viewers": 1612, "hours_streamed": 97, "streams": 22, "mature": 0, "language": "English", "account_age": 3384000.0}

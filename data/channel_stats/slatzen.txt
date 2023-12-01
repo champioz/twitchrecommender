@@ -1,0 +1,1 @@
+{"channel": "slatzen", "avg_viewers": 3, "followers_gained": 59, "peak_viewers": 12, "hours_streamed": 39, "streams": 12, "mature": 1, "language": "Spanish", "account_age": 684000.0}

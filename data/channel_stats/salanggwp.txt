@@ -1,0 +1,1 @@
+{"channel": "salanggwp", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 16, "streams": 14, "mature": 0, "language": "Thai", "account_age": 675360.0}

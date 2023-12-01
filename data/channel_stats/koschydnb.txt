@@ -1,0 +1,1 @@
+{"channel": "koschydnb", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 12, "hours_streamed": 78, "streams": 24, "mature": 1, "language": "German", "account_age": 1054080.0}

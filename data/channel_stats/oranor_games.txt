@@ -1,0 +1,1 @@
+{"channel": "oranor_games", "avg_viewers": 6, "followers_gained": 29, "peak_viewers": 21, "hours_streamed": 74, "streams": 14, "mature": 1, "language": "French", "account_age": 1900800.0}

@@ -1,0 +1,1 @@
+{"channel": "crale4u", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 19, "hours_streamed": 25, "streams": 7, "mature": 1, "language": "German", "account_age": 1343520.0}

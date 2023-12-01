@@ -1,0 +1,1 @@
+{"channel": "asdftyhiyh1", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 39, "hours_streamed": 71, "streams": 18, "mature": 1, "language": "Chinese", "account_age": 3931200.0}

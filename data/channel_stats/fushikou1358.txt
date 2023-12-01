@@ -1,0 +1,1 @@
+{"channel": "fushikou1358", "avg_viewers": 8, "followers_gained": 20, "peak_viewers": 24, "hours_streamed": 138, "streams": 42, "mature": 1, "language": "Chinese", "account_age": 1294560.0}

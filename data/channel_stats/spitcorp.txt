@@ -1,0 +1,1 @@
+{"channel": "spitcorp", "avg_viewers": 44, "followers_gained": 7, "peak_viewers": 56, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 3097440.0}

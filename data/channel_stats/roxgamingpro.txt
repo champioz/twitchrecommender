@@ -1,0 +1,1 @@
+{"channel": "roxgamingpro", "avg_viewers": 1844, "followers_gained": 1035, "peak_viewers": 4024, "hours_streamed": 29, "streams": 5, "mature": 0, "language": "Korean", "account_age": 856800.0}

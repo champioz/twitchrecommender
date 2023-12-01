@@ -1,0 +1,1 @@
+{"channel": "wizkay", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 20, "hours_streamed": 27, "streams": 8, "mature": 0, "language": "English", "account_age": 1486080.0}

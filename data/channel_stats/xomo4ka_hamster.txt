@@ -1,0 +1,1 @@
+{"channel": "xomo4ka_hamster", "avg_viewers": 3, "followers_gained": 22, "peak_viewers": 14, "hours_streamed": 60, "streams": 36, "mature": 0, "language": "Russian", "account_age": 105120.0}

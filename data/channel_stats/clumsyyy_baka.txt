@@ -1,0 +1,1 @@
+{"channel": "clumsyyy_baka", "avg_viewers": 108, "followers_gained": 377, "peak_viewers": 239, "hours_streamed": 61, "streams": 17, "mature": 1, "language": "German", "account_age": 1729440.0}

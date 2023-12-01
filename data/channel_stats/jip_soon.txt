@@ -1,0 +1,1 @@
+{"channel": "jip_soon", "avg_viewers": 30, "followers_gained": 8, "peak_viewers": 41, "hours_streamed": 10, "streams": 2, "mature": 0, "language": "Korean", "account_age": 416160.0}

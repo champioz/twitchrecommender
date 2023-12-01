@@ -1,0 +1,1 @@
+{"channel": "jinxpechugas", "avg_viewers": 7, "followers_gained": 31, "peak_viewers": 18, "hours_streamed": 10, "streams": 4, "mature": 1, "language": "Spanish", "account_age": 1751040.0}

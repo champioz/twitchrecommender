@@ -1,0 +1,1 @@
+{"channel": "berano", "avg_viewers": 8, "followers_gained": 8, "peak_viewers": 35, "hours_streamed": 21, "streams": 5, "mature": 1, "language": "Norwegian", "account_age": 4325760.0}

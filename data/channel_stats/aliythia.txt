@@ -1,0 +1,1 @@
+{"channel": "aliythia", "avg_viewers": 70, "followers_gained": 844, "peak_viewers": 178, "hours_streamed": 174, "streams": 21, "mature": 0, "language": "English", "account_age": 2927520.0}

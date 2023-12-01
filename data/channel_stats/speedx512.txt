@@ -1,0 +1,1 @@
+{"channel": "speedx512", "avg_viewers": 2, "followers_gained": 54, "peak_viewers": 10, "hours_streamed": 62, "streams": 18, "mature": 0, "language": "English", "account_age": 1213920.0}

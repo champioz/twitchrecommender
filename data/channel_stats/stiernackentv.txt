@@ -1,0 +1,1 @@
+{"channel": "stiernackentv", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 17, "hours_streamed": 12, "streams": 2, "mature": 1, "language": "German", "account_age": 2263680.0}

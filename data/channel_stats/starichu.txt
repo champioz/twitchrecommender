@@ -1,0 +1,1 @@
+{"channel": "starichu", "avg_viewers": 4, "followers_gained": 9, "peak_viewers": 8, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "English", "account_age": 1098720.0}

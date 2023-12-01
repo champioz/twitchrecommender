@@ -1,0 +1,1 @@
+{"channel": "marfo", "avg_viewers": 1, "followers_gained": 49, "peak_viewers": 11, "hours_streamed": 152, "streams": 42, "mature": 0, "language": "Italian", "account_age": 1487520.0}

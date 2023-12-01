@@ -1,0 +1,1 @@
+{"channel": "marcinek_tv", "avg_viewers": 3, "followers_gained": 36, "peak_viewers": 15, "hours_streamed": 125, "streams": 30, "mature": 1, "language": "Polish", "account_age": 1298880.0}

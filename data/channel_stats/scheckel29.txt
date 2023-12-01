@@ -1,0 +1,1 @@
+{"channel": "scheckel29", "avg_viewers": 9, "followers_gained": 3, "peak_viewers": 20, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "English", "account_age": 5484960.0}

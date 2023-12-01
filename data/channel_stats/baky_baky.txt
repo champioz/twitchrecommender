@@ -1,0 +1,1 @@
+{"channel": "baky_baky", "avg_viewers": 47, "followers_gained": 261, "peak_viewers": 91, "hours_streamed": 129, "streams": 29, "mature": 0, "language": "English", "account_age": 210240.0}

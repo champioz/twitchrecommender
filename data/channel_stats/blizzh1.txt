@@ -1,0 +1,1 @@
+{"channel": "blizzh1", "avg_viewers": 4, "followers_gained": 123, "peak_viewers": 35, "hours_streamed": 64, "streams": 38, "mature": 0, "language": "English", "account_age": 3723840.0}

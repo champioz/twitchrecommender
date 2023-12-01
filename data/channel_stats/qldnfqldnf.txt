@@ -1,0 +1,1 @@
+{"channel": "qldnfqldnf", "avg_viewers": 24, "followers_gained": 112, "peak_viewers": 169, "hours_streamed": 254, "streams": 26, "mature": 0, "language": "Korean", "account_age": 1288800.0}

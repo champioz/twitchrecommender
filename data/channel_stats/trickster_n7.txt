@@ -1,0 +1,1 @@
+{"channel": "trickster_n7", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 13, "streams": 8, "mature": 0, "language": "Russian", "account_age": 3123360.0}

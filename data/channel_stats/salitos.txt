@@ -1,0 +1,1 @@
+{"channel": "salitos", "avg_viewers": 2, "followers_gained": 24, "peak_viewers": 15, "hours_streamed": 142, "streams": 21, "mature": 0, "language": "German", "account_age": 1245600.0}

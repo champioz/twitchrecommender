@@ -1,0 +1,1 @@
+{"channel": "haemmertv", "avg_viewers": 2, "followers_gained": 47, "peak_viewers": 10, "hours_streamed": 58, "streams": 14, "mature": 1, "language": "German", "account_age": 2352960.0}

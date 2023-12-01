@@ -1,0 +1,1 @@
+{"channel": "fildrong", "avg_viewers": 87, "followers_gained": 268, "peak_viewers": 104, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "French", "account_age": 2249280.0}

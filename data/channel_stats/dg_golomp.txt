@@ -1,0 +1,1 @@
+{"channel": "dg_golomp", "avg_viewers": 4, "followers_gained": 96, "peak_viewers": 16, "hours_streamed": 180, "streams": 26, "mature": 0, "language": "Polish", "account_age": 750240.0}

@@ -1,0 +1,1 @@
+{"channel": "trippenson", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 38, "streams": 7, "mature": 1, "language": "English", "account_age": 3615840.0}

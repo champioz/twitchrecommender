@@ -1,0 +1,1 @@
+{"channel": "gorillajoe82", "avg_viewers": 68, "followers_gained": 104, "peak_viewers": 282, "hours_streamed": 5, "streams": 3, "mature": 1, "language": "German", "account_age": 2764800.0}

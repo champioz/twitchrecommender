@@ -1,0 +1,1 @@
+{"channel": "realgzuz", "avg_viewers": 76, "followers_gained": 0, "peak_viewers": 104, "hours_streamed": 5, "streams": 1, "mature": 1, "language": "German", "account_age": 2682720.0}

@@ -1,0 +1,1 @@
+{"channel": "cousic_", "avg_viewers": 7, "followers_gained": 33, "peak_viewers": 18, "hours_streamed": 309, "streams": 29, "mature": 0, "language": "Korean", "account_age": 205920.0}

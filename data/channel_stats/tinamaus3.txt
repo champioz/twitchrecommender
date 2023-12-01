@@ -1,0 +1,1 @@
+{"channel": "tinamaus3", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 8, "hours_streamed": 20, "streams": 14, "mature": 1, "language": "German", "account_age": 485280.0}

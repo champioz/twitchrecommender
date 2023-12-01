@@ -1,0 +1,1 @@
+{"channel": "theryab", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 10, "streams": 5, "mature": 1, "language": "Russian", "account_age": 3290400.0}

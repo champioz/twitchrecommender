@@ -1,0 +1,1 @@
+{"channel": "nostal", "avg_viewers": 56, "followers_gained": 261, "peak_viewers": 159, "hours_streamed": 114, "streams": 25, "mature": 0, "language": "French", "account_age": 1890720.0}

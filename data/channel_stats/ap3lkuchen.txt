@@ -1,0 +1,1 @@
+{"channel": "ap3lkuchen", "avg_viewers": 29, "followers_gained": 61, "peak_viewers": 67, "hours_streamed": 92, "streams": 23, "mature": 1, "language": "German", "account_age": 2789280.0}

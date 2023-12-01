@@ -1,0 +1,1 @@
+{"channel": "moroccangamingevolution", "avg_viewers": 108, "followers_gained": 138, "peak_viewers": 248, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Arabic", "account_age": 936000.0}

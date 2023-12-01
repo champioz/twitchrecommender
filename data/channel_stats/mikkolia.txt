@@ -1,0 +1,1 @@
+{"channel": "mikkolia", "avg_viewers": 6, "followers_gained": 19, "peak_viewers": 16, "hours_streamed": 59, "streams": 10, "mature": 0, "language": "English", "account_age": 3018240.0}

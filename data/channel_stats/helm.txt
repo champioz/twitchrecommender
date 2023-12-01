@@ -1,0 +1,1 @@
+{"channel": "helm", "avg_viewers": 20, "followers_gained": 83, "peak_viewers": 48, "hours_streamed": 200, "streams": 61, "mature": 0, "language": "English", "account_age": 1343520.0}

@@ -1,0 +1,1 @@
+{"channel": "bristlebearhog", "avg_viewers": 16, "followers_gained": 53, "peak_viewers": 46, "hours_streamed": 66, "streams": 18, "mature": 0, "language": "English", "account_age": 1409760.0}

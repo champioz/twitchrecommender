@@ -1,0 +1,1 @@
+{"channel": "medup", "avg_viewers": 25, "followers_gained": 335, "peak_viewers": 97, "hours_streamed": 132, "streams": 30, "mature": 1, "language": "English", "account_age": 1247040.0}

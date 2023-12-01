@@ -1,0 +1,1 @@
+{"channel": "berono91", "avg_viewers": 34, "followers_gained": 83, "peak_viewers": 78, "hours_streamed": 119, "streams": 24, "mature": 1, "language": "German", "account_age": 1490400.0}

@@ -1,0 +1,1 @@
+{"channel": "nontsu", "avg_viewers": 10, "followers_gained": 3, "peak_viewers": 21, "hours_streamed": 16, "streams": 7, "mature": 0, "language": "Japanese", "account_age": 2046240.0}

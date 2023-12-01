@@ -1,0 +1,1 @@
+{"channel": "linzbot", "avg_viewers": 29, "followers_gained": 91, "peak_viewers": 44, "hours_streamed": 8, "streams": 2, "mature": 0, "language": "English", "account_age": 4675680.0}

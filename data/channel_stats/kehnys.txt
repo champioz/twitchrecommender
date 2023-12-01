@@ -1,0 +1,1 @@
+{"channel": "kehnys", "avg_viewers": 16, "followers_gained": 448, "peak_viewers": 104, "hours_streamed": 67, "streams": 24, "mature": 0, "language": "English", "account_age": 1104480.0}

@@ -1,0 +1,1 @@
+{"channel": "bebe", "avg_viewers": 118, "followers_gained": 457, "peak_viewers": 3033, "hours_streamed": 78, "streams": 16, "mature": 1, "language": "Portuguese", "account_age": 1476000.0}

@@ -1,0 +1,1 @@
+{"channel": "keepersoftales", "avg_viewers": 15, "followers_gained": 21, "peak_viewers": 45, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "Portuguese", "account_age": 1876320.0}

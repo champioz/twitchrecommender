@@ -1,0 +1,1 @@
+{"channel": "funfirstoff", "avg_viewers": 11, "followers_gained": 45, "peak_viewers": 42, "hours_streamed": 107, "streams": 40, "mature": 0, "language": "Russian", "account_age": 1031040.0}

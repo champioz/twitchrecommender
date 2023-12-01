@@ -1,0 +1,1 @@
+{"channel": "killerno7", "avg_viewers": 17, "followers_gained": 65, "peak_viewers": 54, "hours_streamed": 15, "streams": 6, "mature": 0, "language": "German", "account_age": 3718080.0}

@@ -1,0 +1,1 @@
+{"channel": "splucy", "avg_viewers": 12, "followers_gained": 152, "peak_viewers": 28, "hours_streamed": 65, "streams": 21, "mature": 0, "language": "English", "account_age": 852480.0}

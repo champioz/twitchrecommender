@@ -1,0 +1,1 @@
+{"channel": "deligracy", "avg_viewers": 536, "followers_gained": 128, "peak_viewers": 653, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "English", "account_age": 3064320.0}

@@ -1,0 +1,1 @@
+{"channel": "jacksxwolf", "avg_viewers": 3, "followers_gained": 23, "peak_viewers": 9, "hours_streamed": 47, "streams": 22, "mature": 1, "language": "Spanish", "account_age": 221760.0}

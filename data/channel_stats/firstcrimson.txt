@@ -1,0 +1,1 @@
+{"channel": "firstcrimson", "avg_viewers": 34, "followers_gained": 271, "peak_viewers": 101, "hours_streamed": 130, "streams": 26, "mature": 1, "language": "English", "account_age": 4360320.0}

@@ -1,0 +1,1 @@
+{"channel": "varvarionok", "avg_viewers": 168, "followers_gained": 901, "peak_viewers": 274, "hours_streamed": 35, "streams": 9, "mature": 1, "language": "Russian", "account_age": 1761120.0}

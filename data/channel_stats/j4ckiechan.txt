@@ -1,0 +1,1 @@
+{"channel": "j4ckiechan", "avg_viewers": 306, "followers_gained": 376, "peak_viewers": 2087, "hours_streamed": 221, "streams": 29, "mature": 0, "language": "English", "account_age": 2185920.0}

@@ -1,0 +1,1 @@
+{"channel": "stupidsecksyflanders", "avg_viewers": 8, "followers_gained": 21, "peak_viewers": 120, "hours_streamed": 58, "streams": 14, "mature": 0, "language": "English", "account_age": 2160000.0}

@@ -1,0 +1,1 @@
+{"channel": "myun", "avg_viewers": 91, "followers_gained": 375, "peak_viewers": 176, "hours_streamed": 93, "streams": 24, "mature": 1, "language": "German", "account_age": 1637280.0}

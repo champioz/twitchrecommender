@@ -1,0 +1,1 @@
+{"channel": "ayarillex", "avg_viewers": 13, "followers_gained": 1, "peak_viewers": 27, "hours_streamed": 12, "streams": 8, "mature": 0, "language": "Japanese", "account_age": 1638720.0}

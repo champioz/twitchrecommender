@@ -1,0 +1,1 @@
+{"channel": "fujitorahs", "avg_viewers": 92, "followers_gained": 3409, "peak_viewers": 455, "hours_streamed": 152, "streams": 39, "mature": 0, "language": "Turkish", "account_age": 2459520.0}

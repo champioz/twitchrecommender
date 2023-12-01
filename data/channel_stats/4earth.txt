@@ -1,0 +1,1 @@
+{"channel": "4earth", "avg_viewers": 6, "followers_gained": 120, "peak_viewers": 15, "hours_streamed": 68, "streams": 19, "mature": 0, "language": "English", "account_age": 1353600.0}

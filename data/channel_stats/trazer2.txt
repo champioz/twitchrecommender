@@ -1,0 +1,1 @@
+{"channel": "trazer2", "avg_viewers": 32, "followers_gained": 1, "peak_viewers": 39, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Polish", "account_age": 2115360.0}

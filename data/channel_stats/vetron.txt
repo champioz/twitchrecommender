@@ -1,0 +1,1 @@
+{"channel": "vetron", "avg_viewers": 20, "followers_gained": 48, "peak_viewers": 69, "hours_streamed": 34, "streams": 11, "mature": 0, "language": "Spanish", "account_age": 1484640.0}

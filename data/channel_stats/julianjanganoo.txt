@@ -1,0 +1,1 @@
+{"channel": "julianjanganoo", "avg_viewers": 42, "followers_gained": 173, "peak_viewers": 84, "hours_streamed": 94, "streams": 23, "mature": 0, "language": "English", "account_age": 3192480.0}

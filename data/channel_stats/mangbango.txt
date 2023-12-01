@@ -1,0 +1,1 @@
+{"channel": "mangbango", "avg_viewers": 16, "followers_gained": 9, "peak_viewers": 38, "hours_streamed": 9, "streams": 2, "mature": 0, "language": "English", "account_age": 1274400.0}

@@ -1,0 +1,1 @@
+{"channel": "frostball99", "avg_viewers": 1, "followers_gained": 50, "peak_viewers": 19, "hours_streamed": 137, "streams": 36, "mature": 1, "language": "English", "account_age": 2774880.0}

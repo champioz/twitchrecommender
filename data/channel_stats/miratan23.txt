@@ -1,0 +1,1 @@
+{"channel": "miratan23", "avg_viewers": 34, "followers_gained": 413, "peak_viewers": 621, "hours_streamed": 79, "streams": 21, "mature": 1, "language": "Russian", "account_age": 2072160.0}

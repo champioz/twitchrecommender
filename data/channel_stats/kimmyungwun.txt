@@ -1,0 +1,1 @@
+{"channel": "kimmyungwun", "avg_viewers": 28, "followers_gained": 182, "peak_viewers": 69, "hours_streamed": 198, "streams": 31, "mature": 0, "language": "Korean", "account_age": 534240.0}

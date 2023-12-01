@@ -1,0 +1,1 @@
+{"channel": "h0bbitzce", "avg_viewers": 143, "followers_gained": 1767, "peak_viewers": 529, "hours_streamed": 88, "streams": 28, "mature": 0, "language": "Russian", "account_age": 2858400.0}

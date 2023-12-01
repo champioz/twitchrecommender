@@ -1,0 +1,1 @@
+{"channel": "galeas86", "avg_viewers": 17, "followers_gained": 13, "peak_viewers": 104, "hours_streamed": 27, "streams": 15, "mature": 1, "language": "Spanish", "account_age": 868320.0}

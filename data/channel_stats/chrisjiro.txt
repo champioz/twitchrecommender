@@ -1,0 +1,1 @@
+{"channel": "chrisjiro", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "English", "account_age": 2273760.0}

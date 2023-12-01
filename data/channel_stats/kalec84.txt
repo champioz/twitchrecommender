@@ -1,0 +1,1 @@
+{"channel": "kalec84", "avg_viewers": 8, "followers_gained": 13, "peak_viewers": 24, "hours_streamed": 34, "streams": 13, "mature": 1, "language": "Italian", "account_age": 3342240.0}

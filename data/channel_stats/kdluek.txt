@@ -1,0 +1,1 @@
+{"channel": "kdluek", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 15, "streams": 10, "mature": 0, "language": "English", "account_age": 2953440.0}

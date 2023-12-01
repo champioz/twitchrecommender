@@ -1,0 +1,1 @@
+{"channel": "xeraphy1", "avg_viewers": 41, "followers_gained": 46, "peak_viewers": 91, "hours_streamed": 31, "streams": 13, "mature": 0, "language": "Japanese", "account_age": 1627200.0}

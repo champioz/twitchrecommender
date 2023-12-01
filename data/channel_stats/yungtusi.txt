@@ -1,0 +1,1 @@
+{"channel": "yungtusi", "avg_viewers": 77, "followers_gained": 332, "peak_viewers": 207, "hours_streamed": 41, "streams": 13, "mature": 0, "language": "Czech", "account_age": 1329120.0}

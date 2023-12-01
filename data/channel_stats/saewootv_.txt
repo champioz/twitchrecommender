@@ -1,0 +1,1 @@
+{"channel": "saewootv_", "avg_viewers": 68, "followers_gained": 123, "peak_viewers": 372, "hours_streamed": 145, "streams": 32, "mature": 0, "language": "Korean", "account_age": 1389600.0}

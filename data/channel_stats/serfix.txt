@@ -1,0 +1,1 @@
+{"channel": "serfix", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 22, "streams": 13, "mature": 0, "language": "Finnish", "account_age": 3899520.0}

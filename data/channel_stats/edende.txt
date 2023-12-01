@@ -1,0 +1,1 @@
+{"channel": "edende", "avg_viewers": 30, "followers_gained": 13, "peak_viewers": 95, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "English", "account_age": 387360.0}

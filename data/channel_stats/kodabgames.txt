@@ -1,0 +1,1 @@
+{"channel": "kodabgames", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 8, "hours_streamed": 59, "streams": 29, "mature": 1, "language": "English", "account_age": 699840.0}

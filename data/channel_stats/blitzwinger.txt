@@ -1,0 +1,1 @@
+{"channel": "blitzwinger", "avg_viewers": 44, "followers_gained": 355, "peak_viewers": 98, "hours_streamed": 44, "streams": 23, "mature": 0, "language": "English", "account_age": 3335040.0}

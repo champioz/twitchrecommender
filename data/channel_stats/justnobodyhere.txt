@@ -1,0 +1,1 @@
+{"channel": "justnobodyhere", "avg_viewers": 6, "followers_gained": 10, "peak_viewers": 15, "hours_streamed": 68, "streams": 18, "mature": 0, "language": "English", "account_age": 1756800.0}

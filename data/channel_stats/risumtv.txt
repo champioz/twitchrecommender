@@ -1,0 +1,1 @@
+{"channel": "risumtv", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 50, "streams": 14, "mature": 0, "language": "Russian", "account_age": 1080000.0}

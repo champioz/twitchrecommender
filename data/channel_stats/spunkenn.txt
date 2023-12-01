@@ -1,0 +1,1 @@
+{"channel": "spunkenn", "avg_viewers": 112, "followers_gained": 508, "peak_viewers": 265, "hours_streamed": 95, "streams": 15, "mature": 1, "language": "Swedish", "account_age": 2757600.0}

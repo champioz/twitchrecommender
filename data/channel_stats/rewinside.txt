@@ -1,0 +1,1 @@
+{"channel": "rewinside", "avg_viewers": 903, "followers_gained": 8517, "peak_viewers": 2033, "hours_streamed": 42, "streams": 14, "mature": 0, "language": "German", "account_age": 3160800.0}

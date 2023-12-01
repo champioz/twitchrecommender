@@ -1,0 +1,1 @@
+{"channel": "scydota", "avg_viewers": 92, "followers_gained": 97, "peak_viewers": 229, "hours_streamed": 25, "streams": 6, "mature": 0, "language": "Turkish", "account_age": 2486880.0}

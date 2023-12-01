@@ -1,0 +1,1 @@
+{"channel": "tourneylocator", "avg_viewers": 3918, "followers_gained": 12203, "peak_viewers": 29372, "hours_streamed": 67, "streams": 11, "mature": 0, "language": "English", "account_age": 2941920.0}

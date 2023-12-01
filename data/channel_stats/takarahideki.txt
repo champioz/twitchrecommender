@@ -1,0 +1,1 @@
+{"channel": "takarahideki", "avg_viewers": 35, "followers_gained": 0, "peak_viewers": 218, "hours_streamed": 14, "streams": 3, "mature": 0, "language": "Chinese", "account_age": 2234880.0}

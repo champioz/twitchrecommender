@@ -1,0 +1,1 @@
+{"channel": "nina_ito", "avg_viewers": 10, "followers_gained": 81, "peak_viewers": 32, "hours_streamed": 87, "streams": 29, "mature": 1, "language": "French", "account_age": 1729440.0}

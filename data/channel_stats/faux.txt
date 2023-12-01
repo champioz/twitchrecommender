@@ -1,0 +1,1 @@
+{"channel": "faux", "avg_viewers": 939, "followers_gained": 876, "peak_viewers": 1552, "hours_streamed": 111, "streams": 17, "mature": 0, "language": "English", "account_age": 3371040.0}

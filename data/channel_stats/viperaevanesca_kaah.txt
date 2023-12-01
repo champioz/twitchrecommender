@@ -1,0 +1,1 @@
+{"channel": "viperaevanesca_kaah", "avg_viewers": 5, "followers_gained": 56, "peak_viewers": 15, "hours_streamed": 39, "streams": 8, "mature": 0, "language": "Portuguese", "account_age": 453600.0}

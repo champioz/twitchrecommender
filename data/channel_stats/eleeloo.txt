@@ -1,0 +1,1 @@
+{"channel": "eleeloo", "avg_viewers": 4, "followers_gained": 13, "peak_viewers": 13, "hours_streamed": 16, "streams": 5, "mature": 1, "language": "English", "account_age": 974880.0}

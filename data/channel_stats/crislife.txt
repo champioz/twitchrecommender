@@ -1,0 +1,1 @@
+{"channel": "crislife", "avg_viewers": 25, "followers_gained": 247, "peak_viewers": 108, "hours_streamed": 63, "streams": 14, "mature": 1, "language": "Spanish", "account_age": 1432800.0}

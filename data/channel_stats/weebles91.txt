@@ -1,0 +1,1 @@
+{"channel": "weebles91", "avg_viewers": 24, "followers_gained": 6, "peak_viewers": 45, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "English", "account_age": 3139200.0}

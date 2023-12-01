@@ -1,0 +1,1 @@
+{"channel": "theladyeaves", "avg_viewers": 12, "followers_gained": 33, "peak_viewers": 31, "hours_streamed": 46, "streams": 13, "mature": 0, "language": "English", "account_age": 2083680.0}

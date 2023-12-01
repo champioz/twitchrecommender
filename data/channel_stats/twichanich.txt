@@ -1,0 +1,1 @@
+{"channel": "twichanich", "avg_viewers": 5, "followers_gained": 11, "peak_viewers": 10, "hours_streamed": 11, "streams": 5, "mature": 0, "language": "Russian", "account_age": 2488320.0}

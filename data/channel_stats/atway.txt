@@ -1,0 +1,1 @@
+{"channel": "atway", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 26, "streams": 11, "mature": 0, "language": "Russian", "account_age": 3176640.0}

@@ -1,0 +1,1 @@
+{"channel": "trasty", "avg_viewers": 5, "followers_gained": 149, "peak_viewers": 19, "hours_streamed": 202, "streams": 38, "mature": 0, "language": "Czech", "account_age": 1739520.0}

@@ -1,0 +1,1 @@
+{"channel": "neanderthalgamingtv", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 14, "hours_streamed": 60, "streams": 23, "mature": 1, "language": "English", "account_age": 3738240.0}

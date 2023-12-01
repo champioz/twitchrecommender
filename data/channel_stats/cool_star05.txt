@@ -1,0 +1,1 @@
+{"channel": "cool_star05", "avg_viewers": 24, "followers_gained": 190, "peak_viewers": 73, "hours_streamed": 76, "streams": 16, "mature": 0, "language": "English", "account_age": 1764000.0}

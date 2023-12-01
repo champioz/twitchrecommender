@@ -1,0 +1,1 @@
+{"channel": "denissnidertv", "avg_viewers": 306, "followers_gained": 800, "peak_viewers": 4445, "hours_streamed": 283, "streams": 33, "mature": 1, "language": "Portuguese", "account_age": 3641760.0}

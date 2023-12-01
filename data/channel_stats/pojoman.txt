@@ -1,0 +1,1 @@
+{"channel": "pojoman", "avg_viewers": 181, "followers_gained": 1448, "peak_viewers": 649, "hours_streamed": 32, "streams": 8, "mature": 0, "language": "English", "account_age": 3653280.0}

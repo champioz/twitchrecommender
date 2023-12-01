@@ -1,0 +1,1 @@
+{"channel": "xavijan", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 114, "streams": 78, "mature": 1, "language": "Spanish", "account_age": 2992320.0}

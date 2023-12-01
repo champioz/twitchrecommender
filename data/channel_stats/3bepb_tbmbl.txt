@@ -1,0 +1,1 @@
+{"channel": "3bepb_tbmbl", "avg_viewers": 16, "followers_gained": 21, "peak_viewers": 44, "hours_streamed": 173, "streams": 26, "mature": 1, "language": "Russian", "account_age": 3405600.0}

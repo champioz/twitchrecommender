@@ -1,0 +1,1 @@
+{"channel": "f1rstrock", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 7, "hours_streamed": 4, "streams": 4, "mature": 0, "language": "Russian", "account_age": 2197440.0}

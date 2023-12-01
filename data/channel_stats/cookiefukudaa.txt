@@ -1,0 +1,1 @@
+{"channel": "cookiefukudaa", "avg_viewers": 15, "followers_gained": 597, "peak_viewers": 51, "hours_streamed": 157, "streams": 27, "mature": 1, "language": "Portuguese", "account_age": 538560.0}

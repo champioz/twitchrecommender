@@ -1,0 +1,1 @@
+{"channel": "ceydaen", "avg_viewers": 39, "followers_gained": 1, "peak_viewers": 97, "hours_streamed": 67, "streams": 13, "mature": 1, "language": "German", "account_age": 1634400.0}

@@ -1,0 +1,1 @@
+{"channel": "bilker", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 14, "streams": 7, "mature": 1, "language": "German", "account_age": 2983680.0}

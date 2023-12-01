@@ -1,0 +1,1 @@
+{"channel": "lark_lounge", "avg_viewers": 4, "followers_gained": 38, "peak_viewers": 20, "hours_streamed": 47, "streams": 17, "mature": 0, "language": "English", "account_age": 1843200.0}

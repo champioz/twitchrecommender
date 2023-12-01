@@ -1,0 +1,1 @@
+{"channel": "bornzu", "avg_viewers": 3, "followers_gained": 53, "peak_viewers": 17, "hours_streamed": 180, "streams": 36, "mature": 1, "language": "English", "account_age": 3228480.0}

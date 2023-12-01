@@ -1,0 +1,1 @@
+{"channel": "notswft", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 11, "hours_streamed": 4, "streams": 6, "mature": 1, "language": "English", "account_age": 2964960.0}

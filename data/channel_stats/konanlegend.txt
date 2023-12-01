@@ -1,0 +1,1 @@
+{"channel": "konanlegend", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 16, "hours_streamed": 2, "streams": 3, "mature": 0, "language": "Portuguese", "account_age": 3349440.0}

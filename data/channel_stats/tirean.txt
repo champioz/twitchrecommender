@@ -1,0 +1,1 @@
+{"channel": "tirean", "avg_viewers": 102, "followers_gained": 160, "peak_viewers": 213, "hours_streamed": 95, "streams": 20, "mature": 0, "language": "English", "account_age": 4430880.0}

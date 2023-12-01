@@ -1,0 +1,1 @@
+{"channel": "winged_shellbh", "avg_viewers": 10, "followers_gained": 28, "peak_viewers": 29, "hours_streamed": 6, "streams": 1, "mature": 0, "language": "English", "account_age": 3260160.0}

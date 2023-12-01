@@ -1,0 +1,1 @@
+{"channel": "vcruxify_god_", "avg_viewers": 33, "followers_gained": 105, "peak_viewers": 103, "hours_streamed": 14, "streams": 10, "mature": 1, "language": "English", "account_age": 927360.0}

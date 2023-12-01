@@ -1,0 +1,1 @@
+{"channel": "envor3", "avg_viewers": 3, "followers_gained": 31, "peak_viewers": 48, "hours_streamed": 157, "streams": 70, "mature": 1, "language": "English", "account_age": 2010240.0}

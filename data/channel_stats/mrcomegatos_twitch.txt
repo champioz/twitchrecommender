@@ -1,0 +1,1 @@
+{"channel": "mrcomegatos_twitch", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 311040.0}

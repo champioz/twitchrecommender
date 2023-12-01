@@ -1,0 +1,1 @@
+{"channel": "deadmeat888", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 8, "hours_streamed": 57, "streams": 21, "mature": 1, "language": "English", "account_age": 2507040.0}

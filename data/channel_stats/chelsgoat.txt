@@ -1,0 +1,1 @@
+{"channel": "chelsgoat", "avg_viewers": 29, "followers_gained": 29, "peak_viewers": 128, "hours_streamed": 57, "streams": 13, "mature": 0, "language": "English", "account_age": 2531520.0}

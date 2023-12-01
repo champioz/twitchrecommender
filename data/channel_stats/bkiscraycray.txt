@@ -1,0 +1,1 @@
+{"channel": "bkiscraycray", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "English", "account_age": 718560.0}

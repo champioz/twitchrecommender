@@ -1,0 +1,1 @@
+{"channel": "dinizqt", "avg_viewers": 3, "followers_gained": 37, "peak_viewers": 12, "hours_streamed": 115, "streams": 26, "mature": 1, "language": "Portuguese", "account_age": 2548800.0}

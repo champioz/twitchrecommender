@@ -1,0 +1,1 @@
+{"channel": "pojken", "avg_viewers": 124, "followers_gained": 98, "peak_viewers": 286, "hours_streamed": 160, "streams": 25, "mature": 1, "language": "Swedish", "account_age": 4204800.0}

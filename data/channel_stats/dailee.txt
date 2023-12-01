@@ -1,0 +1,1 @@
+{"channel": "dailee", "avg_viewers": 60, "followers_gained": 131, "peak_viewers": 194, "hours_streamed": 24, "streams": 12, "mature": 0, "language": "English", "account_age": 3565440.0}

@@ -1,0 +1,1 @@
+{"channel": "turnsta", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 11, "hours_streamed": 19, "streams": 6, "mature": 0, "language": "English", "account_age": 3805920.0}

@@ -1,0 +1,1 @@
+{"channel": "awei_tw", "avg_viewers": 7, "followers_gained": 29, "peak_viewers": 24, "hours_streamed": 128, "streams": 19, "mature": 0, "language": "Chinese", "account_age": 3689280.0}

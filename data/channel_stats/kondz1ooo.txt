@@ -1,0 +1,1 @@
+{"channel": "kondz1ooo", "avg_viewers": 0, "followers_gained": 36, "peak_viewers": 12, "hours_streamed": 93, "streams": 32, "mature": 0, "language": "Polish", "account_age": 1900800.0}

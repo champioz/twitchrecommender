@@ -1,0 +1,1 @@
+{"channel": "chikahilt", "avg_viewers": 21, "followers_gained": 18, "peak_viewers": 77, "hours_streamed": 16, "streams": 7, "mature": 0, "language": "Japanese", "account_age": 3767040.0}

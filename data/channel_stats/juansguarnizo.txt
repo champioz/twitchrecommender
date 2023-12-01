@@ -1,0 +1,1 @@
+{"channel": "juansguarnizo", "avg_viewers": 1871, "followers_gained": 25835, "peak_viewers": 8020, "hours_streamed": 105, "streams": 22, "mature": 0, "language": "Spanish", "account_age": 1739520.0}

@@ -1,0 +1,1 @@
+{"channel": "nikkisariot", "avg_viewers": 563, "followers_gained": 2535, "peak_viewers": 1482, "hours_streamed": 153, "streams": 25, "mature": 0, "language": "English", "account_age": 3123360.0}

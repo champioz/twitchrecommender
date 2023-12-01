@@ -1,0 +1,1 @@
+{"channel": "ninjamonkey0169", "avg_viewers": 34, "followers_gained": 86, "peak_viewers": 326, "hours_streamed": 130, "streams": 43, "mature": 0, "language": "English", "account_age": 2494080.0}

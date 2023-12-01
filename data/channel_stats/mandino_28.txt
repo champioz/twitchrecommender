@@ -1,0 +1,1 @@
+{"channel": "mandino_28", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 13, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "Portuguese", "account_age": 695520.0}

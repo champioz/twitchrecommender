@@ -1,0 +1,1 @@
+{"channel": "15maki", "avg_viewers": 11, "followers_gained": 36, "peak_viewers": 20, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "Japanese", "account_age": 1156320.0}

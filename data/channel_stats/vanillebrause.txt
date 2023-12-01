@@ -1,0 +1,1 @@
+{"channel": "vanillebrause", "avg_viewers": 17, "followers_gained": 46, "peak_viewers": 129, "hours_streamed": 51, "streams": 12, "mature": 1, "language": "German", "account_age": 2108160.0}

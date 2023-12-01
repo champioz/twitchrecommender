@@ -1,0 +1,1 @@
+{"channel": "preyzao", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 7, "streams": 5, "mature": 0, "language": "Portuguese", "account_age": 1306080.0}

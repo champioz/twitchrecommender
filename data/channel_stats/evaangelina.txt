@@ -1,0 +1,1 @@
+{"channel": "evaangelina", "avg_viewers": 44, "followers_gained": 187, "peak_viewers": 104, "hours_streamed": 40, "streams": 13, "mature": 1, "language": "Turkish", "account_age": 534240.0}

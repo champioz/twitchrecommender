@@ -1,0 +1,1 @@
+{"channel": "kasinglol", "avg_viewers": 63, "followers_gained": 38, "peak_viewers": 196, "hours_streamed": 57, "streams": 19, "mature": 0, "language": "English", "account_age": 3791520.0}

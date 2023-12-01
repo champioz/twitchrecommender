@@ -1,0 +1,1 @@
+{"channel": "druvik_", "avg_viewers": 48, "followers_gained": 148, "peak_viewers": 232, "hours_streamed": 41, "streams": 13, "mature": 0, "language": "Polish", "account_age": 391680.0}

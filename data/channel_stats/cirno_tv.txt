@@ -1,0 +1,1 @@
+{"channel": "cirno_tv", "avg_viewers": 794, "followers_gained": 106, "peak_viewers": 1519, "hours_streamed": 146, "streams": 21, "mature": 0, "language": "English", "account_age": 4148640.0}

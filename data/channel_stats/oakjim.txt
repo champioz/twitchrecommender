@@ -1,0 +1,1 @@
+{"channel": "oakjim", "avg_viewers": 13, "followers_gained": 10, "peak_viewers": 25, "hours_streamed": 26, "streams": 6, "mature": 1, "language": "Danish", "account_age": 3294720.0}

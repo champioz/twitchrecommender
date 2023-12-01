@@ -1,0 +1,1 @@
+{"channel": "haljeossi", "avg_viewers": 152, "followers_gained": 44, "peak_viewers": 304, "hours_streamed": 126, "streams": 24, "mature": 0, "language": "Korean", "account_age": 941760.0}

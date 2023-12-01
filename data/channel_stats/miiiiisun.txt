@@ -1,0 +1,1 @@
+{"channel": "miiiiisun", "avg_viewers": 12, "followers_gained": 14, "peak_viewers": 28, "hours_streamed": 31, "streams": 7, "mature": 0, "language": "Japanese", "account_age": 646560.0}

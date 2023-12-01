@@ -1,0 +1,1 @@
+{"channel": "bagzey_", "avg_viewers": 3, "followers_gained": 31, "peak_viewers": 9, "hours_streamed": 54, "streams": 27, "mature": 0, "language": "English", "account_age": 635040.0}

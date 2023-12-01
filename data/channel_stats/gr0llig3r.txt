@@ -1,0 +1,1 @@
+{"channel": "gr0llig3r", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 9, "hours_streamed": 20, "streams": 6, "mature": 1, "language": "German", "account_age": 2427840.0}

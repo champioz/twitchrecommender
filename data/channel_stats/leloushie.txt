@@ -1,0 +1,1 @@
+{"channel": "leloushie", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 12, "streams": 4, "mature": 0, "language": "English", "account_age": 3503520.0}

@@ -1,0 +1,1 @@
+{"channel": "mordocaiswe", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 24, "hours_streamed": 76, "streams": 25, "mature": 1, "language": "English", "account_age": 3761280.0}

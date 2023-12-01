@@ -1,0 +1,1 @@
+{"channel": "lucas_amg320", "avg_viewers": 103, "followers_gained": 18, "peak_viewers": 208, "hours_streamed": 100, "streams": 20, "mature": 0, "language": "Chinese", "account_age": 2412000.0}

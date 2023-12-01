@@ -1,0 +1,1 @@
+{"channel": "oyatsu", "avg_viewers": 124, "followers_gained": 39, "peak_viewers": 246, "hours_streamed": 30, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 1118880.0}

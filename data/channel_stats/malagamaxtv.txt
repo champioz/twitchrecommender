@@ -1,0 +1,1 @@
+{"channel": "malagamaxtv", "avg_viewers": 33, "followers_gained": 675, "peak_viewers": 79, "hours_streamed": 40, "streams": 28, "mature": 0, "language": "German", "account_age": 623520.0}

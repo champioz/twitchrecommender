@@ -1,0 +1,1 @@
+{"channel": "itzhottacos", "avg_viewers": 5, "followers_gained": 8, "peak_viewers": 15, "hours_streamed": 83, "streams": 22, "mature": 1, "language": "English", "account_age": 1700640.0}

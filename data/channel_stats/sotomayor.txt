@@ -1,0 +1,1 @@
+{"channel": "sotomayor", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 10, "hours_streamed": 145, "streams": 44, "mature": 1, "language": "Spanish", "account_age": 2260800.0}

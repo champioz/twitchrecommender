@@ -1,0 +1,1 @@
+{"channel": "fuzzy", "avg_viewers": 8, "followers_gained": 2, "peak_viewers": 19, "hours_streamed": 16, "streams": 6, "mature": 0, "language": "Finnish", "account_age": 2692800.0}

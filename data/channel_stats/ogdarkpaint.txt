@@ -1,0 +1,1 @@
+{"channel": "ogdarkpaint", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 73, "streams": 29, "mature": 0, "language": "English", "account_age": 2393280.0}

@@ -1,0 +1,1 @@
+{"channel": "h0weird", "avg_viewers": 0, "followers_gained": 23, "peak_viewers": 10, "hours_streamed": 26, "streams": 19, "mature": 1, "language": "English", "account_age": 807840.0}

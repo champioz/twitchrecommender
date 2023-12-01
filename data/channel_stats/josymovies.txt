@@ -1,0 +1,1 @@
+{"channel": "josymovies", "avg_viewers": 78, "followers_gained": 440, "peak_viewers": 446, "hours_streamed": 93, "streams": 16, "mature": 0, "language": "German", "account_age": 2620800.0}

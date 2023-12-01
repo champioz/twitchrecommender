@@ -1,0 +1,1 @@
+{"channel": "yanchila1", "avg_viewers": 2, "followers_gained": 13, "peak_viewers": 9, "hours_streamed": 138, "streams": 29, "mature": 0, "language": "Russian", "account_age": 1189440.0}

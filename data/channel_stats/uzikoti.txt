@@ -1,0 +1,1 @@
+{"channel": "uzikoti", "avg_viewers": 18, "followers_gained": 14, "peak_viewers": 39, "hours_streamed": 20, "streams": 7, "mature": 0, "language": "French", "account_age": 1974240.0}

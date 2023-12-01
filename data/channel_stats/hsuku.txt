@@ -1,0 +1,1 @@
+{"channel": "hsuku", "avg_viewers": 17, "followers_gained": 11, "peak_viewers": 72, "hours_streamed": 142, "streams": 32, "mature": 0, "language": "English", "account_age": 3618720.0}

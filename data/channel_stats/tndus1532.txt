@@ -1,0 +1,1 @@
+{"channel": "tndus1532", "avg_viewers": 27, "followers_gained": 59, "peak_viewers": 66, "hours_streamed": 102, "streams": 27, "mature": 0, "language": "Korean", "account_age": 761760.0}

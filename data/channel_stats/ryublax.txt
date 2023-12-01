@@ -1,0 +1,1 @@
+{"channel": "ryublax", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 9, "streams": 3, "mature": 1, "language": "Spanish", "account_age": 555840.0}

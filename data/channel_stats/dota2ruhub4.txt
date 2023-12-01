@@ -1,0 +1,1 @@
+{"channel": "dota2ruhub4", "avg_viewers": 1244, "followers_gained": 1301, "peak_viewers": 4081, "hours_streamed": 33, "streams": 5, "mature": 0, "language": "Russian", "account_age": 2064960.0}

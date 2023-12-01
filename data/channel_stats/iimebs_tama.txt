@@ -1,0 +1,1 @@
+{"channel": "iimebs_tama", "avg_viewers": 171, "followers_gained": 4282, "peak_viewers": 689, "hours_streamed": 229, "streams": 24, "mature": 0, "language": "Thai", "account_age": 1539360.0}

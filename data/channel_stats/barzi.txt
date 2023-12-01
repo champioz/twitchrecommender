@@ -1,0 +1,1 @@
+{"channel": "barzi", "avg_viewers": 22, "followers_gained": 443, "peak_viewers": 86, "hours_streamed": 56, "streams": 12, "mature": 0, "language": "Arabic", "account_age": 1360800.0}

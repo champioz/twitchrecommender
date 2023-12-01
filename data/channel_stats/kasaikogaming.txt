@@ -1,0 +1,1 @@
+{"channel": "kasaikogaming", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 13, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "Arabic", "account_age": 2201760.0}

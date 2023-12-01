@@ -1,0 +1,1 @@
+{"channel": "remakeltwitch", "avg_viewers": 15, "followers_gained": 16, "peak_viewers": 24, "hours_streamed": 25, "streams": 10, "mature": 1, "language": "Russian", "account_age": 2763360.0}

@@ -1,0 +1,1 @@
+{"channel": "exoticmtg", "avg_viewers": 13, "followers_gained": 1, "peak_viewers": 27, "hours_streamed": 27, "streams": 9, "mature": 0, "language": "English", "account_age": 812160.0}

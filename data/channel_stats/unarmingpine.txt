@@ -1,0 +1,1 @@
+{"channel": "unarmingpine", "avg_viewers": 108, "followers_gained": 190, "peak_viewers": 175, "hours_streamed": 70, "streams": 17, "mature": 0, "language": "English", "account_age": 2198880.0}

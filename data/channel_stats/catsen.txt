@@ -1,0 +1,1 @@
+{"channel": "catsen", "avg_viewers": 163, "followers_gained": 2475, "peak_viewers": 487, "hours_streamed": 107, "streams": 25, "mature": 0, "language": "English", "account_age": 718560.0}

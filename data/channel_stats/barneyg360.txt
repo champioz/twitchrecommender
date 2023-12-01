@@ -1,0 +1,1 @@
+{"channel": "barneyg360", "avg_viewers": 12, "followers_gained": 69, "peak_viewers": 41, "hours_streamed": 77, "streams": 12, "mature": 1, "language": "German", "account_age": 931680.0}

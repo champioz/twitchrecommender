@@ -1,0 +1,1 @@
+{"channel": "p4gliuz", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 9, "hours_streamed": 110, "streams": 23, "mature": 1, "language": "Italian", "account_age": 1428480.0}

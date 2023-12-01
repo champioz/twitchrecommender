@@ -1,0 +1,1 @@
+{"channel": "testyapiyom", "avg_viewers": 38, "followers_gained": 121, "peak_viewers": 134, "hours_streamed": 18, "streams": 5, "mature": 0, "language": "Turkish", "account_age": 551520.0}

@@ -1,0 +1,1 @@
+{"channel": "kennabe", "avg_viewers": 10, "followers_gained": 5, "peak_viewers": 51, "hours_streamed": 31, "streams": 18, "mature": 0, "language": "Japanese", "account_age": 751680.0}

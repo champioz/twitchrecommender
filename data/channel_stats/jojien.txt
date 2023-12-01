@@ -1,0 +1,1 @@
+{"channel": "jojien", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 2, "hours_streamed": 10, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 3343680.0}

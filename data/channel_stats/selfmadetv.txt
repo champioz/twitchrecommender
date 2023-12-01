@@ -1,0 +1,1 @@
+{"channel": "selfmadetv", "avg_viewers": 288, "followers_gained": 3526, "peak_viewers": 1549, "hours_streamed": 216, "streams": 29, "mature": 1, "language": "German", "account_age": 1150560.0}

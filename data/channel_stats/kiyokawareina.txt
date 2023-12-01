@@ -1,0 +1,1 @@
+{"channel": "kiyokawareina", "avg_viewers": 22, "followers_gained": 0, "peak_viewers": 22, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "Japanese", "account_age": 404640.0}

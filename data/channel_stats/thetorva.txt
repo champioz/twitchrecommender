@@ -1,0 +1,1 @@
+{"channel": "thetorva", "avg_viewers": 15, "followers_gained": 154, "peak_viewers": 65, "hours_streamed": 75, "streams": 21, "mature": 0, "language": "Arabic", "account_age": 2373120.0}

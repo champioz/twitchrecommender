@@ -1,0 +1,1 @@
+{"channel": "potter_plays", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 10, "streams": 8, "mature": 0, "language": "English", "account_age": 2028960.0}

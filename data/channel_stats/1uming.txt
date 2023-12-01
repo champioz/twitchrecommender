@@ -1,0 +1,1 @@
+{"channel": "1uming", "avg_viewers": 310, "followers_gained": 765, "peak_viewers": 1390, "hours_streamed": 115, "streams": 29, "mature": 0, "language": "Korean", "account_age": 1332000.0}

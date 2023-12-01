@@ -1,0 +1,1 @@
+{"channel": "swalmy21", "avg_viewers": 12, "followers_gained": 59, "peak_viewers": 292, "hours_streamed": 141, "streams": 26, "mature": 0, "language": "English", "account_age": 3507840.0}

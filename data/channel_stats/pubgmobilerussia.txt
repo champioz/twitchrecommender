@@ -1,0 +1,1 @@
+{"channel": "pubgmobilerussia", "avg_viewers": 313, "followers_gained": 489, "peak_viewers": 1952, "hours_streamed": 31, "streams": 5, "mature": 0, "language": "Russian", "account_age": 90720.0}

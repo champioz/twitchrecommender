@@ -1,0 +1,1 @@
+{"channel": "rudeboyvstheworld", "avg_viewers": 1169, "followers_gained": 257, "peak_viewers": 2313, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "Russian", "account_age": 2822400.0}

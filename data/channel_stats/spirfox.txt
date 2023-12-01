@@ -1,0 +1,1 @@
+{"channel": "spirfox", "avg_viewers": 10, "followers_gained": 32, "peak_viewers": 112, "hours_streamed": 127, "streams": 26, "mature": 1, "language": "English", "account_age": 365760.0}

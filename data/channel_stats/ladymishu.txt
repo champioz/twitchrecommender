@@ -1,0 +1,1 @@
+{"channel": "ladymishu", "avg_viewers": 6, "followers_gained": 71, "peak_viewers": 16, "hours_streamed": 41, "streams": 14, "mature": 1, "language": "Spanish", "account_age": 2183040.0}

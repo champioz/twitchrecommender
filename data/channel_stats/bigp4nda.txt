@@ -1,0 +1,1 @@
+{"channel": "bigp4nda", "avg_viewers": 18, "followers_gained": 32, "peak_viewers": 45, "hours_streamed": 40, "streams": 8, "mature": 1, "language": "Portuguese", "account_age": 3840480.0}

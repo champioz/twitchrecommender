@@ -1,0 +1,1 @@
+{"channel": "jonsnow__tv", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 12, "hours_streamed": 45, "streams": 23, "mature": 0, "language": "Italian", "account_age": 2448000.0}

@@ -1,0 +1,1 @@
+{"channel": "lobes", "avg_viewers": 60, "followers_gained": 217, "peak_viewers": 159, "hours_streamed": 36, "streams": 14, "mature": 0, "language": "English", "account_age": 1272960.0}

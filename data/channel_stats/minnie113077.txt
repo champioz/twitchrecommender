@@ -1,0 +1,1 @@
+{"channel": "minnie113077", "avg_viewers": 68, "followers_gained": 607, "peak_viewers": 266, "hours_streamed": 167, "streams": 24, "mature": 0, "language": "Chinese", "account_age": 3407040.0}

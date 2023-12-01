@@ -1,0 +1,1 @@
+{"channel": "dathrix", "avg_viewers": 30, "followers_gained": 117, "peak_viewers": 285, "hours_streamed": 76, "streams": 21, "mature": 0, "language": "German", "account_age": 2416320.0}

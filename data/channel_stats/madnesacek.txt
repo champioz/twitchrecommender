@@ -1,0 +1,1 @@
+{"channel": "madnesacek", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 39, "streams": 26, "mature": 1, "language": "Czech", "account_age": 3090240.0}

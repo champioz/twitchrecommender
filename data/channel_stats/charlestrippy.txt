@@ -1,0 +1,1 @@
+{"channel": "charlestrippy", "avg_viewers": 77, "followers_gained": 32, "peak_viewers": 87, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 5754240.0}

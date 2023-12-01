@@ -1,0 +1,1 @@
+{"channel": "demerine2", "avg_viewers": 54, "followers_gained": 50, "peak_viewers": 2082, "hours_streamed": 52, "streams": 23, "mature": 0, "language": "English", "account_age": 1244160.0}

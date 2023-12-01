@@ -1,0 +1,1 @@
+{"channel": "dlxowns45", "avg_viewers": 1415, "followers_gained": 4817, "peak_viewers": 2981, "hours_streamed": 164, "streams": 31, "mature": 0, "language": "Korean", "account_age": 1454400.0}

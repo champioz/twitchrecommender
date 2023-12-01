@@ -1,0 +1,1 @@
+{"channel": "broisbearded", "avg_viewers": 15, "followers_gained": 23, "peak_viewers": 32, "hours_streamed": 25, "streams": 6, "mature": 1, "language": "English", "account_age": 1969920.0}

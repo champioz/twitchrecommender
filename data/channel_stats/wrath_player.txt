@@ -1,0 +1,1 @@
+{"channel": "wrath_player", "avg_viewers": 17, "followers_gained": 26, "peak_viewers": 67, "hours_streamed": 90, "streams": 27, "mature": 1, "language": "Russian", "account_age": 980640.0}

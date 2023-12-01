@@ -1,0 +1,1 @@
+{"channel": "draxarpepegastorm", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 15, "streams": 3, "mature": 0, "language": "English", "account_age": 2252160.0}

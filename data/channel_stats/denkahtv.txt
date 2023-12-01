@@ -1,0 +1,1 @@
+{"channel": "denkahtv", "avg_viewers": 28, "followers_gained": 57, "peak_viewers": 60, "hours_streamed": 26, "streams": 13, "mature": 0, "language": "Swedish", "account_age": 780480.0}

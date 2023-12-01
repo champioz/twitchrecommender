@@ -1,0 +1,1 @@
+{"channel": "lauhx3", "avg_viewers": 19, "followers_gained": 76, "peak_viewers": 38, "hours_streamed": 40, "streams": 12, "mature": 0, "language": "English", "account_age": 1379520.0}

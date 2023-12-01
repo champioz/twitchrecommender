@@ -1,0 +1,1 @@
+{"channel": "tomchen60229", "avg_viewers": 1801, "followers_gained": 3072, "peak_viewers": 3826, "hours_streamed": 208, "streams": 25, "mature": 0, "language": "Chinese", "account_age": 3608640.0}

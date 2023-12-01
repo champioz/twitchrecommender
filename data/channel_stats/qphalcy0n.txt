@@ -1,0 +1,1 @@
+{"channel": "qphalcy0n", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 19, "hours_streamed": 67, "streams": 26, "mature": 0, "language": "English", "account_age": 4010400.0}

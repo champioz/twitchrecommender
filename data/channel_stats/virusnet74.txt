@@ -1,0 +1,1 @@
+{"channel": "virusnet74", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 8, "hours_streamed": 42, "streams": 22, "mature": 0, "language": "Italian", "account_age": 630720.0}

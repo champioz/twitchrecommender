@@ -1,0 +1,1 @@
+{"channel": "merko_and_co", "avg_viewers": 15, "followers_gained": 111, "peak_viewers": 90, "hours_streamed": 250, "streams": 37, "mature": 1, "language": "French", "account_age": 2298240.0}

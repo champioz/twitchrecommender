@@ -1,0 +1,1 @@
+{"channel": "pernalongastv", "avg_viewers": 0, "followers_gained": 8, "peak_viewers": 4, "hours_streamed": 14, "streams": 12, "mature": 0, "language": "Portuguese", "account_age": 1185120.0}

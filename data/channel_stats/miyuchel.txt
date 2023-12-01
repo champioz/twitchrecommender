@@ -1,0 +1,1 @@
+{"channel": "miyuchel", "avg_viewers": 25, "followers_gained": 111, "peak_viewers": 54, "hours_streamed": 53, "streams": 16, "mature": 0, "language": "Japanese", "account_age": 779040.0}

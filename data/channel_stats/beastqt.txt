@@ -1,0 +1,1 @@
+{"channel": "beastqt", "avg_viewers": 574, "followers_gained": 2004, "peak_viewers": 1736, "hours_streamed": 234, "streams": 26, "mature": 0, "language": "Russian", "account_age": 3820320.0}

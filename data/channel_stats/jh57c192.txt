@@ -1,0 +1,1 @@
+{"channel": "jh57c192", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 81, "streams": 12, "mature": 1, "language": "Chinese", "account_age": 3808800.0}

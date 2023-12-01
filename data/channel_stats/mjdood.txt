@@ -1,0 +1,1 @@
+{"channel": "mjdood", "avg_viewers": 12, "followers_gained": 274, "peak_viewers": 76, "hours_streamed": 58, "streams": 24, "mature": 1, "language": "Arabic", "account_age": 1249920.0}

@@ -1,0 +1,1 @@
+{"channel": "reptiliagaming", "avg_viewers": 5, "followers_gained": 17, "peak_viewers": 16, "hours_streamed": 56, "streams": 19, "mature": 1, "language": "English", "account_age": 2616480.0}

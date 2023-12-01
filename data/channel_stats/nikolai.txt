@@ -1,0 +1,1 @@
+{"channel": "nikolai", "avg_viewers": 115, "followers_gained": 1503, "peak_viewers": 1195, "hours_streamed": 87, "streams": 28, "mature": 0, "language": "English", "account_age": 2234880.0}

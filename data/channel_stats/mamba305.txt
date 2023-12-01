@@ -1,0 +1,1 @@
+{"channel": "mamba305", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 51, "streams": 8, "mature": 0, "language": "Chinese (Hong Kong SAR)", "account_age": 3264480.0}

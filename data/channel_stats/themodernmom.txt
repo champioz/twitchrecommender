@@ -1,0 +1,1 @@
+{"channel": "themodernmom", "avg_viewers": 78, "followers_gained": 103, "peak_viewers": 131, "hours_streamed": 14, "streams": 6, "mature": 1, "language": "English", "account_age": 1630080.0}

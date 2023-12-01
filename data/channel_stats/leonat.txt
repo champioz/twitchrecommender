@@ -1,0 +1,1 @@
+{"channel": "leonat", "avg_viewers": 20, "followers_gained": 30, "peak_viewers": 43, "hours_streamed": 59, "streams": 10, "mature": 1, "language": "Korean", "account_age": 1617120.0}

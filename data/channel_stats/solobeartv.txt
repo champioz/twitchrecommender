@@ -1,0 +1,1 @@
+{"channel": "solobeartv", "avg_viewers": 2, "followers_gained": 15, "peak_viewers": 10, "hours_streamed": 44, "streams": 14, "mature": 0, "language": "English", "account_age": 3450240.0}

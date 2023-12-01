@@ -1,0 +1,1 @@
+{"channel": "pollyx", "avg_viewers": 13, "followers_gained": 61, "peak_viewers": 27, "hours_streamed": 14, "streams": 6, "mature": 0, "language": "German", "account_age": 1650240.0}

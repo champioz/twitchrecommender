@@ -1,0 +1,1 @@
+{"channel": "pcworldus", "avg_viewers": 19, "followers_gained": 3, "peak_viewers": 29, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "English", "account_age": 790560.0}

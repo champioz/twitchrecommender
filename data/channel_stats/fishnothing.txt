@@ -1,0 +1,1 @@
+{"channel": "fishnothing", "avg_viewers": 25, "followers_gained": 236, "peak_viewers": 49, "hours_streamed": 137, "streams": 30, "mature": 0, "language": "Portuguese", "account_age": 2318400.0}

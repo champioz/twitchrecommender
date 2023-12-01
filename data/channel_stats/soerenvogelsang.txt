@@ -1,0 +1,1 @@
+{"channel": "soerenvogelsang", "avg_viewers": 105, "followers_gained": 69, "peak_viewers": 244, "hours_streamed": 26, "streams": 13, "mature": 1, "language": "German", "account_age": 1689120.0}

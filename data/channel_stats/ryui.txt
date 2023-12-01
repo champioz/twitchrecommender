@@ -1,0 +1,1 @@
+{"channel": "ryui", "avg_viewers": 9, "followers_gained": 38, "peak_viewers": 26, "hours_streamed": 66, "streams": 13, "mature": 1, "language": "English", "account_age": 1291680.0}

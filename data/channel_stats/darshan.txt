@@ -1,0 +1,1 @@
+{"channel": "darshan", "avg_viewers": 138, "followers_gained": 301, "peak_viewers": 246, "hours_streamed": 12, "streams": 4, "mature": 0, "language": "English", "account_age": 3911040.0}

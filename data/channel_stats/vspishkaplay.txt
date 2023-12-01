@@ -1,0 +1,1 @@
+{"channel": "vspishkaplay", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 7, "hours_streamed": 36, "streams": 16, "mature": 0, "language": "Russian", "account_age": 1995840.0}

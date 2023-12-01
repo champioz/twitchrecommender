@@ -1,0 +1,1 @@
+{"channel": "butterfly", "avg_viewers": 173, "followers_gained": 394, "peak_viewers": 417, "hours_streamed": 74, "streams": 18, "mature": 1, "language": "Russian", "account_age": 1795680.0}

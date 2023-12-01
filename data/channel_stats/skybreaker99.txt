@@ -1,0 +1,1 @@
+{"channel": "skybreaker99", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 22, "hours_streamed": 54, "streams": 15, "mature": 0, "language": "German", "account_age": 2617920.0}

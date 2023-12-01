@@ -1,0 +1,1 @@
+{"channel": "starbuck", "avg_viewers": 9, "followers_gained": 4, "peak_viewers": 23, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "English", "account_age": 4059360.0}

@@ -1,0 +1,1 @@
+{"channel": "fahzix", "avg_viewers": 135, "followers_gained": 192, "peak_viewers": 806, "hours_streamed": 66, "streams": 12, "mature": 0, "language": "English", "account_age": 4262400.0}

@@ -1,0 +1,1 @@
+{"channel": "thejan11", "avg_viewers": 78, "followers_gained": 502, "peak_viewers": 187, "hours_streamed": 88, "streams": 25, "mature": 0, "language": "English", "account_age": 2288160.0}

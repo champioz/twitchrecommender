@@ -1,0 +1,1 @@
+{"channel": "freispiel", "avg_viewers": 27, "followers_gained": 233, "peak_viewers": 151, "hours_streamed": 269, "streams": 39, "mature": 1, "language": "German", "account_age": 2809440.0}

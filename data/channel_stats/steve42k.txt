@@ -1,0 +1,1 @@
+{"channel": "steve42k", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 8, "hours_streamed": 9, "streams": 2, "mature": 1, "language": "English", "account_age": 5631840.0}

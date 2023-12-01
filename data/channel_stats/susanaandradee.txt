@@ -1,0 +1,1 @@
+{"channel": "susanaandradee", "avg_viewers": 22, "followers_gained": 37, "peak_viewers": 47, "hours_streamed": 73, "streams": 14, "mature": 0, "language": "Portuguese", "account_age": 2188800.0}

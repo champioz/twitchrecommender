@@ -1,0 +1,1 @@
+{"channel": "deserteaglegold", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 11, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "Italian", "account_age": 2540160.0}

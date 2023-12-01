@@ -1,0 +1,1 @@
+{"channel": "ssumday", "avg_viewers": 200, "followers_gained": 251, "peak_viewers": 464, "hours_streamed": 39, "streams": 13, "mature": 0, "language": "Korean", "account_age": 1346400.0}

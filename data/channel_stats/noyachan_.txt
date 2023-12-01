@@ -1,0 +1,1 @@
+{"channel": "noyachan_", "avg_viewers": 15, "followers_gained": 3911, "peak_viewers": 57, "hours_streamed": 29, "streams": 9, "mature": 1, "language": "Polish", "account_age": 1605600.0}

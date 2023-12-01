@@ -1,0 +1,1 @@
+{"channel": "m1kyx", "avg_viewers": 502, "followers_gained": 1122, "peak_viewers": 1071, "hours_streamed": 11, "streams": 2, "mature": 0, "language": "English", "account_age": 3218400.0}

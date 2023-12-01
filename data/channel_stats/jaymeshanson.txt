@@ -1,0 +1,1 @@
+{"channel": "jaymeshanson", "avg_viewers": 34, "followers_gained": 133, "peak_viewers": 88, "hours_streamed": 35, "streams": 11, "mature": 0, "language": "English", "account_age": 3751200.0}

@@ -1,0 +1,1 @@
+{"channel": "catjuice", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 16, "streams": 4, "mature": 1, "language": "Chinese", "account_age": 1431360.0}

@@ -1,0 +1,1 @@
+{"channel": "banschey", "avg_viewers": 39, "followers_gained": 41, "peak_viewers": 119, "hours_streamed": 35, "streams": 9, "mature": 0, "language": "German", "account_age": 2661120.0}

@@ -1,0 +1,1 @@
+{"channel": "shinobeninja", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 14, "streams": 11, "mature": 1, "language": "English", "account_age": 3247200.0}

@@ -1,0 +1,1 @@
+{"channel": "dinicetea", "avg_viewers": 5, "followers_gained": 66, "peak_viewers": 49, "hours_streamed": 193, "streams": 47, "mature": 0, "language": "Russian", "account_age": 2750400.0}

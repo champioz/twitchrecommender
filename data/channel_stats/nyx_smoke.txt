@@ -1,0 +1,1 @@
+{"channel": "nyx_smoke", "avg_viewers": 3, "followers_gained": 29, "peak_viewers": 19, "hours_streamed": 72, "streams": 15, "mature": 1, "language": "English", "account_age": 774720.0}

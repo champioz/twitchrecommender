@@ -1,0 +1,1 @@
+{"channel": "mswolf", "avg_viewers": 8, "followers_gained": 196, "peak_viewers": 137, "hours_streamed": 206, "streams": 43, "mature": 1, "language": "Russian", "account_age": 2381760.0}

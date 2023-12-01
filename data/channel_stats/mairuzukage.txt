@@ -1,0 +1,1 @@
+{"channel": "mairuzukage", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "English", "account_age": 521280.0}

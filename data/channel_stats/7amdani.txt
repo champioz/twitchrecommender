@@ -1,0 +1,1 @@
+{"channel": "7amdani", "avg_viewers": 64, "followers_gained": 553, "peak_viewers": 193, "hours_streamed": 16, "streams": 9, "mature": 0, "language": "Arabic", "account_age": 254880.0}

@@ -1,0 +1,1 @@
+{"channel": "marcel_youngtube", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 8, "streams": 5, "mature": 1, "language": "German", "account_age": 813600.0}

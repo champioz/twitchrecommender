@@ -1,0 +1,1 @@
+{"channel": "aceoperative", "avg_viewers": 10, "followers_gained": 55, "peak_viewers": 46, "hours_streamed": 124, "streams": 24, "mature": 0, "language": "English", "account_age": 1702080.0}

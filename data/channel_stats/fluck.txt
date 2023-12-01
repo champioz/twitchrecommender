@@ -1,0 +1,1 @@
+{"channel": "fluck", "avg_viewers": 37, "followers_gained": 433, "peak_viewers": 715, "hours_streamed": 155, "streams": 43, "mature": 0, "language": "English", "account_age": 1998720.0}

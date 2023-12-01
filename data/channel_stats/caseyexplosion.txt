@@ -1,0 +1,1 @@
+{"channel": "caseyexplosion", "avg_viewers": 34, "followers_gained": 246, "peak_viewers": 86, "hours_streamed": 37, "streams": 13, "mature": 0, "language": "English", "account_age": 1608480.0}

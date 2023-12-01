@@ -1,0 +1,1 @@
+{"channel": "k1ll3rb0rn", "avg_viewers": 16, "followers_gained": 30, "peak_viewers": 40, "hours_streamed": 106, "streams": 31, "mature": 0, "language": "German", "account_age": 1620000.0}

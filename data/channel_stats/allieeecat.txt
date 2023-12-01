@@ -1,0 +1,1 @@
+{"channel": "allieeecat", "avg_viewers": 27, "followers_gained": 761, "peak_viewers": 179, "hours_streamed": 49, "streams": 17, "mature": 0, "language": "English", "account_age": 1660320.0}

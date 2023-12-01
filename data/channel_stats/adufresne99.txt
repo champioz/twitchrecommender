@@ -1,0 +1,1 @@
+{"channel": "adufresne99", "avg_viewers": 45, "followers_gained": 106, "peak_viewers": 142, "hours_streamed": 78, "streams": 20, "mature": 1, "language": "English", "account_age": 2291040.0}

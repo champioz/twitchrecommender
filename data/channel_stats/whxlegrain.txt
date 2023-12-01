@@ -1,0 +1,1 @@
+{"channel": "whxlegrain", "avg_viewers": 43, "followers_gained": 700, "peak_viewers": 366, "hours_streamed": 77, "streams": 19, "mature": 1, "language": "English", "account_age": 2589120.0}

@@ -1,0 +1,1 @@
+{"channel": "helrig", "avg_viewers": 213, "followers_gained": 299, "peak_viewers": 494, "hours_streamed": 130, "streams": 26, "mature": 0, "language": "German", "account_age": 1650240.0}

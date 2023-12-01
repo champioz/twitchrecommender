@@ -1,0 +1,1 @@
+{"channel": "jaxpc", "avg_viewers": 51, "followers_gained": 54, "peak_viewers": 189, "hours_streamed": 40, "streams": 8, "mature": 1, "language": "English", "account_age": 1447200.0}

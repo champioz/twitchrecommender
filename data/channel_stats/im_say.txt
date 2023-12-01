@@ -1,0 +1,1 @@
+{"channel": "im_say", "avg_viewers": 13, "followers_gained": 275, "peak_viewers": 42, "hours_streamed": 149, "streams": 30, "mature": 0, "language": "Spanish", "account_age": 1072800.0}

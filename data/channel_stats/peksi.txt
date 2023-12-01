@@ -1,0 +1,1 @@
+{"channel": "peksi", "avg_viewers": 3, "followers_gained": 26, "peak_viewers": 15, "hours_streamed": 247, "streams": 37, "mature": 0, "language": "Russian", "account_age": 2908800.0}

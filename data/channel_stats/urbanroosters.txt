@@ -1,0 +1,1 @@
+{"channel": "urbanroosters", "avg_viewers": 39, "followers_gained": 41, "peak_viewers": 92, "hours_streamed": 7, "streams": 2, "mature": 1, "language": "Spanish", "account_age": 663840.0}

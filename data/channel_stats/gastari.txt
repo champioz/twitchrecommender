@@ -1,0 +1,1 @@
+{"channel": "gastari", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 16, "hours_streamed": 18, "streams": 10, "mature": 0, "language": "English", "account_age": 1607040.0}

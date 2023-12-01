@@ -1,0 +1,1 @@
+{"channel": "rayreytv", "avg_viewers": 26, "followers_gained": 122, "peak_viewers": 87, "hours_streamed": 187, "streams": 33, "mature": 1, "language": "German", "account_age": 1284480.0}

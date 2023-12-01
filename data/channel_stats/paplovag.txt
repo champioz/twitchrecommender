@@ -1,0 +1,1 @@
+{"channel": "paplovag", "avg_viewers": 118, "followers_gained": 646, "peak_viewers": 373, "hours_streamed": 90, "streams": 22, "mature": 1, "language": "Hungarian", "account_age": 4176000.0}

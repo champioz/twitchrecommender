@@ -1,0 +1,1 @@
+{"channel": "sugar_free_nos", "avg_viewers": 28, "followers_gained": 12, "peak_viewers": 57, "hours_streamed": 12, "streams": 4, "mature": 0, "language": "English", "account_age": 2632320.0}

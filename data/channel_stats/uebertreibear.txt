@@ -1,0 +1,1 @@
+{"channel": "uebertreibear", "avg_viewers": 58, "followers_gained": 8, "peak_viewers": 115, "hours_streamed": 19, "streams": 7, "mature": 0, "language": "German", "account_age": 4246560.0}

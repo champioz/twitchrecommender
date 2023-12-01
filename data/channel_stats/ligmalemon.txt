@@ -1,0 +1,1 @@
+{"channel": "ligmalemon", "avg_viewers": 9, "followers_gained": 112, "peak_viewers": 50, "hours_streamed": 66, "streams": 23, "mature": 0, "language": "German", "account_age": 2901600.0}

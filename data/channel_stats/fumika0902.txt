@@ -1,0 +1,1 @@
+{"channel": "fumika0902", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 7, "streams": 6, "mature": 0, "language": "Japanese", "account_age": 236160.0}

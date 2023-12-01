@@ -1,0 +1,1 @@
+{"channel": "thestaceyroy", "avg_viewers": 69, "followers_gained": 16, "peak_viewers": 201, "hours_streamed": 22, "streams": 9, "mature": 0, "language": "English", "account_age": 1916640.0}

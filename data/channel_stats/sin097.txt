@@ -1,0 +1,1 @@
+{"channel": "sin097", "avg_viewers": 42, "followers_gained": 212, "peak_viewers": 97, "hours_streamed": 93, "streams": 18, "mature": 1, "language": "Chinese (Hong Kong SAR)", "account_age": 2793600.0}

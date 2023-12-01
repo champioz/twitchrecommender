@@ -1,0 +1,1 @@
+{"channel": "qttsix", "avg_viewers": 1347, "followers_gained": 1798, "peak_viewers": 2391, "hours_streamed": 177, "streams": 23, "mature": 0, "language": "Chinese", "account_age": 4623840.0}

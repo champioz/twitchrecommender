@@ -1,0 +1,1 @@
+{"channel": "lonk52", "avg_viewers": 1, "followers_gained": 15, "peak_viewers": 7, "hours_streamed": 16, "streams": 13, "mature": 0, "language": "English", "account_age": 218880.0}

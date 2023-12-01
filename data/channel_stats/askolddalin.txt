@@ -1,0 +1,1 @@
+{"channel": "askolddalin", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 20, "hours_streamed": 24, "streams": 12, "mature": 0, "language": "English", "account_age": 763200.0}

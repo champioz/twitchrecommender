@@ -1,0 +1,1 @@
+{"channel": "heimdall_soa", "avg_viewers": 5, "followers_gained": 36, "peak_viewers": 16, "hours_streamed": 189, "streams": 24, "mature": 1, "language": "French", "account_age": 1137600.0}

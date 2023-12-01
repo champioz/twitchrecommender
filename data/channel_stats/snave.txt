@@ -1,0 +1,1 @@
+{"channel": "snave", "avg_viewers": 70, "followers_gained": 61, "peak_viewers": 126, "hours_streamed": 81, "streams": 17, "mature": 1, "language": "English", "account_age": 3454560.0}

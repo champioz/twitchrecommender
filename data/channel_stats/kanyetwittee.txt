@@ -1,0 +1,1 @@
+{"channel": "kanyetwittee", "avg_viewers": 16, "followers_gained": 48, "peak_viewers": 57, "hours_streamed": 135, "streams": 35, "mature": 1, "language": "English", "account_age": 2095200.0}

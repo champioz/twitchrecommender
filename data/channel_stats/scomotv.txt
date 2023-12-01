@@ -1,0 +1,1 @@
+{"channel": "scomotv", "avg_viewers": 403, "followers_gained": 981, "peak_viewers": 1090, "hours_streamed": 21, "streams": 9, "mature": 1, "language": "English", "account_age": 2779200.0}

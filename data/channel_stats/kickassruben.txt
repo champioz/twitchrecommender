@@ -1,0 +1,1 @@
+{"channel": "kickassruben", "avg_viewers": 12, "followers_gained": 212, "peak_viewers": 54, "hours_streamed": 66, "streams": 27, "mature": 0, "language": "Dutch", "account_age": 2138400.0}

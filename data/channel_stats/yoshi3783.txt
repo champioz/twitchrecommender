@@ -1,0 +1,1 @@
+{"channel": "yoshi3783", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 9, "hours_streamed": 88, "streams": 32, "mature": 1, "language": "English", "account_age": 3425760.0}

@@ -1,0 +1,1 @@
+{"channel": "yuki2yuki", "avg_viewers": 121, "followers_gained": 1008, "peak_viewers": 772, "hours_streamed": 67, "streams": 17, "mature": 1, "language": "Russian", "account_age": 493920.0}

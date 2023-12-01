@@ -1,0 +1,1 @@
+{"channel": "akellotv", "avg_viewers": 4, "followers_gained": 36, "peak_viewers": 11, "hours_streamed": 92, "streams": 19, "mature": 0, "language": "Russian", "account_age": 1238400.0}

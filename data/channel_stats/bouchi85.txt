@@ -1,0 +1,1 @@
+{"channel": "bouchi85", "avg_viewers": 6, "followers_gained": 24, "peak_viewers": 15, "hours_streamed": 71, "streams": 16, "mature": 0, "language": "English", "account_age": 1038240.0}

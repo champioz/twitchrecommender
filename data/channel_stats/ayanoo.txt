@@ -1,0 +1,1 @@
+{"channel": "ayanoo", "avg_viewers": 31, "followers_gained": 116, "peak_viewers": 93, "hours_streamed": 59, "streams": 20, "mature": 0, "language": "Polish", "account_age": 4193280.0}

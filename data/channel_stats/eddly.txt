@@ -1,0 +1,1 @@
+{"channel": "eddly", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 4, "streams": 4, "mature": 1, "language": "German", "account_age": 897120.0}

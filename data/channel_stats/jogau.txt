@@ -1,0 +1,1 @@
+{"channel": "jogau", "avg_viewers": 360, "followers_gained": 495, "peak_viewers": 691, "hours_streamed": 84, "streams": 17, "mature": 0, "language": "French", "account_age": 4386240.0}

@@ -1,0 +1,1 @@
+{"channel": "pinkythepie", "avg_viewers": 10, "followers_gained": 153, "peak_viewers": 37, "hours_streamed": 217, "streams": 31, "mature": 1, "language": "Spanish", "account_age": 2833920.0}

@@ -1,0 +1,1 @@
+{"channel": "joshua", "avg_viewers": 41, "followers_gained": 5, "peak_viewers": 336, "hours_streamed": 66, "streams": 16, "mature": 1, "language": "English", "account_age": 3418560.0}

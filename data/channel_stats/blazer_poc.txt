@@ -1,0 +1,1 @@
+{"channel": "blazer_poc", "avg_viewers": 17, "followers_gained": 5, "peak_viewers": 30, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "Russian", "account_age": 2433600.0}

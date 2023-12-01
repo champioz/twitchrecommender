@@ -1,0 +1,1 @@
+{"channel": "joniosan", "avg_viewers": 76, "followers_gained": 87, "peak_viewers": 183, "hours_streamed": 149, "streams": 24, "mature": 0, "language": "Japanese", "account_age": 4717440.0}

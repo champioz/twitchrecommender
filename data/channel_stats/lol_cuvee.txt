@@ -1,0 +1,1 @@
+{"channel": "lol_cuvee", "avg_viewers": 679, "followers_gained": 203, "peak_viewers": 970, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Korean", "account_age": 1212480.0}

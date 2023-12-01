@@ -1,0 +1,1 @@
+{"channel": "bakugangod", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 15, "hours_streamed": 93, "streams": 30, "mature": 0, "language": "Korean", "account_age": 1061280.0}

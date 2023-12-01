@@ -1,0 +1,1 @@
+{"channel": "algs_sc2", "avg_viewers": 647, "followers_gained": 501, "peak_viewers": 1970, "hours_streamed": 60, "streams": 14, "mature": 1, "language": "Chinese", "account_age": 1448640.0}

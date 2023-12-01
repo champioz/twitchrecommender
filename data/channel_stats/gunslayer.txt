@@ -1,0 +1,1 @@
+{"channel": "gunslayer", "avg_viewers": 78, "followers_gained": 4046, "peak_viewers": 190, "hours_streamed": 158, "streams": 31, "mature": 0, "language": "English", "account_age": 3699360.0}

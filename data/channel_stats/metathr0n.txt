@@ -1,0 +1,1 @@
+{"channel": "metathr0n", "avg_viewers": 9, "followers_gained": 7, "peak_viewers": 27, "hours_streamed": 26, "streams": 6, "mature": 1, "language": "German", "account_age": 1343520.0}

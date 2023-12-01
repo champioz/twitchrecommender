@@ -1,0 +1,1 @@
+{"channel": "doss1105", "avg_viewers": 6, "followers_gained": 15, "peak_viewers": 26, "hours_streamed": 214, "streams": 26, "mature": 1, "language": "Chinese", "account_age": 2622240.0}

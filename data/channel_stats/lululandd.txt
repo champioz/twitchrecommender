@@ -1,0 +1,1 @@
+{"channel": "lululandd", "avg_viewers": 26, "followers_gained": 56, "peak_viewers": 106, "hours_streamed": 100, "streams": 17, "mature": 1, "language": "English", "account_age": 1749600.0}

@@ -1,0 +1,1 @@
+{"channel": "irgendwas_mit_bloern", "avg_viewers": 12, "followers_gained": 17, "peak_viewers": 28, "hours_streamed": 73, "streams": 15, "mature": 1, "language": "German", "account_age": 1032480.0}

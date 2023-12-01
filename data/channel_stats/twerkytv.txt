@@ -1,0 +1,1 @@
+{"channel": "twerkytv", "avg_viewers": 96, "followers_gained": 277, "peak_viewers": 461, "hours_streamed": 81, "streams": 15, "mature": 0, "language": "English", "account_age": 2154240.0}

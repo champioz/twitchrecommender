@@ -1,0 +1,1 @@
+{"channel": "alex_tantor", "avg_viewers": 3, "followers_gained": 52, "peak_viewers": 36, "hours_streamed": 328, "streams": 85, "mature": 0, "language": "Russian", "account_age": 1692000.0}

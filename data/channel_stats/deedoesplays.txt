@@ -1,0 +1,1 @@
+{"channel": "deedoesplays", "avg_viewers": 17, "followers_gained": 144, "peak_viewers": 40, "hours_streamed": 149, "streams": 24, "mature": 1, "language": "English", "account_age": 1046880.0}

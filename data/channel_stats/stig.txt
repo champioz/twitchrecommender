@@ -1,0 +1,1 @@
+{"channel": "stig", "avg_viewers": 127, "followers_gained": 765, "peak_viewers": 408, "hours_streamed": 71, "streams": 17, "mature": 0, "language": "Russian", "account_age": 4249440.0}

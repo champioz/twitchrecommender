@@ -1,0 +1,1 @@
+{"channel": "jackpattillo", "avg_viewers": 297, "followers_gained": 532, "peak_viewers": 591, "hours_streamed": 26, "streams": 6, "mature": 0, "language": "English", "account_age": 3903840.0}

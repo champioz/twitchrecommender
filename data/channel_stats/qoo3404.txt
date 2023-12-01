@@ -1,0 +1,1 @@
+{"channel": "qoo3404", "avg_viewers": 2, "followers_gained": 21, "peak_viewers": 9, "hours_streamed": 95, "streams": 31, "mature": 1, "language": "Korean", "account_age": 816480.0}

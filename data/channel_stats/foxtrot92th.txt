@@ -1,0 +1,1 @@
+{"channel": "foxtrot92th", "avg_viewers": 304, "followers_gained": 2139, "peak_viewers": 544, "hours_streamed": 282, "streams": 36, "mature": 1, "language": "Russian", "account_age": 2602080.0}

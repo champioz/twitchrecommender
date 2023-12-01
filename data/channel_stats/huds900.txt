@@ -1,0 +1,1 @@
+{"channel": "huds900", "avg_viewers": 15, "followers_gained": 190, "peak_viewers": 74, "hours_streamed": 93, "streams": 22, "mature": 0, "language": "Spanish", "account_age": 1264320.0}

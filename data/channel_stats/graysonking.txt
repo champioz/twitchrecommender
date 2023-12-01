@@ -1,0 +1,1 @@
+{"channel": "graysonking", "avg_viewers": 6, "followers_gained": 6, "peak_viewers": 26, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "English", "account_age": 1134720.0}

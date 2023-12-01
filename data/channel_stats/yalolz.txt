@@ -1,0 +1,1 @@
+{"channel": "yalolz", "avg_viewers": 12, "followers_gained": 19, "peak_viewers": 51, "hours_streamed": 26, "streams": 7, "mature": 0, "language": "Thai", "account_age": 1350720.0}

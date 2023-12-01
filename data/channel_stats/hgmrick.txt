@@ -1,0 +1,1 @@
+{"channel": "hgmrick", "avg_viewers": 9, "followers_gained": 48, "peak_viewers": 40, "hours_streamed": 63, "streams": 59, "mature": 0, "language": "Portuguese", "account_age": 2089440.0}

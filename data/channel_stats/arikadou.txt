@@ -1,0 +1,1 @@
+{"channel": "arikadou", "avg_viewers": 136, "followers_gained": 1863, "peak_viewers": 286, "hours_streamed": 61, "streams": 12, "mature": 0, "language": "English", "account_age": 1231200.0}

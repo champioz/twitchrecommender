@@ -1,0 +1,1 @@
+{"channel": "spx_sc", "avg_viewers": 15, "followers_gained": 7, "peak_viewers": 69, "hours_streamed": 11, "streams": 8, "mature": 0, "language": "English", "account_age": 3551040.0}

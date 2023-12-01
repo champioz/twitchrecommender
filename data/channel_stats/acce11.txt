@@ -1,0 +1,1 @@
+{"channel": "acce11", "avg_viewers": 89, "followers_gained": 35, "peak_viewers": 209, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 3252960.0}

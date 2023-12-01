@@ -1,0 +1,1 @@
+{"channel": "eakon41", "avg_viewers": 4, "followers_gained": 10, "peak_viewers": 16, "hours_streamed": 54, "streams": 29, "mature": 0, "language": "Japanese", "account_age": 383040.0}

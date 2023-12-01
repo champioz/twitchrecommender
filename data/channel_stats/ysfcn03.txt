@@ -1,0 +1,1 @@
+{"channel": "ysfcn03", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 2, "streams": 7, "mature": 0, "language": "Turkish", "account_age": 2031840.0}

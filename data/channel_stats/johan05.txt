@@ -1,0 +1,1 @@
+{"channel": "johan05", "avg_viewers": 2, "followers_gained": 22, "peak_viewers": 9, "hours_streamed": 13, "streams": 4, "mature": 0, "language": "Swedish", "account_age": 528480.0}

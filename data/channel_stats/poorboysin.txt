@@ -1,0 +1,1 @@
+{"channel": "poorboysin", "avg_viewers": 432, "followers_gained": 3071, "peak_viewers": 738, "hours_streamed": 72, "streams": 19, "mature": 1, "language": "English", "account_age": 2341440.0}

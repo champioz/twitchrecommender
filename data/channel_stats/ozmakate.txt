@@ -1,0 +1,1 @@
+{"channel": "ozmakate", "avg_viewers": 27, "followers_gained": 99, "peak_viewers": 89, "hours_streamed": 102, "streams": 37, "mature": 0, "language": "Russian", "account_age": 2383200.0}

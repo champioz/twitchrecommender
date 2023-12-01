@@ -1,0 +1,1 @@
+{"channel": "nodivenolife", "avg_viewers": 11, "followers_gained": 18, "peak_viewers": 25, "hours_streamed": 31, "streams": 16, "mature": 1, "language": "German", "account_age": 820800.0}

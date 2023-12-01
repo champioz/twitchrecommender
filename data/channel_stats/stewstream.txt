@@ -1,0 +1,1 @@
+{"channel": "stewstream", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 16, "hours_streamed": 45, "streams": 41, "mature": 1, "language": "English", "account_age": 826560.0}

@@ -1,0 +1,1 @@
+{"channel": "taradawnbreaker", "avg_viewers": 68, "followers_gained": 111, "peak_viewers": 118, "hours_streamed": 52, "streams": 23, "mature": 0, "language": "English", "account_age": 1887840.0}

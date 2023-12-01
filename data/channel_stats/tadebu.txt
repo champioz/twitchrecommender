@@ -1,0 +1,1 @@
+{"channel": "tadebu", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 5, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "Polish", "account_age": 4027680.0}

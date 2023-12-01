@@ -1,0 +1,1 @@
+{"channel": "gremwave", "avg_viewers": 10, "followers_gained": 8, "peak_viewers": 21, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "English", "account_age": 2901600.0}

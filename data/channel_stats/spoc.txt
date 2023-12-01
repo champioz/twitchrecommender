@@ -1,0 +1,1 @@
+{"channel": "spoc", "avg_viewers": 43, "followers_gained": 808, "peak_viewers": 131, "hours_streamed": 116, "streams": 40, "mature": 0, "language": "English", "account_age": 1764000.0}

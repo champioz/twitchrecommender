@@ -1,0 +1,1 @@
+{"channel": "hyeon0886", "avg_viewers": 25, "followers_gained": 64, "peak_viewers": 59, "hours_streamed": 222, "streams": 33, "mature": 0, "language": "Korean", "account_age": 529920.0}

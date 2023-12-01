@@ -1,0 +1,1 @@
+{"channel": "unghostjke", "avg_viewers": 47, "followers_gained": 54, "peak_viewers": 118, "hours_streamed": 32, "streams": 9, "mature": 0, "language": "Russian", "account_age": 3650400.0}

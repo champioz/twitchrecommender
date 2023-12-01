@@ -1,0 +1,1 @@
+{"channel": "helloflower", "avg_viewers": 18, "followers_gained": 50, "peak_viewers": 48, "hours_streamed": 70, "streams": 17, "mature": 1, "language": "English", "account_age": 770400.0}

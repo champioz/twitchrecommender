@@ -1,0 +1,1 @@
+{"channel": "lupusslayer", "avg_viewers": 0, "followers_gained": 10, "peak_viewers": 4, "hours_streamed": 15, "streams": 10, "mature": 1, "language": "German", "account_age": 2854080.0}

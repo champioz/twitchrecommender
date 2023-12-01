@@ -1,0 +1,1 @@
+{"channel": "andy_bundy", "avg_viewers": 4, "followers_gained": 9, "peak_viewers": 13, "hours_streamed": 40, "streams": 17, "mature": 0, "language": "English", "account_age": 4387680.0}

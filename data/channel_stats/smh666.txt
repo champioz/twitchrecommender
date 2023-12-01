@@ -1,0 +1,1 @@
+{"channel": "smh666", "avg_viewers": 11, "followers_gained": 9, "peak_viewers": 33, "hours_streamed": 59, "streams": 13, "mature": 0, "language": "Russian", "account_age": 2720160.0}

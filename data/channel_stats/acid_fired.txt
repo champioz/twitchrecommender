@@ -1,0 +1,1 @@
+{"channel": "acid_fired", "avg_viewers": 45, "followers_gained": 179, "peak_viewers": 136, "hours_streamed": 131, "streams": 34, "mature": 1, "language": "German", "account_age": 1344960.0}

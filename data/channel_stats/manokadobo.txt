@@ -1,0 +1,1 @@
+{"channel": "manokadobo", "avg_viewers": 12, "followers_gained": 16, "peak_viewers": 28, "hours_streamed": 58, "streams": 16, "mature": 1, "language": "English", "account_age": 2868480.0}

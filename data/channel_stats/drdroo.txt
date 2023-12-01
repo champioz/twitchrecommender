@@ -1,0 +1,1 @@
+{"channel": "drdroo", "avg_viewers": 22, "followers_gained": 49, "peak_viewers": 50, "hours_streamed": 32, "streams": 14, "mature": 0, "language": "English", "account_age": 3546720.0}

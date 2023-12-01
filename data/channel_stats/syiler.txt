@@ -1,0 +1,1 @@
+{"channel": "syiler", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 17, "hours_streamed": 46, "streams": 9, "mature": 0, "language": "English", "account_age": 4744800.0}

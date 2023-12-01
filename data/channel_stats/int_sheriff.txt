@@ -1,0 +1,1 @@
+{"channel": "int_sheriff", "avg_viewers": 5, "followers_gained": 323, "peak_viewers": 20, "hours_streamed": 40, "streams": 14, "mature": 0, "language": "German", "account_age": 538560.0}

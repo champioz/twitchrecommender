@@ -1,0 +1,1 @@
+{"channel": "bjshaco", "avg_viewers": 75, "followers_gained": 3456, "peak_viewers": 436, "hours_streamed": 113, "streams": 27, "mature": 0, "language": "Korean", "account_age": 2836800.0}

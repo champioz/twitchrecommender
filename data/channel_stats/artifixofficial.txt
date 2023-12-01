@@ -1,0 +1,1 @@
+{"channel": "artifixofficial", "avg_viewers": 311, "followers_gained": 83, "peak_viewers": 507, "hours_streamed": 16, "streams": 8, "mature": 0, "language": "Russian", "account_age": 1808640.0}

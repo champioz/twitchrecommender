@@ -1,0 +1,1 @@
+{"channel": "cerablir", "avg_viewers": 21, "followers_gained": 18, "peak_viewers": 58, "hours_streamed": 15, "streams": 9, "mature": 1, "language": "German", "account_age": 1624320.0}

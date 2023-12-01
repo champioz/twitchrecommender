@@ -1,0 +1,1 @@
+{"channel": "lunarys_", "avg_viewers": 78, "followers_gained": 363, "peak_viewers": 155, "hours_streamed": 31, "streams": 18, "mature": 0, "language": "Italian", "account_age": 2276640.0}

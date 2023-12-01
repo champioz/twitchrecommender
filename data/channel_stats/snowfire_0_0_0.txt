@@ -1,0 +1,1 @@
+{"channel": "snowfire_0_0_0", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 10, "streams": 11, "mature": 1, "language": "German", "account_age": 1542240.0}

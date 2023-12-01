@@ -1,0 +1,1 @@
+{"channel": "freshcs_", "avg_viewers": 9, "followers_gained": 21, "peak_viewers": 22, "hours_streamed": 57, "streams": 18, "mature": 0, "language": "German", "account_age": 2610720.0}

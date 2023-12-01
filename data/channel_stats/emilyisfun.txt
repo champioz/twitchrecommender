@@ -1,0 +1,1 @@
+{"channel": "emilyisfun", "avg_viewers": 16, "followers_gained": 50, "peak_viewers": 78, "hours_streamed": 20, "streams": 8, "mature": 0, "language": "English", "account_age": 1956960.0}

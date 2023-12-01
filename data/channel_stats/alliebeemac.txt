@@ -1,0 +1,1 @@
+{"channel": "alliebeemac", "avg_viewers": 5, "followers_gained": 97, "peak_viewers": 17, "hours_streamed": 86, "streams": 16, "mature": 1, "language": "English", "account_age": 2865600.0}

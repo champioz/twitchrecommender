@@ -1,0 +1,1 @@
+{"channel": "alekss", "avg_viewers": 30, "followers_gained": 417, "peak_viewers": 171, "hours_streamed": 214, "streams": 27, "mature": 1, "language": "German", "account_age": 1762560.0}

@@ -1,0 +1,1 @@
+{"channel": "xuuan", "avg_viewers": 15, "followers_gained": 8, "peak_viewers": 29, "hours_streamed": 18, "streams": 4, "mature": 0, "language": "Chinese", "account_age": 2161440.0}

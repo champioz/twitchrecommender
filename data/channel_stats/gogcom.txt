@@ -1,0 +1,1 @@
+{"channel": "gogcom", "avg_viewers": 75, "followers_gained": 404, "peak_viewers": 284, "hours_streamed": 261, "streams": 66, "mature": 0, "language": "English", "account_age": 3280320.0}

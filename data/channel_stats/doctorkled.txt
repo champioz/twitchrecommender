@@ -1,0 +1,1 @@
+{"channel": "doctorkled", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 1647360.0}

@@ -1,0 +1,1 @@
+{"channel": "salista_belladonna", "avg_viewers": 324, "followers_gained": 209, "peak_viewers": 1762, "hours_streamed": 176, "streams": 21, "mature": 1, "language": "German", "account_age": 2835360.0}

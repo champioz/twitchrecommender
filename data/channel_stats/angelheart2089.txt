@@ -1,0 +1,1 @@
+{"channel": "angelheart2089", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 8, "hours_streamed": 46, "streams": 13, "mature": 1, "language": "German", "account_age": 1700640.0}

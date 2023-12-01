@@ -1,0 +1,1 @@
+{"channel": "evan_mclean", "avg_viewers": 57, "followers_gained": 180, "peak_viewers": 238, "hours_streamed": 132, "streams": 44, "mature": 1, "language": "English", "account_age": 986400.0}

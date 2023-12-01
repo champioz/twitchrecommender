@@ -1,0 +1,1 @@
+{"channel": "koibu", "avg_viewers": 76, "followers_gained": 150, "peak_viewers": 239, "hours_streamed": 122, "streams": 33, "mature": 1, "language": "English", "account_age": 4370400.0}

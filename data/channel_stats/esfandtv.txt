@@ -1,0 +1,1 @@
+{"channel": "esfandtv", "avg_viewers": 2304, "followers_gained": 9658, "peak_viewers": 7654, "hours_streamed": 180, "streams": 34, "mature": 0, "language": "English", "account_age": 3470400.0}

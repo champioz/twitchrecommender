@@ -1,0 +1,1 @@
+{"channel": "snookado", "avg_viewers": 15, "followers_gained": 47, "peak_viewers": 58, "hours_streamed": 28, "streams": 16, "mature": 0, "language": "Spanish", "account_age": 3335040.0}

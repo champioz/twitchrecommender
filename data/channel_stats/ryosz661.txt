@@ -1,0 +1,1 @@
+{"channel": "ryosz661", "avg_viewers": 9, "followers_gained": 39, "peak_viewers": 21, "hours_streamed": 108, "streams": 34, "mature": 0, "language": "Thai", "account_age": 1383840.0}

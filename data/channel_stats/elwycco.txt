@@ -1,0 +1,1 @@
+{"channel": "elwycco", "avg_viewers": 3819, "followers_gained": 1610, "peak_viewers": 6169, "hours_streamed": 18, "streams": 3, "mature": 0, "language": "Russian", "account_age": 2151360.0}

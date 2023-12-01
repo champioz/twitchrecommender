@@ -1,0 +1,1 @@
+{"channel": "sungslee", "avg_viewers": 23, "followers_gained": 1208, "peak_viewers": 111, "hours_streamed": 392, "streams": 51, "mature": 1, "language": "English", "account_age": 884160.0}

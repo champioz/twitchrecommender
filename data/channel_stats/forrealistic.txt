@@ -1,0 +1,1 @@
+{"channel": "forrealistic", "avg_viewers": 23, "followers_gained": 215, "peak_viewers": 48, "hours_streamed": 155, "streams": 24, "mature": 1, "language": "German", "account_age": 1670400.0}

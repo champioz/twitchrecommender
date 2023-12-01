@@ -1,0 +1,1 @@
+{"channel": "migsbyjoestar", "avg_viewers": 6, "followers_gained": 25, "peak_viewers": 23, "hours_streamed": 100, "streams": 22, "mature": 1, "language": "English", "account_age": 1817280.0}

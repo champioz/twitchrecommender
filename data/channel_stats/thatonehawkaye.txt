@@ -1,0 +1,1 @@
+{"channel": "thatonehawkaye", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "English", "account_age": 2237760.0}

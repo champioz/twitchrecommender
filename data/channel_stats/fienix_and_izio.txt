@@ -1,0 +1,1 @@
+{"channel": "fienix_and_izio", "avg_viewers": 5, "followers_gained": 67, "peak_viewers": 33, "hours_streamed": 127, "streams": 54, "mature": 0, "language": "German", "account_age": 3559680.0}

@@ -1,0 +1,1 @@
+{"channel": "wiking_cs", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Swedish", "account_age": 836640.0}

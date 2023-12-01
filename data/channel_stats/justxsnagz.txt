@@ -1,0 +1,1 @@
+{"channel": "justxsnagz", "avg_viewers": 5, "followers_gained": 101, "peak_viewers": 158, "hours_streamed": 75, "streams": 49, "mature": 0, "language": "English", "account_age": 1452960.0}

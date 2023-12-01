@@ -1,0 +1,1 @@
+{"channel": "chickenlittlenuggets", "avg_viewers": 15, "followers_gained": 56, "peak_viewers": 50, "hours_streamed": 53, "streams": 9, "mature": 1, "language": "English", "account_age": 735840.0}

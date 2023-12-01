@@ -1,0 +1,1 @@
+{"channel": "miina0623", "avg_viewers": 241, "followers_gained": 983, "peak_viewers": 974, "hours_streamed": 167, "streams": 24, "mature": 1, "language": "Chinese", "account_age": 3700800.0}

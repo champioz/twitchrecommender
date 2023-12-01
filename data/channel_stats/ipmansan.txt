@@ -1,0 +1,1 @@
+{"channel": "ipmansan", "avg_viewers": 95, "followers_gained": 1316, "peak_viewers": 261, "hours_streamed": 98, "streams": 34, "mature": 0, "language": "Korean", "account_age": 887040.0}

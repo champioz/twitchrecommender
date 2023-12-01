@@ -1,0 +1,1 @@
+{"channel": "tipsaye", "avg_viewers": 13, "followers_gained": 2, "peak_viewers": 23, "hours_streamed": 12, "streams": 2, "mature": 1, "language": "English", "account_age": 2371680.0}

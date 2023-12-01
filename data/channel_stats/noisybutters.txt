@@ -1,0 +1,1 @@
+{"channel": "noisybutters", "avg_viewers": 689, "followers_gained": 4211, "peak_viewers": 1134, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "English", "account_age": 3625920.0}

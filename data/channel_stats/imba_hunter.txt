@@ -1,0 +1,1 @@
+{"channel": "imba_hunter", "avg_viewers": 22, "followers_gained": 43, "peak_viewers": 67, "hours_streamed": 44, "streams": 15, "mature": 0, "language": "Russian", "account_age": 1828800.0}

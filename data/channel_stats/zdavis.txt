@@ -1,0 +1,1 @@
+{"channel": "zdavis", "avg_viewers": 0, "followers_gained": 12, "peak_viewers": 5, "hours_streamed": 47, "streams": 20, "mature": 0, "language": "English", "account_age": 3077280.0}

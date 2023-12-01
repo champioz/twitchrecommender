@@ -1,0 +1,1 @@
+{"channel": "thevicc", "avg_viewers": 341, "followers_gained": 676, "peak_viewers": 819, "hours_streamed": 12, "streams": 8, "mature": 0, "language": "French", "account_age": 2990880.0}

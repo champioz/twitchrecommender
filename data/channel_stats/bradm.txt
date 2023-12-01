@@ -1,0 +1,1 @@
+{"channel": "bradm", "avg_viewers": 86, "followers_gained": 220, "peak_viewers": 171, "hours_streamed": 53, "streams": 11, "mature": 0, "language": "English", "account_age": 1002240.0}

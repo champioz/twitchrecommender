@@ -1,0 +1,1 @@
+{"channel": "chito_", "avg_viewers": 6, "followers_gained": 90, "peak_viewers": 21, "hours_streamed": 195, "streams": 30, "mature": 0, "language": "English", "account_age": 1653120.0}

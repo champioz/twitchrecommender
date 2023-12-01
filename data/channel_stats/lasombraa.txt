@@ -1,0 +1,1 @@
+{"channel": "lasombraa", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 12, "hours_streamed": 24, "streams": 16, "mature": 1, "language": "Portuguese", "account_age": 2050560.0}

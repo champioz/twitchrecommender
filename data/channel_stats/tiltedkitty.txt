@@ -1,0 +1,1 @@
+{"channel": "tiltedkitty", "avg_viewers": 11, "followers_gained": 160, "peak_viewers": 41, "hours_streamed": 145, "streams": 40, "mature": 0, "language": "English", "account_age": 596160.0}

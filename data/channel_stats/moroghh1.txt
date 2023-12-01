@@ -1,0 +1,1 @@
+{"channel": "moroghh1", "avg_viewers": 4, "followers_gained": 45, "peak_viewers": 51, "hours_streamed": 61, "streams": 12, "mature": 1, "language": "Portuguese", "account_age": 463680.0}

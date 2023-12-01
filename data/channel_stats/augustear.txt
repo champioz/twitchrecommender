@@ -1,0 +1,1 @@
+{"channel": "augustear", "avg_viewers": 22, "followers_gained": 149, "peak_viewers": 62, "hours_streamed": 151, "streams": 33, "mature": 0, "language": "Greek", "account_age": 2220480.0}

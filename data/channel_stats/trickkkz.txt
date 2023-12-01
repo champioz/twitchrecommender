@@ -1,0 +1,1 @@
+{"channel": "trickkkz", "avg_viewers": 11, "followers_gained": 146, "peak_viewers": 41, "hours_streamed": 84, "streams": 38, "mature": 1, "language": "Portuguese", "account_age": 2900160.0}

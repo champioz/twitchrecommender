@@ -1,0 +1,1 @@
+{"channel": "the_rushinator", "avg_viewers": 6, "followers_gained": 15, "peak_viewers": 15, "hours_streamed": 17, "streams": 4, "mature": 1, "language": "English", "account_age": 1811520.0}

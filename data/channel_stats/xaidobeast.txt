@@ -1,0 +1,1 @@
+{"channel": "xaidobeast", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 13, "hours_streamed": 159, "streams": 26, "mature": 1, "language": "German", "account_age": 2437920.0}

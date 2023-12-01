@@ -1,0 +1,1 @@
+{"channel": "seiun_lou", "avg_viewers": 17, "followers_gained": 218, "peak_viewers": 80, "hours_streamed": 53, "streams": 14, "mature": 1, "language": "French", "account_age": 401760.0}

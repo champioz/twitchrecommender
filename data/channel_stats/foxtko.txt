@@ -1,0 +1,1 @@
+{"channel": "foxtko", "avg_viewers": 2, "followers_gained": 58, "peak_viewers": 11, "hours_streamed": 78, "streams": 20, "mature": 0, "language": "English", "account_age": 2933280.0}

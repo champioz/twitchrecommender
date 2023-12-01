@@ -1,0 +1,1 @@
+{"channel": "bubzy", "avg_viewers": 33, "followers_gained": 347, "peak_viewers": 78, "hours_streamed": 123, "streams": 15, "mature": 0, "language": "English", "account_age": 1601280.0}

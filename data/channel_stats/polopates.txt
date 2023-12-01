@@ -1,0 +1,1 @@
+{"channel": "polopates", "avg_viewers": 2, "followers_gained": 161, "peak_viewers": 14, "hours_streamed": 125, "streams": 42, "mature": 0, "language": "Czech", "account_age": 2005920.0}

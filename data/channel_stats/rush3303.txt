@@ -1,0 +1,1 @@
+{"channel": "rush3303", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 15, "hours_streamed": 12, "streams": 5, "mature": 0, "language": "Korean", "account_age": 911520.0}

@@ -1,0 +1,1 @@
+{"channel": "zecapiranha", "avg_viewers": 162, "followers_gained": 2290, "peak_viewers": 1370, "hours_streamed": 64, "streams": 20, "mature": 1, "language": "Portuguese", "account_age": 2833920.0}

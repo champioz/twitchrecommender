@@ -1,0 +1,1 @@
+{"channel": "bestfast1", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 22, "streams": 26, "mature": 1, "language": "English", "account_age": 1026720.0}

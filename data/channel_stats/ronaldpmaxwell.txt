@@ -1,0 +1,1 @@
+{"channel": "ronaldpmaxwell", "avg_viewers": 11, "followers_gained": 3, "peak_viewers": 22, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "English", "account_age": 1203840.0}

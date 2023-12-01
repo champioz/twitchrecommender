@@ -1,0 +1,1 @@
+{"channel": "raphi295", "avg_viewers": 5, "followers_gained": 37, "peak_viewers": 17, "hours_streamed": 78, "streams": 25, "mature": 0, "language": "German", "account_age": 2653920.0}

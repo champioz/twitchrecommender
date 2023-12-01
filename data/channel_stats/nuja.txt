@@ -1,0 +1,1 @@
+{"channel": "nuja", "avg_viewers": 42, "followers_gained": 169, "peak_viewers": 114, "hours_streamed": 64, "streams": 25, "mature": 0, "language": "French", "account_age": 1804320.0}

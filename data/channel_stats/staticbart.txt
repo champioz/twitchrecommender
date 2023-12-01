@@ -1,0 +1,1 @@
+{"channel": "staticbart", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 10, "hours_streamed": 10, "streams": 10, "mature": 0, "language": "English", "account_age": 1820160.0}

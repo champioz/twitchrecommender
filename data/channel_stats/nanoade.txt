@@ -1,0 +1,1 @@
+{"channel": "nanoade", "avg_viewers": 155, "followers_gained": 811, "peak_viewers": 550, "hours_streamed": 53, "streams": 18, "mature": 0, "language": "English", "account_age": 2613600.0}

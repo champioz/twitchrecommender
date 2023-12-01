@@ -1,0 +1,1 @@
+{"channel": "gaigashka_", "avg_viewers": 2, "followers_gained": 35, "peak_viewers": 9, "hours_streamed": 209, "streams": 105, "mature": 1, "language": "Russian", "account_age": 845280.0}

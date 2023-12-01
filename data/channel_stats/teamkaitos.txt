@@ -1,0 +1,1 @@
+{"channel": "teamkaitos", "avg_viewers": 8, "followers_gained": 27, "peak_viewers": 27, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 354240.0}

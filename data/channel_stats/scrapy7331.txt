@@ -1,0 +1,1 @@
+{"channel": "scrapy7331", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 12, "hours_streamed": 36, "streams": 20, "mature": 0, "language": "Russian", "account_age": 924480.0}

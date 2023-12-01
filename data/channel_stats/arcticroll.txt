@@ -1,0 +1,1 @@
+{"channel": "arcticroll", "avg_viewers": 7, "followers_gained": 35, "peak_viewers": 16, "hours_streamed": 24, "streams": 8, "mature": 1, "language": "English", "account_age": 2620800.0}

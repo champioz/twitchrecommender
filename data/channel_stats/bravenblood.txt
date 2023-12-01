@@ -1,0 +1,1 @@
+{"channel": "bravenblood", "avg_viewers": 5, "followers_gained": 13, "peak_viewers": 20, "hours_streamed": 31, "streams": 15, "mature": 1, "language": "English", "account_age": 1710720.0}

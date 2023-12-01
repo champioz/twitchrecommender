@@ -1,0 +1,1 @@
+{"channel": "b3yourself", "avg_viewers": 2, "followers_gained": 13, "peak_viewers": 10, "hours_streamed": 47, "streams": 12, "mature": 0, "language": "French", "account_age": 861120.0}

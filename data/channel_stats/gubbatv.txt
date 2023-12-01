@@ -1,0 +1,1 @@
+{"channel": "gubbatv", "avg_viewers": 901, "followers_gained": 8449, "peak_viewers": 1935, "hours_streamed": 129, "streams": 31, "mature": 0, "language": "English", "account_age": 2291040.0}

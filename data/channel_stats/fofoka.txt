@@ -1,0 +1,1 @@
+{"channel": "fofoka", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 15, "hours_streamed": 9, "streams": 5, "mature": 1, "language": "Portuguese", "account_age": 1663200.0}

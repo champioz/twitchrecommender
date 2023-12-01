@@ -1,0 +1,1 @@
+{"channel": "theonemanny", "avg_viewers": 141, "followers_gained": 653, "peak_viewers": 496, "hours_streamed": 230, "streams": 36, "mature": 0, "language": "English", "account_age": 3312000.0}

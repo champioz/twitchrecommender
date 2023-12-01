@@ -1,0 +1,1 @@
+{"channel": "gcah2006", "avg_viewers": 7, "followers_gained": 11, "peak_viewers": 24, "hours_streamed": 74, "streams": 30, "mature": 1, "language": "English", "account_age": 5378400.0}

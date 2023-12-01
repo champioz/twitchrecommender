@@ -1,0 +1,1 @@
+{"channel": "homyatol", "avg_viewers": 1310, "followers_gained": 8315, "peak_viewers": 2109, "hours_streamed": 34, "streams": 14, "mature": 1, "language": "Italian", "account_age": 4406400.0}

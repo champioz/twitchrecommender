@@ -1,0 +1,1 @@
+{"channel": "joshiwy", "avg_viewers": 4, "followers_gained": 9, "peak_viewers": 11, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "Spanish", "account_age": 2466720.0}

@@ -1,0 +1,1 @@
+{"channel": "sparapaw", "avg_viewers": 22, "followers_gained": 112, "peak_viewers": 270, "hours_streamed": 92, "streams": 23, "mature": 0, "language": "Italian", "account_age": 1326240.0}

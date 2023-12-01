@@ -1,0 +1,1 @@
+{"channel": "muerhark", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 11, "hours_streamed": 106, "streams": 21, "mature": 0, "language": "Korean", "account_age": 2063520.0}

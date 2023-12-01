@@ -1,0 +1,1 @@
+{"channel": "avsters", "avg_viewers": 20, "followers_gained": 646, "peak_viewers": 79, "hours_streamed": 54, "streams": 17, "mature": 1, "language": "English", "account_age": 848160.0}

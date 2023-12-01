@@ -1,0 +1,1 @@
+{"channel": "manga_mad", "avg_viewers": 7, "followers_gained": 21, "peak_viewers": 25, "hours_streamed": 80, "streams": 26, "mature": 1, "language": "English", "account_age": 1693440.0}

@@ -1,0 +1,1 @@
+{"channel": "kamiyu666", "avg_viewers": 1725, "followers_gained": 487, "peak_viewers": 2795, "hours_streamed": 69, "streams": 9, "mature": 1, "language": "Chinese", "account_age": 4059360.0}

@@ -1,0 +1,1 @@
+{"channel": "kou_zidan", "avg_viewers": 9, "followers_gained": 25, "peak_viewers": 42, "hours_streamed": 84, "streams": 14, "mature": 1, "language": "English", "account_age": 3888000.0}

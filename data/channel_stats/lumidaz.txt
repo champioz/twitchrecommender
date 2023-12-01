@@ -1,0 +1,1 @@
+{"channel": "lumidaz", "avg_viewers": 10, "followers_gained": 19, "peak_viewers": 40, "hours_streamed": 47, "streams": 11, "mature": 1, "language": "German", "account_age": 3031200.0}

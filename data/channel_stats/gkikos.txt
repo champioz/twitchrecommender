@@ -1,0 +1,1 @@
+{"channel": "gkikos", "avg_viewers": 4, "followers_gained": 19, "peak_viewers": 13, "hours_streamed": 20, "streams": 12, "mature": 0, "language": "Greek", "account_age": 1087200.0}

@@ -1,0 +1,1 @@
+{"channel": "rociodta", "avg_viewers": 69, "followers_gained": 266, "peak_viewers": 227, "hours_streamed": 22, "streams": 11, "mature": 0, "language": "Spanish", "account_age": 905760.0}

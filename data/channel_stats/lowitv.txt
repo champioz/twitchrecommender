@@ -1,0 +1,1 @@
+{"channel": "lowitv", "avg_viewers": 2, "followers_gained": 61, "peak_viewers": 19, "hours_streamed": 50, "streams": 29, "mature": 0, "language": "French", "account_age": 747360.0}

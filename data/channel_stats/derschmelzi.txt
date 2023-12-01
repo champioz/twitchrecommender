@@ -1,0 +1,1 @@
+{"channel": "derschmelzi", "avg_viewers": 7, "followers_gained": 4, "peak_viewers": 26, "hours_streamed": 28, "streams": 10, "mature": 1, "language": "German", "account_age": 747360.0}

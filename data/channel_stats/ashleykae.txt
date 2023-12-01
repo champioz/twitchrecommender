@@ -1,0 +1,1 @@
+{"channel": "ashleykae", "avg_viewers": 79, "followers_gained": 55, "peak_viewers": 188, "hours_streamed": 85, "streams": 15, "mature": 1, "language": "English", "account_age": 1889280.0}

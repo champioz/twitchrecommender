@@ -1,0 +1,1 @@
+{"channel": "itsbeto12", "avg_viewers": 2, "followers_gained": 107, "peak_viewers": 12, "hours_streamed": 145, "streams": 30, "mature": 0, "language": "Other", "account_age": 1758240.0}

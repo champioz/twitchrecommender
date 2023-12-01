@@ -1,0 +1,1 @@
+{"channel": "peytonpotamus", "avg_viewers": 14, "followers_gained": 35, "peak_viewers": 34, "hours_streamed": 13, "streams": 6, "mature": 1, "language": "English", "account_age": 1033920.0}

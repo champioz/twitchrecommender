@@ -1,0 +1,1 @@
+{"channel": "bigwinsmash", "avg_viewers": 178, "followers_gained": 192, "peak_viewers": 468, "hours_streamed": 20, "streams": 4, "mature": 0, "language": "English", "account_age": 1251360.0}

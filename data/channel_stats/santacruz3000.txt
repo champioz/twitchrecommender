@@ -1,0 +1,1 @@
+{"channel": "santacruz3000", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 7, "streams": 4, "mature": 1, "language": "German", "account_age": 2390400.0}

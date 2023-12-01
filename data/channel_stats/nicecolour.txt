@@ -1,0 +1,1 @@
+{"channel": "nicecolour", "avg_viewers": 20, "followers_gained": 94, "peak_viewers": 49, "hours_streamed": 96, "streams": 31, "mature": 0, "language": "Polish", "account_age": 636480.0}

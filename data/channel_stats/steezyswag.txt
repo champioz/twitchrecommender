@@ -1,0 +1,1 @@
+{"channel": "steezyswag", "avg_viewers": 36, "followers_gained": 40, "peak_viewers": 95, "hours_streamed": 40, "streams": 19, "mature": 0, "language": "English", "account_age": 2449440.0}

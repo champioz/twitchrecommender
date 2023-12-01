@@ -1,0 +1,1 @@
+{"channel": "quinnsmile", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 3, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "English", "account_age": 2214720.0}

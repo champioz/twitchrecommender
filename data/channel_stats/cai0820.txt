@@ -1,0 +1,1 @@
+{"channel": "cai0820", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 7, "streams": 6, "mature": 1, "language": "Chinese", "account_age": 767520.0}

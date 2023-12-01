@@ -1,0 +1,1 @@
+{"channel": "ladymiiloo", "avg_viewers": 10, "followers_gained": 39, "peak_viewers": 22, "hours_streamed": 29, "streams": 7, "mature": 1, "language": "German", "account_age": 1912320.0}

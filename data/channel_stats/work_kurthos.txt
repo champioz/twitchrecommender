@@ -1,0 +1,1 @@
+{"channel": "work_kurthos", "avg_viewers": 10, "followers_gained": 11, "peak_viewers": 38, "hours_streamed": 7, "streams": 6, "mature": 0, "language": "English", "account_age": 3441600.0}

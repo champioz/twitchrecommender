@@ -1,0 +1,1 @@
+{"channel": "giannielee", "avg_viewers": 259, "followers_gained": 1154, "peak_viewers": 576, "hours_streamed": 273, "streams": 33, "mature": 0, "language": "English", "account_age": 558720.0}

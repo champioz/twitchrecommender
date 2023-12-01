@@ -1,0 +1,1 @@
+{"channel": "lexuzi", "avg_viewers": 10, "followers_gained": 20, "peak_viewers": 24, "hours_streamed": 44, "streams": 9, "mature": 1, "language": "English", "account_age": 3296160.0}

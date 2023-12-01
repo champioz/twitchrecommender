@@ -1,0 +1,1 @@
+{"channel": "archarchon", "avg_viewers": 6, "followers_gained": 25, "peak_viewers": 15, "hours_streamed": 15, "streams": 7, "mature": 0, "language": "English", "account_age": 1260000.0}

@@ -1,0 +1,1 @@
+{"channel": "marukukku", "avg_viewers": 17, "followers_gained": 21, "peak_viewers": 44, "hours_streamed": 102, "streams": 29, "mature": 0, "language": "Japanese", "account_age": 1641600.0}

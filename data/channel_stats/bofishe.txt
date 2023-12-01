@@ -1,0 +1,1 @@
+{"channel": "bofishe", "avg_viewers": 30, "followers_gained": 515, "peak_viewers": 70, "hours_streamed": 67, "streams": 18, "mature": 0, "language": "English", "account_age": 1163520.0}

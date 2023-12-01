@@ -1,0 +1,1 @@
+{"channel": "kmomo_0512", "avg_viewers": 32, "followers_gained": 75, "peak_viewers": 133, "hours_streamed": 61, "streams": 10, "mature": 1, "language": "Chinese", "account_age": 2737440.0}

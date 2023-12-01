@@ -1,0 +1,1 @@
+{"channel": "grazka", "avg_viewers": 10, "followers_gained": 1, "peak_viewers": 27, "hours_streamed": 40, "streams": 15, "mature": 1, "language": "English", "account_age": 2916000.0}

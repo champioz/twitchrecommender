@@ -1,0 +1,1 @@
+{"channel": "player_michaelous", "avg_viewers": 9, "followers_gained": 74, "peak_viewers": 32, "hours_streamed": 39, "streams": 16, "mature": 0, "language": "English", "account_age": 764640.0}

@@ -1,0 +1,1 @@
+{"channel": "handwerk3r", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 14, "hours_streamed": 120, "streams": 23, "mature": 0, "language": "German", "account_age": 3165120.0}

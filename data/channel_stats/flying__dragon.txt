@@ -1,0 +1,1 @@
+{"channel": "flying__dragon", "avg_viewers": 10, "followers_gained": 2, "peak_viewers": 46, "hours_streamed": 35, "streams": 5, "mature": 1, "language": "Polish", "account_age": 1386720.0}

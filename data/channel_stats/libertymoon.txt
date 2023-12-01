@@ -1,0 +1,1 @@
+{"channel": "libertymoon", "avg_viewers": 27, "followers_gained": 49, "peak_viewers": 691, "hours_streamed": 67, "streams": 19, "mature": 1, "language": "Russian", "account_age": 2214720.0}

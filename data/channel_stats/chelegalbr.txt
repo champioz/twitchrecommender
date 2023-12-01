@@ -1,0 +1,1 @@
+{"channel": "chelegalbr", "avg_viewers": 0, "followers_gained": 14, "peak_viewers": 4, "hours_streamed": 16, "streams": 6, "mature": 0, "language": "Portuguese", "account_age": 1969920.0}

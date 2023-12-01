@@ -1,0 +1,1 @@
+{"channel": "twilightuuuu", "avg_viewers": 29, "followers_gained": 18, "peak_viewers": 61, "hours_streamed": 82, "streams": 23, "mature": 0, "language": "Korean", "account_age": 2990880.0}

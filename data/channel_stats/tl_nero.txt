@@ -1,0 +1,1 @@
+{"channel": "tl_nero", "avg_viewers": 148, "followers_gained": 622, "peak_viewers": 1148, "hours_streamed": 174, "streams": 25, "mature": 0, "language": "Greek", "account_age": 2198880.0}

@@ -1,0 +1,1 @@
+{"channel": "rto_lol", "avg_viewers": 164, "followers_gained": 1858, "peak_viewers": 961, "hours_streamed": 250, "streams": 30, "mature": 0, "language": "English", "account_age": 1493280.0}

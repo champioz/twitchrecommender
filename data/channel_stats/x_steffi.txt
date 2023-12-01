@@ -1,0 +1,1 @@
+{"channel": "x_steffi", "avg_viewers": 60, "followers_gained": 110, "peak_viewers": 125, "hours_streamed": 43, "streams": 12, "mature": 1, "language": "German", "account_age": 2337120.0}

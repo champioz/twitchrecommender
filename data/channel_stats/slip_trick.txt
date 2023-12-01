@@ -1,0 +1,1 @@
+{"channel": "slip_trick", "avg_viewers": 21, "followers_gained": 111, "peak_viewers": 68, "hours_streamed": 56, "streams": 15, "mature": 0, "language": "English", "account_age": 779040.0}

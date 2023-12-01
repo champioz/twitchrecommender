@@ -1,0 +1,1 @@
+{"channel": "kokore", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 21, "hours_streamed": 70, "streams": 22, "mature": 1, "language": "French", "account_age": 3728160.0}

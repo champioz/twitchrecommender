@@ -1,0 +1,1 @@
+{"channel": "letsplaywotcz", "avg_viewers": 20, "followers_gained": 13, "peak_viewers": 48, "hours_streamed": 12, "streams": 7, "mature": 0, "language": "Czech", "account_age": 3670560.0}

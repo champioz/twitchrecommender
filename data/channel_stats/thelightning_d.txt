@@ -1,0 +1,1 @@
+{"channel": "thelightning_d", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 1, "hours_streamed": 2, "streams": 3, "mature": 1, "language": "French", "account_age": 1893600.0}

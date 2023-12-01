@@ -1,0 +1,1 @@
+{"channel": "velkaine", "avg_viewers": 0, "followers_gained": 8, "peak_viewers": 3, "hours_streamed": 47, "streams": 18, "mature": 1, "language": "French", "account_age": 1149120.0}

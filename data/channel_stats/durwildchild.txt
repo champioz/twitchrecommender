@@ -1,0 +1,1 @@
+{"channel": "durwildchild", "avg_viewers": 41, "followers_gained": 3, "peak_viewers": 75, "hours_streamed": 41, "streams": 12, "mature": 1, "language": "German", "account_age": 2808000.0}

@@ -1,0 +1,1 @@
+{"channel": "djwolfbot", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 14, "streams": 6, "mature": 0, "language": "Finnish", "account_age": 3323520.0}

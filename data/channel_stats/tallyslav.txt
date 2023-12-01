@@ -1,0 +1,1 @@
+{"channel": "tallyslav", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 5, "hours_streamed": 19, "streams": 10, "mature": 1, "language": "English", "account_age": 2885760.0}

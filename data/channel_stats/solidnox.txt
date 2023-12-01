@@ -1,0 +1,1 @@
+{"channel": "solidnox", "avg_viewers": 33, "followers_gained": 83, "peak_viewers": 425, "hours_streamed": 76, "streams": 12, "mature": 1, "language": "German", "account_age": 1843200.0}

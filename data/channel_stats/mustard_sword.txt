@@ -1,0 +1,1 @@
+{"channel": "mustard_sword", "avg_viewers": 21, "followers_gained": 10, "peak_viewers": 63, "hours_streamed": 50, "streams": 9, "mature": 1, "language": "English", "account_age": 2986560.0}

@@ -1,0 +1,1 @@
+{"channel": "mina016760", "avg_viewers": 17, "followers_gained": 0, "peak_viewers": 19, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "Chinese", "account_age": 3506400.0}

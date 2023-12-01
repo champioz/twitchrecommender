@@ -1,0 +1,1 @@
+{"channel": "alexshpigun", "avg_viewers": 290, "followers_gained": 504, "peak_viewers": 479, "hours_streamed": 53, "streams": 11, "mature": 0, "language": "Russian", "account_age": 2992320.0}

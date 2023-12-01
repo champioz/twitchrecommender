@@ -1,0 +1,1 @@
+{"channel": "spaceyeen", "avg_viewers": 34, "followers_gained": 345, "peak_viewers": 71, "hours_streamed": 217, "streams": 25, "mature": 0, "language": "English", "account_age": 544320.0}

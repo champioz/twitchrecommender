@@ -1,0 +1,1 @@
+{"channel": "snurbx", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 9, "hours_streamed": 58, "streams": 29, "mature": 0, "language": "English", "account_age": 2132640.0}

@@ -1,0 +1,1 @@
+{"channel": "yawwn_solo", "avg_viewers": 14, "followers_gained": 5, "peak_viewers": 50, "hours_streamed": 14, "streams": 4, "mature": 0, "language": "English", "account_age": 715680.0}

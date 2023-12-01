@@ -1,0 +1,1 @@
+{"channel": "0monstro", "avg_viewers": 13, "followers_gained": 30, "peak_viewers": 33, "hours_streamed": 13, "streams": 3, "mature": 0, "language": "Portuguese", "account_age": 1919520.0}

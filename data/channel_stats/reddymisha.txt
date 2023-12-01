@@ -1,0 +1,1 @@
+{"channel": "reddymisha", "avg_viewers": 13, "followers_gained": 17, "peak_viewers": 50, "hours_streamed": 43, "streams": 9, "mature": 0, "language": "Russian", "account_age": 2615040.0}

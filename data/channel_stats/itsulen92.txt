@@ -1,0 +1,1 @@
+{"channel": "itsulen92", "avg_viewers": 8, "followers_gained": 43, "peak_viewers": 26, "hours_streamed": 27, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 1703520.0}

@@ -1,0 +1,1 @@
+{"channel": "fenixcommunity", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 1048320.0}

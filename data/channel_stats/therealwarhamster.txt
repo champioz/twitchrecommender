@@ -1,0 +1,1 @@
+{"channel": "therealwarhamster", "avg_viewers": 18, "followers_gained": 70, "peak_viewers": 59, "hours_streamed": 251, "streams": 41, "mature": 1, "language": "English", "account_age": 2088000.0}

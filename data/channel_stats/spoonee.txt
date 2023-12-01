@@ -1,0 +1,1 @@
+{"channel": "spoonee", "avg_viewers": 186, "followers_gained": 357, "peak_viewers": 467, "hours_streamed": 102, "streams": 17, "mature": 1, "language": "English", "account_age": 2414880.0}

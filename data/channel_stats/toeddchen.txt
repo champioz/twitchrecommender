@@ -1,0 +1,1 @@
+{"channel": "toeddchen", "avg_viewers": 9, "followers_gained": 164, "peak_viewers": 84, "hours_streamed": 151, "streams": 31, "mature": 0, "language": "German", "account_age": 1725120.0}

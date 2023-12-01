@@ -1,0 +1,1 @@
+{"channel": "presidentdodo", "avg_viewers": 12, "followers_gained": 86, "peak_viewers": 26, "hours_streamed": 43, "streams": 17, "mature": 1, "language": "French", "account_age": 2622240.0}

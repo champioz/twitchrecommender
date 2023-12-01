@@ -1,0 +1,1 @@
+{"channel": "fra1zed", "avg_viewers": 3, "followers_gained": 14, "peak_viewers": 9, "hours_streamed": 84, "streams": 21, "mature": 0, "language": "Russian", "account_age": 1176480.0}

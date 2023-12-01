@@ -1,0 +1,1 @@
+{"channel": "vanhexa", "avg_viewers": 21, "followers_gained": 41, "peak_viewers": 38, "hours_streamed": 66, "streams": 25, "mature": 1, "language": "German", "account_age": 2616480.0}

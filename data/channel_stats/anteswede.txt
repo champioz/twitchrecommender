@@ -1,0 +1,1 @@
+{"channel": "anteswede", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 10, "hours_streamed": 45, "streams": 39, "mature": 0, "language": "Swedish", "account_age": 205920.0}

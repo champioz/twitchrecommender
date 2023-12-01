@@ -1,0 +1,1 @@
+{"channel": "ryuuseiu", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 14, "streams": 3, "mature": 1, "language": "English", "account_age": 2522880.0}

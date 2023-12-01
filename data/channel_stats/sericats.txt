@@ -1,0 +1,1 @@
+{"channel": "sericats", "avg_viewers": 3, "followers_gained": 9, "peak_viewers": 10, "hours_streamed": 16, "streams": 3, "mature": 1, "language": "Spanish", "account_age": 1077120.0}

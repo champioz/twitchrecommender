@@ -1,0 +1,1 @@
+{"channel": "pelasbarbasdoberna", "avg_viewers": 33, "followers_gained": 55, "peak_viewers": 62, "hours_streamed": 51, "streams": 16, "mature": 0, "language": "Portuguese", "account_age": 2062080.0}

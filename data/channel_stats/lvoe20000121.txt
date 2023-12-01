@@ -1,0 +1,1 @@
+{"channel": "lvoe20000121", "avg_viewers": 22, "followers_gained": 336, "peak_viewers": 56, "hours_streamed": 34, "streams": 13, "mature": 0, "language": "Chinese", "account_age": 1471680.0}

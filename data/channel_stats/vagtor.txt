@@ -1,0 +1,1 @@
+{"channel": "vagtor", "avg_viewers": 7, "followers_gained": 33, "peak_viewers": 43, "hours_streamed": 48, "streams": 21, "mature": 0, "language": "Finnish", "account_age": 843840.0}

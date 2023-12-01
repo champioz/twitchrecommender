@@ -1,0 +1,1 @@
+{"channel": "radee", "avg_viewers": 28, "followers_gained": 1, "peak_viewers": 55, "hours_streamed": 72, "streams": 19, "mature": 0, "language": "English", "account_age": 2017440.0}

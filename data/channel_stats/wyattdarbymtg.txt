@@ -1,0 +1,1 @@
+{"channel": "wyattdarbymtg", "avg_viewers": 841, "followers_gained": 805, "peak_viewers": 2273, "hours_streamed": 64, "streams": 12, "mature": 0, "language": "English", "account_age": 609120.0}

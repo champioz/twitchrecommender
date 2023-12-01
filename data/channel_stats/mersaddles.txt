@@ -1,0 +1,1 @@
+{"channel": "mersaddles", "avg_viewers": 11, "followers_gained": 25, "peak_viewers": 28, "hours_streamed": 90, "streams": 19, "mature": 1, "language": "English", "account_age": 2450880.0}

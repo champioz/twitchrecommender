@@ -1,0 +1,1 @@
+{"channel": "ericlostie", "avg_viewers": 215, "followers_gained": 1946, "peak_viewers": 1117, "hours_streamed": 48, "streams": 36, "mature": 0, "language": "Spanish", "account_age": 792000.0}

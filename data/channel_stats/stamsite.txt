@@ -1,0 +1,1 @@
+{"channel": "stamsite", "avg_viewers": 322, "followers_gained": 330, "peak_viewers": 608, "hours_streamed": 23, "streams": 9, "mature": 0, "language": "Swedish", "account_age": 4288320.0}

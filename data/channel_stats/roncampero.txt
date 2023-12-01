@@ -1,0 +1,1 @@
+{"channel": "roncampero", "avg_viewers": 4, "followers_gained": 63, "peak_viewers": 41, "hours_streamed": 131, "streams": 44, "mature": 1, "language": "Spanish", "account_age": 2099520.0}

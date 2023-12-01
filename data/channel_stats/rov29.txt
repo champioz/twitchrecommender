@@ -1,0 +1,1 @@
+{"channel": "rov29", "avg_viewers": 10, "followers_gained": 47, "peak_viewers": 20, "hours_streamed": 32, "streams": 14, "mature": 0, "language": "Spanish", "account_age": 1074240.0}

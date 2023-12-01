@@ -1,0 +1,1 @@
+{"channel": "degrastream", "avg_viewers": 148, "followers_gained": 1034, "peak_viewers": 231, "hours_streamed": 23, "streams": 7, "mature": 1, "language": "Russian", "account_age": 1467360.0}

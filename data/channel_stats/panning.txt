@@ -1,0 +1,1 @@
+{"channel": "panning", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "Korean", "account_age": 888480.0}

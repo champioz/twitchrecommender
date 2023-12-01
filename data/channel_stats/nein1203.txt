@@ -1,0 +1,1 @@
+{"channel": "nein1203", "avg_viewers": 819, "followers_gained": 2474, "peak_viewers": 2103, "hours_streamed": 222, "streams": 25, "mature": 0, "language": "Chinese", "account_age": 2687040.0}

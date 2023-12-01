@@ -1,0 +1,1 @@
+{"channel": "fiend1125", "avg_viewers": 47, "followers_gained": 62, "peak_viewers": 379, "hours_streamed": 131, "streams": 21, "mature": 0, "language": "Korean", "account_age": 1926720.0}

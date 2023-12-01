@@ -1,0 +1,1 @@
+{"channel": "julia_saley", "avg_viewers": 20, "followers_gained": 503, "peak_viewers": 70, "hours_streamed": 201, "streams": 51, "mature": 1, "language": "Russian", "account_age": 1236960.0}

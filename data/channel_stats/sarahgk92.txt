@@ -1,0 +1,1 @@
+{"channel": "sarahgk92", "avg_viewers": 13, "followers_gained": 137, "peak_viewers": 33, "hours_streamed": 102, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 2285280.0}

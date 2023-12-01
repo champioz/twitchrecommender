@@ -1,0 +1,1 @@
+{"channel": "melibon", "avg_viewers": 16, "followers_gained": 1426, "peak_viewers": 55, "hours_streamed": 131, "streams": 35, "mature": 1, "language": "Turkish", "account_age": 252000.0}

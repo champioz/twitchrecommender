@@ -1,0 +1,1 @@
+{"channel": "itachisan80", "avg_viewers": 1, "followers_gained": 21, "peak_viewers": 14, "hours_streamed": 179, "streams": 44, "mature": 1, "language": "German", "account_age": 292320.0}

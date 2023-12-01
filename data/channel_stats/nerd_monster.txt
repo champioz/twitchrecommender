@@ -1,0 +1,1 @@
+{"channel": "nerd_monster", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 15, "hours_streamed": 114, "streams": 30, "mature": 1, "language": "German", "account_age": 201600.0}

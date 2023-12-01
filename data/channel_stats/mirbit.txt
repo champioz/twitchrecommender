@@ -1,0 +1,1 @@
+{"channel": "mirbit", "avg_viewers": 111, "followers_gained": 94, "peak_viewers": 185, "hours_streamed": 8, "streams": 2, "mature": 0, "language": "German", "account_age": 2301120.0}

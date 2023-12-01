@@ -1,0 +1,1 @@
+{"channel": "akitaaainu", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 11, "hours_streamed": 65, "streams": 22, "mature": 1, "language": "Russian", "account_age": 554400.0}

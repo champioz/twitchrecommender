@@ -1,0 +1,1 @@
+{"channel": "maverikz", "avg_viewers": 2, "followers_gained": 87, "peak_viewers": 29, "hours_streamed": 99, "streams": 52, "mature": 0, "language": "English", "account_age": 633600.0}

@@ -1,0 +1,1 @@
+{"channel": "quented", "avg_viewers": 0, "followers_gained": 7, "peak_viewers": 3, "hours_streamed": 14, "streams": 8, "mature": 1, "language": "Turkish", "account_age": 2643840.0}

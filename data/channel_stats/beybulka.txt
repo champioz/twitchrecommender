@@ -1,0 +1,1 @@
+{"channel": "beybulka", "avg_viewers": 90, "followers_gained": 51, "peak_viewers": 146, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "Slovak", "account_age": 2047680.0}

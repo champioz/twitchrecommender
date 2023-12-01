@@ -1,0 +1,1 @@
+{"channel": "sushine", "avg_viewers": 3, "followers_gained": 28, "peak_viewers": 10, "hours_streamed": 62, "streams": 27, "mature": 0, "language": "English", "account_age": 1069920.0}

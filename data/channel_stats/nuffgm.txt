@@ -1,0 +1,1 @@
+{"channel": "nuffgm", "avg_viewers": 25, "followers_gained": 32, "peak_viewers": 154, "hours_streamed": 89, "streams": 41, "mature": 0, "language": "Spanish", "account_age": 3019680.0}

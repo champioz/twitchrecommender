@@ -1,0 +1,1 @@
+{"channel": "reykars_challenge", "avg_viewers": 40, "followers_gained": 8, "peak_viewers": 77, "hours_streamed": 79, "streams": 18, "mature": 1, "language": "German", "account_age": 1939680.0}

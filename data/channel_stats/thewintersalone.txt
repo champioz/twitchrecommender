@@ -1,0 +1,1 @@
+{"channel": "thewintersalone", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 1687680.0}

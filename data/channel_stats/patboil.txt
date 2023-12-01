@@ -1,0 +1,1 @@
+{"channel": "patboil", "avg_viewers": 21, "followers_gained": 170, "peak_viewers": 77, "hours_streamed": 145, "streams": 22, "mature": 1, "language": "French", "account_age": 3343680.0}

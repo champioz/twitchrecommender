@@ -1,0 +1,1 @@
+{"channel": "purple_hs", "avg_viewers": 838, "followers_gained": 2143, "peak_viewers": 2201, "hours_streamed": 147, "streams": 23, "mature": 0, "language": "English", "account_age": 2316960.0}

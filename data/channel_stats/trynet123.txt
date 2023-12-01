@@ -1,0 +1,1 @@
+{"channel": "trynet123", "avg_viewers": 373, "followers_gained": 623, "peak_viewers": 788, "hours_streamed": 196, "streams": 32, "mature": 0, "language": "English", "account_age": 3359520.0}

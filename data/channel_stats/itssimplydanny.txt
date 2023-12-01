@@ -1,0 +1,1 @@
+{"channel": "itssimplydanny", "avg_viewers": 19, "followers_gained": 601, "peak_viewers": 73, "hours_streamed": 184, "streams": 26, "mature": 0, "language": "English", "account_age": 348480.0}

@@ -1,0 +1,1 @@
+{"channel": "neymarc1n", "avg_viewers": 33, "followers_gained": 452, "peak_viewers": 69, "hours_streamed": 248, "streams": 33, "mature": 0, "language": "Portuguese", "account_age": 2810880.0}

@@ -1,0 +1,1 @@
+{"channel": "melo_xd", "avg_viewers": 3, "followers_gained": 18, "peak_viewers": 7, "hours_streamed": 13, "streams": 3, "mature": 0, "language": "Portuguese", "account_age": 2878560.0}

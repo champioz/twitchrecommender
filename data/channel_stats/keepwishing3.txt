@@ -1,0 +1,1 @@
+{"channel": "keepwishing3", "avg_viewers": 5, "followers_gained": 16, "peak_viewers": 19, "hours_streamed": 230, "streams": 24, "mature": 1, "language": "English", "account_age": 3055680.0}

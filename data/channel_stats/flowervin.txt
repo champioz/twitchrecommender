@@ -1,0 +1,1 @@
+{"channel": "flowervin", "avg_viewers": 939, "followers_gained": 620, "peak_viewers": 2659, "hours_streamed": 89, "streams": 19, "mature": 0, "language": "Korean", "account_age": 1080000.0}

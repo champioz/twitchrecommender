@@ -1,0 +1,1 @@
+{"channel": "sologesang", "avg_viewers": 771, "followers_gained": 5042, "peak_viewers": 2293, "hours_streamed": 164, "streams": 39, "mature": 0, "language": "German", "account_age": 1431360.0}

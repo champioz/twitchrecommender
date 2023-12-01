@@ -1,0 +1,1 @@
+{"channel": "nigotti", "avg_viewers": 5, "followers_gained": 19, "peak_viewers": 19, "hours_streamed": 52, "streams": 22, "mature": 0, "language": "Japanese", "account_age": 1880640.0}

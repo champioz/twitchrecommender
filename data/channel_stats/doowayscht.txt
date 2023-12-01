@@ -1,0 +1,1 @@
+{"channel": "doowayscht", "avg_viewers": 72, "followers_gained": 151375, "peak_viewers": 300, "hours_streamed": 192, "streams": 34, "mature": 1, "language": "German", "account_age": 4546080.0}

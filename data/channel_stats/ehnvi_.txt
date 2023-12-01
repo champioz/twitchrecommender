@@ -1,0 +1,1 @@
+{"channel": "ehnvi_", "avg_viewers": 5, "followers_gained": 23, "peak_viewers": 14, "hours_streamed": 60, "streams": 14, "mature": 1, "language": "French", "account_age": 3738240.0}

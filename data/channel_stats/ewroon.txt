@@ -1,0 +1,1 @@
+{"channel": "ewroon", "avg_viewers": 4391, "followers_gained": 13423, "peak_viewers": 19242, "hours_streamed": 188, "streams": 30, "mature": 0, "language": "Polish", "account_age": 2354400.0}

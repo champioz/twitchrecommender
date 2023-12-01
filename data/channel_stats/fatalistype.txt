@@ -1,0 +1,1 @@
+{"channel": "fatalistype", "avg_viewers": 19, "followers_gained": 56, "peak_viewers": 43, "hours_streamed": 21, "streams": 11, "mature": 0, "language": "Russian", "account_age": 3016800.0}

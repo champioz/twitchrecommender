@@ -1,0 +1,1 @@
+{"channel": "scorched_lemon", "avg_viewers": 3, "followers_gained": 35, "peak_viewers": 117, "hours_streamed": 78, "streams": 31, "mature": 1, "language": "English", "account_age": 1956960.0}

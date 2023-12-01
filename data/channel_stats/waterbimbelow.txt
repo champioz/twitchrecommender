@@ -1,0 +1,1 @@
+{"channel": "waterbimbelow", "avg_viewers": 5, "followers_gained": 42, "peak_viewers": 20, "hours_streamed": 95, "streams": 20, "mature": 0, "language": "German", "account_age": 264960.0}

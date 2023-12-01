@@ -1,0 +1,1 @@
+{"channel": "gvmergirl", "avg_viewers": 6, "followers_gained": 47, "peak_viewers": 19, "hours_streamed": 23, "streams": 11, "mature": 1, "language": "Arabic", "account_age": 1545120.0}

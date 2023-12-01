@@ -1,0 +1,1 @@
+{"channel": "soyindies", "avg_viewers": 8, "followers_gained": 127, "peak_viewers": 79, "hours_streamed": 203, "streams": 43, "mature": 0, "language": "French", "account_age": 1307520.0}

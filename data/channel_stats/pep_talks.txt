@@ -1,0 +1,1 @@
+{"channel": "pep_talks", "avg_viewers": 32, "followers_gained": 197, "peak_viewers": 70, "hours_streamed": 190, "streams": 21, "mature": 1, "language": "English", "account_age": 1493280.0}

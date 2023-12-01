@@ -1,0 +1,1 @@
+{"channel": "beep_bep", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 15, "hours_streamed": 83, "streams": 35, "mature": 0, "language": "English", "account_age": 3108960.0}

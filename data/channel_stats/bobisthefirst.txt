@@ -1,0 +1,1 @@
+{"channel": "bobisthefirst", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 12, "hours_streamed": 22, "streams": 6, "mature": 1, "language": "Hungarian", "account_age": 2190240.0}

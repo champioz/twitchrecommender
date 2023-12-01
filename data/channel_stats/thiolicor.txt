@@ -1,0 +1,1 @@
+{"channel": "thiolicor", "avg_viewers": 79, "followers_gained": 133, "peak_viewers": 283, "hours_streamed": 19, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 3484800.0}

@@ -1,0 +1,1 @@
+{"channel": "macinvisible", "avg_viewers": 50, "followers_gained": 2, "peak_viewers": 63, "hours_streamed": 6, "streams": 1, "mature": 1, "language": "German", "account_age": 2412000.0}

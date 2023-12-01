@@ -1,0 +1,1 @@
+{"channel": "airrowstv", "avg_viewers": 14, "followers_gained": 116, "peak_viewers": 40, "hours_streamed": 67, "streams": 15, "mature": 1, "language": "English", "account_age": 2083680.0}

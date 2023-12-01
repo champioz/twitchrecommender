@@ -1,0 +1,1 @@
+{"channel": "friskybeast", "avg_viewers": 6, "followers_gained": 24, "peak_viewers": 23, "hours_streamed": 80, "streams": 16, "mature": 1, "language": "English", "account_age": 2903040.0}

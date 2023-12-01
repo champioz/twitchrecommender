@@ -1,0 +1,1 @@
+{"channel": "milliyoxi", "avg_viewers": 18, "followers_gained": 2, "peak_viewers": 93, "hours_streamed": 17, "streams": 8, "mature": 0, "language": "Russian", "account_age": 1091520.0}

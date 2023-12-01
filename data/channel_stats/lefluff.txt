@@ -1,0 +1,1 @@
+{"channel": "lefluff", "avg_viewers": 32, "followers_gained": 12, "peak_viewers": 50, "hours_streamed": 3, "streams": 2, "mature": 1, "language": "English", "account_age": 3546720.0}

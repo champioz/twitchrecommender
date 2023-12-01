@@ -1,0 +1,1 @@
+{"channel": "izidore", "avg_viewers": 25, "followers_gained": 267, "peak_viewers": 203, "hours_streamed": 191, "streams": 47, "mature": 0, "language": "English", "account_age": 1355040.0}

@@ -1,0 +1,1 @@
+{"channel": "vencaofficial", "avg_viewers": 6, "followers_gained": 30, "peak_viewers": 152, "hours_streamed": 60, "streams": 18, "mature": 1, "language": "Czech", "account_age": 2504160.0}

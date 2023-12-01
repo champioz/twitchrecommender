@@ -1,0 +1,1 @@
+{"channel": "code65536", "avg_viewers": 4, "followers_gained": 28, "peak_viewers": 24, "hours_streamed": 84, "streams": 42, "mature": 0, "language": "English", "account_age": 1863360.0}

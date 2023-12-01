@@ -1,0 +1,1 @@
+{"channel": "corvenick", "avg_viewers": 7, "followers_gained": 7, "peak_viewers": 19, "hours_streamed": 33, "streams": 9, "mature": 1, "language": "German", "account_age": 1562400.0}

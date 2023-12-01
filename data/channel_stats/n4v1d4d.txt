@@ -1,0 +1,1 @@
+{"channel": "n4v1d4d", "avg_viewers": 3, "followers_gained": 53, "peak_viewers": 13, "hours_streamed": 244, "streams": 40, "mature": 1, "language": "Spanish", "account_age": 2397600.0}

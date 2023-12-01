@@ -1,0 +1,1 @@
+{"channel": "monsantohs", "avg_viewers": 20, "followers_gained": 14, "peak_viewers": 34, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 2377440.0}

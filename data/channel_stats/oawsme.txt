@@ -1,0 +1,1 @@
+{"channel": "oawsme", "avg_viewers": 9, "followers_gained": 85, "peak_viewers": 27, "hours_streamed": 82, "streams": 23, "mature": 0, "language": "English", "account_age": 1677600.0}

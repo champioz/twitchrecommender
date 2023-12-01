@@ -1,0 +1,1 @@
+{"channel": "hazeykthx", "avg_viewers": 7, "followers_gained": 7, "peak_viewers": 18, "hours_streamed": 13, "streams": 5, "mature": 1, "language": "English", "account_age": 2952000.0}

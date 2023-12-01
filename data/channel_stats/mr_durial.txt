@@ -1,0 +1,1 @@
+{"channel": "mr_durial", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 15, "hours_streamed": 78, "streams": 22, "mature": 1, "language": "English", "account_age": 1571040.0}

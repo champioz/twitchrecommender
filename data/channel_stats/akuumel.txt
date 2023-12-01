@@ -1,0 +1,1 @@
+{"channel": "akuumel", "avg_viewers": 47, "followers_gained": 326, "peak_viewers": 167, "hours_streamed": 148, "streams": 27, "mature": 0, "language": "English", "account_age": 3139200.0}

@@ -1,0 +1,1 @@
+{"channel": "macarenabr", "avg_viewers": 82, "followers_gained": 844, "peak_viewers": 249, "hours_streamed": 165, "streams": 31, "mature": 0, "language": "Portuguese", "account_age": 518400.0}

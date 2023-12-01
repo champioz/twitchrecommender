@@ -1,0 +1,1 @@
+{"channel": "troakgg", "avg_viewers": 7, "followers_gained": 111, "peak_viewers": 36, "hours_streamed": 81, "streams": 30, "mature": 0, "language": "French", "account_age": 3516480.0}

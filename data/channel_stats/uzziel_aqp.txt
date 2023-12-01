@@ -1,0 +1,1 @@
+{"channel": "uzziel_aqp", "avg_viewers": 31, "followers_gained": 212, "peak_viewers": 76, "hours_streamed": 21, "streams": 6, "mature": 1, "language": "Spanish", "account_age": 992160.0}

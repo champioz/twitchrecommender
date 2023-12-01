@@ -1,0 +1,1 @@
+{"channel": "hexic_tv", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 15, "hours_streamed": 119, "streams": 35, "mature": 1, "language": "English", "account_age": 450720.0}

@@ -1,0 +1,1 @@
+{"channel": "hmpfreally", "avg_viewers": 35, "followers_gained": 4, "peak_viewers": 83, "hours_streamed": 18, "streams": 4, "mature": 1, "language": "German", "account_age": 3360960.0}

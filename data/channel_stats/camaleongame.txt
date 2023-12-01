@@ -1,0 +1,1 @@
+{"channel": "camaleongame", "avg_viewers": 2, "followers_gained": 22, "peak_viewers": 9, "hours_streamed": 17, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 1402560.0}

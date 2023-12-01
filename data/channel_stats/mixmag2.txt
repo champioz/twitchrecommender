@@ -1,0 +1,1 @@
+{"channel": "mixmag2", "avg_viewers": 35, "followers_gained": 55, "peak_viewers": 54, "hours_streamed": 11, "streams": 4, "mature": 1, "language": "Korean", "account_age": 303840.0}

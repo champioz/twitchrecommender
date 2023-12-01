@@ -1,0 +1,1 @@
+{"channel": "katiebell07", "avg_viewers": 10, "followers_gained": 87, "peak_viewers": 23, "hours_streamed": 121, "streams": 20, "mature": 1, "language": "German", "account_age": 1398240.0}

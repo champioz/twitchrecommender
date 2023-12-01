@@ -1,0 +1,1 @@
+{"channel": "huertocam", "avg_viewers": 0, "followers_gained": 24, "peak_viewers": 5, "hours_streamed": 486, "streams": 16, "mature": 1, "language": "Spanish", "account_age": 522720.0}

@@ -1,0 +1,1 @@
+{"channel": "insan1a", "avg_viewers": 142, "followers_gained": 304, "peak_viewers": 987, "hours_streamed": 13, "streams": 6, "mature": 0, "language": "English", "account_age": 4456800.0}

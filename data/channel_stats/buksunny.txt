@@ -1,0 +1,1 @@
+{"channel": "buksunny", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 15, "hours_streamed": 56, "streams": 15, "mature": 0, "language": "English", "account_age": 3667680.0}

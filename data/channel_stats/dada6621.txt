@@ -1,0 +1,1 @@
+{"channel": "dada6621", "avg_viewers": 29, "followers_gained": 216, "peak_viewers": 234, "hours_streamed": 118, "streams": 36, "mature": 0, "language": "Chinese", "account_age": 185760.0}

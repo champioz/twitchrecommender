@@ -1,0 +1,1 @@
+{"channel": "ohekate", "avg_viewers": 10, "followers_gained": 7, "peak_viewers": 17, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "Spanish", "account_age": 2342880.0}

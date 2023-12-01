@@ -1,0 +1,1 @@
+{"channel": "queenraelyn", "avg_viewers": 4, "followers_gained": 34, "peak_viewers": 13, "hours_streamed": 69, "streams": 40, "mature": 1, "language": "English", "account_age": 184320.0}

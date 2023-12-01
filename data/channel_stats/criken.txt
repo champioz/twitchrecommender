@@ -1,0 +1,1 @@
+{"channel": "criken", "avg_viewers": 1911, "followers_gained": 2138, "peak_viewers": 3456, "hours_streamed": 123, "streams": 22, "mature": 0, "language": "English", "account_age": 4623840.0}

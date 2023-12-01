@@ -1,0 +1,1 @@
+{"channel": "xranz1x", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 15, "hours_streamed": 35, "streams": 9, "mature": 0, "language": "Portuguese", "account_age": 1270080.0}

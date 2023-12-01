@@ -1,0 +1,1 @@
+{"channel": "lightningenki", "avg_viewers": 21, "followers_gained": 51, "peak_viewers": 39, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "French", "account_age": 1959840.0}

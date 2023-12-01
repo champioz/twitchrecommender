@@ -1,0 +1,1 @@
+{"channel": "a_raving_loon", "avg_viewers": 88, "followers_gained": 46, "peak_viewers": 194, "hours_streamed": 86, "streams": 19, "mature": 0, "language": "English", "account_age": 4017600.0}

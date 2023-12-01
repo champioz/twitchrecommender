@@ -1,0 +1,1 @@
+{"channel": "eskaem", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 8, "hours_streamed": 25, "streams": 9, "mature": 0, "language": "French", "account_age": 3293280.0}

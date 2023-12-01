@@ -1,0 +1,1 @@
+{"channel": "gardoum", "avg_viewers": 17, "followers_gained": 46, "peak_viewers": 63, "hours_streamed": 56, "streams": 14, "mature": 0, "language": "French", "account_age": 3885120.0}

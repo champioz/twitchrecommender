@@ -1,0 +1,1 @@
+{"channel": "kaltertv", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 8, "hours_streamed": 37, "streams": 11, "mature": 0, "language": "Russian", "account_age": 385920.0}

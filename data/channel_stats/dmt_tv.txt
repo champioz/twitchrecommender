@@ -1,0 +1,1 @@
+{"channel": "dmt_tv", "avg_viewers": 106, "followers_gained": 6, "peak_viewers": 133, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Thai", "account_age": 1729440.0}

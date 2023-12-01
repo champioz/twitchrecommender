@@ -1,0 +1,1 @@
+{"channel": "diemanski", "avg_viewers": 10, "followers_gained": 45, "peak_viewers": 39, "hours_streamed": 90, "streams": 15, "mature": 1, "language": "Dutch", "account_age": 1732320.0}

@@ -1,0 +1,1 @@
+{"channel": "heatwave_osu", "avg_viewers": 3, "followers_gained": 20, "peak_viewers": 14, "hours_streamed": 37, "streams": 8, "mature": 1, "language": "English", "account_age": 912960.0}

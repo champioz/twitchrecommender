@@ -1,0 +1,1 @@
+{"channel": "toxicxeternity", "avg_viewers": 43, "followers_gained": 130, "peak_viewers": 166, "hours_streamed": 23, "streams": 9, "mature": 0, "language": "English", "account_age": 3618720.0}

@@ -1,0 +1,1 @@
+{"channel": "vaevictiswow", "avg_viewers": 3, "followers_gained": 11, "peak_viewers": 12, "hours_streamed": 43, "streams": 22, "mature": 1, "language": "English", "account_age": 793440.0}

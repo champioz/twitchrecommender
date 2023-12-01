@@ -1,0 +1,1 @@
+{"channel": "sunderseries", "avg_viewers": 26, "followers_gained": 34, "peak_viewers": 74, "hours_streamed": 41, "streams": 7, "mature": 1, "language": "English", "account_age": 2024640.0}

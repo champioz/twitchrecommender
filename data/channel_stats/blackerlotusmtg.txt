@@ -1,0 +1,1 @@
+{"channel": "blackerlotusmtg", "avg_viewers": 44, "followers_gained": 230, "peak_viewers": 106, "hours_streamed": 80, "streams": 28, "mature": 0, "language": "Portuguese", "account_age": 1671840.0}

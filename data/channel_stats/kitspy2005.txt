@@ -1,0 +1,1 @@
+{"channel": "kitspy2005", "avg_viewers": 111, "followers_gained": 4, "peak_viewers": 199, "hours_streamed": 26, "streams": 12, "mature": 1, "language": "Chinese (Hong Kong SAR)", "account_age": 4757760.0}

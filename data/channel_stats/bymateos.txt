@@ -1,0 +1,1 @@
+{"channel": "bymateos", "avg_viewers": 34, "followers_gained": 311, "peak_viewers": 81, "hours_streamed": 41, "streams": 12, "mature": 1, "language": "Spanish", "account_age": 2440800.0}

@@ -1,0 +1,1 @@
+{"channel": "meattakeshi", "avg_viewers": 11, "followers_gained": 33, "peak_viewers": 40, "hours_streamed": 115, "streams": 36, "mature": 0, "language": "Japanese", "account_age": 1452960.0}

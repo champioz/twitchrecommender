@@ -1,0 +1,1 @@
+{"channel": "takahata101", "avg_viewers": 438, "followers_gained": 321, "peak_viewers": 1255, "hours_streamed": 59, "streams": 20, "mature": 0, "language": "English", "account_age": 4474080.0}

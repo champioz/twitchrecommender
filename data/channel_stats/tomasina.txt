@@ -1,0 +1,1 @@
+{"channel": "tomasina", "avg_viewers": 52, "followers_gained": 84, "peak_viewers": 244, "hours_streamed": 37, "streams": 9, "mature": 0, "language": "English", "account_age": 828000.0}

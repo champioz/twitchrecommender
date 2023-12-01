@@ -1,0 +1,1 @@
+{"channel": "hahahe0304", "avg_viewers": 189, "followers_gained": 7, "peak_viewers": 335, "hours_streamed": 34, "streams": 11, "mature": 0, "language": "Chinese", "account_age": 2124000.0}

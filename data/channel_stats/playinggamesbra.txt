@@ -1,0 +1,1 @@
+{"channel": "playinggamesbra", "avg_viewers": 1, "followers_gained": 32, "peak_viewers": 7, "hours_streamed": 45, "streams": 7, "mature": 0, "language": "Portuguese", "account_age": 1965600.0}

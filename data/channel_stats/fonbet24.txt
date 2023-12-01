@@ -1,0 +1,1 @@
+{"channel": "fonbet24", "avg_viewers": 61, "followers_gained": 503, "peak_viewers": 114, "hours_streamed": 488, "streams": 49, "mature": 0, "language": "Russian", "account_age": 1869120.0}

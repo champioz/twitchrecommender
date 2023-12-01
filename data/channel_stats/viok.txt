@@ -1,0 +1,1 @@
+{"channel": "viok", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 36, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 3506400.0}

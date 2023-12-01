@@ -1,0 +1,1 @@
+{"channel": "stepharina", "avg_viewers": 54, "followers_gained": 180, "peak_viewers": 487, "hours_streamed": 67, "streams": 13, "mature": 0, "language": "English", "account_age": 774720.0}

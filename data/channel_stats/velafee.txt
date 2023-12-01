@@ -1,0 +1,1 @@
+{"channel": "velafee", "avg_viewers": 202, "followers_gained": 47, "peak_viewers": 264, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "German", "account_age": 2985120.0}

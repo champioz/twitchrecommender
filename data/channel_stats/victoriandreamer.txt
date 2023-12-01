@@ -1,0 +1,1 @@
+{"channel": "victoriandreamer", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 17, "hours_streamed": 151, "streams": 16, "mature": 1, "language": "English", "account_age": 1320480.0}

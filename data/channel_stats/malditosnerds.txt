@@ -1,0 +1,1 @@
+{"channel": "malditosnerds", "avg_viewers": 96, "followers_gained": 229, "peak_viewers": 232, "hours_streamed": 90, "streams": 22, "mature": 0, "language": "Spanish", "account_age": 3525120.0}

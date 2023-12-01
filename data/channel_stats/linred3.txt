@@ -1,0 +1,1 @@
+{"channel": "linred3", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 27, "hours_streamed": 17, "streams": 7, "mature": 0, "language": "Chinese", "account_age": 1683360.0}

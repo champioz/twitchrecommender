@@ -1,0 +1,1 @@
+{"channel": "pipa_arg", "avg_viewers": 45, "followers_gained": 596, "peak_viewers": 365, "hours_streamed": 141, "streams": 41, "mature": 0, "language": "Spanish", "account_age": 676800.0}

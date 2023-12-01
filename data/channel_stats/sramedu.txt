@@ -1,0 +1,1 @@
+{"channel": "sramedu", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 11, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 2511360.0}

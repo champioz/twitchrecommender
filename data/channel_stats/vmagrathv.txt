@@ -1,0 +1,1 @@
+{"channel": "vmagrathv", "avg_viewers": 14, "followers_gained": 47, "peak_viewers": 219, "hours_streamed": 119, "streams": 22, "mature": 0, "language": "English", "account_age": 1833120.0}

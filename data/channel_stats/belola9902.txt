@@ -1,0 +1,1 @@
+{"channel": "belola9902", "avg_viewers": 4, "followers_gained": 36, "peak_viewers": 13, "hours_streamed": 32, "streams": 23, "mature": 0, "language": "Italian", "account_age": 599040.0}

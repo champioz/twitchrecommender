@@ -1,0 +1,1 @@
+{"channel": "axenix", "avg_viewers": 64, "followers_gained": 55, "peak_viewers": 371, "hours_streamed": 242, "streams": 29, "mature": 0, "language": "Korean", "account_age": 3003840.0}

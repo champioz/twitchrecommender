@@ -1,0 +1,1 @@
+{"channel": "5w1ff3r", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 19, "streams": 8, "mature": 1, "language": "German", "account_age": 2376000.0}

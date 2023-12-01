@@ -1,0 +1,1 @@
+{"channel": "tself55", "avg_viewers": 19, "followers_gained": 19, "peak_viewers": 68, "hours_streamed": 23, "streams": 13, "mature": 0, "language": "English", "account_age": 3771360.0}

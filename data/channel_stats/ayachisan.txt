@@ -1,0 +1,1 @@
+{"channel": "ayachisan", "avg_viewers": 7, "followers_gained": 7, "peak_viewers": 11, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Japanese", "account_age": 1584000.0}

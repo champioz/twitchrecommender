@@ -1,0 +1,1 @@
+{"channel": "itsguio", "avg_viewers": 15, "followers_gained": 533, "peak_viewers": 32, "hours_streamed": 127, "streams": 57, "mature": 0, "language": "Italian", "account_age": 419040.0}

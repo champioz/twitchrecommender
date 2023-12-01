@@ -1,0 +1,1 @@
+{"channel": "annifex", "avg_viewers": 5, "followers_gained": 4, "peak_viewers": 9, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 823680.0}

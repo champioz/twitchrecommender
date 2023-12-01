@@ -1,0 +1,1 @@
+{"channel": "chaddraven", "avg_viewers": 30, "followers_gained": 24, "peak_viewers": 127, "hours_streamed": 27, "streams": 6, "mature": 0, "language": "English", "account_age": 881280.0}

@@ -1,0 +1,1 @@
+{"channel": "sandrariieeraa", "avg_viewers": 13, "followers_gained": 66, "peak_viewers": 36, "hours_streamed": 78, "streams": 33, "mature": 0, "language": "Spanish", "account_age": 1258560.0}

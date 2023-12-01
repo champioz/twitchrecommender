@@ -1,0 +1,1 @@
+{"channel": "kimdalnar", "avg_viewers": 32, "followers_gained": 24, "peak_viewers": 62, "hours_streamed": 20, "streams": 6, "mature": 1, "language": "French", "account_age": 1677600.0}

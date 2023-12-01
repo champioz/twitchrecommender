@@ -1,0 +1,1 @@
+{"channel": "hotball1", "avg_viewers": 41, "followers_gained": 235, "peak_viewers": 107, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "English", "account_age": 2910240.0}

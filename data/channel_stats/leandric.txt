@@ -1,0 +1,1 @@
+{"channel": "leandric", "avg_viewers": 2, "followers_gained": 70, "peak_viewers": 9, "hours_streamed": 24, "streams": 11, "mature": 0, "language": "Portuguese", "account_age": 2243520.0}

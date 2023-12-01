@@ -1,0 +1,1 @@
+{"channel": "leeajie", "avg_viewers": 302, "followers_gained": 398, "peak_viewers": 1270, "hours_streamed": 19, "streams": 5, "mature": 1, "language": "Chinese", "account_age": 1853280.0}

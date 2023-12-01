@@ -1,0 +1,1 @@
+{"channel": "zataleya", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 35, "hours_streamed": 32, "streams": 11, "mature": 0, "language": "German", "account_age": 384480.0}

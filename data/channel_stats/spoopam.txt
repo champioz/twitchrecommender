@@ -1,0 +1,1 @@
+{"channel": "spoopam", "avg_viewers": 11, "followers_gained": 631, "peak_viewers": 32, "hours_streamed": 168, "streams": 38, "mature": 1, "language": "Spanish", "account_age": 1036800.0}

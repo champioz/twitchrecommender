@@ -1,0 +1,1 @@
+{"channel": "tezmate", "avg_viewers": 178, "followers_gained": 2916, "peak_viewers": 1292, "hours_streamed": 187, "streams": 30, "mature": 1, "language": "English", "account_age": 1094400.0}

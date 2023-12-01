@@ -1,0 +1,1 @@
+{"channel": "pocketmonstermax", "avg_viewers": 25, "followers_gained": 66, "peak_viewers": 59, "hours_streamed": 47, "streams": 20, "mature": 1, "language": "English", "account_age": 1728000.0}

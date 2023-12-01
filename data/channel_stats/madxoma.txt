@@ -1,0 +1,1 @@
+{"channel": "madxoma", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 13, "hours_streamed": 45, "streams": 16, "mature": 1, "language": "Russian", "account_age": 2990880.0}

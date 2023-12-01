@@ -1,0 +1,1 @@
+{"channel": "supasp", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 8, "hours_streamed": 72, "streams": 17, "mature": 1, "language": "English", "account_age": 319680.0}

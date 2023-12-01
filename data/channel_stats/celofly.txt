@@ -1,0 +1,1 @@
+{"channel": "celofly", "avg_viewers": 10, "followers_gained": 21, "peak_viewers": 17, "hours_streamed": 7, "streams": 1, "mature": 1, "language": "Turkish", "account_age": 1848960.0}

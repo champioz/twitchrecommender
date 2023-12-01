@@ -1,0 +1,1 @@
+{"channel": "aiiyousee", "avg_viewers": 8, "followers_gained": 4, "peak_viewers": 19, "hours_streamed": 18, "streams": 5, "mature": 1, "language": "German", "account_age": 3545280.0}

@@ -1,0 +1,1 @@
+{"channel": "brandongrych", "avg_viewers": 27, "followers_gained": 413, "peak_viewers": 68, "hours_streamed": 167, "streams": 53, "mature": 0, "language": "English", "account_age": 1344960.0}

@@ -1,0 +1,1 @@
+{"channel": "elwarius", "avg_viewers": 70, "followers_gained": 38, "peak_viewers": 121, "hours_streamed": 49, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 3867840.0}

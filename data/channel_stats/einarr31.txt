@@ -1,0 +1,1 @@
+{"channel": "einarr31", "avg_viewers": 6, "followers_gained": 25, "peak_viewers": 32, "hours_streamed": 41, "streams": 11, "mature": 1, "language": "English", "account_age": 3641760.0}

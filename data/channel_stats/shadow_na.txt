@@ -1,0 +1,1 @@
+{"channel": "shadow_na", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 8, "streams": 5, "mature": 1, "language": "English", "account_age": 2914560.0}

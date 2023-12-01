@@ -1,0 +1,1 @@
+{"channel": "gingerbreadmean", "avg_viewers": 6, "followers_gained": 60, "peak_viewers": 22, "hours_streamed": 106, "streams": 20, "mature": 0, "language": "English", "account_age": 1144800.0}

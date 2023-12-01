@@ -1,0 +1,1 @@
+{"channel": "zingaraez", "avg_viewers": 26, "followers_gained": 577, "peak_viewers": 49, "hours_streamed": 67, "streams": 24, "mature": 0, "language": "Spanish", "account_age": 804960.0}

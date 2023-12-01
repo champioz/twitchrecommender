@@ -1,0 +1,1 @@
+{"channel": "ovlder", "avg_viewers": 6, "followers_gained": 34, "peak_viewers": 43, "hours_streamed": 15, "streams": 18, "mature": 0, "language": "Russian", "account_age": 387360.0}

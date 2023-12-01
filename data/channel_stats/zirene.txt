@@ -1,0 +1,1 @@
+{"channel": "zirene", "avg_viewers": 146, "followers_gained": 384, "peak_viewers": 1008, "hours_streamed": 82, "streams": 16, "mature": 1, "language": "English", "account_age": 3965760.0}

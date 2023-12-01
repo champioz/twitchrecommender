@@ -1,0 +1,1 @@
+{"channel": "jpbreganza", "avg_viewers": 12, "followers_gained": 15, "peak_viewers": 41, "hours_streamed": 23, "streams": 10, "mature": 1, "language": "English", "account_age": 4658400.0}

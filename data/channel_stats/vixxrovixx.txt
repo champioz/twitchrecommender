@@ -1,0 +1,1 @@
+{"channel": "vixxrovixx", "avg_viewers": 5, "followers_gained": 5, "peak_viewers": 67, "hours_streamed": 17, "streams": 6, "mature": 0, "language": "English", "account_age": 2292480.0}

@@ -1,0 +1,1 @@
+{"channel": "lichlings", "avg_viewers": 51, "followers_gained": 198, "peak_viewers": 170, "hours_streamed": 128, "streams": 19, "mature": 1, "language": "English", "account_age": 2848320.0}

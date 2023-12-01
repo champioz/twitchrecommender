@@ -1,0 +1,1 @@
+{"channel": "jboling", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 21, "streams": 8, "mature": 1, "language": "English", "account_age": 1347840.0}

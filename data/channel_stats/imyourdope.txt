@@ -1,0 +1,1 @@
+{"channel": "imyourdope", "avg_viewers": 40, "followers_gained": 31, "peak_viewers": 378, "hours_streamed": 56, "streams": 22, "mature": 1, "language": "Russian", "account_age": 3252960.0}

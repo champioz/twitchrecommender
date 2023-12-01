@@ -1,0 +1,1 @@
+{"channel": "babouw", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 10, "hours_streamed": 71, "streams": 30, "mature": 1, "language": "French", "account_age": 2607840.0}

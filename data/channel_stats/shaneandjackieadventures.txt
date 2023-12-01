@@ -1,0 +1,1 @@
+{"channel": "shaneandjackieadventures", "avg_viewers": 20, "followers_gained": 124, "peak_viewers": 54, "hours_streamed": 133, "streams": 43, "mature": 1, "language": "English", "account_age": 240480.0}

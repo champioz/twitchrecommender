@@ -1,0 +1,1 @@
+{"channel": "secksyalexy", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 12, "hours_streamed": 85, "streams": 40, "mature": 0, "language": "English", "account_age": 2851200.0}

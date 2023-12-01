@@ -1,0 +1,1 @@
+{"channel": "thedwarrowscholar", "avg_viewers": 14, "followers_gained": 23, "peak_viewers": 36, "hours_streamed": 28, "streams": 9, "mature": 0, "language": "English", "account_age": 2079360.0}

@@ -1,0 +1,1 @@
+{"channel": "pengartist", "avg_viewers": 7, "followers_gained": 35, "peak_viewers": 34, "hours_streamed": 244, "streams": 30, "mature": 1, "language": "English", "account_age": 2712960.0}

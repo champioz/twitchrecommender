@@ -1,0 +1,1 @@
+{"channel": "missbun", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 2187360.0}

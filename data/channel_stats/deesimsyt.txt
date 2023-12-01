@@ -1,0 +1,1 @@
+{"channel": "deesimsyt", "avg_viewers": 198, "followers_gained": 1214, "peak_viewers": 376, "hours_streamed": 78, "streams": 23, "mature": 0, "language": "English", "account_age": 2234880.0}

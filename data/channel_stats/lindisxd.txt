@@ -1,0 +1,1 @@
+{"channel": "lindisxd", "avg_viewers": 63, "followers_gained": 1139, "peak_viewers": 1384, "hours_streamed": 64, "streams": 15, "mature": 1, "language": "English", "account_age": 2619360.0}

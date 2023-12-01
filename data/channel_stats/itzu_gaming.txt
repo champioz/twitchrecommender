@@ -1,0 +1,1 @@
+{"channel": "itzu_gaming", "avg_viewers": 522, "followers_gained": 1221, "peak_viewers": 772, "hours_streamed": 15, "streams": 10, "mature": 0, "language": "German", "account_age": 332640.0}

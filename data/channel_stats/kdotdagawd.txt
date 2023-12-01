@@ -1,0 +1,1 @@
+{"channel": "kdotdagawd", "avg_viewers": 8, "followers_gained": 40, "peak_viewers": 29, "hours_streamed": 106, "streams": 36, "mature": 0, "language": "English", "account_age": 751680.0}

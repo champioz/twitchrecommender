@@ -1,0 +1,1 @@
+{"channel": "fabioandrade", "avg_viewers": 10, "followers_gained": 70, "peak_viewers": 26, "hours_streamed": 196, "streams": 60, "mature": 0, "language": "Portuguese", "account_age": 2596320.0}

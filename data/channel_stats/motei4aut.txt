@@ -1,0 +1,1 @@
+{"channel": "motei4aut", "avg_viewers": 24, "followers_gained": 100, "peak_viewers": 109, "hours_streamed": 102, "streams": 34, "mature": 0, "language": "German", "account_age": 2471040.0}

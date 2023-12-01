@@ -1,0 +1,1 @@
+{"channel": "galanandroses", "avg_viewers": 48, "followers_gained": 99, "peak_viewers": 77, "hours_streamed": 85, "streams": 29, "mature": 0, "language": "Spanish", "account_age": 1290240.0}

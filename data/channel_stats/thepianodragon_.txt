@@ -1,0 +1,1 @@
+{"channel": "thepianodragon_", "avg_viewers": 65, "followers_gained": 226, "peak_viewers": 134, "hours_streamed": 75, "streams": 19, "mature": 0, "language": "German", "account_age": 1010880.0}

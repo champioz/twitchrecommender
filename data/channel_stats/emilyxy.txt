@@ -1,0 +1,1 @@
+{"channel": "emilyxy", "avg_viewers": 23, "followers_gained": 181, "peak_viewers": 66, "hours_streamed": 110, "streams": 33, "mature": 0, "language": "Polish", "account_age": 732960.0}

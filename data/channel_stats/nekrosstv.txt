@@ -1,0 +1,1 @@
+{"channel": "nekrosstv", "avg_viewers": 6, "followers_gained": 5, "peak_viewers": 41, "hours_streamed": 59, "streams": 18, "mature": 0, "language": "French", "account_age": 591840.0}

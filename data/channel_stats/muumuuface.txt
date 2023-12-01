@@ -1,0 +1,1 @@
+{"channel": "muumuuface", "avg_viewers": 14, "followers_gained": 50, "peak_viewers": 32, "hours_streamed": 43, "streams": 9, "mature": 1, "language": "English", "account_age": 1526400.0}

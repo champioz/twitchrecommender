@@ -1,0 +1,1 @@
+{"channel": "wer1tv", "avg_viewers": 13, "followers_gained": 14, "peak_viewers": 38, "hours_streamed": 27, "streams": 13, "mature": 0, "language": "Japanese", "account_age": 1147680.0}

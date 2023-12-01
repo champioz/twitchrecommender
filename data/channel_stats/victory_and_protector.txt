@@ -1,0 +1,1 @@
+{"channel": "victory_and_protector", "avg_viewers": 3, "followers_gained": 37, "peak_viewers": 13, "hours_streamed": 69, "streams": 30, "mature": 1, "language": "Russian", "account_age": 1045440.0}

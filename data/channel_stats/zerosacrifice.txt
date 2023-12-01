@@ -1,0 +1,1 @@
+{"channel": "zerosacrifice", "avg_viewers": 4, "followers_gained": 19, "peak_viewers": 12, "hours_streamed": 57, "streams": 14, "mature": 1, "language": "English", "account_age": 3945600.0}

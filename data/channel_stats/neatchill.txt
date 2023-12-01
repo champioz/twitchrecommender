@@ -1,0 +1,1 @@
+{"channel": "neatchill", "avg_viewers": 8, "followers_gained": 15, "peak_viewers": 21, "hours_streamed": 53, "streams": 18, "mature": 1, "language": "English", "account_age": 3938400.0}

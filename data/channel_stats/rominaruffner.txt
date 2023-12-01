@@ -1,0 +1,1 @@
+{"channel": "rominaruffner", "avg_viewers": 13, "followers_gained": 95, "peak_viewers": 33, "hours_streamed": 66, "streams": 13, "mature": 1, "language": "Spanish", "account_age": 2701440.0}

@@ -1,0 +1,1 @@
+{"channel": "miezekotzesc", "avg_viewers": 26, "followers_gained": 0, "peak_viewers": 36, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "German", "account_age": 3803040.0}

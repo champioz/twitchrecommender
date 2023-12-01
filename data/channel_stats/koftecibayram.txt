@@ -1,0 +1,1 @@
+{"channel": "koftecibayram", "avg_viewers": 2, "followers_gained": 65, "peak_viewers": 27, "hours_streamed": 32, "streams": 11, "mature": 0, "language": "Turkish", "account_age": 590400.0}

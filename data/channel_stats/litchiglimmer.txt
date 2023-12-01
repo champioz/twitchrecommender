@@ -1,0 +1,1 @@
+{"channel": "litchiglimmer", "avg_viewers": 13, "followers_gained": 1064, "peak_viewers": 34, "hours_streamed": 131, "streams": 42, "mature": 0, "language": "Spanish", "account_age": 1188000.0}

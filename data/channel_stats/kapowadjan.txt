@@ -1,0 +1,1 @@
+{"channel": "kapowadjan", "avg_viewers": 40, "followers_gained": 140, "peak_viewers": 92, "hours_streamed": 164, "streams": 48, "mature": 0, "language": "Russian", "account_age": 1716480.0}

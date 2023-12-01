@@ -1,0 +1,1 @@
+{"channel": "bobyandcie", "avg_viewers": 5, "followers_gained": 121, "peak_viewers": 17, "hours_streamed": 90, "streams": 25, "mature": 0, "language": "French", "account_age": 298080.0}

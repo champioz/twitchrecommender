@@ -1,0 +1,1 @@
+{"channel": "kapplerr", "avg_viewers": 30, "followers_gained": 115, "peak_viewers": 68, "hours_streamed": 52, "streams": 11, "mature": 1, "language": "English", "account_age": 3108960.0}

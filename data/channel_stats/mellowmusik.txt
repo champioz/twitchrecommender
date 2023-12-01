@@ -1,0 +1,1 @@
+{"channel": "mellowmusik", "avg_viewers": 105, "followers_gained": 50, "peak_viewers": 200, "hours_streamed": 133, "streams": 13, "mature": 0, "language": "English", "account_age": 100800.0}

@@ -1,0 +1,1 @@
+{"channel": "d0wwn", "avg_viewers": 34, "followers_gained": 286, "peak_viewers": 101, "hours_streamed": 59, "streams": 17, "mature": 0, "language": "Arabic", "account_age": 3241440.0}

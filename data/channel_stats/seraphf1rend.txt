@@ -1,0 +1,1 @@
+{"channel": "seraphf1rend", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 4, "hours_streamed": 21, "streams": 12, "mature": 0, "language": "English", "account_age": 286560.0}

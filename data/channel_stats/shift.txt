@@ -1,0 +1,1 @@
+{"channel": "shift", "avg_viewers": 551, "followers_gained": 3848, "peak_viewers": 2376, "hours_streamed": 299, "streams": 31, "mature": 0, "language": "English", "account_age": 2525760.0}

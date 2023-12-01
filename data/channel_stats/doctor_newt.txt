@@ -1,0 +1,1 @@
+{"channel": "doctor_newt", "avg_viewers": 8, "followers_gained": 34, "peak_viewers": 26, "hours_streamed": 79, "streams": 19, "mature": 1, "language": "English", "account_age": 2244960.0}

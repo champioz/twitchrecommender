@@ -1,0 +1,1 @@
+{"channel": "ej_sa", "avg_viewers": 416, "followers_gained": 309, "peak_viewers": 942, "hours_streamed": 217, "streams": 30, "mature": 0, "language": "English", "account_age": 4040640.0}

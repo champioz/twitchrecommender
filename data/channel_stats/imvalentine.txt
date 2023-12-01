@@ -1,0 +1,1 @@
+{"channel": "imvalentine", "avg_viewers": 11, "followers_gained": 140, "peak_viewers": 40, "hours_streamed": 72, "streams": 15, "mature": 1, "language": "English", "account_age": 1676160.0}

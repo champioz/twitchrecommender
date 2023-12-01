@@ -1,0 +1,1 @@
+{"channel": "cecile004", "avg_viewers": 5, "followers_gained": 15, "peak_viewers": 15, "hours_streamed": 34, "streams": 22, "mature": 1, "language": "French", "account_age": 1553760.0}

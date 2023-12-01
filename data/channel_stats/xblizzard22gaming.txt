@@ -1,0 +1,1 @@
+{"channel": "xblizzard22gaming", "avg_viewers": 16, "followers_gained": 353, "peak_viewers": 44, "hours_streamed": 128, "streams": 37, "mature": 1, "language": "English", "account_age": 1556640.0}

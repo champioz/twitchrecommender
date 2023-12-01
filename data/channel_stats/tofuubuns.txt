@@ -1,0 +1,1 @@
+{"channel": "tofuubuns", "avg_viewers": 13, "followers_gained": 81, "peak_viewers": 35, "hours_streamed": 40, "streams": 14, "mature": 0, "language": "English", "account_age": 912960.0}

@@ -1,0 +1,1 @@
+{"channel": "shlotrash", "avg_viewers": 574, "followers_gained": 121, "peak_viewers": 746, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "German", "account_age": 822240.0}

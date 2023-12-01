@@ -1,0 +1,1 @@
+{"channel": "darkyy_j", "avg_viewers": 10, "followers_gained": 210, "peak_viewers": 38, "hours_streamed": 69, "streams": 16, "mature": 0, "language": "Spanish", "account_age": 862560.0}

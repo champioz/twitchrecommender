@@ -1,0 +1,1 @@
+{"channel": "shopotvereska", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 43, "streams": 18, "mature": 0, "language": "Russian", "account_age": 2597760.0}

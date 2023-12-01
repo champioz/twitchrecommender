@@ -1,0 +1,1 @@
+{"channel": "lancemenot", "avg_viewers": 13, "followers_gained": 19, "peak_viewers": 35, "hours_streamed": 83, "streams": 12, "mature": 0, "language": "English", "account_age": 2841120.0}

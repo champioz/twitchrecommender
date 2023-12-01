@@ -1,0 +1,1 @@
+{"channel": "astralservant", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 22, "hours_streamed": 73, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 666720.0}

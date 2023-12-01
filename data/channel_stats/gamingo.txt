@@ -1,0 +1,1 @@
+{"channel": "gamingo", "avg_viewers": 861, "followers_gained": 5946, "peak_viewers": 3377, "hours_streamed": 89, "streams": 18, "mature": 1, "language": "French", "account_age": 1887840.0}

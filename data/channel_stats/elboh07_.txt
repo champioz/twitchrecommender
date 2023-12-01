@@ -1,0 +1,1 @@
+{"channel": "elboh07_", "avg_viewers": 90, "followers_gained": 1606, "peak_viewers": 491, "hours_streamed": 125, "streams": 26, "mature": 0, "language": "Arabic", "account_age": 252000.0}

@@ -1,0 +1,1 @@
+{"channel": "poni_mama", "avg_viewers": 10, "followers_gained": 29, "peak_viewers": 22, "hours_streamed": 23, "streams": 6, "mature": 0, "language": "Korean", "account_age": 538560.0}

@@ -1,0 +1,1 @@
+{"channel": "micke_heej", "avg_viewers": 27, "followers_gained": 29, "peak_viewers": 66, "hours_streamed": 71, "streams": 17, "mature": 0, "language": "English", "account_age": 1497600.0}

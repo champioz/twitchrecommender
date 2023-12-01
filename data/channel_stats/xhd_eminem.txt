@@ -1,0 +1,1 @@
+{"channel": "xhd_eminem", "avg_viewers": 7, "followers_gained": 7, "peak_viewers": 19, "hours_streamed": 92, "streams": 28, "mature": 0, "language": "English", "account_age": 2291040.0}

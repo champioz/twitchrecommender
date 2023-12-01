@@ -1,0 +1,1 @@
+{"channel": "xx445xx", "avg_viewers": 32, "followers_gained": 98, "peak_viewers": 122, "hours_streamed": 121, "streams": 26, "mature": 0, "language": "Korean", "account_age": 1118880.0}

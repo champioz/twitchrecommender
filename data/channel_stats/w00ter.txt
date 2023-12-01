@@ -1,0 +1,1 @@
+{"channel": "w00ter", "avg_viewers": 94, "followers_gained": 50, "peak_viewers": 173, "hours_streamed": 35, "streams": 8, "mature": 1, "language": "English", "account_age": 3532320.0}

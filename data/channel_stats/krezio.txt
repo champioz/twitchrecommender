@@ -1,0 +1,1 @@
+{"channel": "krezio", "avg_viewers": 35, "followers_gained": 341, "peak_viewers": 133, "hours_streamed": 86, "streams": 34, "mature": 0, "language": "English", "account_age": 3248640.0}

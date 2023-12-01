@@ -1,0 +1,1 @@
+{"channel": "tokidamjanoski", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 7, "hours_streamed": 83, "streams": 26, "mature": 0, "language": "English", "account_age": 3232800.0}

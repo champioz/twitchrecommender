@@ -1,0 +1,1 @@
+{"channel": "ezequielrogel", "avg_viewers": 74, "followers_gained": 1537, "peak_viewers": 361, "hours_streamed": 96, "streams": 27, "mature": 0, "language": "Spanish", "account_age": 2413440.0}

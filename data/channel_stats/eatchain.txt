@@ -1,0 +1,1 @@
+{"channel": "eatchain", "avg_viewers": 61, "followers_gained": 58, "peak_viewers": 152, "hours_streamed": 12, "streams": 7, "mature": 1, "language": "English", "account_age": 1147680.0}

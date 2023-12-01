@@ -1,0 +1,1 @@
+{"channel": "flister", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "Portuguese", "account_age": 1190880.0}

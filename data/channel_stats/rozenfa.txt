@@ -1,0 +1,1 @@
+{"channel": "rozenfa", "avg_viewers": 0, "followers_gained": 16, "peak_viewers": 4, "hours_streamed": 18, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 2858400.0}

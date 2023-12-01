@@ -1,0 +1,1 @@
+{"channel": "chaosjessyyt", "avg_viewers": 14, "followers_gained": 117, "peak_viewers": 30, "hours_streamed": 32, "streams": 11, "mature": 0, "language": "German", "account_age": 3091680.0}

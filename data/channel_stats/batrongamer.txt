@@ -1,0 +1,1 @@
+{"channel": "batrongamer", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 8, "streams": 6, "mature": 1, "language": "Spanish", "account_age": 2311200.0}

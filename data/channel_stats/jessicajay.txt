@@ -1,0 +1,1 @@
+{"channel": "jessicajay", "avg_viewers": 15, "followers_gained": 74, "peak_viewers": 44, "hours_streamed": 47, "streams": 11, "mature": 0, "language": "English", "account_age": 1039680.0}

@@ -1,0 +1,1 @@
+{"channel": "gatordude", "avg_viewers": 13, "followers_gained": 70, "peak_viewers": 215, "hours_streamed": 45, "streams": 16, "mature": 1, "language": "English", "account_age": 2172960.0}

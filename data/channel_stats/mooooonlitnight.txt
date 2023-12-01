@@ -1,0 +1,1 @@
+{"channel": "mooooonlitnight", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 5, "streams": 3, "mature": 1, "language": "Japanese", "account_age": 3055680.0}

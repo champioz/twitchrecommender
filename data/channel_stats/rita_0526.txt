@@ -1,0 +1,1 @@
+{"channel": "rita_0526", "avg_viewers": 31, "followers_gained": 33, "peak_viewers": 53, "hours_streamed": 43, "streams": 9, "mature": 0, "language": "Chinese", "account_age": 2787840.0}

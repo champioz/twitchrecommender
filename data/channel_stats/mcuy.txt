@@ -1,0 +1,1 @@
+{"channel": "mcuy", "avg_viewers": 21, "followers_gained": 5, "peak_viewers": 48, "hours_streamed": 69, "streams": 21, "mature": 1, "language": "German", "account_age": 3078720.0}

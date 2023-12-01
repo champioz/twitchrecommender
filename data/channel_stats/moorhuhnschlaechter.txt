@@ -1,0 +1,1 @@
+{"channel": "moorhuhnschlaechter", "avg_viewers": 1, "followers_gained": 14, "peak_viewers": 7, "hours_streamed": 75, "streams": 20, "mature": 1, "language": "German", "account_age": 2625120.0}

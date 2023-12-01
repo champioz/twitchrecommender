@@ -1,0 +1,1 @@
+{"channel": "knatter_kiste", "avg_viewers": 10, "followers_gained": 6, "peak_viewers": 26, "hours_streamed": 11, "streams": 2, "mature": 1, "language": "German", "account_age": 279360.0}

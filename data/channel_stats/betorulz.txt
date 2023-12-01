@@ -1,0 +1,1 @@
+{"channel": "betorulz", "avg_viewers": 10, "followers_gained": 60, "peak_viewers": 25, "hours_streamed": 41, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 2862720.0}

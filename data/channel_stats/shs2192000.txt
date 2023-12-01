@@ -1,0 +1,1 @@
+{"channel": "shs2192000", "avg_viewers": 4, "followers_gained": 14, "peak_viewers": 18, "hours_streamed": 226, "streams": 28, "mature": 0, "language": "Korean", "account_age": 1061280.0}

@@ -1,0 +1,1 @@
+{"channel": "nickyowo", "avg_viewers": 7, "followers_gained": 177, "peak_viewers": 24, "hours_streamed": 56, "streams": 22, "mature": 1, "language": "Spanish", "account_age": 1065600.0}

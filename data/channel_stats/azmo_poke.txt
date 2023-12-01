@@ -1,0 +1,1 @@
+{"channel": "azmo_poke", "avg_viewers": 10, "followers_gained": 3, "peak_viewers": 63, "hours_streamed": 15, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 1189440.0}

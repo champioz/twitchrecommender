@@ -1,0 +1,1 @@
+{"channel": "titokylian", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 14, "streams": 6, "mature": 0, "language": "Spanish", "account_age": 849600.0}

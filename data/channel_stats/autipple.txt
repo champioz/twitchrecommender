@@ -1,0 +1,1 @@
+{"channel": "autipple", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Korean", "account_age": 1918080.0}

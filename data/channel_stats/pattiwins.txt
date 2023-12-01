@@ -1,0 +1,1 @@
+{"channel": "pattiwins", "avg_viewers": 5, "followers_gained": 5, "peak_viewers": 13, "hours_streamed": 17, "streams": 3, "mature": 0, "language": "German", "account_age": 3381120.0}

@@ -1,0 +1,1 @@
+{"channel": "beachybeach", "avg_viewers": 5, "followers_gained": 25, "peak_viewers": 12, "hours_streamed": 29, "streams": 12, "mature": 1, "language": "English", "account_age": 1071360.0}

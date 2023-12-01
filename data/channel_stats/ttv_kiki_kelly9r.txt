@@ -1,0 +1,1 @@
+{"channel": "ttv_kiki_kelly9r", "avg_viewers": 1, "followers_gained": 25, "peak_viewers": 13, "hours_streamed": 111, "streams": 40, "mature": 1, "language": "English", "account_age": 263520.0}

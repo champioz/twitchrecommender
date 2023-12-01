@@ -1,0 +1,1 @@
+{"channel": "smokqfn", "avg_viewers": 86, "followers_gained": 783, "peak_viewers": 224, "hours_streamed": 46, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 1774080.0}

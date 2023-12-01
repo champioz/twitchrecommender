@@ -1,0 +1,1 @@
+{"channel": "thespriggins28", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 9, "hours_streamed": 19, "streams": 15, "mature": 0, "language": "English", "account_age": 2270880.0}

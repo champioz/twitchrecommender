@@ -1,0 +1,1 @@
+{"channel": "gjqm056", "avg_viewers": 325, "followers_gained": 5145, "peak_viewers": 1327, "hours_streamed": 127, "streams": 18, "mature": 0, "language": "Korean", "account_age": 1376640.0}

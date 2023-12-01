@@ -1,0 +1,1 @@
+{"channel": "norajbbq", "avg_viewers": 45, "followers_gained": 18, "peak_viewers": 137, "hours_streamed": 106, "streams": 22, "mature": 1, "language": "French", "account_age": 2962080.0}

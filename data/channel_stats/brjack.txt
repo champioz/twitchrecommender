@@ -1,0 +1,1 @@
+{"channel": "brjack", "avg_viewers": 3, "followers_gained": 88, "peak_viewers": 15, "hours_streamed": 89, "streams": 13, "mature": 0, "language": "Portuguese", "account_age": 1918080.0}

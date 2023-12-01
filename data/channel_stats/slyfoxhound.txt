@@ -1,0 +1,1 @@
+{"channel": "slyfoxhound", "avg_viewers": 400, "followers_gained": 937, "peak_viewers": 2858, "hours_streamed": 111, "streams": 22, "mature": 0, "language": "English", "account_age": 4816800.0}

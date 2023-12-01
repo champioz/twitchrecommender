@@ -1,0 +1,1 @@
+{"channel": "aloned3", "avg_viewers": 64, "followers_gained": 19, "peak_viewers": 96, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 3035520.0}

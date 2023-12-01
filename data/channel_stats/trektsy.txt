@@ -1,0 +1,1 @@
+{"channel": "trektsy", "avg_viewers": 8, "followers_gained": 52, "peak_viewers": 32, "hours_streamed": 168, "streams": 35, "mature": 1, "language": "English", "account_age": 1100160.0}

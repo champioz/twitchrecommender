@@ -1,0 +1,1 @@
+{"channel": "prismenoseu", "avg_viewers": 33, "followers_gained": 54, "peak_viewers": 64, "hours_streamed": 29, "streams": 7, "mature": 1, "language": "Greek", "account_age": 2141280.0}

@@ -1,0 +1,1 @@
+{"channel": "nekurz", "avg_viewers": 1, "followers_gained": 11, "peak_viewers": 10, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "German", "account_age": 1738080.0}

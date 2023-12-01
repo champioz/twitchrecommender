@@ -1,0 +1,1 @@
+{"channel": "wild4games", "avg_viewers": 28, "followers_gained": 270, "peak_viewers": 63, "hours_streamed": 31, "streams": 11, "mature": 1, "language": "English", "account_age": 2590560.0}

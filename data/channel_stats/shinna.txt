@@ -1,0 +1,1 @@
+{"channel": "shinna", "avg_viewers": 70, "followers_gained": 1311, "peak_viewers": 421, "hours_streamed": 250, "streams": 49, "mature": 1, "language": "Hungarian", "account_age": 1251360.0}

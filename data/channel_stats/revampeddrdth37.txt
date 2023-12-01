@@ -1,0 +1,1 @@
+{"channel": "revampeddrdth37", "avg_viewers": 15, "followers_gained": 24, "peak_viewers": 29, "hours_streamed": 29, "streams": 9, "mature": 1, "language": "English", "account_age": 1234080.0}

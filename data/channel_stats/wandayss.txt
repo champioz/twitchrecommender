@@ -1,0 +1,1 @@
+{"channel": "wandayss", "avg_viewers": 79, "followers_gained": 3062, "peak_viewers": 194, "hours_streamed": 146, "streams": 34, "mature": 0, "language": "Turkish", "account_age": 1545120.0}

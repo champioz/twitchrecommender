@@ -1,0 +1,1 @@
+{"channel": "pandaharuhi", "avg_viewers": 170, "followers_gained": 1088, "peak_viewers": 1435, "hours_streamed": 241, "streams": 25, "mature": 0, "language": "Chinese", "account_age": 3746880.0}

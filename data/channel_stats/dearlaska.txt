@@ -1,0 +1,1 @@
+{"channel": "dearlaska", "avg_viewers": 42, "followers_gained": 769, "peak_viewers": 100, "hours_streamed": 127, "streams": 25, "mature": 0, "language": "Russian", "account_age": 2161440.0}

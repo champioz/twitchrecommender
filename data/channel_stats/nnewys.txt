@@ -1,0 +1,1 @@
+{"channel": "nnewys", "avg_viewers": 106, "followers_gained": 3364, "peak_viewers": 379, "hours_streamed": 162, "streams": 21, "mature": 0, "language": "Thai", "account_age": 1203840.0}

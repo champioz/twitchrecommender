@@ -1,0 +1,1 @@
+{"channel": "axeice", "avg_viewers": 65, "followers_gained": 422, "peak_viewers": 191, "hours_streamed": 74, "streams": 20, "mature": 0, "language": "English", "account_age": 3928320.0}

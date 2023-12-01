@@ -1,0 +1,1 @@
+{"channel": "valkunt_", "avg_viewers": 86, "followers_gained": 477, "peak_viewers": 154, "hours_streamed": 88, "streams": 23, "mature": 0, "language": "Turkish", "account_age": 1320480.0}

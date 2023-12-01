@@ -1,0 +1,1 @@
+{"channel": "stapus", "avg_viewers": 63, "followers_gained": 293, "peak_viewers": 131, "hours_streamed": 88, "streams": 18, "mature": 0, "language": "English", "account_age": 1438560.0}

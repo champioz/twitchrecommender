@@ -1,0 +1,1 @@
+{"channel": "dmgpoland", "avg_viewers": 986, "followers_gained": 6628, "peak_viewers": 2308, "hours_streamed": 45, "streams": 8, "mature": 0, "language": "Polish", "account_age": 2607840.0}

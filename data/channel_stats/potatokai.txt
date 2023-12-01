@@ -1,0 +1,1 @@
+{"channel": "potatokai", "avg_viewers": 22, "followers_gained": 270, "peak_viewers": 350, "hours_streamed": 215, "streams": 28, "mature": 1, "language": "English", "account_age": 2619360.0}

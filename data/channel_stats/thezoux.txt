@@ -1,0 +1,1 @@
+{"channel": "thezoux", "avg_viewers": 55, "followers_gained": 115, "peak_viewers": 198, "hours_streamed": 48, "streams": 15, "mature": 0, "language": "Russian", "account_age": 2597760.0}

@@ -1,0 +1,1 @@
+{"channel": "princezzxdiana", "avg_viewers": 4, "followers_gained": 63, "peak_viewers": 16, "hours_streamed": 87, "streams": 28, "mature": 1, "language": "English", "account_age": 4281120.0}

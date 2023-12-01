@@ -1,0 +1,1 @@
+{"channel": "camilasatv", "avg_viewers": 81, "followers_gained": 850, "peak_viewers": 276, "hours_streamed": 88, "streams": 23, "mature": 0, "language": "Spanish", "account_age": 2115360.0}

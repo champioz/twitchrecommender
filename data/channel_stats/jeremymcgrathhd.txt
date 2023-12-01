@@ -1,0 +1,1 @@
+{"channel": "jeremymcgrathhd", "avg_viewers": 17, "followers_gained": 248, "peak_viewers": 137, "hours_streamed": 28, "streams": 10, "mature": 0, "language": "Spanish", "account_age": 2681280.0}

@@ -1,0 +1,1 @@
+{"channel": "armadaugs", "avg_viewers": 248, "followers_gained": 1850, "peak_viewers": 1431, "hours_streamed": 164, "streams": 29, "mature": 0, "language": "English", "account_age": 3661920.0}

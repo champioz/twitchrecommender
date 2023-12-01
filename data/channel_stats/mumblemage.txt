@@ -1,0 +1,1 @@
+{"channel": "mumblemage", "avg_viewers": 10, "followers_gained": 97, "peak_viewers": 81, "hours_streamed": 149, "streams": 21, "mature": 1, "language": "English", "account_age": 1717920.0}

@@ -1,0 +1,1 @@
+{"channel": "cayrine", "avg_viewers": 83, "followers_gained": 484, "peak_viewers": 156, "hours_streamed": 54, "streams": 11, "mature": 1, "language": "Swedish", "account_age": 3191040.0}

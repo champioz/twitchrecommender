@@ -1,0 +1,1 @@
+{"channel": "mroannes", "avg_viewers": 14, "followers_gained": 106, "peak_viewers": 51, "hours_streamed": 130, "streams": 22, "mature": 0, "language": "French", "account_age": 3291840.0}

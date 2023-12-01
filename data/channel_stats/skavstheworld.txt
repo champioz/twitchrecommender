@@ -1,0 +1,1 @@
+{"channel": "skavstheworld", "avg_viewers": 21, "followers_gained": 151, "peak_viewers": 46, "hours_streamed": 48, "streams": 13, "mature": 0, "language": "English", "account_age": 2073600.0}

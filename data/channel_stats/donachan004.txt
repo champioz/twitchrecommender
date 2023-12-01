@@ -1,0 +1,1 @@
+{"channel": "donachan004", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 32, "streams": 16, "mature": 0, "language": "Japanese", "account_age": 881280.0}

@@ -1,0 +1,1 @@
+{"channel": "giru", "avg_viewers": 384, "followers_gained": 1609, "peak_viewers": 810, "hours_streamed": 158, "streams": 31, "mature": 1, "language": "English", "account_age": 1912320.0}

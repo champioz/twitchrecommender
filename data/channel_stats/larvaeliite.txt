@@ -1,0 +1,1 @@
+{"channel": "larvaeliite", "avg_viewers": 1, "followers_gained": 24, "peak_viewers": 7, "hours_streamed": 31, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 1141920.0}

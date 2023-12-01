@@ -1,0 +1,1 @@
+{"channel": "capitan_ulika", "avg_viewers": 6, "followers_gained": 46, "peak_viewers": 30, "hours_streamed": 91, "streams": 36, "mature": 1, "language": "Russian", "account_age": 1660320.0}

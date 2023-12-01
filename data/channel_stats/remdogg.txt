@@ -1,0 +1,1 @@
+{"channel": "remdogg", "avg_viewers": 135, "followers_gained": 10938, "peak_viewers": 282, "hours_streamed": 267, "streams": 33, "mature": 0, "language": "English", "account_age": 813600.0}

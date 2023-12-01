@@ -1,0 +1,1 @@
+{"channel": "gh0st_00", "avg_viewers": 4, "followers_gained": 15, "peak_viewers": 12, "hours_streamed": 51, "streams": 18, "mature": 1, "language": "English", "account_age": 2642400.0}

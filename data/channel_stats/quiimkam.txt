@@ -1,0 +1,1 @@
+{"channel": "quiimkam", "avg_viewers": 5, "followers_gained": 97, "peak_viewers": 20, "hours_streamed": 33, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 954720.0}

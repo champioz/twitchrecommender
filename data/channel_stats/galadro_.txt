@@ -1,0 +1,1 @@
+{"channel": "galadro_", "avg_viewers": 35, "followers_gained": 150, "peak_viewers": 69, "hours_streamed": 102, "streams": 26, "mature": 0, "language": "Czech", "account_age": 1779840.0}

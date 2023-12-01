@@ -1,0 +1,1 @@
+{"channel": "megplaysbadly", "avg_viewers": 22, "followers_gained": 35, "peak_viewers": 42, "hours_streamed": 62, "streams": 13, "mature": 1, "language": "English", "account_age": 1520640.0}

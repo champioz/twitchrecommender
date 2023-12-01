@@ -1,0 +1,1 @@
+{"channel": "rhykker", "avg_viewers": 221, "followers_gained": 287, "peak_viewers": 424, "hours_streamed": 89, "streams": 16, "mature": 0, "language": "English", "account_age": 4191840.0}

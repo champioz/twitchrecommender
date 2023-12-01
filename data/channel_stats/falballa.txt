@@ -1,0 +1,1 @@
+{"channel": "falballa", "avg_viewers": 160, "followers_gained": 118, "peak_viewers": 1169, "hours_streamed": 79, "streams": 17, "mature": 1, "language": "German", "account_age": 2799360.0}

@@ -1,0 +1,1 @@
+{"channel": "lollipop21k", "avg_viewers": 58, "followers_gained": 37, "peak_viewers": 106, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Russian", "account_age": 1837440.0}

@@ -1,0 +1,1 @@
+{"channel": "magic_odin", "avg_viewers": 6, "followers_gained": 17, "peak_viewers": 21, "hours_streamed": 131, "streams": 31, "mature": 1, "language": "German", "account_age": 1395360.0}

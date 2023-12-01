@@ -1,0 +1,1 @@
+{"channel": "aseityna", "avg_viewers": 11, "followers_gained": 63, "peak_viewers": 34, "hours_streamed": 42, "streams": 21, "mature": 0, "language": "English", "account_age": 3085920.0}

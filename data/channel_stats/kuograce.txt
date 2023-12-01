@@ -1,0 +1,1 @@
+{"channel": "kuograce", "avg_viewers": 19, "followers_gained": 31, "peak_viewers": 47, "hours_streamed": 25, "streams": 10, "mature": 0, "language": "Chinese", "account_age": 1759680.0}

@@ -1,0 +1,1 @@
+{"channel": "milkyzmey", "avg_viewers": 36, "followers_gained": 135, "peak_viewers": 110, "hours_streamed": 153, "streams": 30, "mature": 0, "language": "Russian", "account_age": 3314880.0}

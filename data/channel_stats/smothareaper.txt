@@ -1,0 +1,1 @@
+{"channel": "smothareaper", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "English", "account_age": 1199520.0}

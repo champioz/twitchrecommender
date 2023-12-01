@@ -1,0 +1,1 @@
+{"channel": "achnina", "avg_viewers": 74, "followers_gained": 18, "peak_viewers": 108, "hours_streamed": 12, "streams": 5, "mature": 0, "language": "German", "account_age": 2196000.0}

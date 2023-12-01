@@ -1,0 +1,1 @@
+{"channel": "bitcoinstrategy", "avg_viewers": 227, "followers_gained": 201, "peak_viewers": 603, "hours_streamed": 639, "streams": 9, "mature": 0, "language": "English", "account_age": 149760.0}

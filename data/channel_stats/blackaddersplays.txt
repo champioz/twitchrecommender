@@ -1,0 +1,1 @@
+{"channel": "blackaddersplays", "avg_viewers": 28, "followers_gained": 35, "peak_viewers": 128, "hours_streamed": 64, "streams": 21, "mature": 0, "language": "English", "account_age": 2803680.0}

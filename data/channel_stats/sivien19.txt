@@ -1,0 +1,1 @@
+{"channel": "sivien19", "avg_viewers": 7, "followers_gained": 19, "peak_viewers": 24, "hours_streamed": 32, "streams": 9, "mature": 1, "language": "Polish", "account_age": 1756800.0}

@@ -1,0 +1,1 @@
+{"channel": "buubuche", "avg_viewers": 3, "followers_gained": 102, "peak_viewers": 11, "hours_streamed": 247, "streams": 35, "mature": 0, "language": "French", "account_age": 699840.0}

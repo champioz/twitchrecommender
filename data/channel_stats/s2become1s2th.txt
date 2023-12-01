@@ -1,0 +1,1 @@
+{"channel": "s2become1s2th", "avg_viewers": 6, "followers_gained": 7, "peak_viewers": 14, "hours_streamed": 20, "streams": 6, "mature": 0, "language": "Korean", "account_age": 2115360.0}

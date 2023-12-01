@@ -1,0 +1,1 @@
+{"channel": "petriii", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 6, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Finnish", "account_age": 3496320.0}

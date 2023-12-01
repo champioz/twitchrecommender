@@ -1,0 +1,1 @@
+{"channel": "enochdoto", "avg_viewers": 22, "followers_gained": 31, "peak_viewers": 45, "hours_streamed": 52, "streams": 9, "mature": 0, "language": "Portuguese", "account_age": 2790720.0}

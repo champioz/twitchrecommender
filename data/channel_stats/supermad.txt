@@ -1,0 +1,1 @@
+{"channel": "supermad", "avg_viewers": 6, "followers_gained": 83, "peak_viewers": 24, "hours_streamed": 109, "streams": 26, "mature": 0, "language": "English", "account_age": 2812320.0}

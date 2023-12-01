@@ -1,0 +1,1 @@
+{"channel": "bbuv", "avg_viewers": 13, "followers_gained": 134, "peak_viewers": 85, "hours_streamed": 52, "streams": 6, "mature": 1, "language": "French", "account_age": 3821760.0}

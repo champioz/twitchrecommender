@@ -1,0 +1,1 @@
+{"channel": "lazarus_zero", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 19, "hours_streamed": 96, "streams": 27, "mature": 0, "language": "Russian", "account_age": 2291040.0}

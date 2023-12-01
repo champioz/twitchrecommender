@@ -1,0 +1,1 @@
+{"channel": "pizza_slayer", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 14, "hours_streamed": 16, "streams": 6, "mature": 1, "language": "English", "account_age": 3009600.0}

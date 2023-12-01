@@ -1,0 +1,1 @@
+{"channel": "theintendant", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 10, "hours_streamed": 3, "streams": 4, "mature": 0, "language": "English", "account_age": 2852640.0}

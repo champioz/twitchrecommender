@@ -1,0 +1,1 @@
+{"channel": "mrsfate", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 8, "hours_streamed": 28, "streams": 9, "mature": 1, "language": "German", "account_age": 2592000.0}

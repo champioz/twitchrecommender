@@ -1,0 +1,1 @@
+{"channel": "thejenniffer", "avg_viewers": 3, "followers_gained": 18, "peak_viewers": 10, "hours_streamed": 12, "streams": 12, "mature": 1, "language": "English", "account_age": 1167840.0}

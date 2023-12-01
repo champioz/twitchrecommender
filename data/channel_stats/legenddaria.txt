@@ -1,0 +1,1 @@
+{"channel": "legenddaria", "avg_viewers": 25, "followers_gained": 379, "peak_viewers": 138, "hours_streamed": 68, "streams": 32, "mature": 0, "language": "Russian", "account_age": 119520.0}

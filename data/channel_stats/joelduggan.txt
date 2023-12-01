@@ -1,0 +1,1 @@
+{"channel": "joelduggan", "avg_viewers": 25, "followers_gained": 28, "peak_viewers": 185, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "English", "account_age": 4703040.0}

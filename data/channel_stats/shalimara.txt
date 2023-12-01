@@ -1,0 +1,1 @@
+{"channel": "shalimara", "avg_viewers": 20, "followers_gained": 95, "peak_viewers": 129, "hours_streamed": 125, "streams": 34, "mature": 1, "language": "German", "account_age": 2481120.0}

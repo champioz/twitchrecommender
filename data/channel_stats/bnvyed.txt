@@ -1,0 +1,1 @@
+{"channel": "bnvyed", "avg_viewers": 31, "followers_gained": 9, "peak_viewers": 58, "hours_streamed": 4, "streams": 1, "mature": 1, "language": "English", "account_age": 976320.0}

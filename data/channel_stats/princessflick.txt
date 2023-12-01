@@ -1,0 +1,1 @@
+{"channel": "princessflick", "avg_viewers": 31, "followers_gained": 324, "peak_viewers": 512, "hours_streamed": 105, "streams": 31, "mature": 1, "language": "English", "account_age": 1347840.0}

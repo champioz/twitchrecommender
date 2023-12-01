@@ -1,0 +1,1 @@
+{"channel": "proste_krup", "avg_viewers": 9, "followers_gained": 9, "peak_viewers": 26, "hours_streamed": 17, "streams": 8, "mature": 1, "language": "Czech", "account_age": 2396160.0}

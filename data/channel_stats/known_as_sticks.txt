@@ -1,0 +1,1 @@
+{"channel": "known_as_sticks", "avg_viewers": 3, "followers_gained": 22, "peak_viewers": 16, "hours_streamed": 108, "streams": 30, "mature": 1, "language": "English", "account_age": 1274400.0}

@@ -1,0 +1,1 @@
+{"channel": "a_roe", "avg_viewers": 195, "followers_gained": 1267, "peak_viewers": 807, "hours_streamed": 58, "streams": 28, "mature": 0, "language": "Japanese", "account_age": 1463040.0}

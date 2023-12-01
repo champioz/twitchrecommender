@@ -1,0 +1,1 @@
+{"channel": "repoman360", "avg_viewers": 32, "followers_gained": 67, "peak_viewers": 120, "hours_streamed": 81, "streams": 21, "mature": 0, "language": "English", "account_age": 944640.0}

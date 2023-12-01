@@ -1,0 +1,1 @@
+{"channel": "iveinsomnia", "avg_viewers": 13, "followers_gained": 14, "peak_viewers": 37, "hours_streamed": 60, "streams": 10, "mature": 1, "language": "French", "account_age": 3981600.0}

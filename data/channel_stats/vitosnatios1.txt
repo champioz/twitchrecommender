@@ -1,0 +1,1 @@
+{"channel": "vitosnatios1", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 4, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "Portuguese", "account_age": 3438720.0}

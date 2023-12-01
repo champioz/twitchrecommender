@@ -1,0 +1,1 @@
+{"channel": "hejter_yt", "avg_viewers": 31, "followers_gained": 828, "peak_viewers": 113, "hours_streamed": 153, "streams": 41, "mature": 1, "language": "Slovak", "account_age": 1159200.0}

@@ -1,0 +1,1 @@
+{"channel": "syptical_", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 20, "streams": 8, "mature": 1, "language": "Spanish", "account_age": 2460960.0}

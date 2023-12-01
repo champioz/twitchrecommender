@@ -1,0 +1,1 @@
+{"channel": "calebovitsch", "avg_viewers": 151, "followers_gained": 72, "peak_viewers": 2262, "hours_streamed": 136, "streams": 24, "mature": 0, "language": "English", "account_age": 2748960.0}

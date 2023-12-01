@@ -1,0 +1,1 @@
+{"channel": "amandizzzle", "avg_viewers": 10, "followers_gained": 95, "peak_viewers": 48, "hours_streamed": 89, "streams": 27, "mature": 0, "language": "English", "account_age": 1346400.0}

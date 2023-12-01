@@ -1,0 +1,1 @@
+{"channel": "liostifer", "avg_viewers": 4, "followers_gained": 30, "peak_viewers": 12, "hours_streamed": 135, "streams": 31, "mature": 1, "language": "French", "account_age": 1607040.0}

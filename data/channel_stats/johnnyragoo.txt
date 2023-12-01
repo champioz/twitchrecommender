@@ -1,0 +1,1 @@
+{"channel": "johnnyragoo", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 31, "streams": 11, "mature": 1, "language": "English", "account_age": 2308320.0}

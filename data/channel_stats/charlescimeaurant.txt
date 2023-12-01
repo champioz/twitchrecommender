@@ -1,0 +1,1 @@
+{"channel": "charlescimeaurant", "avg_viewers": 53, "followers_gained": 126, "peak_viewers": 123, "hours_streamed": 100, "streams": 21, "mature": 1, "language": "German", "account_age": 1980000.0}

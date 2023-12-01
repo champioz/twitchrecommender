@@ -1,0 +1,1 @@
+{"channel": "marcioontwitch10", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 43, "streams": 25, "mature": 1, "language": "English", "account_age": 516960.0}

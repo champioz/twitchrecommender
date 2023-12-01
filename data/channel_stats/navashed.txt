@@ -1,0 +1,1 @@
+{"channel": "navashed", "avg_viewers": 29, "followers_gained": 77, "peak_viewers": 129, "hours_streamed": 29, "streams": 8, "mature": 0, "language": "English", "account_age": 3029760.0}

@@ -1,0 +1,1 @@
+{"channel": "yasser1g", "avg_viewers": 47, "followers_gained": 394, "peak_viewers": 115, "hours_streamed": 74, "streams": 21, "mature": 0, "language": "Arabic", "account_age": 1396800.0}

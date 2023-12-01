@@ -1,0 +1,1 @@
+{"channel": "cardedon", "avg_viewers": 7, "followers_gained": 122, "peak_viewers": 21, "hours_streamed": 103, "streams": 34, "mature": 0, "language": "Italian", "account_age": 1206720.0}

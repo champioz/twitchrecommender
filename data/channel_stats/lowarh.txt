@@ -1,0 +1,1 @@
+{"channel": "lowarh", "avg_viewers": 12, "followers_gained": 19, "peak_viewers": 29, "hours_streamed": 44, "streams": 9, "mature": 0, "language": "English", "account_age": 603360.0}

@@ -1,0 +1,1 @@
+{"channel": "timikinz", "avg_viewers": 14, "followers_gained": 98, "peak_viewers": 44, "hours_streamed": 117, "streams": 21, "mature": 0, "language": "English", "account_age": 2576160.0}

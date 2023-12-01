@@ -1,0 +1,1 @@
+{"channel": "illojuan", "avg_viewers": 2108, "followers_gained": 3666, "peak_viewers": 3155, "hours_streamed": 35, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 2234880.0}

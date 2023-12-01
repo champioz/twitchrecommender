@@ -1,0 +1,1 @@
+{"channel": "rivalesports", "avg_viewers": 903, "followers_gained": 1291, "peak_viewers": 1692, "hours_streamed": 17, "streams": 4, "mature": 0, "language": "English", "account_age": 1726560.0}

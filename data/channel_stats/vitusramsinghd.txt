@@ -1,0 +1,1 @@
+{"channel": "vitusramsinghd", "avg_viewers": 103, "followers_gained": 2255, "peak_viewers": 215, "hours_streamed": 58, "streams": 24, "mature": 0, "language": "Danish", "account_age": 311040.0}

@@ -1,0 +1,1 @@
+{"channel": "mashed8", "avg_viewers": 859, "followers_gained": 13, "peak_viewers": 2821, "hours_streamed": 10, "streams": 3, "mature": 1, "language": "German", "account_age": 4099680.0}

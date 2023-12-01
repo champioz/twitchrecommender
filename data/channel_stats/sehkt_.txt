@@ -1,0 +1,1 @@
+{"channel": "sehkt_", "avg_viewers": 11, "followers_gained": 17, "peak_viewers": 29, "hours_streamed": 135, "streams": 25, "mature": 1, "language": "French", "account_age": 1003680.0}

@@ -1,0 +1,1 @@
+{"channel": "vstercsgo", "avg_viewers": 6, "followers_gained": 0, "peak_viewers": 8, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 4141440.0}

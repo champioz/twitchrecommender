@@ -1,0 +1,1 @@
+{"channel": "seipovero", "avg_viewers": 23, "followers_gained": 34, "peak_viewers": 48, "hours_streamed": 20, "streams": 10, "mature": 0, "language": "Italian", "account_age": 1774080.0}

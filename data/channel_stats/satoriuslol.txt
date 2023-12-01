@@ -1,0 +1,1 @@
+{"channel": "satoriuslol", "avg_viewers": 225, "followers_gained": 45, "peak_viewers": 568, "hours_streamed": 12, "streams": 5, "mature": 0, "language": "German", "account_age": 2446560.0}

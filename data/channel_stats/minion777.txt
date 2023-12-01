@@ -1,0 +1,1 @@
+{"channel": "minion777", "avg_viewers": 291, "followers_gained": 5425, "peak_viewers": 1416, "hours_streamed": 65, "streams": 15, "mature": 0, "language": "English", "account_age": 3738240.0}

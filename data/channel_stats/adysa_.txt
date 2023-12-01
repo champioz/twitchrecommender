@@ -1,0 +1,1 @@
+{"channel": "adysa_", "avg_viewers": 29, "followers_gained": 1, "peak_viewers": 44, "hours_streamed": 6, "streams": 1, "mature": 1, "language": "English", "account_age": 1663200.0}

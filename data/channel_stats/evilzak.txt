@@ -1,0 +1,1 @@
+{"channel": "evilzak", "avg_viewers": 23, "followers_gained": 57, "peak_viewers": 183, "hours_streamed": 71, "streams": 15, "mature": 1, "language": "English", "account_age": 3224160.0}

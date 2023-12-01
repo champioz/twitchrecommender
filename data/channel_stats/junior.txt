@@ -1,0 +1,1 @@
+{"channel": "junior", "avg_viewers": 0, "followers_gained": 158, "peak_viewers": 13, "hours_streamed": 689, "streams": 18, "mature": 0, "language": "English", "account_age": 838080.0}

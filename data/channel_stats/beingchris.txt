@@ -1,0 +1,1 @@
+{"channel": "beingchris", "avg_viewers": 5, "followers_gained": 5, "peak_viewers": 13, "hours_streamed": 33, "streams": 14, "mature": 1, "language": "English", "account_age": 1830240.0}

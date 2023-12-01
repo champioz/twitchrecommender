@@ -1,0 +1,1 @@
+{"channel": "riseofth3king", "avg_viewers": 7, "followers_gained": 20, "peak_viewers": 41, "hours_streamed": 113, "streams": 31, "mature": 0, "language": "Turkish", "account_age": 2456640.0}

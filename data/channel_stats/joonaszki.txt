@@ -1,0 +1,1 @@
+{"channel": "joonaszki", "avg_viewers": 46, "followers_gained": 46, "peak_viewers": 113, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "Finnish", "account_age": 3863520.0}

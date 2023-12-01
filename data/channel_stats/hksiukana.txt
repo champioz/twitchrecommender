@@ -1,0 +1,1 @@
+{"channel": "hksiukana", "avg_viewers": 2, "followers_gained": 73, "peak_viewers": 14, "hours_streamed": 190, "streams": 52, "mature": 1, "language": "Chinese (Hong Kong SAR)", "account_age": 1061280.0}

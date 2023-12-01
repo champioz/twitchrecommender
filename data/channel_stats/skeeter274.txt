@@ -1,0 +1,1 @@
+{"channel": "skeeter274", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 10, "hours_streamed": 57, "streams": 23, "mature": 0, "language": "English", "account_age": 1673280.0}

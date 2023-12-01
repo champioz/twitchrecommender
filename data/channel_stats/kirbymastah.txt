@@ -1,0 +1,1 @@
+{"channel": "kirbymastah", "avg_viewers": 27, "followers_gained": 98, "peak_viewers": 52, "hours_streamed": 17, "streams": 7, "mature": 0, "language": "English", "account_age": 4190400.0}

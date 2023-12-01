@@ -1,0 +1,1 @@
+{"channel": "okaydrian", "avg_viewers": 24, "followers_gained": 20, "peak_viewers": 244, "hours_streamed": 128, "streams": 30, "mature": 0, "language": "English", "account_age": 2757600.0}

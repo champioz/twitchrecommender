@@ -1,0 +1,1 @@
+{"channel": "mrklutch", "avg_viewers": 4, "followers_gained": 77, "peak_viewers": 21, "hours_streamed": 111, "streams": 43, "mature": 0, "language": "English", "account_age": 1667520.0}

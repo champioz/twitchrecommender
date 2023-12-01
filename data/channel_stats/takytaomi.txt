@@ -1,0 +1,1 @@
+{"channel": "takytaomi", "avg_viewers": 1, "followers_gained": 81, "peak_viewers": 16, "hours_streamed": 77, "streams": 42, "mature": 0, "language": "Russian", "account_age": 3186720.0}

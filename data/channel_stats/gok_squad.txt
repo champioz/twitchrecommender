@@ -1,0 +1,1 @@
+{"channel": "gok_squad", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 5, "hours_streamed": 31, "streams": 19, "mature": 0, "language": "English", "account_age": 348480.0}

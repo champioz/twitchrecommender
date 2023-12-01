@@ -1,0 +1,1 @@
+{"channel": "ebk_guwop", "avg_viewers": 2, "followers_gained": 22, "peak_viewers": 15, "hours_streamed": 76, "streams": 28, "mature": 0, "language": "English", "account_age": 3137760.0}

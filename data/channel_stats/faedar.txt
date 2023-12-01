@@ -1,0 +1,1 @@
+{"channel": "faedar", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 7, "hours_streamed": 53, "streams": 18, "mature": 0, "language": "English", "account_age": 3952800.0}

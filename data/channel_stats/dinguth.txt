@@ -1,0 +1,1 @@
+{"channel": "dinguth", "avg_viewers": 5, "followers_gained": 30, "peak_viewers": 19, "hours_streamed": 130, "streams": 19, "mature": 0, "language": "English", "account_age": 2399040.0}

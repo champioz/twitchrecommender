@@ -1,0 +1,1 @@
+{"channel": "sunnysan", "avg_viewers": 11, "followers_gained": 20, "peak_viewers": 31, "hours_streamed": 97, "streams": 23, "mature": 0, "language": "English", "account_age": 2646720.0}

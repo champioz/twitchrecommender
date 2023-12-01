@@ -1,0 +1,1 @@
+{"channel": "rainbabe42", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 28, "streams": 9, "mature": 0, "language": "English", "account_age": 2845440.0}

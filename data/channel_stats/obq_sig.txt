@@ -1,0 +1,1 @@
+{"channel": "obq_sig", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 13, "hours_streamed": 13, "streams": 7, "mature": 0, "language": "Japanese", "account_age": 296640.0}

@@ -1,0 +1,1 @@
+{"channel": "exq4me", "avg_viewers": 89, "followers_gained": 155, "peak_viewers": 335, "hours_streamed": 222, "streams": 33, "mature": 1, "language": "Chinese", "account_age": 4430880.0}

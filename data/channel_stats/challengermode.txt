@@ -1,0 +1,1 @@
+{"channel": "challengermode", "avg_viewers": 25, "followers_gained": 85, "peak_viewers": 103, "hours_streamed": 28, "streams": 11, "mature": 0, "language": "English", "account_age": 2183040.0}

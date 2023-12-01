@@ -1,0 +1,1 @@
+{"channel": "xiaoher", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 14, "streams": 6, "mature": 1, "language": "Chinese", "account_age": 3172320.0}

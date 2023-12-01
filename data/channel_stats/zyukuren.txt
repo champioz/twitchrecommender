@@ -1,0 +1,1 @@
+{"channel": "zyukuren", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 15, "hours_streamed": 39, "streams": 27, "mature": 0, "language": "Japanese", "account_age": 3072960.0}

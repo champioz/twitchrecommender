@@ -1,0 +1,1 @@
+{"channel": "hambosky", "avg_viewers": 1, "followers_gained": 14, "peak_viewers": 9, "hours_streamed": 37, "streams": 16, "mature": 1, "language": "English", "account_age": 3517920.0}

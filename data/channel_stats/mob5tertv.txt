@@ -1,0 +1,1 @@
+{"channel": "mob5tertv", "avg_viewers": 884, "followers_gained": 1230, "peak_viewers": 3107, "hours_streamed": 134, "streams": 22, "mature": 0, "language": "Russian", "account_age": 3106080.0}

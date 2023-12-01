@@ -1,0 +1,1 @@
+{"channel": "swankypigeon", "avg_viewers": 6, "followers_gained": 50, "peak_viewers": 21, "hours_streamed": 88, "streams": 14, "mature": 1, "language": "English", "account_age": 3003840.0}

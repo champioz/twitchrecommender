@@ -1,0 +1,1 @@
+{"channel": "filhadorei", "avg_viewers": 32, "followers_gained": 881, "peak_viewers": 168, "hours_streamed": 80, "streams": 15, "mature": 1, "language": "Portuguese", "account_age": 1189440.0}

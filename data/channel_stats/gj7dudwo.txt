@@ -1,0 +1,1 @@
+{"channel": "gj7dudwo", "avg_viewers": 44, "followers_gained": 628, "peak_viewers": 686, "hours_streamed": 125, "streams": 31, "mature": 0, "language": "Korean", "account_age": 1463040.0}

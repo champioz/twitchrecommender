@@ -1,0 +1,1 @@
+{"channel": "franigantw", "avg_viewers": 3, "followers_gained": 34, "peak_viewers": 10, "hours_streamed": 156, "streams": 41, "mature": 0, "language": "Spanish", "account_age": 636480.0}

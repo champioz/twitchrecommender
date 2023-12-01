@@ -1,0 +1,1 @@
+{"channel": "gaston_du_bouillon", "avg_viewers": 4, "followers_gained": 79, "peak_viewers": 16, "hours_streamed": 44, "streams": 22, "mature": 0, "language": "French", "account_age": 1791360.0}

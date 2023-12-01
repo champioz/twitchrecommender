@@ -1,0 +1,1 @@
+{"channel": "trickytrixx", "avg_viewers": 5, "followers_gained": 4, "peak_viewers": 13, "hours_streamed": 27, "streams": 7, "mature": 1, "language": "German", "account_age": 1483200.0}

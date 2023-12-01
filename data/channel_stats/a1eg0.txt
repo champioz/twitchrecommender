@@ -1,0 +1,1 @@
+{"channel": "a1eg0", "avg_viewers": 2, "followers_gained": 20, "peak_viewers": 9, "hours_streamed": 250, "streams": 30, "mature": 0, "language": "Russian", "account_age": 3168000.0}

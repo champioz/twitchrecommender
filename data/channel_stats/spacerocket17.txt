@@ -1,0 +1,1 @@
+{"channel": "spacerocket17", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "Spanish", "account_age": 3098880.0}

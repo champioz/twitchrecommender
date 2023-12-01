@@ -1,0 +1,1 @@
+{"channel": "nokss68", "avg_viewers": 158, "followers_gained": 263, "peak_viewers": 674, "hours_streamed": 49, "streams": 12, "mature": 1, "language": "French", "account_age": 3536640.0}

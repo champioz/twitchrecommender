@@ -1,0 +1,1 @@
+{"channel": "firebain", "avg_viewers": 48, "followers_gained": 113, "peak_viewers": 100, "hours_streamed": 93, "streams": 20, "mature": 1, "language": "English", "account_age": 2321280.0}

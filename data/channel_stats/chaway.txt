@@ -1,0 +1,1 @@
+{"channel": "chaway", "avg_viewers": 6, "followers_gained": 34, "peak_viewers": 14, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "Polish", "account_age": 3528000.0}

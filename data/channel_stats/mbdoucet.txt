@@ -1,0 +1,1 @@
+{"channel": "mbdoucet", "avg_viewers": 7, "followers_gained": 23, "peak_viewers": 21, "hours_streamed": 28, "streams": 9, "mature": 1, "language": "English", "account_age": 1834560.0}

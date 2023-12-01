@@ -1,0 +1,1 @@
+{"channel": "juzbenston", "avg_viewers": 16, "followers_gained": 225, "peak_viewers": 69, "hours_streamed": 225, "streams": 22, "mature": 1, "language": "Finnish", "account_age": 1751040.0}

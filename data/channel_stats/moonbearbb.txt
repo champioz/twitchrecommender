@@ -1,0 +1,1 @@
+{"channel": "moonbearbb", "avg_viewers": 11, "followers_gained": 14, "peak_viewers": 38, "hours_streamed": 42, "streams": 15, "mature": 1, "language": "English", "account_age": 1668960.0}

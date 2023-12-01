@@ -1,0 +1,1 @@
+{"channel": "sfatsch", "avg_viewers": 6, "followers_gained": 6, "peak_viewers": 20, "hours_streamed": 50, "streams": 13, "mature": 1, "language": "German", "account_age": 2841120.0}

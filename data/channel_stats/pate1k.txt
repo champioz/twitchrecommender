@@ -1,0 +1,1 @@
+{"channel": "pate1k", "avg_viewers": 288, "followers_gained": 3085, "peak_viewers": 674, "hours_streamed": 59, "streams": 30, "mature": 0, "language": "Russian", "account_age": 915840.0}

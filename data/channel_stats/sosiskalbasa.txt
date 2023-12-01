@@ -1,0 +1,1 @@
+{"channel": "sosiskalbasa", "avg_viewers": 15, "followers_gained": 244, "peak_viewers": 67, "hours_streamed": 165, "streams": 33, "mature": 0, "language": "Russian", "account_age": 3558240.0}

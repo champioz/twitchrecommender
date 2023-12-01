@@ -1,0 +1,1 @@
+{"channel": "nweatherservice", "avg_viewers": 21, "followers_gained": 120, "peak_viewers": 80, "hours_streamed": 110, "streams": 38, "mature": 1, "language": "English", "account_age": 2642400.0}

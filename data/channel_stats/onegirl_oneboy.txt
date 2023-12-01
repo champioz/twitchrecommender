@@ -1,0 +1,1 @@
+{"channel": "onegirl_oneboy", "avg_viewers": 2, "followers_gained": 57, "peak_viewers": 22, "hours_streamed": 37, "streams": 20, "mature": 0, "language": "Turkish", "account_age": 1526400.0}

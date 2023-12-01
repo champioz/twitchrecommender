@@ -1,0 +1,1 @@
+{"channel": "leyni", "avg_viewers": 18, "followers_gained": 180, "peak_viewers": 41, "hours_streamed": 71, "streams": 20, "mature": 1, "language": "German", "account_age": 642240.0}

@@ -1,0 +1,1 @@
+{"channel": "scary_dragonsow", "avg_viewers": 30, "followers_gained": 218, "peak_viewers": 85, "hours_streamed": 165, "streams": 31, "mature": 0, "language": "English", "account_age": 3634560.0}

@@ -1,0 +1,1 @@
+{"channel": "whycameback", "avg_viewers": 2, "followers_gained": 59, "peak_viewers": 17, "hours_streamed": 37, "streams": 32, "mature": 1, "language": "English", "account_age": 794880.0}

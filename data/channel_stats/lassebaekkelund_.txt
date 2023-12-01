@@ -1,0 +1,1 @@
+{"channel": "lassebaekkelund_", "avg_viewers": 177, "followers_gained": 404, "peak_viewers": 615, "hours_streamed": 37, "streams": 14, "mature": 0, "language": "Danish", "account_age": 2530080.0}

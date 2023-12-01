@@ -1,0 +1,1 @@
+{"channel": "chillmalu", "avg_viewers": 10, "followers_gained": 74, "peak_viewers": 33, "hours_streamed": 98, "streams": 26, "mature": 1, "language": "English", "account_age": 2249280.0}

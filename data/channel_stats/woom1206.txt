@@ -1,0 +1,1 @@
+{"channel": "woom1206", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 19, "hours_streamed": 97, "streams": 18, "mature": 0, "language": "Korean", "account_age": 907200.0}

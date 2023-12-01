@@ -1,0 +1,1 @@
+{"channel": "theforgott3n", "avg_viewers": 6, "followers_gained": 71, "peak_viewers": 36, "hours_streamed": 55, "streams": 12, "mature": 1, "language": "Portuguese", "account_age": 2460960.0}

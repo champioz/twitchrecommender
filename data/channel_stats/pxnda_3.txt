@@ -1,0 +1,1 @@
+{"channel": "pxnda_3", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 11, "streams": 4, "mature": 0, "language": "English", "account_age": 610560.0}

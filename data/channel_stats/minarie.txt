@@ -1,0 +1,1 @@
+{"channel": "minarie", "avg_viewers": 37, "followers_gained": 1, "peak_viewers": 73, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "English", "account_age": 2957760.0}

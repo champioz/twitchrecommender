@@ -1,0 +1,1 @@
+{"channel": "caffard", "avg_viewers": 38, "followers_gained": 54, "peak_viewers": 72, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "Arabic", "account_age": 2079360.0}

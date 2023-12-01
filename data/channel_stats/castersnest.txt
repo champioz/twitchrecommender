@@ -1,0 +1,1 @@
+{"channel": "castersnest", "avg_viewers": 94, "followers_gained": 193, "peak_viewers": 245, "hours_streamed": 37, "streams": 11, "mature": 0, "language": "French", "account_age": 1247040.0}

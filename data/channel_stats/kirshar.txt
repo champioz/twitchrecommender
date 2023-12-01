@@ -1,0 +1,1 @@
+{"channel": "kirshar", "avg_viewers": 14, "followers_gained": 467, "peak_viewers": 39, "hours_streamed": 56, "streams": 22, "mature": 0, "language": "English", "account_age": 1978560.0}

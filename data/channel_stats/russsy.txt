@@ -1,0 +1,1 @@
+{"channel": "russsy", "avg_viewers": 27, "followers_gained": 63, "peak_viewers": 145, "hours_streamed": 80, "streams": 30, "mature": 1, "language": "Turkish", "account_age": 3107520.0}

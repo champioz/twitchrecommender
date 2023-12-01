@@ -1,0 +1,1 @@
+{"channel": "dodge", "avg_viewers": 75, "followers_gained": 176, "peak_viewers": 944, "hours_streamed": 71, "streams": 10, "mature": 1, "language": "English", "account_age": 2089440.0}

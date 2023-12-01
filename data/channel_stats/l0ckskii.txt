@@ -1,0 +1,1 @@
+{"channel": "l0ckskii", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 29, "streams": 14, "mature": 0, "language": "English", "account_age": 1405440.0}

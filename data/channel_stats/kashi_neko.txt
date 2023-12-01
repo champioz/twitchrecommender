@@ -1,0 +1,1 @@
+{"channel": "kashi_neko", "avg_viewers": 35, "followers_gained": 138, "peak_viewers": 76, "hours_streamed": 97, "streams": 21, "mature": 0, "language": "Japanese", "account_age": 1247040.0}

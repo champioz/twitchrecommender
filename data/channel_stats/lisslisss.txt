@@ -1,0 +1,1 @@
+{"channel": "lisslisss", "avg_viewers": 13, "followers_gained": 13, "peak_viewers": 22, "hours_streamed": 3, "streams": 2, "mature": 1, "language": "Russian", "account_age": 403200.0}

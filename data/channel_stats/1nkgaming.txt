@@ -1,0 +1,1 @@
+{"channel": "1nkgaming", "avg_viewers": 5, "followers_gained": 88, "peak_viewers": 18, "hours_streamed": 339, "streams": 58, "mature": 1, "language": "English", "account_age": 3116160.0}

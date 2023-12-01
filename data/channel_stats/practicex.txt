@@ -1,0 +1,1 @@
+{"channel": "practicex", "avg_viewers": 14, "followers_gained": 47, "peak_viewers": 107, "hours_streamed": 149, "streams": 48, "mature": 1, "language": "English", "account_age": 3143520.0}

@@ -1,0 +1,1 @@
+{"channel": "quebber", "avg_viewers": 1, "followers_gained": 21, "peak_viewers": 18, "hours_streamed": 83, "streams": 64, "mature": 1, "language": "English", "account_age": 2476800.0}

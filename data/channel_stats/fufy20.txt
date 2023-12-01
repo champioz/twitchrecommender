@@ -1,0 +1,1 @@
+{"channel": "fufy20", "avg_viewers": 5, "followers_gained": 28, "peak_viewers": 18, "hours_streamed": 115, "streams": 35, "mature": 0, "language": "German", "account_age": 1620000.0}

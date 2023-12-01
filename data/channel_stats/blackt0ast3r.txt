@@ -1,0 +1,1 @@
+{"channel": "blackt0ast3r", "avg_viewers": 9, "followers_gained": 0, "peak_viewers": 49, "hours_streamed": 8, "streams": 6, "mature": 1, "language": "English", "account_age": 411840.0}

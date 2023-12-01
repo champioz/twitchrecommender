@@ -1,0 +1,1 @@
+{"channel": "ghosty1x", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "English", "account_age": 695520.0}

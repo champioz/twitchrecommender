@@ -1,0 +1,1 @@
+{"channel": "cuddleofdeath", "avg_viewers": 10, "followers_gained": 25, "peak_viewers": 35, "hours_streamed": 78, "streams": 19, "mature": 0, "language": "English", "account_age": 4412160.0}

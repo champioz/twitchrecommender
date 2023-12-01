@@ -1,0 +1,1 @@
+{"channel": "swordofseals", "avg_viewers": 65, "followers_gained": 175, "peak_viewers": 152, "hours_streamed": 127, "streams": 21, "mature": 0, "language": "English", "account_age": 5027040.0}

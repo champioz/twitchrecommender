@@ -1,0 +1,1 @@
+{"channel": "jaccy", "avg_viewers": 5, "followers_gained": 354, "peak_viewers": 21, "hours_streamed": 223, "streams": 58, "mature": 1, "language": "English", "account_age": 1756800.0}

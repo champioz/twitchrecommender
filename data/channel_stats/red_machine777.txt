@@ -1,0 +1,1 @@
+{"channel": "red_machine777", "avg_viewers": 1191, "followers_gained": 116, "peak_viewers": 2882, "hours_streamed": 62, "streams": 16, "mature": 0, "language": "Russian", "account_age": 1264320.0}

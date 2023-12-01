@@ -1,0 +1,1 @@
+{"channel": "carreraaa", "avg_viewers": 23, "followers_gained": 209, "peak_viewers": 65, "hours_streamed": 21, "streams": 7, "mature": 0, "language": "Spanish", "account_age": 1956960.0}

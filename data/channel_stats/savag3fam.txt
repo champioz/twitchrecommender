@@ -1,0 +1,1 @@
+{"channel": "savag3fam", "avg_viewers": 6, "followers_gained": 8, "peak_viewers": 55, "hours_streamed": 90, "streams": 14, "mature": 1, "language": "English", "account_age": 3490560.0}

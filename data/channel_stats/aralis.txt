@@ -1,0 +1,1 @@
+{"channel": "aralis", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 47, "streams": 12, "mature": 1, "language": "French", "account_age": 2632320.0}

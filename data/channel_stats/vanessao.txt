@@ -1,0 +1,1 @@
+{"channel": "vanessao", "avg_viewers": 14, "followers_gained": 98, "peak_viewers": 38, "hours_streamed": 15, "streams": 9, "mature": 1, "language": "Spanish", "account_age": 168480.0}

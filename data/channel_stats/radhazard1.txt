@@ -1,0 +1,1 @@
+{"channel": "radhazard1", "avg_viewers": 5, "followers_gained": 29, "peak_viewers": 28, "hours_streamed": 78, "streams": 20, "mature": 1, "language": "English", "account_age": 1745280.0}

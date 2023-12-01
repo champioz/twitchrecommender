@@ -1,0 +1,1 @@
+{"channel": "nice1tv", "avg_viewers": 20, "followers_gained": 4, "peak_viewers": 38, "hours_streamed": 62, "streams": 15, "mature": 0, "language": "Russian", "account_age": 2544480.0}

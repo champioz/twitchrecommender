@@ -1,0 +1,1 @@
+{"channel": "ihxgi", "avg_viewers": 44, "followers_gained": 831, "peak_viewers": 120, "hours_streamed": 89, "streams": 32, "mature": 0, "language": "Arabic", "account_age": 1189440.0}

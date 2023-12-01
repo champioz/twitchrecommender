@@ -1,0 +1,1 @@
+{"channel": "hentv", "avg_viewers": 20, "followers_gained": 1173, "peak_viewers": 57, "hours_streamed": 55, "streams": 40, "mature": 0, "language": "English", "account_age": 1039680.0}

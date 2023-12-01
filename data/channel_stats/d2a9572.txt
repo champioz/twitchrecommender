@@ -1,0 +1,1 @@
+{"channel": "d2a9572", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 14, "hours_streamed": 71, "streams": 14, "mature": 1, "language": "English", "account_age": 2774880.0}

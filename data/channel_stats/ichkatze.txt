@@ -1,0 +1,1 @@
+{"channel": "ichkatze", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Russian", "account_age": 2478240.0}

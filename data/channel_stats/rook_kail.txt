@@ -1,0 +1,1 @@
+{"channel": "rook_kail", "avg_viewers": 51, "followers_gained": 133, "peak_viewers": 568, "hours_streamed": 183, "streams": 29, "mature": 1, "language": "English", "account_age": 1274400.0}

@@ -1,0 +1,1 @@
+{"channel": "whaaaaaale", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "Chinese", "account_age": 3146400.0}

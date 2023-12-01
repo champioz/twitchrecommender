@@ -1,0 +1,1 @@
+{"channel": "lordnevar", "avg_viewers": 6, "followers_gained": 0, "peak_viewers": 27, "hours_streamed": 46, "streams": 19, "mature": 1, "language": "English", "account_age": 4698720.0}

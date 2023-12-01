@@ -1,0 +1,1 @@
+{"channel": "just1k713", "avg_viewers": 5, "followers_gained": 29, "peak_viewers": 20, "hours_streamed": 124, "streams": 16, "mature": 1, "language": "Russian", "account_age": 3899520.0}

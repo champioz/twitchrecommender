@@ -1,0 +1,1 @@
+{"channel": "salee_", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 1, "streams": 0, "mature": 0, "language": "Turkish", "account_age": 3405600.0}

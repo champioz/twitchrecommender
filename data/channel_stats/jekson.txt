@@ -1,0 +1,1 @@
+{"channel": "jekson", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 15, "hours_streamed": 113, "streams": 29, "mature": 1, "language": "Russian", "account_age": 1340640.0}

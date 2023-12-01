@@ -1,0 +1,1 @@
+{"channel": "salvei", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "English", "account_age": 3840480.0}

@@ -1,0 +1,1 @@
+{"channel": "seraphic17", "avg_viewers": 52, "followers_gained": 42, "peak_viewers": 92, "hours_streamed": 58, "streams": 17, "mature": 1, "language": "English", "account_age": 3644640.0}

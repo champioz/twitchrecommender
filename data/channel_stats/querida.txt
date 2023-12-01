@@ -1,0 +1,1 @@
+{"channel": "querida", "avg_viewers": 29, "followers_gained": 3310, "peak_viewers": 219, "hours_streamed": 134, "streams": 27, "mature": 0, "language": "Portuguese", "account_age": 1726560.0}

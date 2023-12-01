@@ -1,0 +1,1 @@
+{"channel": "mega_link34", "avg_viewers": 7, "followers_gained": 58, "peak_viewers": 20, "hours_streamed": 79, "streams": 25, "mature": 1, "language": "Spanish", "account_age": 459360.0}

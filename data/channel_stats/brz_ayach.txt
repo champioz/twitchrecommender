@@ -1,0 +1,1 @@
+{"channel": "brz_ayach", "avg_viewers": 5, "followers_gained": 20, "peak_viewers": 13, "hours_streamed": 21, "streams": 6, "mature": 0, "language": "Japanese", "account_age": 1202400.0}

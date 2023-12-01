@@ -1,0 +1,1 @@
+{"channel": "kikuu_tv", "avg_viewers": 18, "followers_gained": 115, "peak_viewers": 45, "hours_streamed": 94, "streams": 22, "mature": 1, "language": "German", "account_age": 2024640.0}

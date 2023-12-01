@@ -1,0 +1,1 @@
+{"channel": "ayumikooo", "avg_viewers": 12, "followers_gained": 1, "peak_viewers": 24, "hours_streamed": 20, "streams": 7, "mature": 0, "language": "Polish", "account_age": 2730240.0}

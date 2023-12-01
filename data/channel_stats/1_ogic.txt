@@ -1,0 +1,1 @@
+{"channel": "1_ogic", "avg_viewers": 31, "followers_gained": 70, "peak_viewers": 113, "hours_streamed": 26, "streams": 28, "mature": 1, "language": "English", "account_age": 1732320.0}

@@ -1,0 +1,1 @@
+{"channel": "omegadrew", "avg_viewers": 3, "followers_gained": 29, "peak_viewers": 19, "hours_streamed": 88, "streams": 32, "mature": 1, "language": "English", "account_age": 616320.0}

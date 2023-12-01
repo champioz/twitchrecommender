@@ -1,0 +1,1 @@
+{"channel": "knight_dendragon", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 14, "streams": 6, "mature": 1, "language": "German", "account_age": 583200.0}

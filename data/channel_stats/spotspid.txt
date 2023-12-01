@@ -1,0 +1,1 @@
+{"channel": "spotspid", "avg_viewers": 4, "followers_gained": 16, "peak_viewers": 22, "hours_streamed": 83, "streams": 19, "mature": 0, "language": "English", "account_age": 2167200.0}

@@ -1,0 +1,1 @@
+{"channel": "coru2525", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 12, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Japanese", "account_age": 424800.0}

@@ -1,0 +1,1 @@
+{"channel": "pokergroundtv", "avg_viewers": 41, "followers_gained": 10, "peak_viewers": 89, "hours_streamed": 18, "streams": 7, "mature": 0, "language": "Polish", "account_age": 2404800.0}

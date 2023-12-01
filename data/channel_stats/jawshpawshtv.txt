@@ -1,0 +1,1 @@
+{"channel": "jawshpawshtv", "avg_viewers": 22, "followers_gained": 140, "peak_viewers": 196, "hours_streamed": 190, "streams": 27, "mature": 1, "language": "English", "account_age": 2871360.0}

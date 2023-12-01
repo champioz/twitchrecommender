@@ -1,0 +1,1 @@
+{"channel": "allkeyshop_tv", "avg_viewers": 190, "followers_gained": 62, "peak_viewers": 1367, "hours_streamed": 683, "streams": 94, "mature": 0, "language": "English", "account_age": 751680.0}

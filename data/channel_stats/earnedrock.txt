@@ -1,0 +1,1 @@
+{"channel": "earnedrock", "avg_viewers": 30, "followers_gained": 229, "peak_viewers": 69, "hours_streamed": 32, "streams": 8, "mature": 0, "language": "English", "account_age": 1778400.0}

@@ -1,0 +1,1 @@
+{"channel": "carrliciouss", "avg_viewers": 15, "followers_gained": 221, "peak_viewers": 57, "hours_streamed": 224, "streams": 43, "mature": 1, "language": "English", "account_age": 3094560.0}

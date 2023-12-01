@@ -1,0 +1,1 @@
+{"channel": "razkid", "avg_viewers": 10, "followers_gained": 140, "peak_viewers": 27, "hours_streamed": 123, "streams": 21, "mature": 1, "language": "English", "account_age": 4141440.0}

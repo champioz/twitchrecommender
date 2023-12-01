@@ -1,0 +1,1 @@
+{"channel": "shundgaming", "avg_viewers": 5, "followers_gained": 57, "peak_viewers": 22, "hours_streamed": 60, "streams": 19, "mature": 0, "language": "Spanish", "account_age": 995040.0}

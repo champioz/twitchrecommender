@@ -1,0 +1,1 @@
+{"channel": "goryholes", "avg_viewers": 31, "followers_gained": 51, "peak_viewers": 67, "hours_streamed": 87, "streams": 16, "mature": 1, "language": "English", "account_age": 339840.0}

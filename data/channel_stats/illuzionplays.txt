@@ -1,0 +1,1 @@
+{"channel": "illuzionplays", "avg_viewers": 16, "followers_gained": 75, "peak_viewers": 431, "hours_streamed": 193, "streams": 30, "mature": 1, "language": "English", "account_age": 1853280.0}

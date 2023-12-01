@@ -1,0 +1,1 @@
+{"channel": "mellamphy", "avg_viewers": 15, "followers_gained": 61, "peak_viewers": 119, "hours_streamed": 163, "streams": 35, "mature": 1, "language": "English", "account_age": 2773440.0}

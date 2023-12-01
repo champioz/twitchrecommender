@@ -1,0 +1,1 @@
+{"channel": "hakuou2", "avg_viewers": 88, "followers_gained": 34, "peak_viewers": 131, "hours_streamed": 35, "streams": 11, "mature": 1, "language": "Japanese", "account_age": 845280.0}

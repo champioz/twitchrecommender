@@ -1,0 +1,1 @@
+{"channel": "y0nd", "avg_viewers": 639, "followers_gained": 1787, "peak_viewers": 3058, "hours_streamed": 176, "streams": 29, "mature": 0, "language": "Russian", "account_age": 3684960.0}

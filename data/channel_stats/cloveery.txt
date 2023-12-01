@@ -1,0 +1,1 @@
+{"channel": "cloveery", "avg_viewers": 11, "followers_gained": 30, "peak_viewers": 25, "hours_streamed": 38, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 946080.0}

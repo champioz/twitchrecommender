@@ -1,0 +1,1 @@
+{"channel": "seedlingfifa", "avg_viewers": 190, "followers_gained": 1449, "peak_viewers": 663, "hours_streamed": 74, "streams": 14, "mature": 0, "language": "Thai", "account_age": 1245600.0}

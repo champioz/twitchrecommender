@@ -1,0 +1,1 @@
+{"channel": "valtheval", "avg_viewers": 30, "followers_gained": 771, "peak_viewers": 80, "hours_streamed": 141, "streams": 40, "mature": 0, "language": "English", "account_age": 768960.0}

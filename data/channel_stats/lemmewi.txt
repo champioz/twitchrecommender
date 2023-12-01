@@ -1,0 +1,1 @@
+{"channel": "lemmewi", "avg_viewers": 29, "followers_gained": 9, "peak_viewers": 54, "hours_streamed": 24, "streams": 10, "mature": 1, "language": "English", "account_age": 2211840.0}

@@ -1,0 +1,1 @@
+{"channel": "r2die", "avg_viewers": 6, "followers_gained": 5, "peak_viewers": 39, "hours_streamed": 103, "streams": 27, "mature": 1, "language": "English", "account_age": 1239840.0}

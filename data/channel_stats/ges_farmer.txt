@@ -1,0 +1,1 @@
+{"channel": "ges_farmer", "avg_viewers": 17, "followers_gained": 5, "peak_viewers": 63, "hours_streamed": 66, "streams": 18, "mature": 0, "language": "Korean", "account_age": 1920960.0}

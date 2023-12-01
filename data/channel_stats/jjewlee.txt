@@ -1,0 +1,1 @@
+{"channel": "jjewlee", "avg_viewers": 18, "followers_gained": 161, "peak_viewers": 28, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "Russian", "account_age": 591840.0}

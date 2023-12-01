@@ -1,0 +1,1 @@
+{"channel": "shoushiroll", "avg_viewers": 16, "followers_gained": 88, "peak_viewers": 42, "hours_streamed": 57, "streams": 19, "mature": 1, "language": "English", "account_age": 2039040.0}

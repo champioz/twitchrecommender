@@ -1,0 +1,1 @@
+{"channel": "homyakskorostrel", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Russian", "account_age": 279360.0}

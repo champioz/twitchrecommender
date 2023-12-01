@@ -1,0 +1,1 @@
+{"channel": "asd22733217", "avg_viewers": 47, "followers_gained": 22, "peak_viewers": 146, "hours_streamed": 233, "streams": 54, "mature": 1, "language": "Chinese", "account_age": 3369600.0}

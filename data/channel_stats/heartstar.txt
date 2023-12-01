@@ -1,0 +1,1 @@
+{"channel": "heartstar", "avg_viewers": 6, "followers_gained": 16, "peak_viewers": 19, "hours_streamed": 18, "streams": 5, "mature": 0, "language": "English", "account_age": 3612960.0}

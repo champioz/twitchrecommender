@@ -1,0 +1,1 @@
+{"channel": "esarc", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 57, "streams": 14, "mature": 1, "language": "Spanish", "account_age": 3365280.0}

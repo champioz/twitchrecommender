@@ -1,0 +1,1 @@
+{"channel": "thebenbig", "avg_viewers": 191, "followers_gained": 481, "peak_viewers": 335, "hours_streamed": 108, "streams": 24, "mature": 0, "language": "French", "account_age": 2704320.0}

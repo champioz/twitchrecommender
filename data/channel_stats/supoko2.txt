@@ -1,0 +1,1 @@
+{"channel": "supoko2", "avg_viewers": 5, "followers_gained": 28, "peak_viewers": 12, "hours_streamed": 14, "streams": 7, "mature": 0, "language": "Czech", "account_age": 419040.0}

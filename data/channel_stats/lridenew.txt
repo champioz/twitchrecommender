@@ -1,0 +1,1 @@
+{"channel": "lridenew", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 4, "streams": 4, "mature": 1, "language": "Chinese", "account_age": 3216960.0}

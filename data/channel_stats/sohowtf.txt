@@ -1,0 +1,1 @@
+{"channel": "sohowtf", "avg_viewers": 34, "followers_gained": 174, "peak_viewers": 85, "hours_streamed": 110, "streams": 38, "mature": 0, "language": "Thai", "account_age": 1385280.0}

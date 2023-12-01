@@ -1,0 +1,1 @@
+{"channel": "honoratojogaai", "avg_viewers": 25, "followers_gained": 67, "peak_viewers": 66, "hours_streamed": 44, "streams": 14, "mature": 0, "language": "Portuguese", "account_age": 1523520.0}

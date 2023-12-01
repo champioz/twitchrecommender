@@ -1,0 +1,1 @@
+{"channel": "notredamedepari", "avg_viewers": 0, "followers_gained": 278, "peak_viewers": 7, "hours_streamed": 49, "streams": 23, "mature": 0, "language": "Russian", "account_age": 485280.0}

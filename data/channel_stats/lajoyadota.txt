@@ -1,0 +1,1 @@
+{"channel": "lajoyadota", "avg_viewers": 6, "followers_gained": 25, "peak_viewers": 25, "hours_streamed": 20, "streams": 7, "mature": 0, "language": "Bulgarian", "account_age": 125280.0}

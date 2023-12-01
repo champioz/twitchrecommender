@@ -1,0 +1,1 @@
+{"channel": "dmorgii", "avg_viewers": 11, "followers_gained": 14, "peak_viewers": 22, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "English", "account_age": 567360.0}

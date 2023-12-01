@@ -1,0 +1,1 @@
+{"channel": "ranhogamer", "avg_viewers": 11, "followers_gained": 290, "peak_viewers": 46, "hours_streamed": 129, "streams": 30, "mature": 1, "language": "Portuguese", "account_age": 2566080.0}

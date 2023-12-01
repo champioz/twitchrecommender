@@ -1,0 +1,1 @@
+{"channel": "reckdajet", "avg_viewers": 2, "followers_gained": 18, "peak_viewers": 9, "hours_streamed": 169, "streams": 24, "mature": 1, "language": "English", "account_age": 493920.0}

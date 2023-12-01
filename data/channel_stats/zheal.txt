@@ -1,0 +1,1 @@
+{"channel": "zheal", "avg_viewers": 54, "followers_gained": 165, "peak_viewers": 456, "hours_streamed": 139, "streams": 20, "mature": 0, "language": "English", "account_age": 3824640.0}

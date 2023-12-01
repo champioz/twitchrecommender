@@ -1,0 +1,1 @@
+{"channel": "vovapain", "avg_viewers": 656, "followers_gained": 3192, "peak_viewers": 4428, "hours_streamed": 104, "streams": 20, "mature": 1, "language": "Russian", "account_age": 3456000.0}

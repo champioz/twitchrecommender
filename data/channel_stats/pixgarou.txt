@@ -1,0 +1,1 @@
+{"channel": "pixgarou", "avg_viewers": 7, "followers_gained": 28, "peak_viewers": 22, "hours_streamed": 55, "streams": 15, "mature": 0, "language": "Dutch", "account_age": 1866240.0}

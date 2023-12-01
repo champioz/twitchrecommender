@@ -1,0 +1,1 @@
+{"channel": "xenotier", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 21, "streams": 13, "mature": 0, "language": "German", "account_age": 3697920.0}

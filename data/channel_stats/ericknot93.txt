@@ -1,0 +1,1 @@
+{"channel": "ericknot93", "avg_viewers": 5, "followers_gained": 707, "peak_viewers": 22, "hours_streamed": 60, "streams": 31, "mature": 0, "language": "Spanish", "account_age": 218880.0}

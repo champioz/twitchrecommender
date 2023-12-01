@@ -1,0 +1,1 @@
+{"channel": "caaaz", "avg_viewers": 9, "followers_gained": 21, "peak_viewers": 20, "hours_streamed": 26, "streams": 7, "mature": 1, "language": "English", "account_age": 3811680.0}

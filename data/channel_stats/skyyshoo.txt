@@ -1,0 +1,1 @@
+{"channel": "skyyshoo", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 21, "hours_streamed": 40, "streams": 30, "mature": 0, "language": "French", "account_age": 2145600.0}

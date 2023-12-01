@@ -1,0 +1,1 @@
+{"channel": "muggsy", "avg_viewers": 8, "followers_gained": 12, "peak_viewers": 30, "hours_streamed": 13, "streams": 3, "mature": 0, "language": "English", "account_age": 4978080.0}

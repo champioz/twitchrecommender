@@ -1,0 +1,1 @@
+{"channel": "janisnow", "avg_viewers": 56, "followers_gained": 113, "peak_viewers": 121, "hours_streamed": 66, "streams": 21, "mature": 1, "language": "German", "account_age": 1421280.0}

@@ -1,0 +1,1 @@
+{"channel": "samdadude", "avg_viewers": 140, "followers_gained": 402, "peak_viewers": 260, "hours_streamed": 87, "streams": 25, "mature": 0, "language": "English", "account_age": 3225600.0}

@@ -1,0 +1,1 @@
+{"channel": "munirah10", "avg_viewers": 8, "followers_gained": 91, "peak_viewers": 39, "hours_streamed": 19, "streams": 11, "mature": 0, "language": "Arabic", "account_age": 734400.0}

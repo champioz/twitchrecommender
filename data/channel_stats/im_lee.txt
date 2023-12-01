@@ -1,0 +1,1 @@
+{"channel": "im_lee", "avg_viewers": 11, "followers_gained": 29, "peak_viewers": 26, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "English", "account_age": 852480.0}

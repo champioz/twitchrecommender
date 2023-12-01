@@ -1,0 +1,1 @@
+{"channel": "euntokki4", "avg_viewers": 8, "followers_gained": 58, "peak_viewers": 18, "hours_streamed": 48, "streams": 14, "mature": 1, "language": "Korean", "account_age": 766080.0}

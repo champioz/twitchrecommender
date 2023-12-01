@@ -1,0 +1,1 @@
+{"channel": "mimimoral", "avg_viewers": 74, "followers_gained": 1020, "peak_viewers": 161, "hours_streamed": 34, "streams": 6, "mature": 0, "language": "Russian", "account_age": 1265760.0}

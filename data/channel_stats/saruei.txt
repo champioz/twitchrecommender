@@ -1,0 +1,1 @@
+{"channel": "saruei", "avg_viewers": 226, "followers_gained": 625, "peak_viewers": 384, "hours_streamed": 36, "streams": 10, "mature": 1, "language": "English", "account_age": 1715040.0}

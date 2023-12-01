@@ -1,0 +1,1 @@
+{"channel": "delikibrisli", "avg_viewers": 66, "followers_gained": 163, "peak_viewers": 146, "hours_streamed": 67, "streams": 27, "mature": 1, "language": "Turkish", "account_age": 686880.0}

@@ -1,0 +1,1 @@
+{"channel": "mrcab55", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 15, "hours_streamed": 48, "streams": 30, "mature": 0, "language": "English", "account_age": 3384000.0}

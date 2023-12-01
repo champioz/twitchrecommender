@@ -1,0 +1,1 @@
+{"channel": "baepot", "avg_viewers": 5, "followers_gained": 44, "peak_viewers": 17, "hours_streamed": 130, "streams": 27, "mature": 1, "language": "English", "account_age": 187200.0}

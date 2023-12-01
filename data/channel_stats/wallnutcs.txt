@@ -1,0 +1,1 @@
+{"channel": "wallnutcs", "avg_viewers": 7, "followers_gained": 3, "peak_viewers": 17, "hours_streamed": 45, "streams": 12, "mature": 1, "language": "English", "account_age": 4043520.0}

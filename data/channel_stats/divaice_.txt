@@ -1,0 +1,1 @@
+{"channel": "divaice_", "avg_viewers": 16, "followers_gained": 10, "peak_viewers": 40, "hours_streamed": 26, "streams": 14, "mature": 0, "language": "Russian", "account_age": 3506400.0}

@@ -1,0 +1,1 @@
+{"channel": "b00k77", "avg_viewers": 43, "followers_gained": 263, "peak_viewers": 191, "hours_streamed": 62, "streams": 23, "mature": 0, "language": "Thai", "account_age": 1552320.0}

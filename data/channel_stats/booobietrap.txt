@@ -1,0 +1,1 @@
+{"channel": "booobietrap", "avg_viewers": 10, "followers_gained": 100, "peak_viewers": 30, "hours_streamed": 93, "streams": 19, "mature": 1, "language": "English", "account_age": 712800.0}

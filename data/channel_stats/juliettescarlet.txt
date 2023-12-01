@@ -1,0 +1,1 @@
+{"channel": "juliettescarlet", "avg_viewers": 14, "followers_gained": 102, "peak_viewers": 31, "hours_streamed": 35, "streams": 8, "mature": 1, "language": "Spanish", "account_age": 1941120.0}

@@ -1,0 +1,1 @@
+{"channel": "suavecu", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 3, "hours_streamed": 24, "streams": 18, "mature": 0, "language": "English", "account_age": 240480.0}

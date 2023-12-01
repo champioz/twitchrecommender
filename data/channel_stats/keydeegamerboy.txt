@@ -1,0 +1,1 @@
+{"channel": "keydeegamerboy", "avg_viewers": 305, "followers_gained": 688, "peak_viewers": 1944, "hours_streamed": 125, "streams": 10, "mature": 1, "language": "French", "account_age": 2249280.0}

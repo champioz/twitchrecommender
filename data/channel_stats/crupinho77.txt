@@ -1,0 +1,1 @@
+{"channel": "crupinho77", "avg_viewers": 2, "followers_gained": 49, "peak_viewers": 16, "hours_streamed": 144, "streams": 40, "mature": 0, "language": "German", "account_age": 1955520.0}

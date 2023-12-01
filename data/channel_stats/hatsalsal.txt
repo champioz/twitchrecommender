@@ -1,0 +1,1 @@
+{"channel": "hatsalsal", "avg_viewers": 490, "followers_gained": 517, "peak_viewers": 1209, "hours_streamed": 164, "streams": 26, "mature": 0, "language": "Korean", "account_age": 1275840.0}

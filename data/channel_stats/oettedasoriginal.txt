@@ -1,0 +1,1 @@
+{"channel": "oettedasoriginal", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 22, "hours_streamed": 49, "streams": 14, "mature": 0, "language": "German", "account_age": 1890720.0}

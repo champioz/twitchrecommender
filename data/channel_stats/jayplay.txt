@@ -1,0 +1,1 @@
+{"channel": "jayplay", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 9, "hours_streamed": 105, "streams": 24, "mature": 0, "language": "English", "account_age": 3408480.0}

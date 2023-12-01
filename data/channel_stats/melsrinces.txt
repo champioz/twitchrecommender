@@ -1,0 +1,1 @@
+{"channel": "melsrinces", "avg_viewers": 88, "followers_gained": 1776, "peak_viewers": 218, "hours_streamed": 84, "streams": 30, "mature": 1, "language": "Spanish", "account_age": 423360.0}

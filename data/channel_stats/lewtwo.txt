@@ -1,0 +1,1 @@
+{"channel": "lewtwo", "avg_viewers": 4, "followers_gained": 15, "peak_viewers": 15, "hours_streamed": 20, "streams": 12, "mature": 0, "language": "English", "account_age": 1061280.0}

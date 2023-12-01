@@ -1,0 +1,1 @@
+{"channel": "kyo128", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 71, "streams": 18, "mature": 1, "language": "Korean", "account_age": 3260160.0}

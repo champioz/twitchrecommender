@@ -1,0 +1,1 @@
+{"channel": "drerhano", "avg_viewers": 248, "followers_gained": 106, "peak_viewers": 630, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "German", "account_age": 2982240.0}

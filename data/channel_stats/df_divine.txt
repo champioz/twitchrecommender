@@ -1,0 +1,1 @@
+{"channel": "df_divine", "avg_viewers": 17, "followers_gained": 81, "peak_viewers": 242, "hours_streamed": 100, "streams": 52, "mature": 0, "language": "English", "account_age": 252000.0}

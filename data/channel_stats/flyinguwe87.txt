@@ -1,0 +1,1 @@
+{"channel": "flyinguwe87", "avg_viewers": 1342, "followers_gained": 10612, "peak_viewers": 3628, "hours_streamed": 60, "streams": 13, "mature": 0, "language": "German", "account_age": 3005280.0}

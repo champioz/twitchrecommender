@@ -1,0 +1,1 @@
+{"channel": "winner84", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 3, "hours_streamed": 29, "streams": 9, "mature": 0, "language": "Korean", "account_age": 992160.0}

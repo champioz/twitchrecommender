@@ -1,0 +1,1 @@
+{"channel": "rikvid", "avg_viewers": 18, "followers_gained": 2, "peak_viewers": 43, "hours_streamed": 112, "streams": 29, "mature": 0, "language": "Russian", "account_age": 823680.0}

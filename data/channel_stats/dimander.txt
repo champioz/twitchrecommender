@@ -1,0 +1,1 @@
+{"channel": "dimander", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 25, "streams": 12, "mature": 0, "language": "Russian", "account_age": 2450880.0}

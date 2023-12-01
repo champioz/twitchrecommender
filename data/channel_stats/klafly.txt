@@ -1,0 +1,1 @@
+{"channel": "klafly", "avg_viewers": 69, "followers_gained": 5693, "peak_viewers": 189, "hours_streamed": 200, "streams": 32, "mature": 1, "language": "Polish", "account_age": 1977120.0}

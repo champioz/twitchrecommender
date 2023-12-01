@@ -1,0 +1,1 @@
+{"channel": "speczii", "avg_viewers": 12, "followers_gained": 39, "peak_viewers": 27, "hours_streamed": 82, "streams": 20, "mature": 0, "language": "English", "account_age": 2329920.0}

@@ -1,0 +1,1 @@
+{"channel": "zescht", "avg_viewers": 6, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "German", "account_age": 891360.0}

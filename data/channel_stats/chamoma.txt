@@ -1,0 +1,1 @@
+{"channel": "chamoma", "avg_viewers": 15, "followers_gained": 192, "peak_viewers": 64, "hours_streamed": 18, "streams": 10, "mature": 0, "language": "English", "account_age": 2492640.0}

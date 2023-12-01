@@ -1,0 +1,1 @@
+{"channel": "thegreatcia", "avg_viewers": 2, "followers_gained": 19, "peak_viewers": 10, "hours_streamed": 80, "streams": 24, "mature": 0, "language": "English", "account_age": 600480.0}

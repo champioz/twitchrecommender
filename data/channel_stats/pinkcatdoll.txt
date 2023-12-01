@@ -1,0 +1,1 @@
+{"channel": "pinkcatdoll", "avg_viewers": 3, "followers_gained": 57, "peak_viewers": 57, "hours_streamed": 274, "streams": 72, "mature": 1, "language": "Thai", "account_age": 725760.0}

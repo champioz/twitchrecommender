@@ -1,0 +1,1 @@
+{"channel": "jokerzminion", "avg_viewers": 30, "followers_gained": 18, "peak_viewers": 175, "hours_streamed": 50, "streams": 17, "mature": 1, "language": "English", "account_age": 1474560.0}

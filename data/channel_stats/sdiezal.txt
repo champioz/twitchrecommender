@@ -1,0 +1,1 @@
+{"channel": "sdiezal", "avg_viewers": 5, "followers_gained": 19, "peak_viewers": 16, "hours_streamed": 176, "streams": 33, "mature": 0, "language": "English", "account_age": 3733920.0}

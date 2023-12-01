@@ -1,0 +1,1 @@
+{"channel": "mannsgaming", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 18, "hours_streamed": 56, "streams": 19, "mature": 1, "language": "English", "account_age": 279360.0}

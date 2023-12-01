@@ -1,0 +1,1 @@
+{"channel": "etckid", "avg_viewers": 44, "followers_gained": 155, "peak_viewers": 258, "hours_streamed": 124, "streams": 24, "mature": 0, "language": "English", "account_age": 1556640.0}

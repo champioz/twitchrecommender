@@ -1,0 +1,1 @@
+{"channel": "chachava", "avg_viewers": 36, "followers_gained": 142, "peak_viewers": 73, "hours_streamed": 74, "streams": 12, "mature": 1, "language": "English", "account_age": 1584000.0}

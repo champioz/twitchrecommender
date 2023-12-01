@@ -1,0 +1,1 @@
+{"channel": "hn80075", "avg_viewers": 57, "followers_gained": 194, "peak_viewers": 111, "hours_streamed": 142, "streams": 16, "mature": 1, "language": "Chinese", "account_age": 4152960.0}

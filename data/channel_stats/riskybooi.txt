@@ -1,0 +1,1 @@
+{"channel": "riskybooi", "avg_viewers": 8, "followers_gained": 121, "peak_viewers": 100, "hours_streamed": 49, "streams": 17, "mature": 1, "language": "Arabic", "account_age": 3422880.0}

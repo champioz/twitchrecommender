@@ -1,0 +1,1 @@
+{"channel": "deliry", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 8, "hours_streamed": 10, "streams": 8, "mature": 0, "language": "Italian", "account_age": 1952640.0}

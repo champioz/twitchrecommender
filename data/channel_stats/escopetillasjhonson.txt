@@ -1,0 +1,1 @@
+{"channel": "escopetillasjhonson", "avg_viewers": 657, "followers_gained": 3895, "peak_viewers": 3321, "hours_streamed": 82, "streams": 24, "mature": 0, "language": "Spanish", "account_age": 1185120.0}

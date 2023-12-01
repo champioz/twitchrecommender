@@ -1,0 +1,1 @@
+{"channel": "luceyplays", "avg_viewers": 10, "followers_gained": 117, "peak_viewers": 38, "hours_streamed": 51, "streams": 17, "mature": 0, "language": "English", "account_age": 1431360.0}

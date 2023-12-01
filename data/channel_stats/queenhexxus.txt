@@ -1,0 +1,1 @@
+{"channel": "queenhexxus", "avg_viewers": 27, "followers_gained": 812, "peak_viewers": 70, "hours_streamed": 99, "streams": 17, "mature": 1, "language": "English", "account_age": 822240.0}

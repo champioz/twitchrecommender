@@ -1,0 +1,1 @@
+{"channel": "ksun41k", "avg_viewers": 104, "followers_gained": 1158, "peak_viewers": 918, "hours_streamed": 152, "streams": 29, "mature": 0, "language": "Russian", "account_age": 2625120.0}

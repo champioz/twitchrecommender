@@ -1,0 +1,1 @@
+{"channel": "diegocontra", "avg_viewers": 45, "followers_gained": 27, "peak_viewers": 106, "hours_streamed": 102, "streams": 19, "mature": 0, "language": "English", "account_age": 2865600.0}

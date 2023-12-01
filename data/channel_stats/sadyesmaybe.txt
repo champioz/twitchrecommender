@@ -1,0 +1,1 @@
+{"channel": "sadyesmaybe", "avg_viewers": 6, "followers_gained": 49, "peak_viewers": 134, "hours_streamed": 63, "streams": 20, "mature": 0, "language": "Bulgarian", "account_age": 2907360.0}

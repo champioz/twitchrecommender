@@ -1,0 +1,1 @@
+{"channel": "remity", "avg_viewers": 4, "followers_gained": 25, "peak_viewers": 23, "hours_streamed": 91, "streams": 17, "mature": 1, "language": "English", "account_age": 3002400.0}

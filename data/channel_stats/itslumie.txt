@@ -1,0 +1,1 @@
+{"channel": "itslumie", "avg_viewers": 4, "followers_gained": 35, "peak_viewers": 23, "hours_streamed": 35, "streams": 19, "mature": 0, "language": "English", "account_age": 954720.0}

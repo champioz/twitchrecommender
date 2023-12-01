@@ -1,0 +1,1 @@
+{"channel": "andersb2000", "avg_viewers": 44, "followers_gained": 55, "peak_viewers": 88, "hours_streamed": 12, "streams": 11, "mature": 0, "language": "Danish", "account_age": 3480480.0}

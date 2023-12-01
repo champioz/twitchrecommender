@@ -1,0 +1,1 @@
+{"channel": "manofilert", "avg_viewers": 3, "followers_gained": 22, "peak_viewers": 12, "hours_streamed": 32, "streams": 11, "mature": 1, "language": "French", "account_age": 2702880.0}

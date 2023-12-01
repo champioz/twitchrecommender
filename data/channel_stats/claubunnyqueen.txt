@@ -1,0 +1,1 @@
+{"channel": "claubunnyqueen", "avg_viewers": 9, "followers_gained": 6, "peak_viewers": 20, "hours_streamed": 21, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 1388160.0}

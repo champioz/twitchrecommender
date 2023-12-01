@@ -1,0 +1,1 @@
+{"channel": "furyfulfawful", "avg_viewers": 37, "followers_gained": 16, "peak_viewers": 145, "hours_streamed": 14, "streams": 5, "mature": 1, "language": "English", "account_age": 2594880.0}

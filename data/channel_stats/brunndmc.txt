@@ -1,0 +1,1 @@
+{"channel": "brunndmc", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 11, "hours_streamed": 44, "streams": 12, "mature": 0, "language": "English", "account_age": 3852000.0}

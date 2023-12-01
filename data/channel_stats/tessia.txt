@@ -1,0 +1,1 @@
+{"channel": "tessia", "avg_viewers": 17, "followers_gained": 102, "peak_viewers": 34, "hours_streamed": 23, "streams": 13, "mature": 0, "language": "Czech", "account_age": 1343520.0}

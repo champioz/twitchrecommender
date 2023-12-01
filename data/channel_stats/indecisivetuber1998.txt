@@ -1,0 +1,1 @@
+{"channel": "indecisivetuber1998", "avg_viewers": 8, "followers_gained": 53, "peak_viewers": 32, "hours_streamed": 23, "streams": 11, "mature": 1, "language": "English", "account_age": 483840.0}

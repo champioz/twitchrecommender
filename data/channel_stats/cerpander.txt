@@ -1,0 +1,1 @@
+{"channel": "cerpander", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 24, "hours_streamed": 11, "streams": 5, "mature": 1, "language": "Finnish", "account_age": 3345120.0}

@@ -1,0 +1,1 @@
+{"channel": "coachg", "avg_viewers": 54, "followers_gained": 5, "peak_viewers": 108, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "French", "account_age": 2838240.0}

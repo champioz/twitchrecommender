@@ -1,0 +1,1 @@
+{"channel": "nicoiconi", "avg_viewers": 14, "followers_gained": 318, "peak_viewers": 129, "hours_streamed": 261, "streams": 42, "mature": 0, "language": "Spanish", "account_age": 731520.0}

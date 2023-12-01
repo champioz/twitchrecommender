@@ -1,0 +1,1 @@
+{"channel": "sweahter", "avg_viewers": 18, "followers_gained": 52, "peak_viewers": 39, "hours_streamed": 16, "streams": 7, "mature": 0, "language": "English", "account_age": 897120.0}

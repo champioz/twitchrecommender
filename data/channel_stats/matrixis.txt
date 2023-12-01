@@ -1,0 +1,1 @@
+{"channel": "matrixis", "avg_viewers": 217, "followers_gained": 1328, "peak_viewers": 875, "hours_streamed": 181, "streams": 30, "mature": 0, "language": "English", "account_age": 3673440.0}

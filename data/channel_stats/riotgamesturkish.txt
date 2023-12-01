@@ -1,0 +1,1 @@
+{"channel": "riotgamesturkish", "avg_viewers": 7891, "followers_gained": 3495, "peak_viewers": 21937, "hours_streamed": 49, "streams": 13, "mature": 0, "language": "Turkish", "account_age": 3597120.0}

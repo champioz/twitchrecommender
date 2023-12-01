@@ -1,0 +1,1 @@
+{"channel": "khaleesibb", "avg_viewers": 120, "followers_gained": 584, "peak_viewers": 250, "hours_streamed": 114, "streams": 32, "mature": 1, "language": "English", "account_age": 1513440.0}

@@ -1,0 +1,1 @@
+{"channel": "leshowduyable", "avg_viewers": 56, "followers_gained": 128, "peak_viewers": 105, "hours_streamed": 47, "streams": 12, "mature": 1, "language": "French", "account_age": 3144960.0}

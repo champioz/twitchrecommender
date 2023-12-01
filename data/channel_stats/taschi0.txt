@@ -1,0 +1,1 @@
+{"channel": "taschi0", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 8, "hours_streamed": 28, "streams": 5, "mature": 1, "language": "German", "account_age": 2617920.0}

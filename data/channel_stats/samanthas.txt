@@ -1,0 +1,1 @@
+{"channel": "samanthas", "avg_viewers": 26, "followers_gained": 326, "peak_viewers": 72, "hours_streamed": 155, "streams": 27, "mature": 1, "language": "English", "account_age": 3628800.0}

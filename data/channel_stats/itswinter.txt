@@ -1,0 +1,1 @@
+{"channel": "itswinter", "avg_viewers": 8, "followers_gained": 34, "peak_viewers": 52, "hours_streamed": 44, "streams": 30, "mature": 1, "language": "English", "account_age": 3088800.0}

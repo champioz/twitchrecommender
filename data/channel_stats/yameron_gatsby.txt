@@ -1,0 +1,1 @@
+{"channel": "yameron_gatsby", "avg_viewers": 435, "followers_gained": 151, "peak_viewers": 1954, "hours_streamed": 60, "streams": 22, "mature": 0, "language": "English", "account_age": 610560.0}

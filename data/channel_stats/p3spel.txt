@@ -1,0 +1,1 @@
+{"channel": "p3spel", "avg_viewers": 203, "followers_gained": 222, "peak_viewers": 385, "hours_streamed": 52, "streams": 17, "mature": 0, "language": "Swedish", "account_age": 852480.0}

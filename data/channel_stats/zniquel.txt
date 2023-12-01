@@ -1,0 +1,1 @@
+{"channel": "zniquel", "avg_viewers": 19, "followers_gained": 128, "peak_viewers": 64, "hours_streamed": 40, "streams": 10, "mature": 1, "language": "Spanish", "account_age": 1483200.0}

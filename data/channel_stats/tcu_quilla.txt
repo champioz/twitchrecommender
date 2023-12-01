@@ -1,0 +1,1 @@
+{"channel": "tcu_quilla", "avg_viewers": 9, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "English", "account_age": 1656000.0}

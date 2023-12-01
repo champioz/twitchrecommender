@@ -1,0 +1,1 @@
+{"channel": "staha92", "avg_viewers": 31, "followers_gained": 642, "peak_viewers": 93, "hours_streamed": 143, "streams": 28, "mature": 0, "language": "English", "account_age": 884160.0}

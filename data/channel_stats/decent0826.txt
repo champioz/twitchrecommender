@@ -1,0 +1,1 @@
+{"channel": "decent0826", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 9, "streams": 3, "mature": 0, "language": "Chinese (Hong Kong SAR)", "account_age": 1166400.0}

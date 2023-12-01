@@ -1,0 +1,1 @@
+{"channel": "vinxen_", "avg_viewers": 55, "followers_gained": 234, "peak_viewers": 152, "hours_streamed": 101, "streams": 25, "mature": 0, "language": "Czech", "account_age": 1941120.0}

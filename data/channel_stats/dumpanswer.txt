@@ -1,0 +1,1 @@
+{"channel": "dumpanswer", "avg_viewers": 20, "followers_gained": 28, "peak_viewers": 56, "hours_streamed": 68, "streams": 20, "mature": 0, "language": "Russian", "account_age": 1385280.0}

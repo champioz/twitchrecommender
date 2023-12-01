@@ -1,0 +1,1 @@
+{"channel": "billy_d", "avg_viewers": 14, "followers_gained": 12, "peak_viewers": 29, "hours_streamed": 27, "streams": 4, "mature": 0, "language": "English", "account_age": 1169280.0}

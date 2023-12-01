@@ -1,0 +1,1 @@
+{"channel": "lentorer", "avg_viewers": 21, "followers_gained": 29, "peak_viewers": 104, "hours_streamed": 115, "streams": 19, "mature": 0, "language": "Japanese", "account_age": 2505600.0}

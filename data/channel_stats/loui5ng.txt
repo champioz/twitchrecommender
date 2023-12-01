@@ -1,0 +1,1 @@
+{"channel": "loui5ng", "avg_viewers": 1115, "followers_gained": 1457, "peak_viewers": 3441, "hours_streamed": 283, "streams": 56, "mature": 0, "language": "Chinese (Hong Kong SAR)", "account_age": 3916800.0}

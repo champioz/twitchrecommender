@@ -1,0 +1,1 @@
+{"channel": "saturn0106", "avg_viewers": 4, "followers_gained": 82, "peak_viewers": 15, "hours_streamed": 182, "streams": 30, "mature": 0, "language": "Korean", "account_age": 973440.0}

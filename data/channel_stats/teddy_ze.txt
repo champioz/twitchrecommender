@@ -1,0 +1,1 @@
+{"channel": "teddy_ze", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 32, "hours_streamed": 51, "streams": 17, "mature": 0, "language": "English", "account_age": 1307520.0}

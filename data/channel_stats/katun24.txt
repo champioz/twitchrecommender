@@ -1,0 +1,1 @@
+{"channel": "katun24", "avg_viewers": 16, "followers_gained": 35, "peak_viewers": 31, "hours_streamed": 76, "streams": 11, "mature": 0, "language": "English", "account_age": 1825920.0}

@@ -1,0 +1,1 @@
+{"channel": "linniegrey", "avg_viewers": 6, "followers_gained": 13, "peak_viewers": 15, "hours_streamed": 47, "streams": 17, "mature": 1, "language": "English", "account_age": 1046880.0}

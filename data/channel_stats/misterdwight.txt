@@ -1,0 +1,1 @@
+{"channel": "misterdwight", "avg_viewers": 16, "followers_gained": 171, "peak_viewers": 91, "hours_streamed": 84, "streams": 36, "mature": 1, "language": "French", "account_age": 2394720.0}

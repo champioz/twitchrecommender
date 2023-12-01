@@ -1,0 +1,1 @@
+{"channel": "sireel", "avg_viewers": 59, "followers_gained": 14, "peak_viewers": 103, "hours_streamed": 14, "streams": 4, "mature": 0, "language": "French", "account_age": 1290240.0}

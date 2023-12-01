@@ -1,0 +1,1 @@
+{"channel": "lotrostream", "avg_viewers": 35, "followers_gained": 63, "peak_viewers": 174, "hours_streamed": 92, "streams": 32, "mature": 0, "language": "English", "account_age": 2917440.0}

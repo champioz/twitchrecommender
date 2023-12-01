@@ -1,0 +1,1 @@
+{"channel": "coloneldukelacr0sse", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 13, "hours_streamed": 79, "streams": 20, "mature": 1, "language": "English", "account_age": 2597760.0}

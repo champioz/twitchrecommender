@@ -1,0 +1,1 @@
+{"channel": "angeliqualya", "avg_viewers": 4, "followers_gained": 14, "peak_viewers": 11, "hours_streamed": 23, "streams": 12, "mature": 0, "language": "Ukrainian", "account_age": 1334880.0}

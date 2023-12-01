@@ -1,0 +1,1 @@
+{"channel": "serejaperviy", "avg_viewers": 475, "followers_gained": 3511, "peak_viewers": 1283, "hours_streamed": 193, "streams": 42, "mature": 0, "language": "Russian", "account_age": 2240640.0}

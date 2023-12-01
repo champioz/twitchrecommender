@@ -1,0 +1,1 @@
+{"channel": "dr4g0on", "avg_viewers": 76, "followers_gained": 51, "peak_viewers": 115, "hours_streamed": 45, "streams": 9, "mature": 0, "language": "German", "account_age": 2737440.0}

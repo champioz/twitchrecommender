@@ -1,0 +1,1 @@
+{"channel": "tooliey", "avg_viewers": 111, "followers_gained": 780, "peak_viewers": 320, "hours_streamed": 240, "streams": 24, "mature": 1, "language": "English", "account_age": 3070080.0}

@@ -1,0 +1,1 @@
+{"channel": "pfig314", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 8, "hours_streamed": 54, "streams": 13, "mature": 1, "language": "English", "account_age": 2769120.0}

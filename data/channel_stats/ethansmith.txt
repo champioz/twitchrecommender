@@ -1,0 +1,1 @@
+{"channel": "ethansmith", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 3, "hours_streamed": 20, "streams": 13, "mature": 0, "language": "French", "account_age": 2384640.0}

@@ -1,0 +1,1 @@
+{"channel": "mestrefrooke", "avg_viewers": 38, "followers_gained": 42, "peak_viewers": 92, "hours_streamed": 13, "streams": 3, "mature": 0, "language": "Portuguese", "account_age": 1193760.0}

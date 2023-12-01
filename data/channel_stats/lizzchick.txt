@@ -1,0 +1,1 @@
+{"channel": "lizzchick", "avg_viewers": 8, "followers_gained": 30, "peak_viewers": 27, "hours_streamed": 47, "streams": 9, "mature": 1, "language": "English", "account_age": 3153600.0}

@@ -1,0 +1,1 @@
+{"channel": "merrywolf1126", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 16, "hours_streamed": 87, "streams": 25, "mature": 0, "language": "Korean", "account_age": 1641600.0}

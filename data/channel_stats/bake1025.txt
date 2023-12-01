@@ -1,0 +1,1 @@
+{"channel": "bake1025", "avg_viewers": 12, "followers_gained": 39, "peak_viewers": 33, "hours_streamed": 314, "streams": 22, "mature": 1, "language": "Chinese", "account_age": 4567680.0}

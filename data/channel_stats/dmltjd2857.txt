@@ -1,0 +1,1 @@
+{"channel": "dmltjd2857", "avg_viewers": 10, "followers_gained": 13, "peak_viewers": 46, "hours_streamed": 64, "streams": 12, "mature": 0, "language": "Korean", "account_age": 1087200.0}

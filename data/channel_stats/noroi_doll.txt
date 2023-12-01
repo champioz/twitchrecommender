@@ -1,0 +1,1 @@
+{"channel": "noroi_doll", "avg_viewers": 32, "followers_gained": 12, "peak_viewers": 65, "hours_streamed": 53, "streams": 13, "mature": 1, "language": "Japanese", "account_age": 1238400.0}

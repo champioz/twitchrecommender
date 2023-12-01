@@ -1,0 +1,1 @@
+{"channel": "ashlinaa", "avg_viewers": 22, "followers_gained": 200, "peak_viewers": 97, "hours_streamed": 79, "streams": 18, "mature": 1, "language": "English", "account_age": 2939040.0}

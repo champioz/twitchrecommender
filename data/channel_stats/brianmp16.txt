@@ -1,0 +1,1 @@
+{"channel": "brianmp16", "avg_viewers": 9, "followers_gained": 19, "peak_viewers": 21, "hours_streamed": 36, "streams": 11, "mature": 0, "language": "English", "account_age": 4481280.0}

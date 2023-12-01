@@ -1,0 +1,1 @@
+{"channel": "jflute1228", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 14, "hours_streamed": 119, "streams": 32, "mature": 1, "language": "Korean", "account_age": 1033920.0}

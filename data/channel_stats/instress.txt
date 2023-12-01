@@ -1,0 +1,1 @@
+{"channel": "instress", "avg_viewers": 14, "followers_gained": 26, "peak_viewers": 34, "hours_streamed": 20, "streams": 5, "mature": 0, "language": "Russian", "account_age": 2187360.0}

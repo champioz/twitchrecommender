@@ -1,0 +1,1 @@
+{"channel": "iop1145", "avg_viewers": 30, "followers_gained": 23, "peak_viewers": 85, "hours_streamed": 168, "streams": 16, "mature": 0, "language": "Korean", "account_age": 1929600.0}

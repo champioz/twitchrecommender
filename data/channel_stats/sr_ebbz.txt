@@ -1,0 +1,1 @@
+{"channel": "sr_ebbz", "avg_viewers": 31, "followers_gained": 546, "peak_viewers": 247, "hours_streamed": 38, "streams": 13, "mature": 0, "language": "English", "account_age": 3408480.0}

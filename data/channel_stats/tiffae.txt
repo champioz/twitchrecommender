@@ -1,0 +1,1 @@
+{"channel": "tiffae", "avg_viewers": 118, "followers_gained": 577, "peak_viewers": 302, "hours_streamed": 123, "streams": 18, "mature": 0, "language": "English", "account_age": 3925440.0}

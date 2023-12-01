@@ -1,0 +1,1 @@
+{"channel": "draskyl", "avg_viewers": 777, "followers_gained": 350, "peak_viewers": 1686, "hours_streamed": 207, "streams": 31, "mature": 0, "language": "English", "account_age": 4446720.0}

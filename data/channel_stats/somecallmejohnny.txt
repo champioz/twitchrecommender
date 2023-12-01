@@ -1,0 +1,1 @@
+{"channel": "somecallmejohnny", "avg_viewers": 197, "followers_gained": 171, "peak_viewers": 403, "hours_streamed": 28, "streams": 14, "mature": 0, "language": "English", "account_age": 4158720.0}

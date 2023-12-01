@@ -1,0 +1,1 @@
+{"channel": "zarlorin", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 2, "streams": 4, "mature": 0, "language": "German", "account_age": 1314720.0}

@@ -1,0 +1,1 @@
+{"channel": "ketzchan", "avg_viewers": 58, "followers_gained": 163, "peak_viewers": 122, "hours_streamed": 117, "streams": 26, "mature": 0, "language": "German", "account_age": 2623680.0}

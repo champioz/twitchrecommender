@@ -1,0 +1,1 @@
+{"channel": "359zing", "avg_viewers": 104, "followers_gained": 227, "peak_viewers": 155, "hours_streamed": 19, "streams": 4, "mature": 0, "language": "Bulgarian", "account_age": 2217600.0}

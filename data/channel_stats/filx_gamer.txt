@@ -1,0 +1,1 @@
+{"channel": "filx_gamer", "avg_viewers": 3, "followers_gained": 54, "peak_viewers": 20, "hours_streamed": 19, "streams": 20, "mature": 0, "language": "Arabic", "account_age": 223200.0}

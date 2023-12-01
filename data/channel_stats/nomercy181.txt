@@ -1,0 +1,1 @@
+{"channel": "nomercy181", "avg_viewers": 26, "followers_gained": 180, "peak_viewers": 74, "hours_streamed": 79, "streams": 10, "mature": 1, "language": "German", "account_age": 1789920.0}

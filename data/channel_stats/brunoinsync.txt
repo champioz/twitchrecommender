@@ -1,0 +1,1 @@
+{"channel": "brunoinsync", "avg_viewers": 7, "followers_gained": 99, "peak_viewers": 132, "hours_streamed": 85, "streams": 30, "mature": 1, "language": "Portuguese", "account_age": 2090880.0}

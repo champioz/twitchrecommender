@@ -1,0 +1,1 @@
+{"channel": "thewildgamervideoshd", "avg_viewers": 125, "followers_gained": 371, "peak_viewers": 328, "hours_streamed": 11, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 2144160.0}

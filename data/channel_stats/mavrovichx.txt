@@ -1,0 +1,1 @@
+{"channel": "mavrovichx", "avg_viewers": 7, "followers_gained": 71, "peak_viewers": 38, "hours_streamed": 53, "streams": 16, "mature": 0, "language": "Russian", "account_age": 943200.0}

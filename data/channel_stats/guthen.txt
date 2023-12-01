@@ -1,0 +1,1 @@
+{"channel": "guthen", "avg_viewers": 35, "followers_gained": 397, "peak_viewers": 197, "hours_streamed": 203, "streams": 51, "mature": 0, "language": "Swedish", "account_age": 3080160.0}

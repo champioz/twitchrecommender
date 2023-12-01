@@ -1,0 +1,1 @@
+{"channel": "bertthebighurt_", "avg_viewers": 10, "followers_gained": 33, "peak_viewers": 86, "hours_streamed": 276, "streams": 33, "mature": 1, "language": "English", "account_age": 2197440.0}

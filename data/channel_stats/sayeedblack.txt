@@ -1,0 +1,1 @@
+{"channel": "sayeedblack", "avg_viewers": 1351, "followers_gained": 7842, "peak_viewers": 4384, "hours_streamed": 163, "streams": 28, "mature": 1, "language": "Norwegian", "account_age": 2340000.0}

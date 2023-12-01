@@ -1,0 +1,1 @@
+{"channel": "darke_yee", "avg_viewers": 12, "followers_gained": 264, "peak_viewers": 61, "hours_streamed": 33, "streams": 20, "mature": 0, "language": "Arabic", "account_age": 686880.0}

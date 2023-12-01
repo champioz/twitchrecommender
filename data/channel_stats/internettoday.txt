@@ -1,0 +1,1 @@
+{"channel": "internettoday", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 11, "hours_streamed": 256, "streams": 5, "mature": 0, "language": "English", "account_age": 1200960.0}

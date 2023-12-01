@@ -1,0 +1,1 @@
+{"channel": "justrodriguez", "avg_viewers": 8, "followers_gained": 149, "peak_viewers": 24, "hours_streamed": 293, "streams": 25, "mature": 0, "language": "English", "account_age": 1795680.0}

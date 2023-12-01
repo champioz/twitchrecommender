@@ -1,0 +1,1 @@
+{"channel": "emma", "avg_viewers": 847, "followers_gained": 469, "peak_viewers": 2788, "hours_streamed": 60, "streams": 17, "mature": 0, "language": "English", "account_age": 3808800.0}

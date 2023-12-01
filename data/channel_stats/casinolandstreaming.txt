@@ -1,0 +1,1 @@
+{"channel": "casinolandstreaming", "avg_viewers": 57, "followers_gained": 66, "peak_viewers": 131, "hours_streamed": 53, "streams": 15, "mature": 1, "language": "English", "account_age": 1175040.0}

@@ -1,0 +1,1 @@
+{"channel": "oraxe", "avg_viewers": 113, "followers_gained": 684, "peak_viewers": 273, "hours_streamed": 146, "streams": 26, "mature": 1, "language": "French", "account_age": 3759840.0}

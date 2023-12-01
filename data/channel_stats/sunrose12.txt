@@ -1,0 +1,1 @@
+{"channel": "sunrose12", "avg_viewers": 6, "followers_gained": 16, "peak_viewers": 14, "hours_streamed": 68, "streams": 16, "mature": 0, "language": "English", "account_age": 5664960.0}

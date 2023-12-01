@@ -1,0 +1,1 @@
+{"channel": "kill3rlive", "avg_viewers": 12, "followers_gained": 10, "peak_viewers": 28, "hours_streamed": 16, "streams": 6, "mature": 1, "language": "German", "account_age": 3097440.0}

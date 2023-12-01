@@ -1,0 +1,1 @@
+{"channel": "diakonsg1", "avg_viewers": 668, "followers_gained": 4485, "peak_viewers": 1415, "hours_streamed": 37, "streams": 17, "mature": 0, "language": "Polish", "account_age": 3800160.0}

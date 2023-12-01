@@ -1,0 +1,1 @@
+{"channel": "lefede", "avg_viewers": 37, "followers_gained": 279, "peak_viewers": 68, "hours_streamed": 54, "streams": 21, "mature": 0, "language": "Spanish", "account_age": 3160800.0}

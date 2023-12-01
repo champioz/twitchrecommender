@@ -1,0 +1,1 @@
+{"channel": "sukinhabr", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 16, "streams": 5, "mature": 1, "language": "Portuguese", "account_age": 1090080.0}

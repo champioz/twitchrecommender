@@ -1,0 +1,1 @@
+{"channel": "bummacs", "avg_viewers": 308, "followers_gained": 8577, "peak_viewers": 1824, "hours_streamed": 66, "streams": 21, "mature": 0, "language": "Italian", "account_age": 1101600.0}

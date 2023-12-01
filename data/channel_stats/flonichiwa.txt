@@ -1,0 +1,1 @@
+{"channel": "flonichiwa", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 16, "hours_streamed": 7, "streams": 6, "mature": 1, "language": "German", "account_age": 1416960.0}

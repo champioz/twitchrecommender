@@ -1,0 +1,1 @@
+{"channel": "priulrich", "avg_viewers": 22, "followers_gained": 205, "peak_viewers": 67, "hours_streamed": 41, "streams": 18, "mature": 0, "language": "Portuguese", "account_age": 1298880.0}

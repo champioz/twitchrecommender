@@ -1,0 +1,1 @@
+{"channel": "ifreedomx", "avg_viewers": 11, "followers_gained": 402, "peak_viewers": 45, "hours_streamed": 157, "streams": 32, "mature": 1, "language": "English", "account_age": 1850400.0}

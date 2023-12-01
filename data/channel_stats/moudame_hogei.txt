@@ -1,0 +1,1 @@
+{"channel": "moudame_hogei", "avg_viewers": 58, "followers_gained": 44, "peak_viewers": 128, "hours_streamed": 118, "streams": 30, "mature": 0, "language": "Japanese", "account_age": 2473920.0}

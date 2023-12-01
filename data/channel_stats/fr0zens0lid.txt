@@ -1,0 +1,1 @@
+{"channel": "fr0zens0lid", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 7, "streams": 5, "mature": 1, "language": "English", "account_age": 3502080.0}

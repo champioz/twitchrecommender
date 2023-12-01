@@ -1,0 +1,1 @@
+{"channel": "bssix", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 8, "hours_streamed": 11, "streams": 3, "mature": 0, "language": "English", "account_age": 2867040.0}

@@ -1,0 +1,1 @@
+{"channel": "soufmorfi", "avg_viewers": 35, "followers_gained": 151, "peak_viewers": 78, "hours_streamed": 45, "streams": 16, "mature": 0, "language": "French", "account_age": 597600.0}

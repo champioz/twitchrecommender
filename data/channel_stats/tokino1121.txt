@@ -1,0 +1,1 @@
+{"channel": "tokino1121", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 15, "hours_streamed": 28, "streams": 15, "mature": 0, "language": "Japanese", "account_age": 743040.0}

@@ -1,0 +1,1 @@
+{"channel": "nuggison", "avg_viewers": 19, "followers_gained": 139, "peak_viewers": 51, "hours_streamed": 44, "streams": 22, "mature": 0, "language": "German", "account_age": 3445920.0}

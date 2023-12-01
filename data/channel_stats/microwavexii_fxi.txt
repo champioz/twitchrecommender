@@ -1,0 +1,1 @@
+{"channel": "microwavexii_fxi", "avg_viewers": 10, "followers_gained": 100, "peak_viewers": 57, "hours_streamed": 41, "streams": 6, "mature": 0, "language": "Thai", "account_age": 1458720.0}

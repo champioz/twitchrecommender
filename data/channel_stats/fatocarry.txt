@@ -1,0 +1,1 @@
+{"channel": "fatocarry", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 7, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "Turkish", "account_age": 185760.0}

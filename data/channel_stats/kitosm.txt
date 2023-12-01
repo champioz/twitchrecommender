@@ -1,0 +1,1 @@
+{"channel": "kitosm", "avg_viewers": 25, "followers_gained": 614, "peak_viewers": 99, "hours_streamed": 71, "streams": 26, "mature": 0, "language": "Spanish", "account_age": 2664000.0}

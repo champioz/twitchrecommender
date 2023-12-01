@@ -1,0 +1,1 @@
+{"channel": "supanar", "avg_viewers": 15, "followers_gained": 2, "peak_viewers": 39, "hours_streamed": 42, "streams": 11, "mature": 0, "language": "Japanese", "account_age": 2116800.0}

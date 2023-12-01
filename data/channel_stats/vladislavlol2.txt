@@ -1,0 +1,1 @@
+{"channel": "vladislavlol2", "avg_viewers": 72, "followers_gained": 5, "peak_viewers": 133, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "Russian", "account_age": 3314880.0}

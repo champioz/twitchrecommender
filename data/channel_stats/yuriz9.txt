@@ -1,0 +1,1 @@
+{"channel": "yuriz9", "avg_viewers": 65, "followers_gained": 80, "peak_viewers": 155, "hours_streamed": 99, "streams": 25, "mature": 0, "language": "Italian", "account_age": 3247200.0}

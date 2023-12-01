@@ -1,0 +1,1 @@
+{"channel": "crash6351", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 23, "hours_streamed": 5, "streams": 8, "mature": 0, "language": "English", "account_age": 4570560.0}

@@ -1,0 +1,1 @@
+{"channel": "solski", "avg_viewers": 12, "followers_gained": 18, "peak_viewers": 49, "hours_streamed": 75, "streams": 24, "mature": 1, "language": "English", "account_age": 4217760.0}

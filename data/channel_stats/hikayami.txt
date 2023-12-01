@@ -1,0 +1,1 @@
+{"channel": "hikayami", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 25, "hours_streamed": 112, "streams": 37, "mature": 0, "language": "English", "account_age": 5447520.0}

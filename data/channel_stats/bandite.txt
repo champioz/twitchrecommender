@@ -1,0 +1,1 @@
+{"channel": "bandite", "avg_viewers": 20, "followers_gained": 88, "peak_viewers": 47, "hours_streamed": 32, "streams": 11, "mature": 1, "language": "Other", "account_age": 2256480.0}

@@ -1,0 +1,1 @@
+{"channel": "mikhaliev", "avg_viewers": 36, "followers_gained": 100, "peak_viewers": 71, "hours_streamed": 118, "streams": 35, "mature": 0, "language": "Russian", "account_age": 521280.0}

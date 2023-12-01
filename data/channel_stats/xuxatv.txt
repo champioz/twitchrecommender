@@ -1,0 +1,1 @@
+{"channel": "xuxatv", "avg_viewers": 140, "followers_gained": 744, "peak_viewers": 354, "hours_streamed": 236, "streams": 32, "mature": 1, "language": "Portuguese", "account_age": 1288800.0}

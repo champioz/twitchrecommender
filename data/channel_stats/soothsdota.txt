@@ -1,0 +1,1 @@
+{"channel": "soothsdota", "avg_viewers": 210, "followers_gained": 1835, "peak_viewers": 856, "hours_streamed": 135, "streams": 25, "mature": 1, "language": "Portuguese", "account_age": 2443680.0}

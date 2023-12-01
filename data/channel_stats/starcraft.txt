@@ -1,0 +1,1 @@
+{"channel": "starcraft", "avg_viewers": 10962, "followers_gained": 4062, "peak_viewers": 33053, "hours_streamed": 43, "streams": 8, "mature": 0, "language": "English", "account_age": 3310560.0}

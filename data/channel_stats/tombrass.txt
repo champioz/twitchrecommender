@@ -1,0 +1,1 @@
+{"channel": "tombrass", "avg_viewers": 19, "followers_gained": 6838, "peak_viewers": 92, "hours_streamed": 104, "streams": 38, "mature": 1, "language": "German", "account_age": 2988000.0}

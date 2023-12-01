@@ -1,0 +1,1 @@
+{"channel": "lazydelmundo_", "avg_viewers": 2, "followers_gained": 13, "peak_viewers": 16, "hours_streamed": 122, "streams": 59, "mature": 1, "language": "English", "account_age": 669600.0}

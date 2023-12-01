@@ -1,0 +1,1 @@
+{"channel": "rivahlol", "avg_viewers": 34, "followers_gained": 83, "peak_viewers": 63, "hours_streamed": 28, "streams": 16, "mature": 0, "language": "English", "account_age": 1867680.0}

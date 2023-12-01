@@ -1,0 +1,1 @@
+{"channel": "weggepurged", "avg_viewers": 10, "followers_gained": 58, "peak_viewers": 53, "hours_streamed": 101, "streams": 19, "mature": 1, "language": "German", "account_age": 1015200.0}

@@ -1,0 +1,1 @@
+{"channel": "krol1k_", "avg_viewers": 9, "followers_gained": 8, "peak_viewers": 41, "hours_streamed": 25, "streams": 12, "mature": 0, "language": "Russian", "account_age": 2747520.0}

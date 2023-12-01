@@ -1,0 +1,1 @@
+{"channel": "thekingmango", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 81, "streams": 22, "mature": 1, "language": "English", "account_age": 1513440.0}

@@ -1,0 +1,1 @@
+{"channel": "swedishtavern", "avg_viewers": 4, "followers_gained": 26, "peak_viewers": 25, "hours_streamed": 49, "streams": 24, "mature": 1, "language": "Swedish", "account_age": 3935520.0}

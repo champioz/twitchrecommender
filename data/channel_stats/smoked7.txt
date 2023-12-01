@@ -1,0 +1,1 @@
+{"channel": "smoked7", "avg_viewers": 18, "followers_gained": 244, "peak_viewers": 65, "hours_streamed": 117, "streams": 40, "mature": 0, "language": "Spanish", "account_age": 1441440.0}

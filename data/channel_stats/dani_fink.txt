@@ -1,0 +1,1 @@
+{"channel": "dani_fink", "avg_viewers": 67, "followers_gained": 278, "peak_viewers": 156, "hours_streamed": 65, "streams": 19, "mature": 0, "language": "German", "account_age": 2142720.0}

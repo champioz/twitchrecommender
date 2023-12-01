@@ -1,0 +1,1 @@
+{"channel": "zitraks", "avg_viewers": 301, "followers_gained": 1973, "peak_viewers": 1301, "hours_streamed": 109, "streams": 30, "mature": 0, "language": "Russian", "account_age": 2928960.0}

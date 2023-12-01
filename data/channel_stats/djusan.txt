@@ -1,0 +1,1 @@
+{"channel": "djusan", "avg_viewers": 3, "followers_gained": 34, "peak_viewers": 11, "hours_streamed": 25, "streams": 9, "mature": 1, "language": "French", "account_age": 1931040.0}

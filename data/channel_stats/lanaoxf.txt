@@ -1,0 +1,1 @@
+{"channel": "lanaoxf", "avg_viewers": 45, "followers_gained": 2508, "peak_viewers": 251, "hours_streamed": 152, "streams": 41, "mature": 0, "language": "French", "account_age": 273600.0}

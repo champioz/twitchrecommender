@@ -1,0 +1,1 @@
+{"channel": "lardek", "avg_viewers": 3, "followers_gained": 19, "peak_viewers": 10, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "Finnish", "account_age": 3228480.0}

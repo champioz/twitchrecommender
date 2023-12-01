@@ -1,0 +1,1 @@
+{"channel": "yuyuriko", "avg_viewers": 14, "followers_gained": 26, "peak_viewers": 37, "hours_streamed": 130, "streams": 26, "mature": 1, "language": "German", "account_age": 2633760.0}

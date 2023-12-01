@@ -1,0 +1,1 @@
+{"channel": "keiozin", "avg_viewers": 262, "followers_gained": 1660, "peak_viewers": 761, "hours_streamed": 31, "streams": 7, "mature": 0, "language": "Portuguese", "account_age": 1604160.0}

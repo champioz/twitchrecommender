@@ -1,0 +1,1 @@
+{"channel": "psychoengel", "avg_viewers": 15, "followers_gained": 39, "peak_viewers": 36, "hours_streamed": 74, "streams": 20, "mature": 1, "language": "German", "account_age": 2092320.0}

@@ -1,0 +1,1 @@
+{"channel": "hakimbo", "avg_viewers": 54, "followers_gained": 481, "peak_viewers": 122, "hours_streamed": 74, "streams": 23, "mature": 0, "language": "French", "account_age": 3011040.0}

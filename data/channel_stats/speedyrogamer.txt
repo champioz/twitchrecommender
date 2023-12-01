@@ -1,0 +1,1 @@
+{"channel": "speedyrogamer", "avg_viewers": 198, "followers_gained": 634, "peak_viewers": 406, "hours_streamed": 99, "streams": 18, "mature": 1, "language": "Romanian", "account_age": 3101760.0}

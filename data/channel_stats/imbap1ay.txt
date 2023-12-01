@@ -1,0 +1,1 @@
+{"channel": "imbap1ay", "avg_viewers": 242, "followers_gained": 198, "peak_viewers": 392, "hours_streamed": 112, "streams": 27, "mature": 0, "language": "Russian", "account_age": 2341440.0}

@@ -1,0 +1,1 @@
+{"channel": "windmikkun", "avg_viewers": 3, "followers_gained": 32, "peak_viewers": 19, "hours_streamed": 39, "streams": 21, "mature": 0, "language": "Japanese", "account_age": 789120.0}

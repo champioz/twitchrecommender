@@ -1,0 +1,1 @@
+{"channel": "magnetizmmm", "avg_viewers": 10, "followers_gained": 85, "peak_viewers": 325, "hours_streamed": 114, "streams": 35, "mature": 0, "language": "Russian", "account_age": 1843200.0}

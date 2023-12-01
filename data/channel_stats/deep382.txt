@@ -1,0 +1,1 @@
+{"channel": "deep382", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 10, "hours_streamed": 149, "streams": 72, "mature": 0, "language": "Chinese", "account_age": 221760.0}

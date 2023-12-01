@@ -1,0 +1,1 @@
+{"channel": "concordex_fs", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 19, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 1304640.0}

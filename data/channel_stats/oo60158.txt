@@ -1,0 +1,1 @@
+{"channel": "oo60158", "avg_viewers": 38, "followers_gained": 22, "peak_viewers": 68, "hours_streamed": 58, "streams": 8, "mature": 0, "language": "Chinese", "account_age": 3746880.0}

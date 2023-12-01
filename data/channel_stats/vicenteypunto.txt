@@ -1,0 +1,1 @@
+{"channel": "vicenteypunto", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 1847520.0}

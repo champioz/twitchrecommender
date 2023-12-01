@@ -1,0 +1,1 @@
+{"channel": "curious_pie", "avg_viewers": 14, "followers_gained": 59, "peak_viewers": 52, "hours_streamed": 69, "streams": 30, "mature": 0, "language": "Russian", "account_age": 1277280.0}

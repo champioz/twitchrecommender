@@ -1,0 +1,1 @@
+{"channel": "rainbow6th", "avg_viewers": 106, "followers_gained": 143, "peak_viewers": 177, "hours_streamed": 15, "streams": 4, "mature": 1, "language": "Thai", "account_age": 730080.0}

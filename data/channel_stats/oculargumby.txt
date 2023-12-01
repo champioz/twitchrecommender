@@ -1,0 +1,1 @@
+{"channel": "oculargumby", "avg_viewers": 66, "followers_gained": 1715, "peak_viewers": 256, "hours_streamed": 172, "streams": 26, "mature": 0, "language": "English", "account_age": 4118400.0}

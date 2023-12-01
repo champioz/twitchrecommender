@@ -1,0 +1,1 @@
+{"channel": "marvelouzmar", "avg_viewers": 8, "followers_gained": 40, "peak_viewers": 35, "hours_streamed": 49, "streams": 19, "mature": 1, "language": "English", "account_age": 642240.0}

@@ -1,0 +1,1 @@
+{"channel": "gravitatum", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 4, "hours_streamed": 28, "streams": 8, "mature": 1, "language": "English", "account_age": 2848320.0}

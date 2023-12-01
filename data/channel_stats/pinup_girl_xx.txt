@@ -1,0 +1,1 @@
+{"channel": "pinup_girl_xx", "avg_viewers": 135, "followers_gained": 790, "peak_viewers": 355, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "Korean", "account_age": 639360.0}

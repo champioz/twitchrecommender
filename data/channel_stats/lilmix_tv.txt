@@ -1,0 +1,1 @@
+{"channel": "lilmix_tv", "avg_viewers": 179, "followers_gained": 10, "peak_viewers": 434, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "English", "account_age": 375840.0}

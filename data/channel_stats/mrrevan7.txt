@@ -1,0 +1,1 @@
+{"channel": "mrrevan7", "avg_viewers": 9, "followers_gained": 25, "peak_viewers": 22, "hours_streamed": 62, "streams": 18, "mature": 0, "language": "English", "account_age": 933120.0}

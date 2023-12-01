@@ -1,0 +1,1 @@
+{"channel": "chlny", "avg_viewers": 3, "followers_gained": 33, "peak_viewers": 30, "hours_streamed": 100, "streams": 20, "mature": 0, "language": "English", "account_age": 2077920.0}

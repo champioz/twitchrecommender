@@ -1,0 +1,1 @@
+{"channel": "kylank", "avg_viewers": 75, "followers_gained": 38, "peak_viewers": 174, "hours_streamed": 28, "streams": 13, "mature": 1, "language": "French", "account_age": 4093920.0}

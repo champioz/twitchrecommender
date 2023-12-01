@@ -1,0 +1,1 @@
+{"channel": "zeneval", "avg_viewers": 26, "followers_gained": 75, "peak_viewers": 214, "hours_streamed": 136, "streams": 26, "mature": 0, "language": "Russian", "account_age": 2291040.0}

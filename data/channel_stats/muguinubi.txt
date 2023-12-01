@@ -1,0 +1,1 @@
+{"channel": "muguinubi", "avg_viewers": 89, "followers_gained": 87, "peak_viewers": 181, "hours_streamed": 5, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 247680.0}

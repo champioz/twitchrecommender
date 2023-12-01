@@ -1,0 +1,1 @@
+{"channel": "kgtm_739", "avg_viewers": 4, "followers_gained": 7, "peak_viewers": 34, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "English", "account_age": 2728800.0}

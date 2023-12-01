@@ -1,0 +1,1 @@
+{"channel": "onlyst4r", "avg_viewers": 24, "followers_gained": 20, "peak_viewers": 60, "hours_streamed": 95, "streams": 14, "mature": 1, "language": "German", "account_age": 2900160.0}

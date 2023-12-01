@@ -1,0 +1,1 @@
+{"channel": "kikiyah", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 22, "streams": 7, "mature": 1, "language": "English", "account_age": 1609920.0}

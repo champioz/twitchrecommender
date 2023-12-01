@@ -1,0 +1,1 @@
+{"channel": "mishimized", "avg_viewers": 10, "followers_gained": 2, "peak_viewers": 28, "hours_streamed": 16, "streams": 8, "mature": 1, "language": "English", "account_age": 2612160.0}

@@ -1,0 +1,1 @@
+{"channel": "modelicco", "avg_viewers": 2, "followers_gained": 48, "peak_viewers": 11, "hours_streamed": 71, "streams": 17, "mature": 1, "language": "German", "account_age": 781920.0}

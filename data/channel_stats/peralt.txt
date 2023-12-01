@@ -1,0 +1,1 @@
+{"channel": "peralt", "avg_viewers": 7, "followers_gained": 35, "peak_viewers": 22, "hours_streamed": 69, "streams": 22, "mature": 0, "language": "English", "account_age": 518400.0}

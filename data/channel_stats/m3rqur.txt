@@ -1,0 +1,1 @@
+{"channel": "m3rqur", "avg_viewers": 53, "followers_gained": 11, "peak_viewers": 187, "hours_streamed": 30, "streams": 11, "mature": 1, "language": "Finnish", "account_age": 3984480.0}

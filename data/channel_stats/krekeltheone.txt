@@ -1,0 +1,1 @@
+{"channel": "krekeltheone", "avg_viewers": 34, "followers_gained": 50, "peak_viewers": 83, "hours_streamed": 18, "streams": 9, "mature": 1, "language": "German", "account_age": 1647360.0}

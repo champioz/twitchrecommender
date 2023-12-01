@@ -1,0 +1,1 @@
+{"channel": "normangenius", "avg_viewers": 66, "followers_gained": 62, "peak_viewers": 101, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "French", "account_age": 2160000.0}

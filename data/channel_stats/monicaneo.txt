@@ -1,0 +1,1 @@
+{"channel": "monicaneo", "avg_viewers": 14, "followers_gained": 74, "peak_viewers": 455, "hours_streamed": 49, "streams": 20, "mature": 1, "language": "English", "account_age": 1918080.0}

@@ -1,0 +1,1 @@
+{"channel": "extracredits", "avg_viewers": 49, "followers_gained": 65, "peak_viewers": 2027, "hours_streamed": 170, "streams": 52, "mature": 0, "language": "English", "account_age": 4024800.0}

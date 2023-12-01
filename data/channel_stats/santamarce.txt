@@ -1,0 +1,1 @@
+{"channel": "santamarce", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 49, "streams": 10, "mature": 0, "language": "English", "account_age": 2730240.0}

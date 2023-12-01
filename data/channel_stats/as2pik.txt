@@ -1,0 +1,1 @@
+{"channel": "as2pik", "avg_viewers": 279, "followers_gained": 1845, "peak_viewers": 753, "hours_streamed": 172, "streams": 24, "mature": 0, "language": "French", "account_age": 2374560.0}

@@ -1,0 +1,1 @@
+{"channel": "annaverse", "avg_viewers": 35, "followers_gained": 279, "peak_viewers": 125, "hours_streamed": 75, "streams": 19, "mature": 0, "language": "English", "account_age": 797760.0}

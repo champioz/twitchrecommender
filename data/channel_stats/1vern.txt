@@ -1,0 +1,1 @@
+{"channel": "1vern", "avg_viewers": 5, "followers_gained": 83, "peak_viewers": 19, "hours_streamed": 62, "streams": 20, "mature": 0, "language": "Portuguese", "account_age": 1653120.0}

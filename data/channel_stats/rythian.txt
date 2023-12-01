@@ -1,0 +1,1 @@
+{"channel": "rythian", "avg_viewers": 43, "followers_gained": 508, "peak_viewers": 495, "hours_streamed": 77, "streams": 18, "mature": 0, "language": "English", "account_age": 4337280.0}

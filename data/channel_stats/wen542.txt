@@ -1,0 +1,1 @@
+{"channel": "wen542", "avg_viewers": 7, "followers_gained": 0, "peak_viewers": 10, "hours_streamed": 6, "streams": 1, "mature": 0, "language": "Chinese", "account_age": 1055520.0}

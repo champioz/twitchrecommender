@@ -1,0 +1,1 @@
+{"channel": "krinios", "avg_viewers": 99, "followers_gained": 2338, "peak_viewers": 1553, "hours_streamed": 38, "streams": 17, "mature": 1, "language": "English", "account_age": 1769760.0}

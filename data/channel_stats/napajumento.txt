@@ -1,0 +1,1 @@
+{"channel": "napajumento", "avg_viewers": 5, "followers_gained": 17, "peak_viewers": 14, "hours_streamed": 69, "streams": 16, "mature": 0, "language": "Portuguese", "account_age": 1766880.0}

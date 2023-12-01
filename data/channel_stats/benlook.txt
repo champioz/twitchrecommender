@@ -1,0 +1,1 @@
+{"channel": "benlook", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 154, "streams": 31, "mature": 0, "language": "Chinese", "account_age": 1781280.0}

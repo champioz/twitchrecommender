@@ -1,0 +1,1 @@
+{"channel": "girlreckless", "avg_viewers": 5, "followers_gained": 87, "peak_viewers": 25, "hours_streamed": 106, "streams": 37, "mature": 1, "language": "Spanish", "account_age": 152640.0}

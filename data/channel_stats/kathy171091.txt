@@ -1,0 +1,1 @@
+{"channel": "kathy171091", "avg_viewers": 44, "followers_gained": 71, "peak_viewers": 120, "hours_streamed": 50, "streams": 15, "mature": 0, "language": "German", "account_age": 2704320.0}

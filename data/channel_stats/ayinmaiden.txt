@@ -1,0 +1,1 @@
+{"channel": "ayinmaiden", "avg_viewers": 46, "followers_gained": 189, "peak_viewers": 105, "hours_streamed": 98, "streams": 18, "mature": 0, "language": "English", "account_age": 4092480.0}

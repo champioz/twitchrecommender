@@ -1,0 +1,1 @@
+{"channel": "crack", "avg_viewers": 57, "followers_gained": 711, "peak_viewers": 293, "hours_streamed": 197, "streams": 29, "mature": 0, "language": "Spanish", "account_age": 1470240.0}

@@ -1,0 +1,1 @@
+{"channel": "ariablarg", "avg_viewers": 59, "followers_gained": 25, "peak_viewers": 105, "hours_streamed": 37, "streams": 10, "mature": 1, "language": "English", "account_age": 5827680.0}

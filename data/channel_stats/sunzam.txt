@@ -1,0 +1,1 @@
+{"channel": "sunzam", "avg_viewers": 30, "followers_gained": 75, "peak_viewers": 118, "hours_streamed": 75, "streams": 13, "mature": 0, "language": "Korean", "account_age": 780480.0}

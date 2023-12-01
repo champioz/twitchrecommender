@@ -1,0 +1,1 @@
+{"channel": "nathangtq", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 32, "hours_streamed": 52, "streams": 18, "mature": 0, "language": "Russian", "account_age": 3229920.0}

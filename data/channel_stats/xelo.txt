@@ -1,0 +1,1 @@
+{"channel": "xelo", "avg_viewers": 7, "followers_gained": 9, "peak_viewers": 28, "hours_streamed": 118, "streams": 38, "mature": 1, "language": "English", "account_age": 2476800.0}

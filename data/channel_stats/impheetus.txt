@@ -1,0 +1,1 @@
+{"channel": "impheetus", "avg_viewers": 95, "followers_gained": 860, "peak_viewers": 928, "hours_streamed": 173, "streams": 25, "mature": 1, "language": "English", "account_age": 1468800.0}

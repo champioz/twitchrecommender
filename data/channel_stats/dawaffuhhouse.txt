@@ -1,0 +1,1 @@
+{"channel": "dawaffuhhouse", "avg_viewers": 6, "followers_gained": 11, "peak_viewers": 15, "hours_streamed": 18, "streams": 5, "mature": 1, "language": "English", "account_age": 1585440.0}

@@ -1,0 +1,1 @@
+{"channel": "lokkarr0b", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 12, "hours_streamed": 72, "streams": 34, "mature": 1, "language": "Spanish", "account_age": 3371040.0}

@@ -1,0 +1,1 @@
+{"channel": "mrdufygy", "avg_viewers": 3, "followers_gained": 44, "peak_viewers": 42, "hours_streamed": 222, "streams": 39, "mature": 0, "language": "Spanish", "account_age": 3261600.0}

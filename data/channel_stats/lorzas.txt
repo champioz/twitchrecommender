@@ -1,0 +1,1 @@
+{"channel": "lorzas", "avg_viewers": 33, "followers_gained": 402, "peak_viewers": 72, "hours_streamed": 153, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 2880000.0}

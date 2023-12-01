@@ -1,0 +1,1 @@
+{"channel": "sunshinesjourney", "avg_viewers": 12, "followers_gained": 128, "peak_viewers": 44, "hours_streamed": 51, "streams": 14, "mature": 1, "language": "English", "account_age": 1805760.0}

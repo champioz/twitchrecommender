@@ -1,0 +1,1 @@
+{"channel": "cryaotic", "avg_viewers": 1839, "followers_gained": 1053, "peak_viewers": 3664, "hours_streamed": 95, "streams": 25, "mature": 1, "language": "English", "account_age": 5224320.0}

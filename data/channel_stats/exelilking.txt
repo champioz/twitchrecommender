@@ -1,0 +1,1 @@
+{"channel": "exelilking", "avg_viewers": 4, "followers_gained": 32, "peak_viewers": 24, "hours_streamed": 31, "streams": 7, "mature": 1, "language": "Spanish", "account_age": 4508640.0}

@@ -1,0 +1,1 @@
+{"channel": "k1lling_god", "avg_viewers": 25, "followers_gained": 68, "peak_viewers": 82, "hours_streamed": 118, "streams": 44, "mature": 1, "language": "Russian", "account_age": 784800.0}

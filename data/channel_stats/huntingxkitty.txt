@@ -1,0 +1,1 @@
+{"channel": "huntingxkitty", "avg_viewers": 12, "followers_gained": 20, "peak_viewers": 26, "hours_streamed": 91, "streams": 17, "mature": 1, "language": "English", "account_age": 1126080.0}

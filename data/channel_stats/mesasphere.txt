@@ -1,0 +1,1 @@
+{"channel": "mesasphere", "avg_viewers": 12, "followers_gained": 29, "peak_viewers": 27, "hours_streamed": 62, "streams": 17, "mature": 1, "language": "English", "account_age": 3676320.0}

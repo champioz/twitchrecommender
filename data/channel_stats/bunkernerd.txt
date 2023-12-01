@@ -1,0 +1,1 @@
+{"channel": "bunkernerd", "avg_viewers": 179, "followers_gained": 546, "peak_viewers": 1232, "hours_streamed": 50, "streams": 10, "mature": 0, "language": "Portuguese", "account_age": 2661120.0}

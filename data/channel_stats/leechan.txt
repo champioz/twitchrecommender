@@ -1,0 +1,1 @@
+{"channel": "leechan", "avg_viewers": 5, "followers_gained": 40, "peak_viewers": 16, "hours_streamed": 185, "streams": 22, "mature": 0, "language": "Korean", "account_age": 1049760.0}

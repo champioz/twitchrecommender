@@ -1,0 +1,1 @@
+{"channel": "drewtakeflight", "avg_viewers": 177, "followers_gained": 1539, "peak_viewers": 545, "hours_streamed": 72, "streams": 27, "mature": 0, "language": "English", "account_age": 1019520.0}

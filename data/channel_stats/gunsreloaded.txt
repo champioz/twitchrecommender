@@ -1,0 +1,1 @@
+{"channel": "gunsreloaded", "avg_viewers": 24, "followers_gained": 115, "peak_viewers": 87, "hours_streamed": 59, "streams": 28, "mature": 0, "language": "English", "account_age": 4168800.0}

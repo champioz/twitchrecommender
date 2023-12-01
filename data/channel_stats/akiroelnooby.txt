@@ -1,0 +1,1 @@
+{"channel": "akiroelnooby", "avg_viewers": 4, "followers_gained": 93, "peak_viewers": 17, "hours_streamed": 121, "streams": 25, "mature": 0, "language": "French", "account_age": 3185280.0}

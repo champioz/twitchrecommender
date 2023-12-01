@@ -1,0 +1,1 @@
+{"channel": "realtep", "avg_viewers": 2, "followers_gained": 27, "peak_viewers": 10, "hours_streamed": 89, "streams": 23, "mature": 0, "language": "Portuguese", "account_age": 1185120.0}

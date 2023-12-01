@@ -1,0 +1,1 @@
+{"channel": "jocapk", "avg_viewers": 115, "followers_gained": 327, "peak_viewers": 410, "hours_streamed": 171, "streams": 25, "mature": 1, "language": "Portuguese", "account_age": 2211840.0}

@@ -1,0 +1,1 @@
+{"channel": "asbrusto", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 3, "streams": 3, "mature": 1, "language": "Portuguese", "account_age": 495360.0}

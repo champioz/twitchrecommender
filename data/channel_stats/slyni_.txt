@@ -1,0 +1,1 @@
+{"channel": "slyni_", "avg_viewers": 2, "followers_gained": 41, "peak_viewers": 11, "hours_streamed": 29, "streams": 11, "mature": 0, "language": "French", "account_age": 263520.0}

@@ -1,0 +1,1 @@
+{"channel": "xcommanbro", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 12, "hours_streamed": 82, "streams": 17, "mature": 1, "language": "German", "account_age": 2085120.0}

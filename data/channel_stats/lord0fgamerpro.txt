@@ -1,0 +1,1 @@
+{"channel": "lord0fgamerpro", "avg_viewers": 7, "followers_gained": 153, "peak_viewers": 24, "hours_streamed": 145, "streams": 29, "mature": 0, "language": "Portuguese", "account_age": 478080.0}

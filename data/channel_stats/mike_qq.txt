@@ -1,0 +1,1 @@
+{"channel": "mike_qq", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 7, "hours_streamed": 16, "streams": 15, "mature": 0, "language": "English", "account_age": 2583360.0}

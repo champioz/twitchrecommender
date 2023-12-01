@@ -1,0 +1,1 @@
+{"channel": "gexahord", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 9, "hours_streamed": 51, "streams": 18, "mature": 1, "language": "Russian", "account_age": 2557440.0}

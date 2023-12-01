@@ -1,0 +1,1 @@
+{"channel": "socialsystem", "avg_viewers": 46, "followers_gained": 1, "peak_viewers": 62, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 2855520.0}

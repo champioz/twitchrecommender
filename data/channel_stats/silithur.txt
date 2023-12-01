@@ -1,0 +1,1 @@
+{"channel": "silithur", "avg_viewers": 154, "followers_gained": 1250, "peak_viewers": 1044, "hours_streamed": 80, "streams": 24, "mature": 0, "language": "Spanish", "account_age": 3755520.0}

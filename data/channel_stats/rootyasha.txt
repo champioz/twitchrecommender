@@ -1,0 +1,1 @@
+{"channel": "rootyasha", "avg_viewers": 135, "followers_gained": 764, "peak_viewers": 377, "hours_streamed": 90, "streams": 18, "mature": 0, "language": "Russian", "account_age": 3153600.0}

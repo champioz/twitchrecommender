@@ -1,0 +1,1 @@
+{"channel": "nottaee", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 16, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "English", "account_age": 646560.0}

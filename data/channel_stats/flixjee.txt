@@ -1,0 +1,1 @@
+{"channel": "flixjee", "avg_viewers": 44, "followers_gained": 14, "peak_viewers": 134, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "Norwegian", "account_age": 686880.0}

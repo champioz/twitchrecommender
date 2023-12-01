@@ -1,0 +1,1 @@
+{"channel": "crazeg4", "avg_viewers": 119, "followers_gained": 405, "peak_viewers": 232, "hours_streamed": 91, "streams": 16, "mature": 1, "language": "English", "account_age": 996480.0}

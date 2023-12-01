@@ -1,0 +1,1 @@
+{"channel": "heroesoffitness", "avg_viewers": 66, "followers_gained": 69, "peak_viewers": 126, "hours_streamed": 90, "streams": 20, "mature": 0, "language": "English", "account_age": 2196000.0}

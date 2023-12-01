@@ -1,0 +1,1 @@
+{"channel": "brookeab", "avg_viewers": 7242, "followers_gained": 86260, "peak_viewers": 23956, "hours_streamed": 80, "streams": 16, "mature": 0, "language": "English", "account_age": 681120.0}

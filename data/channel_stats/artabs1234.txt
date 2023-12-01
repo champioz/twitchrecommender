@@ -1,0 +1,1 @@
+{"channel": "artabs1234", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 117, "streams": 60, "mature": 1, "language": "Chinese", "account_age": 3175200.0}

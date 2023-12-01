@@ -1,0 +1,1 @@
+{"channel": "boyolo_", "avg_viewers": 7, "followers_gained": 63, "peak_viewers": 68, "hours_streamed": 157, "streams": 27, "mature": 1, "language": "Hungarian", "account_age": 3929760.0}

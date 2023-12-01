@@ -1,0 +1,1 @@
+{"channel": "chrisso_197", "avg_viewers": 6, "followers_gained": 19, "peak_viewers": 86, "hours_streamed": 87, "streams": 32, "mature": 1, "language": "German", "account_age": 3539520.0}

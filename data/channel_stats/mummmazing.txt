@@ -1,0 +1,1 @@
+{"channel": "mummmazing", "avg_viewers": 31, "followers_gained": 97, "peak_viewers": 273, "hours_streamed": 50, "streams": 11, "mature": 1, "language": "German", "account_age": 783360.0}

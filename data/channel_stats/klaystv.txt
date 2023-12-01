@@ -1,0 +1,1 @@
+{"channel": "klaystv", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "French", "account_age": 1245600.0}

@@ -1,0 +1,1 @@
+{"channel": "maxk3y", "avg_viewers": 4, "followers_gained": 75, "peak_viewers": 123, "hours_streamed": 168, "streams": 42, "mature": 1, "language": "Russian", "account_age": 2076480.0}

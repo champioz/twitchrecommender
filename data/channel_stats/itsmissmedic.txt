@@ -1,0 +1,1 @@
+{"channel": "itsmissmedic", "avg_viewers": 61, "followers_gained": 1595, "peak_viewers": 120, "hours_streamed": 134, "streams": 26, "mature": 0, "language": "English", "account_age": 884160.0}

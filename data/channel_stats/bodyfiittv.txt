@@ -1,0 +1,1 @@
+{"channel": "bodyfiittv", "avg_viewers": 18, "followers_gained": 36, "peak_viewers": 164, "hours_streamed": 73, "streams": 17, "mature": 1, "language": "French", "account_age": 1285920.0}

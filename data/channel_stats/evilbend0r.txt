@@ -1,0 +1,1 @@
+{"channel": "evilbend0r", "avg_viewers": 7, "followers_gained": 135, "peak_viewers": 99, "hours_streamed": 147, "streams": 24, "mature": 1, "language": "German", "account_age": 2476800.0}

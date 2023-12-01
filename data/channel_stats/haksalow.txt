@@ -1,0 +1,1 @@
+{"channel": "haksalow", "avg_viewers": 664, "followers_gained": 2256, "peak_viewers": 1281, "hours_streamed": 39, "streams": 14, "mature": 0, "language": "Korean", "account_age": 1454400.0}

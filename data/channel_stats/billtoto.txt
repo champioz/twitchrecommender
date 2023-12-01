@@ -1,0 +1,1 @@
+{"channel": "billtoto", "avg_viewers": 12, "followers_gained": 23, "peak_viewers": 107, "hours_streamed": 53, "streams": 12, "mature": 1, "language": "Chinese", "account_age": 3875040.0}

@@ -1,0 +1,1 @@
+{"channel": "mertoriel", "avg_viewers": 11, "followers_gained": 2, "peak_viewers": 19, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "English", "account_age": 3029760.0}

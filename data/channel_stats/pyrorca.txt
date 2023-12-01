@@ -1,0 +1,1 @@
+{"channel": "pyrorca", "avg_viewers": 98, "followers_gained": 223, "peak_viewers": 181, "hours_streamed": 26, "streams": 10, "mature": 1, "language": "French", "account_age": 3060000.0}

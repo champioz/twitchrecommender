@@ -1,0 +1,1 @@
+{"channel": "johlee", "avg_viewers": 11, "followers_gained": 20, "peak_viewers": 43, "hours_streamed": 47, "streams": 13, "mature": 1, "language": "Portuguese", "account_age": 2064960.0}

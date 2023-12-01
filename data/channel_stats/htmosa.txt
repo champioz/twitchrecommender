@@ -1,0 +1,1 @@
+{"channel": "htmosa", "avg_viewers": 29, "followers_gained": 149, "peak_viewers": 103, "hours_streamed": 108, "streams": 21, "mature": 0, "language": "French", "account_age": 3180960.0}

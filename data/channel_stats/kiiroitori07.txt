@@ -1,0 +1,1 @@
+{"channel": "kiiroitori07", "avg_viewers": 18, "followers_gained": 2, "peak_viewers": 39, "hours_streamed": 7, "streams": 2, "mature": 1, "language": "Japanese", "account_age": 3444480.0}

@@ -1,0 +1,1 @@
+{"channel": "blackzero211", "avg_viewers": 10, "followers_gained": 147, "peak_viewers": 34, "hours_streamed": 80, "streams": 24, "mature": 1, "language": "German", "account_age": 1879200.0}

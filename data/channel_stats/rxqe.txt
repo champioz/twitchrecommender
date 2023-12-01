@@ -1,0 +1,1 @@
+{"channel": "rxqe", "avg_viewers": 54, "followers_gained": 237, "peak_viewers": 139, "hours_streamed": 61, "streams": 16, "mature": 0, "language": "English", "account_age": 2727360.0}

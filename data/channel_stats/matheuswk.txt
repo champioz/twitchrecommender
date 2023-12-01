@@ -1,0 +1,1 @@
+{"channel": "matheuswk", "avg_viewers": 10, "followers_gained": 45, "peak_viewers": 33, "hours_streamed": 28, "streams": 11, "mature": 1, "language": "Portuguese", "account_age": 1997280.0}

@@ -1,0 +1,1 @@
+{"channel": "niinjakatze", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 40, "streams": 8, "mature": 1, "language": "German", "account_age": 2064960.0}

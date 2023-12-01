@@ -1,0 +1,1 @@
+{"channel": "choppermeir", "avg_viewers": 14, "followers_gained": 15, "peak_viewers": 25, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "English", "account_age": 2551680.0}

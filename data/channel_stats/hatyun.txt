@@ -1,0 +1,1 @@
+{"channel": "hatyun", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 20, "streams": 15, "mature": 0, "language": "Japanese", "account_age": 1104480.0}

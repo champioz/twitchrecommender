@@ -1,0 +1,1 @@
+{"channel": "era1s", "avg_viewers": 52, "followers_gained": 1260, "peak_viewers": 226, "hours_streamed": 119, "streams": 27, "mature": 1, "language": "Arabic", "account_age": 2278080.0}

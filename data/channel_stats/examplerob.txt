@@ -1,0 +1,1 @@
+{"channel": "examplerob", "avg_viewers": 3, "followers_gained": 17, "peak_viewers": 10, "hours_streamed": 44, "streams": 12, "mature": 1, "language": "German", "account_age": 3261600.0}

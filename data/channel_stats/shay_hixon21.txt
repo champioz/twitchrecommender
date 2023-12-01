@@ -1,0 +1,1 @@
+{"channel": "shay_hixon21", "avg_viewers": 5, "followers_gained": 4, "peak_viewers": 17, "hours_streamed": 17, "streams": 6, "mature": 1, "language": "English", "account_age": 825120.0}

@@ -1,0 +1,1 @@
+{"channel": "cringer", "avg_viewers": 277, "followers_gained": 379, "peak_viewers": 1386, "hours_streamed": 224, "streams": 32, "mature": 0, "language": "English", "account_age": 2573280.0}

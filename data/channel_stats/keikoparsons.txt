@@ -1,0 +1,1 @@
+{"channel": "keikoparsons", "avg_viewers": 18, "followers_gained": 30, "peak_viewers": 42, "hours_streamed": 39, "streams": 11, "mature": 0, "language": "English", "account_age": 2404800.0}

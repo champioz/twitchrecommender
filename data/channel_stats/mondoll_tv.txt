@@ -1,0 +1,1 @@
+{"channel": "mondoll_tv", "avg_viewers": 6, "followers_gained": 34, "peak_viewers": 28, "hours_streamed": 28, "streams": 4, "mature": 0, "language": "Korean", "account_age": 1644480.0}

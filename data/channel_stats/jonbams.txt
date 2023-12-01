@@ -1,0 +1,1 @@
+{"channel": "jonbams", "avg_viewers": 1420, "followers_gained": 14144, "peak_viewers": 2441, "hours_streamed": 180, "streams": 31, "mature": 1, "language": "English", "account_age": 3921120.0}

@@ -1,0 +1,1 @@
+{"channel": "wise_dad", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 6, "hours_streamed": 16, "streams": 7, "mature": 1, "language": "French", "account_age": 1307520.0}

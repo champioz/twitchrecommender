@@ -1,0 +1,1 @@
+{"channel": "swaycred", "avg_viewers": 44, "followers_gained": 56, "peak_viewers": 157, "hours_streamed": 87, "streams": 20, "mature": 1, "language": "English", "account_age": 580320.0}

@@ -1,0 +1,1 @@
+{"channel": "sema_", "avg_viewers": 70, "followers_gained": 291, "peak_viewers": 201, "hours_streamed": 231, "streams": 34, "mature": 1, "language": "German", "account_age": 1104480.0}

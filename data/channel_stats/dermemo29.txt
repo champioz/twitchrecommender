@@ -1,0 +1,1 @@
+{"channel": "dermemo29", "avg_viewers": 9, "followers_gained": 25, "peak_viewers": 32, "hours_streamed": 44, "streams": 15, "mature": 1, "language": "German", "account_age": 2154240.0}

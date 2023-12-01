@@ -1,0 +1,1 @@
+{"channel": "jazzzy", "avg_viewers": 39, "followers_gained": 76, "peak_viewers": 113, "hours_streamed": 41, "streams": 13, "mature": 1, "language": "English", "account_age": 2691360.0}

@@ -1,0 +1,1 @@
+{"channel": "anamaria777", "avg_viewers": 6, "followers_gained": 74, "peak_viewers": 18, "hours_streamed": 79, "streams": 21, "mature": 1, "language": "Romanian", "account_age": 2413440.0}

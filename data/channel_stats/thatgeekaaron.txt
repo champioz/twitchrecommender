@@ -1,0 +1,1 @@
+{"channel": "thatgeekaaron", "avg_viewers": 32, "followers_gained": 646, "peak_viewers": 47, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "English", "account_age": 1828800.0}

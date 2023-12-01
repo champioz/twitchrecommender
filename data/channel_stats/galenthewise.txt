@@ -1,0 +1,1 @@
+{"channel": "galenthewise", "avg_viewers": 1, "followers_gained": 27, "peak_viewers": 10, "hours_streamed": 49, "streams": 17, "mature": 1, "language": "English", "account_age": 3908160.0}

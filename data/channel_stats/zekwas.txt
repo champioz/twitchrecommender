@@ -1,0 +1,1 @@
+{"channel": "zekwas", "avg_viewers": 66, "followers_gained": 161, "peak_viewers": 139, "hours_streamed": 94, "streams": 17, "mature": 1, "language": "English", "account_age": 1059840.0}

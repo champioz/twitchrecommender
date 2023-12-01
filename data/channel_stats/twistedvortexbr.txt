@@ -1,0 +1,1 @@
+{"channel": "twistedvortexbr", "avg_viewers": 10, "followers_gained": 17, "peak_viewers": 47, "hours_streamed": 52, "streams": 23, "mature": 1, "language": "Portuguese", "account_age": 2351520.0}

@@ -1,0 +1,1 @@
+{"channel": "aystv_", "avg_viewers": 23, "followers_gained": 197, "peak_viewers": 82, "hours_streamed": 111, "streams": 23, "mature": 0, "language": "English", "account_age": 1596960.0}

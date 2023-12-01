@@ -1,0 +1,1 @@
+{"channel": "kevln", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 14, "streams": 8, "mature": 1, "language": "English", "account_age": 1520640.0}

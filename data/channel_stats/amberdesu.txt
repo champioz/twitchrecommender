@@ -1,0 +1,1 @@
+{"channel": "amberdesu", "avg_viewers": 55, "followers_gained": 678, "peak_viewers": 225, "hours_streamed": 92, "streams": 19, "mature": 1, "language": "English", "account_age": 2407680.0}

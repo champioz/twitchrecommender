@@ -1,0 +1,1 @@
+{"channel": "4gusz", "avg_viewers": 11, "followers_gained": 174, "peak_viewers": 35, "hours_streamed": 103, "streams": 28, "mature": 0, "language": "Spanish", "account_age": 2996640.0}

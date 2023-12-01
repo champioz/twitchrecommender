@@ -1,0 +1,1 @@
+{"channel": "fantasygrounds", "avg_viewers": 23, "followers_gained": 11, "peak_viewers": 38, "hours_streamed": 3, "streams": 3, "mature": 0, "language": "English", "account_age": 1609920.0}

@@ -1,0 +1,1 @@
+{"channel": "fraze", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 8, "hours_streamed": 111, "streams": 21, "mature": 1, "language": "English", "account_age": 3323520.0}

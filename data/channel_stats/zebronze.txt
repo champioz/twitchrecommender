@@ -1,0 +1,1 @@
+{"channel": "zebronze", "avg_viewers": 7, "followers_gained": 96, "peak_viewers": 46, "hours_streamed": 129, "streams": 23, "mature": 1, "language": "Portuguese", "account_age": 2501280.0}

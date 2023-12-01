@@ -1,0 +1,1 @@
+{"channel": "str_andre", "avg_viewers": 64, "followers_gained": 68, "peak_viewers": 105, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Italian", "account_age": 642240.0}

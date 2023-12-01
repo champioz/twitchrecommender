@@ -1,0 +1,1 @@
+{"channel": "call_me_kyri", "avg_viewers": 3, "followers_gained": 11, "peak_viewers": 22, "hours_streamed": 30, "streams": 14, "mature": 0, "language": "French", "account_age": 1074240.0}

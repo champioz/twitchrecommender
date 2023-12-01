@@ -1,0 +1,1 @@
+{"channel": "spelerrr", "avg_viewers": 4, "followers_gained": 33, "peak_viewers": 31, "hours_streamed": 212, "streams": 71, "mature": 1, "language": "Russian", "account_age": 2338560.0}

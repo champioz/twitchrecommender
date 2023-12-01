@@ -1,0 +1,1 @@
+{"channel": "furiousrexus", "avg_viewers": 7, "followers_gained": 55, "peak_viewers": 58, "hours_streamed": 131, "streams": 29, "mature": 0, "language": "English", "account_age": 1316160.0}

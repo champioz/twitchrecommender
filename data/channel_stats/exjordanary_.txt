@@ -1,0 +1,1 @@
+{"channel": "exjordanary_", "avg_viewers": 15, "followers_gained": 92, "peak_viewers": 42, "hours_streamed": 112, "streams": 24, "mature": 1, "language": "English", "account_age": 1651680.0}

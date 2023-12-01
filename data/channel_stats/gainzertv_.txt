@@ -1,0 +1,1 @@
+{"channel": "gainzertv_", "avg_viewers": 30, "followers_gained": 91, "peak_viewers": 147, "hours_streamed": 129, "streams": 23, "mature": 1, "language": "German", "account_age": 1887840.0}

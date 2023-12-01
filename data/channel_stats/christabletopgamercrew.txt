@@ -1,0 +1,1 @@
+{"channel": "christabletopgamercrew", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 17, "hours_streamed": 65, "streams": 29, "mature": 1, "language": "English", "account_age": 1601280.0}

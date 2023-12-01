@@ -1,0 +1,1 @@
+{"channel": "meg_link", "avg_viewers": 8, "followers_gained": 11, "peak_viewers": 24, "hours_streamed": 53, "streams": 18, "mature": 0, "language": "English", "account_age": 2154240.0}

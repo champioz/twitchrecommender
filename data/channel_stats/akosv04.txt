@@ -1,0 +1,1 @@
+{"channel": "akosv04", "avg_viewers": 5, "followers_gained": 25, "peak_viewers": 18, "hours_streamed": 78, "streams": 29, "mature": 1, "language": "Hungarian", "account_age": 1588320.0}

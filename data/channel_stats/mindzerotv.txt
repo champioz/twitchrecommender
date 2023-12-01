@@ -1,0 +1,1 @@
+{"channel": "mindzerotv", "avg_viewers": 4, "followers_gained": 46, "peak_viewers": 20, "hours_streamed": 65, "streams": 19, "mature": 0, "language": "English", "account_age": 5394240.0}

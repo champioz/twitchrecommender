@@ -1,0 +1,1 @@
+{"channel": "lakys", "avg_viewers": 32, "followers_gained": 77, "peak_viewers": 88, "hours_streamed": 38, "streams": 13, "mature": 1, "language": "Czech", "account_age": 1422720.0}

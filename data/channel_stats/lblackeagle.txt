@@ -1,0 +1,1 @@
+{"channel": "lblackeagle", "avg_viewers": 60, "followers_gained": 194, "peak_viewers": 234, "hours_streamed": 159, "streams": 55, "mature": 1, "language": "Russian", "account_age": 2550240.0}

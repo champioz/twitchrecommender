@@ -1,0 +1,1 @@
+{"channel": "vnszin", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 2, "streams": 5, "mature": 0, "language": "Portuguese", "account_age": 558720.0}

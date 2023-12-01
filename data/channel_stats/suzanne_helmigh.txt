@@ -1,0 +1,1 @@
+{"channel": "suzanne_helmigh", "avg_viewers": 37, "followers_gained": 96, "peak_viewers": 92, "hours_streamed": 30, "streams": 10, "mature": 0, "language": "English", "account_age": 3091680.0}

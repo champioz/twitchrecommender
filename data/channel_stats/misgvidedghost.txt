@@ -1,0 +1,1 @@
+{"channel": "misgvidedghost", "avg_viewers": 7, "followers_gained": 32, "peak_viewers": 20, "hours_streamed": 42, "streams": 13, "mature": 1, "language": "English", "account_age": 1360800.0}

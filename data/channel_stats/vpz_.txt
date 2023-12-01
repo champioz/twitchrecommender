@@ -1,0 +1,1 @@
+{"channel": "vpz_", "avg_viewers": 7, "followers_gained": 21, "peak_viewers": 22, "hours_streamed": 53, "streams": 11, "mature": 0, "language": "Thai", "account_age": 1121760.0}

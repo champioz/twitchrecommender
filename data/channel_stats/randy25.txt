@@ -1,0 +1,1 @@
+{"channel": "randy25", "avg_viewers": 1, "followers_gained": 19, "peak_viewers": 10, "hours_streamed": 73, "streams": 24, "mature": 1, "language": "Spanish", "account_age": 3293280.0}

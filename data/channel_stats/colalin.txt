@@ -1,0 +1,1 @@
+{"channel": "colalin", "avg_viewers": 67, "followers_gained": 180, "peak_viewers": 547, "hours_streamed": 40, "streams": 18, "mature": 0, "language": "Chinese", "account_age": 4347360.0}

@@ -1,0 +1,1 @@
+{"channel": "misakibyakko", "avg_viewers": 16, "followers_gained": 31, "peak_viewers": 30, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "Spanish", "account_age": 2655360.0}

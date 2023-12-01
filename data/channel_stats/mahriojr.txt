@@ -1,0 +1,1 @@
+{"channel": "mahriojr", "avg_viewers": 96, "followers_gained": 277, "peak_viewers": 317, "hours_streamed": 150, "streams": 25, "mature": 0, "language": "Portuguese", "account_age": 3404160.0}

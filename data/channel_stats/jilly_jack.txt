@@ -1,0 +1,1 @@
+{"channel": "jilly_jack", "avg_viewers": 18, "followers_gained": 501, "peak_viewers": 90, "hours_streamed": 244, "streams": 30, "mature": 0, "language": "English", "account_age": 1212480.0}

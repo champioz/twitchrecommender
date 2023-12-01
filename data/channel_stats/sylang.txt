@@ -1,0 +1,1 @@
+{"channel": "sylang", "avg_viewers": 66, "followers_gained": 576, "peak_viewers": 242, "hours_streamed": 143, "streams": 27, "mature": 0, "language": "French", "account_age": 2818080.0}

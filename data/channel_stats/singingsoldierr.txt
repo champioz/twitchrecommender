@@ -1,0 +1,1 @@
+{"channel": "singingsoldierr", "avg_viewers": 15, "followers_gained": 172, "peak_viewers": 39, "hours_streamed": 32, "streams": 13, "mature": 0, "language": "English", "account_age": 309600.0}

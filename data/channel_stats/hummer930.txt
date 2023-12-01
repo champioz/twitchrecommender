@@ -1,0 +1,1 @@
+{"channel": "hummer930", "avg_viewers": 96, "followers_gained": 191, "peak_viewers": 269, "hours_streamed": 107, "streams": 32, "mature": 0, "language": "Chinese", "account_age": 3674880.0}

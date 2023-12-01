@@ -1,0 +1,1 @@
+{"channel": "ladylugaone", "avg_viewers": 32, "followers_gained": 78, "peak_viewers": 85, "hours_streamed": 140, "streams": 24, "mature": 1, "language": "German", "account_age": 626400.0}

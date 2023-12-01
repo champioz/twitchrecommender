@@ -1,0 +1,1 @@
+{"channel": "turtonlive", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 9, "hours_streamed": 13, "streams": 14, "mature": 0, "language": "English", "account_age": 2072160.0}

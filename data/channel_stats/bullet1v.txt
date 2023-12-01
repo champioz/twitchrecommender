@@ -1,0 +1,1 @@
+{"channel": "bullet1v", "avg_viewers": 8, "followers_gained": 37, "peak_viewers": 24, "hours_streamed": 25, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 1596960.0}

@@ -1,0 +1,1 @@
+{"channel": "the_scoundrel_m", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 43, "streams": 20, "mature": 1, "language": "English", "account_age": 3152160.0}

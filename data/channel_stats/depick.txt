@@ -1,0 +1,1 @@
+{"channel": "depick", "avg_viewers": 5, "followers_gained": 35, "peak_viewers": 13, "hours_streamed": 61, "streams": 19, "mature": 0, "language": "English", "account_age": 2412000.0}

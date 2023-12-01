@@ -1,0 +1,1 @@
+{"channel": "naughtycrumbbum", "avg_viewers": 15, "followers_gained": 40, "peak_viewers": 84, "hours_streamed": 111, "streams": 19, "mature": 1, "language": "English", "account_age": 4157280.0}

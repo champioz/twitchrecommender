@@ -1,0 +1,1 @@
+{"channel": "boswuji_", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 1, "hours_streamed": 1, "streams": 3, "mature": 0, "language": "English", "account_age": 2417760.0}

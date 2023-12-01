@@ -1,0 +1,1 @@
+{"channel": "kendinemuzisyen", "avg_viewers": 7481, "followers_gained": 43123, "peak_viewers": 14112, "hours_streamed": 92, "streams": 16, "mature": 0, "language": "Turkish", "account_age": 2401920.0}

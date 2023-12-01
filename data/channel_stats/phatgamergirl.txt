@@ -1,0 +1,1 @@
+{"channel": "phatgamergirl", "avg_viewers": 11, "followers_gained": 135, "peak_viewers": 30, "hours_streamed": 65, "streams": 15, "mature": 1, "language": "English", "account_age": 3396960.0}

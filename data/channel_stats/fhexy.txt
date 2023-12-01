@@ -1,0 +1,1 @@
+{"channel": "fhexy", "avg_viewers": 70, "followers_gained": 64, "peak_viewers": 112, "hours_streamed": 92, "streams": 18, "mature": 0, "language": "German", "account_age": 3748320.0}

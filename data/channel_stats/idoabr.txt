@@ -1,0 +1,1 @@
+{"channel": "idoabr", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 1473120.0}

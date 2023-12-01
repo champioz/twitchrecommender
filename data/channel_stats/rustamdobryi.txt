@@ -1,0 +1,1 @@
+{"channel": "rustamdobryi", "avg_viewers": 7, "followers_gained": 26, "peak_viewers": 23, "hours_streamed": 21, "streams": 10, "mature": 1, "language": "Russian", "account_age": 3484800.0}

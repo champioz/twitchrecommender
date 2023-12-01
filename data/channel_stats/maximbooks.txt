@@ -1,0 +1,1 @@
+{"channel": "maximbooks", "avg_viewers": 23, "followers_gained": 21, "peak_viewers": 84, "hours_streamed": 138, "streams": 21, "mature": 1, "language": "Chinese", "account_age": 1082880.0}

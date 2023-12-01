@@ -1,0 +1,1 @@
+{"channel": "hardcoreability", "avg_viewers": 21, "followers_gained": 330, "peak_viewers": 371, "hours_streamed": 90, "streams": 20, "mature": 1, "language": "English", "account_age": 2145600.0}

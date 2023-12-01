@@ -1,0 +1,1 @@
+{"channel": "cnhuco", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 41, "hours_streamed": 177, "streams": 29, "mature": 0, "language": "Korean", "account_age": 403200.0}

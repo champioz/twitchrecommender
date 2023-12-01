@@ -1,0 +1,1 @@
+{"channel": "akuhtv", "avg_viewers": 5, "followers_gained": 12, "peak_viewers": 16, "hours_streamed": 54, "streams": 16, "mature": 1, "language": "German", "account_age": 2416320.0}

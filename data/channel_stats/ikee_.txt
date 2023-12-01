@@ -1,0 +1,1 @@
+{"channel": "ikee_", "avg_viewers": 15, "followers_gained": 259, "peak_viewers": 34, "hours_streamed": 107, "streams": 20, "mature": 0, "language": "Polish", "account_age": 2746080.0}

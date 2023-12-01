@@ -1,0 +1,1 @@
+{"channel": "aoesports", "avg_viewers": 20, "followers_gained": 31, "peak_viewers": 46, "hours_streamed": 10, "streams": 6, "mature": 0, "language": "English", "account_age": 1035360.0}

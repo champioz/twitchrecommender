@@ -1,0 +1,1 @@
+{"channel": "jozesitogamer", "avg_viewers": 4, "followers_gained": 44, "peak_viewers": 45, "hours_streamed": 65, "streams": 20, "mature": 1, "language": "Spanish", "account_age": 1877760.0}

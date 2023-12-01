@@ -1,0 +1,1 @@
+{"channel": "pyromancer", "avg_viewers": 477, "followers_gained": 1810, "peak_viewers": 3574, "hours_streamed": 15, "streams": 4, "mature": 0, "language": "English", "account_age": 2158560.0}

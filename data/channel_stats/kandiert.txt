@@ -1,0 +1,1 @@
+{"channel": "kandiert", "avg_viewers": 30, "followers_gained": 26, "peak_viewers": 54, "hours_streamed": 99, "streams": 25, "mature": 0, "language": "German", "account_age": 2141280.0}

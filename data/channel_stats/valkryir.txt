@@ -1,0 +1,1 @@
+{"channel": "valkryir", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 24, "streams": 9, "mature": 1, "language": "English", "account_age": 2812320.0}

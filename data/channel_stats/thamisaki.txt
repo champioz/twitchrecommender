@@ -1,0 +1,1 @@
+{"channel": "thamisaki", "avg_viewers": 5, "followers_gained": 92, "peak_viewers": 35, "hours_streamed": 74, "streams": 20, "mature": 1, "language": "Portuguese", "account_age": 2668320.0}

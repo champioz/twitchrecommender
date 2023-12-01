@@ -1,0 +1,1 @@
+{"channel": "elramirlol", "avg_viewers": 81, "followers_gained": 8, "peak_viewers": 164, "hours_streamed": 5, "streams": 5, "mature": 0, "language": "Turkish", "account_age": 2154240.0}

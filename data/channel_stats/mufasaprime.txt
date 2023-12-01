@@ -1,0 +1,1 @@
+{"channel": "mufasaprime", "avg_viewers": 21, "followers_gained": 56, "peak_viewers": 55, "hours_streamed": 99, "streams": 25, "mature": 0, "language": "English", "account_age": 4242240.0}

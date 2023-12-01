@@ -1,0 +1,1 @@
+{"channel": "erik", "avg_viewers": 19, "followers_gained": 74, "peak_viewers": 71, "hours_streamed": 32, "streams": 8, "mature": 1, "language": "Hungarian", "account_age": 3333600.0}

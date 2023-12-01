@@ -1,0 +1,1 @@
+{"channel": "rozhiin", "avg_viewers": 56, "followers_gained": 908, "peak_viewers": 113, "hours_streamed": 49, "streams": 17, "mature": 0, "language": "Other", "account_age": 597600.0}

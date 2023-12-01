@@ -1,0 +1,1 @@
+{"channel": "theodorichtv", "avg_viewers": 10, "followers_gained": 43, "peak_viewers": 31, "hours_streamed": 29, "streams": 8, "mature": 0, "language": "Turkish", "account_age": 2989440.0}

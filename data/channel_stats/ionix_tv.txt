@@ -1,0 +1,1 @@
+{"channel": "ionix_tv", "avg_viewers": 183, "followers_gained": 457, "peak_viewers": 483, "hours_streamed": 176, "streams": 22, "mature": 1, "language": "French", "account_age": 2147040.0}

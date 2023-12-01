@@ -1,0 +1,1 @@
+{"channel": "smxli", "avg_viewers": 11, "followers_gained": 7, "peak_viewers": 16, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 3035520.0}

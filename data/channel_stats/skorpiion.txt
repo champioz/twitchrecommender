@@ -1,0 +1,1 @@
+{"channel": "skorpiion", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 46, "hours_streamed": 78, "streams": 27, "mature": 0, "language": "Portuguese", "account_age": 2741760.0}

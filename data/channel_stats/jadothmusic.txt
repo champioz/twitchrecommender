@@ -1,0 +1,1 @@
+{"channel": "jadothmusic", "avg_viewers": 22, "followers_gained": 59, "peak_viewers": 48, "hours_streamed": 38, "streams": 12, "mature": 0, "language": "English", "account_age": 1455840.0}

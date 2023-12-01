@@ -1,0 +1,1 @@
+{"channel": "marco_7x", "avg_viewers": 17, "followers_gained": 249, "peak_viewers": 39, "hours_streamed": 140, "streams": 31, "mature": 0, "language": "English", "account_age": 1393920.0}

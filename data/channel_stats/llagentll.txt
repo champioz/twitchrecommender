@@ -1,0 +1,1 @@
+{"channel": "llagentll", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 11, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "English", "account_age": 3892320.0}

@@ -1,0 +1,1 @@
+{"channel": "maatukka", "avg_viewers": 44, "followers_gained": 52, "peak_viewers": 376, "hours_streamed": 46, "streams": 9, "mature": 1, "language": "Finnish", "account_age": 1264320.0}

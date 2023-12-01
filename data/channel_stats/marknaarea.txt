@@ -1,0 +1,1 @@
+{"channel": "marknaarea", "avg_viewers": 3, "followers_gained": 20, "peak_viewers": 9, "hours_streamed": 15, "streams": 7, "mature": 0, "language": "Portuguese", "account_age": 3052800.0}

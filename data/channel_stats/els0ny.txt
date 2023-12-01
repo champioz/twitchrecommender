@@ -1,0 +1,1 @@
+{"channel": "els0ny", "avg_viewers": 4, "followers_gained": 24, "peak_viewers": 12, "hours_streamed": 81, "streams": 41, "mature": 1, "language": "Spanish", "account_age": 2040480.0}

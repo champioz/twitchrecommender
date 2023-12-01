@@ -1,0 +1,1 @@
+{"channel": "n00dleeater", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 9, "hours_streamed": 15, "streams": 5, "mature": 1, "language": "Norwegian", "account_age": 1772640.0}

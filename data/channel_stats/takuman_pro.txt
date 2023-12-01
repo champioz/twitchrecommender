@@ -1,0 +1,1 @@
+{"channel": "takuman_pro", "avg_viewers": 319, "followers_gained": 338, "peak_viewers": 776, "hours_streamed": 82, "streams": 26, "mature": 0, "language": "Japanese", "account_age": 2437920.0}

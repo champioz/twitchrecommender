@@ -1,0 +1,1 @@
+{"channel": "thed20", "avg_viewers": 98, "followers_gained": 345, "peak_viewers": 1358, "hours_streamed": 25, "streams": 15, "mature": 0, "language": "English", "account_age": 3394080.0}

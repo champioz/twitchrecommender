@@ -1,0 +1,1 @@
+{"channel": "der_homie", "avg_viewers": 15, "followers_gained": 72, "peak_viewers": 85, "hours_streamed": 48, "streams": 14, "mature": 1, "language": "German", "account_age": 2462400.0}

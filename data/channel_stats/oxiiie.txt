@@ -1,0 +1,1 @@
+{"channel": "oxiiie", "avg_viewers": 4, "followers_gained": 24, "peak_viewers": 15, "hours_streamed": 52, "streams": 17, "mature": 1, "language": "Spanish", "account_age": 2868480.0}

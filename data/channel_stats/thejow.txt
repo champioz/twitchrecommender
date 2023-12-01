@@ -1,0 +1,1 @@
+{"channel": "thejow", "avg_viewers": 23, "followers_gained": 216, "peak_viewers": 267, "hours_streamed": 99, "streams": 22, "mature": 1, "language": "Portuguese", "account_age": 1258560.0}

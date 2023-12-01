@@ -1,0 +1,1 @@
+{"channel": "vertigal", "avg_viewers": 20, "followers_gained": 35, "peak_viewers": 36, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "English", "account_age": 3335040.0}

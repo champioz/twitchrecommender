@@ -1,0 +1,1 @@
+{"channel": "naru_laala", "avg_viewers": 2, "followers_gained": 33, "peak_viewers": 9, "hours_streamed": 33, "streams": 23, "mature": 0, "language": "French", "account_age": 351360.0}

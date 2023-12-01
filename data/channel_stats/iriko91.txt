@@ -1,0 +1,1 @@
+{"channel": "iriko91", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 2, "streams": 2, "mature": 1, "language": "Japanese", "account_age": 3055680.0}

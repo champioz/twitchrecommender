@@ -1,0 +1,1 @@
+{"channel": "theplatinumguide", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 1925280.0}

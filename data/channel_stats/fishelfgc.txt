@@ -1,0 +1,1 @@
+{"channel": "fishelfgc", "avg_viewers": 22, "followers_gained": 19, "peak_viewers": 75, "hours_streamed": 15, "streams": 4, "mature": 1, "language": "English", "account_age": 3654720.0}

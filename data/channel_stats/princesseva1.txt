@@ -1,0 +1,1 @@
+{"channel": "princesseva1", "avg_viewers": 1, "followers_gained": 26, "peak_viewers": 6, "hours_streamed": 45, "streams": 24, "mature": 1, "language": "English", "account_age": 2613600.0}

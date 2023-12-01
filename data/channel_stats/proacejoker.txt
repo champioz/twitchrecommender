@@ -1,0 +1,1 @@
+{"channel": "proacejoker", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 21, "hours_streamed": 51, "streams": 13, "mature": 0, "language": "English", "account_age": 4148640.0}

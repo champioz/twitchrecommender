@@ -1,0 +1,1 @@
+{"channel": "t0dayweplay", "avg_viewers": 24, "followers_gained": 0, "peak_viewers": 52, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Russian", "account_age": 1707840.0}

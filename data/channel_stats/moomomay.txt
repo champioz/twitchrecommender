@@ -1,0 +1,1 @@
+{"channel": "moomomay", "avg_viewers": 34, "followers_gained": 944, "peak_viewers": 93, "hours_streamed": 230, "streams": 79, "mature": 0, "language": "Thai", "account_age": 427680.0}

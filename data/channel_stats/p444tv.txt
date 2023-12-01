@@ -1,0 +1,1 @@
+{"channel": "p444tv", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 8, "hours_streamed": 13, "streams": 5, "mature": 1, "language": "Russian", "account_age": 518400.0}

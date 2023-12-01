@@ -1,0 +1,1 @@
+{"channel": "tod", "avg_viewers": 338, "followers_gained": 1008, "peak_viewers": 789, "hours_streamed": 86, "streams": 19, "mature": 0, "language": "English", "account_age": 4436640.0}

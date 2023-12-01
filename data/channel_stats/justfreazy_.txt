@@ -1,0 +1,1 @@
+{"channel": "justfreazy_", "avg_viewers": 43, "followers_gained": 989, "peak_viewers": 212, "hours_streamed": 87, "streams": 27, "mature": 0, "language": "Italian", "account_age": 1347840.0}

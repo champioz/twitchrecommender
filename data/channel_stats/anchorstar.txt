@@ -1,0 +1,1 @@
+{"channel": "anchorstar", "avg_viewers": 136, "followers_gained": 15, "peak_viewers": 488, "hours_streamed": 206, "streams": 27, "mature": 0, "language": "Korean", "account_age": 2036160.0}

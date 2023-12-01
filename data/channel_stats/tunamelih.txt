@@ -1,0 +1,1 @@
+{"channel": "tunamelih", "avg_viewers": 82, "followers_gained": 578, "peak_viewers": 242, "hours_streamed": 210, "streams": 41, "mature": 0, "language": "Turkish", "account_age": 2481120.0}

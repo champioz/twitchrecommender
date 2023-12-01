@@ -1,0 +1,1 @@
+{"channel": "garrawaytv", "avg_viewers": 63, "followers_gained": 209, "peak_viewers": 402, "hours_streamed": 86, "streams": 16, "mature": 1, "language": "Swedish", "account_age": 1769760.0}

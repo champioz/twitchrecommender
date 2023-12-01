@@ -1,0 +1,1 @@
+{"channel": "lalatheclown", "avg_viewers": 22, "followers_gained": 130, "peak_viewers": 46, "hours_streamed": 110, "streams": 23, "mature": 1, "language": "English", "account_age": 1049760.0}

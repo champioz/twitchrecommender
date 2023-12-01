@@ -1,0 +1,1 @@
+{"channel": "by_owl", "avg_viewers": 149, "followers_gained": 100, "peak_viewers": 405, "hours_streamed": 65, "streams": 16, "mature": 0, "language": "Russian", "account_age": 3124800.0}

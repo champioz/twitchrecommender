@@ -1,0 +1,1 @@
+{"channel": "missyfeeder", "avg_viewers": 15, "followers_gained": 179, "peak_viewers": 42, "hours_streamed": 73, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 155520.0}

@@ -1,0 +1,1 @@
+{"channel": "tajnokrab", "avg_viewers": 29, "followers_gained": 170, "peak_viewers": 152, "hours_streamed": 38, "streams": 13, "mature": 1, "language": "Russian", "account_age": 938880.0}

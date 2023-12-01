@@ -1,0 +1,1 @@
+{"channel": "lol4to22", "avg_viewers": 85, "followers_gained": 126, "peak_viewers": 169, "hours_streamed": 87, "streams": 14, "mature": 0, "language": "Russian", "account_age": 1905120.0}

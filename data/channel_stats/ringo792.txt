@@ -1,0 +1,1 @@
+{"channel": "ringo792", "avg_viewers": 6, "followers_gained": 203, "peak_viewers": 45, "hours_streamed": 119, "streams": 32, "mature": 0, "language": "English", "account_age": 3186720.0}

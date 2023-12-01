@@ -1,0 +1,1 @@
+{"channel": "aggermor", "avg_viewers": 7, "followers_gained": 90, "peak_viewers": 43, "hours_streamed": 47, "streams": 17, "mature": 1, "language": "English", "account_age": 3134880.0}

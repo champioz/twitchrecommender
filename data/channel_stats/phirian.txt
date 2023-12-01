@@ -1,0 +1,1 @@
+{"channel": "phirian", "avg_viewers": 104, "followers_gained": 3684, "peak_viewers": 426, "hours_streamed": 271, "streams": 42, "mature": 1, "language": "Turkish", "account_age": 2819520.0}

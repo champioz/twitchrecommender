@@ -1,0 +1,1 @@
+{"channel": "xoove", "avg_viewers": 26, "followers_gained": 17, "peak_viewers": 117, "hours_streamed": 76, "streams": 13, "mature": 1, "language": "Russian", "account_age": 1539360.0}

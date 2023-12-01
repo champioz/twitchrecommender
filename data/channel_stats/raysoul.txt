@@ -1,0 +1,1 @@
+{"channel": "raysoul", "avg_viewers": 2, "followers_gained": 26, "peak_viewers": 10, "hours_streamed": 32, "streams": 14, "mature": 0, "language": "English", "account_age": 3180960.0}

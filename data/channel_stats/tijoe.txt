@@ -1,0 +1,1 @@
+{"channel": "tijoe", "avg_viewers": 238, "followers_gained": 686, "peak_viewers": 420, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "Russian", "account_age": 1686240.0}

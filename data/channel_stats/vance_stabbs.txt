@@ -1,0 +1,1 @@
+{"channel": "vance_stabbs", "avg_viewers": 5, "followers_gained": 11, "peak_viewers": 12, "hours_streamed": 21, "streams": 8, "mature": 1, "language": "Russian", "account_age": 2370240.0}

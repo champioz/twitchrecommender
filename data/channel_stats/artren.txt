@@ -1,0 +1,1 @@
+{"channel": "artren", "avg_viewers": 12, "followers_gained": 52, "peak_viewers": 35, "hours_streamed": 88, "streams": 21, "mature": 0, "language": "English", "account_age": 3736800.0}

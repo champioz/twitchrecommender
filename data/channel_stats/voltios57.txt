@@ -1,0 +1,1 @@
+{"channel": "voltios57", "avg_viewers": 7, "followers_gained": 31, "peak_viewers": 14, "hours_streamed": 74, "streams": 21, "mature": 1, "language": "Spanish", "account_age": 1018080.0}

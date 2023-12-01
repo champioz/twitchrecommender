@@ -1,0 +1,1 @@
+{"channel": "firefly880605", "avg_viewers": 209, "followers_gained": 3823, "peak_viewers": 1179, "hours_streamed": 23, "streams": 14, "mature": 0, "language": "Chinese", "account_age": 1447200.0}

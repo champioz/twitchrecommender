@@ -1,0 +1,1 @@
+{"channel": "josep97", "avg_viewers": 2, "followers_gained": 24, "peak_viewers": 9, "hours_streamed": 49, "streams": 28, "mature": 0, "language": "Spanish", "account_age": 1850400.0}

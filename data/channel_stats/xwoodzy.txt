@@ -1,0 +1,1 @@
+{"channel": "xwoodzy", "avg_viewers": 6, "followers_gained": 86, "peak_viewers": 22, "hours_streamed": 185, "streams": 22, "mature": 0, "language": "English", "account_age": 1068480.0}

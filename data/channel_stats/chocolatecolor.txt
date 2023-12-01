@@ -1,0 +1,1 @@
+{"channel": "chocolatecolor", "avg_viewers": 45, "followers_gained": 7, "peak_viewers": 90, "hours_streamed": 57, "streams": 18, "mature": 0, "language": "Chinese", "account_age": 1902240.0}

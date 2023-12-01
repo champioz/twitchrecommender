@@ -1,0 +1,1 @@
+{"channel": "bigjota", "avg_viewers": 3, "followers_gained": 26, "peak_viewers": 73, "hours_streamed": 43, "streams": 28, "mature": 0, "language": "Spanish", "account_age": 2587680.0}

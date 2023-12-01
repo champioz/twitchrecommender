@@ -1,0 +1,1 @@
+{"channel": "shurjoka", "avg_viewers": 295, "followers_gained": 883, "peak_viewers": 2473, "hours_streamed": 97, "streams": 18, "mature": 1, "language": "German", "account_age": 3166560.0}

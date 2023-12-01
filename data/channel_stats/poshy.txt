@@ -1,0 +1,1 @@
+{"channel": "poshy", "avg_viewers": 134, "followers_gained": 213, "peak_viewers": 1649, "hours_streamed": 76, "streams": 6, "mature": 0, "language": "English", "account_age": 2568960.0}

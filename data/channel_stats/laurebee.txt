@@ -1,0 +1,1 @@
+{"channel": "laurebee", "avg_viewers": 30, "followers_gained": 299, "peak_viewers": 106, "hours_streamed": 119, "streams": 36, "mature": 1, "language": "French", "account_age": 2603520.0}

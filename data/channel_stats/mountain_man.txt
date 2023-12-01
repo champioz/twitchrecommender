@@ -1,0 +1,1 @@
+{"channel": "mountain_man", "avg_viewers": 66, "followers_gained": 18, "peak_viewers": 245, "hours_streamed": 236, "streams": 28, "mature": 0, "language": "English", "account_age": 2442240.0}

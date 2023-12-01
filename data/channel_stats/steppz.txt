@@ -1,0 +1,1 @@
+{"channel": "steppz", "avg_viewers": 22, "followers_gained": 2, "peak_viewers": 47, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "English", "account_age": 1211040.0}

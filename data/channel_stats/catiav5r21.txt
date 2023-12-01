@@ -1,0 +1,1 @@
+{"channel": "catiav5r21", "avg_viewers": 23, "followers_gained": 45, "peak_viewers": 68, "hours_streamed": 50, "streams": 10, "mature": 1, "language": "Korean", "account_age": 1287360.0}

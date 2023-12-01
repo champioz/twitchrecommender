@@ -1,0 +1,1 @@
+{"channel": "flip419", "avg_viewers": 4, "followers_gained": 36, "peak_viewers": 50, "hours_streamed": 182, "streams": 23, "mature": 1, "language": "English", "account_age": 3385440.0}

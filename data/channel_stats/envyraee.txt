@@ -1,0 +1,1 @@
+{"channel": "envyraee", "avg_viewers": 2, "followers_gained": 88, "peak_viewers": 11, "hours_streamed": 617, "streams": 9, "mature": 1, "language": "English", "account_age": 2034720.0}

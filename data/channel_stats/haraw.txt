@@ -1,0 +1,1 @@
+{"channel": "haraw", "avg_viewers": 173, "followers_gained": 1198, "peak_viewers": 734, "hours_streamed": 324, "streams": 29, "mature": 0, "language": "French", "account_age": 3921120.0}

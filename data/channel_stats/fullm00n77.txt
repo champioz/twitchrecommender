@@ -1,0 +1,1 @@
+{"channel": "fullm00n77", "avg_viewers": 5, "followers_gained": 4, "peak_viewers": 9, "hours_streamed": 14, "streams": 5, "mature": 1, "language": "Italian", "account_age": 626400.0}

@@ -1,0 +1,1 @@
+{"channel": "neko_hiroshi", "avg_viewers": 12, "followers_gained": 13, "peak_viewers": 21, "hours_streamed": 43, "streams": 15, "mature": 0, "language": "Japanese", "account_age": 1365120.0}

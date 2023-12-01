@@ -1,0 +1,1 @@
+{"channel": "annne", "avg_viewers": 6, "followers_gained": 15, "peak_viewers": 15, "hours_streamed": 31, "streams": 12, "mature": 1, "language": "Romanian", "account_age": 2183040.0}

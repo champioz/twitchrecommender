@@ -1,0 +1,1 @@
+{"channel": "arflic", "avg_viewers": 7, "followers_gained": 104, "peak_viewers": 23, "hours_streamed": 44, "streams": 14, "mature": 1, "language": "English", "account_age": 2160000.0}

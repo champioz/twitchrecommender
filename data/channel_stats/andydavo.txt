@@ -1,0 +1,1 @@
+{"channel": "andydavo", "avg_viewers": 102, "followers_gained": 44, "peak_viewers": 193, "hours_streamed": 42, "streams": 15, "mature": 1, "language": "English", "account_age": 2342880.0}

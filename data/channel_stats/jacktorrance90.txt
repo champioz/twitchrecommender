@@ -1,0 +1,1 @@
+{"channel": "jacktorrance90", "avg_viewers": 67, "followers_gained": 2, "peak_viewers": 360, "hours_streamed": 149, "streams": 34, "mature": 0, "language": "Italian", "account_age": 2566080.0}

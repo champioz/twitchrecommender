@@ -1,0 +1,1 @@
+{"channel": "mariel_ovo", "avg_viewers": 11, "followers_gained": 191, "peak_viewers": 35, "hours_streamed": 74, "streams": 35, "mature": 0, "language": "Korean", "account_age": 185760.0}

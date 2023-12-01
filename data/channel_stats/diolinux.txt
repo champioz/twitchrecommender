@@ -1,0 +1,1 @@
+{"channel": "diolinux", "avg_viewers": 57, "followers_gained": 575, "peak_viewers": 356, "hours_streamed": 102, "streams": 27, "mature": 0, "language": "Portuguese", "account_age": 1042560.0}

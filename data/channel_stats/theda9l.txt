@@ -1,0 +1,1 @@
+{"channel": "theda9l", "avg_viewers": 54, "followers_gained": 11, "peak_viewers": 73, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 1746720.0}

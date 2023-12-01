@@ -1,0 +1,1 @@
+{"channel": "jaysonlogaming", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 18, "hours_streamed": 59, "streams": 34, "mature": 1, "language": "Chinese", "account_age": 728640.0}

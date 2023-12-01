@@ -1,0 +1,1 @@
+{"channel": "sparkydecay", "avg_viewers": 1, "followers_gained": 21, "peak_viewers": 6, "hours_streamed": 22, "streams": 19, "mature": 1, "language": "English", "account_age": 696960.0}

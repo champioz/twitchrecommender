@@ -1,0 +1,1 @@
+{"channel": "internetfistbump", "avg_viewers": 19, "followers_gained": 46, "peak_viewers": 72, "hours_streamed": 57, "streams": 9, "mature": 0, "language": "English", "account_age": 1092960.0}

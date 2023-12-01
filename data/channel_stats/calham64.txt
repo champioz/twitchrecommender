@@ -1,0 +1,1 @@
+{"channel": "calham64", "avg_viewers": 3, "followers_gained": 11, "peak_viewers": 10, "hours_streamed": 50, "streams": 14, "mature": 0, "language": "English", "account_age": 714240.0}

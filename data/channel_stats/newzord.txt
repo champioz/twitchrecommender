@@ -1,0 +1,1 @@
+{"channel": "newzord", "avg_viewers": 1, "followers_gained": 52, "peak_viewers": 7, "hours_streamed": 79, "streams": 31, "mature": 0, "language": "Portuguese", "account_age": 2393280.0}

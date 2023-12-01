@@ -1,0 +1,1 @@
+{"channel": "peehyun", "avg_viewers": 9, "followers_gained": 12, "peak_viewers": 20, "hours_streamed": 39, "streams": 10, "mature": 0, "language": "Korean", "account_age": 1418400.0}

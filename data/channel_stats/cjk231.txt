@@ -1,0 +1,1 @@
+{"channel": "cjk231", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 28, "hours_streamed": 43, "streams": 19, "mature": 0, "language": "Korean", "account_age": 1925280.0}

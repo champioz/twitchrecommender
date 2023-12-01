@@ -1,0 +1,1 @@
+{"channel": "qwuiss", "avg_viewers": 0, "followers_gained": 8, "peak_viewers": 4, "hours_streamed": 17, "streams": 19, "mature": 0, "language": "English", "account_age": 1627200.0}

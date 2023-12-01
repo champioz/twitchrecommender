@@ -1,0 +1,1 @@
+{"channel": "kipp", "avg_viewers": 21, "followers_gained": 41, "peak_viewers": 68, "hours_streamed": 82, "streams": 26, "mature": 0, "language": "English", "account_age": 1821600.0}

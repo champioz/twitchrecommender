@@ -1,0 +1,1 @@
+{"channel": "lagamacherie", "avg_viewers": 37, "followers_gained": 99, "peak_viewers": 151, "hours_streamed": 92, "streams": 22, "mature": 0, "language": "French", "account_age": 1386720.0}

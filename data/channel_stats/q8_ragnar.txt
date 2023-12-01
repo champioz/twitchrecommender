@@ -1,0 +1,1 @@
+{"channel": "q8_ragnar", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "Arabic", "account_age": 578880.0}

@@ -1,0 +1,1 @@
+{"channel": "doctorsung", "avg_viewers": 74, "followers_gained": 56, "peak_viewers": 100, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "English", "account_age": 4393440.0}

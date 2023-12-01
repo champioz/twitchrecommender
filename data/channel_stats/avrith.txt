@@ -1,0 +1,1 @@
+{"channel": "avrith", "avg_viewers": 13, "followers_gained": 152, "peak_viewers": 31, "hours_streamed": 81, "streams": 17, "mature": 0, "language": "English", "account_age": 640800.0}

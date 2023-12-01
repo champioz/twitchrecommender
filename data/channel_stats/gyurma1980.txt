@@ -1,0 +1,1 @@
+{"channel": "gyurma1980", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 17, "hours_streamed": 84, "streams": 21, "mature": 1, "language": "Hungarian", "account_age": 2907360.0}

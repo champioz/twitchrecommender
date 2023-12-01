@@ -1,0 +1,1 @@
+{"channel": "xfaktyss", "avg_viewers": 3, "followers_gained": 41, "peak_viewers": 31, "hours_streamed": 96, "streams": 39, "mature": 1, "language": "French", "account_age": 1552320.0}

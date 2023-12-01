@@ -1,0 +1,1 @@
+{"channel": "markju", "avg_viewers": 9, "followers_gained": 8, "peak_viewers": 45, "hours_streamed": 131, "streams": 34, "mature": 1, "language": "Chinese", "account_age": 3284640.0}

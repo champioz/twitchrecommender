@@ -1,0 +1,1 @@
+{"channel": "glasseyetiger", "avg_viewers": 12, "followers_gained": 43, "peak_viewers": 55, "hours_streamed": 68, "streams": 14, "mature": 0, "language": "English", "account_age": 5257440.0}

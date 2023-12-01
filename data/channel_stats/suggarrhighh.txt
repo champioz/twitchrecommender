@@ -1,0 +1,1 @@
+{"channel": "suggarrhighh", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 8, "hours_streamed": 21, "streams": 8, "mature": 0, "language": "English", "account_age": 1820160.0}

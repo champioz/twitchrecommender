@@ -1,0 +1,1 @@
+{"channel": "rant4r", "avg_viewers": 143, "followers_gained": 1217, "peak_viewers": 470, "hours_streamed": 21, "streams": 16, "mature": 0, "language": "Spanish", "account_age": 1355040.0}

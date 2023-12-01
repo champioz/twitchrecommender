@@ -1,0 +1,1 @@
+{"channel": "disotis", "avg_viewers": 1, "followers_gained": 34, "peak_viewers": 17, "hours_streamed": 122, "streams": 41, "mature": 1, "language": "German", "account_age": 1749600.0}

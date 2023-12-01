@@ -1,0 +1,1 @@
+{"channel": "happymermaid", "avg_viewers": 5, "followers_gained": 55, "peak_viewers": 23, "hours_streamed": 98, "streams": 21, "mature": 1, "language": "Spanish", "account_age": 1414080.0}

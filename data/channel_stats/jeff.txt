@@ -1,0 +1,1 @@
+{"channel": "jeff", "avg_viewers": 177, "followers_gained": 117, "peak_viewers": 1588, "hours_streamed": 169, "streams": 33, "mature": 0, "language": "German", "account_age": 2566080.0}

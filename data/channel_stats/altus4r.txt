@@ -1,0 +1,1 @@
+{"channel": "altus4r", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 16, "hours_streamed": 83, "streams": 37, "mature": 1, "language": "French", "account_age": 3136320.0}

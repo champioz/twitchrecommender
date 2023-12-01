@@ -1,0 +1,1 @@
+{"channel": "papabearaz", "avg_viewers": 19, "followers_gained": 110, "peak_viewers": 129, "hours_streamed": 106, "streams": 20, "mature": 0, "language": "English", "account_age": 2005920.0}

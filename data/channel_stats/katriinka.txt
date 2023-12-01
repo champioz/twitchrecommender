@@ -1,0 +1,1 @@
+{"channel": "katriinka", "avg_viewers": 29, "followers_gained": 70, "peak_viewers": 285, "hours_streamed": 63, "streams": 15, "mature": 1, "language": "English", "account_age": 1179360.0}

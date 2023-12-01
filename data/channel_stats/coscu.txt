@@ -1,0 +1,1 @@
+{"channel": "coscu", "avg_viewers": 4125, "followers_gained": 15373, "peak_viewers": 13918, "hours_streamed": 45, "streams": 11, "mature": 1, "language": "Spanish", "account_age": 3600000.0}

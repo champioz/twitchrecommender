@@ -1,0 +1,1 @@
+{"channel": "dankthestreamer", "avg_viewers": 2, "followers_gained": 44, "peak_viewers": 9, "hours_streamed": 60, "streams": 12, "mature": 0, "language": "English", "account_age": 334080.0}

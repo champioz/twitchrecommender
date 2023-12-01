@@ -1,0 +1,1 @@
+{"channel": "pony_lol", "avg_viewers": 91, "followers_gained": 34, "peak_viewers": 419, "hours_streamed": 198, "streams": 30, "mature": 0, "language": "Korean", "account_age": 2070720.0}

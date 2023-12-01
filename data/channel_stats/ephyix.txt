@@ -1,0 +1,1 @@
+{"channel": "ephyix", "avg_viewers": 5, "followers_gained": 47, "peak_viewers": 33, "hours_streamed": 138, "streams": 35, "mature": 1, "language": "Hungarian", "account_age": 885600.0}

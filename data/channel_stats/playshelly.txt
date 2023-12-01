@@ -1,0 +1,1 @@
+{"channel": "playshelly", "avg_viewers": 375, "followers_gained": 1130, "peak_viewers": 1512, "hours_streamed": 43, "streams": 14, "mature": 0, "language": "Russian", "account_age": 2302560.0}

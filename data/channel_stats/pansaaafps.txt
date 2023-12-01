@@ -1,0 +1,1 @@
+{"channel": "pansaaafps", "avg_viewers": 9, "followers_gained": 305, "peak_viewers": 77, "hours_streamed": 165, "streams": 34, "mature": 1, "language": "Portuguese", "account_age": 3071520.0}

@@ -1,0 +1,1 @@
+{"channel": "esportnow", "avg_viewers": 313, "followers_gained": 73, "peak_viewers": 1251, "hours_streamed": 83, "streams": 10, "mature": 0, "language": "Polish", "account_age": 2237760.0}

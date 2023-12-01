@@ -1,0 +1,1 @@
+{"channel": "baaamm", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 89, "streams": 21, "mature": 1, "language": "English", "account_age": 2792160.0}

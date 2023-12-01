@@ -1,0 +1,1 @@
+{"channel": "snoodyboo", "avg_viewers": 367, "followers_gained": 2270, "peak_viewers": 1286, "hours_streamed": 221, "streams": 33, "mature": 0, "language": "Spanish", "account_age": 1491840.0}

@@ -1,0 +1,1 @@
+{"channel": "hdiggler", "avg_viewers": 17, "followers_gained": 60, "peak_viewers": 46, "hours_streamed": 41, "streams": 8, "mature": 0, "language": "English", "account_age": 2460960.0}

@@ -1,0 +1,1 @@
+{"channel": "siu_lab", "avg_viewers": 11, "followers_gained": 1, "peak_viewers": 15, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "Japanese", "account_age": 1491840.0}

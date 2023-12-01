@@ -1,0 +1,1 @@
+{"channel": "mushroomed", "avg_viewers": 43, "followers_gained": 1118, "peak_viewers": 205, "hours_streamed": 172, "streams": 37, "mature": 1, "language": "Bulgarian", "account_age": 2188800.0}

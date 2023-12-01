@@ -1,0 +1,1 @@
+{"channel": "nvidiageforcecz", "avg_viewers": 231, "followers_gained": 555, "peak_viewers": 726, "hours_streamed": 129, "streams": 29, "mature": 0, "language": "Czech", "account_age": 1294560.0}

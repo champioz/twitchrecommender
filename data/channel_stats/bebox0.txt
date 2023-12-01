@@ -1,0 +1,1 @@
+{"channel": "bebox0", "avg_viewers": 43, "followers_gained": 53, "peak_viewers": 95, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Arabic", "account_age": 660960.0}

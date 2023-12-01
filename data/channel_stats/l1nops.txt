@@ -1,0 +1,1 @@
+{"channel": "l1nops", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 26, "hours_streamed": 25, "streams": 9, "mature": 0, "language": "Danish", "account_age": 2044800.0}

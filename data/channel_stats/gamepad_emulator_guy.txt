@@ -1,0 +1,1 @@
+{"channel": "gamepad_emulator_guy", "avg_viewers": 0, "followers_gained": 18, "peak_viewers": 4, "hours_streamed": 87, "streams": 29, "mature": 1, "language": "English", "account_age": 279360.0}

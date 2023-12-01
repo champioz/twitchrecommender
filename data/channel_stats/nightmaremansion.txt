@@ -1,0 +1,1 @@
+{"channel": "nightmaremansion", "avg_viewers": 0, "followers_gained": 9, "peak_viewers": 4, "hours_streamed": 82, "streams": 27, "mature": 0, "language": "English", "account_age": 216000.0}

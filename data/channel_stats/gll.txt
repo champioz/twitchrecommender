@@ -1,0 +1,1 @@
+{"channel": "gll", "avg_viewers": 7011, "followers_gained": 17163, "peak_viewers": 19577, "hours_streamed": 40, "streams": 4, "mature": 0, "language": "English", "account_age": 1075680.0}

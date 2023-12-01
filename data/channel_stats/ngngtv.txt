@@ -1,0 +1,1 @@
+{"channel": "ngngtv", "avg_viewers": 72, "followers_gained": 14, "peak_viewers": 112, "hours_streamed": 29, "streams": 10, "mature": 1, "language": "English", "account_age": 3503520.0}

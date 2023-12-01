@@ -1,0 +1,1 @@
+{"channel": "timthetatman", "avg_viewers": 18276, "followers_gained": 63487, "peak_viewers": 46772, "hours_streamed": 118, "streams": 20, "mature": 1, "language": "English", "account_age": 3582720.0}

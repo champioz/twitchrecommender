@@ -1,0 +1,1 @@
+{"channel": "nrocket", "avg_viewers": 37, "followers_gained": 147, "peak_viewers": 86, "hours_streamed": 100, "streams": 22, "mature": 1, "language": "English", "account_age": 1946880.0}

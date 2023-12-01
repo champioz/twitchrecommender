@@ -1,0 +1,1 @@
+{"channel": "karangutan_", "avg_viewers": 16, "followers_gained": 96, "peak_viewers": 50, "hours_streamed": 45, "streams": 15, "mature": 1, "language": "English", "account_age": 1087200.0}

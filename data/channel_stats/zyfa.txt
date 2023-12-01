@@ -1,0 +1,1 @@
+{"channel": "zyfa", "avg_viewers": 90, "followers_gained": 2412, "peak_viewers": 5361, "hours_streamed": 87, "streams": 35, "mature": 0, "language": "English", "account_age": 1499040.0}

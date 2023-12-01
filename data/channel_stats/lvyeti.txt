@@ -1,0 +1,1 @@
+{"channel": "lvyeti", "avg_viewers": 12, "followers_gained": 3, "peak_viewers": 118, "hours_streamed": 58, "streams": 17, "mature": 1, "language": "English", "account_age": 1346400.0}

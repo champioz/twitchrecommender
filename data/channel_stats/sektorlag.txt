@@ -1,0 +1,1 @@
+{"channel": "sektorlag", "avg_viewers": 10, "followers_gained": 198, "peak_viewers": 55, "hours_streamed": 62, "streams": 15, "mature": 0, "language": "Spanish", "account_age": 511200.0}

@@ -1,0 +1,1 @@
+{"channel": "r5ter", "avg_viewers": 176, "followers_gained": 4011, "peak_viewers": 595, "hours_streamed": 40, "streams": 12, "mature": 0, "language": "Arabic", "account_age": 299520.0}

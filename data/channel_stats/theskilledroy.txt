@@ -1,0 +1,1 @@
+{"channel": "theskilledroy", "avg_viewers": 13, "followers_gained": 1, "peak_viewers": 36, "hours_streamed": 14, "streams": 4, "mature": 0, "language": "English", "account_age": 1981440.0}

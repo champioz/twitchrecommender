@@ -1,0 +1,1 @@
+{"channel": "choclandlord", "avg_viewers": 3, "followers_gained": 78, "peak_viewers": 11, "hours_streamed": 89, "streams": 35, "mature": 0, "language": "English", "account_age": 331200.0}

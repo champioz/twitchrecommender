@@ -1,0 +1,1 @@
+{"channel": "fuki", "avg_viewers": 65, "followers_gained": 111, "peak_viewers": 124, "hours_streamed": 82, "streams": 14, "mature": 0, "language": "German", "account_age": 3555360.0}

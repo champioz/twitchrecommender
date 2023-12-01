@@ -1,0 +1,1 @@
+{"channel": "llera", "avg_viewers": 7, "followers_gained": 14, "peak_viewers": 30, "hours_streamed": 165, "streams": 32, "mature": 1, "language": "English", "account_age": 2784960.0}

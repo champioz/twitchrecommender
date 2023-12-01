@@ -1,0 +1,1 @@
+{"channel": "talluska", "avg_viewers": 21, "followers_gained": 234, "peak_viewers": 57, "hours_streamed": 54, "streams": 22, "mature": 0, "language": "Czech", "account_age": 597600.0}

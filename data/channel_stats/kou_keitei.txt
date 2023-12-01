@@ -1,0 +1,1 @@
+{"channel": "kou_keitei", "avg_viewers": 10, "followers_gained": 21, "peak_viewers": 34, "hours_streamed": 54, "streams": 22, "mature": 0, "language": "Chinese", "account_age": 2139840.0}

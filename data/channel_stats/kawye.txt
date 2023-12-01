@@ -1,0 +1,1 @@
+{"channel": "kawye", "avg_viewers": 12, "followers_gained": 3, "peak_viewers": 22, "hours_streamed": 33, "streams": 16, "mature": 1, "language": "German", "account_age": 3329280.0}

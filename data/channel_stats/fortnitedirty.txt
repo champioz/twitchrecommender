@@ -1,0 +1,1 @@
+{"channel": "fortnitedirty", "avg_viewers": 25, "followers_gained": 62, "peak_viewers": 42, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "English", "account_age": 457920.0}

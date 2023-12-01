@@ -1,0 +1,1 @@
+{"channel": "filiperaaamos", "avg_viewers": 422, "followers_gained": 1056, "peak_viewers": 646, "hours_streamed": 12, "streams": 3, "mature": 1, "language": "Portuguese", "account_age": 2079360.0}

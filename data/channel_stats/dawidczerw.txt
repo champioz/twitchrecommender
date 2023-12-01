@@ -1,0 +1,1 @@
+{"channel": "dawidczerw", "avg_viewers": 58, "followers_gained": 35, "peak_viewers": 83, "hours_streamed": 26, "streams": 12, "mature": 0, "language": "Polish", "account_age": 925920.0}

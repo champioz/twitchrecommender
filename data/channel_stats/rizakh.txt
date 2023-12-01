@@ -1,0 +1,1 @@
+{"channel": "rizakh", "avg_viewers": 3, "followers_gained": 13, "peak_viewers": 12, "hours_streamed": 40, "streams": 22, "mature": 1, "language": "Portuguese", "account_age": 2725920.0}

@@ -1,0 +1,1 @@
+{"channel": "revanch", "avg_viewers": 485, "followers_gained": 4491, "peak_viewers": 4937, "hours_streamed": 93, "streams": 27, "mature": 0, "language": "Turkish", "account_age": 3623040.0}

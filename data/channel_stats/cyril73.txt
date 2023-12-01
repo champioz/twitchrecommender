@@ -1,0 +1,1 @@
+{"channel": "cyril73", "avg_viewers": 63, "followers_gained": 136, "peak_viewers": 107, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "French", "account_age": 3594240.0}

@@ -1,0 +1,1 @@
+{"channel": "arwencz", "avg_viewers": 11, "followers_gained": 7, "peak_viewers": 23, "hours_streamed": 19, "streams": 7, "mature": 0, "language": "Czech", "account_age": 3664800.0}

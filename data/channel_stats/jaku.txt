@@ -1,0 +1,1 @@
+{"channel": "jaku", "avg_viewers": 360, "followers_gained": 82, "peak_viewers": 1125, "hours_streamed": 8, "streams": 2, "mature": 1, "language": "English", "account_age": 6202080.0}

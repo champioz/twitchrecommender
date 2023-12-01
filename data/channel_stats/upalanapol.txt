@@ -1,0 +1,1 @@
+{"channel": "upalanapol", "avg_viewers": 30, "followers_gained": 44, "peak_viewers": 59, "hours_streamed": 72, "streams": 22, "mature": 0, "language": "Russian", "account_age": 1668960.0}

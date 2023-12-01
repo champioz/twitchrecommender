@@ -1,0 +1,1 @@
+{"channel": "fongbez", "avg_viewers": 2, "followers_gained": 36, "peak_viewers": 10, "hours_streamed": 32, "streams": 11, "mature": 0, "language": "Thai", "account_age": 1421280.0}

@@ -1,0 +1,1 @@
+{"channel": "marielitai", "avg_viewers": 53, "followers_gained": 342, "peak_viewers": 195, "hours_streamed": 57, "streams": 16, "mature": 0, "language": "English", "account_age": 3657600.0}

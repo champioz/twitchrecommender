@@ -1,0 +1,1 @@
+{"channel": "brexe", "avg_viewers": 17, "followers_gained": 215, "peak_viewers": 38, "hours_streamed": 22, "streams": 11, "mature": 1, "language": "Portuguese", "account_age": 2001600.0}

@@ -1,0 +1,1 @@
+{"channel": "scarzig", "avg_viewers": 19, "followers_gained": 16, "peak_viewers": 45, "hours_streamed": 23, "streams": 7, "mature": 0, "language": "English", "account_age": 3746880.0}

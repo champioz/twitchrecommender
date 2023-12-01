@@ -1,0 +1,1 @@
+{"channel": "linqan", "avg_viewers": 14, "followers_gained": 46, "peak_viewers": 51, "hours_streamed": 23, "streams": 10, "mature": 0, "language": "English", "account_age": 5080320.0}

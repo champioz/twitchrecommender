@@ -1,0 +1,1 @@
+{"channel": "steeali", "avg_viewers": 30, "followers_gained": 43, "peak_viewers": 80, "hours_streamed": 156, "streams": 25, "mature": 0, "language": "English", "account_age": 1818720.0}

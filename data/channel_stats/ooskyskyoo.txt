@@ -1,0 +1,1 @@
+{"channel": "ooskyskyoo", "avg_viewers": 54, "followers_gained": 51, "peak_viewers": 124, "hours_streamed": 123, "streams": 31, "mature": 1, "language": "German", "account_age": 1542240.0}

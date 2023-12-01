@@ -1,0 +1,1 @@
+{"channel": "minititan", "avg_viewers": 75, "followers_gained": 55, "peak_viewers": 317, "hours_streamed": 7, "streams": 4, "mature": 1, "language": "English", "account_age": 3106080.0}

@@ -1,0 +1,1 @@
+{"channel": "rezzi7", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 23, "hours_streamed": 39, "streams": 11, "mature": 1, "language": "English", "account_age": 2255040.0}

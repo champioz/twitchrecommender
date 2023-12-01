@@ -1,0 +1,1 @@
+{"channel": "arceusr6", "avg_viewers": 8, "followers_gained": 9, "peak_viewers": 19, "hours_streamed": 29, "streams": 13, "mature": 1, "language": "German", "account_age": 2145600.0}

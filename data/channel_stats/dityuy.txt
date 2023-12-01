@@ -1,0 +1,1 @@
+{"channel": "dityuy", "avg_viewers": 31, "followers_gained": 219, "peak_viewers": 110, "hours_streamed": 93, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 699840.0}

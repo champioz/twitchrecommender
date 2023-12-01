@@ -1,0 +1,1 @@
+{"channel": "thebeardguys", "avg_viewers": 308, "followers_gained": 657, "peak_viewers": 2858, "hours_streamed": 116, "streams": 23, "mature": 0, "language": "English", "account_age": 2551680.0}

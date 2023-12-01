@@ -1,0 +1,1 @@
+{"channel": "unsgame", "avg_viewers": 15, "followers_gained": 54, "peak_viewers": 62, "hours_streamed": 139, "streams": 27, "mature": 0, "language": "Russian", "account_age": 1945440.0}

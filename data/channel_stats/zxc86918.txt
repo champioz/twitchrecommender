@@ -1,0 +1,1 @@
+{"channel": "zxc86918", "avg_viewers": 8, "followers_gained": 29, "peak_viewers": 59, "hours_streamed": 182, "streams": 29, "mature": 1, "language": "Chinese", "account_age": 1474560.0}

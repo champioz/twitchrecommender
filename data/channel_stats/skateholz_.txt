@@ -1,0 +1,1 @@
+{"channel": "skateholz_", "avg_viewers": 30, "followers_gained": 101, "peak_viewers": 77, "hours_streamed": 83, "streams": 17, "mature": 1, "language": "German", "account_age": 1236960.0}

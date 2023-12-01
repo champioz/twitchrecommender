@@ -1,0 +1,1 @@
+{"channel": "xjogu", "avg_viewers": 94, "followers_gained": 19185, "peak_viewers": 249, "hours_streamed": 55, "streams": 13, "mature": 0, "language": "Turkish", "account_age": 2913120.0}

@@ -1,0 +1,1 @@
+{"channel": "xkhedoz", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 1, "hours_streamed": 0, "streams": 2, "mature": 1, "language": "Spanish", "account_age": 309600.0}

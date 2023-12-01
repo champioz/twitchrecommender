@@ -1,0 +1,1 @@
+{"channel": "sabrinexhunter", "avg_viewers": 7, "followers_gained": 9, "peak_viewers": 12, "hours_streamed": 1, "streams": 3, "mature": 0, "language": "Arabic", "account_age": 2184480.0}

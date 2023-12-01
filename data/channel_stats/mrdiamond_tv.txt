@@ -1,0 +1,1 @@
+{"channel": "mrdiamond_tv", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 12, "hours_streamed": 17, "streams": 6, "mature": 1, "language": "English", "account_age": 1291680.0}

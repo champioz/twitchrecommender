@@ -1,0 +1,1 @@
+{"channel": "panda__angel", "avg_viewers": 7, "followers_gained": 14, "peak_viewers": 47, "hours_streamed": 47, "streams": 23, "mature": 0, "language": "Russian", "account_age": 2198880.0}

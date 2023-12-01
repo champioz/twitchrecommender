@@ -1,0 +1,1 @@
+{"channel": "dakondotv", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 15, "hours_streamed": 9, "streams": 3, "mature": 1, "language": "French", "account_age": 2337120.0}

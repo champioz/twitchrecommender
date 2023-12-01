@@ -1,0 +1,1 @@
+{"channel": "foogiez", "avg_viewers": 2, "followers_gained": 40, "peak_viewers": 39, "hours_streamed": 47, "streams": 15, "mature": 0, "language": "English", "account_age": 876960.0}

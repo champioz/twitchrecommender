@@ -1,0 +1,1 @@
+{"channel": "sirloafofbread", "avg_viewers": 6, "followers_gained": 73, "peak_viewers": 33, "hours_streamed": 23, "streams": 11, "mature": 0, "language": "English", "account_age": 2596320.0}

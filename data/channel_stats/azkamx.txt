@@ -1,0 +1,1 @@
+{"channel": "azkamx", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 56, "streams": 19, "mature": 1, "language": "Spanish", "account_age": 3755520.0}

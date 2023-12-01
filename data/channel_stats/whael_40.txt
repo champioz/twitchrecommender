@@ -1,0 +1,1 @@
+{"channel": "whael_40", "avg_viewers": 60, "followers_gained": 36, "peak_viewers": 188, "hours_streamed": 68, "streams": 16, "mature": 1, "language": "French", "account_age": 3731040.0}

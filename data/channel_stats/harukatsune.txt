@@ -1,0 +1,1 @@
+{"channel": "harukatsune", "avg_viewers": 27, "followers_gained": 24, "peak_viewers": 83, "hours_streamed": 9, "streams": 2, "mature": 0, "language": "English", "account_age": 2298240.0}

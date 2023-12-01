@@ -1,0 +1,1 @@
+{"channel": "jorgothebeast", "avg_viewers": 59, "followers_gained": 7536, "peak_viewers": 505, "hours_streamed": 107, "streams": 28, "mature": 1, "language": "German", "account_age": 3251520.0}

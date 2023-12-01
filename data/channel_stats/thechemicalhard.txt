@@ -1,0 +1,1 @@
+{"channel": "thechemicalhard", "avg_viewers": 2, "followers_gained": 15, "peak_viewers": 11, "hours_streamed": 13, "streams": 10, "mature": 0, "language": "Portuguese", "account_age": 257760.0}

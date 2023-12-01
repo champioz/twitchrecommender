@@ -1,0 +1,1 @@
+{"channel": "triarier", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 35, "streams": 13, "mature": 1, "language": "German", "account_age": 3343680.0}

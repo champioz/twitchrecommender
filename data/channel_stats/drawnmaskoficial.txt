@@ -1,0 +1,1 @@
+{"channel": "drawnmaskoficial", "avg_viewers": 70, "followers_gained": 220, "peak_viewers": 93, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Portuguese", "account_age": 3432960.0}

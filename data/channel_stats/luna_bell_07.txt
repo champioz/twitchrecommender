@@ -1,0 +1,1 @@
+{"channel": "luna_bell_07", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 14, "hours_streamed": 43, "streams": 17, "mature": 0, "language": "English", "account_age": 4020480.0}

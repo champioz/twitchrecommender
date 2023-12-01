@@ -1,0 +1,1 @@
+{"channel": "keiperdontcare", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 59, "hours_streamed": 36, "streams": 9, "mature": 1, "language": "English", "account_age": 1617120.0}

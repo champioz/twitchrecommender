@@ -1,0 +1,1 @@
+{"channel": "nicmakesplays", "avg_viewers": 6, "followers_gained": 191, "peak_viewers": 28, "hours_streamed": 112, "streams": 40, "mature": 0, "language": "English", "account_age": 603360.0}

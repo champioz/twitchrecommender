@@ -1,0 +1,1 @@
+{"channel": "pinkkcheeto", "avg_viewers": 28, "followers_gained": 314, "peak_viewers": 59, "hours_streamed": 46, "streams": 16, "mature": 0, "language": "English", "account_age": 2181600.0}

@@ -1,0 +1,1 @@
+{"channel": "phant0mmiria", "avg_viewers": 42, "followers_gained": 421, "peak_viewers": 93, "hours_streamed": 54, "streams": 20, "mature": 1, "language": "English", "account_age": 295200.0}

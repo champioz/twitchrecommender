@@ -1,0 +1,1 @@
+{"channel": "beawer69", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 10, "hours_streamed": 43, "streams": 21, "mature": 1, "language": "Hungarian", "account_age": 2125440.0}

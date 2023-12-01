@@ -1,0 +1,1 @@
+{"channel": "blika", "avg_viewers": 9, "followers_gained": 47, "peak_viewers": 43, "hours_streamed": 113, "streams": 39, "mature": 1, "language": "Russian", "account_age": 3319200.0}

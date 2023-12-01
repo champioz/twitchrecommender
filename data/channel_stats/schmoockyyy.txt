@@ -1,0 +1,1 @@
+{"channel": "schmoockyyy", "avg_viewers": 4, "followers_gained": 96, "peak_viewers": 14, "hours_streamed": 46, "streams": 26, "mature": 0, "language": "English", "account_age": 2449440.0}

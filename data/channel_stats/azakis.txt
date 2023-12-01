@@ -1,0 +1,1 @@
+{"channel": "azakis", "avg_viewers": 14, "followers_gained": 44, "peak_viewers": 47, "hours_streamed": 42, "streams": 14, "mature": 1, "language": "Polish", "account_age": 3500640.0}

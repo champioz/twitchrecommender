@@ -1,0 +1,1 @@
+{"channel": "flmonster", "avg_viewers": 7, "followers_gained": 40, "peak_viewers": 29, "hours_streamed": 195, "streams": 32, "mature": 1, "language": "English", "account_age": 2823840.0}

@@ -1,0 +1,1 @@
+{"channel": "creaturesc2", "avg_viewers": 14, "followers_gained": 8, "peak_viewers": 32, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "English", "account_age": 4052160.0}

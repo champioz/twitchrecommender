@@ -1,0 +1,1 @@
+{"channel": "horstenravensword", "avg_viewers": 0, "followers_gained": 11, "peak_viewers": 3, "hours_streamed": 17, "streams": 7, "mature": 1, "language": "French", "account_age": 2998080.0}

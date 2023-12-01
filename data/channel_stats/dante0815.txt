@@ -1,0 +1,1 @@
+{"channel": "dante0815", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 14, "hours_streamed": 18, "streams": 6, "mature": 1, "language": "German", "account_age": 3003840.0}

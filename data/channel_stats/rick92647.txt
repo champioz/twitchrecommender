@@ -1,0 +1,1 @@
+{"channel": "rick92647", "avg_viewers": 6, "followers_gained": 21, "peak_viewers": 20, "hours_streamed": 79, "streams": 36, "mature": 1, "language": "English", "account_age": 2293920.0}

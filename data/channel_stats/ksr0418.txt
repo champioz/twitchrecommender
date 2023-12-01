@@ -1,0 +1,1 @@
+{"channel": "ksr0418", "avg_viewers": 6, "followers_gained": 6, "peak_viewers": 14, "hours_streamed": 29, "streams": 8, "mature": 0, "language": "Korean", "account_age": 2321280.0}

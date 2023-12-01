@@ -1,0 +1,1 @@
+{"channel": "vivica666", "avg_viewers": 2, "followers_gained": 20, "peak_viewers": 10, "hours_streamed": 85, "streams": 22, "mature": 1, "language": "German", "account_age": 3391200.0}

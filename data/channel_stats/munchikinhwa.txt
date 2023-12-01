@@ -1,0 +1,1 @@
+{"channel": "munchikinhwa", "avg_viewers": 52, "followers_gained": 497, "peak_viewers": 296, "hours_streamed": 354, "streams": 39, "mature": 0, "language": "Korean", "account_age": 2033280.0}

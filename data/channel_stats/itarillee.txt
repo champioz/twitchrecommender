@@ -1,0 +1,1 @@
+{"channel": "itarillee", "avg_viewers": 15, "followers_gained": 43, "peak_viewers": 61, "hours_streamed": 56, "streams": 12, "mature": 1, "language": "French", "account_age": 2698560.0}

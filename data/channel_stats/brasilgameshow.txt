@@ -1,0 +1,1 @@
+{"channel": "brasilgameshow", "avg_viewers": 1390, "followers_gained": 988, "peak_viewers": 4053, "hours_streamed": 16, "streams": 7, "mature": 0, "language": "Portuguese", "account_age": 2603520.0}

@@ -1,0 +1,1 @@
+{"channel": "gamegoons", "avg_viewers": 30, "followers_gained": 32, "peak_viewers": 137, "hours_streamed": 37, "streams": 13, "mature": 1, "language": "English", "account_age": 1483200.0}

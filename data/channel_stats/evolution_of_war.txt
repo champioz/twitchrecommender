@@ -1,0 +1,1 @@
+{"channel": "evolution_of_war", "avg_viewers": 12, "followers_gained": 28, "peak_viewers": 55, "hours_streamed": 56, "streams": 27, "mature": 1, "language": "English", "account_age": 4105440.0}

@@ -1,0 +1,1 @@
+{"channel": "onyaka", "avg_viewers": 22, "followers_gained": 116, "peak_viewers": 56, "hours_streamed": 127, "streams": 25, "mature": 1, "language": "Russian", "account_age": 3313440.0}

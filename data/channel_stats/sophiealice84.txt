@@ -1,0 +1,1 @@
+{"channel": "sophiealice84", "avg_viewers": 30, "followers_gained": 0, "peak_viewers": 96, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "German", "account_age": 622080.0}

@@ -1,0 +1,1 @@
+{"channel": "ncah", "avg_viewers": 38, "followers_gained": 98, "peak_viewers": 167, "hours_streamed": 17, "streams": 14, "mature": 0, "language": "English", "account_age": 2219040.0}

@@ -1,0 +1,1 @@
+{"channel": "rebi0722", "avg_viewers": 20, "followers_gained": 47, "peak_viewers": 40, "hours_streamed": 52, "streams": 9, "mature": 1, "language": "Chinese", "account_age": 1190880.0}

@@ -1,0 +1,1 @@
+{"channel": "thiesca", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 7, "hours_streamed": 14, "streams": 6, "mature": 0, "language": "Portuguese", "account_age": 3424320.0}

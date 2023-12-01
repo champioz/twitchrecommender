@@ -1,0 +1,1 @@
+{"channel": "oreitroll", "avg_viewers": 99, "followers_gained": 171, "peak_viewers": 190, "hours_streamed": 62, "streams": 15, "mature": 0, "language": "Portuguese", "account_age": 3719520.0}

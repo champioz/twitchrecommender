@@ -1,0 +1,1 @@
+{"channel": "rubin86", "avg_viewers": 8, "followers_gained": 21, "peak_viewers": 31, "hours_streamed": 98, "streams": 27, "mature": 1, "language": "German", "account_age": 2652480.0}

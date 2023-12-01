@@ -1,0 +1,1 @@
+{"channel": "gonzawp1", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 3, "hours_streamed": 29, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 1212480.0}

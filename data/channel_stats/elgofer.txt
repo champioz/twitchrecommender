@@ -1,0 +1,1 @@
+{"channel": "elgofer", "avg_viewers": 4, "followers_gained": 14, "peak_viewers": 12, "hours_streamed": 16, "streams": 6, "mature": 0, "language": "Spanish", "account_age": 3036960.0}

@@ -1,0 +1,1 @@
+{"channel": "professorvf", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 18, "hours_streamed": 38, "streams": 13, "mature": 0, "language": "Hungarian", "account_age": 2219040.0}

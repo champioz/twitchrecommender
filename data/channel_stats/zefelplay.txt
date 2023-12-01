@@ -1,0 +1,1 @@
+{"channel": "zefelplay", "avg_viewers": 3, "followers_gained": 43, "peak_viewers": 20, "hours_streamed": 28, "streams": 12, "mature": 0, "language": "Portuguese", "account_age": 1352160.0}

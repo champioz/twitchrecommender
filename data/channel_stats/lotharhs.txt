@@ -1,0 +1,1 @@
+{"channel": "lotharhs", "avg_viewers": 803, "followers_gained": 4190, "peak_viewers": 3472, "hours_streamed": 217, "streams": 27, "mature": 0, "language": "English", "account_age": 3080160.0}

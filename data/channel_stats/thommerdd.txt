@@ -1,0 +1,1 @@
+{"channel": "thommerdd", "avg_viewers": 6, "followers_gained": 26, "peak_viewers": 16, "hours_streamed": 37, "streams": 11, "mature": 0, "language": "Dutch", "account_age": 820800.0}

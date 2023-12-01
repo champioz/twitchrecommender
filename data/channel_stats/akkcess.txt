@@ -1,0 +1,1 @@
+{"channel": "akkcess", "avg_viewers": 111, "followers_gained": 839, "peak_viewers": 234, "hours_streamed": 98, "streams": 17, "mature": 0, "language": "German", "account_age": 2471040.0}

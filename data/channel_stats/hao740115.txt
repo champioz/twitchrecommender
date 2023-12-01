@@ -1,0 +1,1 @@
+{"channel": "hao740115", "avg_viewers": 7, "followers_gained": 23, "peak_viewers": 57, "hours_streamed": 307, "streams": 51, "mature": 0, "language": "Chinese", "account_age": 534240.0}

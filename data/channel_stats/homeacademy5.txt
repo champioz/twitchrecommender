@@ -1,0 +1,1 @@
+{"channel": "homeacademy5", "avg_viewers": 204, "followers_gained": 540, "peak_viewers": 1252, "hours_streamed": 38, "streams": 12, "mature": 0, "language": "Russian", "account_age": 1450080.0}

@@ -1,0 +1,1 @@
+{"channel": "citydriver_", "avg_viewers": 191, "followers_gained": 1173, "peak_viewers": 728, "hours_streamed": 155, "streams": 38, "mature": 0, "language": "German", "account_age": 957600.0}

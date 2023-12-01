@@ -1,0 +1,1 @@
+{"channel": "lewteecod", "avg_viewers": 12, "followers_gained": 3, "peak_viewers": 18, "hours_streamed": 1, "streams": 1, "mature": 1, "language": "English", "account_age": 2432160.0}

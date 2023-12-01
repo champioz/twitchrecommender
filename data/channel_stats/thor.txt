@@ -1,0 +1,1 @@
+{"channel": "thor", "avg_viewers": 144, "followers_gained": 466, "peak_viewers": 353, "hours_streamed": 60, "streams": 25, "mature": 0, "language": "English", "account_age": 3193920.0}

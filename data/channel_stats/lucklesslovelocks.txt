@@ -1,0 +1,1 @@
+{"channel": "lucklesslovelocks", "avg_viewers": 22, "followers_gained": 24, "peak_viewers": 59, "hours_streamed": 35, "streams": 10, "mature": 1, "language": "English", "account_age": 2580480.0}

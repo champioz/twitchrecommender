@@ -1,0 +1,1 @@
+{"channel": "pandapigen46", "avg_viewers": 12, "followers_gained": 1, "peak_viewers": 20, "hours_streamed": 1, "streams": 2, "mature": 1, "language": "Danish", "account_age": 1421280.0}

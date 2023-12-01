@@ -1,0 +1,1 @@
+{"channel": "tashaxe", "avg_viewers": 17, "followers_gained": 82, "peak_viewers": 79, "hours_streamed": 60, "streams": 15, "mature": 0, "language": "English", "account_age": 2577600.0}

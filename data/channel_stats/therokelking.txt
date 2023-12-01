@@ -1,0 +1,1 @@
+{"channel": "therokelking", "avg_viewers": 3, "followers_gained": 22, "peak_viewers": 16, "hours_streamed": 73, "streams": 28, "mature": 0, "language": "Spanish", "account_age": 933120.0}

@@ -1,0 +1,1 @@
+{"channel": "laughingfoxden", "avg_viewers": 3, "followers_gained": 18, "peak_viewers": 39, "hours_streamed": 118, "streams": 40, "mature": 1, "language": "English", "account_age": 2687040.0}

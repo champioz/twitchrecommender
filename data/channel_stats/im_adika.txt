@@ -1,0 +1,1 @@
+{"channel": "im_adika", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 14, "hours_streamed": 97, "streams": 18, "mature": 1, "language": "English", "account_age": 1362240.0}

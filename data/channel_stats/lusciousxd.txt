@@ -1,0 +1,1 @@
+{"channel": "lusciousxd", "avg_viewers": 56, "followers_gained": 5, "peak_viewers": 112, "hours_streamed": 28, "streams": 5, "mature": 0, "language": "Chinese", "account_age": 2404800.0}

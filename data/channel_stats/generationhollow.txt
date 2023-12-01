@@ -1,0 +1,1 @@
+{"channel": "generationhollow", "avg_viewers": 35, "followers_gained": 16, "peak_viewers": 54, "hours_streamed": 57, "streams": 21, "mature": 0, "language": "English", "account_age": 3218400.0}

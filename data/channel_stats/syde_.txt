@@ -1,0 +1,1 @@
+{"channel": "syde_", "avg_viewers": 60, "followers_gained": 21, "peak_viewers": 115, "hours_streamed": 18, "streams": 6, "mature": 0, "language": "English", "account_age": 3525120.0}

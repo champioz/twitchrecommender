@@ -1,0 +1,1 @@
+{"channel": "krannz", "avg_viewers": 52, "followers_gained": 48, "peak_viewers": 365, "hours_streamed": 32, "streams": 8, "mature": 0, "language": "English", "account_age": 3336480.0}

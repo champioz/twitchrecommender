@@ -1,0 +1,1 @@
+{"channel": "big_breakfast", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 5, "streams": 4, "mature": 1, "language": "English", "account_age": 2026080.0}

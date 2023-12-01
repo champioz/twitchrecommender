@@ -1,0 +1,1 @@
+{"channel": "daskoddy", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 4, "streams": 1, "mature": 1, "language": "German", "account_age": 1756800.0}

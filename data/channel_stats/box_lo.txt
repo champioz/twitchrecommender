@@ -1,0 +1,1 @@
+{"channel": "box_lo", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 13, "streams": 5, "mature": 0, "language": "Chinese", "account_age": 2628000.0}

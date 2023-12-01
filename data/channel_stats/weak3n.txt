@@ -1,0 +1,1 @@
+{"channel": "weak3n", "avg_viewers": 1184, "followers_gained": 3037, "peak_viewers": 2245, "hours_streamed": 190, "streams": 26, "mature": 0, "language": "English", "account_age": 4118400.0}

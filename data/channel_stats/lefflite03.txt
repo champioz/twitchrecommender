@@ -1,0 +1,1 @@
+{"channel": "lefflite03", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "English", "account_age": 3098880.0}

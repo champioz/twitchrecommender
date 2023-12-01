@@ -1,0 +1,1 @@
+{"channel": "burns_slow", "avg_viewers": 0, "followers_gained": 7, "peak_viewers": 11, "hours_streamed": 127, "streams": 28, "mature": 1, "language": "English", "account_age": 2854080.0}

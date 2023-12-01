@@ -1,0 +1,1 @@
+{"channel": "ghostar", "avg_viewers": 33, "followers_gained": 136, "peak_viewers": 100, "hours_streamed": 112, "streams": 28, "mature": 0, "language": "Polish", "account_age": 1599840.0}

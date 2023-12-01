@@ -1,0 +1,1 @@
+{"channel": "ddescham", "avg_viewers": 3, "followers_gained": 29, "peak_viewers": 12, "hours_streamed": 62, "streams": 37, "mature": 1, "language": "French", "account_age": 3008160.0}

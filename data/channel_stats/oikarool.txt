@@ -1,0 +1,1 @@
+{"channel": "oikarool", "avg_viewers": 21, "followers_gained": 1781, "peak_viewers": 151, "hours_streamed": 144, "streams": 44, "mature": 0, "language": "Portuguese", "account_age": 345600.0}

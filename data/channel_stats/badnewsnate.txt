@@ -1,0 +1,1 @@
+{"channel": "badnewsnate", "avg_viewers": 18, "followers_gained": 114, "peak_viewers": 57, "hours_streamed": 109, "streams": 25, "mature": 1, "language": "English", "account_age": 2825280.0}

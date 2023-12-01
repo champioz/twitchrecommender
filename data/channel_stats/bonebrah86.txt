@@ -1,0 +1,1 @@
+{"channel": "bonebrah86", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 14, "hours_streamed": 72, "streams": 24, "mature": 1, "language": "English", "account_age": 2720160.0}

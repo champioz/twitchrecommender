@@ -1,0 +1,1 @@
+{"channel": "vona_tv", "avg_viewers": 14, "followers_gained": 70, "peak_viewers": 30, "hours_streamed": 82, "streams": 19, "mature": 0, "language": "Korean", "account_age": 421920.0}

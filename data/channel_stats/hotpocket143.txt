@@ -1,0 +1,1 @@
+{"channel": "hotpocket143", "avg_viewers": 2, "followers_gained": 27, "peak_viewers": 9, "hours_streamed": 62, "streams": 17, "mature": 0, "language": "English", "account_age": 758880.0}

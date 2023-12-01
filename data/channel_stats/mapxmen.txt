@@ -1,0 +1,1 @@
+{"channel": "mapxmen", "avg_viewers": 15, "followers_gained": 48, "peak_viewers": 44, "hours_streamed": 33, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 1425600.0}

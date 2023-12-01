@@ -1,0 +1,1 @@
+{"channel": "vipfoor", "avg_viewers": 19, "followers_gained": 535, "peak_viewers": 218, "hours_streamed": 209, "streams": 57, "mature": 1, "language": "Other", "account_age": 996480.0}

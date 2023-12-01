@@ -1,0 +1,1 @@
+{"channel": "tubbo", "avg_viewers": 9, "followers_gained": 87, "peak_viewers": 20, "hours_streamed": 52, "streams": 25, "mature": 0, "language": "English", "account_age": 637920.0}

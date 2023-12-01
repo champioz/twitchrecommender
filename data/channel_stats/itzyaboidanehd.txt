@@ -1,0 +1,1 @@
+{"channel": "itzyaboidanehd", "avg_viewers": 277, "followers_gained": 343, "peak_viewers": 1083, "hours_streamed": 79, "streams": 19, "mature": 1, "language": "English", "account_age": 2377440.0}

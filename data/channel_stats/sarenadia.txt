@@ -1,0 +1,1 @@
+{"channel": "sarenadia", "avg_viewers": 13, "followers_gained": 9, "peak_viewers": 23, "hours_streamed": 18, "streams": 6, "mature": 1, "language": "English", "account_age": 2361600.0}

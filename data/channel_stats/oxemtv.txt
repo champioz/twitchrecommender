@@ -1,0 +1,1 @@
+{"channel": "oxemtv", "avg_viewers": 35, "followers_gained": 49, "peak_viewers": 94, "hours_streamed": 58, "streams": 23, "mature": 0, "language": "French", "account_age": 2479680.0}

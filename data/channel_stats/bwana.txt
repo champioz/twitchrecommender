@@ -1,0 +1,1 @@
+{"channel": "bwana", "avg_viewers": 70, "followers_gained": 28, "peak_viewers": 225, "hours_streamed": 151, "streams": 25, "mature": 0, "language": "English", "account_age": 6413760.0}

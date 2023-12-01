@@ -1,0 +1,1 @@
+{"channel": "vaughnywastaken", "avg_viewers": 12, "followers_gained": 40, "peak_viewers": 41, "hours_streamed": 125, "streams": 30, "mature": 1, "language": "English", "account_age": 1517760.0}

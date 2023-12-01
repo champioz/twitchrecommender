@@ -1,0 +1,1 @@
+{"channel": "kwanakmountainshy", "avg_viewers": 12, "followers_gained": 59, "peak_viewers": 42, "hours_streamed": 45, "streams": 13, "mature": 0, "language": "Korean", "account_age": 2037600.0}

@@ -1,0 +1,1 @@
+{"channel": "illisia", "avg_viewers": 28, "followers_gained": 36, "peak_viewers": 39, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 3198240.0}

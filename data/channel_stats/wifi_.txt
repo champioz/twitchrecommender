@@ -1,0 +1,1 @@
+{"channel": "wifi_", "avg_viewers": 63, "followers_gained": 331, "peak_viewers": 128, "hours_streamed": 39, "streams": 21, "mature": 1, "language": "English", "account_age": 1185120.0}

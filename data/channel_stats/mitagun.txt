@@ -1,0 +1,1 @@
+{"channel": "mitagun", "avg_viewers": 18, "followers_gained": 2, "peak_viewers": 30, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Japanese", "account_age": 1791360.0}

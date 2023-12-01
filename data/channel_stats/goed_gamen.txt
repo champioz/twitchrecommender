@@ -1,0 +1,1 @@
+{"channel": "goed_gamen", "avg_viewers": 10, "followers_gained": 12, "peak_viewers": 19, "hours_streamed": 6, "streams": 5, "mature": 0, "language": "Dutch", "account_age": 2126880.0}

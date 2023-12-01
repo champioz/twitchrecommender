@@ -1,0 +1,1 @@
+{"channel": "lil", "avg_viewers": 283, "followers_gained": 78, "peak_viewers": 850, "hours_streamed": 22, "streams": 7, "mature": 0, "language": "Russian", "account_age": 2617920.0}

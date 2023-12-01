@@ -1,0 +1,1 @@
+{"channel": "mrfarosyy", "avg_viewers": 145, "followers_gained": 5592, "peak_viewers": 420, "hours_streamed": 220, "streams": 41, "mature": 1, "language": "Arabic", "account_age": 987840.0}

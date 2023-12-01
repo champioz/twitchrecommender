@@ -1,0 +1,1 @@
+{"channel": "imaiden86", "avg_viewers": 14, "followers_gained": 128, "peak_viewers": 38, "hours_streamed": 147, "streams": 27, "mature": 1, "language": "Spanish", "account_age": 1896480.0}

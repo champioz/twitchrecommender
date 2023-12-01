@@ -1,0 +1,1 @@
+{"channel": "szopa666", "avg_viewers": 254, "followers_gained": 457, "peak_viewers": 767, "hours_streamed": 75, "streams": 23, "mature": 0, "language": "Polish", "account_age": 1419840.0}

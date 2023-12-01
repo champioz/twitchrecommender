@@ -1,0 +1,1 @@
+{"channel": "ppppunisher", "avg_viewers": 13, "followers_gained": 113, "peak_viewers": 57, "hours_streamed": 232, "streams": 33, "mature": 1, "language": "German", "account_age": 449280.0}

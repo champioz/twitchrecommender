@@ -1,0 +1,1 @@
+{"channel": "flint83", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 111, "streams": 28, "mature": 1, "language": "French", "account_age": 3572640.0}

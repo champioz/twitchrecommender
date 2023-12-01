@@ -1,0 +1,1 @@
+{"channel": "babylonius", "avg_viewers": 4, "followers_gained": 20, "peak_viewers": 15, "hours_streamed": 26, "streams": 9, "mature": 1, "language": "English", "account_age": 3774240.0}

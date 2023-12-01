@@ -1,0 +1,1 @@
+{"channel": "junn3", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 68, "streams": 20, "mature": 0, "language": "English", "account_age": 1668960.0}

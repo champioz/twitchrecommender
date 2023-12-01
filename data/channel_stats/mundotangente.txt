@@ -1,0 +1,1 @@
+{"channel": "mundotangente", "avg_viewers": 8, "followers_gained": 70, "peak_viewers": 26, "hours_streamed": 46, "streams": 15, "mature": 1, "language": "Portuguese", "account_age": 1427040.0}

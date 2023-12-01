@@ -1,0 +1,1 @@
+{"channel": "ysk9", "avg_viewers": 4, "followers_gained": 15, "peak_viewers": 13, "hours_streamed": 18, "streams": 9, "mature": 0, "language": "Portuguese", "account_age": 3487680.0}

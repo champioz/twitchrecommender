@@ -1,0 +1,1 @@
+{"channel": "smellyy", "avg_viewers": 44, "followers_gained": 268, "peak_viewers": 123, "hours_streamed": 62, "streams": 11, "mature": 1, "language": "English", "account_age": 609120.0}

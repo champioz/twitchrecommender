@@ -1,0 +1,1 @@
+{"channel": "stqrmy", "avg_viewers": 15, "followers_gained": 15, "peak_viewers": 30, "hours_streamed": 9, "streams": 12, "mature": 0, "language": "English", "account_age": 2528640.0}

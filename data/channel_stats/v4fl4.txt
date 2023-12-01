@@ -1,0 +1,1 @@
+{"channel": "v4fl4", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 6, "hours_streamed": 21, "streams": 6, "mature": 1, "language": "Slovak", "account_age": 646560.0}

@@ -1,0 +1,1 @@
+{"channel": "willshayhan", "avg_viewers": 25, "followers_gained": 419, "peak_viewers": 196, "hours_streamed": 45, "streams": 11, "mature": 0, "language": "English", "account_age": 594720.0}

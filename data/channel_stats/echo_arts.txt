@@ -1,0 +1,1 @@
+{"channel": "echo_arts", "avg_viewers": 10, "followers_gained": 135, "peak_viewers": 100, "hours_streamed": 68, "streams": 18, "mature": 0, "language": "Arabic", "account_age": 3045600.0}

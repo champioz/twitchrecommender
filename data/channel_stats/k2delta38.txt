@@ -1,0 +1,1 @@
+{"channel": "k2delta38", "avg_viewers": 82, "followers_gained": 905, "peak_viewers": 203, "hours_streamed": 123, "streams": 22, "mature": 1, "language": "English", "account_age": 1851840.0}

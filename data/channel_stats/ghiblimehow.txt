@@ -1,0 +1,1 @@
+{"channel": "ghiblimehow", "avg_viewers": 11, "followers_gained": 2, "peak_viewers": 33, "hours_streamed": 16, "streams": 4, "mature": 0, "language": "English", "account_age": 4809600.0}

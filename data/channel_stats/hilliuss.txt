@@ -1,0 +1,1 @@
+{"channel": "hilliuss", "avg_viewers": 24, "followers_gained": 88, "peak_viewers": 65, "hours_streamed": 55, "streams": 18, "mature": 1, "language": "French", "account_age": 4219200.0}

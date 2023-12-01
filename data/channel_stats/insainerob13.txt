@@ -1,0 +1,1 @@
+{"channel": "insainerob13", "avg_viewers": 35, "followers_gained": 481, "peak_viewers": 318, "hours_streamed": 148, "streams": 31, "mature": 1, "language": "English", "account_age": 720000.0}

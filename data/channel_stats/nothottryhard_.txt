@@ -1,0 +1,1 @@
+{"channel": "nothottryhard_", "avg_viewers": 40, "followers_gained": 256, "peak_viewers": 72, "hours_streamed": 16, "streams": 8, "mature": 0, "language": "Russian", "account_age": 2109600.0}

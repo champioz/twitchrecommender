@@ -1,0 +1,1 @@
+{"channel": "starlitescape", "avg_viewers": 8, "followers_gained": 5, "peak_viewers": 21, "hours_streamed": 33, "streams": 8, "mature": 1, "language": "English", "account_age": 2799360.0}

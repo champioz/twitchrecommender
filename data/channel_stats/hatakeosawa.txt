@@ -1,0 +1,1 @@
+{"channel": "hatakeosawa", "avg_viewers": 1, "followers_gained": 13, "peak_viewers": 13, "hours_streamed": 100, "streams": 30, "mature": 1, "language": "English", "account_age": 4415040.0}

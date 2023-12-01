@@ -1,0 +1,1 @@
+{"channel": "kyrenis", "avg_viewers": 512, "followers_gained": 1092, "peak_viewers": 843, "hours_streamed": 77, "streams": 25, "mature": 0, "language": "Italian", "account_age": 2973600.0}

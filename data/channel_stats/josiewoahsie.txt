@@ -1,0 +1,1 @@
+{"channel": "josiewoahsie", "avg_viewers": 7, "followers_gained": 31, "peak_viewers": 28, "hours_streamed": 73, "streams": 13, "mature": 0, "language": "English", "account_age": 1056960.0}

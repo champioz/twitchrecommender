@@ -1,0 +1,1 @@
+{"channel": "elpablo_", "avg_viewers": 28, "followers_gained": 44, "peak_viewers": 89, "hours_streamed": 81, "streams": 20, "mature": 1, "language": "German", "account_age": 1365120.0}

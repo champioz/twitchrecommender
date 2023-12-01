@@ -1,0 +1,1 @@
+{"channel": "madisol", "avg_viewers": 20, "followers_gained": 31, "peak_viewers": 42, "hours_streamed": 19, "streams": 7, "mature": 1, "language": "English", "account_age": 1860480.0}

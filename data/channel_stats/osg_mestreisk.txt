@@ -1,0 +1,1 @@
+{"channel": "osg_mestreisk", "avg_viewers": 10, "followers_gained": 54, "peak_viewers": 22, "hours_streamed": 42, "streams": 8, "mature": 1, "language": "Portuguese", "account_age": 1342080.0}

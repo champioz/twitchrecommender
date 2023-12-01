@@ -1,0 +1,1 @@
+{"channel": "glitterfartso", "avg_viewers": 11, "followers_gained": 36, "peak_viewers": 31, "hours_streamed": 51, "streams": 18, "mature": 1, "language": "English", "account_age": 1990080.0}

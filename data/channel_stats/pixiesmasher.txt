@@ -1,0 +1,1 @@
+{"channel": "pixiesmasher", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 33, "streams": 12, "mature": 0, "language": "English", "account_age": 1513440.0}

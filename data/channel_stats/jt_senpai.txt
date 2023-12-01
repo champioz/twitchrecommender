@@ -1,0 +1,1 @@
+{"channel": "jt_senpai", "avg_viewers": 34, "followers_gained": 48, "peak_viewers": 64, "hours_streamed": 14, "streams": 4, "mature": 1, "language": "English", "account_age": 3777120.0}

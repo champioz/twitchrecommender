@@ -1,0 +1,1 @@
+{"channel": "elarubio", "avg_viewers": 33, "followers_gained": 338, "peak_viewers": 211, "hours_streamed": 33, "streams": 19, "mature": 0, "language": "Spanish", "account_age": 682560.0}

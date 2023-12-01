@@ -1,0 +1,1 @@
+{"channel": "dualpeacemakers", "avg_viewers": 0, "followers_gained": 11, "peak_viewers": 6, "hours_streamed": 143, "streams": 30, "mature": 1, "language": "English", "account_age": 466560.0}

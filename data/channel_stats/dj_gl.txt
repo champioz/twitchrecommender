@@ -1,0 +1,1 @@
+{"channel": "dj_gl", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 17, "hours_streamed": 149, "streams": 30, "mature": 1, "language": "Chinese", "account_age": 5001120.0}

@@ -1,0 +1,1 @@
+{"channel": "orniitorenk", "avg_viewers": 0, "followers_gained": 11, "peak_viewers": 4, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "Turkish", "account_age": 1689120.0}

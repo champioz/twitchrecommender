@@ -1,0 +1,1 @@
+{"channel": "haminah0117", "avg_viewers": 31, "followers_gained": 1, "peak_viewers": 66, "hours_streamed": 167, "streams": 29, "mature": 0, "language": "Korean", "account_age": 1369440.0}

@@ -1,0 +1,1 @@
+{"channel": "amundno", "avg_viewers": 6, "followers_gained": 58, "peak_viewers": 27, "hours_streamed": 95, "streams": 25, "mature": 1, "language": "Norwegian", "account_age": 1118880.0}

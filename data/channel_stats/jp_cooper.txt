@@ -1,0 +1,1 @@
+{"channel": "jp_cooper", "avg_viewers": 7, "followers_gained": 4, "peak_viewers": 20, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "Norwegian", "account_age": 162720.0}

@@ -1,0 +1,1 @@
+{"channel": "uniiprod", "avg_viewers": 60, "followers_gained": 151, "peak_viewers": 125, "hours_streamed": 48, "streams": 12, "mature": 1, "language": "French", "account_age": 1896480.0}

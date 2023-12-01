@@ -1,0 +1,1 @@
+{"channel": "sidenrage", "avg_viewers": 21, "followers_gained": 53, "peak_viewers": 47, "hours_streamed": 51, "streams": 17, "mature": 0, "language": "Russian", "account_age": 1370880.0}

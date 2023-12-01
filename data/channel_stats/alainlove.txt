@@ -1,0 +1,1 @@
+{"channel": "alainlove", "avg_viewers": 14, "followers_gained": 126, "peak_viewers": 33, "hours_streamed": 113, "streams": 15, "mature": 1, "language": "Spanish", "account_age": 1644480.0}

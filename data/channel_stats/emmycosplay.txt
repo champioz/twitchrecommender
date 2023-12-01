@@ -1,0 +1,1 @@
+{"channel": "emmycosplay", "avg_viewers": 10, "followers_gained": 34, "peak_viewers": 39, "hours_streamed": 20, "streams": 8, "mature": 0, "language": "English", "account_age": 1069920.0}

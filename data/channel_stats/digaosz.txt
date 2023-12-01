@@ -1,0 +1,1 @@
+{"channel": "digaosz", "avg_viewers": 5, "followers_gained": 116, "peak_viewers": 290, "hours_streamed": 160, "streams": 27, "mature": 1, "language": "Portuguese", "account_age": 2980800.0}

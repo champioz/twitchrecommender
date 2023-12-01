@@ -1,0 +1,1 @@
+{"channel": "thekingpuff", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 7, "hours_streamed": 52, "streams": 13, "mature": 0, "language": "English", "account_age": 1684800.0}

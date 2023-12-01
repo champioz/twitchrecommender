@@ -1,0 +1,1 @@
+{"channel": "raknor1", "avg_viewers": 11, "followers_gained": 91, "peak_viewers": 25, "hours_streamed": 134, "streams": 35, "mature": 1, "language": "Portuguese", "account_age": 917280.0}

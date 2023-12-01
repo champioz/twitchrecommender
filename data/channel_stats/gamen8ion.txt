@@ -1,0 +1,1 @@
+{"channel": "gamen8ion", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 12, "hours_streamed": 110, "streams": 35, "mature": 1, "language": "English", "account_age": 3532320.0}

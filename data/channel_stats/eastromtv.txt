@@ -1,0 +1,1 @@
+{"channel": "eastromtv", "avg_viewers": 3, "followers_gained": 23, "peak_viewers": 11, "hours_streamed": 14, "streams": 7, "mature": 0, "language": "Turkish", "account_age": 594720.0}

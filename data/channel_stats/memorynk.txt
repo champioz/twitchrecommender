@@ -1,0 +1,1 @@
+{"channel": "memorynk", "avg_viewers": 9, "followers_gained": 29, "peak_viewers": 24, "hours_streamed": 11, "streams": 8, "mature": 0, "language": "English", "account_age": 1710720.0}

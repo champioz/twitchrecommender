@@ -1,0 +1,1 @@
+{"channel": "controllerbyte", "avg_viewers": 39, "followers_gained": 72, "peak_viewers": 145, "hours_streamed": 120, "streams": 19, "mature": 1, "language": "Greek", "account_age": 2206080.0}

@@ -1,0 +1,1 @@
+{"channel": "sinstr1", "avg_viewers": 9, "followers_gained": 63, "peak_viewers": 42, "hours_streamed": 85, "streams": 24, "mature": 0, "language": "English", "account_age": 2651040.0}

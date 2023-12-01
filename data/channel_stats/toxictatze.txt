@@ -1,0 +1,1 @@
+{"channel": "toxictatze", "avg_viewers": 18, "followers_gained": 21, "peak_viewers": 45, "hours_streamed": 57, "streams": 17, "mature": 1, "language": "German", "account_age": 2561760.0}

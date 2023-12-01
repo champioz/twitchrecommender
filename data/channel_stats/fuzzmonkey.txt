@@ -1,0 +1,1 @@
+{"channel": "fuzzmonkey", "avg_viewers": 68, "followers_gained": 76, "peak_viewers": 185, "hours_streamed": 138, "streams": 28, "mature": 0, "language": "English", "account_age": 3396960.0}

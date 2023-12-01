@@ -1,0 +1,1 @@
+{"channel": "seducedbyasiren", "avg_viewers": 3, "followers_gained": 52, "peak_viewers": 16, "hours_streamed": 100, "streams": 18, "mature": 1, "language": "Spanish", "account_age": 2964960.0}

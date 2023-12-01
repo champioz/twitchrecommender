@@ -1,0 +1,1 @@
+{"channel": "unarmedd", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 11, "hours_streamed": 77, "streams": 26, "mature": 0, "language": "English", "account_age": 3132000.0}

@@ -1,0 +1,1 @@
+{"channel": "kezian31", "avg_viewers": 10, "followers_gained": 39, "peak_viewers": 31, "hours_streamed": 156, "streams": 21, "mature": 0, "language": "French", "account_age": 2880000.0}

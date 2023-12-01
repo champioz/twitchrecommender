@@ -1,0 +1,1 @@
+{"channel": "sorcererdave", "avg_viewers": 65, "followers_gained": 17, "peak_viewers": 106, "hours_streamed": 23, "streams": 9, "mature": 1, "language": "English", "account_age": 2921760.0}

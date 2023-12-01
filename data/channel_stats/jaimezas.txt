@@ -1,0 +1,1 @@
+{"channel": "jaimezas", "avg_viewers": 10, "followers_gained": 14, "peak_viewers": 20, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 1234080.0}

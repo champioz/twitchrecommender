@@ -1,0 +1,1 @@
+{"channel": "marcyhyde", "avg_viewers": 7, "followers_gained": 53, "peak_viewers": 35, "hours_streamed": 150, "streams": 28, "mature": 0, "language": "English", "account_age": 1866240.0}

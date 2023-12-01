@@ -1,0 +1,1 @@
+{"channel": "mairantv", "avg_viewers": 1, "followers_gained": 30, "peak_viewers": 28, "hours_streamed": 67, "streams": 32, "mature": 0, "language": "Russian", "account_age": 1265760.0}

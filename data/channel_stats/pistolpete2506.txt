@@ -1,0 +1,1 @@
+{"channel": "pistolpete2506", "avg_viewers": 136, "followers_gained": 794, "peak_viewers": 1062, "hours_streamed": 126, "streams": 19, "mature": 1, "language": "English", "account_age": 2198880.0}

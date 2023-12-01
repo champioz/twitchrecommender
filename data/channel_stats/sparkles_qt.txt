@@ -1,0 +1,1 @@
+{"channel": "sparkles_qt", "avg_viewers": 124, "followers_gained": 2180, "peak_viewers": 284, "hours_streamed": 149, "streams": 33, "mature": 0, "language": "English", "account_age": 1059840.0}

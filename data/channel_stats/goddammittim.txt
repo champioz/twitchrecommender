@@ -1,0 +1,1 @@
+{"channel": "goddammittim", "avg_viewers": 94, "followers_gained": 1579, "peak_viewers": 6978, "hours_streamed": 117, "streams": 23, "mature": 0, "language": "English", "account_age": 2882880.0}

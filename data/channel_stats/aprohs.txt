@@ -1,0 +1,1 @@
+{"channel": "aprohs", "avg_viewers": 51, "followers_gained": 15, "peak_viewers": 175, "hours_streamed": 109, "streams": 22, "mature": 1, "language": "Polish", "account_age": 3571200.0}

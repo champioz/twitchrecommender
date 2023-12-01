@@ -1,0 +1,1 @@
+{"channel": "fabelay", "avg_viewers": 6, "followers_gained": 18, "peak_viewers": 20, "hours_streamed": 29, "streams": 10, "mature": 1, "language": "German", "account_age": 1952640.0}

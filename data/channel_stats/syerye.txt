@@ -1,0 +1,1 @@
+{"channel": "syerye", "avg_viewers": 11, "followers_gained": 32, "peak_viewers": 118, "hours_streamed": 238, "streams": 31, "mature": 1, "language": "English", "account_age": 3849120.0}

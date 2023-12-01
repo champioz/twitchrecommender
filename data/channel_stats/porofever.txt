@@ -1,0 +1,1 @@
+{"channel": "porofever", "avg_viewers": 7, "followers_gained": 52, "peak_viewers": 87, "hours_streamed": 72, "streams": 20, "mature": 1, "language": "Spanish", "account_age": 1301760.0}

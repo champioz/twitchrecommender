@@ -1,0 +1,1 @@
+{"channel": "romanbabayan", "avg_viewers": 46, "followers_gained": 18, "peak_viewers": 133, "hours_streamed": 243, "streams": 44, "mature": 0, "language": "Russian", "account_age": 1837440.0}

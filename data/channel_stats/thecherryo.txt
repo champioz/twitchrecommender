@@ -1,0 +1,1 @@
+{"channel": "thecherryo", "avg_viewers": 122, "followers_gained": 856, "peak_viewers": 279, "hours_streamed": 109, "streams": 18, "mature": 0, "language": "English", "account_age": 2203200.0}

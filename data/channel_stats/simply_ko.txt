@@ -1,0 +1,1 @@
+{"channel": "simply_ko", "avg_viewers": 6, "followers_gained": 31, "peak_viewers": 21, "hours_streamed": 36, "streams": 13, "mature": 0, "language": "English", "account_age": 460800.0}

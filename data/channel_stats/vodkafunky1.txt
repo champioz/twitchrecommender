@@ -1,0 +1,1 @@
+{"channel": "vodkafunky1", "avg_viewers": 245, "followers_gained": 3208, "peak_viewers": 376, "hours_streamed": 30, "streams": 12, "mature": 1, "language": "Arabic", "account_age": 3624480.0}

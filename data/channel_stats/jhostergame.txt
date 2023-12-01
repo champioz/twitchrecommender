@@ -1,0 +1,1 @@
+{"channel": "jhostergame", "avg_viewers": 6, "followers_gained": 259, "peak_viewers": 20, "hours_streamed": 98, "streams": 36, "mature": 0, "language": "Spanish", "account_age": 1156320.0}

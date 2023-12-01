@@ -1,0 +1,1 @@
+{"channel": "rickreds", "avg_viewers": 14, "followers_gained": 22, "peak_viewers": 53, "hours_streamed": 18, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 2966400.0}

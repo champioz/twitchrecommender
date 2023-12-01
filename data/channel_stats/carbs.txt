@@ -1,0 +1,1 @@
+{"channel": "carbs", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 41, "hours_streamed": 100, "streams": 22, "mature": 1, "language": "English", "account_age": 2842560.0}

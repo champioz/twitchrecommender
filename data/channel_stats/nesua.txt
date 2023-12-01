@@ -1,0 +1,1 @@
+{"channel": "nesua", "avg_viewers": 12, "followers_gained": 38, "peak_viewers": 239, "hours_streamed": 137, "streams": 26, "mature": 0, "language": "English", "account_age": 1762560.0}

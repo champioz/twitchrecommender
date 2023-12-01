@@ -1,0 +1,1 @@
+{"channel": "woodworker80", "avg_viewers": 11, "followers_gained": 56, "peak_viewers": 32, "hours_streamed": 113, "streams": 18, "mature": 1, "language": "English", "account_age": 1222560.0}

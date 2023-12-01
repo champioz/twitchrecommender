@@ -1,0 +1,1 @@
+{"channel": "lucky1x", "avg_viewers": 10, "followers_gained": 6, "peak_viewers": 27, "hours_streamed": 54, "streams": 22, "mature": 0, "language": "English", "account_age": 3070080.0}

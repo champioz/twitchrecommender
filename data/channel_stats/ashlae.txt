@@ -1,0 +1,1 @@
+{"channel": "ashlae", "avg_viewers": 12, "followers_gained": 20, "peak_viewers": 23, "hours_streamed": 23, "streams": 4, "mature": 0, "language": "English", "account_age": 1856160.0}

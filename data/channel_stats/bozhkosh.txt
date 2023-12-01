@@ -1,0 +1,1 @@
+{"channel": "bozhkosh", "avg_viewers": 11, "followers_gained": 280, "peak_viewers": 25, "hours_streamed": 115, "streams": 25, "mature": 1, "language": "Russian", "account_age": 1281600.0}

@@ -1,0 +1,1 @@
+{"channel": "pintipanda", "avg_viewers": 1237, "followers_gained": 12824, "peak_viewers": 3234, "hours_streamed": 80, "streams": 16, "mature": 0, "language": "Turkish", "account_age": 4148640.0}

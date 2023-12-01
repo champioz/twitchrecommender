@@ -1,0 +1,1 @@
+{"channel": "kbueno", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 9, "hours_streamed": 34, "streams": 8, "mature": 1, "language": "Turkish", "account_age": 2766240.0}

@@ -1,0 +1,1 @@
+{"channel": "man_of_the_rain", "avg_viewers": 14, "followers_gained": 1201, "peak_viewers": 236, "hours_streamed": 64, "streams": 17, "mature": 0, "language": "Russian", "account_age": 3133440.0}

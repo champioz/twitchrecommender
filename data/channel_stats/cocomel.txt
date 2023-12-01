@@ -1,0 +1,1 @@
+{"channel": "cocomel", "avg_viewers": 28, "followers_gained": 5371, "peak_viewers": 102, "hours_streamed": 105, "streams": 26, "mature": 1, "language": "Turkish", "account_age": 2564640.0}

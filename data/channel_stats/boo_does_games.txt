@@ -1,0 +1,1 @@
+{"channel": "boo_does_games", "avg_viewers": 5, "followers_gained": 23, "peak_viewers": 13, "hours_streamed": 57, "streams": 14, "mature": 1, "language": "English", "account_age": 1886400.0}

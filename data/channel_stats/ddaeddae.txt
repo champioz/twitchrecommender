@@ -1,0 +1,1 @@
+{"channel": "ddaeddae", "avg_viewers": 13, "followers_gained": 7, "peak_viewers": 33, "hours_streamed": 158, "streams": 22, "mature": 0, "language": "Korean", "account_age": 1238400.0}

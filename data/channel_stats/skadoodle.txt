@@ -1,0 +1,1 @@
+{"channel": "skadoodle", "avg_viewers": 1675, "followers_gained": 17344, "peak_viewers": 20985, "hours_streamed": 174, "streams": 22, "mature": 1, "language": "English", "account_age": 5312160.0}

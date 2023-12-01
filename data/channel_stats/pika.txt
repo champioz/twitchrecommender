@@ -1,0 +1,1 @@
+{"channel": "pika", "avg_viewers": 29, "followers_gained": 747, "peak_viewers": 178, "hours_streamed": 54, "streams": 22, "mature": 0, "language": "English", "account_age": 3218400.0}

@@ -1,0 +1,1 @@
+{"channel": "gorra2174", "avg_viewers": 19, "followers_gained": 37, "peak_viewers": 47, "hours_streamed": 136, "streams": 36, "mature": 1, "language": "Russian", "account_age": 571680.0}

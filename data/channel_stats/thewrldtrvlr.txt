@@ -1,0 +1,1 @@
+{"channel": "thewrldtrvlr", "avg_viewers": 8, "followers_gained": 8, "peak_viewers": 25, "hours_streamed": 47, "streams": 13, "mature": 0, "language": "English", "account_age": 1697760.0}

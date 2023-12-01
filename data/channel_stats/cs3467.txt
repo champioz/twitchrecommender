@@ -1,0 +1,1 @@
+{"channel": "cs3467", "avg_viewers": 186, "followers_gained": 18, "peak_viewers": 556, "hours_streamed": 64, "streams": 15, "mature": 0, "language": "Chinese", "account_age": 2367360.0}

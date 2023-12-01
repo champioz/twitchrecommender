@@ -1,0 +1,1 @@
+{"channel": "setback_", "avg_viewers": 51, "followers_gained": 46, "peak_viewers": 108, "hours_streamed": 46, "streams": 13, "mature": 0, "language": "English", "account_age": 3601440.0}

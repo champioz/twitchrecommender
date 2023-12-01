@@ -1,0 +1,1 @@
+{"channel": "ron_plays_games", "avg_viewers": 348, "followers_gained": 511, "peak_viewers": 1412, "hours_streamed": 149, "streams": 23, "mature": 1, "language": "English", "account_age": 1676160.0}

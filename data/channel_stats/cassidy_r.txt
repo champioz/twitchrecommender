@@ -1,0 +1,1 @@
+{"channel": "cassidy_r", "avg_viewers": 7, "followers_gained": 22, "peak_viewers": 26, "hours_streamed": 48, "streams": 11, "mature": 1, "language": "English", "account_age": 2067840.0}

@@ -1,0 +1,1 @@
+{"channel": "wewantthewin", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 5, "hours_streamed": 9, "streams": 6, "mature": 0, "language": "French", "account_age": 1640160.0}

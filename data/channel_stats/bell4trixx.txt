@@ -1,0 +1,1 @@
+{"channel": "bell4trixx", "avg_viewers": 20, "followers_gained": 19, "peak_viewers": 65, "hours_streamed": 26, "streams": 7, "mature": 1, "language": "English", "account_age": 1582560.0}

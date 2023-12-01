@@ -1,0 +1,1 @@
+{"channel": "m_saster", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 15, "hours_streamed": 34, "streams": 8, "mature": 1, "language": "French", "account_age": 2283840.0}

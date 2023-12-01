@@ -1,0 +1,1 @@
+{"channel": "kharniverous", "avg_viewers": 16, "followers_gained": 1, "peak_viewers": 33, "hours_streamed": 14, "streams": 7, "mature": 1, "language": "English", "account_age": 3578400.0}

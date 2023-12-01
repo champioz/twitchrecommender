@@ -1,0 +1,1 @@
+{"channel": "shale1989", "avg_viewers": 15, "followers_gained": 7, "peak_viewers": 31, "hours_streamed": 58, "streams": 12, "mature": 1, "language": "German", "account_age": 1735200.0}

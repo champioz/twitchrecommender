@@ -1,0 +1,1 @@
+{"channel": "queenmisrule", "avg_viewers": 150, "followers_gained": 181, "peak_viewers": 241, "hours_streamed": 78, "streams": 22, "mature": 0, "language": "English", "account_age": 2397600.0}

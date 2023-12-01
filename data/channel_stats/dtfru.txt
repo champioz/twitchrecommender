@@ -1,0 +1,1 @@
+{"channel": "dtfru", "avg_viewers": 276, "followers_gained": 970, "peak_viewers": 1500, "hours_streamed": 126, "streams": 49, "mature": 0, "language": "Russian", "account_age": 1406880.0}

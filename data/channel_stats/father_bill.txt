@@ -1,0 +1,1 @@
+{"channel": "father_bill", "avg_viewers": 30, "followers_gained": 110, "peak_viewers": 323, "hours_streamed": 107, "streams": 30, "mature": 0, "language": "English", "account_age": 2651040.0}

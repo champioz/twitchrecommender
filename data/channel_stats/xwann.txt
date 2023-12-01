@@ -1,0 +1,1 @@
+{"channel": "xwann", "avg_viewers": 10, "followers_gained": 199, "peak_viewers": 57, "hours_streamed": 146, "streams": 47, "mature": 1, "language": "Turkish", "account_age": 3260160.0}

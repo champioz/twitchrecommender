@@ -1,0 +1,1 @@
+{"channel": "ssteckel", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 24, "streams": 16, "mature": 1, "language": "Danish", "account_age": 3477600.0}

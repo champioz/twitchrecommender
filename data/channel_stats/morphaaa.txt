@@ -1,0 +1,1 @@
+{"channel": "morphaaa", "avg_viewers": 7, "followers_gained": 12, "peak_viewers": 23, "hours_streamed": 246, "streams": 30, "mature": 0, "language": "English", "account_age": 2865600.0}

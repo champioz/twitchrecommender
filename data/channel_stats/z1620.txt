@@ -1,0 +1,1 @@
+{"channel": "z1620", "avg_viewers": 16, "followers_gained": 154, "peak_viewers": 90, "hours_streamed": 153, "streams": 27, "mature": 1, "language": "English", "account_age": 2622240.0}

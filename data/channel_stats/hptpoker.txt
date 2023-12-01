@@ -1,0 +1,1 @@
+{"channel": "hptpoker", "avg_viewers": 235, "followers_gained": 14, "peak_viewers": 293, "hours_streamed": 6, "streams": 1, "mature": 0, "language": "English", "account_age": 2354400.0}

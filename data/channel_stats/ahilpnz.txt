@@ -1,0 +1,1 @@
+{"channel": "ahilpnz", "avg_viewers": 7, "followers_gained": 97, "peak_viewers": 27, "hours_streamed": 188, "streams": 27, "mature": 0, "language": "Russian", "account_age": 3437280.0}

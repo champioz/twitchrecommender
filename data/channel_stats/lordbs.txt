@@ -1,0 +1,1 @@
+{"channel": "lordbs", "avg_viewers": 40, "followers_gained": 175, "peak_viewers": 190, "hours_streamed": 215, "streams": 29, "mature": 0, "language": "Turkish", "account_age": 3376800.0}

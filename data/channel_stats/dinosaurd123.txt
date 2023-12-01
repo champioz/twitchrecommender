@@ -1,0 +1,1 @@
+{"channel": "dinosaurd123", "avg_viewers": 10, "followers_gained": 1, "peak_viewers": 23, "hours_streamed": 16, "streams": 5, "mature": 0, "language": "English", "account_age": 2485440.0}

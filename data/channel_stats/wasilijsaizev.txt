@@ -1,0 +1,1 @@
+{"channel": "wasilijsaizev", "avg_viewers": 59, "followers_gained": 27, "peak_viewers": 212, "hours_streamed": 67, "streams": 22, "mature": 0, "language": "German", "account_age": 3100320.0}

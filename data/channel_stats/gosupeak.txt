@@ -1,0 +1,1 @@
+{"channel": "gosupeak", "avg_viewers": 19, "followers_gained": 70, "peak_viewers": 96, "hours_streamed": 123, "streams": 27, "mature": 0, "language": "English", "account_age": 1906560.0}

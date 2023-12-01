@@ -1,0 +1,1 @@
+{"channel": "game_revolution", "avg_viewers": 297, "followers_gained": 31, "peak_viewers": 502, "hours_streamed": 24, "streams": 20, "mature": 0, "language": "English", "account_age": 2914560.0}

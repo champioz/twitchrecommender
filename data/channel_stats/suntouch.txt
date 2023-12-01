@@ -1,0 +1,1 @@
+{"channel": "suntouch", "avg_viewers": 63, "followers_gained": 247, "peak_viewers": 759, "hours_streamed": 109, "streams": 24, "mature": 0, "language": "English", "account_age": 5891040.0}

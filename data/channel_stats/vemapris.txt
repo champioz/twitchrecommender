@@ -1,0 +1,1 @@
+{"channel": "vemapris", "avg_viewers": 14, "followers_gained": 3, "peak_viewers": 31, "hours_streamed": 17, "streams": 5, "mature": 1, "language": "English", "account_age": 2391840.0}

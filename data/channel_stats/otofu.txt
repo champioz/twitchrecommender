@@ -1,0 +1,1 @@
+{"channel": "otofu", "avg_viewers": 114, "followers_gained": 54, "peak_viewers": 198, "hours_streamed": 31, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 2701440.0}

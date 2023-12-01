@@ -1,0 +1,1 @@
+{"channel": "lusorkoeffizient", "avg_viewers": 505, "followers_gained": 3552, "peak_viewers": 1317, "hours_streamed": 57, "streams": 18, "mature": 0, "language": "German", "account_age": 2502720.0}

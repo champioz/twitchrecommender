@@ -1,0 +1,1 @@
+{"channel": "kotyaan", "avg_viewers": 48, "followers_gained": 148, "peak_viewers": 856, "hours_streamed": 66, "streams": 27, "mature": 0, "language": "Russian", "account_age": 416160.0}

@@ -1,0 +1,1 @@
+{"channel": "s3ga95", "avg_viewers": 5, "followers_gained": 15, "peak_viewers": 18, "hours_streamed": 60, "streams": 24, "mature": 0, "language": "Russian", "account_age": 436320.0}

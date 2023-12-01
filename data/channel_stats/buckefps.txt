@@ -1,0 +1,1 @@
+{"channel": "buckefps", "avg_viewers": 169, "followers_gained": 8137, "peak_viewers": 4357, "hours_streamed": 181, "streams": 26, "mature": 0, "language": "English", "account_age": 1751040.0}

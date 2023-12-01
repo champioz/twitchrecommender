@@ -1,0 +1,1 @@
+{"channel": "pikabooirl", "avg_viewers": 1745, "followers_gained": 3507, "peak_viewers": 4838, "hours_streamed": 112, "streams": 30, "mature": 0, "language": "English", "account_age": 3936960.0}

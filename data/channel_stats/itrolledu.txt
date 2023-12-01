@@ -1,0 +1,1 @@
+{"channel": "itrolledu", "avg_viewers": 166, "followers_gained": 209, "peak_viewers": 346, "hours_streamed": 229, "streams": 29, "mature": 1, "language": "English", "account_age": 4127040.0}

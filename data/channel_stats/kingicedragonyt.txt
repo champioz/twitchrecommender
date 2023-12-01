@@ -1,0 +1,1 @@
+{"channel": "kingicedragonyt", "avg_viewers": 1, "followers_gained": 80, "peak_viewers": 11, "hours_streamed": 240, "streams": 59, "mature": 0, "language": "English", "account_age": 348480.0}

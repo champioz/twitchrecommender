@@ -1,0 +1,1 @@
+{"channel": "chelibob", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 9, "hours_streamed": 29, "streams": 9, "mature": 0, "language": "Russian", "account_age": 2659680.0}

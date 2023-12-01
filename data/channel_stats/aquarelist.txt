@@ -1,0 +1,1 @@
+{"channel": "aquarelist", "avg_viewers": 10, "followers_gained": 64, "peak_viewers": 24, "hours_streamed": 20, "streams": 8, "mature": 0, "language": "German", "account_age": 1432800.0}

@@ -1,0 +1,1 @@
+{"channel": "thebozzyman", "avg_viewers": 16, "followers_gained": 353, "peak_viewers": 276, "hours_streamed": 109, "streams": 20, "mature": 0, "language": "English", "account_age": 1362240.0}

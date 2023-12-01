@@ -1,0 +1,1 @@
+{"channel": "huokec", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 21, "streams": 5, "mature": 1, "language": "Chinese", "account_age": 2848320.0}

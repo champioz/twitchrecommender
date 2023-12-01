@@ -1,0 +1,1 @@
+{"channel": "crateentertainment", "avg_viewers": 228, "followers_gained": 7, "peak_viewers": 292, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 1808640.0}

@@ -1,0 +1,1 @@
+{"channel": "s0ulsaint", "avg_viewers": 10, "followers_gained": 33, "peak_viewers": 21, "hours_streamed": 141, "streams": 23, "mature": 0, "language": "English", "account_age": 2888640.0}

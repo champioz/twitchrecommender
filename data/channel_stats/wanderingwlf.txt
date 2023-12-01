@@ -1,0 +1,1 @@
+{"channel": "wanderingwlf", "avg_viewers": 12, "followers_gained": 71, "peak_viewers": 45, "hours_streamed": 233, "streams": 43, "mature": 0, "language": "English", "account_age": 5294880.0}

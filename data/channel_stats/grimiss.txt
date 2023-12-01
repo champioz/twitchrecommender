@@ -1,0 +1,1 @@
+{"channel": "grimiss", "avg_viewers": 24, "followers_gained": 47, "peak_viewers": 191, "hours_streamed": 126, "streams": 20, "mature": 1, "language": "English", "account_age": 3951360.0}

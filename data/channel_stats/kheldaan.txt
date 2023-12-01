@@ -1,0 +1,1 @@
+{"channel": "kheldaan", "avg_viewers": 17, "followers_gained": 121, "peak_viewers": 48, "hours_streamed": 119, "streams": 24, "mature": 0, "language": "French", "account_age": 3294720.0}

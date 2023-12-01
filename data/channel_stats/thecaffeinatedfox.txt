@@ -1,0 +1,1 @@
+{"channel": "thecaffeinatedfox", "avg_viewers": 26, "followers_gained": 562, "peak_viewers": 460, "hours_streamed": 241, "streams": 31, "mature": 1, "language": "English", "account_age": 2377440.0}

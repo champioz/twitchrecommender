@@ -1,0 +1,1 @@
+{"channel": "nathann_t", "avg_viewers": 8, "followers_gained": 1, "peak_viewers": 21, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "English", "account_age": 1529280.0}

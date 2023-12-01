@@ -1,0 +1,1 @@
+{"channel": "tankzor", "avg_viewers": 9, "followers_gained": 7, "peak_viewers": 19, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Russian", "account_age": 3041280.0}

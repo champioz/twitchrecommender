@@ -1,0 +1,1 @@
+{"channel": "kongerlive", "avg_viewers": 10, "followers_gained": 20, "peak_viewers": 28, "hours_streamed": 41, "streams": 12, "mature": 0, "language": "Thai", "account_age": 1323360.0}

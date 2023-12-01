@@ -1,0 +1,1 @@
+{"channel": "leftycb", "avg_viewers": 5, "followers_gained": 101, "peak_viewers": 19, "hours_streamed": 213, "streams": 61, "mature": 0, "language": "English", "account_age": 946080.0}

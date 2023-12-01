@@ -1,0 +1,1 @@
+{"channel": "fearitself", "avg_viewers": 349, "followers_gained": 3468, "peak_viewers": 8327, "hours_streamed": 129, "streams": 29, "mature": 0, "language": "English", "account_age": 5683680.0}

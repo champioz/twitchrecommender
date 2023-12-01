@@ -1,0 +1,1 @@
+{"channel": "game_art_101", "avg_viewers": 6, "followers_gained": 58, "peak_viewers": 19, "hours_streamed": 92, "streams": 22, "mature": 1, "language": "English", "account_age": 1918080.0}

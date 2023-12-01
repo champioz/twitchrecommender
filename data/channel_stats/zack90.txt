@@ -1,0 +1,1 @@
+{"channel": "zack90", "avg_viewers": 2, "followers_gained": 50, "peak_viewers": 10, "hours_streamed": 187, "streams": 63, "mature": 0, "language": "Italian", "account_age": 744480.0}

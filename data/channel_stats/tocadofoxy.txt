@@ -1,0 +1,1 @@
+{"channel": "tocadofoxy", "avg_viewers": 36, "followers_gained": 925, "peak_viewers": 74, "hours_streamed": 51, "streams": 14, "mature": 0, "language": "Portuguese", "account_age": 1362240.0}

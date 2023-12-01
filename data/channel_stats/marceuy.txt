@@ -1,0 +1,1 @@
+{"channel": "marceuy", "avg_viewers": 12, "followers_gained": 44, "peak_viewers": 33, "hours_streamed": 29, "streams": 10, "mature": 1, "language": "Spanish", "account_age": 1733760.0}

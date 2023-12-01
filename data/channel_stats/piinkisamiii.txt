@@ -1,0 +1,1 @@
+{"channel": "piinkisamiii", "avg_viewers": 42, "followers_gained": 131, "peak_viewers": 77, "hours_streamed": 25, "streams": 7, "mature": 1, "language": "French", "account_age": 1330560.0}

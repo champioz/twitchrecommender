@@ -1,0 +1,1 @@
+{"channel": "avatarinator_", "avg_viewers": 16, "followers_gained": 5, "peak_viewers": 27, "hours_streamed": 4, "streams": 2, "mature": 1, "language": "English", "account_age": 1712160.0}

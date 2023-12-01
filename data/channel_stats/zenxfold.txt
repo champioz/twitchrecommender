@@ -1,0 +1,1 @@
+{"channel": "zenxfold", "avg_viewers": 11, "followers_gained": 7, "peak_viewers": 101, "hours_streamed": 42, "streams": 11, "mature": 1, "language": "English", "account_age": 1644480.0}

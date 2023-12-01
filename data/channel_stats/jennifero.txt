@@ -1,0 +1,1 @@
+{"channel": "jennifero", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 4, "hours_streamed": 12, "streams": 14, "mature": 1, "language": "Portuguese", "account_age": 2106720.0}

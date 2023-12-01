@@ -1,0 +1,1 @@
+{"channel": "ioncc87", "avg_viewers": 24, "followers_gained": 14, "peak_viewers": 41, "hours_streamed": 58, "streams": 16, "mature": 1, "language": "Korean", "account_age": 1294560.0}

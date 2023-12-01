@@ -1,0 +1,1 @@
+{"channel": "granraigan", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 1480320.0}

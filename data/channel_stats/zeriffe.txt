@@ -1,0 +1,1 @@
+{"channel": "zeriffe", "avg_viewers": 7, "followers_gained": 1915, "peak_viewers": 157, "hours_streamed": 109, "streams": 14, "mature": 1, "language": "English", "account_age": 637920.0}

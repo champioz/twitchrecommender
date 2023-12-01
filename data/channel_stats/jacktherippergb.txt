@@ -1,0 +1,1 @@
+{"channel": "jacktherippergb", "avg_viewers": 15, "followers_gained": 44, "peak_viewers": 30, "hours_streamed": 56, "streams": 14, "mature": 0, "language": "English", "account_age": 2386080.0}

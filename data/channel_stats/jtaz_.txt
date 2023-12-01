@@ -1,0 +1,1 @@
+{"channel": "jtaz_", "avg_viewers": 242, "followers_gained": 2114, "peak_viewers": 481, "hours_streamed": 101, "streams": 27, "mature": 0, "language": "Italian", "account_age": 2705760.0}

@@ -1,0 +1,1 @@
+{"channel": "hunter0618", "avg_viewers": 8, "followers_gained": 47, "peak_viewers": 28, "hours_streamed": 93, "streams": 23, "mature": 0, "language": "Korean", "account_age": 600480.0}

@@ -1,0 +1,1 @@
+{"channel": "hansol", "avg_viewers": 93, "followers_gained": 80, "peak_viewers": 355, "hours_streamed": 31, "streams": 10, "mature": 0, "language": "English", "account_age": 3925440.0}

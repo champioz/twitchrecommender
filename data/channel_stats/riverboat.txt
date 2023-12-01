@@ -1,0 +1,1 @@
+{"channel": "riverboat", "avg_viewers": 39, "followers_gained": 117, "peak_viewers": 228, "hours_streamed": 34, "streams": 16, "mature": 0, "language": "Turkish", "account_age": 1872000.0}

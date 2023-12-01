@@ -1,0 +1,1 @@
+{"channel": "talic1337", "avg_viewers": 9, "followers_gained": 1, "peak_viewers": 30, "hours_streamed": 136, "streams": 23, "mature": 0, "language": "English", "account_age": 2043360.0}

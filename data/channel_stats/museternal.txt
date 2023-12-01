@@ -1,0 +1,1 @@
+{"channel": "museternal", "avg_viewers": 7, "followers_gained": 147, "peak_viewers": 20, "hours_streamed": 176, "streams": 27, "mature": 1, "language": "French", "account_age": 1863360.0}

@@ -1,0 +1,1 @@
+{"channel": "baiogh", "avg_viewers": 5, "followers_gained": 34, "peak_viewers": 38, "hours_streamed": 75, "streams": 29, "mature": 0, "language": "Italian", "account_age": 4235040.0}

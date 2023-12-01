@@ -1,0 +1,1 @@
+{"channel": "fuzzylogictv", "avg_viewers": 10, "followers_gained": 86, "peak_viewers": 42, "hours_streamed": 57, "streams": 13, "mature": 0, "language": "English", "account_age": 1098720.0}

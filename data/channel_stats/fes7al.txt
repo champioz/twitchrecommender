@@ -1,0 +1,1 @@
+{"channel": "fes7al", "avg_viewers": 5, "followers_gained": 101, "peak_viewers": 100, "hours_streamed": 117, "streams": 32, "mature": 0, "language": "Russian", "account_age": 1722240.0}

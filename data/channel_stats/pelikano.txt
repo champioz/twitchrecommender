@@ -1,0 +1,1 @@
+{"channel": "pelikano", "avg_viewers": 21, "followers_gained": 15, "peak_viewers": 38, "hours_streamed": 24, "streams": 7, "mature": 1, "language": "German", "account_age": 2237760.0}

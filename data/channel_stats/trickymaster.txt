@@ -1,0 +1,1 @@
+{"channel": "trickymaster", "avg_viewers": 15, "followers_gained": 137, "peak_viewers": 49, "hours_streamed": 251, "streams": 24, "mature": 1, "language": "French", "account_age": 3350880.0}

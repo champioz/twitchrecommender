@@ -1,0 +1,1 @@
+{"channel": "niakan", "avg_viewers": 12, "followers_gained": 24, "peak_viewers": 146, "hours_streamed": 12, "streams": 4, "mature": 0, "language": "English", "account_age": 3083040.0}

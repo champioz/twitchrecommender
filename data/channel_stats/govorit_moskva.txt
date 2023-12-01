@@ -1,0 +1,1 @@
+{"channel": "govorit_moskva", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 43, "hours_streamed": 720, "streams": 36, "mature": 0, "language": "Russian", "account_age": 1336320.0}

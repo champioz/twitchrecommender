@@ -1,0 +1,1 @@
+{"channel": "jodenstone", "avg_viewers": 93, "followers_gained": 212, "peak_viewers": 330, "hours_streamed": 97, "streams": 34, "mature": 0, "language": "English", "account_age": 4364640.0}

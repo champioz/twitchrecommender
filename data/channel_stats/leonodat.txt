@@ -1,0 +1,1 @@
+{"channel": "leonodat", "avg_viewers": 48, "followers_gained": 1152, "peak_viewers": 185, "hours_streamed": 120, "streams": 41, "mature": 1, "language": "Spanish", "account_age": 1360800.0}

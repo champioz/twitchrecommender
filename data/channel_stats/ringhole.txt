@@ -1,0 +1,1 @@
+{"channel": "ringhole", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 15, "hours_streamed": 76, "streams": 29, "mature": 0, "language": "English", "account_age": 3173760.0}

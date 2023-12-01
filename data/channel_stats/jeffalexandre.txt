@@ -1,0 +1,1 @@
+{"channel": "jeffalexandre", "avg_viewers": 3, "followers_gained": 104, "peak_viewers": 32, "hours_streamed": 164, "streams": 40, "mature": 1, "language": "Portuguese", "account_age": 3016800.0}

@@ -1,0 +1,1 @@
+{"channel": "fororin", "avg_viewers": 10, "followers_gained": 6, "peak_viewers": 23, "hours_streamed": 50, "streams": 13, "mature": 0, "language": "Japanese", "account_age": 3515040.0}

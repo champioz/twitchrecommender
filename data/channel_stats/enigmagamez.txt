@@ -1,0 +1,1 @@
+{"channel": "enigmagamez", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 10, "hours_streamed": 61, "streams": 21, "mature": 1, "language": "English", "account_age": 2982240.0}

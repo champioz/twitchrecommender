@@ -1,0 +1,1 @@
+{"channel": "richgames72", "avg_viewers": 5, "followers_gained": 118, "peak_viewers": 27, "hours_streamed": 72, "streams": 39, "mature": 1, "language": "English", "account_age": 751680.0}

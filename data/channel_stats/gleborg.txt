@@ -1,0 +1,1 @@
+{"channel": "gleborg", "avg_viewers": 178, "followers_gained": 195, "peak_viewers": 312, "hours_streamed": 86, "streams": 32, "mature": 0, "language": "Russian", "account_age": 3860640.0}

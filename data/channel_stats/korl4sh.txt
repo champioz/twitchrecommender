@@ -1,0 +1,1 @@
+{"channel": "korl4sh", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 20, "hours_streamed": 82, "streams": 31, "mature": 1, "language": "Spanish", "account_age": 3948480.0}

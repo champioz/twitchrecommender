@@ -1,0 +1,1 @@
+{"channel": "kekkobomba", "avg_viewers": 416, "followers_gained": 8417, "peak_viewers": 861, "hours_streamed": 85, "streams": 24, "mature": 0, "language": "Italian", "account_age": 2174400.0}

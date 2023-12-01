@@ -1,0 +1,1 @@
+{"channel": "renzokumartin", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 6, "hours_streamed": 78, "streams": 20, "mature": 1, "language": "English", "account_age": 1728000.0}

@@ -1,0 +1,1 @@
+{"channel": "uzra", "avg_viewers": 3181, "followers_gained": 4119, "peak_viewers": 7612, "hours_streamed": 325, "streams": 37, "mature": 0, "language": "Chinese", "account_age": 4898880.0}

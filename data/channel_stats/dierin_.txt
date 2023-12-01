@@ -1,0 +1,1 @@
+{"channel": "dierin_", "avg_viewers": 30, "followers_gained": 110, "peak_viewers": 234, "hours_streamed": 72, "streams": 20, "mature": 1, "language": "English", "account_age": 1807200.0}

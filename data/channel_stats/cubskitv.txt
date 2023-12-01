@@ -1,0 +1,1 @@
+{"channel": "cubskitv", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 16, "hours_streamed": 182, "streams": 64, "mature": 0, "language": "English", "account_age": 891360.0}

@@ -1,0 +1,1 @@
+{"channel": "cld002", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 13, "streams": 9, "mature": 1, "language": "Spanish", "account_age": 1265760.0}

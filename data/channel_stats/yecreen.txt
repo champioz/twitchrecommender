@@ -1,0 +1,1 @@
+{"channel": "yecreen", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 19, "hours_streamed": 42, "streams": 18, "mature": 0, "language": "Japanese", "account_age": 2083680.0}

@@ -1,0 +1,1 @@
+{"channel": "noawwww", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 14, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "Chinese", "account_age": 1850400.0}

@@ -1,0 +1,1 @@
+{"channel": "ifrostbolt", "avg_viewers": 620, "followers_gained": 4609, "peak_viewers": 1296, "hours_streamed": 209, "streams": 27, "mature": 0, "language": "English", "account_age": 2420640.0}

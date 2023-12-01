@@ -1,0 +1,1 @@
+{"channel": "kikiisyourfriend", "avg_viewers": 12, "followers_gained": 3, "peak_viewers": 20, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "English", "account_age": 2900160.0}

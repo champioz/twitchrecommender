@@ -1,0 +1,1 @@
+{"channel": "crooklynkat", "avg_viewers": 25, "followers_gained": 27, "peak_viewers": 417, "hours_streamed": 102, "streams": 15, "mature": 1, "language": "English", "account_age": 2835360.0}

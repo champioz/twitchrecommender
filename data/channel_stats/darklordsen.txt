@@ -1,0 +1,1 @@
+{"channel": "darklordsen", "avg_viewers": 47, "followers_gained": 1, "peak_viewers": 715, "hours_streamed": 57, "streams": 13, "mature": 1, "language": "English", "account_age": 3752640.0}

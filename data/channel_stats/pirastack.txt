@@ -1,0 +1,1 @@
+{"channel": "pirastack", "avg_viewers": 21, "followers_gained": 935, "peak_viewers": 105, "hours_streamed": 183, "streams": 27, "mature": 0, "language": "French", "account_age": 2476800.0}

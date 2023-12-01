@@ -1,0 +1,1 @@
+{"channel": "die_inselgamer", "avg_viewers": 161, "followers_gained": 581, "peak_viewers": 235, "hours_streamed": 111, "streams": 22, "mature": 1, "language": "German", "account_age": 820800.0}

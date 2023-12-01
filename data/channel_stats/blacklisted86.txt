@@ -1,0 +1,1 @@
+{"channel": "blacklisted86", "avg_viewers": 39, "followers_gained": 34, "peak_viewers": 88, "hours_streamed": 92, "streams": 16, "mature": 1, "language": "English", "account_age": 2757600.0}

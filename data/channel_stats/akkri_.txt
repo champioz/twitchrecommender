@@ -1,0 +1,1 @@
+{"channel": "akkri_", "avg_viewers": 38, "followers_gained": 457, "peak_viewers": 334, "hours_streamed": 43, "streams": 13, "mature": 1, "language": "Russian", "account_age": 1880640.0}

@@ -1,0 +1,1 @@
+{"channel": "patraistv", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 26, "streams": 8, "mature": 0, "language": "Czech", "account_age": 1831680.0}

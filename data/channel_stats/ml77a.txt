@@ -1,0 +1,1 @@
+{"channel": "ml77a", "avg_viewers": 18, "followers_gained": 143, "peak_viewers": 29, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "Arabic", "account_age": 771840.0}

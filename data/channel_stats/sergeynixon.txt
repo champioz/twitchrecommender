@@ -1,0 +1,1 @@
+{"channel": "sergeynixon", "avg_viewers": 15, "followers_gained": 35, "peak_viewers": 123, "hours_streamed": 50, "streams": 22, "mature": 0, "language": "Russian", "account_age": 3189600.0}

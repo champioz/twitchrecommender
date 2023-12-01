@@ -1,0 +1,1 @@
+{"channel": "semente", "avg_viewers": 10, "followers_gained": 97, "peak_viewers": 30, "hours_streamed": 68, "streams": 20, "mature": 1, "language": "Portuguese", "account_age": 2435040.0}

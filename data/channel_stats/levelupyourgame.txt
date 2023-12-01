@@ -1,0 +1,1 @@
+{"channel": "levelupyourgame", "avg_viewers": 204, "followers_gained": 614, "peak_viewers": 1610, "hours_streamed": 160, "streams": 26, "mature": 0, "language": "English", "account_age": 4495680.0}

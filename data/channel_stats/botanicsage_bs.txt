@@ -1,0 +1,1 @@
+{"channel": "botanicsage_bs", "avg_viewers": 29, "followers_gained": 112, "peak_viewers": 135, "hours_streamed": 81, "streams": 18, "mature": 0, "language": "English", "account_age": 4968000.0}

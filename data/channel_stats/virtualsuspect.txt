@@ -1,0 +1,1 @@
+{"channel": "virtualsuspect", "avg_viewers": 7, "followers_gained": 302, "peak_viewers": 57, "hours_streamed": 183, "streams": 41, "mature": 1, "language": "French", "account_age": 1756800.0}

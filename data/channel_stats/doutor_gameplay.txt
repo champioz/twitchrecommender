@@ -1,0 +1,1 @@
+{"channel": "doutor_gameplay", "avg_viewers": 3, "followers_gained": 23, "peak_viewers": 12, "hours_streamed": 20, "streams": 8, "mature": 1, "language": "Portuguese", "account_age": 1710720.0}

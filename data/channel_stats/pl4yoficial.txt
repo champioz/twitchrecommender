@@ -1,0 +1,1 @@
+{"channel": "pl4yoficial", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 43, "hours_streamed": 36, "streams": 12, "mature": 1, "language": "Portuguese", "account_age": 897120.0}

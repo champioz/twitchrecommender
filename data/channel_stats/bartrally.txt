@@ -1,0 +1,1 @@
+{"channel": "bartrally", "avg_viewers": 11, "followers_gained": 0, "peak_viewers": 11, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 905760.0}

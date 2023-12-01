@@ -1,0 +1,1 @@
+{"channel": "batatacompepino", "avg_viewers": 61, "followers_gained": 0, "peak_viewers": 74, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 784800.0}

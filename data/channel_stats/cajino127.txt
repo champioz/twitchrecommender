@@ -1,0 +1,1 @@
+{"channel": "cajino127", "avg_viewers": 6, "followers_gained": 46, "peak_viewers": 26, "hours_streamed": 233, "streams": 30, "mature": 0, "language": "Korean", "account_age": 216000.0}

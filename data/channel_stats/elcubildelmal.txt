@@ -1,0 +1,1 @@
+{"channel": "elcubildelmal", "avg_viewers": 15, "followers_gained": 332, "peak_viewers": 379, "hours_streamed": 81, "streams": 34, "mature": 1, "language": "Spanish", "account_age": 1130400.0}

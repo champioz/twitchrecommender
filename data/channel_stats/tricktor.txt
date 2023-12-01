@@ -1,0 +1,1 @@
+{"channel": "tricktor", "avg_viewers": 40, "followers_gained": 56, "peak_viewers": 88, "hours_streamed": 123, "streams": 21, "mature": 1, "language": "Portuguese", "account_age": 3885120.0}

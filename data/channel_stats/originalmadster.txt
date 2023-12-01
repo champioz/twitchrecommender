@@ -1,0 +1,1 @@
+{"channel": "originalmadster", "avg_viewers": 0, "followers_gained": 10, "peak_viewers": 4, "hours_streamed": 77, "streams": 51, "mature": 0, "language": "English", "account_age": 3817440.0}

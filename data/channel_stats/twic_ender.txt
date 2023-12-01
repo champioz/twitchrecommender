@@ -1,0 +1,1 @@
+{"channel": "twic_ender", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 3, "hours_streamed": 7, "streams": 5, "mature": 1, "language": "French", "account_age": 2164320.0}

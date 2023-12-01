@@ -1,0 +1,1 @@
+{"channel": "nookyyy", "avg_viewers": 440, "followers_gained": 1143, "peak_viewers": 1340, "hours_streamed": 197, "streams": 23, "mature": 0, "language": "German", "account_age": 4137120.0}

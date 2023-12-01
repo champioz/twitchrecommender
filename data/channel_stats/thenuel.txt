@@ -1,0 +1,1 @@
+{"channel": "thenuel", "avg_viewers": 849, "followers_gained": 149, "peak_viewers": 1821, "hours_streamed": 29, "streams": 13, "mature": 0, "language": "English", "account_age": 3916800.0}

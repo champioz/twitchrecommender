@@ -1,0 +1,1 @@
+{"channel": "kittspresso", "avg_viewers": 70, "followers_gained": 304, "peak_viewers": 126, "hours_streamed": 91, "streams": 24, "mature": 1, "language": "English", "account_age": 2712960.0}

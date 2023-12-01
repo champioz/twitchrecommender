@@ -1,0 +1,1 @@
+{"channel": "alkan", "avg_viewers": 282, "followers_gained": 655, "peak_viewers": 756, "hours_streamed": 171, "streams": 31, "mature": 0, "language": "English", "account_age": 3363840.0}

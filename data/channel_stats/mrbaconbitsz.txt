@@ -1,0 +1,1 @@
+{"channel": "mrbaconbitsz", "avg_viewers": 3, "followers_gained": 10, "peak_viewers": 10, "hours_streamed": 72, "streams": 21, "mature": 0, "language": "English", "account_age": 2044800.0}

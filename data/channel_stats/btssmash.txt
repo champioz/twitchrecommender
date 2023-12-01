@@ -1,0 +1,1 @@
+{"channel": "btssmash", "avg_viewers": 114, "followers_gained": 674, "peak_viewers": 6425, "hours_streamed": 711, "streams": 14, "mature": 0, "language": "English", "account_age": 684000.0}

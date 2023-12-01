@@ -1,0 +1,1 @@
+{"channel": "bekeleletv", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 13, "hours_streamed": 20, "streams": 7, "mature": 1, "language": "English", "account_age": 603360.0}

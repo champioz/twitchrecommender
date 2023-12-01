@@ -1,0 +1,1 @@
+{"channel": "thehakon", "avg_viewers": 6, "followers_gained": 17, "peak_viewers": 15, "hours_streamed": 37, "streams": 16, "mature": 0, "language": "German", "account_age": 2080800.0}

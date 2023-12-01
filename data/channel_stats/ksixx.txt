@@ -1,0 +1,1 @@
+{"channel": "ksixx", "avg_viewers": 18, "followers_gained": 0, "peak_viewers": 22, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 3600000.0}

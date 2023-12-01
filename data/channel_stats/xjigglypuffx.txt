@@ -1,0 +1,1 @@
+{"channel": "xjigglypuffx", "avg_viewers": 13, "followers_gained": 85, "peak_viewers": 34, "hours_streamed": 124, "streams": 32, "mature": 0, "language": "Arabic", "account_age": 2613600.0}

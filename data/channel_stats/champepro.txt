@@ -1,0 +1,1 @@
+{"channel": "champepro", "avg_viewers": 119, "followers_gained": 148, "peak_viewers": 290, "hours_streamed": 28, "streams": 13, "mature": 0, "language": "Spanish", "account_age": 1307520.0}

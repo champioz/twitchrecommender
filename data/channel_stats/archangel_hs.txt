@@ -1,0 +1,1 @@
+{"channel": "archangel_hs", "avg_viewers": 707, "followers_gained": 6540, "peak_viewers": 1910, "hours_streamed": 123, "streams": 35, "mature": 0, "language": "Russian", "account_age": 2142720.0}

@@ -1,0 +1,1 @@
+{"channel": "hikori", "avg_viewers": 3, "followers_gained": 9, "peak_viewers": 14, "hours_streamed": 39, "streams": 25, "mature": 0, "language": "Russian", "account_age": 3756960.0}

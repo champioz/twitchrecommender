@@ -1,0 +1,1 @@
+{"channel": "turkiyemuhammedkarakustr", "avg_viewers": 3, "followers_gained": 54, "peak_viewers": 50, "hours_streamed": 23, "streams": 11, "mature": 0, "language": "Turkish", "account_age": 289440.0}

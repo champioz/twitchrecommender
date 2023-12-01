@@ -1,0 +1,1 @@
+{"channel": "nininyancat", "avg_viewers": 17, "followers_gained": 3684, "peak_viewers": 41, "hours_streamed": 41, "streams": 14, "mature": 1, "language": "Slovak", "account_age": 2476800.0}

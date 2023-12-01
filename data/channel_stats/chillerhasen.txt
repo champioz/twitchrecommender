@@ -1,0 +1,1 @@
+{"channel": "chillerhasen", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 54, "streams": 18, "mature": 1, "language": "German", "account_age": 2787840.0}

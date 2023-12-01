@@ -1,0 +1,1 @@
+{"channel": "insanelocket400", "avg_viewers": 4, "followers_gained": 117, "peak_viewers": 15, "hours_streamed": 85, "streams": 39, "mature": 0, "language": "Spanish", "account_age": 1337760.0}

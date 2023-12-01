@@ -1,0 +1,1 @@
+{"channel": "hellknee", "avg_viewers": 9, "followers_gained": 6, "peak_viewers": 26, "hours_streamed": 73, "streams": 18, "mature": 0, "language": "Japanese", "account_age": 244800.0}

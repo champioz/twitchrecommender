@@ -1,0 +1,1 @@
+{"channel": "surisen_", "avg_viewers": 8, "followers_gained": 37, "peak_viewers": 21, "hours_streamed": 33, "streams": 9, "mature": 0, "language": "German", "account_age": 1728000.0}

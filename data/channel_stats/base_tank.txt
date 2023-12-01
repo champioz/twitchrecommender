@@ -1,0 +1,1 @@
+{"channel": "base_tank", "avg_viewers": 43, "followers_gained": 112, "peak_viewers": 141, "hours_streamed": 114, "streams": 43, "mature": 1, "language": "English", "account_age": 1959840.0}

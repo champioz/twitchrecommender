@@ -1,0 +1,1 @@
+{"channel": "k3rk4i", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 22, "hours_streamed": 66, "streams": 29, "mature": 0, "language": "Russian", "account_age": 1859040.0}

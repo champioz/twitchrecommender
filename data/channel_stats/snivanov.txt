@@ -1,0 +1,1 @@
+{"channel": "snivanov", "avg_viewers": 5, "followers_gained": 113, "peak_viewers": 17, "hours_streamed": 44, "streams": 16, "mature": 0, "language": "Russian", "account_age": 3434400.0}

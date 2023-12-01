@@ -1,0 +1,1 @@
+{"channel": "whiteshark04", "avg_viewers": 10, "followers_gained": 7, "peak_viewers": 29, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Italian", "account_age": 3042720.0}

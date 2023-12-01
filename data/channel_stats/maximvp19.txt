@@ -1,0 +1,1 @@
+{"channel": "maximvp19", "avg_viewers": 5, "followers_gained": 21, "peak_viewers": 19, "hours_streamed": 7, "streams": 5, "mature": 0, "language": "Dutch", "account_age": 669600.0}

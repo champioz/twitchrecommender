@@ -1,0 +1,1 @@
+{"channel": "gifyourselfahighfive", "avg_viewers": 50, "followers_gained": 13, "peak_viewers": 102, "hours_streamed": 8, "streams": 3, "mature": 1, "language": "English", "account_age": 2390400.0}

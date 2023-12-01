@@ -1,0 +1,1 @@
+{"channel": "kusachiikot", "avg_viewers": 21, "followers_gained": 119, "peak_viewers": 70, "hours_streamed": 81, "streams": 22, "mature": 0, "language": "Russian", "account_age": 912960.0}

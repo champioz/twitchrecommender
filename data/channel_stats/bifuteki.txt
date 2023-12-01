@@ -1,0 +1,1 @@
+{"channel": "bifuteki", "avg_viewers": 34, "followers_gained": 82, "peak_viewers": 232, "hours_streamed": 31, "streams": 10, "mature": 0, "language": "English", "account_age": 4708800.0}

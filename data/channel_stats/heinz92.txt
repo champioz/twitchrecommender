@@ -1,0 +1,1 @@
+{"channel": "heinz92", "avg_viewers": 11, "followers_gained": 0, "peak_viewers": 20, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 3605760.0}

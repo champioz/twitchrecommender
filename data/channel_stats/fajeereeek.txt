@@ -1,0 +1,1 @@
+{"channel": "fajeereeek", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 10, "hours_streamed": 11, "streams": 7, "mature": 0, "language": "Polish", "account_age": 735840.0}

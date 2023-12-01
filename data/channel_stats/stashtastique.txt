@@ -1,0 +1,1 @@
+{"channel": "stashtastique", "avg_viewers": 16, "followers_gained": 63, "peak_viewers": 41, "hours_streamed": 167, "streams": 22, "mature": 1, "language": "English", "account_age": 1398240.0}

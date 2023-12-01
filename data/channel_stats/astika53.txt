@@ -1,0 +1,1 @@
+{"channel": "astika53", "avg_viewers": 11, "followers_gained": 63, "peak_viewers": 32, "hours_streamed": 21, "streams": 11, "mature": 1, "language": "Spanish", "account_age": 2352960.0}

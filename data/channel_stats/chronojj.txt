@@ -1,0 +1,1 @@
+{"channel": "chronojj", "avg_viewers": 18, "followers_gained": 57, "peak_viewers": 37, "hours_streamed": 49, "streams": 18, "mature": 0, "language": "English", "account_age": 3840480.0}

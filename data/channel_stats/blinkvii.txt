@@ -1,0 +1,1 @@
+{"channel": "blinkvii", "avg_viewers": 32, "followers_gained": 461, "peak_viewers": 616, "hours_streamed": 82, "streams": 27, "mature": 0, "language": "English", "account_age": 3224160.0}

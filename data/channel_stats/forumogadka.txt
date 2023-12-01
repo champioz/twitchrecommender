@@ -1,0 +1,1 @@
+{"channel": "forumogadka", "avg_viewers": 112, "followers_gained": 0, "peak_viewers": 131, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "Polish", "account_age": 3225600.0}

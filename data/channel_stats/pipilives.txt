@@ -1,0 +1,1 @@
+{"channel": "pipilives", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 13, "hours_streamed": 44, "streams": 13, "mature": 1, "language": "Spanish", "account_age": 1185120.0}

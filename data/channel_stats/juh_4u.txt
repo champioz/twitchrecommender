@@ -1,0 +1,1 @@
+{"channel": "juh_4u", "avg_viewers": 3, "followers_gained": 27, "peak_viewers": 16, "hours_streamed": 17, "streams": 7, "mature": 1, "language": "Portuguese", "account_age": 1031040.0}

@@ -1,0 +1,1 @@
+{"channel": "biggboss90", "avg_viewers": 3, "followers_gained": 85, "peak_viewers": 10, "hours_streamed": 60, "streams": 18, "mature": 1, "language": "German", "account_age": 1926720.0}

@@ -1,0 +1,1 @@
+{"channel": "sneegsnag", "avg_viewers": 275, "followers_gained": 7781, "peak_viewers": 2632, "hours_streamed": 83, "streams": 24, "mature": 0, "language": "English", "account_age": 4190400.0}

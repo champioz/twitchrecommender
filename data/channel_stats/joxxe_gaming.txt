@@ -1,0 +1,1 @@
+{"channel": "joxxe_gaming", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 6, "streams": 5, "mature": 1, "language": "Swedish", "account_age": 3738240.0}

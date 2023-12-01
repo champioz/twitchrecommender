@@ -1,0 +1,1 @@
+{"channel": "yungn3", "avg_viewers": 5, "followers_gained": 12, "peak_viewers": 10, "hours_streamed": 11, "streams": 6, "mature": 0, "language": "English", "account_age": 825120.0}

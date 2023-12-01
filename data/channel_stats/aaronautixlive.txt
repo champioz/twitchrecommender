@@ -1,0 +1,1 @@
+{"channel": "aaronautixlive", "avg_viewers": 4, "followers_gained": 15, "peak_viewers": 14, "hours_streamed": 55, "streams": 22, "mature": 1, "language": "English", "account_age": 1252800.0}

@@ -1,0 +1,1 @@
+{"channel": "jjrfin", "avg_viewers": 10, "followers_gained": 35, "peak_viewers": 49, "hours_streamed": 107, "streams": 31, "mature": 1, "language": "Finnish", "account_age": 2957760.0}

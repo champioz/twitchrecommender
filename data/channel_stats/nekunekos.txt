@@ -1,0 +1,1 @@
+{"channel": "nekunekos", "avg_viewers": 18, "followers_gained": 117, "peak_viewers": 37, "hours_streamed": 79, "streams": 32, "mature": 1, "language": "Spanish", "account_age": 347040.0}

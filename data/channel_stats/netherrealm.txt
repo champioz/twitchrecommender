@@ -1,0 +1,1 @@
+{"channel": "netherrealm", "avg_viewers": 3652, "followers_gained": 1931, "peak_viewers": 10669, "hours_streamed": 39, "streams": 7, "mature": 0, "language": "English", "account_age": 4154400.0}

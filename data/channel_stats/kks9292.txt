@@ -1,0 +1,1 @@
+{"channel": "kks9292", "avg_viewers": 218, "followers_gained": 5678, "peak_viewers": 362, "hours_streamed": 40, "streams": 11, "mature": 0, "language": "Korean", "account_age": 1287360.0}

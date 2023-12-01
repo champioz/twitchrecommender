@@ -1,0 +1,1 @@
+{"channel": "tapioks", "avg_viewers": 7, "followers_gained": 9, "peak_viewers": 23, "hours_streamed": 47, "streams": 18, "mature": 1, "language": "English", "account_age": 2813760.0}

@@ -1,0 +1,1 @@
+{"channel": "lopaayxoxo", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 14, "hours_streamed": 10, "streams": 6, "mature": 1, "language": "Hungarian", "account_age": 4055040.0}

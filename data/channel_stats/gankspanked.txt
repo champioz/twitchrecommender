@@ -1,0 +1,1 @@
+{"channel": "gankspanked", "avg_viewers": 34, "followers_gained": 14, "peak_viewers": 54, "hours_streamed": 12, "streams": 8, "mature": 0, "language": "English", "account_age": 2291040.0}

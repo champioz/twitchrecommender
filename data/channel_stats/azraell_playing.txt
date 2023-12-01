@@ -1,0 +1,1 @@
+{"channel": "azraell_playing", "avg_viewers": 4, "followers_gained": 7, "peak_viewers": 12, "hours_streamed": 97, "streams": 50, "mature": 1, "language": "Russian", "account_age": 1944000.0}

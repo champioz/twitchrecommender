@@ -1,0 +1,1 @@
+{"channel": "soyshadow", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 14, "hours_streamed": 49, "streams": 15, "mature": 0, "language": "Spanish", "account_age": 1450080.0}

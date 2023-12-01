@@ -1,0 +1,1 @@
+{"channel": "thomezord", "avg_viewers": 1070, "followers_gained": 1431, "peak_viewers": 1696, "hours_streamed": 74, "streams": 19, "mature": 1, "language": "Portuguese", "account_age": 1918080.0}

@@ -1,0 +1,1 @@
+{"channel": "mclaugh", "avg_viewers": 148, "followers_gained": 491, "peak_viewers": 932, "hours_streamed": 250, "streams": 22, "mature": 1, "language": "French", "account_age": 1848960.0}

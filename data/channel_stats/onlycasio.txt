@@ -1,0 +1,1 @@
+{"channel": "onlycasio", "avg_viewers": 8, "followers_gained": 2, "peak_viewers": 22, "hours_streamed": 7, "streams": 4, "mature": 0, "language": "Polish", "account_age": 1704960.0}

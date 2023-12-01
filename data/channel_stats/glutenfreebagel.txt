@@ -1,0 +1,1 @@
+{"channel": "glutenfreebagel", "avg_viewers": 7, "followers_gained": 22, "peak_viewers": 21, "hours_streamed": 55, "streams": 19, "mature": 1, "language": "English", "account_age": 912960.0}

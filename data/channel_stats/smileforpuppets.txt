@@ -1,0 +1,1 @@
+{"channel": "smileforpuppets", "avg_viewers": 12, "followers_gained": 1, "peak_viewers": 20, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "Turkish", "account_age": 1719360.0}

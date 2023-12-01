@@ -1,0 +1,1 @@
+{"channel": "happydies", "avg_viewers": 14, "followers_gained": 56, "peak_viewers": 84, "hours_streamed": 54, "streams": 30, "mature": 0, "language": "Russian", "account_age": 2259360.0}

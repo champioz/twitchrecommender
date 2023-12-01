@@ -1,0 +1,1 @@
+{"channel": "jtapp", "avg_viewers": 1, "followers_gained": 29, "peak_viewers": 9, "hours_streamed": 136, "streams": 29, "mature": 1, "language": "English", "account_age": 1579680.0}

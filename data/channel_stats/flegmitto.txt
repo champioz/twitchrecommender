@@ -1,0 +1,1 @@
+{"channel": "flegmitto", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 3, "hours_streamed": 89, "streams": 11, "mature": 0, "language": "Ukrainian", "account_age": 3744000.0}

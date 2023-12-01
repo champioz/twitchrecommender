@@ -1,0 +1,1 @@
+{"channel": "m4dshaw", "avg_viewers": 161, "followers_gained": 1732, "peak_viewers": 529, "hours_streamed": 166, "streams": 33, "mature": 0, "language": "Russian", "account_age": 1856160.0}

@@ -1,0 +1,1 @@
+{"channel": "esdor", "avg_viewers": 17, "followers_gained": 33, "peak_viewers": 42, "hours_streamed": 47, "streams": 15, "mature": 0, "language": "English", "account_age": 3695040.0}

@@ -1,0 +1,1 @@
+{"channel": "coffem_", "avg_viewers": 3, "followers_gained": 30, "peak_viewers": 11, "hours_streamed": 21, "streams": 6, "mature": 0, "language": "Spanish", "account_age": 478080.0}

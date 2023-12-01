@@ -1,0 +1,1 @@
+{"channel": "theshowdannyp", "avg_viewers": 4, "followers_gained": 47, "peak_viewers": 20, "hours_streamed": 139, "streams": 17, "mature": 0, "language": "English", "account_age": 1450080.0}

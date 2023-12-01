@@ -1,0 +1,1 @@
+{"channel": "ulvmig", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 13, "hours_streamed": 7, "streams": 5, "mature": 1, "language": "Danish", "account_age": 1435680.0}

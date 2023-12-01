@@ -1,0 +1,1 @@
+{"channel": "stevicules", "avg_viewers": 283, "followers_gained": 156, "peak_viewers": 568, "hours_streamed": 59, "streams": 12, "mature": 1, "language": "German", "account_age": 3538080.0}

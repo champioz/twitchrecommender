@@ -1,0 +1,1 @@
+{"channel": "mysticswordsman", "avg_viewers": 64, "followers_gained": 383, "peak_viewers": 139, "hours_streamed": 94, "streams": 17, "mature": 0, "language": "English", "account_age": 3312000.0}

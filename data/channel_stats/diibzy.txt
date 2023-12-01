@@ -1,0 +1,1 @@
+{"channel": "diibzy", "avg_viewers": 11, "followers_gained": 45, "peak_viewers": 32, "hours_streamed": 13, "streams": 6, "mature": 0, "language": "French", "account_age": 426240.0}

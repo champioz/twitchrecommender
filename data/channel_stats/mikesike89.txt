@@ -1,0 +1,1 @@
+{"channel": "mikesike89", "avg_viewers": 22, "followers_gained": 210, "peak_viewers": 1577, "hours_streamed": 119, "streams": 24, "mature": 1, "language": "English", "account_age": 2488320.0}

@@ -1,0 +1,1 @@
+{"channel": "lockmyth", "avg_viewers": 1, "followers_gained": 11, "peak_viewers": 15, "hours_streamed": 104, "streams": 28, "mature": 0, "language": "English", "account_age": 3216960.0}

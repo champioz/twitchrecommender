@@ -1,0 +1,1 @@
+{"channel": "foldupgorilla", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 28, "hours_streamed": 321, "streams": 36, "mature": 1, "language": "English", "account_age": 3814560.0}

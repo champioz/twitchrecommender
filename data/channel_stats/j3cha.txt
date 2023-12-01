@@ -1,0 +1,1 @@
+{"channel": "j3cha", "avg_viewers": 142, "followers_gained": 684, "peak_viewers": 799, "hours_streamed": 54, "streams": 22, "mature": 0, "language": "Thai", "account_age": 720000.0}

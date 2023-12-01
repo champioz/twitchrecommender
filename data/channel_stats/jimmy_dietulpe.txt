@@ -1,0 +1,1 @@
+{"channel": "jimmy_dietulpe", "avg_viewers": 164, "followers_gained": 508, "peak_viewers": 404, "hours_streamed": 213, "streams": 21, "mature": 1, "language": "German", "account_age": 2478240.0}

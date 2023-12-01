@@ -1,0 +1,1 @@
+{"channel": "aodzilla", "avg_viewers": 43, "followers_gained": 57, "peak_viewers": 90, "hours_streamed": 44, "streams": 8, "mature": 0, "language": "Romanian", "account_age": 3314880.0}

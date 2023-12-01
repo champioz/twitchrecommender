@@ -1,0 +1,1 @@
+{"channel": "beeptodahboop", "avg_viewers": 3, "followers_gained": 21, "peak_viewers": 23, "hours_streamed": 38, "streams": 8, "mature": 0, "language": "English", "account_age": 1692000.0}

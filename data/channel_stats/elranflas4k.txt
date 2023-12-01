@@ -1,0 +1,1 @@
+{"channel": "elranflas4k", "avg_viewers": 4, "followers_gained": 126, "peak_viewers": 16, "hours_streamed": 132, "streams": 26, "mature": 0, "language": "Spanish", "account_age": 620640.0}

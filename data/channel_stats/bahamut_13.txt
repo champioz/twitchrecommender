@@ -1,0 +1,1 @@
+{"channel": "bahamut_13", "avg_viewers": 19, "followers_gained": 687, "peak_viewers": 83, "hours_streamed": 245, "streams": 38, "mature": 0, "language": "French", "account_age": 2063520.0}

@@ -1,0 +1,1 @@
+{"channel": "sinednas", "avg_viewers": 12, "followers_gained": 106, "peak_viewers": 27, "hours_streamed": 18, "streams": 5, "mature": 0, "language": "Thai", "account_age": 1152000.0}

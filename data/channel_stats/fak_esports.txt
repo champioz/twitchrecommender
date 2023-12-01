@@ -1,0 +1,1 @@
+{"channel": "fak_esports", "avg_viewers": 53, "followers_gained": 160, "peak_viewers": 411, "hours_streamed": 13, "streams": 7, "mature": 0, "language": "German", "account_age": 483840.0}

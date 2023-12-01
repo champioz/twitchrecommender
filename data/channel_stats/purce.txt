@@ -1,0 +1,1 @@
+{"channel": "purce", "avg_viewers": 30, "followers_gained": 32, "peak_viewers": 69, "hours_streamed": 18, "streams": 6, "mature": 1, "language": "English", "account_age": 2350080.0}

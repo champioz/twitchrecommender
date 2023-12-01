@@ -1,0 +1,1 @@
+{"channel": "rallied", "avg_viewers": 675, "followers_gained": 3833, "peak_viewers": 2416, "hours_streamed": 160, "streams": 23, "mature": 0, "language": "English", "account_age": 2741760.0}

@@ -1,0 +1,1 @@
+{"channel": "lenhuang1985", "avg_viewers": 10, "followers_gained": 14, "peak_viewers": 27, "hours_streamed": 130, "streams": 37, "mature": 0, "language": "Chinese", "account_age": 2154240.0}

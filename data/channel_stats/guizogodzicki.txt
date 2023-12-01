@@ -1,0 +1,1 @@
+{"channel": "guizogodzicki", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 2, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Portuguese", "account_age": 2214720.0}

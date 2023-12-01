@@ -1,0 +1,1 @@
+{"channel": "omulfinn", "avg_viewers": 12, "followers_gained": 327, "peak_viewers": 37, "hours_streamed": 69, "streams": 31, "mature": 0, "language": "English", "account_age": 2325600.0}

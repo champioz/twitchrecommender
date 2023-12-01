@@ -1,0 +1,1 @@
+{"channel": "acid_train", "avg_viewers": 9, "followers_gained": 54, "peak_viewers": 91, "hours_streamed": 92, "streams": 20, "mature": 0, "language": "English", "account_age": 2770560.0}

@@ -1,0 +1,1 @@
+{"channel": "igorbay0", "avg_viewers": 5, "followers_gained": 107, "peak_viewers": 29, "hours_streamed": 78, "streams": 32, "mature": 1, "language": "Portuguese", "account_age": 2041920.0}

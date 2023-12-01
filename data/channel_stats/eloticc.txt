@@ -1,0 +1,1 @@
+{"channel": "eloticc", "avg_viewers": 4, "followers_gained": 74, "peak_viewers": 16, "hours_streamed": 59, "streams": 18, "mature": 1, "language": "Thai", "account_age": 1251360.0}

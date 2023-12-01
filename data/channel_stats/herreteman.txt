@@ -1,0 +1,1 @@
+{"channel": "herreteman", "avg_viewers": 2, "followers_gained": 13, "peak_viewers": 6, "hours_streamed": 7, "streams": 4, "mature": 0, "language": "English", "account_age": 4000320.0}

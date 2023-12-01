@@ -1,0 +1,1 @@
+{"channel": "ebolarised", "avg_viewers": 7, "followers_gained": 7, "peak_viewers": 19, "hours_streamed": 29, "streams": 6, "mature": 1, "language": "Spanish", "account_age": 2413440.0}

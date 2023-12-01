@@ -1,0 +1,1 @@
+{"channel": "bbobbizzang_", "avg_viewers": 13, "followers_gained": 18, "peak_viewers": 29, "hours_streamed": 31, "streams": 13, "mature": 0, "language": "Korean", "account_age": 581760.0}

@@ -1,0 +1,1 @@
+{"channel": "srenfermo", "avg_viewers": 7, "followers_gained": 17, "peak_viewers": 14, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 1452960.0}

@@ -1,0 +1,1 @@
+{"channel": "stonerp561", "avg_viewers": 0, "followers_gained": 152, "peak_viewers": 8, "hours_streamed": 133, "streams": 38, "mature": 1, "language": "English", "account_age": 1877760.0}

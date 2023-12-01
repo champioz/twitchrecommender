@@ -1,0 +1,1 @@
+{"channel": "appleseedzxo", "avg_viewers": 6, "followers_gained": 51, "peak_viewers": 73, "hours_streamed": 180, "streams": 57, "mature": 1, "language": "English", "account_age": 3925440.0}

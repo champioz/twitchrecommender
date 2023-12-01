@@ -1,0 +1,1 @@
+{"channel": "edgar2pro78", "avg_viewers": 3, "followers_gained": 35, "peak_viewers": 10, "hours_streamed": 27, "streams": 13, "mature": 1, "language": "English", "account_age": 1094400.0}

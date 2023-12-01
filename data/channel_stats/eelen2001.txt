@@ -1,0 +1,1 @@
+{"channel": "eelen2001", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 100, "streams": 26, "mature": 0, "language": "Chinese", "account_age": 2583360.0}

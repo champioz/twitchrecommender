@@ -1,0 +1,1 @@
+{"channel": "cokinha_200ml", "avg_viewers": 5, "followers_gained": 150, "peak_viewers": 17, "hours_streamed": 140, "streams": 38, "mature": 1, "language": "Portuguese", "account_age": 624960.0}

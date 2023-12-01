@@ -1,0 +1,1 @@
+{"channel": "blindcoyoteart", "avg_viewers": 13, "followers_gained": 65, "peak_viewers": 85, "hours_streamed": 47, "streams": 13, "mature": 0, "language": "English", "account_age": 2789280.0}

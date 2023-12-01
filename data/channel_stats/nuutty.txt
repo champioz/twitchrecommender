@@ -1,0 +1,1 @@
+{"channel": "nuutty", "avg_viewers": 5, "followers_gained": 56, "peak_viewers": 21, "hours_streamed": 61, "streams": 19, "mature": 0, "language": "English", "account_age": 1920960.0}

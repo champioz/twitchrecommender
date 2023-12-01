@@ -1,0 +1,1 @@
+{"channel": "fearandil", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 7, "hours_streamed": 59, "streams": 26, "mature": 1, "language": "Italian", "account_age": 1653120.0}

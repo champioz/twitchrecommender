@@ -1,0 +1,1 @@
+{"channel": "signumu", "avg_viewers": 31, "followers_gained": 30, "peak_viewers": 82, "hours_streamed": 26, "streams": 14, "mature": 0, "language": "English", "account_age": 1746720.0}

@@ -1,0 +1,1 @@
+{"channel": "eternalzinn", "avg_viewers": 66, "followers_gained": 1, "peak_viewers": 81, "hours_streamed": 0, "streams": 0, "mature": 1, "language": "Portuguese", "account_age": 3503520.0}

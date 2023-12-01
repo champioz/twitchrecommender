@@ -1,0 +1,1 @@
+{"channel": "mischacrossing", "avg_viewers": 172, "followers_gained": 714, "peak_viewers": 495, "hours_streamed": 103, "streams": 18, "mature": 1, "language": "English", "account_age": 1918080.0}

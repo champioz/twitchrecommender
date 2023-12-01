@@ -1,0 +1,1 @@
+{"channel": "cometa", "avg_viewers": 25, "followers_gained": 68, "peak_viewers": 45, "hours_streamed": 53, "streams": 19, "mature": 0, "language": "Russian", "account_age": 1255680.0}

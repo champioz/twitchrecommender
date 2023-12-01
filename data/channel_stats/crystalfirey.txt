@@ -1,0 +1,1 @@
+{"channel": "crystalfirey", "avg_viewers": 9, "followers_gained": 15, "peak_viewers": 18, "hours_streamed": 24, "streams": 9, "mature": 1, "language": "English", "account_age": 826560.0}

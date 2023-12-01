@@ -1,0 +1,1 @@
+{"channel": "kazukichannel", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 57, "streams": 37, "mature": 1, "language": "Japanese", "account_age": 698400.0}

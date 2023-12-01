@@ -1,0 +1,1 @@
+{"channel": "saiyen", "avg_viewers": 6, "followers_gained": 15, "peak_viewers": 17, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Dutch", "account_age": 2368800.0}

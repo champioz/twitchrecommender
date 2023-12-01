@@ -1,0 +1,1 @@
+{"channel": "warthunder_ru", "avg_viewers": 97, "followers_gained": 97, "peak_viewers": 422, "hours_streamed": 11, "streams": 6, "mature": 0, "language": "Russian", "account_age": 2508480.0}

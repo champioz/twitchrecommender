@@ -1,0 +1,1 @@
+{"channel": "vidyabum", "avg_viewers": 613, "followers_gained": 267, "peak_viewers": 2089, "hours_streamed": 50, "streams": 13, "mature": 1, "language": "English", "account_age": 3373920.0}

@@ -1,0 +1,1 @@
+{"channel": "jebxgaming", "avg_viewers": 17, "followers_gained": 268, "peak_viewers": 45, "hours_streamed": 67, "streams": 70, "mature": 0, "language": "English", "account_age": 1527840.0}

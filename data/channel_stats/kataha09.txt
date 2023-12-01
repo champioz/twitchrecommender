@@ -1,0 +1,1 @@
+{"channel": "kataha09", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 12, "hours_streamed": 21, "streams": 14, "mature": 1, "language": "German", "account_age": 972000.0}

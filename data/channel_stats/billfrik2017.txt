@@ -1,0 +1,1 @@
+{"channel": "billfrik2017", "avg_viewers": 13, "followers_gained": 7, "peak_viewers": 24, "hours_streamed": 3, "streams": 2, "mature": 1, "language": "Spanish", "account_age": 944640.0}

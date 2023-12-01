@@ -1,0 +1,1 @@
+{"channel": "gabs", "avg_viewers": 121, "followers_gained": 313, "peak_viewers": 253, "hours_streamed": 51, "streams": 12, "mature": 0, "language": "English", "account_age": 2152800.0}

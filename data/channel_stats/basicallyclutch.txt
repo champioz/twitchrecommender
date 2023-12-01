@@ -1,0 +1,1 @@
+{"channel": "basicallyclutch", "avg_viewers": 3, "followers_gained": 75, "peak_viewers": 13, "hours_streamed": 62, "streams": 24, "mature": 0, "language": "English", "account_age": 2291040.0}

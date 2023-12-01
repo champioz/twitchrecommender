@@ -1,0 +1,1 @@
+{"channel": "regiaa", "avg_viewers": 82, "followers_gained": 13001, "peak_viewers": 207, "hours_streamed": 122, "streams": 24, "mature": 0, "language": "Turkish", "account_age": 995040.0}

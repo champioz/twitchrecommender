@@ -1,0 +1,1 @@
+{"channel": "micheldelacompta_", "avg_viewers": 7, "followers_gained": 67, "peak_viewers": 18, "hours_streamed": 63, "streams": 22, "mature": 1, "language": "French", "account_age": 564480.0}

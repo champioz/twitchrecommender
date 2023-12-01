@@ -1,0 +1,1 @@
+{"channel": "carnetv", "avg_viewers": 181, "followers_gained": 469, "peak_viewers": 319, "hours_streamed": 173, "streams": 25, "mature": 1, "language": "Korean", "account_age": 594720.0}

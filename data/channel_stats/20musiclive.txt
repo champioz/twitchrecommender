@@ -1,0 +1,1 @@
+{"channel": "20musiclive", "avg_viewers": 18, "followers_gained": 611, "peak_viewers": 47, "hours_streamed": 743, "streams": 5, "mature": 0, "language": "Chinese", "account_age": 2867040.0}

@@ -1,0 +1,1 @@
+{"channel": "a2cidentally", "avg_viewers": 8, "followers_gained": 25, "peak_viewers": 19, "hours_streamed": 68, "streams": 21, "mature": 1, "language": "Russian", "account_age": 154080.0}

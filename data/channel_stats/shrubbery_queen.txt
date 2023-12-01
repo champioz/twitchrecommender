@@ -1,0 +1,1 @@
+{"channel": "shrubbery_queen", "avg_viewers": 12, "followers_gained": 28, "peak_viewers": 34, "hours_streamed": 57, "streams": 16, "mature": 1, "language": "English", "account_age": 1738080.0}

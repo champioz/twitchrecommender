@@ -1,0 +1,1 @@
+{"channel": "shinigami_csgo", "avg_viewers": 2, "followers_gained": 24, "peak_viewers": 10, "hours_streamed": 20, "streams": 9, "mature": 0, "language": "Czech", "account_age": 1509120.0}

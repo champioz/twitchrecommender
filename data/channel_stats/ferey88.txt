@@ -1,0 +1,1 @@
+{"channel": "ferey88", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 7, "hours_streamed": 84, "streams": 41, "mature": 0, "language": "Spanish", "account_age": 2020320.0}

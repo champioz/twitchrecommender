@@ -1,0 +1,1 @@
+{"channel": "dodochi", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 3, "streams": 4, "mature": 0, "language": "Greek", "account_age": 1520640.0}

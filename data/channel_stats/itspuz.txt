@@ -1,0 +1,1 @@
+{"channel": "itspuz", "avg_viewers": 7, "followers_gained": 17, "peak_viewers": 18, "hours_streamed": 78, "streams": 21, "mature": 1, "language": "English", "account_age": 2047680.0}

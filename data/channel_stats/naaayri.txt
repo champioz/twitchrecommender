@@ -1,0 +1,1 @@
+{"channel": "naaayri", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 13, "streams": 4, "mature": 1, "language": "German", "account_age": 1208160.0}

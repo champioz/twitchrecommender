@@ -1,0 +1,1 @@
+{"channel": "jinja", "avg_viewers": 56, "followers_gained": 193, "peak_viewers": 206, "hours_streamed": 68, "streams": 15, "mature": 1, "language": "German", "account_age": 2854080.0}

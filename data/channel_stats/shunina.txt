@@ -1,0 +1,1 @@
+{"channel": "shunina", "avg_viewers": 4, "followers_gained": 43, "peak_viewers": 12, "hours_streamed": 68, "streams": 17, "mature": 1, "language": "Spanish", "account_age": 792000.0}

@@ -1,0 +1,1 @@
+{"channel": "sir_vismut", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 7, "hours_streamed": 18, "streams": 8, "mature": 0, "language": "Russian", "account_age": 2116800.0}

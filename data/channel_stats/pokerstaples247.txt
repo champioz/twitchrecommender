@@ -1,0 +1,1 @@
+{"channel": "pokerstaples247", "avg_viewers": 26, "followers_gained": 530, "peak_viewers": 857, "hours_streamed": 743, "streams": 5, "mature": 0, "language": "English", "account_age": 348480.0}

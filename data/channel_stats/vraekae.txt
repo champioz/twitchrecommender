@@ -1,0 +1,1 @@
+{"channel": "vraekae", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 7, "hours_streamed": 43, "streams": 18, "mature": 0, "language": "English", "account_age": 601920.0}

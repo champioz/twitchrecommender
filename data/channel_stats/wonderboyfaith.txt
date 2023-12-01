@@ -1,0 +1,1 @@
+{"channel": "wonderboyfaith", "avg_viewers": 39, "followers_gained": 121, "peak_viewers": 391, "hours_streamed": 9, "streams": 6, "mature": 0, "language": "English", "account_age": 652320.0}

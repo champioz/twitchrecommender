@@ -1,0 +1,1 @@
+{"channel": "grumpygrandad72", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "English", "account_age": 2802240.0}

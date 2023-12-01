@@ -1,0 +1,1 @@
+{"channel": "tmemoryy", "avg_viewers": 511, "followers_gained": 2861, "peak_viewers": 830, "hours_streamed": 140, "streams": 22, "mature": 0, "language": "English", "account_age": 3157920.0}

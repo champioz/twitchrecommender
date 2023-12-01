@@ -1,0 +1,1 @@
+{"channel": "yea0626", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 20, "streams": 7, "mature": 0, "language": "Chinese", "account_age": 3520800.0}

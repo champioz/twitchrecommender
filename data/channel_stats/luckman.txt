@@ -1,0 +1,1 @@
+{"channel": "luckman", "avg_viewers": 19, "followers_gained": 70, "peak_viewers": 55, "hours_streamed": 79, "streams": 21, "mature": 1, "language": "English", "account_age": 989280.0}

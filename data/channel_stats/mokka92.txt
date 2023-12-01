@@ -1,0 +1,1 @@
+{"channel": "mokka92", "avg_viewers": 7, "followers_gained": 19, "peak_viewers": 16, "hours_streamed": 18, "streams": 9, "mature": 0, "language": "Hungarian", "account_age": 2443680.0}

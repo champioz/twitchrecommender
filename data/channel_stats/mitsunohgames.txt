@@ -1,0 +1,1 @@
+{"channel": "mitsunohgames", "avg_viewers": 90, "followers_gained": 232, "peak_viewers": 197, "hours_streamed": 9, "streams": 5, "mature": 0, "language": "French", "account_age": 3306240.0}

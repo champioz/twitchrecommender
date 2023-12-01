@@ -1,0 +1,1 @@
+{"channel": "merfury", "avg_viewers": 6, "followers_gained": 101, "peak_viewers": 21, "hours_streamed": 70, "streams": 13, "mature": 0, "language": "German", "account_age": 1408320.0}

@@ -1,0 +1,1 @@
+{"channel": "2madbros", "avg_viewers": 2, "followers_gained": 94, "peak_viewers": 17, "hours_streamed": 192, "streams": 54, "mature": 1, "language": "Turkish", "account_age": 201600.0}

@@ -1,0 +1,1 @@
+{"channel": "leveledaf", "avg_viewers": 4, "followers_gained": 38, "peak_viewers": 13, "hours_streamed": 70, "streams": 24, "mature": 0, "language": "English", "account_age": 1159200.0}

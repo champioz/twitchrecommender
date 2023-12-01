@@ -1,0 +1,1 @@
+{"channel": "snigeltwitch", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 8, "streams": 6, "mature": 1, "language": "Swedish", "account_age": 2000160.0}

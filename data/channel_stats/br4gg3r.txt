@@ -1,0 +1,1 @@
+{"channel": "br4gg3r", "avg_viewers": 20, "followers_gained": 148, "peak_viewers": 52, "hours_streamed": 191, "streams": 24, "mature": 1, "language": "English", "account_age": 2666880.0}

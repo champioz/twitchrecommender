@@ -1,0 +1,1 @@
+{"channel": "totallynotstalin", "avg_viewers": 8, "followers_gained": 6, "peak_viewers": 23, "hours_streamed": 38, "streams": 8, "mature": 1, "language": "English", "account_age": 2740320.0}

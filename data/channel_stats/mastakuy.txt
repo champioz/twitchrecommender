@@ -1,0 +1,1 @@
+{"channel": "mastakuy", "avg_viewers": 3, "followers_gained": 17, "peak_viewers": 9, "hours_streamed": 51, "streams": 12, "mature": 1, "language": "English", "account_age": 1123200.0}

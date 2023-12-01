@@ -1,0 +1,1 @@
+{"channel": "wakeupashee", "avg_viewers": 10, "followers_gained": 18, "peak_viewers": 53, "hours_streamed": 37, "streams": 12, "mature": 1, "language": "English", "account_age": 2973600.0}

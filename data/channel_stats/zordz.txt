@@ -1,0 +1,1 @@
+{"channel": "zordz", "avg_viewers": 11, "followers_gained": 114, "peak_viewers": 75, "hours_streamed": 43, "streams": 12, "mature": 1, "language": "Portuguese", "account_age": 3326400.0}

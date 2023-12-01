@@ -1,0 +1,1 @@
+{"channel": "taalzbeta", "avg_viewers": 70, "followers_gained": 86, "peak_viewers": 92, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 2846880.0}

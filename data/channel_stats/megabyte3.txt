@@ -1,0 +1,1 @@
+{"channel": "megabyte3", "avg_viewers": 11, "followers_gained": 139, "peak_viewers": 71, "hours_streamed": 88, "streams": 16, "mature": 0, "language": "English", "account_age": 1450080.0}

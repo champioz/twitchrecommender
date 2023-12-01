@@ -1,0 +1,1 @@
+{"channel": "sloaim", "avg_viewers": 16, "followers_gained": 626, "peak_viewers": 45, "hours_streamed": 247, "streams": 31, "mature": 0, "language": "English", "account_age": 375840.0}

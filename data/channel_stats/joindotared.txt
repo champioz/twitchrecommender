@@ -1,0 +1,1 @@
+{"channel": "joindotared", "avg_viewers": 295, "followers_gained": 528, "peak_viewers": 1241, "hours_streamed": 88, "streams": 37, "mature": 0, "language": "English", "account_age": 3437280.0}

@@ -1,0 +1,1 @@
+{"channel": "3ldiablo_tv", "avg_viewers": 2, "followers_gained": 22, "peak_viewers": 9, "hours_streamed": 50, "streams": 12, "mature": 1, "language": "French", "account_age": 2374560.0}

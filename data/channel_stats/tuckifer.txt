@@ -1,0 +1,1 @@
+{"channel": "tuckifer", "avg_viewers": 6, "followers_gained": 102, "peak_viewers": 20, "hours_streamed": 202, "streams": 35, "mature": 0, "language": "English", "account_age": 1304640.0}

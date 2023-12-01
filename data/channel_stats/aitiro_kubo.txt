@@ -1,0 +1,1 @@
+{"channel": "aitiro_kubo", "avg_viewers": 3, "followers_gained": 21, "peak_viewers": 25, "hours_streamed": 70, "streams": 20, "mature": 1, "language": "Russian", "account_age": 1575360.0}

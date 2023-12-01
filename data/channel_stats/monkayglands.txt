@@ -1,0 +1,1 @@
+{"channel": "monkayglands", "avg_viewers": 9, "followers_gained": 57, "peak_viewers": 122, "hours_streamed": 206, "streams": 33, "mature": 1, "language": "English", "account_age": 3803040.0}

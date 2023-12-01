@@ -1,0 +1,1 @@
+{"channel": "frexs", "avg_viewers": 20, "followers_gained": 100, "peak_viewers": 193, "hours_streamed": 29, "streams": 9, "mature": 1, "language": "English", "account_age": 4196160.0}

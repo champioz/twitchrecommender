@@ -1,0 +1,1 @@
+{"channel": "arcsecond", "avg_viewers": 63, "followers_gained": 4, "peak_viewers": 566, "hours_streamed": 307, "streams": 37, "mature": 0, "language": "English", "account_age": 3280320.0}

@@ -1,0 +1,1 @@
+{"channel": "taiga", "avg_viewers": 20, "followers_gained": 59, "peak_viewers": 39, "hours_streamed": 24, "streams": 13, "mature": 0, "language": "Portuguese", "account_age": 1608480.0}

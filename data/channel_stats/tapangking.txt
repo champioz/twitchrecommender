@@ -1,0 +1,1 @@
+{"channel": "tapangking", "avg_viewers": 18, "followers_gained": 160, "peak_viewers": 55, "hours_streamed": 133, "streams": 17, "mature": 1, "language": "English", "account_age": 1781280.0}

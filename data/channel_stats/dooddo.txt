@@ -1,0 +1,1 @@
+{"channel": "dooddo", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 20, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "Romanian", "account_age": 1853280.0}

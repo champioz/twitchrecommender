@@ -1,0 +1,1 @@
+{"channel": "meownuna", "avg_viewers": 16, "followers_gained": 95, "peak_viewers": 65, "hours_streamed": 140, "streams": 24, "mature": 0, "language": "Korean", "account_age": 1146240.0}

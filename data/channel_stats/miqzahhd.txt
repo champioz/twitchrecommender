@@ -1,0 +1,1 @@
+{"channel": "miqzahhd", "avg_viewers": 36, "followers_gained": 815, "peak_viewers": 112, "hours_streamed": 35, "streams": 9, "mature": 0, "language": "English", "account_age": 174240.0}

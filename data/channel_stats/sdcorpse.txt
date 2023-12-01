@@ -1,0 +1,1 @@
+{"channel": "sdcorpse", "avg_viewers": 7, "followers_gained": 10, "peak_viewers": 41, "hours_streamed": 97, "streams": 37, "mature": 1, "language": "Russian", "account_age": 2023200.0}

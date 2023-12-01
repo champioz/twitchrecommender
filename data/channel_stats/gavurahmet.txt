@@ -1,0 +1,1 @@
+{"channel": "gavurahmet", "avg_viewers": 15, "followers_gained": 180, "peak_viewers": 69, "hours_streamed": 82, "streams": 20, "mature": 1, "language": "Turkish", "account_age": 1692000.0}

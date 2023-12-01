@@ -1,0 +1,1 @@
+{"channel": "stanfrey", "avg_viewers": 8, "followers_gained": 14, "peak_viewers": 26, "hours_streamed": 33, "streams": 16, "mature": 0, "language": "German", "account_age": 3175200.0}

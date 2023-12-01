@@ -1,0 +1,1 @@
+{"channel": "hombredehierrofolgore", "avg_viewers": 7, "followers_gained": 9, "peak_viewers": 20, "hours_streamed": 28, "streams": 12, "mature": 1, "language": "Spanish", "account_age": 2165760.0}

@@ -1,0 +1,1 @@
+{"channel": "decimus2009", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 13, "hours_streamed": 50, "streams": 33, "mature": 0, "language": "English", "account_age": 4250880.0}

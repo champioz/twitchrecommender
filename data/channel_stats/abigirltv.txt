@@ -1,0 +1,1 @@
+{"channel": "abigirltv", "avg_viewers": 18, "followers_gained": 80, "peak_viewers": 39, "hours_streamed": 54, "streams": 18, "mature": 1, "language": "English", "account_age": 1660320.0}

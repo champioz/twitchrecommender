@@ -1,0 +1,1 @@
+{"channel": "kirayukimi0228", "avg_viewers": 19, "followers_gained": 2, "peak_viewers": 51, "hours_streamed": 35, "streams": 15, "mature": 0, "language": "Chinese", "account_age": 2619360.0}

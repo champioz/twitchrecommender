@@ -1,0 +1,1 @@
+{"channel": "codect", "avg_viewers": 4, "followers_gained": 33, "peak_viewers": 17, "hours_streamed": 77, "streams": 30, "mature": 0, "language": "English", "account_age": 4013280.0}

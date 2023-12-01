@@ -1,0 +1,1 @@
+{"channel": "revoltvr", "avg_viewers": 35, "followers_gained": 225, "peak_viewers": 95, "hours_streamed": 36, "streams": 9, "mature": 0, "language": "English", "account_age": 2606400.0}

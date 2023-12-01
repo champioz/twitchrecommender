@@ -1,0 +1,1 @@
+{"channel": "zurkah", "avg_viewers": 17, "followers_gained": 49, "peak_viewers": 69, "hours_streamed": 48, "streams": 18, "mature": 0, "language": "English", "account_age": 2230560.0}

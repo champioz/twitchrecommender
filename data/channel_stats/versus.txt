@@ -1,0 +1,1 @@
+{"channel": "versus", "avg_viewers": 66, "followers_gained": 64, "peak_viewers": 378, "hours_streamed": 76, "streams": 20, "mature": 0, "language": "English", "account_age": 3005280.0}

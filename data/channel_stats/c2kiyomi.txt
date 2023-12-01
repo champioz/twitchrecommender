@@ -1,0 +1,1 @@
+{"channel": "c2kiyomi", "avg_viewers": 25, "followers_gained": 33, "peak_viewers": 38, "hours_streamed": 20, "streams": 5, "mature": 0, "language": "German", "account_age": 3705120.0}

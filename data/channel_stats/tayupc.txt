@@ -1,0 +1,1 @@
+{"channel": "tayupc", "avg_viewers": 13, "followers_gained": 30, "peak_viewers": 137, "hours_streamed": 113, "streams": 34, "mature": 0, "language": "English", "account_age": 1383840.0}

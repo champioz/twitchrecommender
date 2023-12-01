@@ -1,0 +1,1 @@
+{"channel": "shayk47", "avg_viewers": 8, "followers_gained": 80, "peak_viewers": 98, "hours_streamed": 97, "streams": 22, "mature": 0, "language": "English", "account_age": 1798560.0}

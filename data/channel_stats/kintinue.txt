@@ -1,0 +1,1 @@
+{"channel": "kintinue", "avg_viewers": 59, "followers_gained": 13, "peak_viewers": 95, "hours_streamed": 115, "streams": 25, "mature": 0, "language": "English", "account_age": 2648160.0}

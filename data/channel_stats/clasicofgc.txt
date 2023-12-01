@@ -1,0 +1,1 @@
+{"channel": "clasicofgc", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 11, "hours_streamed": 9, "streams": 5, "mature": 0, "language": "English", "account_age": 1608480.0}

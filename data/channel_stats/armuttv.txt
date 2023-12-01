@@ -1,0 +1,1 @@
+{"channel": "armuttv", "avg_viewers": 239, "followers_gained": 3486, "peak_viewers": 749, "hours_streamed": 308, "streams": 36, "mature": 1, "language": "Turkish", "account_age": 1861920.0}

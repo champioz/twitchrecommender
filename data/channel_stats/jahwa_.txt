@@ -1,0 +1,1 @@
+{"channel": "jahwa_", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 16, "hours_streamed": 12, "streams": 6, "mature": 0, "language": "French", "account_age": 3620160.0}

@@ -1,0 +1,1 @@
+{"channel": "coempathy", "avg_viewers": 6, "followers_gained": 5, "peak_viewers": 13, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "English", "account_age": 1614240.0}

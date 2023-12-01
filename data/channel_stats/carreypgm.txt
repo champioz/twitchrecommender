@@ -1,0 +1,1 @@
+{"channel": "carreypgm", "avg_viewers": 45, "followers_gained": 121, "peak_viewers": 101, "hours_streamed": 76, "streams": 21, "mature": 1, "language": "French", "account_age": 3314880.0}

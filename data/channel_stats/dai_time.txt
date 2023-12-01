@@ -1,0 +1,1 @@
+{"channel": "dai_time", "avg_viewers": 9, "followers_gained": 88, "peak_viewers": 28, "hours_streamed": 118, "streams": 29, "mature": 1, "language": "Japanese", "account_age": 1012320.0}

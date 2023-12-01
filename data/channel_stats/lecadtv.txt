@@ -1,0 +1,1 @@
+{"channel": "lecadtv", "avg_viewers": 108, "followers_gained": 268, "peak_viewers": 565, "hours_streamed": 243, "streams": 30, "mature": 0, "language": "Korean", "account_age": 1104480.0}

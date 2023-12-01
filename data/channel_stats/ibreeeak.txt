@@ -1,0 +1,1 @@
+{"channel": "ibreeeak", "avg_viewers": 19, "followers_gained": 127, "peak_viewers": 54, "hours_streamed": 79, "streams": 31, "mature": 1, "language": "Spanish", "account_age": 2216160.0}

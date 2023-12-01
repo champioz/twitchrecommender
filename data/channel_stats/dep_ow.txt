@@ -1,0 +1,1 @@
+{"channel": "dep_ow", "avg_viewers": 395, "followers_gained": 657, "peak_viewers": 924, "hours_streamed": 28, "streams": 6, "mature": 0, "language": "Japanese", "account_age": 682560.0}

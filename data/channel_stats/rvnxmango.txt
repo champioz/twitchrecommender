@@ -1,0 +1,1 @@
+{"channel": "rvnxmango", "avg_viewers": 334, "followers_gained": 2236, "peak_viewers": 504, "hours_streamed": 13, "streams": 4, "mature": 1, "language": "German", "account_age": 2446560.0}

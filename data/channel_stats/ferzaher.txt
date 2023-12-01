@@ -1,0 +1,1 @@
+{"channel": "ferzaher", "avg_viewers": 6, "followers_gained": 26, "peak_viewers": 15, "hours_streamed": 39, "streams": 19, "mature": 0, "language": "Spanish", "account_age": 1373760.0}

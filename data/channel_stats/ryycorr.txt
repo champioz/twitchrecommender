@@ -1,0 +1,1 @@
+{"channel": "ryycorr", "avg_viewers": 39, "followers_gained": 134, "peak_viewers": 105, "hours_streamed": 97, "streams": 14, "mature": 0, "language": "English", "account_age": 2132640.0}

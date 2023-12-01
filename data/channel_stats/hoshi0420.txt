@@ -1,0 +1,1 @@
+{"channel": "hoshi0420", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 13, "hours_streamed": 90, "streams": 24, "mature": 0, "language": "Korean", "account_age": 1152000.0}

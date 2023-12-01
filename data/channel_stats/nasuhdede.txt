@@ -1,0 +1,1 @@
+{"channel": "nasuhdede", "avg_viewers": 27, "followers_gained": 25, "peak_viewers": 97, "hours_streamed": 9, "streams": 6, "mature": 0, "language": "Turkish", "account_age": 2331360.0}

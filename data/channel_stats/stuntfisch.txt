@@ -1,0 +1,1 @@
+{"channel": "stuntfisch", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "German", "account_age": 3261600.0}

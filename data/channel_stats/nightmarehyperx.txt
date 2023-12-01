@@ -1,0 +1,1 @@
+{"channel": "nightmarehyperx", "avg_viewers": 54, "followers_gained": 1455, "peak_viewers": 373, "hours_streamed": 174, "streams": 50, "mature": 1, "language": "Russian", "account_age": 540000.0}

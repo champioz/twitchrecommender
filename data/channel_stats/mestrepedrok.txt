@@ -1,0 +1,1 @@
+{"channel": "mestrepedrok", "avg_viewers": 47, "followers_gained": 250, "peak_viewers": 119, "hours_streamed": 16, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 1582560.0}

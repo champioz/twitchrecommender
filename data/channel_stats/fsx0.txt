@@ -1,0 +1,1 @@
+{"channel": "fsx0", "avg_viewers": 44, "followers_gained": 1931, "peak_viewers": 230, "hours_streamed": 112, "streams": 26, "mature": 0, "language": "Arabic", "account_age": 773280.0}

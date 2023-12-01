@@ -1,0 +1,1 @@
+{"channel": "mrmoonboots", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 18, "hours_streamed": 19, "streams": 7, "mature": 0, "language": "English", "account_age": 1141920.0}

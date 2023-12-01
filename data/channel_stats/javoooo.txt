@@ -1,0 +1,1 @@
+{"channel": "javoooo", "avg_viewers": 6, "followers_gained": 86, "peak_viewers": 28, "hours_streamed": 75, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 897120.0}

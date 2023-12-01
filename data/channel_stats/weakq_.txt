@@ -1,0 +1,1 @@
+{"channel": "weakq_", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 4, "hours_streamed": 2, "streams": 3, "mature": 0, "language": "Russian", "account_age": 564480.0}

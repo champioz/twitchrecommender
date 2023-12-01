@@ -1,0 +1,1 @@
+{"channel": "strongmantarrako", "avg_viewers": 50, "followers_gained": 108, "peak_viewers": 70, "hours_streamed": 3, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 289440.0}

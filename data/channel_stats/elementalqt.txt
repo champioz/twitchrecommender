@@ -1,0 +1,1 @@
+{"channel": "elementalqt", "avg_viewers": 4, "followers_gained": 61, "peak_viewers": 15, "hours_streamed": 47, "streams": 16, "mature": 0, "language": "English", "account_age": 4210560.0}

@@ -1,0 +1,1 @@
+{"channel": "jteam", "avg_viewers": 347, "followers_gained": 4, "peak_viewers": 1223, "hours_streamed": 43, "streams": 7, "mature": 1, "language": "Chinese", "account_age": 1801440.0}

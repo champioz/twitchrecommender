@@ -1,0 +1,1 @@
+{"channel": "cherryahrizona", "avg_viewers": 67, "followers_gained": 910, "peak_viewers": 150, "hours_streamed": 54, "streams": 16, "mature": 0, "language": "Spanish", "account_age": 851040.0}

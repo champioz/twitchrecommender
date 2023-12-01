@@ -1,0 +1,1 @@
+{"channel": "luckystrikezzz", "avg_viewers": 10, "followers_gained": 7, "peak_viewers": 95, "hours_streamed": 63, "streams": 20, "mature": 1, "language": "German", "account_age": 3353760.0}

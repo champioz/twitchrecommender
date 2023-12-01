@@ -1,0 +1,1 @@
+{"channel": "manosetremor", "avg_viewers": 24, "followers_gained": 173, "peak_viewers": 274, "hours_streamed": 79, "streams": 25, "mature": 1, "language": "English", "account_age": 2170080.0}

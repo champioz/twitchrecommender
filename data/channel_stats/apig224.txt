@@ -1,0 +1,1 @@
+{"channel": "apig224", "avg_viewers": 10, "followers_gained": 0, "peak_viewers": 35, "hours_streamed": 25, "streams": 11, "mature": 1, "language": "Chinese", "account_age": 3837600.0}

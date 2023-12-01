@@ -1,0 +1,1 @@
+{"channel": "suzuki_poke", "avg_viewers": 3, "followers_gained": 15, "peak_viewers": 15, "hours_streamed": 25, "streams": 11, "mature": 1, "language": "Japanese", "account_age": 1126080.0}

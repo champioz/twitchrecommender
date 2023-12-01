@@ -1,0 +1,1 @@
+{"channel": "tablis_", "avg_viewers": 31, "followers_gained": 161, "peak_viewers": 157, "hours_streamed": 56, "streams": 20, "mature": 0, "language": "Portuguese", "account_age": 2790720.0}

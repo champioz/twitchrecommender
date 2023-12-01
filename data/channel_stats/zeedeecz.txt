@@ -1,0 +1,1 @@
+{"channel": "zeedeecz", "avg_viewers": 14, "followers_gained": 6, "peak_viewers": 31, "hours_streamed": 11, "streams": 3, "mature": 1, "language": "Czech", "account_age": 3818880.0}

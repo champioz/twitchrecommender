@@ -1,0 +1,1 @@
+{"channel": "justlemres", "avg_viewers": 58, "followers_gained": 114, "peak_viewers": 198, "hours_streamed": 80, "streams": 18, "mature": 0, "language": "English", "account_age": 3641760.0}

@@ -1,0 +1,1 @@
+{"channel": "dokun", "avg_viewers": 45, "followers_gained": 820, "peak_viewers": 143, "hours_streamed": 141, "streams": 25, "mature": 0, "language": "Korean", "account_age": 1461600.0}

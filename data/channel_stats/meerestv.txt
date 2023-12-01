@@ -1,0 +1,1 @@
+{"channel": "meerestv", "avg_viewers": 76, "followers_gained": 5815, "peak_viewers": 419, "hours_streamed": 197, "streams": 25, "mature": 0, "language": "English", "account_age": 2721600.0}

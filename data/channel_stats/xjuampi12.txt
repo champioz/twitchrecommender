@@ -1,0 +1,1 @@
+{"channel": "xjuampi12", "avg_viewers": 6, "followers_gained": 62, "peak_viewers": 22, "hours_streamed": 20, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 597600.0}

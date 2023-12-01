@@ -1,0 +1,1 @@
+{"channel": "katsudion", "avg_viewers": 269, "followers_gained": 285, "peak_viewers": 957, "hours_streamed": 112, "streams": 21, "mature": 0, "language": "Japanese", "account_age": 3880800.0}

@@ -1,0 +1,1 @@
+{"channel": "ewinie", "avg_viewers": 2, "followers_gained": 18, "peak_viewers": 10, "hours_streamed": 36, "streams": 14, "mature": 1, "language": "Finnish", "account_age": 1504800.0}

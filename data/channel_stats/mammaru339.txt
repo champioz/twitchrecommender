@@ -1,0 +1,1 @@
+{"channel": "mammaru339", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 16, "hours_streamed": 40, "streams": 20, "mature": 0, "language": "Japanese", "account_age": 1362240.0}

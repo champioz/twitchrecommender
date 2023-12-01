@@ -1,0 +1,1 @@
+{"channel": "mus1ck", "avg_viewers": 117, "followers_gained": 130, "peak_viewers": 189, "hours_streamed": 37, "streams": 12, "mature": 1, "language": "English", "account_age": 4474080.0}

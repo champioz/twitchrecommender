@@ -1,0 +1,1 @@
+{"channel": "panickdpanda", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 6, "hours_streamed": 20, "streams": 6, "mature": 1, "language": "English", "account_age": 299520.0}

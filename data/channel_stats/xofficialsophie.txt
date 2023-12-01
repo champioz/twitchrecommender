@@ -1,0 +1,1 @@
+{"channel": "xofficialsophie", "avg_viewers": 15, "followers_gained": 80, "peak_viewers": 41, "hours_streamed": 38, "streams": 17, "mature": 0, "language": "English", "account_age": 976320.0}

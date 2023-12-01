@@ -1,0 +1,1 @@
+{"channel": "dubs53", "avg_viewers": 2, "followers_gained": 36, "peak_viewers": 69, "hours_streamed": 73, "streams": 40, "mature": 0, "language": "English", "account_age": 2386080.0}

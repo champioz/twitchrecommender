@@ -1,0 +1,1 @@
+{"channel": "shadybunny", "avg_viewers": 515, "followers_gained": 279, "peak_viewers": 982, "hours_streamed": 163, "streams": 25, "mature": 0, "language": "English", "account_age": 4386240.0}

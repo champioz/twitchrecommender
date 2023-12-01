@@ -1,0 +1,1 @@
+{"channel": "magicfishmind", "avg_viewers": 7, "followers_gained": 92, "peak_viewers": 55, "hours_streamed": 72, "streams": 14, "mature": 0, "language": "English", "account_age": 2386080.0}

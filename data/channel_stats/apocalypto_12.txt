@@ -1,0 +1,1 @@
+{"channel": "apocalypto_12", "avg_viewers": 87, "followers_gained": 1238, "peak_viewers": 204, "hours_streamed": 56, "streams": 13, "mature": 0, "language": "English", "account_age": 2234880.0}

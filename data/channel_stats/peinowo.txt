@@ -1,0 +1,1 @@
+{"channel": "peinowo", "avg_viewers": 11, "followers_gained": 62, "peak_viewers": 33, "hours_streamed": 69, "streams": 15, "mature": 0, "language": "English", "account_age": 3536640.0}

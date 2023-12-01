@@ -1,0 +1,1 @@
+{"channel": "skate702", "avg_viewers": 659, "followers_gained": 62, "peak_viewers": 2875, "hours_streamed": 21, "streams": 9, "mature": 0, "language": "German", "account_age": 4104000.0}

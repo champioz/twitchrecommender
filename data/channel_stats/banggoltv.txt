@@ -1,0 +1,1 @@
+{"channel": "banggoltv", "avg_viewers": 14, "followers_gained": 51, "peak_viewers": 44, "hours_streamed": 99, "streams": 24, "mature": 0, "language": "Korean", "account_age": 486720.0}

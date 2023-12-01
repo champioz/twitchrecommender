@@ -1,0 +1,1 @@
+{"channel": "kleberiano", "avg_viewers": 115, "followers_gained": 235, "peak_viewers": 184, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "Portuguese", "account_age": 3160800.0}

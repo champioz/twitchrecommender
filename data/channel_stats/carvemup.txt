@@ -1,0 +1,1 @@
+{"channel": "carvemup", "avg_viewers": 45, "followers_gained": 34, "peak_viewers": 488, "hours_streamed": 98, "streams": 18, "mature": 0, "language": "English", "account_age": 1195200.0}

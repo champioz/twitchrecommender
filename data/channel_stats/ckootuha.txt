@@ -1,0 +1,1 @@
+{"channel": "ckootuha", "avg_viewers": 41, "followers_gained": 297, "peak_viewers": 76, "hours_streamed": 144, "streams": 21, "mature": 0, "language": "Russian", "account_age": 3303360.0}

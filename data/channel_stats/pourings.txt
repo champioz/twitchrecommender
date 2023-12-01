@@ -1,0 +1,1 @@
+{"channel": "pourings", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 12, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "English", "account_age": 753120.0}

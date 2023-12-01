@@ -1,0 +1,1 @@
+{"channel": "kd_rush", "avg_viewers": 8, "followers_gained": 47, "peak_viewers": 39, "hours_streamed": 78, "streams": 9, "mature": 1, "language": "English", "account_age": 2836800.0}

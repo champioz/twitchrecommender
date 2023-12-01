@@ -1,0 +1,1 @@
+{"channel": "jody", "avg_viewers": 4, "followers_gained": 7, "peak_viewers": 16, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "English", "account_age": 1205280.0}

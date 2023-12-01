@@ -1,0 +1,1 @@
+{"channel": "ozgamergirl", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 146, "streams": 23, "mature": 1, "language": "English", "account_age": 1512000.0}

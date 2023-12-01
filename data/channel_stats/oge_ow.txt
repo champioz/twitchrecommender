@@ -1,0 +1,1 @@
+{"channel": "oge_ow", "avg_viewers": 291, "followers_gained": 149, "peak_viewers": 2955, "hours_streamed": 32, "streams": 14, "mature": 0, "language": "Korean", "account_age": 804960.0}

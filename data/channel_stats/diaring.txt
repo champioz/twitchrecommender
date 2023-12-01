@@ -1,0 +1,1 @@
+{"channel": "diaring", "avg_viewers": 41, "followers_gained": 38, "peak_viewers": 100, "hours_streamed": 39, "streams": 17, "mature": 0, "language": "Korean", "account_age": 649440.0}

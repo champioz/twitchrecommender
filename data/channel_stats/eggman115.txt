@@ -1,0 +1,1 @@
+{"channel": "eggman115", "avg_viewers": 16, "followers_gained": 68, "peak_viewers": 40, "hours_streamed": 88, "streams": 11, "mature": 1, "language": "English", "account_age": 1270080.0}

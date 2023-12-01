@@ -1,0 +1,1 @@
+{"channel": "crochetdude", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 21, "hours_streamed": 49, "streams": 8, "mature": 0, "language": "English", "account_age": 1645920.0}

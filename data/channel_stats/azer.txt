@@ -1,0 +1,1 @@
+{"channel": "azer", "avg_viewers": 109, "followers_gained": 392, "peak_viewers": 1467, "hours_streamed": 72, "streams": 15, "mature": 0, "language": "English", "account_age": 3418560.0}

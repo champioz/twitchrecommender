@@ -1,0 +1,1 @@
+{"channel": "bchillz", "avg_viewers": 606, "followers_gained": 2843, "peak_viewers": 1176, "hours_streamed": 142, "streams": 14, "mature": 0, "language": "English", "account_age": 3722400.0}

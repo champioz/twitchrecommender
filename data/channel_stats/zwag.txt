@@ -1,0 +1,1 @@
+{"channel": "zwag", "avg_viewers": 292, "followers_gained": 2216, "peak_viewers": 681, "hours_streamed": 88, "streams": 21, "mature": 0, "language": "English", "account_age": 3130560.0}

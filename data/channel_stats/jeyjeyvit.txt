@@ -1,0 +1,1 @@
+{"channel": "jeyjeyvit", "avg_viewers": 99, "followers_gained": 740, "peak_viewers": 670, "hours_streamed": 111, "streams": 30, "mature": 1, "language": "Swedish", "account_age": 4417920.0}

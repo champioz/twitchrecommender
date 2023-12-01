@@ -1,0 +1,1 @@
+{"channel": "wilmorex", "avg_viewers": 5, "followers_gained": 25, "peak_viewers": 15, "hours_streamed": 89, "streams": 24, "mature": 1, "language": "Italian", "account_age": 2638080.0}

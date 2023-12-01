@@ -1,0 +1,1 @@
+{"channel": "proxureqpp", "avg_viewers": 7, "followers_gained": 62, "peak_viewers": 26, "hours_streamed": 110, "streams": 38, "mature": 0, "language": "Spanish", "account_age": 2161440.0}

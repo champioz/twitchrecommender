@@ -1,0 +1,1 @@
+{"channel": "geekingoutwithg", "avg_viewers": 2, "followers_gained": 23, "peak_viewers": 10, "hours_streamed": 47, "streams": 12, "mature": 1, "language": "English", "account_age": 2255040.0}

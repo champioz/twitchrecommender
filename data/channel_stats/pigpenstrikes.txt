@@ -1,0 +1,1 @@
+{"channel": "pigpenstrikes", "avg_viewers": 8, "followers_gained": 59, "peak_viewers": 193, "hours_streamed": 102, "streams": 23, "mature": 1, "language": "English", "account_age": 1421280.0}

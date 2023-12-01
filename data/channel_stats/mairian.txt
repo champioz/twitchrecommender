@@ -1,0 +1,1 @@
+{"channel": "mairian", "avg_viewers": 38, "followers_gained": 65, "peak_viewers": 182, "hours_streamed": 77, "streams": 19, "mature": 0, "language": "English", "account_age": 2371680.0}

@@ -1,0 +1,1 @@
+{"channel": "saix97", "avg_viewers": 3, "followers_gained": 14, "peak_viewers": 16, "hours_streamed": 48, "streams": 14, "mature": 0, "language": "German", "account_age": 2289600.0}

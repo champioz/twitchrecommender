@@ -1,0 +1,1 @@
+{"channel": "dieserkingphil", "avg_viewers": 82, "followers_gained": 1520, "peak_viewers": 238, "hours_streamed": 188, "streams": 25, "mature": 1, "language": "German", "account_age": 1958400.0}

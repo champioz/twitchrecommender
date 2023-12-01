@@ -1,0 +1,1 @@
+{"channel": "neation5", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 1, "hours_streamed": 14, "streams": 7, "mature": 0, "language": "Japanese", "account_age": 2352960.0}

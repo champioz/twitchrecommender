@@ -1,0 +1,1 @@
+{"channel": "str_chrii", "avg_viewers": 3, "followers_gained": 35, "peak_viewers": 12, "hours_streamed": 9, "streams": 5, "mature": 0, "language": "Italian", "account_age": 783360.0}

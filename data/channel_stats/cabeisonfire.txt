@@ -1,0 +1,1 @@
+{"channel": "cabeisonfire", "avg_viewers": 25, "followers_gained": 87, "peak_viewers": 61, "hours_streamed": 67, "streams": 16, "mature": 0, "language": "Spanish", "account_age": 1379520.0}

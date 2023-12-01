@@ -1,0 +1,1 @@
+{"channel": "hugheberto", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 13, "streams": 6, "mature": 1, "language": "English", "account_age": 1620000.0}

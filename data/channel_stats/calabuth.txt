@@ -1,0 +1,1 @@
+{"channel": "calabuth", "avg_viewers": 42, "followers_gained": 202, "peak_viewers": 99, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 2452320.0}

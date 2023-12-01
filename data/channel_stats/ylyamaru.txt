@@ -1,0 +1,1 @@
+{"channel": "ylyamaru", "avg_viewers": 16, "followers_gained": 14, "peak_viewers": 44, "hours_streamed": 15, "streams": 5, "mature": 1, "language": "Russian", "account_age": 1978560.0}

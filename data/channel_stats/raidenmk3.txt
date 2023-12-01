@@ -1,0 +1,1 @@
+{"channel": "raidenmk3", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 34, "hours_streamed": 190, "streams": 33, "mature": 1, "language": "Russian", "account_age": 3481920.0}

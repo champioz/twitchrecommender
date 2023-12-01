@@ -1,0 +1,1 @@
+{"channel": "torizinha", "avg_viewers": 13, "followers_gained": 85, "peak_viewers": 42, "hours_streamed": 20, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 1012320.0}

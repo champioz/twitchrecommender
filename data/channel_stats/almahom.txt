@@ -1,0 +1,1 @@
+{"channel": "almahom", "avg_viewers": 4, "followers_gained": 428, "peak_viewers": 22, "hours_streamed": 229, "streams": 59, "mature": 0, "language": "Russian", "account_age": 2018880.0}

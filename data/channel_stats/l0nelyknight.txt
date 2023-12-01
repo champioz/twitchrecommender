@@ -1,0 +1,1 @@
+{"channel": "l0nelyknight", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 5, "hours_streamed": 31, "streams": 8, "mature": 1, "language": "French", "account_age": 2895840.0}

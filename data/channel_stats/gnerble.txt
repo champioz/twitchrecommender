@@ -1,0 +1,1 @@
+{"channel": "gnerble", "avg_viewers": 9, "followers_gained": 7, "peak_viewers": 38, "hours_streamed": 22, "streams": 7, "mature": 1, "language": "English", "account_age": 1889280.0}

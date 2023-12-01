@@ -1,0 +1,1 @@
+{"channel": "bizmeister", "avg_viewers": 3, "followers_gained": 17, "peak_viewers": 21, "hours_streamed": 41, "streams": 16, "mature": 1, "language": "English", "account_age": 2845440.0}

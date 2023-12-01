@@ -1,0 +1,1 @@
+{"channel": "rikkastylezzz", "avg_viewers": 3, "followers_gained": 19, "peak_viewers": 14, "hours_streamed": 46, "streams": 13, "mature": 1, "language": "Russian", "account_age": 3352320.0}

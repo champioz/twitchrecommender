@@ -1,0 +1,1 @@
+{"channel": "craftyrebel", "avg_viewers": 6, "followers_gained": 0, "peak_viewers": 15, "hours_streamed": 2, "streams": 2, "mature": 1, "language": "English", "account_age": 1326240.0}

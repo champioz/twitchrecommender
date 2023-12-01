@@ -1,0 +1,1 @@
+{"channel": "lisky_", "avg_viewers": 2, "followers_gained": 64, "peak_viewers": 29, "hours_streamed": 57, "streams": 23, "mature": 1, "language": "French", "account_age": 974880.0}

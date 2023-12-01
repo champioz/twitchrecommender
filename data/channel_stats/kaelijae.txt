@@ -1,0 +1,1 @@
+{"channel": "kaelijae", "avg_viewers": 23, "followers_gained": 81, "peak_viewers": 87, "hours_streamed": 134, "streams": 10, "mature": 1, "language": "English", "account_age": 2772000.0}

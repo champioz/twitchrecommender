@@ -1,0 +1,1 @@
+{"channel": "badgones269", "avg_viewers": 24, "followers_gained": 378, "peak_viewers": 57, "hours_streamed": 58, "streams": 30, "mature": 0, "language": "French", "account_age": 2047680.0}

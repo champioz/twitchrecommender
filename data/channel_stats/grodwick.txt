@@ -1,0 +1,1 @@
+{"channel": "grodwick", "avg_viewers": 3, "followers_gained": 28, "peak_viewers": 25, "hours_streamed": 77, "streams": 23, "mature": 1, "language": "Spanish", "account_age": 3424320.0}

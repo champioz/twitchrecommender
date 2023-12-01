@@ -1,0 +1,1 @@
+{"channel": "delirio89", "avg_viewers": 1, "followers_gained": 36, "peak_viewers": 19, "hours_streamed": 201, "streams": 41, "mature": 0, "language": "Italian", "account_age": 868320.0}

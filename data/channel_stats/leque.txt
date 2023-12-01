@@ -1,0 +1,1 @@
+{"channel": "leque", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 9, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 2607840.0}

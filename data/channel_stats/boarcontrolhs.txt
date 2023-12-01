@@ -1,0 +1,1 @@
+{"channel": "boarcontrolhs", "avg_viewers": 472, "followers_gained": 1828, "peak_viewers": 1622, "hours_streamed": 195, "streams": 30, "mature": 0, "language": "English", "account_age": 2172960.0}

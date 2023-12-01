@@ -1,0 +1,1 @@
+{"channel": "do_to_gg", "avg_viewers": 2, "followers_gained": 79, "peak_viewers": 13, "hours_streamed": 40, "streams": 26, "mature": 0, "language": "Russian", "account_age": 2952000.0}

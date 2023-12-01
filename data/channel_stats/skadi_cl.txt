@@ -1,0 +1,1 @@
+{"channel": "skadi_cl", "avg_viewers": 26, "followers_gained": 161, "peak_viewers": 54, "hours_streamed": 59, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 436320.0}

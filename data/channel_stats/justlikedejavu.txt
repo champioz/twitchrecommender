@@ -1,0 +1,1 @@
+{"channel": "justlikedejavu", "avg_viewers": 43, "followers_gained": 91, "peak_viewers": 118, "hours_streamed": 64, "streams": 17, "mature": 1, "language": "Greek", "account_age": 1241280.0}

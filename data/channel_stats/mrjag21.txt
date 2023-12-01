@@ -1,0 +1,1 @@
+{"channel": "mrjag21", "avg_viewers": 6, "followers_gained": 90, "peak_viewers": 33, "hours_streamed": 143, "streams": 30, "mature": 0, "language": "Spanish", "account_age": 2897280.0}

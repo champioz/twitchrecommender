@@ -1,0 +1,1 @@
+{"channel": "chibichio", "avg_viewers": 4, "followers_gained": 14, "peak_viewers": 12, "hours_streamed": 37, "streams": 21, "mature": 0, "language": "Spanish", "account_age": 1618560.0}

@@ -1,0 +1,1 @@
+{"channel": "scarlit", "avg_viewers": 30, "followers_gained": 102, "peak_viewers": 91, "hours_streamed": 19, "streams": 8, "mature": 0, "language": "English", "account_age": 1156320.0}

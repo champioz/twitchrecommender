@@ -1,0 +1,1 @@
+{"channel": "baragoz", "avg_viewers": 4, "followers_gained": 60, "peak_viewers": 12, "hours_streamed": 34, "streams": 11, "mature": 0, "language": "Russian", "account_age": 1314720.0}

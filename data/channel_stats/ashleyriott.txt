@@ -1,0 +1,1 @@
+{"channel": "ashleyriott", "avg_viewers": 19, "followers_gained": 64, "peak_viewers": 44, "hours_streamed": 51, "streams": 15, "mature": 1, "language": "English", "account_age": 4200480.0}

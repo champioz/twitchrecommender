@@ -1,0 +1,1 @@
+{"channel": "kinared", "avg_viewers": 14, "followers_gained": 6, "peak_viewers": 28, "hours_streamed": 57, "streams": 7, "mature": 0, "language": "Russian", "account_age": 2966400.0}

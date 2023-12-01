@@ -1,0 +1,1 @@
+{"channel": "crazytrucks_", "avg_viewers": 29, "followers_gained": 358, "peak_viewers": 474, "hours_streamed": 209, "streams": 47, "mature": 1, "language": "English", "account_age": 2276640.0}

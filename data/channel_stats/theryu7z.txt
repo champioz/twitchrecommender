@@ -1,0 +1,1 @@
+{"channel": "theryu7z", "avg_viewers": 396, "followers_gained": 698, "peak_viewers": 731, "hours_streamed": 106, "streams": 42, "mature": 0, "language": "French", "account_age": 2953440.0}

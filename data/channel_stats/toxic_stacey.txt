@@ -1,0 +1,1 @@
+{"channel": "toxic_stacey", "avg_viewers": 8, "followers_gained": 63, "peak_viewers": 71, "hours_streamed": 55, "streams": 25, "mature": 1, "language": "English", "account_age": 228960.0}

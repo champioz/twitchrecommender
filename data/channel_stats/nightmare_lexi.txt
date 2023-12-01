@@ -1,0 +1,1 @@
+{"channel": "nightmare_lexi", "avg_viewers": 4, "followers_gained": 61, "peak_viewers": 13, "hours_streamed": 25, "streams": 20, "mature": 1, "language": "English", "account_age": 563040.0}

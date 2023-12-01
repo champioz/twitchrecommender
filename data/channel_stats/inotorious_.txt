@@ -1,0 +1,1 @@
+{"channel": "inotorious_", "avg_viewers": 135, "followers_gained": 1018, "peak_viewers": 283, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "English", "account_age": 3116160.0}

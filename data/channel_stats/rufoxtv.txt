@@ -1,0 +1,1 @@
+{"channel": "rufoxtv", "avg_viewers": 3, "followers_gained": 43, "peak_viewers": 60, "hours_streamed": 155, "streams": 41, "mature": 0, "language": "Portuguese", "account_age": 1762560.0}

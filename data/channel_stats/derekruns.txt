@@ -1,0 +1,1 @@
+{"channel": "derekruns", "avg_viewers": 5, "followers_gained": 15, "peak_viewers": 20, "hours_streamed": 56, "streams": 24, "mature": 0, "language": "English", "account_age": 3831840.0}

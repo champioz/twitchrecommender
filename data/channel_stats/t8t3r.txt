@@ -1,0 +1,1 @@
+{"channel": "t8t3r", "avg_viewers": 7, "followers_gained": 7, "peak_viewers": 17, "hours_streamed": 76, "streams": 19, "mature": 1, "language": "English", "account_age": 3319200.0}

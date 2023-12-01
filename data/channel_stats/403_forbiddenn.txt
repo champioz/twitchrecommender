@@ -1,0 +1,1 @@
+{"channel": "403_forbiddenn", "avg_viewers": 13, "followers_gained": 318, "peak_viewers": 40, "hours_streamed": 49, "streams": 16, "mature": 1, "language": "Turkish", "account_age": 660960.0}

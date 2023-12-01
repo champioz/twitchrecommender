@@ -1,0 +1,1 @@
+{"channel": "mengxiang", "avg_viewers": 16, "followers_gained": 2, "peak_viewers": 94, "hours_streamed": 220, "streams": 18, "mature": 1, "language": "Chinese", "account_age": 5094720.0}

@@ -1,0 +1,1 @@
+{"channel": "kekumanshoyu", "avg_viewers": 24, "followers_gained": 23, "peak_viewers": 352, "hours_streamed": 50, "streams": 16, "mature": 1, "language": "English", "account_age": 1880640.0}

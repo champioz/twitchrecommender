@@ -1,0 +1,1 @@
+{"channel": "chibimiharu", "avg_viewers": 28, "followers_gained": 76, "peak_viewers": 323, "hours_streamed": 47, "streams": 13, "mature": 0, "language": "English", "account_age": 1830240.0}

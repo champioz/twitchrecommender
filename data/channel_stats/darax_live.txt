@@ -1,0 +1,1 @@
+{"channel": "darax_live", "avg_viewers": 4, "followers_gained": 15, "peak_viewers": 32, "hours_streamed": 109, "streams": 31, "mature": 0, "language": "German", "account_age": 375840.0}

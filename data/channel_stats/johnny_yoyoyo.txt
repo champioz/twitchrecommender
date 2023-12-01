@@ -1,0 +1,1 @@
+{"channel": "johnny_yoyoyo", "avg_viewers": 10, "followers_gained": 1, "peak_viewers": 23, "hours_streamed": 70, "streams": 22, "mature": 1, "language": "Chinese", "account_age": 2495520.0}

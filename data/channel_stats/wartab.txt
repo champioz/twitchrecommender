@@ -1,0 +1,1 @@
+{"channel": "wartab", "avg_viewers": 20, "followers_gained": 98, "peak_viewers": 121, "hours_streamed": 76, "streams": 17, "mature": 0, "language": "English", "account_age": 3706560.0}

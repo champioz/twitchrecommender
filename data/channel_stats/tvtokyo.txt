@@ -1,0 +1,1 @@
+{"channel": "tvtokyo", "avg_viewers": 217, "followers_gained": 320, "peak_viewers": 804, "hours_streamed": 19, "streams": 8, "mature": 0, "language": "Japanese", "account_age": 859680.0}

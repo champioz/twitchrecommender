@@ -1,0 +1,1 @@
+{"channel": "georgiosomythos", "avg_viewers": 0, "followers_gained": 12, "peak_viewers": 14, "hours_streamed": 68, "streams": 25, "mature": 1, "language": "Other", "account_age": 1048320.0}

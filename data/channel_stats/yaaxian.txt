@@ -1,0 +1,1 @@
+{"channel": "yaaxian", "avg_viewers": 18, "followers_gained": 495, "peak_viewers": 58, "hours_streamed": 155, "streams": 30, "mature": 0, "language": "Hungarian", "account_age": 760320.0}

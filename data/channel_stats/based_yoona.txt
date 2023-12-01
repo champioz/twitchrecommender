@@ -1,0 +1,1 @@
+{"channel": "based_yoona", "avg_viewers": 101, "followers_gained": 66, "peak_viewers": 4818, "hours_streamed": 141, "streams": 25, "mature": 0, "language": "English", "account_age": 3198240.0}

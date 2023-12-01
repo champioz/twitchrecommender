@@ -1,0 +1,1 @@
+{"channel": "cocount", "avg_viewers": 50, "followers_gained": 29, "peak_viewers": 93, "hours_streamed": 42, "streams": 11, "mature": 0, "language": "Chinese", "account_age": 1823040.0}

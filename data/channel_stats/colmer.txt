@@ -1,0 +1,1 @@
+{"channel": "colmer", "avg_viewers": 79, "followers_gained": 302, "peak_viewers": 315, "hours_streamed": 113, "streams": 21, "mature": 1, "language": "English", "account_age": 976320.0}

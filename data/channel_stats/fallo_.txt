@@ -1,0 +1,1 @@
+{"channel": "fallo_", "avg_viewers": 2, "followers_gained": 76, "peak_viewers": 17, "hours_streamed": 79, "streams": 52, "mature": 0, "language": "Czech", "account_age": 792000.0}

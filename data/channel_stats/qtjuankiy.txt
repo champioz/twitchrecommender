@@ -1,0 +1,1 @@
+{"channel": "qtjuankiy", "avg_viewers": 1, "followers_gained": 8, "peak_viewers": 28, "hours_streamed": 262, "streams": 27, "mature": 0, "language": "Spanish", "account_age": 516960.0}

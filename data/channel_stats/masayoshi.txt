@@ -1,0 +1,1 @@
+{"channel": "masayoshi", "avg_viewers": 274, "followers_gained": 17235, "peak_viewers": 1784, "hours_streamed": 189, "streams": 23, "mature": 0, "language": "English", "account_age": 3163680.0}

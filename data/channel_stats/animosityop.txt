@@ -1,0 +1,1 @@
+{"channel": "animosityop", "avg_viewers": 6, "followers_gained": 25, "peak_viewers": 44, "hours_streamed": 99, "streams": 24, "mature": 0, "language": "English", "account_age": 780480.0}

@@ -1,0 +1,1 @@
+{"channel": "capslockkeyon", "avg_viewers": 30, "followers_gained": 84, "peak_viewers": 125, "hours_streamed": 88, "streams": 15, "mature": 0, "language": "English", "account_age": 2299680.0}

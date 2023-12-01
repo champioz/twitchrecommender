@@ -1,0 +1,1 @@
+{"channel": "zone2game", "avg_viewers": 98, "followers_gained": 271, "peak_viewers": 242, "hours_streamed": 144, "streams": 29, "mature": 1, "language": "French", "account_age": 1405440.0}

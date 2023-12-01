@@ -1,0 +1,1 @@
+{"channel": "majoy4fun", "avg_viewers": 3, "followers_gained": 87, "peak_viewers": 63, "hours_streamed": 129, "streams": 30, "mature": 1, "language": "Portuguese", "account_age": 2617920.0}

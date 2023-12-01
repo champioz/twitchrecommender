@@ -1,0 +1,1 @@
+{"channel": "bletchleypunk", "avg_viewers": 64, "followers_gained": 70, "peak_viewers": 245, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "English", "account_age": 118080.0}

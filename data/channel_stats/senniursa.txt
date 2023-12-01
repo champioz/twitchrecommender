@@ -1,0 +1,1 @@
+{"channel": "senniursa", "avg_viewers": 19, "followers_gained": 65, "peak_viewers": 46, "hours_streamed": 29, "streams": 7, "mature": 0, "language": "English", "account_age": 2232000.0}

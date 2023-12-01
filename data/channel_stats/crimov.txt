@@ -1,0 +1,1 @@
+{"channel": "crimov", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "French", "account_age": 1016640.0}

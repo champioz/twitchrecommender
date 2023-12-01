@@ -1,0 +1,1 @@
+{"channel": "forcemithrandir", "avg_viewers": 22, "followers_gained": 54, "peak_viewers": 41, "hours_streamed": 67, "streams": 27, "mature": 1, "language": "Spanish", "account_age": 4440960.0}

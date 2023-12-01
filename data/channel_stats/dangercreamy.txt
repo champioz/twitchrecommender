@@ -1,0 +1,1 @@
+{"channel": "dangercreamy", "avg_viewers": 9, "followers_gained": 43, "peak_viewers": 39, "hours_streamed": 63, "streams": 19, "mature": 1, "language": "English", "account_age": 2854080.0}

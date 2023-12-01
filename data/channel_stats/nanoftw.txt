@@ -1,0 +1,1 @@
+{"channel": "nanoftw", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 8, "hours_streamed": 57, "streams": 18, "mature": 1, "language": "Spanish", "account_age": 3689280.0}

@@ -1,0 +1,1 @@
+{"channel": "mila_alieva", "avg_viewers": 80, "followers_gained": 283, "peak_viewers": 1239, "hours_streamed": 51, "streams": 7, "mature": 0, "language": "Russian", "account_age": 3137760.0}

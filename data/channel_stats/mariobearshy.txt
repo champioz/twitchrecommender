@@ -1,0 +1,1 @@
+{"channel": "mariobearshy", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 7, "streams": 10, "mature": 0, "language": "English", "account_age": 2350080.0}

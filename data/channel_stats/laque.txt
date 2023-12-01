@@ -1,0 +1,1 @@
+{"channel": "laque", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 15, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "Russian", "account_age": 1497600.0}

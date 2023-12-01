@@ -1,0 +1,1 @@
+{"channel": "balkinvideos", "avg_viewers": 26, "followers_gained": 88, "peak_viewers": 145, "hours_streamed": 63, "streams": 14, "mature": 0, "language": "Spanish", "account_age": 3372480.0}

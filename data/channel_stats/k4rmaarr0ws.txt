@@ -1,0 +1,1 @@
+{"channel": "k4rmaarr0ws", "avg_viewers": 12, "followers_gained": 34, "peak_viewers": 41, "hours_streamed": 33, "streams": 15, "mature": 1, "language": "Greek", "account_age": 2278080.0}

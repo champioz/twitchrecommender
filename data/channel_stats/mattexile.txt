@@ -1,0 +1,1 @@
+{"channel": "mattexile", "avg_viewers": 5, "followers_gained": 36, "peak_viewers": 30, "hours_streamed": 76, "streams": 14, "mature": 0, "language": "English", "account_age": 3140640.0}

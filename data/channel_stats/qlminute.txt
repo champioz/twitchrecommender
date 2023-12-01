@@ -1,0 +1,1 @@
+{"channel": "qlminute", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 20, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 1224000.0}

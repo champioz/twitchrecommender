@@ -1,0 +1,1 @@
+{"channel": "fe0000", "avg_viewers": 125, "followers_gained": 288, "peak_viewers": 193, "hours_streamed": 12, "streams": 2, "mature": 0, "language": "Thai", "account_age": 2152800.0}

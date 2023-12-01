@@ -1,0 +1,1 @@
+{"channel": "jesuseu", "avg_viewers": 22, "followers_gained": 22, "peak_viewers": 38, "hours_streamed": 61, "streams": 10, "mature": 1, "language": "English", "account_age": 2291040.0}

@@ -1,0 +1,1 @@
+{"channel": "jcoxinthebox", "avg_viewers": 2, "followers_gained": 13, "peak_viewers": 8, "hours_streamed": 78, "streams": 19, "mature": 1, "language": "English", "account_age": 508320.0}

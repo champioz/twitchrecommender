@@ -1,0 +1,1 @@
+{"channel": "bobthracer", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 13, "hours_streamed": 22, "streams": 11, "mature": 1, "language": "English", "account_age": 1958400.0}

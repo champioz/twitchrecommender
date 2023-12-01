@@ -1,0 +1,1 @@
+{"channel": "chiinoogame", "avg_viewers": 3, "followers_gained": 127, "peak_viewers": 12, "hours_streamed": 106, "streams": 30, "mature": 1, "language": "Spanish", "account_age": 3182400.0}

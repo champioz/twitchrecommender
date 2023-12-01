@@ -1,0 +1,1 @@
+{"channel": "agsmitter", "avg_viewers": 7, "followers_gained": 182, "peak_viewers": 27, "hours_streamed": 247, "streams": 32, "mature": 0, "language": "Russian", "account_age": 3045600.0}

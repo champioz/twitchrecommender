@@ -1,0 +1,1 @@
+{"channel": "shumik_", "avg_viewers": 0, "followers_gained": 7, "peak_viewers": 5, "hours_streamed": 8, "streams": 9, "mature": 1, "language": "Czech", "account_age": 1428480.0}

@@ -1,0 +1,1 @@
+{"channel": "tilapiaplays", "avg_viewers": 2, "followers_gained": 162, "peak_viewers": 13, "hours_streamed": 125, "streams": 31, "mature": 0, "language": "Portuguese", "account_age": 348480.0}

@@ -1,0 +1,1 @@
+{"channel": "cat_fn", "avg_viewers": 48, "followers_gained": 372, "peak_viewers": 158, "hours_streamed": 19, "streams": 8, "mature": 1, "language": "English", "account_age": 557280.0}

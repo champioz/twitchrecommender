@@ -1,0 +1,1 @@
+{"channel": "claudiblu", "avg_viewers": 15, "followers_gained": 16, "peak_viewers": 48, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "Italian", "account_age": 637920.0}

@@ -1,0 +1,1 @@
+{"channel": "wtfgamenation", "avg_viewers": 196, "followers_gained": 905, "peak_viewers": 1804, "hours_streamed": 203, "streams": 24, "mature": 1, "language": "English", "account_age": 1775520.0}

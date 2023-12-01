@@ -1,0 +1,1 @@
+{"channel": "madmatticusgames", "avg_viewers": 3, "followers_gained": 9, "peak_viewers": 15, "hours_streamed": 23, "streams": 9, "mature": 1, "language": "English", "account_age": 2989440.0}

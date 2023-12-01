@@ -1,0 +1,1 @@
+{"channel": "ixsora", "avg_viewers": 33, "followers_gained": 1751, "peak_viewers": 91, "hours_streamed": 188, "streams": 24, "mature": 1, "language": "English", "account_age": 468000.0}

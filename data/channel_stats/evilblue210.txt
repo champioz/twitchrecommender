@@ -1,0 +1,1 @@
+{"channel": "evilblue210", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 7, "hours_streamed": 132, "streams": 55, "mature": 0, "language": "Chinese", "account_age": 3962880.0}

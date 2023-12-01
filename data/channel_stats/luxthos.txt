@@ -1,0 +1,1 @@
+{"channel": "luxthos", "avg_viewers": 111, "followers_gained": 596, "peak_viewers": 381, "hours_streamed": 240, "streams": 37, "mature": 0, "language": "English", "account_age": 1457280.0}

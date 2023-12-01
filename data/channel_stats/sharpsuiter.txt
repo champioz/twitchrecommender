@@ -1,0 +1,1 @@
+{"channel": "sharpsuiter", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 15, "hours_streamed": 104, "streams": 30, "mature": 0, "language": "American Sign Language", "account_age": 1751040.0}

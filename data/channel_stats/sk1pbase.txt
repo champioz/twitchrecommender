@@ -1,0 +1,1 @@
+{"channel": "sk1pbase", "avg_viewers": 12, "followers_gained": 74, "peak_viewers": 60, "hours_streamed": 94, "streams": 27, "mature": 0, "language": "Russian", "account_age": 3879360.0}

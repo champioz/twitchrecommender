@@ -1,0 +1,1 @@
+{"channel": "jackeryz", "avg_viewers": 50, "followers_gained": 353, "peak_viewers": 102, "hours_streamed": 49, "streams": 19, "mature": 0, "language": "English", "account_age": 1833120.0}

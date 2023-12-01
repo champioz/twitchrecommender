@@ -1,0 +1,1 @@
+{"channel": "danichuelo", "avg_viewers": 7, "followers_gained": 94, "peak_viewers": 28, "hours_streamed": 87, "streams": 22, "mature": 1, "language": "Spanish", "account_age": 1365120.0}

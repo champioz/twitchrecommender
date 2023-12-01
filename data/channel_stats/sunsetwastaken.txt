@@ -1,0 +1,1 @@
+{"channel": "sunsetwastaken", "avg_viewers": 28, "followers_gained": 37, "peak_viewers": 46, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 2944800.0}

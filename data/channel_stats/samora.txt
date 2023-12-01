@@ -1,0 +1,1 @@
+{"channel": "samora", "avg_viewers": 74, "followers_gained": 215, "peak_viewers": 337, "hours_streamed": 93, "streams": 19, "mature": 0, "language": "English", "account_age": 4109760.0}

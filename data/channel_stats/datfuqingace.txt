@@ -1,0 +1,1 @@
+{"channel": "datfuqingace", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 19, "streams": 5, "mature": 1, "language": "German", "account_age": 2466720.0}

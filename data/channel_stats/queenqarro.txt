@@ -1,0 +1,1 @@
+{"channel": "queenqarro", "avg_viewers": 56, "followers_gained": 193, "peak_viewers": 173, "hours_streamed": 59, "streams": 17, "mature": 1, "language": "Swedish", "account_age": 829440.0}

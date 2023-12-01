@@ -1,0 +1,1 @@
+{"channel": "badnasko", "avg_viewers": 6, "followers_gained": 60, "peak_viewers": 18, "hours_streamed": 61, "streams": 12, "mature": 1, "language": "Bulgarian", "account_age": 5783040.0}

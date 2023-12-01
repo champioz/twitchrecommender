@@ -1,0 +1,1 @@
+{"channel": "tuckilive", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 10, "hours_streamed": 136, "streams": 32, "mature": 1, "language": "German", "account_age": 2069280.0}

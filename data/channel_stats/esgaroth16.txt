@@ -1,0 +1,1 @@
+{"channel": "esgaroth16", "avg_viewers": 272, "followers_gained": 11, "peak_viewers": 318, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "Polish", "account_age": 4037760.0}

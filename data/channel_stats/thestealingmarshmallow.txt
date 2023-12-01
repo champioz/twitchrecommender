@@ -1,0 +1,1 @@
+{"channel": "thestealingmarshmallow", "avg_viewers": 16, "followers_gained": 16, "peak_viewers": 32, "hours_streamed": 8, "streams": 5, "mature": 1, "language": "Danish", "account_age": 1728000.0}

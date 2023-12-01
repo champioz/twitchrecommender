@@ -1,0 +1,1 @@
+{"channel": "nerogemma", "avg_viewers": 13, "followers_gained": 42, "peak_viewers": 29, "hours_streamed": 54, "streams": 19, "mature": 0, "language": "Russian", "account_age": 470880.0}

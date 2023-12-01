@@ -1,0 +1,1 @@
+{"channel": "tofu2789", "avg_viewers": 53, "followers_gained": 1, "peak_viewers": 101, "hours_streamed": 21, "streams": 13, "mature": 1, "language": "Chinese", "account_age": 2260800.0}

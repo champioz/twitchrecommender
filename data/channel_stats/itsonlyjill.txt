@@ -1,0 +1,1 @@
+{"channel": "itsonlyjill", "avg_viewers": 29, "followers_gained": 221, "peak_viewers": 74, "hours_streamed": 130, "streams": 26, "mature": 1, "language": "English", "account_age": 911520.0}

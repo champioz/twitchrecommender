@@ -1,0 +1,1 @@
+{"channel": "elhartu", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 10, "hours_streamed": 115, "streams": 23, "mature": 1, "language": "Spanish", "account_age": 529920.0}

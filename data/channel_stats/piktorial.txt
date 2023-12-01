@@ -1,0 +1,1 @@
+{"channel": "piktorial", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 14, "hours_streamed": 77, "streams": 14, "mature": 1, "language": "English", "account_age": 548640.0}

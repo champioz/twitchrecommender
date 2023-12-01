@@ -1,0 +1,1 @@
+{"channel": "winbykayo", "avg_viewers": 3, "followers_gained": 35, "peak_viewers": 40, "hours_streamed": 121, "streams": 26, "mature": 1, "language": "English", "account_age": 1467360.0}

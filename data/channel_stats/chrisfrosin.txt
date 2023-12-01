@@ -1,0 +1,1 @@
+{"channel": "chrisfrosin", "avg_viewers": 22, "followers_gained": 113, "peak_viewers": 115, "hours_streamed": 82, "streams": 20, "mature": 0, "language": "English", "account_age": 2567520.0}

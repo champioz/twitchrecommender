@@ -1,0 +1,1 @@
+{"channel": "problyovr9000", "avg_viewers": 64, "followers_gained": 72, "peak_viewers": 442, "hours_streamed": 85, "streams": 21, "mature": 0, "language": "English", "account_age": 2440800.0}

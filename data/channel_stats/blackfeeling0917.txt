@@ -1,0 +1,1 @@
+{"channel": "blackfeeling0917", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 19, "hours_streamed": 100, "streams": 30, "mature": 0, "language": "Chinese", "account_age": 1164960.0}

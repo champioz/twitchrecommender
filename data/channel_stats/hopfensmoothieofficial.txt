@@ -1,0 +1,1 @@
+{"channel": "hopfensmoothieofficial", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 10, "hours_streamed": 23, "streams": 9, "mature": 1, "language": "German", "account_age": 1146240.0}

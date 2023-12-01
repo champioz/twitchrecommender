@@ -1,0 +1,1 @@
+{"channel": "theterrifictracy", "avg_viewers": 10, "followers_gained": 43, "peak_viewers": 148, "hours_streamed": 62, "streams": 17, "mature": 0, "language": "English", "account_age": 3166560.0}

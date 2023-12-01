@@ -1,0 +1,1 @@
+{"channel": "khezu", "avg_viewers": 968, "followers_gained": 402, "peak_viewers": 3231, "hours_streamed": 18, "streams": 5, "mature": 0, "language": "English", "account_age": 4118400.0}

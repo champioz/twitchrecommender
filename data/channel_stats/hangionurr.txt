@@ -1,0 +1,1 @@
+{"channel": "hangionurr", "avg_viewers": 5, "followers_gained": 137, "peak_viewers": 24, "hours_streamed": 73, "streams": 29, "mature": 1, "language": "Turkish", "account_age": 649440.0}

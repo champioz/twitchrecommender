@@ -1,0 +1,1 @@
+{"channel": "avataco", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 10, "hours_streamed": 8, "streams": 3, "mature": 1, "language": "English", "account_age": 3932640.0}

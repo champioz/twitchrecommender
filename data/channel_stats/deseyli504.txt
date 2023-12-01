@@ -1,0 +1,1 @@
+{"channel": "deseyli504", "avg_viewers": 4, "followers_gained": 181, "peak_viewers": 16, "hours_streamed": 125, "streams": 56, "mature": 0, "language": "Spanish", "account_age": 784800.0}

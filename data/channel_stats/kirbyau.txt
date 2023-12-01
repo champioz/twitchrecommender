@@ -1,0 +1,1 @@
+{"channel": "kirbyau", "avg_viewers": 27, "followers_gained": 51, "peak_viewers": 225, "hours_streamed": 63, "streams": 16, "mature": 1, "language": "English", "account_age": 4472640.0}

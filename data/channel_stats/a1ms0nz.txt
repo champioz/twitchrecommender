@@ -1,0 +1,1 @@
+{"channel": "a1ms0nz", "avg_viewers": 112, "followers_gained": 336, "peak_viewers": 308, "hours_streamed": 14, "streams": 4, "mature": 0, "language": "German", "account_age": 2289600.0}

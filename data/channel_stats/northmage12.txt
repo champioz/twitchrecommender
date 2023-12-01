@@ -1,0 +1,1 @@
+{"channel": "northmage12", "avg_viewers": 8, "followers_gained": 135, "peak_viewers": 163, "hours_streamed": 190, "streams": 41, "mature": 0, "language": "English", "account_age": 2941920.0}

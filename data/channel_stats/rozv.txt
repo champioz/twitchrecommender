@@ -1,0 +1,1 @@
+{"channel": "rozv", "avg_viewers": 3, "followers_gained": 68, "peak_viewers": 10, "hours_streamed": 81, "streams": 16, "mature": 0, "language": "English", "account_age": 1870560.0}

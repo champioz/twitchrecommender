@@ -1,0 +1,1 @@
+{"channel": "iitztimmy", "avg_viewers": 17, "followers_gained": 444, "peak_viewers": 160, "hours_streamed": 264, "streams": 30, "mature": 0, "language": "English", "account_age": 3205440.0}

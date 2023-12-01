@@ -1,0 +1,1 @@
+{"channel": "54jojo", "avg_viewers": 278, "followers_gained": 543, "peak_viewers": 542, "hours_streamed": 15, "streams": 6, "mature": 0, "language": "Chinese", "account_age": 797760.0}

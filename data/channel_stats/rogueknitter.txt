@@ -1,0 +1,1 @@
+{"channel": "rogueknitter", "avg_viewers": 10, "followers_gained": 32, "peak_viewers": 28, "hours_streamed": 30, "streams": 10, "mature": 1, "language": "English", "account_age": 142560.0}

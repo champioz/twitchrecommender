@@ -1,0 +1,1 @@
+{"channel": "carst0n", "avg_viewers": 21, "followers_gained": 15, "peak_viewers": 32, "hours_streamed": 9, "streams": 2, "mature": 0, "language": "German", "account_age": 1658880.0}

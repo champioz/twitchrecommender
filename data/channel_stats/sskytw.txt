@@ -1,0 +1,1 @@
+{"channel": "sskytw", "avg_viewers": 40, "followers_gained": 21, "peak_viewers": 79, "hours_streamed": 37, "streams": 10, "mature": 0, "language": "Chinese", "account_age": 5103360.0}

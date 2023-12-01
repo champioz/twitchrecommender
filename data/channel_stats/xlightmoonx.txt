@@ -1,0 +1,1 @@
+{"channel": "xlightmoonx", "avg_viewers": 117, "followers_gained": 5591, "peak_viewers": 984, "hours_streamed": 145, "streams": 33, "mature": 1, "language": "Spanish", "account_age": 642240.0}

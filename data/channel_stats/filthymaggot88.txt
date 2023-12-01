@@ -1,0 +1,1 @@
+{"channel": "filthymaggot88", "avg_viewers": 13, "followers_gained": 43, "peak_viewers": 53, "hours_streamed": 61, "streams": 19, "mature": 1, "language": "English", "account_age": 2340000.0}

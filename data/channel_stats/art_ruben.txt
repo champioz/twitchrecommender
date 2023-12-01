@@ -1,0 +1,1 @@
+{"channel": "art_ruben", "avg_viewers": 21, "followers_gained": 206, "peak_viewers": 149, "hours_streamed": 21, "streams": 7, "mature": 0, "language": "French", "account_age": 891360.0}

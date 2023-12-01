@@ -1,0 +1,1 @@
+{"channel": "corine", "avg_viewers": 29, "followers_gained": 5, "peak_viewers": 48, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 1864800.0}

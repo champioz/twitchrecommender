@@ -1,0 +1,1 @@
+{"channel": "melend22", "avg_viewers": 37, "followers_gained": 237, "peak_viewers": 568, "hours_streamed": 82, "streams": 17, "mature": 1, "language": "English", "account_age": 1748160.0}

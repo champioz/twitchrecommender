@@ -1,0 +1,1 @@
+{"channel": "kwepp", "avg_viewers": 4, "followers_gained": 10, "peak_viewers": 14, "hours_streamed": 15, "streams": 7, "mature": 1, "language": "English", "account_age": 1690560.0}

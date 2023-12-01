@@ -1,0 +1,1 @@
+{"channel": "gatverark", "avg_viewers": 7, "followers_gained": 14, "peak_viewers": 61, "hours_streamed": 48, "streams": 14, "mature": 1, "language": "Dutch", "account_age": 1182240.0}

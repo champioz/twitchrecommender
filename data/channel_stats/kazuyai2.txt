@@ -1,0 +1,1 @@
+{"channel": "kazuyai2", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 17, "hours_streamed": 41, "streams": 17, "mature": 0, "language": "Korean", "account_age": 1084320.0}

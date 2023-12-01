@@ -1,0 +1,1 @@
+{"channel": "qdth", "avg_viewers": 6, "followers_gained": 25, "peak_viewers": 28, "hours_streamed": 46, "streams": 23, "mature": 1, "language": "English", "account_age": 2028960.0}

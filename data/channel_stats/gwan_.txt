@@ -1,0 +1,1 @@
+{"channel": "gwan_", "avg_viewers": 47, "followers_gained": 36, "peak_viewers": 318, "hours_streamed": 22, "streams": 11, "mature": 0, "language": "English", "account_age": 2648160.0}

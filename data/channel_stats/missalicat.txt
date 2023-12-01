@@ -1,0 +1,1 @@
+{"channel": "missalicat", "avg_viewers": 57, "followers_gained": 206, "peak_viewers": 97, "hours_streamed": 64, "streams": 13, "mature": 1, "language": "English", "account_age": 1540800.0}

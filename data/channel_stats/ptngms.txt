@@ -1,0 +1,1 @@
+{"channel": "ptngms", "avg_viewers": 714, "followers_gained": 1582, "peak_viewers": 1550, "hours_streamed": 15, "streams": 5, "mature": 1, "language": "Czech", "account_age": 2370240.0}

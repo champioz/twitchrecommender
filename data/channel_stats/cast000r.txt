@@ -1,0 +1,1 @@
+{"channel": "cast000r", "avg_viewers": 184, "followers_gained": 145, "peak_viewers": 741, "hours_streamed": 4, "streams": 6, "mature": 0, "language": "Spanish", "account_age": 796320.0}

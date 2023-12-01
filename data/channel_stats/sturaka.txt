@@ -1,0 +1,1 @@
+{"channel": "sturaka", "avg_viewers": 74, "followers_gained": 46, "peak_viewers": 107, "hours_streamed": 4, "streams": 3, "mature": 1, "language": "French", "account_age": 2086560.0}

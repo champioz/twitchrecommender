@@ -1,0 +1,1 @@
+{"channel": "kaliba__", "avg_viewers": 132, "followers_gained": 331, "peak_viewers": 345, "hours_streamed": 210, "streams": 32, "mature": 1, "language": "Portuguese", "account_age": 1932480.0}

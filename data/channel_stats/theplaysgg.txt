@@ -1,0 +1,1 @@
+{"channel": "theplaysgg", "avg_viewers": 127, "followers_gained": 476, "peak_viewers": 303, "hours_streamed": 52, "streams": 12, "mature": 0, "language": "English", "account_age": 1696320.0}

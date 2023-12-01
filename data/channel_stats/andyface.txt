@@ -1,0 +1,1 @@
+{"channel": "andyface", "avg_viewers": 83, "followers_gained": 426, "peak_viewers": 283, "hours_streamed": 81, "streams": 12, "mature": 1, "language": "English", "account_age": 2197440.0}

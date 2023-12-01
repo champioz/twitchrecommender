@@ -1,0 +1,1 @@
+{"channel": "sleepy0min", "avg_viewers": 173, "followers_gained": 518, "peak_viewers": 399, "hours_streamed": 109, "streams": 24, "mature": 0, "language": "Korean", "account_age": 725760.0}

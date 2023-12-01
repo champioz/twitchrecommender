@@ -1,0 +1,1 @@
+{"channel": "elite_shadow503", "avg_viewers": 3, "followers_gained": 12, "peak_viewers": 14, "hours_streamed": 71, "streams": 24, "mature": 0, "language": "English", "account_age": 3133440.0}

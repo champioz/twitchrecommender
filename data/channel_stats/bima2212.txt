@@ -1,0 +1,1 @@
+{"channel": "bima2212", "avg_viewers": 8, "followers_gained": 14, "peak_viewers": 43, "hours_streamed": 72, "streams": 15, "mature": 1, "language": "German", "account_age": 944640.0}

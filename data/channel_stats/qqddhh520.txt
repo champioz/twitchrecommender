@@ -1,0 +1,1 @@
+{"channel": "qqddhh520", "avg_viewers": 256, "followers_gained": 158, "peak_viewers": 629, "hours_streamed": 23, "streams": 8, "mature": 0, "language": "Chinese", "account_age": 1072800.0}

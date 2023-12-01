@@ -1,0 +1,1 @@
+{"channel": "firstearth", "avg_viewers": 198, "followers_gained": 54, "peak_viewers": 422, "hours_streamed": 21, "streams": 2, "mature": 0, "language": "English", "account_age": 2456640.0}

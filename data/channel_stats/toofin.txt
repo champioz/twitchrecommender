@@ -1,0 +1,1 @@
+{"channel": "toofin", "avg_viewers": 30, "followers_gained": 26, "peak_viewers": 68, "hours_streamed": 39, "streams": 7, "mature": 1, "language": "Finnish", "account_age": 2900160.0}

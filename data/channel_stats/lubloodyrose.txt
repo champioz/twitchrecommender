@@ -1,0 +1,1 @@
+{"channel": "lubloodyrose", "avg_viewers": 9, "followers_gained": 15, "peak_viewers": 50, "hours_streamed": 56, "streams": 16, "mature": 1, "language": "Spanish", "account_age": 2999520.0}

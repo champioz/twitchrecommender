@@ -1,0 +1,1 @@
+{"channel": "fish_arapaima", "avg_viewers": 23, "followers_gained": 19, "peak_viewers": 47, "hours_streamed": 82, "streams": 23, "mature": 0, "language": "Polish", "account_age": 2787840.0}

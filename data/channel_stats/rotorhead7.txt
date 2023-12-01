@@ -1,0 +1,1 @@
+{"channel": "rotorhead7", "avg_viewers": 22, "followers_gained": 101, "peak_viewers": 140, "hours_streamed": 117, "streams": 24, "mature": 1, "language": "English", "account_age": 2966400.0}

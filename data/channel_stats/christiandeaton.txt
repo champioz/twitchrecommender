@@ -1,0 +1,1 @@
+{"channel": "christiandeaton", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 9, "hours_streamed": 68, "streams": 20, "mature": 0, "language": "English", "account_age": 2338560.0}

@@ -1,0 +1,1 @@
+{"channel": "jhooonne99", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "Portuguese", "account_age": 652320.0}

@@ -1,0 +1,1 @@
+{"channel": "maz0xa", "avg_viewers": 86, "followers_gained": 3951, "peak_viewers": 578, "hours_streamed": 100, "streams": 40, "mature": 1, "language": "Russian", "account_age": 2234880.0}

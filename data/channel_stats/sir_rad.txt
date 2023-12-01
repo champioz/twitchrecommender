@@ -1,0 +1,1 @@
+{"channel": "sir_rad", "avg_viewers": 95, "followers_gained": 147, "peak_viewers": 373, "hours_streamed": 95, "streams": 27, "mature": 1, "language": "English", "account_age": 754560.0}

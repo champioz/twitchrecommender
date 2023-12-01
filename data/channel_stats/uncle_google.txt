@@ -1,0 +1,1 @@
+{"channel": "uncle_google", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 10, "hours_streamed": 28, "streams": 9, "mature": 0, "language": "Finnish", "account_age": 2606400.0}

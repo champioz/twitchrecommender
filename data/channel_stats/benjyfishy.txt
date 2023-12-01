@@ -1,0 +1,1 @@
+{"channel": "benjyfishy", "avg_viewers": 2946, "followers_gained": 28044, "peak_viewers": 6298, "hours_streamed": 22, "streams": 8, "mature": 0, "language": "English", "account_age": 2643840.0}

@@ -1,0 +1,1 @@
+{"channel": "realdazo", "avg_viewers": 109, "followers_gained": 641, "peak_viewers": 1313, "hours_streamed": 63, "streams": 14, "mature": 1, "language": "German", "account_age": 688320.0}

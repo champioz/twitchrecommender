@@ -1,0 +1,1 @@
+{"channel": "10_10", "avg_viewers": 0, "followers_gained": 7, "peak_viewers": 7, "hours_streamed": 38, "streams": 9, "mature": 0, "language": "French", "account_age": 2482560.0}

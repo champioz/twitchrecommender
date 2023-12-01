@@ -1,0 +1,1 @@
+{"channel": "partcil", "avg_viewers": 3, "followers_gained": 32, "peak_viewers": 7, "hours_streamed": 11, "streams": 7, "mature": 0, "language": "Arabic", "account_age": 468000.0}

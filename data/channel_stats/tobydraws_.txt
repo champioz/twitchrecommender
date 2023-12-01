@@ -1,0 +1,1 @@
+{"channel": "tobydraws_", "avg_viewers": 4, "followers_gained": 25, "peak_viewers": 170, "hours_streamed": 73, "streams": 23, "mature": 1, "language": "English", "account_age": 826560.0}

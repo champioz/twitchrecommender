@@ -1,0 +1,1 @@
+{"channel": "stormen", "avg_viewers": 523, "followers_gained": 341, "peak_viewers": 2388, "hours_streamed": 107, "streams": 25, "mature": 0, "language": "English", "account_age": 2044800.0}

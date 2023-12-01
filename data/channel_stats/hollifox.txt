@@ -1,0 +1,1 @@
+{"channel": "hollifox", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 34, "streams": 12, "mature": 0, "language": "Russian", "account_age": 984960.0}

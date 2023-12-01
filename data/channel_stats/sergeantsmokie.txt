@@ -1,0 +1,1 @@
+{"channel": "sergeantsmokie", "avg_viewers": 118, "followers_gained": 132, "peak_viewers": 183, "hours_streamed": 4, "streams": 4, "mature": 0, "language": "English", "account_age": 1690560.0}

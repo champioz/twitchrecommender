@@ -1,0 +1,1 @@
+{"channel": "failarmy", "avg_viewers": 144, "followers_gained": 1060, "peak_viewers": 591, "hours_streamed": 742, "streams": 8, "mature": 1, "language": "English", "account_age": 2568960.0}

@@ -1,0 +1,1 @@
+{"channel": "glorbus", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 13, "hours_streamed": 31, "streams": 8, "mature": 1, "language": "English", "account_age": 1730880.0}

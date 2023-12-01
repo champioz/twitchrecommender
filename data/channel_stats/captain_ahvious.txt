@@ -1,0 +1,1 @@
+{"channel": "captain_ahvious", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 31, "hours_streamed": 26, "streams": 11, "mature": 1, "language": "English", "account_age": 735840.0}

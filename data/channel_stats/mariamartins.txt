@@ -1,0 +1,1 @@
+{"channel": "mariamartins", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 13, "hours_streamed": 20, "streams": 7, "mature": 0, "language": "Portuguese", "account_age": 995040.0}

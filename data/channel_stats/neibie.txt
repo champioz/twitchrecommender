@@ -1,0 +1,1 @@
+{"channel": "neibie", "avg_viewers": 10, "followers_gained": 29, "peak_viewers": 28, "hours_streamed": 16, "streams": 6, "mature": 0, "language": "Korean", "account_age": 2970720.0}

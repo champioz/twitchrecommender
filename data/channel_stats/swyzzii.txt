@@ -1,0 +1,1 @@
+{"channel": "swyzzii", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 1, "hours_streamed": 2, "streams": 6, "mature": 0, "language": "French", "account_age": 1002240.0}

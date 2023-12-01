@@ -1,0 +1,1 @@
+{"channel": "bighoss56", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 21, "hours_streamed": 108, "streams": 26, "mature": 0, "language": "English", "account_age": 5248800.0}

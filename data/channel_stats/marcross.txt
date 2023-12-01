@@ -1,0 +1,1 @@
+{"channel": "marcross", "avg_viewers": 40, "followers_gained": 124, "peak_viewers": 469, "hours_streamed": 30, "streams": 9, "mature": 1, "language": "Spanish", "account_age": 1948320.0}

@@ -1,0 +1,1 @@
+{"channel": "oldbuzzardt", "avg_viewers": 25, "followers_gained": 2994, "peak_viewers": 102, "hours_streamed": 271, "streams": 64, "mature": 0, "language": "English", "account_age": 479520.0}

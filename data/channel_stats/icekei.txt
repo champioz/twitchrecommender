@@ -1,0 +1,1 @@
+{"channel": "icekei", "avg_viewers": 73, "followers_gained": 45, "peak_viewers": 207, "hours_streamed": 196, "streams": 40, "mature": 0, "language": "French", "account_age": 3866400.0}

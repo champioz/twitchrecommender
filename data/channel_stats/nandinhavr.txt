@@ -1,0 +1,1 @@
+{"channel": "nandinhavr", "avg_viewers": 8, "followers_gained": 129, "peak_viewers": 26, "hours_streamed": 44, "streams": 14, "mature": 0, "language": "Portuguese", "account_age": 1221120.0}

@@ -1,0 +1,1 @@
+{"channel": "hexaflexa", "avg_viewers": 18, "followers_gained": 1, "peak_viewers": 22, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "German", "account_age": 856800.0}

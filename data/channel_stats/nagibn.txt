@@ -1,0 +1,1 @@
+{"channel": "nagibn", "avg_viewers": 6, "followers_gained": 108, "peak_viewers": 16, "hours_streamed": 55, "streams": 19, "mature": 1, "language": "Portuguese", "account_age": 2632320.0}

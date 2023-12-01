@@ -1,0 +1,1 @@
+{"channel": "queenhrx_x", "avg_viewers": 7, "followers_gained": 36, "peak_viewers": 33, "hours_streamed": 132, "streams": 23, "mature": 0, "language": "Korean", "account_age": 1251360.0}

@@ -1,0 +1,1 @@
+{"channel": "stupid_cupid", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 4, "hours_streamed": 23, "streams": 13, "mature": 1, "language": "English", "account_age": 1519200.0}

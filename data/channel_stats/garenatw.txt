@@ -1,0 +1,1 @@
+{"channel": "garenatw", "avg_viewers": 8191, "followers_gained": 2586, "peak_viewers": 17663, "hours_streamed": 79, "streams": 13, "mature": 0, "language": "Chinese", "account_age": 3909600.0}

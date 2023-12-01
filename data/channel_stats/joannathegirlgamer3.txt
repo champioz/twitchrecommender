@@ -1,0 +1,1 @@
+{"channel": "joannathegirlgamer3", "avg_viewers": 16, "followers_gained": 109, "peak_viewers": 66, "hours_streamed": 82, "streams": 22, "mature": 1, "language": "English", "account_age": 1172160.0}

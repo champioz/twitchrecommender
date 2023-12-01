@@ -1,0 +1,1 @@
+{"channel": "shaggy_dan", "avg_viewers": 14, "followers_gained": 48, "peak_viewers": 101, "hours_streamed": 118, "streams": 19, "mature": 1, "language": "English", "account_age": 3071520.0}

@@ -1,0 +1,1 @@
+{"channel": "sin3ster17", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 10, "streams": 4, "mature": 1, "language": "Spanish", "account_age": 1542240.0}

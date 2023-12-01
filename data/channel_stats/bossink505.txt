@@ -1,0 +1,1 @@
+{"channel": "bossink505", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 5, "hours_streamed": 48, "streams": 15, "mature": 1, "language": "English", "account_age": 1638720.0}

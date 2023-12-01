@@ -1,0 +1,1 @@
+{"channel": "beasqt", "avg_viewers": 10, "followers_gained": 34, "peak_viewers": 46, "hours_streamed": 14, "streams": 13, "mature": 0, "language": "English", "account_age": 1648800.0}

@@ -1,0 +1,1 @@
+{"channel": "redtraxx", "avg_viewers": 9, "followers_gained": 5, "peak_viewers": 28, "hours_streamed": 9, "streams": 4, "mature": 1, "language": "German", "account_age": 1782720.0}

@@ -1,0 +1,1 @@
+{"channel": "aiekillu", "avg_viewers": 1036, "followers_gained": 906, "peak_viewers": 3527, "hours_streamed": 42, "streams": 11, "mature": 0, "language": "French", "account_age": 3993120.0}

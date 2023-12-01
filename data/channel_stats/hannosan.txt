@@ -1,0 +1,1 @@
+{"channel": "hannosan", "avg_viewers": 4, "followers_gained": 7, "peak_viewers": 11, "hours_streamed": 94, "streams": 22, "mature": 1, "language": "German", "account_age": 741600.0}

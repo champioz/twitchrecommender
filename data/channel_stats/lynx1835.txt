@@ -1,0 +1,1 @@
+{"channel": "lynx1835", "avg_viewers": 84, "followers_gained": 167, "peak_viewers": 272, "hours_streamed": 203, "streams": 40, "mature": 0, "language": "Japanese", "account_age": 2276640.0}

@@ -1,0 +1,1 @@
+{"channel": "goateegaming", "avg_viewers": 3, "followers_gained": 15, "peak_viewers": 12, "hours_streamed": 28, "streams": 9, "mature": 1, "language": "English", "account_age": 1700640.0}

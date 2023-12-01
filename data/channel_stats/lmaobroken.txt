@@ -1,0 +1,1 @@
+{"channel": "lmaobroken", "avg_viewers": 14, "followers_gained": 157, "peak_viewers": 33, "hours_streamed": 14, "streams": 4, "mature": 0, "language": "Arabic", "account_age": 763200.0}

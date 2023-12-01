@@ -1,0 +1,1 @@
+{"channel": "yamasaki", "avg_viewers": 78, "followers_gained": 30, "peak_viewers": 144, "hours_streamed": 16, "streams": 7, "mature": 0, "language": "Japanese", "account_age": 2969280.0}

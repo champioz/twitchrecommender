@@ -1,0 +1,1 @@
+{"channel": "jujusiren", "avg_viewers": 7, "followers_gained": 103, "peak_viewers": 20, "hours_streamed": 104, "streams": 27, "mature": 0, "language": "English", "account_age": 2931840.0}

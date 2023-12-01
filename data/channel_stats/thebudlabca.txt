@@ -1,0 +1,1 @@
+{"channel": "thebudlabca", "avg_viewers": 10, "followers_gained": 326, "peak_viewers": 49, "hours_streamed": 725, "streams": 16, "mature": 0, "language": "English", "account_age": 3591360.0}

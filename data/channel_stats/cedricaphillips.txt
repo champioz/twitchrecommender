@@ -1,0 +1,1 @@
+{"channel": "cedricaphillips", "avg_viewers": 111, "followers_gained": 21, "peak_viewers": 192, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "English", "account_age": 3951360.0}

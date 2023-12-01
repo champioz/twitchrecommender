@@ -1,0 +1,1 @@
+{"channel": "behrendninja", "avg_viewers": 9, "followers_gained": 0, "peak_viewers": 31, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 3320640.0}

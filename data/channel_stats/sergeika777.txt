@@ -1,0 +1,1 @@
+{"channel": "sergeika777", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 6, "streams": 5, "mature": 1, "language": "Russian", "account_age": 129600.0}

@@ -1,0 +1,1 @@
+{"channel": "cansungur", "avg_viewers": 1167, "followers_gained": 4253, "peak_viewers": 2330, "hours_streamed": 72, "streams": 21, "mature": 1, "language": "Turkish", "account_age": 2946240.0}

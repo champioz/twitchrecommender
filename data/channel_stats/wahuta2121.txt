@@ -1,0 +1,1 @@
+{"channel": "wahuta2121", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 8, "streams": 7, "mature": 0, "language": "Japanese", "account_age": 144000.0}

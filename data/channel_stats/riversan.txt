@@ -1,0 +1,1 @@
+{"channel": "riversan", "avg_viewers": 203, "followers_gained": 999, "peak_viewers": 498, "hours_streamed": 13, "streams": 5, "mature": 0, "language": "English", "account_age": 2388960.0}

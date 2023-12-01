@@ -1,0 +1,1 @@
+{"channel": "lamboking", "avg_viewers": 262, "followers_gained": 198, "peak_viewers": 1027, "hours_streamed": 32, "streams": 11, "mature": 0, "language": "English", "account_age": 4066560.0}

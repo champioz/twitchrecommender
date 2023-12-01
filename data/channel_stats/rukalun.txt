@@ -1,0 +1,1 @@
+{"channel": "rukalun", "avg_viewers": 52, "followers_gained": 54, "peak_viewers": 122, "hours_streamed": 145, "streams": 23, "mature": 0, "language": "Japanese", "account_age": 2841120.0}

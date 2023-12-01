@@ -1,0 +1,1 @@
+{"channel": "naquta", "avg_viewers": 15, "followers_gained": 132, "peak_viewers": 71, "hours_streamed": 92, "streams": 27, "mature": 1, "language": "German", "account_age": 2803680.0}

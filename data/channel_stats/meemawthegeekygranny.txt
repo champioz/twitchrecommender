@@ -1,0 +1,1 @@
+{"channel": "meemawthegeekygranny", "avg_viewers": 23, "followers_gained": 79, "peak_viewers": 41, "hours_streamed": 45, "streams": 18, "mature": 1, "language": "English", "account_age": 1412640.0}

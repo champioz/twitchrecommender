@@ -1,0 +1,1 @@
+{"channel": "leramidler", "avg_viewers": 38, "followers_gained": 58, "peak_viewers": 67, "hours_streamed": 17, "streams": 11, "mature": 0, "language": "Russian", "account_age": 2685600.0}

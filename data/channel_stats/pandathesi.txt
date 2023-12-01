@@ -1,0 +1,1 @@
+{"channel": "pandathesi", "avg_viewers": 93, "followers_gained": 405, "peak_viewers": 414, "hours_streamed": 35, "streams": 10, "mature": 1, "language": "German", "account_age": 2589120.0}

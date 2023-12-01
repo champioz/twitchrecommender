@@ -1,0 +1,1 @@
+{"channel": "hunk14741258", "avg_viewers": 17, "followers_gained": 27, "peak_viewers": 47, "hours_streamed": 129, "streams": 45, "mature": 1, "language": "Chinese", "account_age": 931680.0}

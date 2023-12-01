@@ -1,0 +1,1 @@
+{"channel": "moszki", "avg_viewers": 4, "followers_gained": 13, "peak_viewers": 11, "hours_streamed": 21, "streams": 14, "mature": 0, "language": "Hungarian", "account_age": 685440.0}

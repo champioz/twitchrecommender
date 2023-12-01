@@ -1,0 +1,1 @@
+{"channel": "kimi4you", "avg_viewers": 5, "followers_gained": 0, "peak_viewers": 15, "hours_streamed": 50, "streams": 8, "mature": 1, "language": "English", "account_age": 2528640.0}

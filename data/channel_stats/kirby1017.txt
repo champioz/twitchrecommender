@@ -1,0 +1,1 @@
+{"channel": "kirby1017", "avg_viewers": 9, "followers_gained": 61, "peak_viewers": 21, "hours_streamed": 98, "streams": 24, "mature": 0, "language": "Korean", "account_age": 1152000.0}

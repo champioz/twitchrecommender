@@ -1,0 +1,1 @@
+{"channel": "suukidayo", "avg_viewers": 19, "followers_gained": 271, "peak_viewers": 117, "hours_streamed": 102, "streams": 20, "mature": 1, "language": "Swedish", "account_age": 3936960.0}

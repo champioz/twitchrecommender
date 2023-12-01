@@ -1,0 +1,1 @@
+{"channel": "the_naughty_fox", "avg_viewers": 7, "followers_gained": 103, "peak_viewers": 148, "hours_streamed": 164, "streams": 32, "mature": 0, "language": "English", "account_age": 1529280.0}

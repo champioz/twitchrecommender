@@ -1,0 +1,1 @@
+{"channel": "jbelloooo", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "English", "account_age": 1605600.0}

@@ -1,0 +1,1 @@
+{"channel": "dinterlolz", "avg_viewers": 1103, "followers_gained": 889, "peak_viewers": 1907, "hours_streamed": 15, "streams": 4, "mature": 0, "language": "Chinese", "account_age": 3489120.0}

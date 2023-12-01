@@ -1,0 +1,1 @@
+{"channel": "l1nell", "avg_viewers": 0, "followers_gained": 9, "peak_viewers": 4, "hours_streamed": 34, "streams": 14, "mature": 1, "language": "Russian", "account_age": 1018080.0}

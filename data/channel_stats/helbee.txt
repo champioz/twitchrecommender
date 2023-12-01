@@ -1,0 +1,1 @@
+{"channel": "helbee", "avg_viewers": 19, "followers_gained": 106, "peak_viewers": 95, "hours_streamed": 35, "streams": 11, "mature": 1, "language": "English", "account_age": 3162240.0}

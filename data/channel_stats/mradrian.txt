@@ -1,0 +1,1 @@
+{"channel": "mradrian", "avg_viewers": 23, "followers_gained": 129, "peak_viewers": 52, "hours_streamed": 62, "streams": 17, "mature": 1, "language": "Dutch", "account_age": 2790720.0}

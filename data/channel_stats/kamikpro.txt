@@ -1,0 +1,1 @@
+{"channel": "kamikpro", "avg_viewers": 214, "followers_gained": 1050, "peak_viewers": 649, "hours_streamed": 268, "streams": 28, "mature": 0, "language": "Russian", "account_age": 3060000.0}

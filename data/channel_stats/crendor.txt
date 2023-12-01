@@ -1,0 +1,1 @@
+{"channel": "crendor", "avg_viewers": 526, "followers_gained": 161, "peak_viewers": 2150, "hours_streamed": 113, "streams": 33, "mature": 0, "language": "English", "account_age": 5256000.0}

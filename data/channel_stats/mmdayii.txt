@@ -1,0 +1,1 @@
+{"channel": "mmdayii", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 7, "hours_streamed": 16, "streams": 7, "mature": 1, "language": "Turkish", "account_age": 1687680.0}

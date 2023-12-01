@@ -1,0 +1,1 @@
+{"channel": "battlestategames", "avg_viewers": 2505, "followers_gained": 2025, "peak_viewers": 8274, "hours_streamed": 9, "streams": 2, "mature": 0, "language": "Russian", "account_age": 583200.0}

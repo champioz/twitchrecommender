@@ -1,0 +1,1 @@
+{"channel": "meylamei", "avg_viewers": 35, "followers_gained": 8529, "peak_viewers": 88, "hours_streamed": 230, "streams": 25, "mature": 0, "language": "English", "account_age": 123840.0}

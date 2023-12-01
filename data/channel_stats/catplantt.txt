@@ -1,0 +1,1 @@
+{"channel": "catplantt", "avg_viewers": 106, "followers_gained": 413, "peak_viewers": 176, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "English", "account_age": 1558080.0}

@@ -1,0 +1,1 @@
+{"channel": "dracinon", "avg_viewers": 3, "followers_gained": 31, "peak_viewers": 28, "hours_streamed": 239, "streams": 32, "mature": 1, "language": "English", "account_age": 2558880.0}

@@ -1,0 +1,1 @@
+{"channel": "avinnus", "avg_viewers": 10, "followers_gained": 32, "peak_viewers": 22, "hours_streamed": 89, "streams": 18, "mature": 0, "language": "English", "account_age": 1190880.0}

@@ -1,0 +1,1 @@
+{"channel": "deiran_tv", "avg_viewers": 14, "followers_gained": 66, "peak_viewers": 38, "hours_streamed": 47, "streams": 11, "mature": 0, "language": "Spanish", "account_age": 2635200.0}

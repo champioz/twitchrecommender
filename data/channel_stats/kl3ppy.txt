@@ -1,0 +1,1 @@
+{"channel": "kl3ppy", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 8, "hours_streamed": 30, "streams": 12, "mature": 0, "language": "German", "account_age": 2681280.0}

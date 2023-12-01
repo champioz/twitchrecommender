@@ -1,0 +1,1 @@
+{"channel": "moonha_", "avg_viewers": 4, "followers_gained": 20, "peak_viewers": 10, "hours_streamed": 8, "streams": 4, "mature": 0, "language": "Korean", "account_age": 1375200.0}

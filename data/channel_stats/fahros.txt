@@ -1,0 +1,1 @@
+{"channel": "fahros", "avg_viewers": 287, "followers_gained": 26, "peak_viewers": 3895, "hours_streamed": 139, "streams": 24, "mature": 1, "language": "English", "account_age": 4436640.0}

@@ -1,0 +1,1 @@
+{"channel": "lj_0568", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "English", "account_age": 1771200.0}

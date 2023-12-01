@@ -1,0 +1,1 @@
+{"channel": "osidis", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 14, "streams": 4, "mature": 1, "language": "Spanish", "account_age": 1352160.0}

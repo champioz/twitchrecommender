@@ -1,0 +1,1 @@
+{"channel": "tiffanylockheart", "avg_viewers": 58, "followers_gained": 214, "peak_viewers": 646, "hours_streamed": 78, "streams": 17, "mature": 1, "language": "English", "account_age": 2998080.0}

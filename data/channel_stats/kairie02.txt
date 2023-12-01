@@ -1,0 +1,1 @@
+{"channel": "kairie02", "avg_viewers": 16, "followers_gained": 38, "peak_viewers": 62, "hours_streamed": 23, "streams": 4, "mature": 1, "language": "", "account_age": 1346400.0}

@@ -1,0 +1,1 @@
+{"channel": "bambetv", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 11, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "English", "account_age": 976320.0}

@@ -1,0 +1,1 @@
+{"channel": "day4k_", "avg_viewers": 12, "followers_gained": 46, "peak_viewers": 30, "hours_streamed": 55, "streams": 16, "mature": 1, "language": "English", "account_age": 743040.0}

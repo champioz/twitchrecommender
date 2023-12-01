@@ -1,0 +1,1 @@
+{"channel": "timjacken", "avg_viewers": 51, "followers_gained": 399, "peak_viewers": 604, "hours_streamed": 21, "streams": 7, "mature": 0, "language": "German", "account_age": 2491200.0}

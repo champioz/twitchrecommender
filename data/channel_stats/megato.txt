@@ -1,0 +1,1 @@
+{"channel": "megato", "avg_viewers": 1, "followers_gained": 24, "peak_viewers": 8, "hours_streamed": 39, "streams": 21, "mature": 0, "language": "Portuguese", "account_age": 936000.0}

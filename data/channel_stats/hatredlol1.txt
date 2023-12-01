@@ -1,0 +1,1 @@
+{"channel": "hatredlol1", "avg_viewers": 7, "followers_gained": 31, "peak_viewers": 27, "hours_streamed": 11, "streams": 9, "mature": 0, "language": "Turkish", "account_age": 269280.0}

@@ -1,0 +1,1 @@
+{"channel": "shini_waifu", "avg_viewers": 107, "followers_gained": 1054, "peak_viewers": 291, "hours_streamed": 29, "streams": 11, "mature": 0, "language": "Polish", "account_age": 1012320.0}

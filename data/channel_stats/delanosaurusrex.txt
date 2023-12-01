@@ -1,0 +1,1 @@
+{"channel": "delanosaurusrex", "avg_viewers": 21, "followers_gained": 85, "peak_viewers": 37, "hours_streamed": 62, "streams": 20, "mature": 1, "language": "English", "account_age": 797760.0}

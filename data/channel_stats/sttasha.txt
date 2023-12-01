@@ -1,0 +1,1 @@
+{"channel": "sttasha", "avg_viewers": 353, "followers_gained": 2541, "peak_viewers": 951, "hours_streamed": 180, "streams": 48, "mature": 0, "language": "Russian", "account_age": 724320.0}

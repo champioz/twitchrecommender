@@ -1,0 +1,1 @@
+{"channel": "planofatak", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 9, "hours_streamed": 13, "streams": 3, "mature": 0, "language": "English", "account_age": 990720.0}

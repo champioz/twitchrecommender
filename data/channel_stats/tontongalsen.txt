@@ -1,0 +1,1 @@
+{"channel": "tontongalsen", "avg_viewers": 25, "followers_gained": 987, "peak_viewers": 167, "hours_streamed": 50, "streams": 21, "mature": 0, "language": "French", "account_age": 2789280.0}

@@ -1,0 +1,1 @@
+{"channel": "50tonsdetoba", "avg_viewers": 0, "followers_gained": 13, "peak_viewers": 4, "hours_streamed": 13, "streams": 5, "mature": 1, "language": "Portuguese", "account_age": 3124800.0}

@@ -1,0 +1,1 @@
+{"channel": "cpt_classic", "avg_viewers": 8, "followers_gained": 108, "peak_viewers": 40, "hours_streamed": 164, "streams": 26, "mature": 1, "language": "German", "account_age": 184320.0}

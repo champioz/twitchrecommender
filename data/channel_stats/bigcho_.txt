@@ -1,0 +1,1 @@
+{"channel": "bigcho_", "avg_viewers": 8, "followers_gained": 22, "peak_viewers": 36, "hours_streamed": 48, "streams": 16, "mature": 1, "language": "Spanish", "account_age": 421920.0}

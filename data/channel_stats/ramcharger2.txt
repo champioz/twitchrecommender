@@ -1,0 +1,1 @@
+{"channel": "ramcharger2", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 14, "hours_streamed": 22, "streams": 8, "mature": 1, "language": "English", "account_age": 3294720.0}

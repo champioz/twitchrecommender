@@ -1,0 +1,1 @@
+{"channel": "panipples", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 9, "hours_streamed": 111, "streams": 21, "mature": 1, "language": "English", "account_age": 1792800.0}

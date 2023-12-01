@@ -1,0 +1,1 @@
+{"channel": "dogdog", "avg_viewers": 12702, "followers_gained": 50730, "peak_viewers": 25750, "hours_streamed": 201, "streams": 33, "mature": 0, "language": "English", "account_age": 2783520.0}

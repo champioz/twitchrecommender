@@ -1,0 +1,1 @@
+{"channel": "imperialdane", "avg_viewers": 34, "followers_gained": 42, "peak_viewers": 155, "hours_streamed": 42, "streams": 18, "mature": 0, "language": "English", "account_age": 3683520.0}

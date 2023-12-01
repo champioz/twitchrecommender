@@ -1,0 +1,1 @@
+{"channel": "gr4v", "avg_viewers": 5, "followers_gained": 22, "peak_viewers": 50, "hours_streamed": 47, "streams": 19, "mature": 1, "language": "German", "account_age": 2473920.0}

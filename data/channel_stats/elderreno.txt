@@ -1,0 +1,1 @@
+{"channel": "elderreno", "avg_viewers": 42, "followers_gained": 9, "peak_viewers": 81, "hours_streamed": 18, "streams": 9, "mature": 1, "language": "Polish", "account_age": 2252160.0}

@@ -1,0 +1,1 @@
+{"channel": "alassarior", "avg_viewers": 1, "followers_gained": 37, "peak_viewers": 9, "hours_streamed": 58, "streams": 12, "mature": 1, "language": "Russian", "account_age": 2147040.0}

@@ -1,0 +1,1 @@
+{"channel": "sille184", "avg_viewers": 114, "followers_gained": 155, "peak_viewers": 211, "hours_streamed": 100, "streams": 13, "mature": 1, "language": "German", "account_age": 734400.0}

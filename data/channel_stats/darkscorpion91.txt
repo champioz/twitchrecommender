@@ -1,0 +1,1 @@
+{"channel": "darkscorpion91", "avg_viewers": 2, "followers_gained": 19, "peak_viewers": 8, "hours_streamed": 67, "streams": 16, "mature": 1, "language": "German", "account_age": 974880.0}

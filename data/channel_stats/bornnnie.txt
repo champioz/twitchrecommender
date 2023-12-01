@@ -1,0 +1,1 @@
+{"channel": "bornnnie", "avg_viewers": 15, "followers_gained": 7, "peak_viewers": 30, "hours_streamed": 9, "streams": 3, "mature": 1, "language": "English", "account_age": 989280.0}

@@ -1,0 +1,1 @@
+{"channel": "pandaxgaming", "avg_viewers": 11, "followers_gained": 172, "peak_viewers": 364, "hours_streamed": 94, "streams": 20, "mature": 0, "language": "English", "account_age": 4232160.0}

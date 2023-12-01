@@ -1,0 +1,1 @@
+{"channel": "saj888pl", "avg_viewers": 1, "followers_gained": 103, "peak_viewers": 10, "hours_streamed": 231, "streams": 41, "mature": 1, "language": "Polish", "account_age": 329760.0}

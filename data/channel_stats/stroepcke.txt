@@ -1,0 +1,1 @@
+{"channel": "stroepcke", "avg_viewers": 12, "followers_gained": 107, "peak_viewers": 123, "hours_streamed": 96, "streams": 27, "mature": 1, "language": "German", "account_age": 1031040.0}

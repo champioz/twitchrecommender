@@ -1,0 +1,1 @@
+{"channel": "topgunn7", "avg_viewers": 25, "followers_gained": 1161, "peak_viewers": 87, "hours_streamed": 165, "streams": 25, "mature": 0, "language": "English", "account_age": 2596320.0}

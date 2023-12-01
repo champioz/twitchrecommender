@@ -1,0 +1,1 @@
+{"channel": "bigboppa", "avg_viewers": 5, "followers_gained": 17, "peak_viewers": 26, "hours_streamed": 93, "streams": 36, "mature": 1, "language": "Finnish", "account_age": 2240640.0}

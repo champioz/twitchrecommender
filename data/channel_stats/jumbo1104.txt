@@ -1,0 +1,1 @@
+{"channel": "jumbo1104", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 11, "hours_streamed": 49, "streams": 11, "mature": 1, "language": "Swedish", "account_age": 2183040.0}

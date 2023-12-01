@@ -1,0 +1,1 @@
+{"channel": "mylifefree1990", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 16, "hours_streamed": 30, "streams": 5, "mature": 0, "language": "Chinese", "account_age": 3749760.0}

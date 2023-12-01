@@ -1,0 +1,1 @@
+{"channel": "snipzytv", "avg_viewers": 83, "followers_gained": 6, "peak_viewers": 99, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 2276640.0}

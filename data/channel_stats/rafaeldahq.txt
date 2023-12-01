@@ -1,0 +1,1 @@
+{"channel": "rafaeldahq", "avg_viewers": 11, "followers_gained": 11, "peak_viewers": 21, "hours_streamed": 4, "streams": 3, "mature": 1, "language": "Portuguese", "account_age": 1277280.0}

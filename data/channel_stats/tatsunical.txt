@@ -1,0 +1,1 @@
+{"channel": "tatsunical", "avg_viewers": 53, "followers_gained": 17, "peak_viewers": 125, "hours_streamed": 32, "streams": 11, "mature": 1, "language": "English", "account_age": 3782880.0}

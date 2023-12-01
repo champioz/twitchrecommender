@@ -1,0 +1,1 @@
+{"channel": "kildi_", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 0, "hours_streamed": 0, "streams": 2, "mature": 0, "language": "Ukrainian", "account_age": 1850400.0}

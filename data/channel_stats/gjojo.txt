@@ -1,0 +1,1 @@
+{"channel": "gjojo", "avg_viewers": 5, "followers_gained": 28, "peak_viewers": 18, "hours_streamed": 44, "streams": 13, "mature": 0, "language": "Swedish", "account_age": 3916800.0}

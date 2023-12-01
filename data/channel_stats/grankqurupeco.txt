@@ -1,0 +1,1 @@
+{"channel": "grankqurupeco", "avg_viewers": 12, "followers_gained": 41, "peak_viewers": 32, "hours_streamed": 180, "streams": 17, "mature": 0, "language": "English", "account_age": 2172960.0}

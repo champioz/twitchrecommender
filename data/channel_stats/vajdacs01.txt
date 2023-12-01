@@ -1,0 +1,1 @@
+{"channel": "vajdacs01", "avg_viewers": 3, "followers_gained": 35, "peak_viewers": 13, "hours_streamed": 102, "streams": 25, "mature": 1, "language": "Hungarian", "account_age": 1679040.0}

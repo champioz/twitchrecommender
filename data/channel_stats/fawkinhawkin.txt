@@ -1,0 +1,1 @@
+{"channel": "fawkinhawkin", "avg_viewers": 22, "followers_gained": 31, "peak_viewers": 76, "hours_streamed": 22, "streams": 9, "mature": 0, "language": "English", "account_age": 2700000.0}

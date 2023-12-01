@@ -1,0 +1,1 @@
+{"channel": "laquetuph", "avg_viewers": 37, "followers_gained": 46, "peak_viewers": 269, "hours_streamed": 110, "streams": 23, "mature": 1, "language": "English", "account_age": 1648800.0}

@@ -1,0 +1,1 @@
+{"channel": "kartaviyzeliboba", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 18, "hours_streamed": 8, "streams": 3, "mature": 1, "language": "Russian", "account_age": 413280.0}

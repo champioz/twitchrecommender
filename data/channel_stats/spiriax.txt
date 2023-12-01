@@ -1,0 +1,1 @@
+{"channel": "spiriax", "avg_viewers": 10, "followers_gained": 2, "peak_viewers": 29, "hours_streamed": 11, "streams": 4, "mature": 1, "language": "English", "account_age": 4402080.0}

@@ -1,0 +1,1 @@
+{"channel": "sharlatty_", "avg_viewers": 7, "followers_gained": 8, "peak_viewers": 16, "hours_streamed": 3, "streams": 5, "mature": 0, "language": "Polish", "account_age": 2288160.0}

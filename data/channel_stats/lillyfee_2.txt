@@ -1,0 +1,1 @@
+{"channel": "lillyfee_2", "avg_viewers": 36, "followers_gained": 212, "peak_viewers": 73, "hours_streamed": 89, "streams": 38, "mature": 1, "language": "German", "account_age": 695520.0}

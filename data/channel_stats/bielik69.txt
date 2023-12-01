@@ -1,0 +1,1 @@
+{"channel": "bielik69", "avg_viewers": 5, "followers_gained": 19, "peak_viewers": 20, "hours_streamed": 8, "streams": 7, "mature": 0, "language": "Polish", "account_age": 1074240.0}

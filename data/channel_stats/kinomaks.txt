@@ -1,0 +1,1 @@
+{"channel": "kinomaks", "avg_viewers": 111, "followers_gained": 125, "peak_viewers": 162, "hours_streamed": 12, "streams": 3, "mature": 0, "language": "Russian", "account_age": 2466720.0}

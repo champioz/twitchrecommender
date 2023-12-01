@@ -1,0 +1,1 @@
+{"channel": "hotknife_", "avg_viewers": 26, "followers_gained": 733, "peak_viewers": 50, "hours_streamed": 124, "streams": 18, "mature": 0, "language": "Portuguese", "account_age": 1693440.0}

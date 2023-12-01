@@ -1,0 +1,1 @@
+{"channel": "lacajademage", "avg_viewers": 10, "followers_gained": 473, "peak_viewers": 41, "hours_streamed": 102, "streams": 39, "mature": 0, "language": "Spanish", "account_age": 794880.0}

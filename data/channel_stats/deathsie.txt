@@ -1,0 +1,1 @@
+{"channel": "deathsie", "avg_viewers": 558, "followers_gained": 1037, "peak_viewers": 1928, "hours_streamed": 163, "streams": 25, "mature": 0, "language": "English", "account_age": 2069280.0}

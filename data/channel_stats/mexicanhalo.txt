@@ -1,0 +1,1 @@
+{"channel": "mexicanhalo", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 8, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "Spanish", "account_age": 5035680.0}

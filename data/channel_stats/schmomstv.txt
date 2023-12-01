@@ -1,0 +1,1 @@
+{"channel": "schmomstv", "avg_viewers": 8, "followers_gained": 9, "peak_viewers": 24, "hours_streamed": 16, "streams": 5, "mature": 1, "language": "German", "account_age": 1077120.0}

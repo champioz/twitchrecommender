@@ -1,0 +1,1 @@
+{"channel": "royalphunk", "avg_viewers": 3023, "followers_gained": 2181, "peak_viewers": 5195, "hours_streamed": 116, "streams": 12, "mature": 1, "language": "German", "account_age": 4386240.0}

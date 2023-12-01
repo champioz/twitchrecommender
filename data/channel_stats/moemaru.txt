@@ -1,0 +1,1 @@
+{"channel": "moemaru", "avg_viewers": 25, "followers_gained": 111, "peak_viewers": 49, "hours_streamed": 76, "streams": 30, "mature": 0, "language": "Japanese", "account_age": 1707840.0}

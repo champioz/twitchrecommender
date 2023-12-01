@@ -1,0 +1,1 @@
+{"channel": "chiibou05", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 21, "hours_streamed": 19, "streams": 7, "mature": 0, "language": "Japanese", "account_age": 1038240.0}

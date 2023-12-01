@@ -1,0 +1,1 @@
+{"channel": "oxsemtekzxo", "avg_viewers": 31, "followers_gained": 76, "peak_viewers": 134, "hours_streamed": 28, "streams": 11, "mature": 1, "language": "German", "account_age": 695520.0}

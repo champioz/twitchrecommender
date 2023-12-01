@@ -1,0 +1,1 @@
+{"channel": "golderagaming1", "avg_viewers": 14, "followers_gained": 551, "peak_viewers": 40, "hours_streamed": 226, "streams": 41, "mature": 0, "language": "English", "account_age": 1612800.0}

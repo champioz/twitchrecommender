@@ -1,0 +1,1 @@
+{"channel": "dexonn_", "avg_viewers": 25, "followers_gained": 27, "peak_viewers": 35, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Turkish", "account_age": 1257120.0}

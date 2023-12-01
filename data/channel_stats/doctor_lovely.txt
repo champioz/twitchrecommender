@@ -1,0 +1,1 @@
+{"channel": "doctor_lovely", "avg_viewers": 9, "followers_gained": 6, "peak_viewers": 20, "hours_streamed": 18, "streams": 5, "mature": 1, "language": "English", "account_age": 1300320.0}

@@ -1,0 +1,1 @@
+{"channel": "pluvioophile", "avg_viewers": 15, "followers_gained": 127, "peak_viewers": 35, "hours_streamed": 74, "streams": 19, "mature": 1, "language": "English", "account_age": 1317600.0}

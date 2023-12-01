@@ -1,0 +1,1 @@
+{"channel": "fry_em_up", "avg_viewers": 185, "followers_gained": 788, "peak_viewers": 326, "hours_streamed": 51, "streams": 28, "mature": 0, "language": "English", "account_age": 1661760.0}

@@ -1,0 +1,1 @@
+{"channel": "itsrainingneon", "avg_viewers": 24, "followers_gained": 29, "peak_viewers": 42, "hours_streamed": 12, "streams": 4, "mature": 0, "language": "English", "account_age": 2445120.0}

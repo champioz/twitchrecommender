@@ -1,0 +1,1 @@
+{"channel": "deuce22", "avg_viewers": 4, "followers_gained": 16, "peak_viewers": 13, "hours_streamed": 59, "streams": 15, "mature": 1, "language": "Hungarian", "account_age": 1362240.0}

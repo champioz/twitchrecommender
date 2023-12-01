@@ -1,0 +1,1 @@
+{"channel": "ciemina", "avg_viewers": 21, "followers_gained": 8, "peak_viewers": 29, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Polish", "account_age": 1864800.0}

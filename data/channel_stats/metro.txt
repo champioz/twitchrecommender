@@ -1,0 +1,1 @@
+{"channel": "metro", "avg_viewers": 58, "followers_gained": 130, "peak_viewers": 153, "hours_streamed": 125, "streams": 26, "mature": 0, "language": "English", "account_age": 4446720.0}

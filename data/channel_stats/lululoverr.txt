@@ -1,0 +1,1 @@
+{"channel": "lululoverr", "avg_viewers": 6, "followers_gained": 175, "peak_viewers": 18, "hours_streamed": 142, "streams": 30, "mature": 1, "language": "Spanish", "account_age": 2050560.0}

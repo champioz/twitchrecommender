@@ -1,0 +1,1 @@
+{"channel": "gasterat", "avg_viewers": 11, "followers_gained": 3, "peak_viewers": 17, "hours_streamed": 1, "streams": 2, "mature": 1, "language": "Greek", "account_age": 2086560.0}

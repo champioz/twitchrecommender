@@ -1,0 +1,1 @@
+{"channel": "morphologis", "avg_viewers": 42, "followers_gained": 239, "peak_viewers": 136, "hours_streamed": 19, "streams": 7, "mature": 1, "language": "English", "account_age": 2797920.0}

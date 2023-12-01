@@ -1,0 +1,1 @@
+{"channel": "ciscugtx", "avg_viewers": 5, "followers_gained": 59, "peak_viewers": 18, "hours_streamed": 81, "streams": 27, "mature": 1, "language": "Spanish", "account_age": 2268000.0}

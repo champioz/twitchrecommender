@@ -1,0 +1,1 @@
+{"channel": "esl_csgo_tr", "avg_viewers": 691, "followers_gained": 2983, "peak_viewers": 2862, "hours_streamed": 114, "streams": 20, "mature": 0, "language": "Turkish", "account_age": 2233440.0}

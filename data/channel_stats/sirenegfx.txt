@@ -1,0 +1,1 @@
+{"channel": "sirenegfx", "avg_viewers": 27, "followers_gained": 106, "peak_viewers": 192, "hours_streamed": 25, "streams": 7, "mature": 1, "language": "English", "account_age": 1342080.0}

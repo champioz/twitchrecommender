@@ -1,0 +1,1 @@
+{"channel": "senpai_death", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 16, "hours_streamed": 91, "streams": 20, "mature": 0, "language": "English", "account_age": 2240640.0}

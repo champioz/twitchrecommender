@@ -1,0 +1,1 @@
+{"channel": "ridl3y", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 11, "hours_streamed": 63, "streams": 27, "mature": 0, "language": "English", "account_age": 5129280.0}

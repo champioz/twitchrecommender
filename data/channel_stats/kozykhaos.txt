@@ -1,0 +1,1 @@
+{"channel": "kozykhaos", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 7, "hours_streamed": 27, "streams": 7, "mature": 1, "language": "English", "account_age": 869760.0}

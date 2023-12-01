@@ -1,0 +1,1 @@
+{"channel": "teamrpd", "avg_viewers": 37, "followers_gained": 47, "peak_viewers": 60, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "English", "account_age": 293760.0}

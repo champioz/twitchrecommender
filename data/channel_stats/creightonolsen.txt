@@ -1,0 +1,1 @@
+{"channel": "creightonolsen", "avg_viewers": 222, "followers_gained": 210, "peak_viewers": 409, "hours_streamed": 9, "streams": 3, "mature": 0, "language": "English", "account_age": 1084320.0}

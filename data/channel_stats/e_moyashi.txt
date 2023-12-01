@@ -1,0 +1,1 @@
+{"channel": "e_moyashi", "avg_viewers": 10, "followers_gained": 10, "peak_viewers": 23, "hours_streamed": 372, "streams": 30, "mature": 0, "language": "Japanese", "account_age": 2037600.0}

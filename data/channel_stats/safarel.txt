@@ -1,0 +1,1 @@
+{"channel": "safarel", "avg_viewers": 9, "followers_gained": 31, "peak_viewers": 32, "hours_streamed": 80, "streams": 24, "mature": 0, "language": "Russian", "account_age": 3515040.0}

@@ -1,0 +1,1 @@
+{"channel": "lilrascalsgaming", "avg_viewers": 10, "followers_gained": 290, "peak_viewers": 39, "hours_streamed": 142, "streams": 34, "mature": 0, "language": "English", "account_age": 1216800.0}

@@ -1,0 +1,1 @@
+{"channel": "soran_chan", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "English", "account_age": 1219680.0}

@@ -1,0 +1,1 @@
+{"channel": "dammmen", "avg_viewers": 36, "followers_gained": 21, "peak_viewers": 87, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "Swedish", "account_age": 2289600.0}

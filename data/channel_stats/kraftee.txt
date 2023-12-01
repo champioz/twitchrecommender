@@ -1,0 +1,1 @@
+{"channel": "kraftee", "avg_viewers": 6, "followers_gained": 74, "peak_viewers": 18, "hours_streamed": 70, "streams": 16, "mature": 0, "language": "English", "account_age": 663840.0}

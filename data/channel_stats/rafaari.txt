@@ -1,0 +1,1 @@
+{"channel": "rafaari", "avg_viewers": 32, "followers_gained": 32, "peak_viewers": 66, "hours_streamed": 20, "streams": 9, "mature": 1, "language": "Portuguese", "account_age": 1946880.0}

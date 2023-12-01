@@ -1,0 +1,1 @@
+{"channel": "easy_dad", "avg_viewers": 34, "followers_gained": 305, "peak_viewers": 98, "hours_streamed": 273, "streams": 34, "mature": 1, "language": "Russian", "account_age": 3173760.0}

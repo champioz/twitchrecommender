@@ -1,0 +1,1 @@
+{"channel": "frostadamus", "avg_viewers": 95, "followers_gained": 198, "peak_viewers": 272, "hours_streamed": 50, "streams": 5, "mature": 0, "language": "English", "account_age": 1262880.0}

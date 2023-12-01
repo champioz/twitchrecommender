@@ -1,0 +1,1 @@
+{"channel": "djvr", "avg_viewers": 3, "followers_gained": 64, "peak_viewers": 16, "hours_streamed": 74, "streams": 23, "mature": 1, "language": "Spanish", "account_age": 2743200.0}

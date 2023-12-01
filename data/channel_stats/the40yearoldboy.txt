@@ -1,0 +1,1 @@
+{"channel": "the40yearoldboy", "avg_viewers": 19, "followers_gained": 60, "peak_viewers": 43, "hours_streamed": 79, "streams": 26, "mature": 0, "language": "English", "account_age": 735840.0}

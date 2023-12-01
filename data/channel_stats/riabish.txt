@@ -1,0 +1,1 @@
+{"channel": "riabish", "avg_viewers": 25, "followers_gained": 300, "peak_viewers": 54, "hours_streamed": 59, "streams": 15, "mature": 0, "language": "English", "account_age": 1352160.0}

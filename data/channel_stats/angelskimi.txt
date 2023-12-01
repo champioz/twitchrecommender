@@ -1,0 +1,1 @@
+{"channel": "angelskimi", "avg_viewers": 1051, "followers_gained": 5654, "peak_viewers": 2580, "hours_streamed": 75, "streams": 13, "mature": 0, "language": "English", "account_age": 2316960.0}

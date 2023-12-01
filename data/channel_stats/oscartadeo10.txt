@@ -1,0 +1,1 @@
+{"channel": "oscartadeo10", "avg_viewers": 4, "followers_gained": 168, "peak_viewers": 22, "hours_streamed": 151, "streams": 59, "mature": 0, "language": "Spanish", "account_age": 696960.0}

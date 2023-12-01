@@ -1,0 +1,1 @@
+{"channel": "daigua69", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 25, "hours_streamed": 30, "streams": 10, "mature": 1, "language": "Spanish", "account_age": 1663200.0}

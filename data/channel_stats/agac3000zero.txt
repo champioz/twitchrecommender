@@ -1,0 +1,1 @@
+{"channel": "agac3000zero", "avg_viewers": 16, "followers_gained": 19, "peak_viewers": 40, "hours_streamed": 201, "streams": 60, "mature": 0, "language": "Korean", "account_age": 1316160.0}

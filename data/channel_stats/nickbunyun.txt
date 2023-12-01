@@ -1,0 +1,1 @@
+{"channel": "nickbunyun", "avg_viewers": 99, "followers_gained": 3, "peak_viewers": 309, "hours_streamed": 112, "streams": 23, "mature": 0, "language": "English", "account_age": 4233600.0}

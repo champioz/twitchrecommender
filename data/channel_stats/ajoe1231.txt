@@ -1,0 +1,1 @@
+{"channel": "ajoe1231", "avg_viewers": 64, "followers_gained": 126, "peak_viewers": 2482, "hours_streamed": 66, "streams": 14, "mature": 0, "language": "Chinese", "account_age": 2828160.0}

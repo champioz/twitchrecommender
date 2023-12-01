@@ -1,0 +1,1 @@
+{"channel": "marktu0", "avg_viewers": 31, "followers_gained": 139, "peak_viewers": 179, "hours_streamed": 162, "streams": 23, "mature": 1, "language": "Chinese", "account_age": 4713120.0}

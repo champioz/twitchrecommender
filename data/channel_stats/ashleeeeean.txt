@@ -1,0 +1,1 @@
+{"channel": "ashleeeeean", "avg_viewers": 24, "followers_gained": 28, "peak_viewers": 128, "hours_streamed": 51, "streams": 13, "mature": 1, "language": "English", "account_age": 2796480.0}

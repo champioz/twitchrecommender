@@ -1,0 +1,1 @@
+{"channel": "kyez21", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 3, "hours_streamed": 50, "streams": 15, "mature": 0, "language": "English", "account_age": 473760.0}

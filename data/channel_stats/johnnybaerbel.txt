@@ -1,0 +1,1 @@
+{"channel": "johnnybaerbel", "avg_viewers": 3, "followers_gained": 9, "peak_viewers": 28, "hours_streamed": 48, "streams": 12, "mature": 1, "language": "German", "account_age": 2750400.0}

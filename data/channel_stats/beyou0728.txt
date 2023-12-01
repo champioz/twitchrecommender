@@ -1,0 +1,1 @@
+{"channel": "beyou0728", "avg_viewers": 832, "followers_gained": 2185, "peak_viewers": 2085, "hours_streamed": 123, "streams": 25, "mature": 0, "language": "Korean", "account_age": 2007360.0}

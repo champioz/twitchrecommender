@@ -1,0 +1,1 @@
+{"channel": "specialnice", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 68, "streams": 38, "mature": 0, "language": "Japanese", "account_age": 2826720.0}

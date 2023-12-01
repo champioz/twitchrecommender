@@ -1,0 +1,1 @@
+{"channel": "merstachhh", "avg_viewers": 44, "followers_gained": 259, "peak_viewers": 194, "hours_streamed": 34, "streams": 17, "mature": 0, "language": "English", "account_age": 372960.0}

@@ -1,0 +1,1 @@
+{"channel": "pepetas030", "avg_viewers": 20, "followers_gained": 0, "peak_viewers": 32, "hours_streamed": 13, "streams": 4, "mature": 0, "language": "Japanese", "account_age": 1380960.0}

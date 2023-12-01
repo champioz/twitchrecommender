@@ -1,0 +1,1 @@
+{"channel": "mills", "avg_viewers": 150, "followers_gained": 1582, "peak_viewers": 988, "hours_streamed": 112, "streams": 26, "mature": 0, "language": "English", "account_age": 3008160.0}

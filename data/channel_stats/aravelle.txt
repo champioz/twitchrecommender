@@ -1,0 +1,1 @@
+{"channel": "aravelle", "avg_viewers": 24, "followers_gained": 68, "peak_viewers": 44, "hours_streamed": 35, "streams": 15, "mature": 1, "language": "English", "account_age": 3119040.0}

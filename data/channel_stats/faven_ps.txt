@@ -1,0 +1,1 @@
+{"channel": "faven_ps", "avg_viewers": 18, "followers_gained": 29, "peak_viewers": 31, "hours_streamed": 10, "streams": 7, "mature": 0, "language": "English", "account_age": 2544480.0}

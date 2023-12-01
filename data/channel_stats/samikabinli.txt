@@ -1,0 +1,1 @@
+{"channel": "samikabinli", "avg_viewers": 3, "followers_gained": 823, "peak_viewers": 88, "hours_streamed": 242, "streams": 59, "mature": 0, "language": "Turkish", "account_age": 609120.0}

@@ -1,0 +1,1 @@
+{"channel": "thebaron690", "avg_viewers": 10, "followers_gained": 9, "peak_viewers": 24, "hours_streamed": 15, "streams": 8, "mature": 1, "language": "Norwegian", "account_age": 1792800.0}

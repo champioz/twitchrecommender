@@ -1,0 +1,1 @@
+{"channel": "jose_mcfly", "avg_viewers": 27, "followers_gained": 121, "peak_viewers": 132, "hours_streamed": 34, "streams": 19, "mature": 0, "language": "Spanish", "account_age": 2577600.0}

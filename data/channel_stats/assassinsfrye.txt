@@ -1,0 +1,1 @@
+{"channel": "assassinsfrye", "avg_viewers": 2, "followers_gained": 27, "peak_viewers": 15, "hours_streamed": 115, "streams": 14, "mature": 0, "language": "Finnish", "account_age": 1964160.0}

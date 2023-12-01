@@ -1,0 +1,1 @@
+{"channel": "misskryptonite", "avg_viewers": 16, "followers_gained": 143, "peak_viewers": 36, "hours_streamed": 191, "streams": 31, "mature": 1, "language": "English", "account_age": 807840.0}

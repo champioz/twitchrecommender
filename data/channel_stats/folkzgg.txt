@@ -1,0 +1,1 @@
+{"channel": "folkzgg", "avg_viewers": 126, "followers_gained": 933, "peak_viewers": 278, "hours_streamed": 65, "streams": 16, "mature": 1, "language": "Portuguese", "account_age": 1733760.0}

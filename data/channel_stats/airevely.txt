@@ -1,0 +1,1 @@
+{"channel": "airevely", "avg_viewers": 34, "followers_gained": 18, "peak_viewers": 71, "hours_streamed": 104, "streams": 19, "mature": 0, "language": "Russian", "account_age": 1049760.0}

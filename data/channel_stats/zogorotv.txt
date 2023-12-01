@@ -1,0 +1,1 @@
+{"channel": "zogorotv", "avg_viewers": 40, "followers_gained": 1602, "peak_viewers": 98, "hours_streamed": 112, "streams": 31, "mature": 0, "language": "Spanish", "account_age": 1213920.0}

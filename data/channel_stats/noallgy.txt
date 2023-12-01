@@ -1,0 +1,1 @@
+{"channel": "noallgy", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 16, "hours_streamed": 289, "streams": 64, "mature": 1, "language": "Korean", "account_age": 590400.0}

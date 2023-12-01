@@ -1,0 +1,1 @@
+{"channel": "droker", "avg_viewers": 5, "followers_gained": 26, "peak_viewers": 18, "hours_streamed": 136, "streams": 27, "mature": 1, "language": "English", "account_age": 1373760.0}

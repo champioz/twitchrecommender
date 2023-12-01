@@ -1,0 +1,1 @@
+{"channel": "indystarcraft", "avg_viewers": 239, "followers_gained": 153, "peak_viewers": 730, "hours_streamed": 107, "streams": 27, "mature": 0, "language": "Polish", "account_age": 3745440.0}

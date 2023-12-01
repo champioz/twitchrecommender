@@ -1,0 +1,1 @@
+{"channel": "swan4", "avg_viewers": 191, "followers_gained": 921, "peak_viewers": 856, "hours_streamed": 138, "streams": 34, "mature": 0, "language": "Russian", "account_age": 2844000.0}

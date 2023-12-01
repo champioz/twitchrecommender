@@ -1,0 +1,1 @@
+{"channel": "comandante_shepard", "avg_viewers": 47, "followers_gained": 66, "peak_viewers": 83, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "Spanish", "account_age": 2269440.0}

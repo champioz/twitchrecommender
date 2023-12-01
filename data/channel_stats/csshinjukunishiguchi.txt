@@ -1,0 +1,1 @@
+{"channel": "csshinjukunishiguchi", "avg_viewers": 60, "followers_gained": 72, "peak_viewers": 223, "hours_streamed": 41, "streams": 11, "mature": 0, "language": "Japanese", "account_age": 2013120.0}

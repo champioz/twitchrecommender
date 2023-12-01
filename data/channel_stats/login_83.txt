@@ -1,0 +1,1 @@
+{"channel": "login_83", "avg_viewers": 1, "followers_gained": 31, "peak_viewers": 6, "hours_streamed": 53, "streams": 29, "mature": 1, "language": "French", "account_age": 894240.0}

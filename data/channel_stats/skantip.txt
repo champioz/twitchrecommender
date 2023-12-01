@@ -1,0 +1,1 @@
+{"channel": "skantip", "avg_viewers": 27, "followers_gained": 146, "peak_viewers": 69, "hours_streamed": 110, "streams": 25, "mature": 0, "language": "Russian", "account_age": 1815840.0}

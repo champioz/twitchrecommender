@@ -1,0 +1,1 @@
+{"channel": "kittyminouh", "avg_viewers": 12, "followers_gained": 13, "peak_viewers": 22, "hours_streamed": 17, "streams": 6, "mature": 1, "language": "German", "account_age": 2459520.0}

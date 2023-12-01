@@ -1,0 +1,1 @@
+{"channel": "mtndewthejoker", "avg_viewers": 1, "followers_gained": 12, "peak_viewers": 10, "hours_streamed": 131, "streams": 39, "mature": 0, "language": "English", "account_age": 555840.0}

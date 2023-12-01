@@ -1,0 +1,1 @@
+{"channel": "lalaport", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 10, "hours_streamed": 7, "streams": 4, "mature": 0, "language": "Japanese", "account_age": 1478880.0}

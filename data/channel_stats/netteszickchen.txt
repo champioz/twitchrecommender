@@ -1,0 +1,1 @@
+{"channel": "netteszickchen", "avg_viewers": 14, "followers_gained": 93, "peak_viewers": 75, "hours_streamed": 90, "streams": 33, "mature": 1, "language": "German", "account_age": 2010240.0}

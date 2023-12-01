@@ -1,0 +1,1 @@
+{"channel": "fawelys", "avg_viewers": 13, "followers_gained": 105, "peak_viewers": 341, "hours_streamed": 127, "streams": 31, "mature": 1, "language": "Russian", "account_age": 387360.0}

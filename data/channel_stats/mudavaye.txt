@@ -1,0 +1,1 @@
+{"channel": "mudavaye", "avg_viewers": 12, "followers_gained": 35, "peak_viewers": 24, "hours_streamed": 29, "streams": 9, "mature": 1, "language": "English", "account_age": 2070720.0}

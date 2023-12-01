@@ -1,0 +1,1 @@
+{"channel": "twitchtvleech", "avg_viewers": 2, "followers_gained": 161, "peak_viewers": 30, "hours_streamed": 737, "streams": 6, "mature": 0, "language": "English", "account_age": 194400.0}

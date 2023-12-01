@@ -1,0 +1,1 @@
+{"channel": "mayorwertz", "avg_viewers": 15, "followers_gained": 23, "peak_viewers": 61, "hours_streamed": 55, "streams": 14, "mature": 0, "language": "English", "account_age": 2400480.0}

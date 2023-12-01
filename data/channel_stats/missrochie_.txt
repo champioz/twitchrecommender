@@ -1,0 +1,1 @@
+{"channel": "missrochie_", "avg_viewers": 60, "followers_gained": 547, "peak_viewers": 251, "hours_streamed": 50, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 1026720.0}

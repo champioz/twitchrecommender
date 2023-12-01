@@ -1,0 +1,1 @@
+{"channel": "mrg_live", "avg_viewers": 14, "followers_gained": 43, "peak_viewers": 35, "hours_streamed": 59, "streams": 26, "mature": 0, "language": "English", "account_age": 542880.0}

@@ -1,0 +1,1 @@
+{"channel": "aboutseppi", "avg_viewers": 35, "followers_gained": 867, "peak_viewers": 87, "hours_streamed": 49, "streams": 25, "mature": 0, "language": "Italian", "account_age": 396000.0}

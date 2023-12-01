@@ -1,0 +1,1 @@
+{"channel": "destroy", "avg_viewers": 626, "followers_gained": 10133, "peak_viewers": 1705, "hours_streamed": 150, "streams": 24, "mature": 0, "language": "English", "account_age": 2941920.0}

@@ -1,0 +1,1 @@
+{"channel": "tgallick", "avg_viewers": 20, "followers_gained": 471, "peak_viewers": 40, "hours_streamed": 112, "streams": 21, "mature": 1, "language": "English", "account_age": 2204640.0}

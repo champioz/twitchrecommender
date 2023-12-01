@@ -1,0 +1,1 @@
+{"channel": "teampwnage_live", "avg_viewers": 3, "followers_gained": 3, "peak_viewers": 29, "hours_streamed": 47, "streams": 23, "mature": 1, "language": "English", "account_age": 2616480.0}

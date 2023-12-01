@@ -1,0 +1,1 @@
+{"channel": "halloffame2k", "avg_viewers": 228, "followers_gained": 6756, "peak_viewers": 582, "hours_streamed": 57, "streams": 19, "mature": 0, "language": "English", "account_age": 839520.0}

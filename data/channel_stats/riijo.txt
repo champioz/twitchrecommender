@@ -1,0 +1,1 @@
+{"channel": "riijo", "avg_viewers": 3, "followers_gained": 22, "peak_viewers": 15, "hours_streamed": 69, "streams": 41, "mature": 1, "language": "German", "account_age": 813600.0}

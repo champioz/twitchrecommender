@@ -1,0 +1,1 @@
+{"channel": "tigerlady0815", "avg_viewers": 12, "followers_gained": 72, "peak_viewers": 33, "hours_streamed": 218, "streams": 75, "mature": 1, "language": "German", "account_age": 620640.0}

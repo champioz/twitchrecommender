@@ -1,0 +1,1 @@
+{"channel": "darong1117", "avg_viewers": 9, "followers_gained": 17, "peak_viewers": 16, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "Korean", "account_age": 512640.0}

@@ -1,0 +1,1 @@
+{"channel": "fedics", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 1, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "Russian", "account_age": 217440.0}

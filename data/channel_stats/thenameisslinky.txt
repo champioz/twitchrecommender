@@ -1,0 +1,1 @@
+{"channel": "thenameisslinky", "avg_viewers": 24, "followers_gained": 8, "peak_viewers": 53, "hours_streamed": 2, "streams": 3, "mature": 0, "language": "English", "account_age": 2561760.0}

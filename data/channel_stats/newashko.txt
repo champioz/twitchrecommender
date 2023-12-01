@@ -1,0 +1,1 @@
+{"channel": "newashko", "avg_viewers": 3, "followers_gained": 93, "peak_viewers": 16, "hours_streamed": 47, "streams": 33, "mature": 0, "language": "Czech", "account_age": 692640.0}

@@ -1,0 +1,1 @@
+{"channel": "mudamudahealme", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 2, "hours_streamed": 1, "streams": 2, "mature": 1, "language": "English", "account_age": 1314720.0}

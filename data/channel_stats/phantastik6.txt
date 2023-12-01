@@ -1,0 +1,1 @@
+{"channel": "phantastik6", "avg_viewers": 9, "followers_gained": 237, "peak_viewers": 43, "hours_streamed": 154, "streams": 33, "mature": 1, "language": "English", "account_age": 597600.0}

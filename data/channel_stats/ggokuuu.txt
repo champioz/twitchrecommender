@@ -1,0 +1,1 @@
+{"channel": "ggokuuu", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "German", "account_age": 794880.0}

@@ -1,0 +1,1 @@
+{"channel": "alidikristallo", "avg_viewers": 17, "followers_gained": 151, "peak_viewers": 42, "hours_streamed": 70, "streams": 29, "mature": 0, "language": "Italian", "account_age": 2237760.0}

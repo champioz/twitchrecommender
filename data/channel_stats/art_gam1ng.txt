@@ -1,0 +1,1 @@
+{"channel": "art_gam1ng", "avg_viewers": 28, "followers_gained": 36, "peak_viewers": 88, "hours_streamed": 147, "streams": 35, "mature": 1, "language": "Russian", "account_age": 1457280.0}

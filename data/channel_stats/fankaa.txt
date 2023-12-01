@@ -1,0 +1,1 @@
+{"channel": "fankaa", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 10, "hours_streamed": 24, "streams": 9, "mature": 0, "language": "Russian", "account_age": 4217760.0}

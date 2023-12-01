@@ -1,0 +1,1 @@
+{"channel": "enderbrahdyt", "avg_viewers": 5, "followers_gained": 121, "peak_viewers": 12, "hours_streamed": 51, "streams": 26, "mature": 1, "language": "Spanish", "account_age": 547200.0}

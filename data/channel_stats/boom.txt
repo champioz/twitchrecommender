@@ -1,0 +1,1 @@
+{"channel": "boom", "avg_viewers": 162, "followers_gained": 1297, "peak_viewers": 497, "hours_streamed": 60, "streams": 19, "mature": 0, "language": "English", "account_age": 4240800.0}

@@ -1,0 +1,1 @@
+{"channel": "racingcorp_tv", "avg_viewers": 7, "followers_gained": 25, "peak_viewers": 38, "hours_streamed": 82, "streams": 36, "mature": 1, "language": "Spanish", "account_age": 1203840.0}

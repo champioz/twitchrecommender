@@ -1,0 +1,1 @@
+{"channel": "eboao", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 21, "streams": 8, "mature": 1, "language": "Chinese", "account_age": 3916800.0}

@@ -1,0 +1,1 @@
+{"channel": "shernfire", "avg_viewers": 92, "followers_gained": 104, "peak_viewers": 201, "hours_streamed": 55, "streams": 20, "mature": 0, "language": "English", "account_age": 3224160.0}

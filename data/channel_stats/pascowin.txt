@@ -1,0 +1,1 @@
+{"channel": "pascowin", "avg_viewers": 9, "followers_gained": 177, "peak_viewers": 23, "hours_streamed": 114, "streams": 26, "mature": 0, "language": "German", "account_age": 4730400.0}

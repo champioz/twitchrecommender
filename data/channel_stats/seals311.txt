@@ -1,0 +1,1 @@
+{"channel": "seals311", "avg_viewers": 407, "followers_gained": 1210, "peak_viewers": 749, "hours_streamed": 224, "streams": 26, "mature": 0, "language": "Portuguese", "account_age": 1801440.0}

@@ -1,0 +1,1 @@
+{"channel": "replayando", "avg_viewers": 7, "followers_gained": 22, "peak_viewers": 43, "hours_streamed": 49, "streams": 20, "mature": 1, "language": "Portuguese", "account_age": 3232800.0}

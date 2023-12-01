@@ -1,0 +1,1 @@
+{"channel": "fifa_gamingtill", "avg_viewers": 98, "followers_gained": 3732, "peak_viewers": 215, "hours_streamed": 145, "streams": 35, "mature": 0, "language": "German", "account_age": 1689120.0}

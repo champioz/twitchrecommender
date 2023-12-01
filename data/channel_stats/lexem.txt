@@ -1,0 +1,1 @@
+{"channel": "lexem", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 16, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "German", "account_age": 1713600.0}

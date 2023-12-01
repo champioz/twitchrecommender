@@ -1,0 +1,1 @@
+{"channel": "kudaiberg", "avg_viewers": 21, "followers_gained": 36, "peak_viewers": 52, "hours_streamed": 43, "streams": 17, "mature": 0, "language": "Russian", "account_age": 696960.0}

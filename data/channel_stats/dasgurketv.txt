@@ -1,0 +1,1 @@
+{"channel": "dasgurketv", "avg_viewers": 6, "followers_gained": 55, "peak_viewers": 29, "hours_streamed": 260, "streams": 69, "mature": 1, "language": "German", "account_age": 1844640.0}

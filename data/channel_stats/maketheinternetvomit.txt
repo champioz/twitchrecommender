@@ -1,0 +1,1 @@
+{"channel": "maketheinternetvomit", "avg_viewers": 6, "followers_gained": 19, "peak_viewers": 18, "hours_streamed": 35, "streams": 16, "mature": 1, "language": "English", "account_age": 1391040.0}

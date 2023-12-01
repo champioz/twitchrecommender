@@ -1,0 +1,1 @@
+{"channel": "bluechocobo", "avg_viewers": 78, "followers_gained": 551, "peak_viewers": 1140, "hours_streamed": 142, "streams": 21, "mature": 0, "language": "English", "account_age": 3336480.0}

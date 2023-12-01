@@ -1,0 +1,1 @@
+{"channel": "natuaru", "avg_viewers": 33, "followers_gained": 41, "peak_viewers": 59, "hours_streamed": 41, "streams": 13, "mature": 0, "language": "Japanese", "account_age": 1569600.0}

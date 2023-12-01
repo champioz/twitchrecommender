@@ -1,0 +1,1 @@
+{"channel": "beswave2", "avg_viewers": 62, "followers_gained": 196, "peak_viewers": 123, "hours_streamed": 20, "streams": 7, "mature": 1, "language": "Turkish", "account_age": 180000.0}

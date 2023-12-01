@@ -1,0 +1,1 @@
+{"channel": "jamesbread", "avg_viewers": 72, "followers_gained": 207, "peak_viewers": 384, "hours_streamed": 268, "streams": 29, "mature": 0, "language": "Korean", "account_age": 1990080.0}

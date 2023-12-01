@@ -1,0 +1,1 @@
+{"channel": "kingof3s28", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 2, "hours_streamed": 30, "streams": 15, "mature": 1, "language": "English", "account_age": 3088800.0}

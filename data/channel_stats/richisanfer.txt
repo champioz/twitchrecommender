@@ -1,0 +1,1 @@
+{"channel": "richisanfer", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 2672640.0}

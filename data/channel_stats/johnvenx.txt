@@ -1,0 +1,1 @@
+{"channel": "johnvenx", "avg_viewers": 8, "followers_gained": 3, "peak_viewers": 17, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "Chinese", "account_age": 2194560.0}

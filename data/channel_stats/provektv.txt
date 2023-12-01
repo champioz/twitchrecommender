@@ -1,0 +1,1 @@
+{"channel": "provektv", "avg_viewers": 5, "followers_gained": 42, "peak_viewers": 23, "hours_streamed": 50, "streams": 13, "mature": 0, "language": "Turkish", "account_age": 506880.0}

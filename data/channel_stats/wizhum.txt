@@ -1,0 +1,1 @@
+{"channel": "wizhum", "avg_viewers": 48, "followers_gained": 415, "peak_viewers": 453, "hours_streamed": 214, "streams": 41, "mature": 1, "language": "French", "account_age": 2708640.0}

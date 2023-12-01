@@ -1,0 +1,1 @@
+{"channel": "salamance_tv", "avg_viewers": 12, "followers_gained": 39, "peak_viewers": 39, "hours_streamed": 207, "streams": 40, "mature": 0, "language": "Greek", "account_age": 1604160.0}

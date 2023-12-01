@@ -1,0 +1,1 @@
+{"channel": "rendhammer", "avg_viewers": 41, "followers_gained": 55, "peak_viewers": 75, "hours_streamed": 90, "streams": 21, "mature": 1, "language": "English", "account_age": 2772000.0}

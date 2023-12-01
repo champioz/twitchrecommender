@@ -1,0 +1,1 @@
+{"channel": "duque_zera", "avg_viewers": 18, "followers_gained": 173, "peak_viewers": 48, "hours_streamed": 194, "streams": 46, "mature": 0, "language": "Portuguese", "account_age": 2027520.0}

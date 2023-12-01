@@ -1,0 +1,1 @@
+{"channel": "illhelio", "avg_viewers": 3, "followers_gained": 80, "peak_viewers": 12, "hours_streamed": 216, "streams": 26, "mature": 1, "language": "Portuguese", "account_age": 2073600.0}

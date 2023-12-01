@@ -1,0 +1,1 @@
+{"channel": "metanuri", "avg_viewers": 76, "followers_gained": 476, "peak_viewers": 472, "hours_streamed": 75, "streams": 21, "mature": 1, "language": "German", "account_age": 2341440.0}

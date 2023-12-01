@@ -1,0 +1,1 @@
+{"channel": "mutti88", "avg_viewers": 18, "followers_gained": 13, "peak_viewers": 110, "hours_streamed": 74, "streams": 20, "mature": 0, "language": "Finnish", "account_age": 4508640.0}

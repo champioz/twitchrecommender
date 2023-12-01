@@ -1,0 +1,1 @@
+{"channel": "cardruglord", "avg_viewers": 1, "followers_gained": 23, "peak_viewers": 7, "hours_streamed": 120, "streams": 25, "mature": 1, "language": "English", "account_age": 1740960.0}

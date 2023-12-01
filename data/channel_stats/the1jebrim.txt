@@ -1,0 +1,1 @@
+{"channel": "the1jebrim", "avg_viewers": 10, "followers_gained": 17, "peak_viewers": 39, "hours_streamed": 23, "streams": 3, "mature": 0, "language": "English", "account_age": 3228480.0}

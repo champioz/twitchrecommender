@@ -1,0 +1,1 @@
+{"channel": "accelerante", "avg_viewers": 8, "followers_gained": 128, "peak_viewers": 50, "hours_streamed": 102, "streams": 25, "mature": 1, "language": "English", "account_age": 1337760.0}

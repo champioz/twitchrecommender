@@ -1,0 +1,1 @@
+{"channel": "volui", "avg_viewers": 8, "followers_gained": 22, "peak_viewers": 23, "hours_streamed": 45, "streams": 12, "mature": 0, "language": "Polish", "account_age": 2414880.0}

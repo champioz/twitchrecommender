@@ -1,0 +1,1 @@
+{"channel": "mamelouze", "avg_viewers": 5, "followers_gained": 80, "peak_viewers": 26, "hours_streamed": 146, "streams": 51, "mature": 1, "language": "French", "account_age": 1141920.0}

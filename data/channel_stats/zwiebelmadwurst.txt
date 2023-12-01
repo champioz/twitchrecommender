@@ -1,0 +1,1 @@
+{"channel": "zwiebelmadwurst", "avg_viewers": 4, "followers_gained": 55, "peak_viewers": 38, "hours_streamed": 173, "streams": 40, "mature": 1, "language": "German", "account_age": 1758240.0}

@@ -1,0 +1,1 @@
+{"channel": "mangosteeeen", "avg_viewers": 6, "followers_gained": 28, "peak_viewers": 20, "hours_streamed": 92, "streams": 25, "mature": 1, "language": "English", "account_age": 1952640.0}

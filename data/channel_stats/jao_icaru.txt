@@ -1,0 +1,1 @@
+{"channel": "jao_icaru", "avg_viewers": 7, "followers_gained": 4, "peak_viewers": 22, "hours_streamed": 18, "streams": 5, "mature": 1, "language": "Portuguese", "account_age": 1964160.0}

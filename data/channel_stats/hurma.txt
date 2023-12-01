@@ -1,0 +1,1 @@
+{"channel": "hurma", "avg_viewers": 588, "followers_gained": 2104, "peak_viewers": 1412, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "Russian", "account_age": 2076480.0}

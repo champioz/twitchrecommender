@@ -1,0 +1,1 @@
+{"channel": "ghdwlstn88", "avg_viewers": 5, "followers_gained": 45, "peak_viewers": 17, "hours_streamed": 161, "streams": 31, "mature": 0, "language": "Korean", "account_age": 331200.0}

@@ -1,0 +1,1 @@
+{"channel": "castcrafter", "avg_viewers": 184, "followers_gained": 1252, "peak_viewers": 472, "hours_streamed": 136, "streams": 32, "mature": 0, "language": "German", "account_age": 3672000.0}

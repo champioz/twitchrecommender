@@ -1,0 +1,1 @@
+{"channel": "bigrussianmum", "avg_viewers": 36, "followers_gained": 80, "peak_viewers": 118, "hours_streamed": 36, "streams": 9, "mature": 0, "language": "Russian", "account_age": 817920.0}

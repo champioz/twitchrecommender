@@ -1,0 +1,1 @@
+{"channel": "scheppertlive", "avg_viewers": 29, "followers_gained": 107, "peak_viewers": 218, "hours_streamed": 61, "streams": 16, "mature": 1, "language": "German", "account_age": 987840.0}

@@ -1,0 +1,1 @@
+{"channel": "leky", "avg_viewers": 20, "followers_gained": 101, "peak_viewers": 46, "hours_streamed": 100, "streams": 46, "mature": 0, "language": "English", "account_age": 1487520.0}

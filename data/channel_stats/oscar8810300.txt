@@ -1,0 +1,1 @@
+{"channel": "oscar8810300", "avg_viewers": 28, "followers_gained": 32, "peak_viewers": 91, "hours_streamed": 49, "streams": 29, "mature": 0, "language": "Chinese", "account_age": 1031040.0}

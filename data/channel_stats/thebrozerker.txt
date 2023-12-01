@@ -1,0 +1,1 @@
+{"channel": "thebrozerker", "avg_viewers": 21, "followers_gained": 138, "peak_viewers": 40, "hours_streamed": 50, "streams": 12, "mature": 0, "language": "English", "account_age": 1098720.0}

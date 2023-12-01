@@ -1,0 +1,1 @@
+{"channel": "geekdrasil", "avg_viewers": 10, "followers_gained": 103, "peak_viewers": 44, "hours_streamed": 99, "streams": 42, "mature": 0, "language": "French", "account_age": 1399680.0}

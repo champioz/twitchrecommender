@@ -1,0 +1,1 @@
+{"channel": "nkate", "avg_viewers": 6, "followers_gained": 62, "peak_viewers": 16, "hours_streamed": 136, "streams": 39, "mature": 1, "language": "Ukrainian", "account_age": 2144160.0}

@@ -1,0 +1,1 @@
+{"channel": "hastad", "avg_viewers": 1329, "followers_gained": 675, "peak_viewers": 2518, "hours_streamed": 15, "streams": 3, "mature": 0, "language": "Portuguese", "account_age": 4008960.0}

@@ -1,0 +1,1 @@
+{"channel": "deroxstv", "avg_viewers": 20, "followers_gained": 116, "peak_viewers": 128, "hours_streamed": 113, "streams": 32, "mature": 1, "language": "German", "account_age": 3006720.0}

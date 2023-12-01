@@ -1,0 +1,1 @@
+{"channel": "klinsch01", "avg_viewers": 18, "followers_gained": 52, "peak_viewers": 45, "hours_streamed": 47, "streams": 12, "mature": 1, "language": "German", "account_age": 1654560.0}

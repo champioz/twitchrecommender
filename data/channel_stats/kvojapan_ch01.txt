@@ -1,0 +1,1 @@
+{"channel": "kvojapan_ch01", "avg_viewers": 64, "followers_gained": 18, "peak_viewers": 120, "hours_streamed": 95, "streams": 28, "mature": 0, "language": "Japanese", "account_age": 3395520.0}

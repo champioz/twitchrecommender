@@ -1,0 +1,1 @@
+{"channel": "ashlynn", "avg_viewers": 2828, "followers_gained": 3936, "peak_viewers": 6314, "hours_streamed": 133, "streams": 22, "mature": 0, "language": "English", "account_age": 3650400.0}

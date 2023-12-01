@@ -1,0 +1,1 @@
+{"channel": "thuglynoi", "avg_viewers": 663, "followers_gained": 1147, "peak_viewers": 1348, "hours_streamed": 10, "streams": 2, "mature": 0, "language": "Thai", "account_age": 169920.0}

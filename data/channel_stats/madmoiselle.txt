@@ -1,0 +1,1 @@
+{"channel": "madmoiselle", "avg_viewers": 40, "followers_gained": 673, "peak_viewers": 295, "hours_streamed": 172, "streams": 33, "mature": 1, "language": "English", "account_age": 2387520.0}

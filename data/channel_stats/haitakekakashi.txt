@@ -1,0 +1,1 @@
+{"channel": "haitakekakashi", "avg_viewers": 11, "followers_gained": 38, "peak_viewers": 27, "hours_streamed": 45, "streams": 14, "mature": 0, "language": "English", "account_age": 2799360.0}

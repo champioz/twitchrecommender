@@ -1,0 +1,1 @@
+{"channel": "mintbaby1113", "avg_viewers": 55, "followers_gained": 16, "peak_viewers": 76, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Chinese", "account_age": 3225600.0}

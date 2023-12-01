@@ -1,0 +1,1 @@
+{"channel": "darkenzhd", "avg_viewers": 9, "followers_gained": 103, "peak_viewers": 36, "hours_streamed": 125, "streams": 15, "mature": 0, "language": "Greek", "account_age": 1290240.0}

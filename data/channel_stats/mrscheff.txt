@@ -1,0 +1,1 @@
+{"channel": "mrscheff", "avg_viewers": 145, "followers_gained": 346, "peak_viewers": 300, "hours_streamed": 143, "streams": 36, "mature": 0, "language": "Hungarian", "account_age": 3149280.0}

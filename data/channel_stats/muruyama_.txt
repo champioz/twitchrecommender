@@ -1,0 +1,1 @@
+{"channel": "muruyama_", "avg_viewers": 11, "followers_gained": 61, "peak_viewers": 40, "hours_streamed": 13, "streams": 4, "mature": 0, "language": "English", "account_age": 2288160.0}

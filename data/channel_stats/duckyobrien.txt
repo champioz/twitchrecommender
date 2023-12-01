@@ -1,0 +1,1 @@
+{"channel": "duckyobrien", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 29, "hours_streamed": 84, "streams": 18, "mature": 0, "language": "English", "account_age": 1111680.0}

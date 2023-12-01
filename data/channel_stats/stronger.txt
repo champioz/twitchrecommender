@@ -1,0 +1,1 @@
+{"channel": "stronger", "avg_viewers": 2, "followers_gained": 23, "peak_viewers": 19, "hours_streamed": 113, "streams": 53, "mature": 0, "language": "Spanish", "account_age": 3690720.0}

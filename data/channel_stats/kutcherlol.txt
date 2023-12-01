@@ -1,0 +1,1 @@
+{"channel": "kutcherlol", "avg_viewers": 823, "followers_gained": 2091, "peak_viewers": 3911, "hours_streamed": 186, "streams": 54, "mature": 0, "language": "German", "account_age": 2666880.0}

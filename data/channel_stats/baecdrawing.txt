@@ -1,0 +1,1 @@
+{"channel": "baecdrawing", "avg_viewers": 31, "followers_gained": 54, "peak_viewers": 58, "hours_streamed": 22, "streams": 4, "mature": 1, "language": "Korean", "account_age": 1248480.0}

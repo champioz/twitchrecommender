@@ -1,0 +1,1 @@
+{"channel": "bryanfuss", "avg_viewers": 6, "followers_gained": 47, "peak_viewers": 23, "hours_streamed": 75, "streams": 21, "mature": 0, "language": "Spanish", "account_age": 2485440.0}

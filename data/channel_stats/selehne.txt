@@ -1,0 +1,1 @@
+{"channel": "selehne", "avg_viewers": 7, "followers_gained": 14, "peak_viewers": 16, "hours_streamed": 25, "streams": 9, "mature": 0, "language": "Italian", "account_age": 639360.0}

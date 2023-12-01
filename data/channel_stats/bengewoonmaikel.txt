@@ -1,0 +1,1 @@
+{"channel": "bengewoonmaikel", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Dutch", "account_age": 1632960.0}

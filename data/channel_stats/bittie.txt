@@ -1,0 +1,1 @@
+{"channel": "bittie", "avg_viewers": 221, "followers_gained": 559, "peak_viewers": 6615, "hours_streamed": 81, "streams": 15, "mature": 0, "language": "English", "account_age": 3703680.0}

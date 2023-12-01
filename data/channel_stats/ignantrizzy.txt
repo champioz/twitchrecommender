@@ -1,0 +1,1 @@
+{"channel": "ignantrizzy", "avg_viewers": 46, "followers_gained": 29, "peak_viewers": 64, "hours_streamed": 11, "streams": 3, "mature": 0, "language": "English", "account_age": 1679040.0}

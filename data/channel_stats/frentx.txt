@@ -1,0 +1,1 @@
+{"channel": "frentx", "avg_viewers": 7, "followers_gained": 128, "peak_viewers": 25, "hours_streamed": 167, "streams": 35, "mature": 0, "language": "English", "account_age": 1591200.0}

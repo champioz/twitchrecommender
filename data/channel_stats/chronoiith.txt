@@ -1,0 +1,1 @@
+{"channel": "chronoiith", "avg_viewers": 10, "followers_gained": 8, "peak_viewers": 17, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 1726560.0}

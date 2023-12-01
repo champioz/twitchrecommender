@@ -1,0 +1,1 @@
+{"channel": "toml27l", "avg_viewers": 9, "followers_gained": 27, "peak_viewers": 26, "hours_streamed": 30, "streams": 17, "mature": 0, "language": "English", "account_age": 1952640.0}

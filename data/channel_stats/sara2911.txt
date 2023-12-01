@@ -1,0 +1,1 @@
+{"channel": "sara2911", "avg_viewers": 5, "followers_gained": 18, "peak_viewers": 16, "hours_streamed": 75, "streams": 19, "mature": 1, "language": "German", "account_age": 2050560.0}

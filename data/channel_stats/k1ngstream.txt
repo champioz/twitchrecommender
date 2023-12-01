@@ -1,0 +1,1 @@
+{"channel": "k1ngstream", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 6, "hours_streamed": 8, "streams": 2, "mature": 0, "language": "Portuguese", "account_age": 485280.0}

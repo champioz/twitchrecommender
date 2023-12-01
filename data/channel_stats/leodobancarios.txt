@@ -1,0 +1,1 @@
+{"channel": "leodobancarios", "avg_viewers": 40, "followers_gained": 458, "peak_viewers": 87, "hours_streamed": 107, "streams": 25, "mature": 0, "language": "Portuguese", "account_age": 1530720.0}

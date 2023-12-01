@@ -1,0 +1,1 @@
+{"channel": "missmush", "avg_viewers": 53, "followers_gained": 768, "peak_viewers": 226, "hours_streamed": 60, "streams": 11, "mature": 1, "language": "Portuguese", "account_age": 564480.0}

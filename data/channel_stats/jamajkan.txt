@@ -1,0 +1,1 @@
+{"channel": "jamajkan", "avg_viewers": 3, "followers_gained": 16, "peak_viewers": 15, "hours_streamed": 37, "streams": 28, "mature": 0, "language": "Polish", "account_age": 816480.0}

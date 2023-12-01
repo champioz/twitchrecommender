@@ -1,0 +1,1 @@
+{"channel": "yooda55", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 15, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 777600.0}

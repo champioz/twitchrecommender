@@ -1,0 +1,1 @@
+{"channel": "federalghosts", "avg_viewers": 53, "followers_gained": 55, "peak_viewers": 96, "hours_streamed": 51, "streams": 9, "mature": 1, "language": "English", "account_age": 1378080.0}

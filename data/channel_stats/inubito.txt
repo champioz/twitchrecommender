@@ -1,0 +1,1 @@
+{"channel": "inubito", "avg_viewers": 4, "followers_gained": 9, "peak_viewers": 10, "hours_streamed": 16, "streams": 6, "mature": 1, "language": "English", "account_age": 5690880.0}

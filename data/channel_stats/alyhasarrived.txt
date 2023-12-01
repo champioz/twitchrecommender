@@ -1,0 +1,1 @@
+{"channel": "alyhasarrived", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 11, "hours_streamed": 19, "streams": 10, "mature": 1, "language": "English", "account_age": 279360.0}

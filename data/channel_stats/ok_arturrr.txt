@@ -1,0 +1,1 @@
+{"channel": "ok_arturrr", "avg_viewers": 4, "followers_gained": 24, "peak_viewers": 20, "hours_streamed": 130, "streams": 47, "mature": 1, "language": "English", "account_age": 190080.0}

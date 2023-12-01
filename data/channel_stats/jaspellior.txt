@@ -1,0 +1,1 @@
+{"channel": "jaspellior", "avg_viewers": 15, "followers_gained": 85, "peak_viewers": 47, "hours_streamed": 77, "streams": 18, "mature": 1, "language": "English", "account_age": 610560.0}

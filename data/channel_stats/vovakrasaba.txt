@@ -1,0 +1,1 @@
+{"channel": "vovakrasaba", "avg_viewers": 4, "followers_gained": 50, "peak_viewers": 26, "hours_streamed": 192, "streams": 64, "mature": 0, "language": "Russian", "account_age": 967680.0}

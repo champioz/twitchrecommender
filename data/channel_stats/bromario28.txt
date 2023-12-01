@@ -1,0 +1,1 @@
+{"channel": "bromario28", "avg_viewers": 11, "followers_gained": 85, "peak_viewers": 148, "hours_streamed": 142, "streams": 40, "mature": 0, "language": "English", "account_age": 1234080.0}

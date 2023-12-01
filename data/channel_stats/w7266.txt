@@ -1,0 +1,1 @@
+{"channel": "w7266", "avg_viewers": 22, "followers_gained": 7, "peak_viewers": 41, "hours_streamed": 10, "streams": 6, "mature": 0, "language": "Chinese", "account_age": 5186880.0}

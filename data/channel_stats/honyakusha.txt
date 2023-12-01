@@ -1,0 +1,1 @@
+{"channel": "honyakusha", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 12, "streams": 4, "mature": 1, "language": "Turkish", "account_age": 3486240.0}

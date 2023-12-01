@@ -1,0 +1,1 @@
+{"channel": "jennypurrs", "avg_viewers": 11, "followers_gained": 49, "peak_viewers": 35, "hours_streamed": 87, "streams": 18, "mature": 1, "language": "English", "account_age": 1304640.0}

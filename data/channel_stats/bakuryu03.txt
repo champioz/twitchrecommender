@@ -1,0 +1,1 @@
+{"channel": "bakuryu03", "avg_viewers": 4, "followers_gained": 39, "peak_viewers": 12, "hours_streamed": 41, "streams": 15, "mature": 1, "language": "Spanish", "account_age": 534240.0}

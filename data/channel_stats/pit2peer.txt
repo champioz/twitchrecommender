@@ -1,0 +1,1 @@
+{"channel": "pit2peer", "avg_viewers": 6, "followers_gained": 56, "peak_viewers": 30, "hours_streamed": 50, "streams": 20, "mature": 1, "language": "French", "account_age": 1896480.0}

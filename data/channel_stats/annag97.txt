@@ -1,0 +1,1 @@
+{"channel": "annag97", "avg_viewers": 17, "followers_gained": 292, "peak_viewers": 750, "hours_streamed": 103, "streams": 20, "mature": 1, "language": "English", "account_age": 2234880.0}

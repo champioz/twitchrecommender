@@ -1,0 +1,1 @@
+{"channel": "maitake1989", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 22, "streams": 14, "mature": 0, "language": "Japanese", "account_age": 1663200.0}

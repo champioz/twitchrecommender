@@ -1,0 +1,1 @@
+{"channel": "kidvillero", "avg_viewers": 0, "followers_gained": 11, "peak_viewers": 5, "hours_streamed": 60, "streams": 17, "mature": 0, "language": "English", "account_age": 3664800.0}

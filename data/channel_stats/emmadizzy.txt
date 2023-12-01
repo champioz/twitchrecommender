@@ -1,0 +1,1 @@
+{"channel": "emmadizzy", "avg_viewers": 105, "followers_gained": 171416, "peak_viewers": 208, "hours_streamed": 86, "streams": 19, "mature": 0, "language": "German", "account_age": 1903680.0}

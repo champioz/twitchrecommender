@@ -1,0 +1,1 @@
+{"channel": "wizardjo", "avg_viewers": 54, "followers_gained": 149, "peak_viewers": 289, "hours_streamed": 14, "streams": 1, "mature": 0, "language": "Italian", "account_age": 2109600.0}

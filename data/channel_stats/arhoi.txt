@@ -1,0 +1,1 @@
+{"channel": "arhoi", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 12, "hours_streamed": 145, "streams": 28, "mature": 0, "language": "Chinese", "account_age": 3432960.0}

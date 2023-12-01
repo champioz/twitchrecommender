@@ -1,0 +1,1 @@
+{"channel": "yellowkillerbee", "avg_viewers": 39, "followers_gained": 91, "peak_viewers": 447, "hours_streamed": 39, "streams": 11, "mature": 0, "language": "English", "account_age": 3620160.0}

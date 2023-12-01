@@ -1,0 +1,1 @@
+{"channel": "shivaatv", "avg_viewers": 5, "followers_gained": 28, "peak_viewers": 20, "hours_streamed": 144, "streams": 48, "mature": 1, "language": "French", "account_age": 817920.0}

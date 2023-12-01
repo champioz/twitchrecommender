@@ -1,0 +1,1 @@
+{"channel": "mama_prince", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 14, "hours_streamed": 33, "streams": 10, "mature": 1, "language": "English", "account_age": 829440.0}

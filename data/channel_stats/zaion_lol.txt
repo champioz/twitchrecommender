@@ -1,0 +1,1 @@
+{"channel": "zaion_lol", "avg_viewers": 33, "followers_gained": 60, "peak_viewers": 68, "hours_streamed": 87, "streams": 21, "mature": 1, "language": "Portuguese", "account_age": 2252160.0}

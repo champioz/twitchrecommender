@@ -1,0 +1,1 @@
+{"channel": "hyrrokkin", "avg_viewers": 10, "followers_gained": 84, "peak_viewers": 29, "hours_streamed": 115, "streams": 40, "mature": 1, "language": "Portuguese", "account_age": 2766240.0}

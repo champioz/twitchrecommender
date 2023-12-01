@@ -1,0 +1,1 @@
+{"channel": "srlombard", "avg_viewers": 29, "followers_gained": 222, "peak_viewers": 165, "hours_streamed": 126, "streams": 27, "mature": 1, "language": "Spanish", "account_age": 2921760.0}

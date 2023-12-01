@@ -1,0 +1,1 @@
+{"channel": "ouroboroses", "avg_viewers": 3, "followers_gained": 15, "peak_viewers": 14, "hours_streamed": 121, "streams": 25, "mature": 0, "language": "English", "account_age": 1811520.0}

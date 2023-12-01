@@ -1,0 +1,1 @@
+{"channel": "coalrunner", "avg_viewers": 14, "followers_gained": 26, "peak_viewers": 85, "hours_streamed": 6, "streams": 5, "mature": 0, "language": "English", "account_age": 1229760.0}

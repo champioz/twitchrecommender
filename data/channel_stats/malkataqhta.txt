@@ -1,0 +1,1 @@
+{"channel": "malkataqhta", "avg_viewers": 5, "followers_gained": 61, "peak_viewers": 34, "hours_streamed": 115, "streams": 31, "mature": 0, "language": "Bulgarian", "account_age": 1428480.0}

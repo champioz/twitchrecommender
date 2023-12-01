@@ -1,0 +1,1 @@
+{"channel": "rodthepaper", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 8, "hours_streamed": 78, "streams": 14, "mature": 0, "language": "Korean", "account_age": 1905120.0}

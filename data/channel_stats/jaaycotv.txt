@@ -1,0 +1,1 @@
+{"channel": "jaaycotv", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 3, "hours_streamed": 17, "streams": 10, "mature": 1, "language": "English", "account_age": 839520.0}

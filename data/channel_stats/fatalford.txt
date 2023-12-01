@@ -1,0 +1,1 @@
+{"channel": "fatalford", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "English", "account_age": 3876480.0}

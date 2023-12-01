@@ -1,0 +1,1 @@
+{"channel": "vicpagegg", "avg_viewers": 65, "followers_gained": 8, "peak_viewers": 87, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "Italian", "account_age": 2669760.0}

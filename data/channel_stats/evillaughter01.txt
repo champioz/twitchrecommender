@@ -1,0 +1,1 @@
+{"channel": "evillaughter01", "avg_viewers": 105, "followers_gained": 150, "peak_viewers": 164, "hours_streamed": 30, "streams": 9, "mature": 1, "language": "English", "account_age": 1499040.0}

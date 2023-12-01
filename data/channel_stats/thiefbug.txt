@@ -1,0 +1,1 @@
+{"channel": "thiefbug", "avg_viewers": 36, "followers_gained": 18, "peak_viewers": 86, "hours_streamed": 24, "streams": 9, "mature": 1, "language": "English", "account_age": 3663360.0}

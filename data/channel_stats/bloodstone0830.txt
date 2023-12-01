@@ -1,0 +1,1 @@
+{"channel": "bloodstone0830", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 25, "streams": 8, "mature": 0, "language": "Korean", "account_age": 851040.0}

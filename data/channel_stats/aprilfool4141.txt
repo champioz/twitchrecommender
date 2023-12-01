@@ -1,0 +1,1 @@
+{"channel": "aprilfool4141", "avg_viewers": 0, "followers_gained": 10, "peak_viewers": 12, "hours_streamed": 123, "streams": 54, "mature": 1, "language": "Chinese", "account_age": 195840.0}

@@ -1,0 +1,1 @@
+{"channel": "badbrakes", "avg_viewers": 21, "followers_gained": 24, "peak_viewers": 38, "hours_streamed": 50, "streams": 5, "mature": 1, "language": "English", "account_age": 3437280.0}

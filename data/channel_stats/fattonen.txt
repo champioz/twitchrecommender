@@ -1,0 +1,1 @@
+{"channel": "fattonen", "avg_viewers": 12, "followers_gained": 26, "peak_viewers": 25, "hours_streamed": 19, "streams": 5, "mature": 1, "language": "Finnish", "account_age": 1077120.0}

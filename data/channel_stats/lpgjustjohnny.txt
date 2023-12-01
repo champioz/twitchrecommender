@@ -1,0 +1,1 @@
+{"channel": "lpgjustjohnny", "avg_viewers": 518, "followers_gained": 499, "peak_viewers": 2004, "hours_streamed": 23, "streams": 7, "mature": 0, "language": "German", "account_age": 2265120.0}

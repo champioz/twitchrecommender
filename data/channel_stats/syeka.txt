@@ -1,0 +1,1 @@
+{"channel": "syeka", "avg_viewers": 4, "followers_gained": 10, "peak_viewers": 20, "hours_streamed": 96, "streams": 30, "mature": 0, "language": "Japanese", "account_age": 1376640.0}

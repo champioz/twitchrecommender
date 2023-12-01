@@ -1,0 +1,1 @@
+{"channel": "agogigi", "avg_viewers": 19, "followers_gained": 244, "peak_viewers": 67, "hours_streamed": 262, "streams": 27, "mature": 1, "language": "German", "account_age": 2049120.0}

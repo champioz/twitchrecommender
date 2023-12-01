@@ -1,0 +1,1 @@
+{"channel": "instantgamingit", "avg_viewers": 88, "followers_gained": 1, "peak_viewers": 125, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "Italian", "account_age": 1524960.0}

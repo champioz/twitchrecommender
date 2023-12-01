@@ -1,0 +1,1 @@
+{"channel": "trixentity", "avg_viewers": 14, "followers_gained": 11, "peak_viewers": 31, "hours_streamed": 12, "streams": 3, "mature": 1, "language": "English", "account_age": 270720.0}

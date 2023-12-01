@@ -1,0 +1,1 @@
+{"channel": "jusergaming", "avg_viewers": 2, "followers_gained": 27, "peak_viewers": 9, "hours_streamed": 133, "streams": 52, "mature": 0, "language": "German", "account_age": 2986560.0}

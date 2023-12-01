@@ -1,0 +1,1 @@
+{"channel": "lliima", "avg_viewers": 5, "followers_gained": 21, "peak_viewers": 13, "hours_streamed": 33, "streams": 18, "mature": 0, "language": "German", "account_age": 3424320.0}

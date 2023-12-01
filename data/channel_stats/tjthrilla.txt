@@ -1,0 +1,1 @@
+{"channel": "tjthrilla", "avg_viewers": 6, "followers_gained": 17, "peak_viewers": 21, "hours_streamed": 64, "streams": 15, "mature": 1, "language": "English", "account_age": 391680.0}

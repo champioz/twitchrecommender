@@ -1,0 +1,1 @@
+{"channel": "amandathejedi", "avg_viewers": 37, "followers_gained": 214, "peak_viewers": 104, "hours_streamed": 52, "streams": 16, "mature": 0, "language": "English", "account_age": 2184480.0}

@@ -1,0 +1,1 @@
+{"channel": "vjsualex", "avg_viewers": 97, "followers_gained": 69, "peak_viewers": 1244, "hours_streamed": 62, "streams": 14, "mature": 1, "language": "German", "account_age": 1938240.0}

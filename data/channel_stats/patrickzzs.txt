@@ -1,0 +1,1 @@
+{"channel": "patrickzzs", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 14, "streams": 7, "mature": 1, "language": "Portuguese", "account_age": 3509280.0}

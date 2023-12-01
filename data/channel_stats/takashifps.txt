@@ -1,0 +1,1 @@
+{"channel": "takashifps", "avg_viewers": 7, "followers_gained": 64, "peak_viewers": 45, "hours_streamed": 39, "streams": 14, "mature": 0, "language": "Portuguese", "account_age": 2049120.0}

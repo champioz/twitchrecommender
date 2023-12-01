@@ -1,0 +1,1 @@
+{"channel": "sonku3", "avg_viewers": 0, "followers_gained": 53, "peak_viewers": 15, "hours_streamed": 131, "streams": 49, "mature": 0, "language": "Polish", "account_age": 2782080.0}

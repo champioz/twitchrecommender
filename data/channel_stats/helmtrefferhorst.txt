@@ -1,0 +1,1 @@
+{"channel": "helmtrefferhorst", "avg_viewers": 17, "followers_gained": 67, "peak_viewers": 51, "hours_streamed": 110, "streams": 30, "mature": 1, "language": "German", "account_age": 1915200.0}

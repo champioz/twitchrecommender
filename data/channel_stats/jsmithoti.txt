@@ -1,0 +1,1 @@
+{"channel": "jsmithoti", "avg_viewers": 50, "followers_gained": 145, "peak_viewers": 98, "hours_streamed": 16, "streams": 5, "mature": 0, "language": "English", "account_age": 3425760.0}

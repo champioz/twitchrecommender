@@ -1,0 +1,1 @@
+{"channel": "marievitoria", "avg_viewers": 25, "followers_gained": 722, "peak_viewers": 193, "hours_streamed": 134, "streams": 22, "mature": 1, "language": "Portuguese", "account_age": 1105920.0}

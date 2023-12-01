@@ -1,0 +1,1 @@
+{"channel": "joecreak", "avg_viewers": 2, "followers_gained": 22, "peak_viewers": 12, "hours_streamed": 29, "streams": 8, "mature": 1, "language": "German", "account_age": 3451680.0}

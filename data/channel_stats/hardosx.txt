@@ -1,0 +1,1 @@
+{"channel": "hardosx", "avg_viewers": 33, "followers_gained": 15, "peak_viewers": 91, "hours_streamed": 11, "streams": 4, "mature": 0, "language": "Russian", "account_age": 1586880.0}

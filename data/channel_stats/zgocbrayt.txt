@@ -1,0 +1,1 @@
+{"channel": "zgocbrayt", "avg_viewers": 14, "followers_gained": 363, "peak_viewers": 51, "hours_streamed": 83, "streams": 21, "mature": 0, "language": "Turkish", "account_age": 2839680.0}

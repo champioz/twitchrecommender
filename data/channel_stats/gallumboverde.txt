@@ -1,0 +1,1 @@
+{"channel": "gallumboverde", "avg_viewers": 2, "followers_gained": 76, "peak_viewers": 9, "hours_streamed": 61, "streams": 25, "mature": 1, "language": "Spanish", "account_age": 774720.0}

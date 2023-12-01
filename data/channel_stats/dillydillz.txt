@@ -1,0 +1,1 @@
+{"channel": "dillydillz", "avg_viewers": 5, "followers_gained": 31, "peak_viewers": 13, "hours_streamed": 71, "streams": 19, "mature": 1, "language": "English", "account_age": 650880.0}

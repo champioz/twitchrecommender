@@ -1,0 +1,1 @@
+{"channel": "taylan_official", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 7, "hours_streamed": 5, "streams": 5, "mature": 0, "language": "Turkish", "account_age": 142560.0}

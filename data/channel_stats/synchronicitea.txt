@@ -1,0 +1,1 @@
+{"channel": "synchronicitea", "avg_viewers": 69, "followers_gained": 230, "peak_viewers": 118, "hours_streamed": 48, "streams": 11, "mature": 1, "language": "English", "account_age": 1023840.0}

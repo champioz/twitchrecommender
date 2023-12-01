@@ -1,0 +1,1 @@
+{"channel": "xinsanityo", "avg_viewers": 1, "followers_gained": 45, "peak_viewers": 17, "hours_streamed": 200, "streams": 41, "mature": 1, "language": "English", "account_age": 3326400.0}

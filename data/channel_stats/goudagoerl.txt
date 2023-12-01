@@ -1,0 +1,1 @@
+{"channel": "goudagoerl", "avg_viewers": 9, "followers_gained": 78, "peak_viewers": 82, "hours_streamed": 130, "streams": 27, "mature": 1, "language": "German", "account_age": 930240.0}

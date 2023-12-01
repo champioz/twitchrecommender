@@ -1,0 +1,1 @@
+{"channel": "milksusu", "avg_viewers": 42, "followers_gained": 1065, "peak_viewers": 371, "hours_streamed": 316, "streams": 37, "mature": 0, "language": "English", "account_age": 2484000.0}

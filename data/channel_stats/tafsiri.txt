@@ -1,0 +1,1 @@
+{"channel": "tafsiri", "avg_viewers": 16, "followers_gained": 1, "peak_viewers": 38, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "English", "account_age": 3381120.0}

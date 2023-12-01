@@ -1,0 +1,1 @@
+{"channel": "thebichozombie", "avg_viewers": 10, "followers_gained": 73, "peak_viewers": 33, "hours_streamed": 160, "streams": 33, "mature": 0, "language": "Spanish", "account_age": 1648800.0}

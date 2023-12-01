@@ -1,0 +1,1 @@
+{"channel": "mr_starstorm", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 171, "hours_streamed": 79, "streams": 11, "mature": 0, "language": "English", "account_age": 4188960.0}

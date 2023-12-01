@@ -1,0 +1,1 @@
+{"channel": "loshd", "avg_viewers": 56, "followers_gained": 428, "peak_viewers": 120, "hours_streamed": 121, "streams": 16, "mature": 1, "language": "Finnish", "account_age": 1805760.0}

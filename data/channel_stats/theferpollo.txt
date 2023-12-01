@@ -1,0 +1,1 @@
+{"channel": "theferpollo", "avg_viewers": 8, "followers_gained": 34, "peak_viewers": 21, "hours_streamed": 24, "streams": 14, "mature": 0, "language": "Spanish", "account_age": 2831040.0}

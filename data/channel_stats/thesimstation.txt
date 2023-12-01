@@ -1,0 +1,1 @@
+{"channel": "thesimstation", "avg_viewers": 18, "followers_gained": 55, "peak_viewers": 66, "hours_streamed": 34, "streams": 13, "mature": 0, "language": "English", "account_age": 1059840.0}

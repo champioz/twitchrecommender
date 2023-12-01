@@ -1,0 +1,1 @@
+{"channel": "wysek1337", "avg_viewers": 26, "followers_gained": 20, "peak_viewers": 245, "hours_streamed": 24, "streams": 11, "mature": 0, "language": "English", "account_age": 3588480.0}

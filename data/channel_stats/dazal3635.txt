@@ -1,0 +1,1 @@
+{"channel": "dazal3635", "avg_viewers": 8, "followers_gained": 26, "peak_viewers": 21, "hours_streamed": 63, "streams": 23, "mature": 0, "language": "Korean", "account_age": 967680.0}

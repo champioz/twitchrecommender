@@ -1,0 +1,1 @@
+{"channel": "hippyx04", "avg_viewers": 5, "followers_gained": 5, "peak_viewers": 14, "hours_streamed": 44, "streams": 14, "mature": 1, "language": "German", "account_age": 3343680.0}

@@ -1,0 +1,1 @@
+{"channel": "mulvana", "avg_viewers": 4, "followers_gained": 39, "peak_viewers": 22, "hours_streamed": 71, "streams": 34, "mature": 1, "language": "English", "account_age": 812160.0}

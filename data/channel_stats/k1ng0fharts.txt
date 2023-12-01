@@ -1,0 +1,1 @@
+{"channel": "k1ng0fharts", "avg_viewers": 2, "followers_gained": 15, "peak_viewers": 15, "hours_streamed": 28, "streams": 13, "mature": 1, "language": "English", "account_age": 3420000.0}

@@ -1,0 +1,1 @@
+{"channel": "3liza", "avg_viewers": 4, "followers_gained": 38, "peak_viewers": 17, "hours_streamed": 48, "streams": 8, "mature": 1, "language": "Spanish", "account_age": 3136320.0}

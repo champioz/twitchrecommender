@@ -1,0 +1,1 @@
+{"channel": "generalteotv", "avg_viewers": 7, "followers_gained": 14, "peak_viewers": 65, "hours_streamed": 53, "streams": 19, "mature": 0, "language": "Greek", "account_age": 1427040.0}

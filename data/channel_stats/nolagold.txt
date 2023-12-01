@@ -1,0 +1,1 @@
+{"channel": "nolagold", "avg_viewers": 42, "followers_gained": 59, "peak_viewers": 774, "hours_streamed": 74, "streams": 11, "mature": 0, "language": "English", "account_age": 3971520.0}

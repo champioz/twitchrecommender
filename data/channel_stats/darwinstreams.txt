@@ -1,0 +1,1 @@
+{"channel": "darwinstreams", "avg_viewers": 248, "followers_gained": 761, "peak_viewers": 1320, "hours_streamed": 35, "streams": 11, "mature": 0, "language": "English", "account_age": 1219680.0}

@@ -1,0 +1,1 @@
+{"channel": "sheik_robles", "avg_viewers": 16, "followers_gained": 33, "peak_viewers": 47, "hours_streamed": 19, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 286560.0}

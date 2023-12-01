@@ -1,0 +1,1 @@
+{"channel": "nadernet", "avg_viewers": 3, "followers_gained": 109, "peak_viewers": 21, "hours_streamed": 247, "streams": 80, "mature": 1, "language": "English", "account_age": 973440.0}

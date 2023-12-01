@@ -1,0 +1,1 @@
+{"channel": "cladofi", "avg_viewers": 14, "followers_gained": 128, "peak_viewers": 60, "hours_streamed": 195, "streams": 25, "mature": 0, "language": "Portuguese", "account_age": 3978720.0}

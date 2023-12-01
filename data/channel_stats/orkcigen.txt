@@ -1,0 +1,1 @@
+{"channel": "orkcigen", "avg_viewers": 8, "followers_gained": 10, "peak_viewers": 15, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "Thai", "account_age": 1448640.0}

@@ -1,0 +1,1 @@
+{"channel": "fireryman", "avg_viewers": 4, "followers_gained": 22, "peak_viewers": 102, "hours_streamed": 48, "streams": 12, "mature": 0, "language": "English", "account_age": 2871360.0}

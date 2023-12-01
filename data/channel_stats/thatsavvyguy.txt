@@ -1,0 +1,1 @@
+{"channel": "thatsavvyguy", "avg_viewers": 10, "followers_gained": 46, "peak_viewers": 79, "hours_streamed": 161, "streams": 27, "mature": 1, "language": "English", "account_age": 303840.0}

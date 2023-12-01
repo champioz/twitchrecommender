@@ -1,0 +1,1 @@
+{"channel": "twisetv", "avg_viewers": 32, "followers_gained": 93, "peak_viewers": 87, "hours_streamed": 276, "streams": 38, "mature": 0, "language": "Danish", "account_age": 2924640.0}

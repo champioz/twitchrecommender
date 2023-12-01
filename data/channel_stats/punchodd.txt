@@ -1,0 +1,1 @@
+{"channel": "punchodd", "avg_viewers": 69, "followers_gained": 39, "peak_viewers": 159, "hours_streamed": 2, "streams": 4, "mature": 0, "language": "Spanish", "account_age": 797760.0}

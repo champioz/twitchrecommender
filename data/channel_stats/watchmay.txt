@@ -1,0 +1,1 @@
+{"channel": "watchmay", "avg_viewers": 4, "followers_gained": 19, "peak_viewers": 10, "hours_streamed": 11, "streams": 6, "mature": 1, "language": "French", "account_age": 708480.0}

@@ -1,0 +1,1 @@
+{"channel": "kirwansgamestore", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "English", "account_age": 3402720.0}

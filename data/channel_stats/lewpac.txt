@@ -1,0 +1,1 @@
+{"channel": "lewpac", "avg_viewers": 170, "followers_gained": 876, "peak_viewers": 1616, "hours_streamed": 135, "streams": 23, "mature": 0, "language": "English", "account_age": 3421440.0}

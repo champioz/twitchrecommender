@@ -1,0 +1,1 @@
+{"channel": "wolfshund23", "avg_viewers": 7, "followers_gained": 73, "peak_viewers": 74, "hours_streamed": 250, "streams": 36, "mature": 1, "language": "German", "account_age": 2871360.0}

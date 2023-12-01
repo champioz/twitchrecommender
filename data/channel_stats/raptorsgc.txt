@@ -1,0 +1,1 @@
+{"channel": "raptorsgc", "avg_viewers": 1650, "followers_gained": 110, "peak_viewers": 10027, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "English", "account_age": 1016640.0}

@@ -1,0 +1,1 @@
+{"channel": "hendys", "avg_viewers": 28, "followers_gained": 208, "peak_viewers": 61, "hours_streamed": 16, "streams": 5, "mature": 0, "language": "Czech", "account_age": 2466720.0}

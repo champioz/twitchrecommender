@@ -1,0 +1,1 @@
+{"channel": "afraid4_life", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 11, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "English", "account_age": 897120.0}

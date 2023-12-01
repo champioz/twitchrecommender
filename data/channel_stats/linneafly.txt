@@ -1,0 +1,1 @@
+{"channel": "linneafly", "avg_viewers": 58, "followers_gained": 34, "peak_viewers": 116, "hours_streamed": 26, "streams": 14, "mature": 0, "language": "English", "account_age": 3238560.0}

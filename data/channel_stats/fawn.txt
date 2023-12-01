@@ -1,0 +1,1 @@
+{"channel": "fawn", "avg_viewers": 102, "followers_gained": 142, "peak_viewers": 207, "hours_streamed": 16, "streams": 7, "mature": 0, "language": "English", "account_age": 964800.0}

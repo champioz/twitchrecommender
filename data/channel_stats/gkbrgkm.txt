@@ -1,0 +1,1 @@
+{"channel": "gkbrgkm", "avg_viewers": 21, "followers_gained": 22, "peak_viewers": 39, "hours_streamed": 291, "streams": 36, "mature": 0, "language": "Japanese", "account_age": 816480.0}

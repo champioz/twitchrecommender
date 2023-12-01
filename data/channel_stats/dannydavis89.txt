@@ -1,0 +1,1 @@
+{"channel": "dannydavis89", "avg_viewers": 53, "followers_gained": 202, "peak_viewers": 120, "hours_streamed": 54, "streams": 23, "mature": 1, "language": "Italian", "account_age": 2046240.0}

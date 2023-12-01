@@ -1,0 +1,1 @@
+{"channel": "artemiotv", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 8, "hours_streamed": 3, "streams": 2, "mature": 1, "language": "English", "account_age": 1920960.0}

@@ -1,0 +1,1 @@
+{"channel": "meggybyte", "avg_viewers": 41, "followers_gained": 10, "peak_viewers": 66, "hours_streamed": 27, "streams": 9, "mature": 1, "language": "English", "account_age": 3103200.0}

@@ -1,0 +1,1 @@
+{"channel": "swaper__", "avg_viewers": 9, "followers_gained": 14, "peak_viewers": 17, "hours_streamed": 29, "streams": 10, "mature": 1, "language": "German", "account_age": 374400.0}

@@ -1,0 +1,1 @@
+{"channel": "kiitarie", "avg_viewers": 52, "followers_gained": 192, "peak_viewers": 180, "hours_streamed": 173, "streams": 26, "mature": 1, "language": "English", "account_age": 2327040.0}

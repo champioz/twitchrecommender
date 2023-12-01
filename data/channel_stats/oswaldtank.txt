@@ -1,0 +1,1 @@
+{"channel": "oswaldtank", "avg_viewers": 18, "followers_gained": 42, "peak_viewers": 26, "hours_streamed": 30, "streams": 8, "mature": 1, "language": "Russian", "account_age": 2200320.0}

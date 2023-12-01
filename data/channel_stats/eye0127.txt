@@ -1,0 +1,1 @@
+{"channel": "eye0127", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "Korean", "account_age": 106560.0}

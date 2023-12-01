@@ -1,0 +1,1 @@
+{"channel": "grafka", "avg_viewers": 39, "followers_gained": 6, "peak_viewers": 192, "hours_streamed": 13, "streams": 6, "mature": 1, "language": "Polish", "account_age": 3794400.0}

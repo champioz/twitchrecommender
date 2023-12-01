@@ -1,0 +1,1 @@
+{"channel": "beerconsumer_", "avg_viewers": 5, "followers_gained": 24, "peak_viewers": 15, "hours_streamed": 181, "streams": 29, "mature": 1, "language": "Slovak", "account_age": 864000.0}

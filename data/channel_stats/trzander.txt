@@ -1,0 +1,1 @@
+{"channel": "trzander", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 46, "streams": 13, "mature": 1, "language": "English", "account_age": 3055680.0}

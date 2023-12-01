@@ -1,0 +1,1 @@
+{"channel": "mattie", "avg_viewers": 30, "followers_gained": 113, "peak_viewers": 352, "hours_streamed": 139, "streams": 27, "mature": 1, "language": "English", "account_age": 3726720.0}

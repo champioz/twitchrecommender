@@ -1,0 +1,1 @@
+{"channel": "critzler", "avg_viewers": 38, "followers_gained": 365, "peak_viewers": 135, "hours_streamed": 116, "streams": 26, "mature": 1, "language": "English", "account_age": 2725920.0}

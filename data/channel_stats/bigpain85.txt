@@ -1,0 +1,1 @@
+{"channel": "bigpain85", "avg_viewers": 8, "followers_gained": 109, "peak_viewers": 26, "hours_streamed": 74, "streams": 36, "mature": 0, "language": "German", "account_age": 1710720.0}

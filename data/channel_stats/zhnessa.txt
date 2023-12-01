@@ -1,0 +1,1 @@
+{"channel": "zhnessa", "avg_viewers": 7, "followers_gained": 130, "peak_viewers": 25, "hours_streamed": 44, "streams": 9, "mature": 1, "language": "Portuguese", "account_age": 806400.0}

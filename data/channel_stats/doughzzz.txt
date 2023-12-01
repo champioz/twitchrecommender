@@ -1,0 +1,1 @@
+{"channel": "doughzzz", "avg_viewers": 2, "followers_gained": 18, "peak_viewers": 20, "hours_streamed": 288, "streams": 39, "mature": 0, "language": "English", "account_age": 646560.0}

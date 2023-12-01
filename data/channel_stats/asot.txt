@@ -1,0 +1,1 @@
+{"channel": "asot", "avg_viewers": 336, "followers_gained": 484, "peak_viewers": 644, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "English", "account_age": 426240.0}

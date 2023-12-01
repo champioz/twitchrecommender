@@ -1,0 +1,1 @@
+{"channel": "amackert", "avg_viewers": 7, "followers_gained": 5, "peak_viewers": 224, "hours_streamed": 140, "streams": 30, "mature": 1, "language": "English", "account_age": 2404800.0}

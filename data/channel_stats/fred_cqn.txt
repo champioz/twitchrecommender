@@ -1,0 +1,1 @@
+{"channel": "fred_cqn", "avg_viewers": 163, "followers_gained": 744, "peak_viewers": 557, "hours_streamed": 49, "streams": 18, "mature": 0, "language": "Portuguese", "account_age": 868320.0}

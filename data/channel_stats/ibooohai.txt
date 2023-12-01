@@ -1,0 +1,1 @@
+{"channel": "ibooohai", "avg_viewers": 26, "followers_gained": 1264, "peak_viewers": 576, "hours_streamed": 139, "streams": 51, "mature": 0, "language": "Danish", "account_age": 1427040.0}

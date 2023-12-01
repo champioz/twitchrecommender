@@ -1,0 +1,1 @@
+{"channel": "hypercole64", "avg_viewers": 5, "followers_gained": 16, "peak_viewers": 30, "hours_streamed": 58, "streams": 21, "mature": 1, "language": "English", "account_age": 3503520.0}

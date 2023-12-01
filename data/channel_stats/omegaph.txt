@@ -1,0 +1,1 @@
+{"channel": "omegaph", "avg_viewers": 3, "followers_gained": 46, "peak_viewers": 16, "hours_streamed": 36, "streams": 22, "mature": 0, "language": "English", "account_age": 154080.0}

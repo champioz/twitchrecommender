@@ -1,0 +1,1 @@
+{"channel": "mad_ruski", "avg_viewers": 107, "followers_gained": 309, "peak_viewers": 475, "hours_streamed": 48, "streams": 12, "mature": 0, "language": "English", "account_age": 2371680.0}

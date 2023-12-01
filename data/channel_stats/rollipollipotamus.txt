@@ -1,0 +1,1 @@
+{"channel": "rollipollipotamus", "avg_viewers": 20, "followers_gained": 295, "peak_viewers": 114, "hours_streamed": 199, "streams": 54, "mature": 1, "language": "English", "account_age": 3780000.0}

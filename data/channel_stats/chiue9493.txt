@@ -1,0 +1,1 @@
+{"channel": "chiue9493", "avg_viewers": 136, "followers_gained": 858, "peak_viewers": 1966, "hours_streamed": 422, "streams": 24, "mature": 0, "language": "Chinese", "account_age": 2049120.0}

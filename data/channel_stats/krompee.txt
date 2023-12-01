@@ -1,0 +1,1 @@
+{"channel": "krompee", "avg_viewers": 5, "followers_gained": 44, "peak_viewers": 15, "hours_streamed": 86, "streams": 26, "mature": 0, "language": "Finnish", "account_age": 1144800.0}

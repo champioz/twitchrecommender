@@ -1,0 +1,1 @@
+{"channel": "zzangku", "avg_viewers": 178, "followers_gained": 99, "peak_viewers": 434, "hours_streamed": 27, "streams": 12, "mature": 0, "language": "Korean", "account_age": 1321920.0}

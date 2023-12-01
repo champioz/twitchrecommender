@@ -1,0 +1,1 @@
+{"channel": "psyhodelik", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 17, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "French", "account_age": 3700800.0}

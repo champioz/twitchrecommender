@@ -1,0 +1,1 @@
+{"channel": "notoriousnorman", "avg_viewers": 241, "followers_gained": 5630, "peak_viewers": 1831, "hours_streamed": 236, "streams": 22, "mature": 0, "language": "English", "account_age": 1268640.0}

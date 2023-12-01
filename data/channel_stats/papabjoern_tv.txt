@@ -1,0 +1,1 @@
+{"channel": "papabjoern_tv", "avg_viewers": 2, "followers_gained": 6, "peak_viewers": 29, "hours_streamed": 34, "streams": 7, "mature": 1, "language": "German", "account_age": 2495520.0}

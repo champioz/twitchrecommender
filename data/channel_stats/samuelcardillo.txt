@@ -1,0 +1,1 @@
+{"channel": "samuelcardillo", "avg_viewers": 38, "followers_gained": 3, "peak_viewers": 71, "hours_streamed": 9, "streams": 3, "mature": 1, "language": "French", "account_age": 3309120.0}

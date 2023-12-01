@@ -1,0 +1,1 @@
+{"channel": "nikolordi", "avg_viewers": 2, "followers_gained": 74, "peak_viewers": 19, "hours_streamed": 287, "streams": 46, "mature": 1, "language": "Finnish", "account_age": 2976480.0}

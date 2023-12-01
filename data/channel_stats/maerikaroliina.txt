@@ -1,0 +1,1 @@
+{"channel": "maerikaroliina", "avg_viewers": 15, "followers_gained": 4, "peak_viewers": 26, "hours_streamed": 19, "streams": 4, "mature": 1, "language": "Finnish", "account_age": 1447200.0}

@@ -1,0 +1,1 @@
+{"channel": "daneehunter", "avg_viewers": 10, "followers_gained": 40, "peak_viewers": 105, "hours_streamed": 44, "streams": 12, "mature": 1, "language": "Hungarian", "account_age": 2774880.0}

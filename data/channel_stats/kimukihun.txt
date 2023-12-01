@@ -1,0 +1,1 @@
+{"channel": "kimukihun", "avg_viewers": 61, "followers_gained": 38, "peak_viewers": 576, "hours_streamed": 32, "streams": 17, "mature": 0, "language": "Korean", "account_age": 2825280.0}

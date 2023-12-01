@@ -1,0 +1,1 @@
+{"channel": "potilas__", "avg_viewers": 24, "followers_gained": 26, "peak_viewers": 54, "hours_streamed": 16, "streams": 9, "mature": 1, "language": "Finnish", "account_age": 2106720.0}

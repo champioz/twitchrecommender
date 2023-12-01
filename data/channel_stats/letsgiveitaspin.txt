@@ -1,0 +1,1 @@
+{"channel": "letsgiveitaspin", "avg_viewers": 633, "followers_gained": 875, "peak_viewers": 1464, "hours_streamed": 60, "streams": 14, "mature": 1, "language": "English", "account_age": 1982880.0}

@@ -1,0 +1,1 @@
+{"channel": "totallyacro", "avg_viewers": 80, "followers_gained": 52, "peak_viewers": 180, "hours_streamed": 43, "streams": 13, "mature": 1, "language": "German", "account_age": 2989440.0}

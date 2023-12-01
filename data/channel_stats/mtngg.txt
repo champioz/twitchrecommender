@@ -1,0 +1,1 @@
+{"channel": "mtngg", "avg_viewers": 15, "followers_gained": 290, "peak_viewers": 86, "hours_streamed": 105, "streams": 27, "mature": 0, "language": "English", "account_age": 1668960.0}

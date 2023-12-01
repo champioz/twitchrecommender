@@ -1,0 +1,1 @@
+{"channel": "g8bp65k3", "avg_viewers": 17, "followers_gained": 103, "peak_viewers": 45, "hours_streamed": 253, "streams": 56, "mature": 1, "language": "Chinese", "account_age": 3032640.0}

@@ -1,0 +1,1 @@
+{"channel": "ggamgo666", "avg_viewers": 6, "followers_gained": 17, "peak_viewers": 15, "hours_streamed": 197, "streams": 34, "mature": 0, "language": "Korean", "account_age": 355680.0}

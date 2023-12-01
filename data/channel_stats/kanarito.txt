@@ -1,0 +1,1 @@
+{"channel": "kanarito", "avg_viewers": 44, "followers_gained": 369, "peak_viewers": 233, "hours_streamed": 105, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 1824480.0}

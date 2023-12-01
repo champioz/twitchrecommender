@@ -1,0 +1,1 @@
+{"channel": "ayumukagami", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "English", "account_age": 3273120.0}

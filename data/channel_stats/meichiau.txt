@@ -1,0 +1,1 @@
+{"channel": "meichiau", "avg_viewers": 9, "followers_gained": 88, "peak_viewers": 32, "hours_streamed": 258, "streams": 30, "mature": 1, "language": "Chinese", "account_age": 2436480.0}

@@ -1,0 +1,1 @@
+{"channel": "l9_akashi", "avg_viewers": 53, "followers_gained": 170, "peak_viewers": 165, "hours_streamed": 63, "streams": 18, "mature": 0, "language": "Arabic", "account_age": 1337760.0}

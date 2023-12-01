@@ -1,0 +1,1 @@
+{"channel": "renega", "avg_viewers": 38, "followers_gained": 1176, "peak_viewers": 400, "hours_streamed": 154, "streams": 38, "mature": 1, "language": "Portuguese", "account_age": 5463360.0}

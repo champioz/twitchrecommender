@@ -1,0 +1,1 @@
+{"channel": "calaveragamingtv", "avg_viewers": 15, "followers_gained": 101, "peak_viewers": 59, "hours_streamed": 69, "streams": 27, "mature": 0, "language": "Spanish", "account_age": 1300320.0}

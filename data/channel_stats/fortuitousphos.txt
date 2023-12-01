@@ -1,0 +1,1 @@
+{"channel": "fortuitousphos", "avg_viewers": 14, "followers_gained": 115, "peak_viewers": 116, "hours_streamed": 95, "streams": 16, "mature": 1, "language": "English", "account_age": 1203840.0}

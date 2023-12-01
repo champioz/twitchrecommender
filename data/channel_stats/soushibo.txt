@@ -1,0 +1,1 @@
+{"channel": "soushibo", "avg_viewers": 231, "followers_gained": 69, "peak_viewers": 526, "hours_streamed": 44, "streams": 11, "mature": 0, "language": "Polish", "account_age": 4762080.0}

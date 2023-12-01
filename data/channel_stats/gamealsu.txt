@@ -1,0 +1,1 @@
+{"channel": "gamealsu", "avg_viewers": 11, "followers_gained": 41, "peak_viewers": 23, "hours_streamed": 110, "streams": 25, "mature": 0, "language": "Korean", "account_age": 439200.0}

@@ -1,0 +1,1 @@
+{"channel": "fishwalking99", "avg_viewers": 3, "followers_gained": 19, "peak_viewers": 15, "hours_streamed": 210, "streams": 38, "mature": 1, "language": "Chinese", "account_age": 3744000.0}

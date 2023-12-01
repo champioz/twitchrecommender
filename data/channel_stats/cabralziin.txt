@@ -1,0 +1,1 @@
+{"channel": "cabralziin", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 1, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "Portuguese", "account_age": 983520.0}

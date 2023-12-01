@@ -1,0 +1,1 @@
+{"channel": "superspock9000", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 5, "streams": 4, "mature": 1, "language": "English", "account_age": 842400.0}

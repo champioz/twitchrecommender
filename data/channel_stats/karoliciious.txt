@@ -1,0 +1,1 @@
+{"channel": "karoliciious", "avg_viewers": 9, "followers_gained": 1, "peak_viewers": 22, "hours_streamed": 61, "streams": 12, "mature": 1, "language": "Spanish", "account_age": 3444480.0}

@@ -1,0 +1,1 @@
+{"channel": "koukos41_agg", "avg_viewers": 17, "followers_gained": 43, "peak_viewers": 38, "hours_streamed": 46, "streams": 14, "mature": 0, "language": "Greek", "account_age": 815040.0}

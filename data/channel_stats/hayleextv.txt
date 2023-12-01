@@ -1,0 +1,1 @@
+{"channel": "hayleextv", "avg_viewers": 13, "followers_gained": 78, "peak_viewers": 50, "hours_streamed": 16, "streams": 5, "mature": 1, "language": "Danish", "account_age": 1333440.0}

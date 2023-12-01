@@ -1,0 +1,1 @@
+{"channel": "brotal1ty", "avg_viewers": 59, "followers_gained": 28, "peak_viewers": 112, "hours_streamed": 32, "streams": 11, "mature": 1, "language": "German", "account_age": 2128320.0}

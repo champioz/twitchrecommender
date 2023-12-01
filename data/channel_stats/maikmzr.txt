@@ -1,0 +1,1 @@
+{"channel": "maikmzr", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "German", "account_age": 3113280.0}

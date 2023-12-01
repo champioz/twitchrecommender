@@ -1,0 +1,1 @@
+{"channel": "kylo030", "avg_viewers": 16, "followers_gained": 68, "peak_viewers": 103, "hours_streamed": 94, "streams": 25, "mature": 1, "language": "Chinese (Hong Kong SAR)", "account_age": 1887840.0}

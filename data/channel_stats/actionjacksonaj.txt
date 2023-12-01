@@ -1,0 +1,1 @@
+{"channel": "actionjacksonaj", "avg_viewers": 14, "followers_gained": 71, "peak_viewers": 42, "hours_streamed": 11, "streams": 6, "mature": 0, "language": "German", "account_age": 205920.0}

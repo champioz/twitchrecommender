@@ -1,0 +1,1 @@
+{"channel": "scrubseries", "avg_viewers": 12, "followers_gained": 10, "peak_viewers": 22, "hours_streamed": 13, "streams": 3, "mature": 1, "language": "English", "account_age": 1054080.0}

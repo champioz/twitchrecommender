@@ -1,0 +1,1 @@
+{"channel": "christhulhu", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 8, "hours_streamed": 19, "streams": 6, "mature": 0, "language": "German", "account_age": 3849120.0}

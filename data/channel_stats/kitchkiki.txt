@@ -1,0 +1,1 @@
+{"channel": "kitchkiki", "avg_viewers": 17, "followers_gained": 348, "peak_viewers": 124, "hours_streamed": 194, "streams": 76, "mature": 0, "language": "French", "account_age": 2152800.0}

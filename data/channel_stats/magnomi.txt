@@ -1,0 +1,1 @@
+{"channel": "magnomi", "avg_viewers": 2, "followers_gained": 9, "peak_viewers": 12, "hours_streamed": 253, "streams": 42, "mature": 1, "language": "German", "account_age": 1487520.0}

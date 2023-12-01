@@ -1,0 +1,1 @@
+{"channel": "goldkarat", "avg_viewers": 18, "followers_gained": 203, "peak_viewers": 655, "hours_streamed": 124, "streams": 17, "mature": 0, "language": "English", "account_age": 1180800.0}

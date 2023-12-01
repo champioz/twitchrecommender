@@ -1,0 +1,1 @@
+{"channel": "patzimo", "avg_viewers": 14, "followers_gained": 89, "peak_viewers": 33, "hours_streamed": 99, "streams": 31, "mature": 0, "language": "German", "account_age": 3198240.0}

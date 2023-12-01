@@ -1,0 +1,1 @@
+{"channel": "fogycze1", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 5, "hours_streamed": 13, "streams": 12, "mature": 0, "language": "Czech", "account_age": 954720.0}

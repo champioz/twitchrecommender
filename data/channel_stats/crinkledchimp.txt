@@ -1,0 +1,1 @@
+{"channel": "crinkledchimp", "avg_viewers": 20, "followers_gained": 113, "peak_viewers": 46, "hours_streamed": 33, "streams": 11, "mature": 0, "language": "English", "account_age": 809280.0}

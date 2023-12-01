@@ -1,0 +1,1 @@
+{"channel": "queenstardust", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 22, "streams": 6, "mature": 1, "language": "English", "account_age": 1319040.0}

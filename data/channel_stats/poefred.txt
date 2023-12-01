@@ -1,0 +1,1 @@
+{"channel": "poefred", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 15, "hours_streamed": 54, "streams": 28, "mature": 0, "language": "English", "account_age": 3761280.0}

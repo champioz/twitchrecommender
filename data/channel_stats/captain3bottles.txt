@@ -1,0 +1,1 @@
+{"channel": "captain3bottles", "avg_viewers": 13, "followers_gained": 30, "peak_viewers": 45, "hours_streamed": 50, "streams": 14, "mature": 1, "language": "English", "account_age": 446400.0}

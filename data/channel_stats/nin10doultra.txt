@@ -1,0 +1,1 @@
+{"channel": "nin10doultra", "avg_viewers": 11, "followers_gained": 101, "peak_viewers": 56, "hours_streamed": 34, "streams": 13, "mature": 0, "language": "English", "account_age": 3745440.0}

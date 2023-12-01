@@ -1,0 +1,1 @@
+{"channel": "itsjulian", "avg_viewers": 50, "followers_gained": 46, "peak_viewers": 128, "hours_streamed": 29, "streams": 9, "mature": 0, "language": "English", "account_age": 4056480.0}

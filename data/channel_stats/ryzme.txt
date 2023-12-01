@@ -1,0 +1,1 @@
+{"channel": "ryzme", "avg_viewers": 38, "followers_gained": 64, "peak_viewers": 71, "hours_streamed": 109, "streams": 19, "mature": 0, "language": "Japanese", "account_age": 1599840.0}

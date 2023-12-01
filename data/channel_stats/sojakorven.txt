@@ -1,0 +1,1 @@
+{"channel": "sojakorven", "avg_viewers": 3, "followers_gained": 41, "peak_viewers": 17, "hours_streamed": 83, "streams": 35, "mature": 0, "language": "Swedish", "account_age": 194400.0}

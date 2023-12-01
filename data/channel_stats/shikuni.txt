@@ -1,0 +1,1 @@
+{"channel": "shikuni", "avg_viewers": 107, "followers_gained": 343, "peak_viewers": 222, "hours_streamed": 11, "streams": 7, "mature": 0, "language": "Polish", "account_age": 3389760.0}

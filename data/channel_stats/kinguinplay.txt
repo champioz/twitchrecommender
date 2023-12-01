@@ -1,0 +1,1 @@
+{"channel": "kinguinplay", "avg_viewers": 2, "followers_gained": 21, "peak_viewers": 10, "hours_streamed": 61, "streams": 31, "mature": 0, "language": "English", "account_age": 665280.0}

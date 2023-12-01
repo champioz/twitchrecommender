@@ -1,0 +1,1 @@
+{"channel": "hueywj", "avg_viewers": 750, "followers_gained": 1468, "peak_viewers": 1940, "hours_streamed": 84, "streams": 15, "mature": 0, "language": "English", "account_age": 3687840.0}

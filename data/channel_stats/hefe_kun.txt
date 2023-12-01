@@ -1,0 +1,1 @@
+{"channel": "hefe_kun", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 14, "hours_streamed": 7, "streams": 4, "mature": 1, "language": "German", "account_age": 673920.0}

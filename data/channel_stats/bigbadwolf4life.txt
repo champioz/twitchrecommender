@@ -1,0 +1,1 @@
+{"channel": "bigbadwolf4life", "avg_viewers": 14, "followers_gained": 279, "peak_viewers": 97, "hours_streamed": 115, "streams": 24, "mature": 0, "language": "English", "account_age": 2832480.0}

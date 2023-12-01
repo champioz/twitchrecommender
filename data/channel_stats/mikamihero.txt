@@ -1,0 +1,1 @@
+{"channel": "mikamihero", "avg_viewers": 38, "followers_gained": 3, "peak_viewers": 111, "hours_streamed": 28, "streams": 14, "mature": 0, "language": "English", "account_age": 3751200.0}

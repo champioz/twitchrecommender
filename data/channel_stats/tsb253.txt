@@ -1,0 +1,1 @@
+{"channel": "tsb253", "avg_viewers": 23, "followers_gained": 38, "peak_viewers": 163, "hours_streamed": 68, "streams": 16, "mature": 1, "language": "English", "account_age": 2257920.0}

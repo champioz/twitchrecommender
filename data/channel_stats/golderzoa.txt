@@ -1,0 +1,1 @@
+{"channel": "golderzoa", "avg_viewers": 3, "followers_gained": 14, "peak_viewers": 15, "hours_streamed": 60, "streams": 22, "mature": 0, "language": "English", "account_age": 3083040.0}

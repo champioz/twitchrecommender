@@ -1,0 +1,1 @@
+{"channel": "dgnylcn", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 1, "streams": 2, "mature": 1, "language": "Turkish", "account_age": 2005920.0}

@@ -1,0 +1,1 @@
+{"channel": "chaver28", "avg_viewers": 39, "followers_gained": 18, "peak_viewers": 115, "hours_streamed": 85, "streams": 26, "mature": 0, "language": "English", "account_age": 4007520.0}

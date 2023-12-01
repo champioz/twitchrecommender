@@ -1,0 +1,1 @@
+{"channel": "sadotaku_osu", "avg_viewers": 1, "followers_gained": 11, "peak_viewers": 10, "hours_streamed": 98, "streams": 32, "mature": 0, "language": "Russian", "account_age": 1192320.0}

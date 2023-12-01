@@ -1,0 +1,1 @@
+{"channel": "friphix", "avg_viewers": 10, "followers_gained": 115, "peak_viewers": 30, "hours_streamed": 32, "streams": 26, "mature": 0, "language": "French", "account_age": 3100320.0}

@@ -1,0 +1,1 @@
+{"channel": "yurickon", "avg_viewers": 10, "followers_gained": 19, "peak_viewers": 22, "hours_streamed": 120, "streams": 19, "mature": 0, "language": "Russian", "account_age": 502560.0}

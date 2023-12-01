@@ -1,0 +1,1 @@
+{"channel": "jonathanvair", "avg_viewers": 20, "followers_gained": 9, "peak_viewers": 33, "hours_streamed": 9, "streams": 2, "mature": 1, "language": "English", "account_age": 1172160.0}

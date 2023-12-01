@@ -1,0 +1,1 @@
+{"channel": "aeriplays", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 11, "hours_streamed": 50, "streams": 16, "mature": 1, "language": "English", "account_age": 1373760.0}

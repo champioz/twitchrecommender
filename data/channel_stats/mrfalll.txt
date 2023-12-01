@@ -1,0 +1,1 @@
+{"channel": "mrfalll", "avg_viewers": 126, "followers_gained": 27, "peak_viewers": 282, "hours_streamed": 107, "streams": 16, "mature": 1, "language": "Portuguese", "account_age": 3604320.0}

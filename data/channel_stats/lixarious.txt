@@ -1,0 +1,1 @@
+{"channel": "lixarious", "avg_viewers": 3, "followers_gained": 15, "peak_viewers": 8, "hours_streamed": 31, "streams": 14, "mature": 1, "language": "Polish", "account_age": 2419200.0}

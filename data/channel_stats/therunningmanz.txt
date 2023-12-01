@@ -1,0 +1,1 @@
+{"channel": "therunningmanz", "avg_viewers": 980, "followers_gained": 2751, "peak_viewers": 2145, "hours_streamed": 116, "streams": 19, "mature": 0, "language": "English", "account_age": 2596320.0}

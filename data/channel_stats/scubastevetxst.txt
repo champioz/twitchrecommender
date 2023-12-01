@@ -1,0 +1,1 @@
+{"channel": "scubastevetxst", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 8, "streams": 4, "mature": 1, "language": "English", "account_age": 2023200.0}

@@ -1,0 +1,1 @@
+{"channel": "resleeve", "avg_viewers": 2, "followers_gained": 7, "peak_viewers": 7, "hours_streamed": 27, "streams": 20, "mature": 1, "language": "English", "account_age": 1010880.0}

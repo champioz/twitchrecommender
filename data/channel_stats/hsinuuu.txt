@@ -1,0 +1,1 @@
+{"channel": "hsinuuu", "avg_viewers": 15, "followers_gained": 161, "peak_viewers": 58, "hours_streamed": 95, "streams": 22, "mature": 1, "language": "Chinese", "account_age": 1905120.0}

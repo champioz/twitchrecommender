@@ -1,0 +1,1 @@
+{"channel": "tolonpower", "avg_viewers": 5, "followers_gained": 80, "peak_viewers": 19, "hours_streamed": 69, "streams": 29, "mature": 1, "language": "Spanish", "account_age": 2031840.0}

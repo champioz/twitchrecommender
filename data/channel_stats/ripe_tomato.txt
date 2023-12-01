@@ -1,0 +1,1 @@
+{"channel": "ripe_tomato", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 21, "streams": 10, "mature": 0, "language": "Japanese", "account_age": 2983680.0}

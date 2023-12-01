@@ -1,0 +1,1 @@
+{"channel": "satori_wolf", "avg_viewers": 5, "followers_gained": 47, "peak_viewers": 29, "hours_streamed": 142, "streams": 45, "mature": 1, "language": "English", "account_age": 764640.0}

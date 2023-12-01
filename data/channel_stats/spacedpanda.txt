@@ -1,0 +1,1 @@
+{"channel": "spacedpanda", "avg_viewers": 17, "followers_gained": 35, "peak_viewers": 74, "hours_streamed": 64, "streams": 14, "mature": 1, "language": "English", "account_age": 1424160.0}

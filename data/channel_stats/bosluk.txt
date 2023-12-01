@@ -1,0 +1,1 @@
+{"channel": "bosluk", "avg_viewers": 47, "followers_gained": 215, "peak_viewers": 199, "hours_streamed": 51, "streams": 12, "mature": 0, "language": "Turkish", "account_age": 3317760.0}

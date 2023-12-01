@@ -1,0 +1,1 @@
+{"channel": "nikova93", "avg_viewers": 17, "followers_gained": 23, "peak_viewers": 29, "hours_streamed": 16, "streams": 6, "mature": 0, "language": "Spanish", "account_age": 555840.0}

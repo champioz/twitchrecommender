@@ -1,0 +1,1 @@
+{"channel": "bjummma", "avg_viewers": 67, "followers_gained": 160, "peak_viewers": 110, "hours_streamed": 19, "streams": 9, "mature": 0, "language": "Korean", "account_age": 1162080.0}

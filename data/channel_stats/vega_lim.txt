@@ -1,0 +1,1 @@
+{"channel": "vega_lim", "avg_viewers": 144, "followers_gained": 168, "peak_viewers": 458, "hours_streamed": 294, "streams": 31, "mature": 1, "language": "Russian", "account_age": 2626560.0}

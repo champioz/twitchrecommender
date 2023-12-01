@@ -1,0 +1,1 @@
+{"channel": "miaumarmelade", "avg_viewers": 143, "followers_gained": 173059, "peak_viewers": 515, "hours_streamed": 89, "streams": 22, "mature": 0, "language": "German", "account_age": 2325600.0}

@@ -1,0 +1,1 @@
+{"channel": "kami_khazix", "avg_viewers": 286, "followers_gained": 738, "peak_viewers": 707, "hours_streamed": 95, "streams": 22, "mature": 0, "language": "English", "account_age": 1555200.0}

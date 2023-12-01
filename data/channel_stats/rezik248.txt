@@ -1,0 +1,1 @@
+{"channel": "rezik248", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 12, "hours_streamed": 27, "streams": 14, "mature": 0, "language": "English", "account_age": 5325120.0}

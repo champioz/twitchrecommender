@@ -1,0 +1,1 @@
+{"channel": "trevxor", "avg_viewers": 22, "followers_gained": 32, "peak_viewers": 52, "hours_streamed": 92, "streams": 18, "mature": 1, "language": "English", "account_age": 3229920.0}

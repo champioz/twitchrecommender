@@ -1,0 +1,1 @@
+{"channel": "ohheyitsdavid", "avg_viewers": 83, "followers_gained": 178, "peak_viewers": 1195, "hours_streamed": 26, "streams": 6, "mature": 1, "language": "English", "account_age": 3098880.0}

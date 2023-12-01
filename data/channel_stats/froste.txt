@@ -1,0 +1,1 @@
+{"channel": "froste", "avg_viewers": 130, "followers_gained": 124, "peak_viewers": 300, "hours_streamed": 15, "streams": 5, "mature": 0, "language": "English", "account_age": 2113920.0}

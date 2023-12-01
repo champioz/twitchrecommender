@@ -1,0 +1,1 @@
+{"channel": "zurt", "avg_viewers": 3, "followers_gained": 197, "peak_viewers": 12, "hours_streamed": 111, "streams": 39, "mature": 0, "language": "Arabic", "account_age": 1615680.0}

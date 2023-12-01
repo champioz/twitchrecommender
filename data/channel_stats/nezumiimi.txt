@@ -1,0 +1,1 @@
+{"channel": "nezumiimi", "avg_viewers": 12, "followers_gained": 197, "peak_viewers": 35, "hours_streamed": 55, "streams": 19, "mature": 0, "language": "Spanish", "account_age": 126720.0}

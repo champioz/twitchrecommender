@@ -1,0 +1,1 @@
+{"channel": "heyst1000", "avg_viewers": 60, "followers_gained": 532, "peak_viewers": 133, "hours_streamed": 87, "streams": 27, "mature": 0, "language": "Korean", "account_age": 583200.0}

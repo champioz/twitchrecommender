@@ -1,0 +1,1 @@
+{"channel": "auhdi", "avg_viewers": 47, "followers_gained": 40, "peak_viewers": 374, "hours_streamed": 12, "streams": 7, "mature": 0, "language": "English", "account_age": 1307520.0}

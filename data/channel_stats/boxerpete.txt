@@ -1,0 +1,1 @@
+{"channel": "boxerpete", "avg_viewers": 104, "followers_gained": 12, "peak_viewers": 122, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "English", "account_age": 3699360.0}

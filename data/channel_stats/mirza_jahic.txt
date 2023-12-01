@@ -1,0 +1,1 @@
+{"channel": "mirza_jahic", "avg_viewers": 704, "followers_gained": 394, "peak_viewers": 1351, "hours_streamed": 43, "streams": 9, "mature": 0, "language": "German", "account_age": 1805760.0}

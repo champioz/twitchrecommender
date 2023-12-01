@@ -1,0 +1,1 @@
+{"channel": "austinnls", "avg_viewers": 138, "followers_gained": 154, "peak_viewers": 295, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "English", "account_age": 1579680.0}

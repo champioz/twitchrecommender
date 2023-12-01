@@ -1,0 +1,1 @@
+{"channel": "luminumn", "avg_viewers": 129, "followers_gained": 797, "peak_viewers": 228, "hours_streamed": 85, "streams": 16, "mature": 0, "language": "English", "account_age": 2664000.0}

@@ -1,0 +1,1 @@
+{"channel": "shujinkydink", "avg_viewers": 66, "followers_gained": 177, "peak_viewers": 108, "hours_streamed": 9, "streams": 6, "mature": 1, "language": "English", "account_age": 4174560.0}

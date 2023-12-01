@@ -1,0 +1,1 @@
+{"channel": "st0uty", "avg_viewers": 137, "followers_gained": 462, "peak_viewers": 311, "hours_streamed": 33, "streams": 12, "mature": 0, "language": "English", "account_age": 3005280.0}

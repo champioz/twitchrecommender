@@ -1,0 +1,1 @@
+{"channel": "hammerrazor", "avg_viewers": 0, "followers_gained": 10, "peak_viewers": 3, "hours_streamed": 53, "streams": 19, "mature": 0, "language": "English", "account_age": 4186080.0}

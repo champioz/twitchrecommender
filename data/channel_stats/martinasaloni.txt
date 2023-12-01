@@ -1,0 +1,1 @@
+{"channel": "martinasaloni", "avg_viewers": 14, "followers_gained": 319, "peak_viewers": 39, "hours_streamed": 28, "streams": 11, "mature": 1, "language": "Italian", "account_age": 113760.0}

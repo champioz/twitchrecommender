@@ -1,0 +1,1 @@
+{"channel": "stephenrush", "avg_viewers": 22, "followers_gained": 71, "peak_viewers": 56, "hours_streamed": 128, "streams": 50, "mature": 0, "language": "English", "account_age": 1314720.0}

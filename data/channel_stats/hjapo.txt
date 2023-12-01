@@ -1,0 +1,1 @@
+{"channel": "hjapo", "avg_viewers": 8, "followers_gained": 154, "peak_viewers": 38, "hours_streamed": 50, "streams": 22, "mature": 0, "language": "Italian", "account_age": 1483200.0}

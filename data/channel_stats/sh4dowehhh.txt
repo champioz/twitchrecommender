@@ -1,0 +1,1 @@
+{"channel": "sh4dowehhh", "avg_viewers": 150, "followers_gained": 156, "peak_viewers": 773, "hours_streamed": 50, "streams": 9, "mature": 0, "language": "Ukrainian", "account_age": 3132000.0}

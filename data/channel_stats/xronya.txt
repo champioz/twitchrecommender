@@ -1,0 +1,1 @@
+{"channel": "xronya", "avg_viewers": 217, "followers_gained": 663, "peak_viewers": 518, "hours_streamed": 93, "streams": 26, "mature": 1, "language": "Russian", "account_age": 3391200.0}

@@ -1,0 +1,1 @@
+{"channel": "ogsie247", "avg_viewers": 9, "followers_gained": 49, "peak_viewers": 85, "hours_streamed": 108, "streams": 27, "mature": 0, "language": "English", "account_age": 1152000.0}

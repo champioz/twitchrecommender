@@ -1,0 +1,1 @@
+{"channel": "thenintastic", "avg_viewers": 5, "followers_gained": 22, "peak_viewers": 41, "hours_streamed": 71, "streams": 19, "mature": 1, "language": "German", "account_age": 4078080.0}

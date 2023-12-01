@@ -1,0 +1,1 @@
+{"channel": "stygianone", "avg_viewers": 34, "followers_gained": 21, "peak_viewers": 122, "hours_streamed": 45, "streams": 11, "mature": 0, "language": "English", "account_age": 2406240.0}

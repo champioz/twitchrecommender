@@ -1,0 +1,1 @@
+{"channel": "luuckyowl", "avg_viewers": 8, "followers_gained": 24, "peak_viewers": 19, "hours_streamed": 18, "streams": 8, "mature": 1, "language": "Spanish", "account_age": 1238400.0}

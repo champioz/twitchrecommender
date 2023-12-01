@@ -1,0 +1,1 @@
+{"channel": "steveclaus", "avg_viewers": 7, "followers_gained": 140, "peak_viewers": 27, "hours_streamed": 140, "streams": 44, "mature": 1, "language": "English", "account_age": 4644000.0}

@@ -1,0 +1,1 @@
+{"channel": "tkdans5", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 7, "hours_streamed": 6, "streams": 4, "mature": 0, "language": "Korean", "account_age": 106560.0}

@@ -1,0 +1,1 @@
+{"channel": "mlb417", "avg_viewers": 20, "followers_gained": 329, "peak_viewers": 114, "hours_streamed": 305, "streams": 27, "mature": 0, "language": "Korean", "account_age": 1000800.0}

@@ -1,0 +1,1 @@
+{"channel": "arganthe", "avg_viewers": 45, "followers_gained": 153, "peak_viewers": 140, "hours_streamed": 155, "streams": 27, "mature": 1, "language": "Portuguese", "account_age": 3869280.0}

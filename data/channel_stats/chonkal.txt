@@ -1,0 +1,1 @@
+{"channel": "chonkal", "avg_viewers": 6, "followers_gained": 8, "peak_viewers": 32, "hours_streamed": 112, "streams": 34, "mature": 1, "language": "French", "account_age": 2882880.0}

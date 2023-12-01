@@ -1,0 +1,1 @@
+{"channel": "yunitex", "avg_viewers": 6, "followers_gained": 13, "peak_viewers": 12, "hours_streamed": 14, "streams": 7, "mature": 1, "language": "English", "account_age": 1751040.0}

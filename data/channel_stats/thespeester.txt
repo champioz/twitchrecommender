@@ -1,0 +1,1 @@
+{"channel": "thespeester", "avg_viewers": 1, "followers_gained": 11, "peak_viewers": 17, "hours_streamed": 11, "streams": 13, "mature": 0, "language": "French", "account_age": 411840.0}

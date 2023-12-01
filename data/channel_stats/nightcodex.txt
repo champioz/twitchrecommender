@@ -1,0 +1,1 @@
+{"channel": "nightcodex", "avg_viewers": 42, "followers_gained": 215, "peak_viewers": 85, "hours_streamed": 136, "streams": 38, "mature": 1, "language": "Dutch", "account_age": 4101120.0}

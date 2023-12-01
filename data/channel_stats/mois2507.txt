@@ -1,0 +1,1 @@
+{"channel": "mois2507", "avg_viewers": 7, "followers_gained": 26, "peak_viewers": 21, "hours_streamed": 7, "streams": 5, "mature": 1, "language": "German", "account_age": 252000.0}

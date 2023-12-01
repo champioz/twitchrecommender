@@ -1,0 +1,1 @@
+{"channel": "laliguefeminine", "avg_viewers": 153, "followers_gained": 124, "peak_viewers": 225, "hours_streamed": 8, "streams": 1, "mature": 1, "language": "French", "account_age": 845280.0}

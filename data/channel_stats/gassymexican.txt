@@ -1,0 +1,1 @@
+{"channel": "gassymexican", "avg_viewers": 1027, "followers_gained": 227, "peak_viewers": 2766, "hours_streamed": 110, "streams": 19, "mature": 1, "language": "English", "account_age": 4268160.0}

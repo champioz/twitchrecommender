@@ -1,0 +1,1 @@
+{"channel": "vitdex", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 4, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "German", "account_age": 4191840.0}

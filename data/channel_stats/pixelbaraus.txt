@@ -1,0 +1,1 @@
+{"channel": "pixelbaraus", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 10, "hours_streamed": 20, "streams": 6, "mature": 1, "language": "English", "account_age": 2256480.0}

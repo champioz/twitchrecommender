@@ -1,0 +1,1 @@
+{"channel": "davidsp1490", "avg_viewers": 104, "followers_gained": 25, "peak_viewers": 300, "hours_streamed": 14, "streams": 6, "mature": 0, "language": "Spanish", "account_age": 2727360.0}

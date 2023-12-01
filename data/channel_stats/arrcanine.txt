@@ -1,0 +1,1 @@
+{"channel": "arrcanine", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 12, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "English", "account_age": 3264480.0}

@@ -1,0 +1,1 @@
+{"channel": "xzeryx", "avg_viewers": 16, "followers_gained": 80, "peak_viewers": 137, "hours_streamed": 27, "streams": 5, "mature": 0, "language": "Arabic", "account_age": 3215520.0}

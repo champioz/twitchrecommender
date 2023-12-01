@@ -1,0 +1,1 @@
+{"channel": "zyka11", "avg_viewers": 18, "followers_gained": 134, "peak_viewers": 39, "hours_streamed": 35, "streams": 10, "mature": 0, "language": "", "account_age": 696960.0}

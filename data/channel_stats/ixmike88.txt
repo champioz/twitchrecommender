@@ -1,0 +1,1 @@
+{"channel": "ixmike88", "avg_viewers": 73, "followers_gained": 11, "peak_viewers": 131, "hours_streamed": 22, "streams": 6, "mature": 0, "language": "English", "account_age": 3852000.0}

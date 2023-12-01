@@ -1,0 +1,1 @@
+{"channel": "kreyg", "avg_viewers": 182, "followers_gained": 57, "peak_viewers": 394, "hours_streamed": 66, "streams": 17, "mature": 0, "language": "English", "account_age": 5703840.0}

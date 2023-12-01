@@ -1,0 +1,1 @@
+{"channel": "suggest", "avg_viewers": 63, "followers_gained": 132, "peak_viewers": 271, "hours_streamed": 171, "streams": 48, "mature": 0, "language": "Portuguese", "account_age": 2792160.0}

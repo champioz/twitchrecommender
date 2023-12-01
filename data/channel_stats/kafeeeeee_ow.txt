@@ -1,0 +1,1 @@
+{"channel": "kafeeeeee_ow", "avg_viewers": 173, "followers_gained": 1075, "peak_viewers": 1082, "hours_streamed": 143, "streams": 22, "mature": 1, "language": "English", "account_age": 1671840.0}

@@ -1,0 +1,1 @@
+{"channel": "rikosus", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 2, "hours_streamed": 1, "streams": 2, "mature": 1, "language": "Spanish", "account_age": 1480320.0}

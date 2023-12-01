@@ -1,0 +1,1 @@
+{"channel": "thedankstonememery", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 29, "streams": 9, "mature": 1, "language": "English", "account_age": 2913120.0}

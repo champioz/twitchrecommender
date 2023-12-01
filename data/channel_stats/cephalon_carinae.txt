@@ -1,0 +1,1 @@
+{"channel": "cephalon_carinae", "avg_viewers": 6, "followers_gained": 32, "peak_viewers": 16, "hours_streamed": 88, "streams": 18, "mature": 1, "language": "English", "account_age": 1344960.0}

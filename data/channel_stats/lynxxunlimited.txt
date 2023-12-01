@@ -1,0 +1,1 @@
+{"channel": "lynxxunlimited", "avg_viewers": 11, "followers_gained": 35, "peak_viewers": 47, "hours_streamed": 56, "streams": 17, "mature": 0, "language": "English", "account_age": 1000800.0}

@@ -1,0 +1,1 @@
+{"channel": "cem_akyurek", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 18, "streams": 10, "mature": 1, "language": "Turkish", "account_age": 1821600.0}

@@ -1,0 +1,1 @@
+{"channel": "nice_luan", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 2, "hours_streamed": 11, "streams": 12, "mature": 0, "language": "Chinese", "account_age": 2315520.0}

@@ -1,0 +1,1 @@
+{"channel": "ayeetrain", "avg_viewers": 15, "followers_gained": 65, "peak_viewers": 52, "hours_streamed": 176, "streams": 36, "mature": 1, "language": "English", "account_age": 2155680.0}

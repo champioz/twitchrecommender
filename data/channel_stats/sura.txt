@@ -1,0 +1,1 @@
+{"channel": "sura", "avg_viewers": 477, "followers_gained": 3498, "peak_viewers": 1289, "hours_streamed": 185, "streams": 29, "mature": 1, "language": "French", "account_age": 2151360.0}

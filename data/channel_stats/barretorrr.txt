@@ -1,0 +1,1 @@
+{"channel": "barretorrr", "avg_viewers": 97, "followers_gained": 1251, "peak_viewers": 5225, "hours_streamed": 61, "streams": 19, "mature": 1, "language": "Portuguese", "account_age": 1984320.0}

@@ -1,0 +1,1 @@
+{"channel": "mentuyu", "avg_viewers": 33, "followers_gained": 22, "peak_viewers": 67, "hours_streamed": 34, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 1746720.0}

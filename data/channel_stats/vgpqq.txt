@@ -1,0 +1,1 @@
+{"channel": "vgpqq", "avg_viewers": 32, "followers_gained": 152, "peak_viewers": 191, "hours_streamed": 60, "streams": 26, "mature": 0, "language": "Korean", "account_age": 2237760.0}

@@ -1,0 +1,1 @@
+{"channel": "justin_yu_1", "avg_viewers": 6, "followers_gained": 7, "peak_viewers": 16, "hours_streamed": 55, "streams": 24, "mature": 0, "language": "Chinese (Hong Kong SAR)", "account_age": 2789280.0}

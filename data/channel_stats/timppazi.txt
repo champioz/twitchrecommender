@@ -1,0 +1,1 @@
+{"channel": "timppazi", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 1, "streams": 3, "mature": 0, "language": "Finnish", "account_age": 799200.0}

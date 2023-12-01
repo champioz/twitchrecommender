@@ -1,0 +1,1 @@
+{"channel": "themyouandme", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "Other", "account_age": 478080.0}

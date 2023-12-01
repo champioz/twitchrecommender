@@ -1,0 +1,1 @@
+{"channel": "kalrto", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 21, "hours_streamed": 109, "streams": 31, "mature": 0, "language": "Chinese", "account_age": 2571840.0}

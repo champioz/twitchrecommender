@@ -1,0 +1,1 @@
+{"channel": "kaiturr", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 33, "streams": 15, "mature": 0, "language": "Italian", "account_age": 165600.0}

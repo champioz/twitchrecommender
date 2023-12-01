@@ -1,0 +1,1 @@
+{"channel": "badhun", "avg_viewers": 12, "followers_gained": 65, "peak_viewers": 42, "hours_streamed": 95, "streams": 19, "mature": 1, "language": "German", "account_age": 3323520.0}

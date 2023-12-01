@@ -1,0 +1,1 @@
+{"channel": "seyfer1987", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 12, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 2780640.0}

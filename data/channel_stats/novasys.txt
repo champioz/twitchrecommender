@@ -1,0 +1,1 @@
+{"channel": "novasys", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 39, "hours_streamed": 40, "streams": 15, "mature": 1, "language": "English", "account_age": 5029920.0}

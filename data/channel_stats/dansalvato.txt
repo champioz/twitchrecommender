@@ -1,0 +1,1 @@
+{"channel": "dansalvato", "avg_viewers": 63, "followers_gained": 982, "peak_viewers": 108, "hours_streamed": 29, "streams": 8, "mature": 0, "language": "English", "account_age": 3129120.0}

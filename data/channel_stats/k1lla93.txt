@@ -1,0 +1,1 @@
+{"channel": "k1lla93", "avg_viewers": 205, "followers_gained": 1023, "peak_viewers": 687, "hours_streamed": 194, "streams": 16, "mature": 0, "language": "English", "account_age": 3168000.0}

@@ -1,0 +1,1 @@
+{"channel": "darius_weeda", "avg_viewers": 5, "followers_gained": 5, "peak_viewers": 22, "hours_streamed": 184, "streams": 47, "mature": 1, "language": "German", "account_age": 1468800.0}

@@ -1,0 +1,1 @@
+{"channel": "yopdoggy", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 10, "hours_streamed": 18, "streams": 10, "mature": 1, "language": "English", "account_age": 3276000.0}

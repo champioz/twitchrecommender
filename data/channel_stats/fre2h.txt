@@ -1,0 +1,1 @@
+{"channel": "fre2h", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Russian", "account_age": 2167200.0}

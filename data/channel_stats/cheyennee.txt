@@ -1,0 +1,1 @@
+{"channel": "cheyennee", "avg_viewers": 6, "followers_gained": 52, "peak_viewers": 17, "hours_streamed": 78, "streams": 46, "mature": 1, "language": "English", "account_age": 1175040.0}

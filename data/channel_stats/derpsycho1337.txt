@@ -1,0 +1,1 @@
+{"channel": "derpsycho1337", "avg_viewers": 11, "followers_gained": 16, "peak_viewers": 43, "hours_streamed": 38, "streams": 9, "mature": 1, "language": "German", "account_age": 3211200.0}

@@ -1,0 +1,1 @@
+{"channel": "wayne379", "avg_viewers": 555, "followers_gained": 203, "peak_viewers": 1143, "hours_streamed": 123, "streams": 23, "mature": 0, "language": "Chinese", "account_age": 4677120.0}

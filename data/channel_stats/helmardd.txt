@@ -1,0 +1,1 @@
+{"channel": "helmardd", "avg_viewers": 2, "followers_gained": 19, "peak_viewers": 10, "hours_streamed": 49, "streams": 16, "mature": 0, "language": "German", "account_age": 2828160.0}

@@ -1,0 +1,1 @@
+{"channel": "el_fune_sm", "avg_viewers": 5, "followers_gained": 44, "peak_viewers": 82, "hours_streamed": 65, "streams": 25, "mature": 1, "language": "Spanish", "account_age": 571680.0}

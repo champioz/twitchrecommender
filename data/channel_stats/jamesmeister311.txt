@@ -1,0 +1,1 @@
+{"channel": "jamesmeister311", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 2, "streams": 3, "mature": 0, "language": "English", "account_age": 2283840.0}

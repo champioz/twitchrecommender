@@ -1,0 +1,1 @@
+{"channel": "tobisouls", "avg_viewers": 8, "followers_gained": 47, "peak_viewers": 37, "hours_streamed": 124, "streams": 20, "mature": 1, "language": "English", "account_age": 2292480.0}

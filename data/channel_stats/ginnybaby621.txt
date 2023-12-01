@@ -1,0 +1,1 @@
+{"channel": "ginnybaby621", "avg_viewers": 87, "followers_gained": 53, "peak_viewers": 203, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "Chinese", "account_age": 1180800.0}

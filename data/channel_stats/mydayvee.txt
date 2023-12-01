@@ -1,0 +1,1 @@
+{"channel": "mydayvee", "avg_viewers": 2, "followers_gained": 46, "peak_viewers": 11, "hours_streamed": 112, "streams": 21, "mature": 0, "language": "English", "account_age": 2456640.0}

@@ -1,0 +1,1 @@
+{"channel": "unyro", "avg_viewers": 2, "followers_gained": 23, "peak_viewers": 7, "hours_streamed": 108, "streams": 22, "mature": 0, "language": "Portuguese", "account_age": 1404000.0}

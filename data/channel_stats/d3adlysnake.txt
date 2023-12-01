@@ -1,0 +1,1 @@
+{"channel": "d3adlysnake", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 8, "hours_streamed": 48, "streams": 7, "mature": 1, "language": "German", "account_age": 1467360.0}

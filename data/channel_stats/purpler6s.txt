@@ -1,0 +1,1 @@
+{"channel": "purpler6s", "avg_viewers": 2, "followers_gained": 23, "peak_viewers": 8, "hours_streamed": 18, "streams": 10, "mature": 0, "language": "French", "account_age": 2289600.0}

@@ -1,0 +1,1 @@
+{"channel": "policiaemacao", "avg_viewers": 107, "followers_gained": 2439, "peak_viewers": 606, "hours_streamed": 151, "streams": 30, "mature": 0, "language": "Portuguese", "account_age": 1414080.0}

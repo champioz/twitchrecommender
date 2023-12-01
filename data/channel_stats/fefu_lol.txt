@@ -1,0 +1,1 @@
+{"channel": "fefu_lol", "avg_viewers": 10, "followers_gained": 207, "peak_viewers": 48, "hours_streamed": 182, "streams": 53, "mature": 0, "language": "Polish", "account_age": 131040.0}

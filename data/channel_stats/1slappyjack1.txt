@@ -1,0 +1,1 @@
+{"channel": "1slappyjack1", "avg_viewers": 17, "followers_gained": 114, "peak_viewers": 55, "hours_streamed": 174, "streams": 31, "mature": 0, "language": "English", "account_age": 1641600.0}

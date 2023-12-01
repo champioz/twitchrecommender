@@ -1,0 +1,1 @@
+{"channel": "arbang", "avg_viewers": 4, "followers_gained": 0, "peak_viewers": 8, "hours_streamed": 9, "streams": 3, "mature": 0, "language": "Chinese", "account_age": 2521440.0}

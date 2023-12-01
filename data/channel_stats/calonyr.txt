@@ -1,0 +1,1 @@
+{"channel": "calonyr", "avg_viewers": 20, "followers_gained": 137, "peak_viewers": 49, "hours_streamed": 50, "streams": 11, "mature": 0, "language": "English", "account_age": 1304640.0}

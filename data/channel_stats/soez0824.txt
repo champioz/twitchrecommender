@@ -1,0 +1,1 @@
+{"channel": "soez0824", "avg_viewers": 23, "followers_gained": 255, "peak_viewers": 148, "hours_streamed": 159, "streams": 24, "mature": 0, "language": "Korean", "account_age": 250560.0}

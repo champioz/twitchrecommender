@@ -1,0 +1,1 @@
+{"channel": "fly_diiqqiidy", "avg_viewers": 54, "followers_gained": 347, "peak_viewers": 221, "hours_streamed": 189, "streams": 24, "mature": 1, "language": "English", "account_age": 2057760.0}

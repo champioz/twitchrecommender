@@ -1,0 +1,1 @@
+{"channel": "paulowebtv", "avg_viewers": 53, "followers_gained": 68, "peak_viewers": 168, "hours_streamed": 27, "streams": 10, "mature": 0, "language": "Portuguese", "account_age": 4249440.0}

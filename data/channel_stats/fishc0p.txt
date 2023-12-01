@@ -1,0 +1,1 @@
+{"channel": "fishc0p", "avg_viewers": 389, "followers_gained": 168, "peak_viewers": 1831, "hours_streamed": 69, "streams": 18, "mature": 0, "language": "German", "account_age": 3293280.0}

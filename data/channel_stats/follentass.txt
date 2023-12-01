@@ -1,0 +1,1 @@
+{"channel": "follentass", "avg_viewers": 2026, "followers_gained": 6180, "peak_viewers": 4155, "hours_streamed": 80, "streams": 25, "mature": 1, "language": "Russian", "account_age": 597600.0}

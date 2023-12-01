@@ -1,0 +1,1 @@
+{"channel": "berkingame", "avg_viewers": 400, "followers_gained": 2414, "peak_viewers": 2404, "hours_streamed": 34, "streams": 13, "mature": 1, "language": "Turkish", "account_age": 917280.0}

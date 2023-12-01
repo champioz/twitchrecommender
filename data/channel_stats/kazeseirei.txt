@@ -1,0 +1,1 @@
+{"channel": "kazeseirei", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 13, "streams": 10, "mature": 1, "language": "English", "account_age": 3867840.0}

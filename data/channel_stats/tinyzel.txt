@@ -1,0 +1,1 @@
+{"channel": "tinyzel", "avg_viewers": 9, "followers_gained": 14, "peak_viewers": 19, "hours_streamed": 32, "streams": 12, "mature": 0, "language": "English", "account_age": 2135520.0}

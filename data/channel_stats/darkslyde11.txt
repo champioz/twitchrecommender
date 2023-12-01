@@ -1,0 +1,1 @@
+{"channel": "darkslyde11", "avg_viewers": 5, "followers_gained": 12, "peak_viewers": 23, "hours_streamed": 55, "streams": 12, "mature": 0, "language": "English", "account_age": 3402720.0}

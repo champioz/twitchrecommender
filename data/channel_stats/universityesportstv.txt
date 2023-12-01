@@ -1,0 +1,1 @@
+{"channel": "universityesportstv", "avg_viewers": 168, "followers_gained": 110, "peak_viewers": 1236, "hours_streamed": 31, "streams": 8, "mature": 0, "language": "Spanish", "account_age": 1948320.0}

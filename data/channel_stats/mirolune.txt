@@ -1,0 +1,1 @@
+{"channel": "mirolune", "avg_viewers": 63, "followers_gained": 161, "peak_viewers": 101, "hours_streamed": 42, "streams": 8, "mature": 1, "language": "English", "account_age": 1383840.0}

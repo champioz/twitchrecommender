@@ -1,0 +1,1 @@
+{"channel": "porotv", "avg_viewers": 2, "followers_gained": 18, "peak_viewers": 8, "hours_streamed": 68, "streams": 17, "mature": 1, "language": "French", "account_age": 1211040.0}

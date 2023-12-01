@@ -1,0 +1,1 @@
+{"channel": "hario", "avg_viewers": 19, "followers_gained": 68, "peak_viewers": 479, "hours_streamed": 34, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 3938400.0}

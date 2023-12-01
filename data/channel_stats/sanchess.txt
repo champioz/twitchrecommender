@@ -1,0 +1,1 @@
+{"channel": "sanchess", "avg_viewers": 6, "followers_gained": 69, "peak_viewers": 18, "hours_streamed": 31, "streams": 7, "mature": 1, "language": "Turkish", "account_age": 3293280.0}

@@ -1,0 +1,1 @@
+{"channel": "dalecaro", "avg_viewers": 17, "followers_gained": 78, "peak_viewers": 134, "hours_streamed": 124, "streams": 35, "mature": 0, "language": "Spanish", "account_age": 2095200.0}

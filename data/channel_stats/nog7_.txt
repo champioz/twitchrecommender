@@ -1,0 +1,1 @@
+{"channel": "nog7_", "avg_viewers": 7, "followers_gained": 0, "peak_viewers": 13, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Japanese", "account_age": 2532960.0}

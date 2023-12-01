@@ -1,0 +1,1 @@
+{"channel": "gundletv", "avg_viewers": 63, "followers_gained": 386, "peak_viewers": 261, "hours_streamed": 24, "streams": 7, "mature": 1, "language": "English", "account_age": 1553760.0}

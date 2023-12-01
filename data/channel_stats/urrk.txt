@@ -1,0 +1,1 @@
+{"channel": "urrk", "avg_viewers": 26, "followers_gained": 306, "peak_viewers": 112, "hours_streamed": 175, "streams": 27, "mature": 1, "language": "German", "account_age": 1046880.0}

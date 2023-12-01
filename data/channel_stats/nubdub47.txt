@@ -1,0 +1,1 @@
+{"channel": "nubdub47", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 17, "hours_streamed": 36, "streams": 13, "mature": 0, "language": "English", "account_age": 861120.0}

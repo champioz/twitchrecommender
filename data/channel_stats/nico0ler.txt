@@ -1,0 +1,1 @@
+{"channel": "nico0ler", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 10, "hours_streamed": 133, "streams": 29, "mature": 1, "language": "Russian", "account_age": 1265760.0}

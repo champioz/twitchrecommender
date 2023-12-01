@@ -1,0 +1,1 @@
+{"channel": "slackanater", "avg_viewers": 9, "followers_gained": 28, "peak_viewers": 97, "hours_streamed": 58, "streams": 25, "mature": 0, "language": "English", "account_age": 434880.0}

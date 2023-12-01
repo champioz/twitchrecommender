@@ -1,0 +1,1 @@
+{"channel": "meric10numara", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 9, "streams": 8, "mature": 0, "language": "Turkish", "account_age": 954720.0}

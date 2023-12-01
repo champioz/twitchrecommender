@@ -1,0 +1,1 @@
+{"channel": "1uke_god", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 3, "streams": 6, "mature": 0, "language": "Ukrainian", "account_age": 2445120.0}

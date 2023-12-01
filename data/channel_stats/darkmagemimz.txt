@@ -1,0 +1,1 @@
+{"channel": "darkmagemimz", "avg_viewers": 3, "followers_gained": 17, "peak_viewers": 14, "hours_streamed": 111, "streams": 40, "mature": 1, "language": "English", "account_age": 1556640.0}

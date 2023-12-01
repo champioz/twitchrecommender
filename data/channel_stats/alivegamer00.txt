@@ -1,0 +1,1 @@
+{"channel": "alivegamer00", "avg_viewers": 11, "followers_gained": 46, "peak_viewers": 20, "hours_streamed": 78, "streams": 20, "mature": 1, "language": "English", "account_age": 1016640.0}

@@ -1,0 +1,1 @@
+{"channel": "xprincessdx", "avg_viewers": 15, "followers_gained": 499, "peak_viewers": 34, "hours_streamed": 71, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 324000.0}

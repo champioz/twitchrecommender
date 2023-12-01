@@ -1,0 +1,1 @@
+{"channel": "geekygoonsquad", "avg_viewers": 117, "followers_gained": 78, "peak_viewers": 259, "hours_streamed": 36, "streams": 4, "mature": 0, "language": "German", "account_age": 2344320.0}

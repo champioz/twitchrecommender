@@ -1,0 +1,1 @@
+{"channel": "demon4angel", "avg_viewers": 8, "followers_gained": 49, "peak_viewers": 32, "hours_streamed": 31, "streams": 13, "mature": 1, "language": "Romanian", "account_age": 1913760.0}

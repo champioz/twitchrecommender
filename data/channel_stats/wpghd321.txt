@@ -1,0 +1,1 @@
+{"channel": "wpghd321", "avg_viewers": 1073, "followers_gained": 1929, "peak_viewers": 2139, "hours_streamed": 45, "streams": 17, "mature": 0, "language": "Korean", "account_age": 1624320.0}

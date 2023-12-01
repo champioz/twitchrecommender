@@ -1,0 +1,1 @@
+{"channel": "sw3atytv", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 7, "hours_streamed": 173, "streams": 50, "mature": 1, "language": "English", "account_age": 1830240.0}

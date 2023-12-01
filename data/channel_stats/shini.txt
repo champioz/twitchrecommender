@@ -1,0 +1,1 @@
+{"channel": "shini", "avg_viewers": 59, "followers_gained": 7, "peak_viewers": 76, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "English", "account_age": 5205600.0}

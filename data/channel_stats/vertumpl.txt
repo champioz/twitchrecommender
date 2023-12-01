@@ -1,0 +1,1 @@
+{"channel": "vertumpl", "avg_viewers": 2, "followers_gained": 69, "peak_viewers": 11, "hours_streamed": 69, "streams": 34, "mature": 0, "language": "Polish", "account_age": 826560.0}

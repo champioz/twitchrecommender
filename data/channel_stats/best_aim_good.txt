@@ -1,0 +1,1 @@
+{"channel": "best_aim_good", "avg_viewers": 7, "followers_gained": 103, "peak_viewers": 25, "hours_streamed": 76, "streams": 34, "mature": 1, "language": "English", "account_age": 780480.0}

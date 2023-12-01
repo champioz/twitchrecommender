@@ -1,0 +1,1 @@
+{"channel": "liltiti_", "avg_viewers": 6, "followers_gained": 60, "peak_viewers": 26, "hours_streamed": 23, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 763200.0}

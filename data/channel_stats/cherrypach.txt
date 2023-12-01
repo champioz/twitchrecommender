@@ -1,0 +1,1 @@
+{"channel": "cherrypach", "avg_viewers": 1571, "followers_gained": 3700, "peak_viewers": 4085, "hours_streamed": 164, "streams": 18, "mature": 0, "language": "Korean", "account_age": 2337120.0}

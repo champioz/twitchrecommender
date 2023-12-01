@@ -1,0 +1,1 @@
+{"channel": "abby1yn", "avg_viewers": 47, "followers_gained": 210, "peak_viewers": 114, "hours_streamed": 124, "streams": 12, "mature": 0, "language": "Chinese", "account_age": 3134880.0}

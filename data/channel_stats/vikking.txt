@@ -1,0 +1,1 @@
+{"channel": "vikking", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 10, "hours_streamed": 80, "streams": 24, "mature": 0, "language": "English", "account_age": 980640.0}

@@ -1,0 +1,1 @@
+{"channel": "master_fiora", "avg_viewers": 14, "followers_gained": 26, "peak_viewers": 46, "hours_streamed": 100, "streams": 33, "mature": 0, "language": "Chinese", "account_age": 1908000.0}

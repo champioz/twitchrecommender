@@ -1,0 +1,1 @@
+{"channel": "jessieditto", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 1192320.0}

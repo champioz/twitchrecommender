@@ -1,0 +1,1 @@
+{"channel": "thesherbsinc", "avg_viewers": 8, "followers_gained": 26, "peak_viewers": 25, "hours_streamed": 53, "streams": 13, "mature": 1, "language": "English", "account_age": 1088640.0}

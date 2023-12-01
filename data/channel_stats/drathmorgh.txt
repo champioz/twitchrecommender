@@ -1,0 +1,1 @@
+{"channel": "drathmorgh", "avg_viewers": 42, "followers_gained": 311, "peak_viewers": 210, "hours_streamed": 92, "streams": 18, "mature": 1, "language": "English", "account_age": 2373120.0}

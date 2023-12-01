@@ -1,0 +1,1 @@
+{"channel": "albatf2", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 25, "hours_streamed": 9, "streams": 6, "mature": 0, "language": "English", "account_age": 3890880.0}

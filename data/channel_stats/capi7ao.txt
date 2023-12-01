@@ -1,0 +1,1 @@
+{"channel": "capi7ao", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 11, "hours_streamed": 1, "streams": 2, "mature": 1, "language": "Turkish", "account_age": 365760.0}

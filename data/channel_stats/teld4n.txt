@@ -1,0 +1,1 @@
+{"channel": "teld4n", "avg_viewers": 7, "followers_gained": 68, "peak_viewers": 25, "hours_streamed": 42, "streams": 11, "mature": 1, "language": "French", "account_age": 1081440.0}

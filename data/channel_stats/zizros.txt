@@ -1,0 +1,1 @@
+{"channel": "zizros", "avg_viewers": 11, "followers_gained": 113, "peak_viewers": 22, "hours_streamed": 21, "streams": 12, "mature": 0, "language": "English", "account_age": 277920.0}

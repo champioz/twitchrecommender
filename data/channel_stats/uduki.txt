@@ -1,0 +1,1 @@
+{"channel": "uduki", "avg_viewers": 33, "followers_gained": 6, "peak_viewers": 123, "hours_streamed": 128, "streams": 33, "mature": 1, "language": "Chinese (Hong Kong SAR)", "account_age": 5109120.0}

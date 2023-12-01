@@ -1,0 +1,1 @@
+{"channel": "harvet_", "avg_viewers": 8, "followers_gained": 13, "peak_viewers": 16, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "English", "account_age": 1886400.0}

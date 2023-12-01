@@ -1,0 +1,1 @@
+{"channel": "supremekai17", "avg_viewers": 15, "followers_gained": 28, "peak_viewers": 29, "hours_streamed": 7, "streams": 4, "mature": 1, "language": "English", "account_age": 645120.0}

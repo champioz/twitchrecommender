@@ -1,0 +1,1 @@
+{"channel": "xkate", "avg_viewers": 11, "followers_gained": 9, "peak_viewers": 19, "hours_streamed": 8, "streams": 3, "mature": 1, "language": "English", "account_age": 1163520.0}

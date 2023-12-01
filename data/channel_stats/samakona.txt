@@ -1,0 +1,1 @@
+{"channel": "samakona", "avg_viewers": 0, "followers_gained": 16, "peak_viewers": 7, "hours_streamed": 91, "streams": 54, "mature": 1, "language": "Spanish", "account_age": 3726720.0}

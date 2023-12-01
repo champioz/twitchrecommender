@@ -1,0 +1,1 @@
+{"channel": "bozzporus", "avg_viewers": 28, "followers_gained": 1446, "peak_viewers": 177, "hours_streamed": 161, "streams": 17, "mature": 1, "language": "German", "account_age": 1441440.0}

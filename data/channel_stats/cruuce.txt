@@ -1,0 +1,1 @@
+{"channel": "cruuce", "avg_viewers": 41, "followers_gained": 416, "peak_viewers": 169, "hours_streamed": 89, "streams": 41, "mature": 1, "language": "English", "account_age": 2098080.0}

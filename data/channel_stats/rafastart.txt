@@ -1,0 +1,1 @@
+{"channel": "rafastart", "avg_viewers": 17, "followers_gained": 249, "peak_viewers": 37, "hours_streamed": 31, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 139680.0}

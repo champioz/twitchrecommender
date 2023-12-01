@@ -1,0 +1,1 @@
+{"channel": "soonps", "avg_viewers": 32, "followers_gained": 192, "peak_viewers": 88, "hours_streamed": 146, "streams": 28, "mature": 0, "language": "Korean", "account_age": 768960.0}

@@ -1,0 +1,1 @@
+{"channel": "hamasii2424", "avg_viewers": 3, "followers_gained": 11, "peak_viewers": 15, "hours_streamed": 26, "streams": 11, "mature": 0, "language": "English", "account_age": 996480.0}

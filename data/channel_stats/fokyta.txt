@@ -1,0 +1,1 @@
+{"channel": "fokyta", "avg_viewers": 26, "followers_gained": 108, "peak_viewers": 83, "hours_streamed": 13, "streams": 7, "mature": 1, "language": "Spanish", "account_age": 1965600.0}

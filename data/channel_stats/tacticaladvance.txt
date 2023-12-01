@@ -1,0 +1,1 @@
+{"channel": "tacticaladvance", "avg_viewers": 46, "followers_gained": 117, "peak_viewers": 97, "hours_streamed": 39, "streams": 9, "mature": 0, "language": "English", "account_age": 2622240.0}

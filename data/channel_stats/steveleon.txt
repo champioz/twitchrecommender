@@ -1,0 +1,1 @@
+{"channel": "steveleon", "avg_viewers": 68, "followers_gained": 189, "peak_viewers": 223, "hours_streamed": 13, "streams": 8, "mature": 0, "language": "German", "account_age": 2147040.0}

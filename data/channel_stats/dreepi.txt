@@ -1,0 +1,1 @@
+{"channel": "dreepi", "avg_viewers": 8, "followers_gained": 24, "peak_viewers": 24, "hours_streamed": 44, "streams": 17, "mature": 1, "language": "Swedish", "account_age": 1916640.0}

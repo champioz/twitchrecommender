@@ -1,0 +1,1 @@
+{"channel": "bayruz", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 34, "hours_streamed": 82, "streams": 24, "mature": 1, "language": "Spanish", "account_age": 2473920.0}

@@ -1,0 +1,1 @@
+{"channel": "xada90", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 16, "hours_streamed": 47, "streams": 11, "mature": 1, "language": "German", "account_age": 3566880.0}

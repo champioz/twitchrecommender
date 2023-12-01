@@ -1,0 +1,1 @@
+{"channel": "galactus_it", "avg_viewers": 27, "followers_gained": 27, "peak_viewers": 51, "hours_streamed": 14, "streams": 7, "mature": 0, "language": "Italian", "account_age": 984960.0}

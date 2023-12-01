@@ -1,0 +1,1 @@
+{"channel": "mightymelo", "avg_viewers": 20, "followers_gained": 34, "peak_viewers": 98, "hours_streamed": 110, "streams": 9, "mature": 0, "language": "German", "account_age": 2442240.0}

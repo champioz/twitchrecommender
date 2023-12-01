@@ -1,0 +1,1 @@
+{"channel": "backfire2112", "avg_viewers": 22, "followers_gained": 595, "peak_viewers": 94, "hours_streamed": 64, "streams": 27, "mature": 1, "language": "German", "account_age": 547200.0}

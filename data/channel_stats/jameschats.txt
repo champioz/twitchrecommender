@@ -1,0 +1,1 @@
+{"channel": "jameschats", "avg_viewers": 14, "followers_gained": 12, "peak_viewers": 58, "hours_streamed": 40, "streams": 15, "mature": 0, "language": "English", "account_age": 2777760.0}

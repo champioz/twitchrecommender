@@ -1,0 +1,1 @@
+{"channel": "djwarest", "avg_viewers": 2, "followers_gained": 81, "peak_viewers": 15, "hours_streamed": 97, "streams": 14, "mature": 1, "language": "Other", "account_age": 1817280.0}

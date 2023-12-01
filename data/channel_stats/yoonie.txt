@@ -1,0 +1,1 @@
+{"channel": "yoonie", "avg_viewers": 55, "followers_gained": 13, "peak_viewers": 109, "hours_streamed": 49, "streams": 9, "mature": 1, "language": "English", "account_age": 3820320.0}

@@ -1,0 +1,1 @@
+{"channel": "viperas", "avg_viewers": 9, "followers_gained": 20, "peak_viewers": 20, "hours_streamed": 88, "streams": 28, "mature": 1, "language": "English", "account_age": 3412800.0}

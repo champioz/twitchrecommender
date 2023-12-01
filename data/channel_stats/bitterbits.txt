@@ -1,0 +1,1 @@
+{"channel": "bitterbits", "avg_viewers": 104, "followers_gained": 158, "peak_viewers": 190, "hours_streamed": 169, "streams": 25, "mature": 1, "language": "English", "account_age": 2833920.0}

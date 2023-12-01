@@ -1,0 +1,1 @@
+{"channel": "broadtesttv", "avg_viewers": 86, "followers_gained": 90, "peak_viewers": 104, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Hungarian", "account_age": 1143360.0}

@@ -1,0 +1,1 @@
+{"channel": "axendrael_jfcqjv", "avg_viewers": 3, "followers_gained": 10, "peak_viewers": 10, "hours_streamed": 141, "streams": 27, "mature": 1, "language": "French", "account_age": 391680.0}

@@ -1,0 +1,1 @@
+{"channel": "assassinrogue87", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 65, "streams": 36, "mature": 1, "language": "English", "account_age": 4214880.0}

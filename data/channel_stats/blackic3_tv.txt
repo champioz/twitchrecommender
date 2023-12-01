@@ -1,0 +1,1 @@
+{"channel": "blackic3_tv", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 26, "hours_streamed": 37, "streams": 13, "mature": 1, "language": "German", "account_age": 1935360.0}

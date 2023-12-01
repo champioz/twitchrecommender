@@ -1,0 +1,1 @@
+{"channel": "thanix229", "avg_viewers": 240, "followers_gained": 1511, "peak_viewers": 395, "hours_streamed": 16, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 1958400.0}

@@ -1,0 +1,1 @@
+{"channel": "fleischkolben", "avg_viewers": 4, "followers_gained": 36, "peak_viewers": 17, "hours_streamed": 150, "streams": 40, "mature": 1, "language": "German", "account_age": 316800.0}

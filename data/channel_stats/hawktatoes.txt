@@ -1,0 +1,1 @@
+{"channel": "hawktatoes", "avg_viewers": 13, "followers_gained": 77, "peak_viewers": 35, "hours_streamed": 110, "streams": 32, "mature": 1, "language": "English", "account_age": 673920.0}

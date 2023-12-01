@@ -1,0 +1,1 @@
+{"channel": "jackdawdottv", "avg_viewers": 4, "followers_gained": 9, "peak_viewers": 12, "hours_streamed": 22, "streams": 9, "mature": 0, "language": "English", "account_age": 689760.0}

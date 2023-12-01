@@ -1,0 +1,1 @@
+{"channel": "kotgabuser", "avg_viewers": 6, "followers_gained": 15, "peak_viewers": 18, "hours_streamed": 24, "streams": 9, "mature": 0, "language": "English", "account_age": 288000.0}

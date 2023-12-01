@@ -1,0 +1,1 @@
+{"channel": "keyles", "avg_viewers": 17, "followers_gained": 13, "peak_viewers": 47, "hours_streamed": 71, "streams": 15, "mature": 1, "language": "German", "account_age": 3646080.0}

@@ -1,0 +1,1 @@
+{"channel": "gazon", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 4, "streams": 4, "mature": 1, "language": "English", "account_age": 2808000.0}

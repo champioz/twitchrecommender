@@ -1,0 +1,1 @@
+{"channel": "manaprod", "avg_viewers": 179, "followers_gained": 493, "peak_viewers": 541, "hours_streamed": 71, "streams": 19, "mature": 0, "language": "French", "account_age": 2833920.0}

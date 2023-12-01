@@ -1,0 +1,1 @@
+{"channel": "elmyra", "avg_viewers": 9, "followers_gained": 75, "peak_viewers": 25, "hours_streamed": 22, "streams": 10, "mature": 1, "language": "Turkish", "account_age": 2712960.0}

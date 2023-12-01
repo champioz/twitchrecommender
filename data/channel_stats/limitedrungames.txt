@@ -1,0 +1,1 @@
+{"channel": "limitedrungames", "avg_viewers": 43, "followers_gained": 41, "peak_viewers": 93, "hours_streamed": 17, "streams": 19, "mature": 0, "language": "English", "account_age": 1735200.0}

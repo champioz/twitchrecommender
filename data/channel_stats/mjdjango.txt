@@ -1,0 +1,1 @@
+{"channel": "mjdjango", "avg_viewers": 12, "followers_gained": 174, "peak_viewers": 72, "hours_streamed": 288, "streams": 42, "mature": 1, "language": "French", "account_age": 1362240.0}

@@ -1,0 +1,1 @@
+{"channel": "danielm182", "avg_viewers": 8, "followers_gained": 120, "peak_viewers": 24, "hours_streamed": 89, "streams": 40, "mature": 0, "language": "Spanish", "account_age": 2462400.0}

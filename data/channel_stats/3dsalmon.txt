@@ -1,0 +1,1 @@
+{"channel": "3dsalmon", "avg_viewers": 4, "followers_gained": 7, "peak_viewers": 23, "hours_streamed": 127, "streams": 22, "mature": 1, "language": "English", "account_age": 3002400.0}

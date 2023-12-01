@@ -1,0 +1,1 @@
+{"channel": "yan2638", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 9, "streams": 6, "mature": 0, "language": "Russian", "account_age": 2270880.0}

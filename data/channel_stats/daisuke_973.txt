@@ -1,0 +1,1 @@
+{"channel": "daisuke_973", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 9, "hours_streamed": 36, "streams": 19, "mature": 1, "language": "French", "account_age": 794880.0}

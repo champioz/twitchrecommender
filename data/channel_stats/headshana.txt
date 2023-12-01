@@ -1,0 +1,1 @@
+{"channel": "headshana", "avg_viewers": 7, "followers_gained": 82, "peak_viewers": 18, "hours_streamed": 52, "streams": 18, "mature": 1, "language": "Portuguese", "account_age": 2881440.0}

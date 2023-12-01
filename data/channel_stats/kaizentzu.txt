@@ -1,0 +1,1 @@
+{"channel": "kaizentzu", "avg_viewers": 3, "followers_gained": 17, "peak_viewers": 11, "hours_streamed": 134, "streams": 32, "mature": 1, "language": "English", "account_age": 3875040.0}

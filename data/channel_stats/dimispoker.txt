@@ -1,0 +1,1 @@
+{"channel": "dimispoker", "avg_viewers": 33, "followers_gained": 17, "peak_viewers": 105, "hours_streamed": 23, "streams": 4, "mature": 1, "language": "Greek", "account_age": 1769760.0}

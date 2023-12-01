@@ -1,0 +1,1 @@
+{"channel": "cccasw", "avg_viewers": 35, "followers_gained": 135, "peak_viewers": 145, "hours_streamed": 136, "streams": 29, "mature": 0, "language": "Korean", "account_age": 1219680.0}

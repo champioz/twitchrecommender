@@ -1,0 +1,1 @@
+{"channel": "seum", "avg_viewers": 471, "followers_gained": 1347, "peak_viewers": 9049, "hours_streamed": 45, "streams": 13, "mature": 0, "language": "English", "account_age": 2452320.0}

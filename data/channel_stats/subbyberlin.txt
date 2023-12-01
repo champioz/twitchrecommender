@@ -1,0 +1,1 @@
+{"channel": "subbyberlin", "avg_viewers": 7, "followers_gained": 13, "peak_viewers": 26, "hours_streamed": 107, "streams": 25, "mature": 1, "language": "German", "account_age": 3299040.0}

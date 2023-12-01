@@ -1,0 +1,1 @@
+{"channel": "ehpom", "avg_viewers": 15, "followers_gained": 308, "peak_viewers": 196, "hours_streamed": 119, "streams": 22, "mature": 0, "language": "English", "account_age": 2848320.0}

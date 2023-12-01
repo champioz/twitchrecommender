@@ -1,0 +1,1 @@
+{"channel": "celstalgia", "avg_viewers": 14, "followers_gained": 29, "peak_viewers": 39, "hours_streamed": 74, "streams": 20, "mature": 0, "language": "English", "account_age": 2859840.0}

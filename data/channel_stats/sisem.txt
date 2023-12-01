@@ -1,0 +1,1 @@
+{"channel": "sisem", "avg_viewers": 2, "followers_gained": 4, "peak_viewers": 19, "hours_streamed": 23, "streams": 12, "mature": 0, "language": "English", "account_age": 826560.0}

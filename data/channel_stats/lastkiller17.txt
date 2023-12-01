@@ -1,0 +1,1 @@
+{"channel": "lastkiller17", "avg_viewers": 2, "followers_gained": 15, "peak_viewers": 11, "hours_streamed": 33, "streams": 23, "mature": 1, "language": "Spanish", "account_age": 2334240.0}

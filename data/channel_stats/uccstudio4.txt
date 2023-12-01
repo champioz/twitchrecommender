@@ -1,0 +1,1 @@
+{"channel": "uccstudio4", "avg_viewers": 1261, "followers_gained": 2815, "peak_viewers": 8175, "hours_streamed": 50, "streams": 5, "mature": 0, "language": "Russian", "account_age": 1556640.0}

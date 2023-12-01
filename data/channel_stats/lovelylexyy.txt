@@ -1,0 +1,1 @@
+{"channel": "lovelylexyy", "avg_viewers": 15, "followers_gained": 24, "peak_viewers": 37, "hours_streamed": 97, "streams": 19, "mature": 1, "language": "English", "account_age": 2126880.0}

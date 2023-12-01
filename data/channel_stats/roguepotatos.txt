@@ -1,0 +1,1 @@
+{"channel": "roguepotatos", "avg_viewers": 16, "followers_gained": 76, "peak_viewers": 28, "hours_streamed": 14, "streams": 5, "mature": 0, "language": "English", "account_age": 884160.0}

@@ -1,0 +1,1 @@
+{"channel": "staryuuki", "avg_viewers": 205, "followers_gained": 3752, "peak_viewers": 356, "hours_streamed": 52, "streams": 21, "mature": 0, "language": "Spanish", "account_age": 1056960.0}

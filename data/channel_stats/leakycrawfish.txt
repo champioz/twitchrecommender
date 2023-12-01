@@ -1,0 +1,1 @@
+{"channel": "leakycrawfish", "avg_viewers": 10, "followers_gained": 163, "peak_viewers": 24, "hours_streamed": 116, "streams": 26, "mature": 0, "language": "English", "account_age": 773280.0}

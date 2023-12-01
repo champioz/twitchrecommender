@@ -1,0 +1,1 @@
+{"channel": "monsieur_pinky", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 13, "hours_streamed": 13, "streams": 4, "mature": 1, "language": "German", "account_age": 2125440.0}

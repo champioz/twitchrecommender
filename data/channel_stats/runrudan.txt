@@ -1,0 +1,1 @@
+{"channel": "runrudan", "avg_viewers": 16, "followers_gained": 256, "peak_viewers": 124, "hours_streamed": 317, "streams": 37, "mature": 0, "language": "English", "account_age": 983520.0}

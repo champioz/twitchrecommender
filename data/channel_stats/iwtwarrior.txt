@@ -1,0 +1,1 @@
+{"channel": "iwtwarrior", "avg_viewers": 0, "followers_gained": 14, "peak_viewers": 5, "hours_streamed": 120, "streams": 39, "mature": 0, "language": "English", "account_age": 2445120.0}

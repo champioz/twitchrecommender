@@ -1,0 +1,1 @@
+{"channel": "megagamef", "avg_viewers": 34, "followers_gained": 285, "peak_viewers": 160, "hours_streamed": 81, "streams": 18, "mature": 0, "language": "German", "account_age": 3103200.0}

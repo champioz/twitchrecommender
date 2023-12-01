@@ -1,0 +1,1 @@
+{"channel": "yhurgames", "avg_viewers": 16, "followers_gained": 153, "peak_viewers": 40, "hours_streamed": 146, "streams": 32, "mature": 0, "language": "Spanish", "account_age": 1308960.0}

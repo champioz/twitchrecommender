@@ -1,0 +1,1 @@
+{"channel": "lysium", "avg_viewers": 34, "followers_gained": 213, "peak_viewers": 68, "hours_streamed": 84, "streams": 22, "mature": 0, "language": "English", "account_age": 3229920.0}

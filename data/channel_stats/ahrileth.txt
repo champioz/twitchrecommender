@@ -1,0 +1,1 @@
+{"channel": "ahrileth", "avg_viewers": 160, "followers_gained": 2617, "peak_viewers": 1118, "hours_streamed": 22, "streams": 5, "mature": 0, "language": "Spanish", "account_age": 1147680.0}

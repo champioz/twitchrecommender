@@ -1,0 +1,1 @@
+{"channel": "pumpszy", "avg_viewers": 6, "followers_gained": 175, "peak_viewers": 40, "hours_streamed": 138, "streams": 27, "mature": 1, "language": "English", "account_age": 447840.0}

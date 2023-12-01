@@ -1,0 +1,1 @@
+{"channel": "annafamous", "avg_viewers": 5, "followers_gained": 13, "peak_viewers": 11, "hours_streamed": 8, "streams": 6, "mature": 0, "language": "Russian", "account_age": 1160640.0}

@@ -1,0 +1,1 @@
+{"channel": "qa_partner2", "avg_viewers": 1, "followers_gained": 14, "peak_viewers": 7, "hours_streamed": 87, "streams": 39, "mature": 0, "language": "English", "account_age": 2544480.0}

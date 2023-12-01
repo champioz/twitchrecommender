@@ -1,0 +1,1 @@
+{"channel": "chefgucciness", "avg_viewers": 4, "followers_gained": 23, "peak_viewers": 21, "hours_streamed": 51, "streams": 8, "mature": 0, "language": "English", "account_age": 348480.0}

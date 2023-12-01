@@ -1,0 +1,1 @@
+{"channel": "natashatv", "avg_viewers": 7, "followers_gained": 159, "peak_viewers": 52, "hours_streamed": 35, "streams": 13, "mature": 1, "language": "English", "account_age": 1850400.0}

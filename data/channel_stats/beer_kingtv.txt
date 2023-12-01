@@ -1,0 +1,1 @@
+{"channel": "beer_kingtv", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 15, "streams": 6, "mature": 1, "language": "Finnish", "account_age": 2083680.0}

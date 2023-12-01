@@ -1,0 +1,1 @@
+{"channel": "sarovskij", "avg_viewers": 18, "followers_gained": 104, "peak_viewers": 37, "hours_streamed": 89, "streams": 37, "mature": 0, "language": "Russian", "account_age": 475200.0}

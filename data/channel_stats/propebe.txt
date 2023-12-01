@@ -1,0 +1,1 @@
+{"channel": "propebe", "avg_viewers": 16, "followers_gained": 46, "peak_viewers": 38, "hours_streamed": 115, "streams": 32, "mature": 1, "language": "Finnish", "account_age": 397440.0}

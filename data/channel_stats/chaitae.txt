@@ -1,0 +1,1 @@
+{"channel": "chaitae", "avg_viewers": 5, "followers_gained": 29, "peak_viewers": 28, "hours_streamed": 21, "streams": 10, "mature": 0, "language": "English", "account_age": 1837440.0}

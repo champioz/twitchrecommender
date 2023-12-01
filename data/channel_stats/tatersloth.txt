@@ -1,0 +1,1 @@
+{"channel": "tatersloth", "avg_viewers": 27, "followers_gained": 190, "peak_viewers": 204, "hours_streamed": 178, "streams": 27, "mature": 1, "language": "English", "account_age": 1938240.0}

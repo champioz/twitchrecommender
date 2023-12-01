@@ -1,0 +1,1 @@
+{"channel": "chryrobert", "avg_viewers": 5, "followers_gained": 261, "peak_viewers": 52, "hours_streamed": 274, "streams": 66, "mature": 1, "language": "Hungarian", "account_age": 1931040.0}

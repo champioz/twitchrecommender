@@ -1,0 +1,1 @@
+{"channel": "nird", "avg_viewers": 4, "followers_gained": 189, "peak_viewers": 28, "hours_streamed": 113, "streams": 65, "mature": 1, "language": "English", "account_age": 1746720.0}

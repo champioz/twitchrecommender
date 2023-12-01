@@ -1,0 +1,1 @@
+{"channel": "natsumiii", "avg_viewers": 194, "followers_gained": 466, "peak_viewers": 1566, "hours_streamed": 87, "streams": 16, "mature": 0, "language": "English", "account_age": 3323520.0}

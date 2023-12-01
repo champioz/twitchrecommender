@@ -1,0 +1,1 @@
+{"channel": "iddqd", "avg_viewers": 1137, "followers_gained": 2430, "peak_viewers": 2727, "hours_streamed": 121, "streams": 25, "mature": 1, "language": "English", "account_age": 1704960.0}

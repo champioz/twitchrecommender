@@ -1,0 +1,1 @@
+{"channel": "omastero", "avg_viewers": 32, "followers_gained": 27, "peak_viewers": 82, "hours_streamed": 17, "streams": 13, "mature": 0, "language": "English", "account_age": 4700160.0}

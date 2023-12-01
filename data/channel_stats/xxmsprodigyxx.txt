@@ -1,0 +1,1 @@
+{"channel": "xxmsprodigyxx", "avg_viewers": 9, "followers_gained": 115, "peak_viewers": 20, "hours_streamed": 183, "streams": 39, "mature": 0, "language": "English", "account_age": 2067840.0}

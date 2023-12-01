@@ -1,0 +1,1 @@
+{"channel": "deadp47_", "avg_viewers": 76, "followers_gained": 356, "peak_viewers": 172, "hours_streamed": 192, "streams": 46, "mature": 0, "language": "Russian", "account_age": 2702880.0}

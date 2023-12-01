@@ -1,0 +1,1 @@
+{"channel": "avantetv", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 16, "hours_streamed": 87, "streams": 17, "mature": 1, "language": "English", "account_age": 3013920.0}

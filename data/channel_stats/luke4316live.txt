@@ -1,0 +1,1 @@
+{"channel": "luke4316live", "avg_viewers": 358, "followers_gained": 973, "peak_viewers": 1770, "hours_streamed": 184, "streams": 11, "mature": 0, "language": "Italian", "account_age": 3261600.0}

@@ -1,0 +1,1 @@
+{"channel": "kof_allstar", "avg_viewers": 1147, "followers_gained": 1123, "peak_viewers": 2371, "hours_streamed": 12, "streams": 8, "mature": 0, "language": "Korean", "account_age": 109440.0}

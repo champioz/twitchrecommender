@@ -1,0 +1,1 @@
+{"channel": "richshay", "avg_viewers": 124, "followers_gained": 33, "peak_viewers": 264, "hours_streamed": 15, "streams": 6, "mature": 0, "language": "English", "account_age": 2653920.0}

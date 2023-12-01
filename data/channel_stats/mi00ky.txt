@@ -1,0 +1,1 @@
+{"channel": "mi00ky", "avg_viewers": 8, "followers_gained": 33, "peak_viewers": 120, "hours_streamed": 25, "streams": 8, "mature": 1, "language": "German", "account_age": 1683360.0}

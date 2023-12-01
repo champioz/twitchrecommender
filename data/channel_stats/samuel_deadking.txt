@@ -1,0 +1,1 @@
+{"channel": "samuel_deadking", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 15, "hours_streamed": 64, "streams": 20, "mature": 0, "language": "Russian", "account_age": 3313440.0}

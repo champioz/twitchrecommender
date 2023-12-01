@@ -1,0 +1,1 @@
+{"channel": "tgltn", "avg_viewers": 56, "followers_gained": 477, "peak_viewers": 258, "hours_streamed": 89, "streams": 21, "mature": 0, "language": "English", "account_age": 2020320.0}

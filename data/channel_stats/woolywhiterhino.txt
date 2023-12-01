@@ -1,0 +1,1 @@
+{"channel": "woolywhiterhino", "avg_viewers": 70, "followers_gained": 306, "peak_viewers": 154, "hours_streamed": 139, "streams": 27, "mature": 0, "language": "English", "account_age": 3304800.0}

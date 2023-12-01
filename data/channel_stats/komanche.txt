@@ -1,0 +1,1 @@
+{"channel": "komanche", "avg_viewers": 55, "followers_gained": 1174, "peak_viewers": 406, "hours_streamed": 127, "streams": 37, "mature": 0, "language": "Spanish", "account_age": 2067840.0}

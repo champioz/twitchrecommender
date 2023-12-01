@@ -1,0 +1,1 @@
+{"channel": "cuhfgyya123", "avg_viewers": 10, "followers_gained": 2, "peak_viewers": 27, "hours_streamed": 6, "streams": 3, "mature": 1, "language": "Chinese", "account_age": 1116000.0}

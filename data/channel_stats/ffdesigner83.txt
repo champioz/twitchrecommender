@@ -1,0 +1,1 @@
+{"channel": "ffdesigner83", "avg_viewers": 3, "followers_gained": 48, "peak_viewers": 16, "hours_streamed": 87, "streams": 39, "mature": 1, "language": "Italian", "account_age": 1537920.0}

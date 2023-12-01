@@ -1,0 +1,1 @@
+{"channel": "red_berzerker", "avg_viewers": 2, "followers_gained": 14, "peak_viewers": 19, "hours_streamed": 51, "streams": 23, "mature": 1, "language": "English", "account_age": 1784160.0}

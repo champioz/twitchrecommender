@@ -1,0 +1,1 @@
+{"channel": "zilly1999", "avg_viewers": 12, "followers_gained": 103, "peak_viewers": 33, "hours_streamed": 76, "streams": 20, "mature": 1, "language": "English", "account_age": 3438720.0}

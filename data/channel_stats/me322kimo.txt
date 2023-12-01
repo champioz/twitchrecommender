@@ -1,0 +1,1 @@
+{"channel": "me322kimo", "avg_viewers": 34, "followers_gained": 461, "peak_viewers": 393, "hours_streamed": 72, "streams": 24, "mature": 1, "language": "Chinese", "account_age": 3896640.0}

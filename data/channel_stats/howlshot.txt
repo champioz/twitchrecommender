@@ -1,0 +1,1 @@
+{"channel": "howlshot", "avg_viewers": 12, "followers_gained": 32, "peak_viewers": 29, "hours_streamed": 43, "streams": 17, "mature": 0, "language": "English", "account_age": 391680.0}

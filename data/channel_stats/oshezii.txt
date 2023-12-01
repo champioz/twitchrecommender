@@ -1,0 +1,1 @@
+{"channel": "oshezii", "avg_viewers": 6, "followers_gained": 145, "peak_viewers": 25, "hours_streamed": 192, "streams": 50, "mature": 1, "language": "Spanish", "account_age": 1857600.0}

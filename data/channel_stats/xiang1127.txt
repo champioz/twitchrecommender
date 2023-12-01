@@ -1,0 +1,1 @@
+{"channel": "xiang1127", "avg_viewers": 80, "followers_gained": 0, "peak_viewers": 121, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Chinese", "account_age": 2292480.0}

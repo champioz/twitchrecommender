@@ -1,0 +1,1 @@
+{"channel": "arhont_tv", "avg_viewers": 22, "followers_gained": 48, "peak_viewers": 63, "hours_streamed": 45, "streams": 20, "mature": 0, "language": "Russian", "account_age": 1435680.0}

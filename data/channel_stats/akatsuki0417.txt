@@ -1,0 +1,1 @@
+{"channel": "akatsuki0417", "avg_viewers": 3, "followers_gained": 18, "peak_viewers": 12, "hours_streamed": 54, "streams": 19, "mature": 0, "language": "Japanese", "account_age": 610560.0}

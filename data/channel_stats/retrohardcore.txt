@@ -1,0 +1,1 @@
+{"channel": "retrohardcore", "avg_viewers": 24, "followers_gained": 73, "peak_viewers": 142, "hours_streamed": 25, "streams": 26, "mature": 0, "language": "Spanish", "account_age": 923040.0}

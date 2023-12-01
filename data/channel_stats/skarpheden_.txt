@@ -1,0 +1,1 @@
+{"channel": "skarpheden_", "avg_viewers": 6, "followers_gained": 14, "peak_viewers": 15, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "English", "account_age": 2013120.0}

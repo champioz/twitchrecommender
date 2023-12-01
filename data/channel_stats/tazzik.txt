@@ -1,0 +1,1 @@
+{"channel": "tazzik", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 1582560.0}

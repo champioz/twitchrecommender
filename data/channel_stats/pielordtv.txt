@@ -1,0 +1,1 @@
+{"channel": "pielordtv", "avg_viewers": 7, "followers_gained": 20, "peak_viewers": 31, "hours_streamed": 63, "streams": 19, "mature": 0, "language": "English", "account_age": 1012320.0}

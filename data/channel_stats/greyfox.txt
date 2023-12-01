@@ -1,0 +1,1 @@
+{"channel": "greyfox", "avg_viewers": 63, "followers_gained": 51, "peak_viewers": 645, "hours_streamed": 139, "streams": 26, "mature": 0, "language": "German", "account_age": 1399680.0}

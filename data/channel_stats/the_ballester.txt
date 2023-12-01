@@ -1,0 +1,1 @@
+{"channel": "the_ballester", "avg_viewers": 45, "followers_gained": 41, "peak_viewers": 157, "hours_streamed": 52, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 2316960.0}

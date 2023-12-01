@@ -1,0 +1,1 @@
+{"channel": "opshrew", "avg_viewers": 5, "followers_gained": 22, "peak_viewers": 16, "hours_streamed": 24, "streams": 11, "mature": 0, "language": "English", "account_age": 1716480.0}

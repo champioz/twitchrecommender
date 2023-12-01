@@ -1,0 +1,1 @@
+{"channel": "mirianatir", "avg_viewers": 6, "followers_gained": 35, "peak_viewers": 28, "hours_streamed": 131, "streams": 32, "mature": 0, "language": "Russian", "account_age": 600480.0}

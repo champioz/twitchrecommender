@@ -1,0 +1,1 @@
+{"channel": "jaydenisa", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "English", "account_age": 711360.0}

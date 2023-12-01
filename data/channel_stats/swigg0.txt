@@ -1,0 +1,1 @@
+{"channel": "swigg0", "avg_viewers": 5, "followers_gained": 33, "peak_viewers": 30, "hours_streamed": 57, "streams": 22, "mature": 1, "language": "Italian", "account_age": 1812960.0}

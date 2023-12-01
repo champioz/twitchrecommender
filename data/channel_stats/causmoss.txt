@@ -1,0 +1,1 @@
+{"channel": "causmoss", "avg_viewers": 3, "followers_gained": 32, "peak_viewers": 31, "hours_streamed": 88, "streams": 33, "mature": 0, "language": "French", "account_age": 1725120.0}

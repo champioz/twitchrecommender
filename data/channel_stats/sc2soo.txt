@@ -1,0 +1,1 @@
+{"channel": "sc2soo", "avg_viewers": 274, "followers_gained": 87, "peak_viewers": 380, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "Korean", "account_age": 1447200.0}

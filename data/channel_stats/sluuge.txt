@@ -1,0 +1,1 @@
+{"channel": "sluuge", "avg_viewers": 10, "followers_gained": 50, "peak_viewers": 26, "hours_streamed": 53, "streams": 18, "mature": 1, "language": "English", "account_age": 1827360.0}

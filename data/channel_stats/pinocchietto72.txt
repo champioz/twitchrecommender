@@ -1,0 +1,1 @@
+{"channel": "pinocchietto72", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 18, "hours_streamed": 63, "streams": 18, "mature": 1, "language": "Italian", "account_age": 901440.0}

@@ -1,0 +1,1 @@
+{"channel": "cmaccari", "avg_viewers": 165, "followers_gained": 297, "peak_viewers": 1811, "hours_streamed": 51, "streams": 17, "mature": 0, "language": "French", "account_age": 2455200.0}

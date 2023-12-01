@@ -1,0 +1,1 @@
+{"channel": "st_jeezy", "avg_viewers": 16, "followers_gained": 29, "peak_viewers": 32, "hours_streamed": 79, "streams": 18, "mature": 1, "language": "English", "account_age": 1069920.0}

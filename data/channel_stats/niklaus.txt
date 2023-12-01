@@ -1,0 +1,1 @@
+{"channel": "niklaus", "avg_viewers": 192, "followers_gained": 193, "peak_viewers": 472, "hours_streamed": 123, "streams": 27, "mature": 1, "language": "Polish", "account_age": 1435680.0}

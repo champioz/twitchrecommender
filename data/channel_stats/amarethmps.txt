@@ -1,0 +1,1 @@
+{"channel": "amarethmps", "avg_viewers": 31, "followers_gained": 223, "peak_viewers": 87, "hours_streamed": 118, "streams": 59, "mature": 1, "language": "Polish", "account_age": 3736800.0}

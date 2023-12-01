@@ -1,0 +1,1 @@
+{"channel": "imaxsouza", "avg_viewers": 9, "followers_gained": 95, "peak_viewers": 52, "hours_streamed": 102, "streams": 61, "mature": 0, "language": "Portuguese", "account_age": 2213280.0}

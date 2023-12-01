@@ -1,0 +1,1 @@
+{"channel": "zinkankarun", "avg_viewers": 5, "followers_gained": 18, "peak_viewers": 42, "hours_streamed": 148, "streams": 40, "mature": 1, "language": "Polish", "account_age": 2437920.0}

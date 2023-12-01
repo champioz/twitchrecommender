@@ -1,0 +1,1 @@
+{"channel": "dyerektor", "avg_viewers": 2, "followers_gained": 18, "peak_viewers": 11, "hours_streamed": 182, "streams": 27, "mature": 1, "language": "English", "account_age": 708480.0}

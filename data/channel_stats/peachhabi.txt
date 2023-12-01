@@ -1,0 +1,1 @@
+{"channel": "peachhabi", "avg_viewers": 16, "followers_gained": 20, "peak_viewers": 24, "hours_streamed": 3, "streams": 5, "mature": 0, "language": "Thai", "account_age": 944640.0}

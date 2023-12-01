@@ -1,0 +1,1 @@
+{"channel": "dennymk", "avg_viewers": 36, "followers_gained": 320, "peak_viewers": 193, "hours_streamed": 262, "streams": 29, "mature": 1, "language": "English", "account_age": 1755360.0}

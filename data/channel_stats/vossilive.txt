@@ -1,0 +1,1 @@
+{"channel": "vossilive", "avg_viewers": 139, "followers_gained": 554, "peak_viewers": 441, "hours_streamed": 23, "streams": 7, "mature": 0, "language": "German", "account_age": 2783520.0}

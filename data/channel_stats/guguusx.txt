@@ -1,0 +1,1 @@
+{"channel": "guguusx", "avg_viewers": 11, "followers_gained": 485, "peak_viewers": 40, "hours_streamed": 99, "streams": 35, "mature": 0, "language": "French", "account_age": 354240.0}

@@ -1,0 +1,1 @@
+{"channel": "mysticalcyan", "avg_viewers": 16, "followers_gained": 231, "peak_viewers": 95, "hours_streamed": 202, "streams": 32, "mature": 0, "language": "English", "account_age": 3582720.0}

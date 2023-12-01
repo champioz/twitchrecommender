@@ -1,0 +1,1 @@
+{"channel": "stortomanontroppo", "avg_viewers": 26, "followers_gained": 714, "peak_viewers": 98, "hours_streamed": 25, "streams": 18, "mature": 0, "language": "Italian", "account_age": 1185120.0}

@@ -1,0 +1,1 @@
+{"channel": "joaolvitor", "avg_viewers": 5, "followers_gained": 47, "peak_viewers": 18, "hours_streamed": 63, "streams": 24, "mature": 1, "language": "Portuguese", "account_age": 2154240.0}

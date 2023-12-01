@@ -1,0 +1,1 @@
+{"channel": "akhyrion_", "avg_viewers": 60, "followers_gained": 337, "peak_viewers": 269, "hours_streamed": 104, "streams": 24, "mature": 0, "language": "French", "account_age": 1249920.0}

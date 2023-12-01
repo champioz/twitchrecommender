@@ -1,0 +1,1 @@
+{"channel": "heiltomate", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 2, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "German", "account_age": 2545920.0}

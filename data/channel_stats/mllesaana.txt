@@ -1,0 +1,1 @@
+{"channel": "mllesaana", "avg_viewers": 28, "followers_gained": 121, "peak_viewers": 109, "hours_streamed": 144, "streams": 27, "mature": 1, "language": "French", "account_age": 737280.0}

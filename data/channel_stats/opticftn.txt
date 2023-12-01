@@ -1,0 +1,1 @@
+{"channel": "opticftn", "avg_viewers": 25, "followers_gained": 721, "peak_viewers": 213, "hours_streamed": 77, "streams": 40, "mature": 0, "language": "German", "account_age": 2204640.0}

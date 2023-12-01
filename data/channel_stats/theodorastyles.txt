@@ -1,0 +1,1 @@
+{"channel": "theodorastyles", "avg_viewers": 14, "followers_gained": 67, "peak_viewers": 39, "hours_streamed": 97, "streams": 18, "mature": 1, "language": "English", "account_age": 1500480.0}

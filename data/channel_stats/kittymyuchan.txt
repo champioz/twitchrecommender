@@ -1,0 +1,1 @@
+{"channel": "kittymyuchan", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 18, "hours_streamed": 22, "streams": 10, "mature": 1, "language": "German", "account_age": 1010880.0}

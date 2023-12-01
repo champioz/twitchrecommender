@@ -1,0 +1,1 @@
+{"channel": "drpatex", "avg_viewers": 10, "followers_gained": 25, "peak_viewers": 17, "hours_streamed": 14, "streams": 5, "mature": 0, "language": "German", "account_age": 1766880.0}

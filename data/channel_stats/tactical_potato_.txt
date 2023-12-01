@@ -1,0 +1,1 @@
+{"channel": "tactical_potato_", "avg_viewers": 534, "followers_gained": 4806, "peak_viewers": 4025, "hours_streamed": 73, "streams": 18, "mature": 0, "language": "English", "account_age": 2213280.0}

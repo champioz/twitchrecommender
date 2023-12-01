@@ -1,0 +1,1 @@
+{"channel": "yuki0210_wei", "avg_viewers": 14, "followers_gained": 25, "peak_viewers": 31, "hours_streamed": 36, "streams": 11, "mature": 0, "language": "Chinese", "account_age": 851040.0}

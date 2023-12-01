@@ -1,0 +1,1 @@
+{"channel": "badd96", "avg_viewers": 6, "followers_gained": 0, "peak_viewers": 32, "hours_streamed": 44, "streams": 5, "mature": 0, "language": "English", "account_age": 3108960.0}

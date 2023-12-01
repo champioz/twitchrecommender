@@ -1,0 +1,1 @@
+{"channel": "petrenka", "avg_viewers": 8, "followers_gained": 91, "peak_viewers": 38, "hours_streamed": 138, "streams": 23, "mature": 0, "language": "Russian", "account_age": 2884320.0}

@@ -1,0 +1,1 @@
+{"channel": "fistbumptw", "avg_viewers": 8, "followers_gained": 14, "peak_viewers": 34, "hours_streamed": 19, "streams": 7, "mature": 0, "language": "Chinese", "account_age": 836640.0}

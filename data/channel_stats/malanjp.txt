@@ -1,0 +1,1 @@
+{"channel": "malanjp", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "Japanese", "account_age": 3684960.0}

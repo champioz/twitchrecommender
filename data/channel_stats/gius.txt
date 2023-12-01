@@ -1,0 +1,1 @@
+{"channel": "gius", "avg_viewers": 485, "followers_gained": 760, "peak_viewers": 1379, "hours_streamed": 121, "streams": 25, "mature": 0, "language": "French", "account_age": 2473920.0}

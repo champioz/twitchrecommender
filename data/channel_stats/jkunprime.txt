@@ -1,0 +1,1 @@
+{"channel": "jkunprime", "avg_viewers": 64, "followers_gained": 38, "peak_viewers": 131, "hours_streamed": 85, "streams": 26, "mature": 1, "language": "English", "account_age": 1823040.0}

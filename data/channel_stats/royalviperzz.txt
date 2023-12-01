@@ -1,0 +1,1 @@
+{"channel": "royalviperzz", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 6, "hours_streamed": 7, "streams": 8, "mature": 1, "language": "English", "account_age": 1199520.0}

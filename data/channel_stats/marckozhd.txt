@@ -1,0 +1,1 @@
+{"channel": "marckozhd", "avg_viewers": 780, "followers_gained": 2042, "peak_viewers": 1738, "hours_streamed": 60, "streams": 11, "mature": 0, "language": "Danish", "account_age": 3667680.0}

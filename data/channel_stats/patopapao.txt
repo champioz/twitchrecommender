@@ -1,0 +1,1 @@
+{"channel": "patopapao", "avg_viewers": 3466, "followers_gained": 9231, "peak_viewers": 8922, "hours_streamed": 142, "streams": 22, "mature": 0, "language": "Portuguese", "account_age": 3648960.0}

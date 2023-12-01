@@ -1,0 +1,1 @@
+{"channel": "mugo97", "avg_viewers": 3, "followers_gained": 16, "peak_viewers": 14, "hours_streamed": 56, "streams": 22, "mature": 0, "language": "Korean", "account_age": 1208160.0}

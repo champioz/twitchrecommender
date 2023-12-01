@@ -1,0 +1,1 @@
+{"channel": "buckleurpants", "avg_viewers": 46, "followers_gained": 38, "peak_viewers": 261, "hours_streamed": 12, "streams": 5, "mature": 0, "language": "English", "account_age": 1733760.0}

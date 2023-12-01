@@ -1,0 +1,1 @@
+{"channel": "musicbuisness", "avg_viewers": 111, "followers_gained": 4, "peak_viewers": 157, "hours_streamed": 9, "streams": 6, "mature": 0, "language": "English", "account_age": 221760.0}

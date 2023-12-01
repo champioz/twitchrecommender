@@ -1,0 +1,1 @@
+{"channel": "matzzteg", "avg_viewers": 1, "followers_gained": 22, "peak_viewers": 9, "hours_streamed": 79, "streams": 30, "mature": 1, "language": "German", "account_age": 515520.0}

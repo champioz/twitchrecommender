@@ -1,0 +1,1 @@
+{"channel": "ca93100", "avg_viewers": 17, "followers_gained": 90, "peak_viewers": 63, "hours_streamed": 151, "streams": 29, "mature": 0, "language": "Korean", "account_age": 1221120.0}

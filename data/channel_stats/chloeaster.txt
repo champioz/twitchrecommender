@@ -1,0 +1,1 @@
+{"channel": "chloeaster", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 15, "streams": 8, "mature": 0, "language": "English", "account_age": 1278720.0}

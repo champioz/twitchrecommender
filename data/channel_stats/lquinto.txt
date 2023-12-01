@@ -1,0 +1,1 @@
+{"channel": "lquinto", "avg_viewers": 12, "followers_gained": 3, "peak_viewers": 18, "hours_streamed": 7, "streams": 2, "mature": 1, "language": "English", "account_age": 1018080.0}

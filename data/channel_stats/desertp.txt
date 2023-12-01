@@ -1,0 +1,1 @@
+{"channel": "desertp", "avg_viewers": 292, "followers_gained": 551, "peak_viewers": 829, "hours_streamed": 67, "streams": 19, "mature": 1, "language": "English", "account_age": 4011840.0}

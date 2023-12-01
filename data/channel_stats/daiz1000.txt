@@ -1,0 +1,1 @@
+{"channel": "daiz1000", "avg_viewers": 33, "followers_gained": 17, "peak_viewers": 67, "hours_streamed": 17, "streams": 6, "mature": 0, "language": "Danish", "account_age": 3144960.0}

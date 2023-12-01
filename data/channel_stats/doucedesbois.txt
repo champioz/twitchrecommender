@@ -1,0 +1,1 @@
+{"channel": "doucedesbois", "avg_viewers": 19, "followers_gained": 297, "peak_viewers": 69, "hours_streamed": 96, "streams": 32, "mature": 1, "language": "French", "account_age": 391680.0}

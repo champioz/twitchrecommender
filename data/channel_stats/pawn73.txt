@@ -1,0 +1,1 @@
+{"channel": "pawn73", "avg_viewers": 19, "followers_gained": 244, "peak_viewers": 70, "hours_streamed": 104, "streams": 41, "mature": 1, "language": "Swedish", "account_age": 1421280.0}

@@ -1,0 +1,1 @@
+{"channel": "auge_v2142", "avg_viewers": 40, "followers_gained": 7, "peak_viewers": 72, "hours_streamed": 40, "streams": 23, "mature": 0, "language": "German", "account_age": 3569760.0}

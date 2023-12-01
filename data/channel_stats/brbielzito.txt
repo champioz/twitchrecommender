@@ -1,0 +1,1 @@
+{"channel": "brbielzito", "avg_viewers": 4, "followers_gained": 37, "peak_viewers": 43, "hours_streamed": 83, "streams": 20, "mature": 0, "language": "Portuguese", "account_age": 1069920.0}

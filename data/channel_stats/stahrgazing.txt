@@ -1,0 +1,1 @@
+{"channel": "stahrgazing", "avg_viewers": 12, "followers_gained": 3, "peak_viewers": 20, "hours_streamed": 20, "streams": 4, "mature": 1, "language": "English", "account_age": 2610720.0}

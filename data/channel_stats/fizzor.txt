@@ -1,0 +1,1 @@
+{"channel": "fizzor", "avg_viewers": 5, "followers_gained": 70, "peak_viewers": 21, "hours_streamed": 141, "streams": 36, "mature": 0, "language": "English", "account_age": 4258080.0}

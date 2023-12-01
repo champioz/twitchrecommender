@@ -1,0 +1,1 @@
+{"channel": "peqly_ttv", "avg_viewers": 4, "followers_gained": 182, "peak_viewers": 21, "hours_streamed": 82, "streams": 50, "mature": 0, "language": "English", "account_age": 213120.0}

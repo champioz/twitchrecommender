@@ -1,0 +1,1 @@
+{"channel": "drobniak12", "avg_viewers": 12, "followers_gained": 13, "peak_viewers": 28, "hours_streamed": 33, "streams": 18, "mature": 0, "language": "Polish", "account_age": 1264320.0}

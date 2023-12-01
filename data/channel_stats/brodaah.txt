@@ -1,0 +1,1 @@
+{"channel": "brodaah", "avg_viewers": 8, "followers_gained": 74, "peak_viewers": 87, "hours_streamed": 187, "streams": 31, "mature": 1, "language": "German", "account_age": 3169440.0}

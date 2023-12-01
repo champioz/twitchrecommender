@@ -1,0 +1,1 @@
+{"channel": "cluelesscowboy", "avg_viewers": 21, "followers_gained": 234, "peak_viewers": 91, "hours_streamed": 202, "streams": 31, "mature": 1, "language": "English", "account_age": 578880.0}

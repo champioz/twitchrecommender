@@ -1,0 +1,1 @@
+{"channel": "whiskysnake", "avg_viewers": 11, "followers_gained": 61, "peak_viewers": 38, "hours_streamed": 156, "streams": 19, "mature": 0, "language": "Finnish", "account_age": 3719520.0}

@@ -1,0 +1,1 @@
+{"channel": "steveinspawn", "avg_viewers": 59, "followers_gained": 370, "peak_viewers": 330, "hours_streamed": 96, "streams": 21, "mature": 0, "language": "English", "account_age": 1038240.0}

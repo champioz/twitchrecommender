@@ -1,0 +1,1 @@
+{"channel": "bluedamd", "avg_viewers": 57, "followers_gained": 3, "peak_viewers": 141, "hours_streamed": 22, "streams": 9, "mature": 1, "language": "English", "account_age": 2926080.0}

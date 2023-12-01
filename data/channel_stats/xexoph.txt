@@ -1,0 +1,1 @@
+{"channel": "xexoph", "avg_viewers": 34, "followers_gained": 747, "peak_viewers": 107, "hours_streamed": 38, "streams": 18, "mature": 0, "language": "English", "account_age": 1188000.0}

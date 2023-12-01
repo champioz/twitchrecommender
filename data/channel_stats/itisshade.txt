@@ -1,0 +1,1 @@
+{"channel": "itisshade", "avg_viewers": 3, "followers_gained": 180, "peak_viewers": 22, "hours_streamed": 139, "streams": 38, "mature": 1, "language": "English", "account_age": 600480.0}

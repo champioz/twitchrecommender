@@ -1,0 +1,1 @@
+{"channel": "drtyninja", "avg_viewers": 8, "followers_gained": 20, "peak_viewers": 27, "hours_streamed": 51, "streams": 19, "mature": 0, "language": "English", "account_age": 2417760.0}

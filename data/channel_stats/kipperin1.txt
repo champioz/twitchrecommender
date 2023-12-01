@@ -1,0 +1,1 @@
+{"channel": "kipperin1", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 14, "hours_streamed": 55, "streams": 17, "mature": 0, "language": "German", "account_age": 1915200.0}

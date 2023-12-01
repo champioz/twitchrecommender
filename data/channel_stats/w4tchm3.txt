@@ -1,0 +1,1 @@
+{"channel": "w4tchm3", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 29, "hours_streamed": 75, "streams": 24, "mature": 1, "language": "German", "account_age": 1300320.0}

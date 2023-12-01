@@ -1,0 +1,1 @@
+{"channel": "seraphoenix", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 70, "streams": 40, "mature": 1, "language": "English", "account_age": 3291840.0}

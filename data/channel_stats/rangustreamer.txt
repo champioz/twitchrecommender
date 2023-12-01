@@ -1,0 +1,1 @@
+{"channel": "rangustreamer", "avg_viewers": 407, "followers_gained": 1809, "peak_viewers": 739, "hours_streamed": 23, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 607680.0}

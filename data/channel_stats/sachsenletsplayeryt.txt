@@ -1,0 +1,1 @@
+{"channel": "sachsenletsplayeryt", "avg_viewers": 74, "followers_gained": 175, "peak_viewers": 306, "hours_streamed": 74, "streams": 20, "mature": 0, "language": "German", "account_age": 3605760.0}

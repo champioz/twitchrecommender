@@ -1,0 +1,1 @@
+{"channel": "ricotrix", "avg_viewers": 1, "followers_gained": 15, "peak_viewers": 6, "hours_streamed": 35, "streams": 17, "mature": 0, "language": "German", "account_age": 1097280.0}

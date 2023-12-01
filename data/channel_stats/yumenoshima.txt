@@ -1,0 +1,1 @@
+{"channel": "yumenoshima", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 18, "streams": 13, "mature": 0, "language": "English", "account_age": 712800.0}

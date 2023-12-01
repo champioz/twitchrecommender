@@ -1,0 +1,1 @@
+{"channel": "chemicalpaca", "avg_viewers": 21, "followers_gained": 101, "peak_viewers": 236, "hours_streamed": 81, "streams": 14, "mature": 0, "language": "English", "account_age": 1370880.0}

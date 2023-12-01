@@ -1,0 +1,1 @@
+{"channel": "zaaapofficial", "avg_viewers": 22, "followers_gained": 12, "peak_viewers": 58, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "German", "account_age": 2473920.0}

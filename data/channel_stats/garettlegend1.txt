@@ -1,0 +1,1 @@
+{"channel": "garettlegend1", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 1, "hours_streamed": 1, "streams": 2, "mature": 0, "language": "English", "account_age": 1591200.0}

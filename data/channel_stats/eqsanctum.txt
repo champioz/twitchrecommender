@@ -1,0 +1,1 @@
+{"channel": "eqsanctum", "avg_viewers": 0, "followers_gained": 22, "peak_viewers": 34, "hours_streamed": 78, "streams": 22, "mature": 1, "language": "English", "account_age": 3621600.0}

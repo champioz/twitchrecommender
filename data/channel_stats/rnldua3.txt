@@ -1,0 +1,1 @@
+{"channel": "rnldua3", "avg_viewers": 2, "followers_gained": 46, "peak_viewers": 10, "hours_streamed": 88, "streams": 39, "mature": 0, "language": "Korean", "account_age": 141120.0}

@@ -1,0 +1,1 @@
+{"channel": "vortexsa", "avg_viewers": 28, "followers_gained": 156, "peak_viewers": 75, "hours_streamed": 65, "streams": 22, "mature": 0, "language": "English", "account_age": 2926080.0}

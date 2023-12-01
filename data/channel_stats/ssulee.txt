@@ -1,0 +1,1 @@
+{"channel": "ssulee", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 4, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "English", "account_age": 1759680.0}

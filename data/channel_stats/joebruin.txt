@@ -1,0 +1,1 @@
+{"channel": "joebruin", "avg_viewers": 35, "followers_gained": 245, "peak_viewers": 363, "hours_streamed": 123, "streams": 28, "mature": 0, "language": "English", "account_age": 1416960.0}

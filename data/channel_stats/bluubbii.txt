@@ -1,0 +1,1 @@
+{"channel": "bluubbii", "avg_viewers": 10, "followers_gained": 44, "peak_viewers": 36, "hours_streamed": 223, "streams": 31, "mature": 1, "language": "German", "account_age": 2018880.0}

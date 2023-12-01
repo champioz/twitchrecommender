@@ -1,0 +1,1 @@
+{"channel": "jenzkiwr", "avg_viewers": 38, "followers_gained": 8, "peak_viewers": 66, "hours_streamed": 68, "streams": 11, "mature": 1, "language": "English", "account_age": 2723040.0}

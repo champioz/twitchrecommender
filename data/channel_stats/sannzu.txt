@@ -1,0 +1,1 @@
+{"channel": "sannzu", "avg_viewers": 3, "followers_gained": 34, "peak_viewers": 12, "hours_streamed": 74, "streams": 31, "mature": 0, "language": "Finnish", "account_age": 1404000.0}

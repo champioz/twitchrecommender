@@ -1,0 +1,1 @@
+{"channel": "ukyochi_jp", "avg_viewers": 182, "followers_gained": 183, "peak_viewers": 338, "hours_streamed": 122, "streams": 37, "mature": 0, "language": "Japanese", "account_age": 620640.0}

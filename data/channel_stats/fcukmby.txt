@@ -1,0 +1,1 @@
+{"channel": "fcukmby", "avg_viewers": 2, "followers_gained": 2, "peak_viewers": 12, "hours_streamed": 27, "streams": 9, "mature": 1, "language": "Swedish", "account_age": 1779840.0}

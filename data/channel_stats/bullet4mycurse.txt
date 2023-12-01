@@ -1,0 +1,1 @@
+{"channel": "bullet4mycurse", "avg_viewers": 16, "followers_gained": 26, "peak_viewers": 50, "hours_streamed": 72, "streams": 24, "mature": 1, "language": "English", "account_age": 1687680.0}

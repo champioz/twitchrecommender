@@ -1,0 +1,1 @@
+{"channel": "pourladaronnetv", "avg_viewers": 10, "followers_gained": 39, "peak_viewers": 152, "hours_streamed": 20, "streams": 14, "mature": 0, "language": "French", "account_age": 324000.0}

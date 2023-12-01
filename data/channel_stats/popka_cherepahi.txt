@@ -1,0 +1,1 @@
+{"channel": "popka_cherepahi", "avg_viewers": 17, "followers_gained": 12, "peak_viewers": 56, "hours_streamed": 36, "streams": 16, "mature": 0, "language": "Russian", "account_age": 1126080.0}

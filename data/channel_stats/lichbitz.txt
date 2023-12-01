@@ -1,0 +1,1 @@
+{"channel": "lichbitz", "avg_viewers": 27, "followers_gained": 44, "peak_viewers": 117, "hours_streamed": 59, "streams": 16, "mature": 0, "language": "English", "account_age": 1248480.0}

@@ -1,0 +1,1 @@
+{"channel": "eizntv", "avg_viewers": 4, "followers_gained": 58, "peak_viewers": 17, "hours_streamed": 108, "streams": 37, "mature": 1, "language": "Swedish", "account_age": 2926080.0}

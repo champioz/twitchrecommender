@@ -1,0 +1,1 @@
+{"channel": "tokyo90", "avg_viewers": 38, "followers_gained": 49, "peak_viewers": 89, "hours_streamed": 86, "streams": 26, "mature": 0, "language": "English", "account_age": 3065760.0}

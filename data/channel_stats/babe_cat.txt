@@ -1,0 +1,1 @@
+{"channel": "babe_cat", "avg_viewers": 15, "followers_gained": 31, "peak_viewers": 27, "hours_streamed": 13, "streams": 4, "mature": 0, "language": "Chinese", "account_age": 1920960.0}

@@ -1,0 +1,1 @@
+{"channel": "sammygee", "avg_viewers": 1, "followers_gained": 10, "peak_viewers": 5, "hours_streamed": 95, "streams": 26, "mature": 0, "language": "English", "account_age": 704160.0}

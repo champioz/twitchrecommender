@@ -1,0 +1,1 @@
+{"channel": "minnamumi", "avg_viewers": 56, "followers_gained": 258, "peak_viewers": 128, "hours_streamed": 135, "streams": 23, "mature": 0, "language": "Danish", "account_age": 1003680.0}

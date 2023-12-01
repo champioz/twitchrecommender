@@ -1,0 +1,1 @@
+{"channel": "zz5597", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 7, "hours_streamed": 54, "streams": 26, "mature": 0, "language": "Chinese", "account_age": 3805920.0}

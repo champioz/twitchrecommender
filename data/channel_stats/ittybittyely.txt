@@ -1,0 +1,1 @@
+{"channel": "ittybittyely", "avg_viewers": 12, "followers_gained": 0, "peak_viewers": 16, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "English", "account_age": 1221120.0}

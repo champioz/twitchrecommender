@@ -1,0 +1,1 @@
+{"channel": "hitqirl", "avg_viewers": 362, "followers_gained": 6046, "peak_viewers": 1767, "hours_streamed": 89, "streams": 22, "mature": 0, "language": "German", "account_age": 463680.0}

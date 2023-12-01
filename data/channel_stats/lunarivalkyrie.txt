@@ -1,0 +1,1 @@
+{"channel": "lunarivalkyrie", "avg_viewers": 11, "followers_gained": 70, "peak_viewers": 39, "hours_streamed": 82, "streams": 13, "mature": 0, "language": "English", "account_age": 2134080.0}

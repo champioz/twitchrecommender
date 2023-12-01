@@ -1,0 +1,1 @@
+{"channel": "coachkuki", "avg_viewers": 51, "followers_gained": 307, "peak_viewers": 283, "hours_streamed": 47, "streams": 14, "mature": 1, "language": "German", "account_age": 1634400.0}

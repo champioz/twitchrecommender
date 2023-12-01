@@ -1,0 +1,1 @@
+{"channel": "mista_ed_bundy", "avg_viewers": 5, "followers_gained": 21, "peak_viewers": 18, "hours_streamed": 157, "streams": 25, "mature": 1, "language": "German", "account_age": 1990080.0}

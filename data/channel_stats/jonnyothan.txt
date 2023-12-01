@@ -1,0 +1,1 @@
+{"channel": "jonnyothan", "avg_viewers": 8, "followers_gained": 39, "peak_viewers": 94, "hours_streamed": 73, "streams": 18, "mature": 0, "language": "English", "account_age": 2701440.0}

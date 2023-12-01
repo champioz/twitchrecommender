@@ -1,0 +1,1 @@
+{"channel": "chronor007", "avg_viewers": 5, "followers_gained": 27, "peak_viewers": 22, "hours_streamed": 141, "streams": 22, "mature": 1, "language": "German", "account_age": 3407040.0}

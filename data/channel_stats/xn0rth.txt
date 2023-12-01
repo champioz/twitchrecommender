@@ -1,0 +1,1 @@
+{"channel": "xn0rth", "avg_viewers": 4, "followers_gained": 44, "peak_viewers": 13, "hours_streamed": 181, "streams": 44, "mature": 0, "language": "Polish", "account_age": 3271680.0}

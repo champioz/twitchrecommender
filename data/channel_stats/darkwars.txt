@@ -1,0 +1,1 @@
+{"channel": "darkwars", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 10, "hours_streamed": 23, "streams": 17, "mature": 0, "language": "English", "account_age": 980640.0}

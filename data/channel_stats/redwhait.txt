@@ -1,0 +1,1 @@
+{"channel": "redwhait", "avg_viewers": 261, "followers_gained": 291, "peak_viewers": 667, "hours_streamed": 80, "streams": 21, "mature": 1, "language": "Russian", "account_age": 4070880.0}

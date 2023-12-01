@@ -1,0 +1,1 @@
+{"channel": "rharbona", "avg_viewers": 13, "followers_gained": 59, "peak_viewers": 28, "hours_streamed": 16, "streams": 4, "mature": 0, "language": "Danish", "account_age": 917280.0}

@@ -1,0 +1,1 @@
+{"channel": "seriumtv", "avg_viewers": 148, "followers_gained": 320, "peak_viewers": 1470, "hours_streamed": 206, "streams": 26, "mature": 1, "language": "German", "account_age": 2697120.0}

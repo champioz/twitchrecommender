@@ -1,0 +1,1 @@
+{"channel": "butter870519", "avg_viewers": 60, "followers_gained": 13, "peak_viewers": 125, "hours_streamed": 35, "streams": 9, "mature": 1, "language": "Chinese", "account_age": 1748160.0}

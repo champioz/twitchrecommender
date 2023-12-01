@@ -1,0 +1,1 @@
+{"channel": "earthtoraymond", "avg_viewers": 5, "followers_gained": 27, "peak_viewers": 22, "hours_streamed": 27, "streams": 14, "mature": 0, "language": "English", "account_age": 1992960.0}

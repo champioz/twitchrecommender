@@ -1,0 +1,1 @@
+{"channel": "lmrmanfredl", "avg_viewers": 7, "followers_gained": 21, "peak_viewers": 16, "hours_streamed": 116, "streams": 24, "mature": 1, "language": "English", "account_age": 1579680.0}

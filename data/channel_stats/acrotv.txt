@@ -1,0 +1,1 @@
+{"channel": "acrotv", "avg_viewers": 6, "followers_gained": 40, "peak_viewers": 24, "hours_streamed": 165, "streams": 45, "mature": 0, "language": "English", "account_age": 1569600.0}

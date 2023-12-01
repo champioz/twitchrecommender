@@ -1,0 +1,1 @@
+{"channel": "kalimaci", "avg_viewers": 10, "followers_gained": 13, "peak_viewers": 24, "hours_streamed": 20, "streams": 9, "mature": 1, "language": "Hungarian", "account_age": 1756800.0}

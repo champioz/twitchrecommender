@@ -1,0 +1,1 @@
+{"channel": "wadid", "avg_viewers": 53, "followers_gained": 120, "peak_viewers": 120, "hours_streamed": 25, "streams": 8, "mature": 0, "language": "Korean", "account_age": 1919520.0}

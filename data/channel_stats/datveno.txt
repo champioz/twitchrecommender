@@ -1,0 +1,1 @@
+{"channel": "datveno", "avg_viewers": 8, "followers_gained": 18, "peak_viewers": 131, "hours_streamed": 28, "streams": 12, "mature": 0, "language": "German", "account_age": 1964160.0}

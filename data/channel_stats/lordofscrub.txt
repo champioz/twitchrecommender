@@ -1,0 +1,1 @@
+{"channel": "lordofscrub", "avg_viewers": 1, "followers_gained": 7, "peak_viewers": 7, "hours_streamed": 39, "streams": 13, "mature": 1, "language": "English", "account_age": 2656800.0}

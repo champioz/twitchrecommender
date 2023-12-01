@@ -1,0 +1,1 @@
+{"channel": "gefafawhisp", "avg_viewers": 11, "followers_gained": 69, "peak_viewers": 27, "hours_streamed": 147, "streams": 25, "mature": 0, "language": "English", "account_age": 4402080.0}

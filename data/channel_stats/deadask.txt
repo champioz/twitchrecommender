@@ -1,0 +1,1 @@
+{"channel": "deadask", "avg_viewers": 3, "followers_gained": 6, "peak_viewers": 20, "hours_streamed": 123, "streams": 26, "mature": 1, "language": "Czech", "account_age": 930240.0}

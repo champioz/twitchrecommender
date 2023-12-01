@@ -1,0 +1,1 @@
+{"channel": "khazacs", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 8, "hours_streamed": 31, "streams": 8, "mature": 1, "language": "English", "account_age": 3189600.0}

@@ -1,0 +1,1 @@
+{"channel": "badpachimari", "avg_viewers": 5, "followers_gained": 16, "peak_viewers": 13, "hours_streamed": 3, "streams": 4, "mature": 0, "language": "English", "account_age": 794880.0}

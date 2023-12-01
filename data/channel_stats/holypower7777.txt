@@ -1,0 +1,1 @@
+{"channel": "holypower7777", "avg_viewers": 9, "followers_gained": 9, "peak_viewers": 60, "hours_streamed": 128, "streams": 20, "mature": 0, "language": "Korean", "account_age": 1048320.0}

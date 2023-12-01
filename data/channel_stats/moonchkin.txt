@@ -1,0 +1,1 @@
+{"channel": "moonchkin", "avg_viewers": 24, "followers_gained": 194, "peak_viewers": 64, "hours_streamed": 68, "streams": 13, "mature": 1, "language": "English", "account_age": 2184480.0}

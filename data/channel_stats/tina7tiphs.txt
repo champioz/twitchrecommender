@@ -1,0 +1,1 @@
+{"channel": "tina7tiphs", "avg_viewers": 75, "followers_gained": 142, "peak_viewers": 133, "hours_streamed": 83, "streams": 12, "mature": 1, "language": "Russian", "account_age": 3011040.0}

@@ -1,0 +1,1 @@
+{"channel": "holylordking", "avg_viewers": 7, "followers_gained": 27, "peak_viewers": 17, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "English", "account_age": 1483200.0}

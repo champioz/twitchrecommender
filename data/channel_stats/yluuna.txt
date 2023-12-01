@@ -1,0 +1,1 @@
+{"channel": "yluuna", "avg_viewers": 2, "followers_gained": 29, "peak_viewers": 11, "hours_streamed": 12, "streams": 6, "mature": 0, "language": "English", "account_age": 758880.0}

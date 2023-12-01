@@ -1,0 +1,1 @@
+{"channel": "skl_esports", "avg_viewers": 32, "followers_gained": 58, "peak_viewers": 51, "hours_streamed": 12, "streams": 2, "mature": 0, "language": "English", "account_age": 2175840.0}

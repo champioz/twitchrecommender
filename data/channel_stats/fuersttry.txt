@@ -1,0 +1,1 @@
+{"channel": "fuersttry", "avg_viewers": 23, "followers_gained": 13, "peak_viewers": 53, "hours_streamed": 29, "streams": 7, "mature": 1, "language": "German", "account_age": 781920.0}

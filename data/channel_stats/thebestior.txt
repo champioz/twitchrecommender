@@ -1,0 +1,1 @@
+{"channel": "thebestior", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 2488320.0}

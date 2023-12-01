@@ -1,0 +1,1 @@
+{"channel": "mrksh0w", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 47, "hours_streamed": 53, "streams": 16, "mature": 0, "language": "Spanish", "account_age": 3421440.0}

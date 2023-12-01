@@ -1,0 +1,1 @@
+{"channel": "mycraftisbest", "avg_viewers": 13, "followers_gained": 182, "peak_viewers": 41, "hours_streamed": 85, "streams": 26, "mature": 0, "language": "English", "account_age": 3543840.0}

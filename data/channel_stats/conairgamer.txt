@@ -1,0 +1,1 @@
+{"channel": "conairgamer", "avg_viewers": 2, "followers_gained": 16, "peak_viewers": 11, "hours_streamed": 104, "streams": 39, "mature": 1, "language": "English", "account_age": 1847520.0}

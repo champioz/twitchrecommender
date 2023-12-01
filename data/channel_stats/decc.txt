@@ -1,0 +1,1 @@
+{"channel": "decc", "avg_viewers": 103, "followers_gained": 252, "peak_viewers": 408, "hours_streamed": 129, "streams": 27, "mature": 0, "language": "English", "account_age": 3974400.0}

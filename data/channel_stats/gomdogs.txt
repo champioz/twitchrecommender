@@ -1,0 +1,1 @@
+{"channel": "gomdogs", "avg_viewers": 15, "followers_gained": 76, "peak_viewers": 63, "hours_streamed": 128, "streams": 25, "mature": 0, "language": "Korean", "account_age": 1853280.0}

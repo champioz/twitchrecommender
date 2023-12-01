@@ -1,0 +1,1 @@
+{"channel": "jsr_", "avg_viewers": 43, "followers_gained": 68, "peak_viewers": 267, "hours_streamed": 87, "streams": 24, "mature": 1, "language": "English", "account_age": 1653120.0}

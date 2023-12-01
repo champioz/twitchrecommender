@@ -1,0 +1,1 @@
+{"channel": "parsasn", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 19, "hours_streamed": 10, "streams": 3, "mature": 0, "language": "English", "account_age": 763200.0}

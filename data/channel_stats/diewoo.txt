@@ -1,0 +1,1 @@
+{"channel": "diewoo", "avg_viewers": 23, "followers_gained": 894, "peak_viewers": 708, "hours_streamed": 145, "streams": 11, "mature": 0, "language": "Spanish", "account_age": 1075680.0}

@@ -1,0 +1,1 @@
+{"channel": "coglorin", "avg_viewers": 9, "followers_gained": 6, "peak_viewers": 14, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 2783520.0}

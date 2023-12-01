@@ -1,0 +1,1 @@
+{"channel": "songrequeststream", "avg_viewers": 3, "followers_gained": 37, "peak_viewers": 15, "hours_streamed": 112, "streams": 2, "mature": 0, "language": "English", "account_age": 285120.0}

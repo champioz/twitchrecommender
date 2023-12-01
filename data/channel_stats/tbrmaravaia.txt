@@ -1,0 +1,1 @@
+{"channel": "tbrmaravaia", "avg_viewers": 17, "followers_gained": 13, "peak_viewers": 36, "hours_streamed": 43, "streams": 13, "mature": 0, "language": "Portuguese", "account_age": 1608480.0}

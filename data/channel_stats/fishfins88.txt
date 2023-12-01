@@ -1,0 +1,1 @@
+{"channel": "fishfins88", "avg_viewers": 3, "followers_gained": 13, "peak_viewers": 10, "hours_streamed": 32, "streams": 14, "mature": 1, "language": "English", "account_age": 2970720.0}

@@ -1,0 +1,1 @@
+{"channel": "suoh12", "avg_viewers": 13, "followers_gained": 57, "peak_viewers": 61, "hours_streamed": 99, "streams": 29, "mature": 1, "language": "English", "account_age": 1523520.0}

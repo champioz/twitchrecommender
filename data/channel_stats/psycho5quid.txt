@@ -1,0 +1,1 @@
+{"channel": "psycho5quid", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 12, "streams": 7, "mature": 0, "language": "English", "account_age": 3013920.0}

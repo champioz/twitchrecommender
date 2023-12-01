@@ -1,0 +1,1 @@
+{"channel": "sgtspookie", "avg_viewers": 21, "followers_gained": 343, "peak_viewers": 53, "hours_streamed": 57, "streams": 11, "mature": 1, "language": "English", "account_age": 1221120.0}

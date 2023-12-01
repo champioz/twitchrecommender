@@ -1,0 +1,1 @@
+{"channel": "chipsette_fr", "avg_viewers": 78, "followers_gained": 1195, "peak_viewers": 407, "hours_streamed": 149, "streams": 28, "mature": 1, "language": "French", "account_age": 2062080.0}

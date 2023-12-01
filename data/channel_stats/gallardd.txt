@@ -1,0 +1,1 @@
+{"channel": "gallardd", "avg_viewers": 10, "followers_gained": 57, "peak_viewers": 25, "hours_streamed": 102, "streams": 21, "mature": 1, "language": "Spanish", "account_age": 1496160.0}

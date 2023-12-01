@@ -1,0 +1,1 @@
+{"channel": "aimucosplay", "avg_viewers": 21, "followers_gained": 4, "peak_viewers": 51, "hours_streamed": 26, "streams": 11, "mature": 1, "language": "German", "account_age": 1329120.0}

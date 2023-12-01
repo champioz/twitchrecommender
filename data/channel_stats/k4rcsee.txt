@@ -1,0 +1,1 @@
+{"channel": "k4rcsee", "avg_viewers": 16, "followers_gained": 91, "peak_viewers": 38, "hours_streamed": 70, "streams": 24, "mature": 1, "language": "Hungarian", "account_age": 1938240.0}

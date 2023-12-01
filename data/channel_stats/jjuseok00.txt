@@ -1,0 +1,1 @@
+{"channel": "jjuseok00", "avg_viewers": 24, "followers_gained": 284, "peak_viewers": 53, "hours_streamed": 213, "streams": 33, "mature": 0, "language": "Korean", "account_age": 211680.0}

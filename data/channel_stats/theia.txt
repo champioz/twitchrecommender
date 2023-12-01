@@ -1,0 +1,1 @@
+{"channel": "theia", "avg_viewers": 27, "followers_gained": 64, "peak_viewers": 47, "hours_streamed": 21, "streams": 5, "mature": 0, "language": "English", "account_age": 3185280.0}

@@ -1,0 +1,1 @@
+{"channel": "missnerdycurvy", "avg_viewers": 7, "followers_gained": 127, "peak_viewers": 22, "hours_streamed": 129, "streams": 27, "mature": 1, "language": "English", "account_age": 1029600.0}

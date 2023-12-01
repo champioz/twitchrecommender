@@ -1,0 +1,1 @@
+{"channel": "toastdeib", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 7, "streams": 4, "mature": 0, "language": "English", "account_age": 2780640.0}

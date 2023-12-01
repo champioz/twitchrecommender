@@ -1,0 +1,1 @@
+{"channel": "jubriela", "avg_viewers": 2, "followers_gained": 22, "peak_viewers": 11, "hours_streamed": 17, "streams": 7, "mature": 1, "language": "Portuguese", "account_age": 668160.0}

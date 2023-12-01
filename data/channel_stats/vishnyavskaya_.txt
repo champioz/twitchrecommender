@@ -1,0 +1,1 @@
+{"channel": "vishnyavskaya_", "avg_viewers": 19, "followers_gained": 5, "peak_viewers": 30, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "Russian", "account_age": 1231200.0}

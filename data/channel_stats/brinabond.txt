@@ -1,0 +1,1 @@
+{"channel": "brinabond", "avg_viewers": 10, "followers_gained": 368, "peak_viewers": 35, "hours_streamed": 88, "streams": 21, "mature": 0, "language": "English", "account_age": 360000.0}

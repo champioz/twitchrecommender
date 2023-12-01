@@ -1,0 +1,1 @@
+{"channel": "youngcatail", "avg_viewers": 11, "followers_gained": 9, "peak_viewers": 27, "hours_streamed": 57, "streams": 18, "mature": 1, "language": "Chinese", "account_age": 1617120.0}

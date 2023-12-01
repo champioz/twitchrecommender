@@ -1,0 +1,1 @@
+{"channel": "wolfsbanee", "avg_viewers": 32, "followers_gained": 147, "peak_viewers": 203, "hours_streamed": 127, "streams": 27, "mature": 0, "language": "English", "account_age": 3296160.0}

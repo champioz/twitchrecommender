@@ -1,0 +1,1 @@
+{"channel": "permanent0117", "avg_viewers": 4, "followers_gained": 16, "peak_viewers": 31, "hours_streamed": 103, "streams": 34, "mature": 0, "language": "Chinese", "account_age": 2403360.0}

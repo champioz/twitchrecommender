@@ -1,0 +1,1 @@
+{"channel": "barood", "avg_viewers": 65, "followers_gained": 78, "peak_viewers": 115, "hours_streamed": 10, "streams": 13, "mature": 0, "language": "English", "account_age": 478080.0}

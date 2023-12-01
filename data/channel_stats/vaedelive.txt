@@ -1,0 +1,1 @@
+{"channel": "vaedelive", "avg_viewers": 17, "followers_gained": 7, "peak_viewers": 43, "hours_streamed": 29, "streams": 8, "mature": 0, "language": "English", "account_age": 1624320.0}

@@ -1,0 +1,1 @@
+{"channel": "cpw", "avg_viewers": 23, "followers_gained": 71, "peak_viewers": 41, "hours_streamed": 24, "streams": 8, "mature": 0, "language": "English", "account_age": 2564640.0}

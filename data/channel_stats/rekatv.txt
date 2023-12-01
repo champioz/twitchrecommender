@@ -1,0 +1,1 @@
+{"channel": "rekatv", "avg_viewers": 3, "followers_gained": 33, "peak_viewers": 25, "hours_streamed": 45, "streams": 13, "mature": 1, "language": "Spanish", "account_age": 800640.0}

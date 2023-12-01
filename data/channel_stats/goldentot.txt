@@ -1,0 +1,1 @@
+{"channel": "goldentot", "avg_viewers": 753, "followers_gained": 2420, "peak_viewers": 2212, "hours_streamed": 121, "streams": 20, "mature": 0, "language": "English", "account_age": 4487040.0}

@@ -1,0 +1,1 @@
+{"channel": "bst_ginger", "avg_viewers": 6, "followers_gained": 74, "peak_viewers": 15, "hours_streamed": 141, "streams": 35, "mature": 1, "language": "Dutch", "account_age": 1959840.0}

@@ -1,0 +1,1 @@
+{"channel": "stewartl1ttle", "avg_viewers": 3, "followers_gained": 10, "peak_viewers": 62, "hours_streamed": 118, "streams": 29, "mature": 0, "language": "Russian", "account_age": 2658240.0}

@@ -1,0 +1,1 @@
+{"channel": "adybah", "avg_viewers": 119, "followers_gained": 269, "peak_viewers": 249, "hours_streamed": 117, "streams": 21, "mature": 1, "language": "Russian", "account_age": 3083040.0}

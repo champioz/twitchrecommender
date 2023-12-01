@@ -1,0 +1,1 @@
+{"channel": "pokenursery", "avg_viewers": 31, "followers_gained": 753, "peak_viewers": 70, "hours_streamed": 551, "streams": 5, "mature": 0, "language": "English", "account_age": 1343520.0}

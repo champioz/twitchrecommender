@@ -1,0 +1,1 @@
+{"channel": "and3rsonremix", "avg_viewers": 2, "followers_gained": 60, "peak_viewers": 16, "hours_streamed": 90, "streams": 42, "mature": 1, "language": "Portuguese", "account_age": 1798560.0}

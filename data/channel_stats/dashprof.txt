@@ -1,0 +1,1 @@
+{"channel": "dashprof", "avg_viewers": 61, "followers_gained": 136, "peak_viewers": 94, "hours_streamed": 39, "streams": 18, "mature": 0, "language": "French", "account_age": 3778560.0}

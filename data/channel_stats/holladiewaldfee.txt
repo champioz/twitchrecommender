@@ -1,0 +1,1 @@
+{"channel": "holladiewaldfee", "avg_viewers": 43, "followers_gained": 143, "peak_viewers": 232, "hours_streamed": 91, "streams": 24, "mature": 0, "language": "German", "account_age": 2707200.0}

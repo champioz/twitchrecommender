@@ -1,0 +1,1 @@
+{"channel": "mustafabasal", "avg_viewers": 20, "followers_gained": 322, "peak_viewers": 94, "hours_streamed": 66, "streams": 25, "mature": 0, "language": "Turkish", "account_age": 1553760.0}

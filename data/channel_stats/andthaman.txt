@@ -1,0 +1,1 @@
+{"channel": "andthaman", "avg_viewers": 7, "followers_gained": 7, "peak_viewers": 20, "hours_streamed": 12, "streams": 3, "mature": 1, "language": "Dutch", "account_age": 2613600.0}

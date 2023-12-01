@@ -1,0 +1,1 @@
+{"channel": "andagor", "avg_viewers": 7, "followers_gained": 337, "peak_viewers": 215, "hours_streamed": 82, "streams": 36, "mature": 1, "language": "French", "account_age": 1229760.0}

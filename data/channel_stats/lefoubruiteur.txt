@@ -1,0 +1,1 @@
+{"channel": "lefoubruiteur", "avg_viewers": 1380, "followers_gained": 9973, "peak_viewers": 2259, "hours_streamed": 100, "streams": 24, "mature": 0, "language": "French", "account_age": 2429280.0}

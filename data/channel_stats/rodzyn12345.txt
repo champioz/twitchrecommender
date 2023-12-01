@@ -1,0 +1,1 @@
+{"channel": "rodzyn12345", "avg_viewers": 8, "followers_gained": 8, "peak_viewers": 21, "hours_streamed": 36, "streams": 14, "mature": 1, "language": "Polish", "account_age": 3932640.0}

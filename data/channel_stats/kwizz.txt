@@ -1,0 +1,1 @@
+{"channel": "kwizz", "avg_viewers": 17, "followers_gained": 24, "peak_viewers": 47, "hours_streamed": 33, "streams": 10, "mature": 1, "language": "English", "account_age": 741600.0}

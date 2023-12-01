@@ -1,0 +1,1 @@
+{"channel": "hayace_", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 4, "hours_streamed": 22, "streams": 16, "mature": 1, "language": "German", "account_age": 2129760.0}

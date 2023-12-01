@@ -1,0 +1,1 @@
+{"channel": "airmettick", "avg_viewers": 0, "followers_gained": 14, "peak_viewers": 5, "hours_streamed": 76, "streams": 19, "mature": 1, "language": "French", "account_age": 2360160.0}

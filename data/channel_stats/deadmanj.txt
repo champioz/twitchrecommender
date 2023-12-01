@@ -1,0 +1,1 @@
+{"channel": "deadmanj", "avg_viewers": 8, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 4, "streams": 1, "mature": 1, "language": "English", "account_age": 4214880.0}

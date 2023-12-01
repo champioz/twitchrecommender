@@ -1,0 +1,1 @@
+{"channel": "cammdenns", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 11, "hours_streamed": 95, "streams": 33, "mature": 0, "language": "English", "account_age": 2661120.0}

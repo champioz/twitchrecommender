@@ -1,0 +1,1 @@
+{"channel": "wizja_", "avg_viewers": 95, "followers_gained": 353, "peak_viewers": 235, "hours_streamed": 339, "streams": 31, "mature": 0, "language": "French", "account_age": 2563200.0}

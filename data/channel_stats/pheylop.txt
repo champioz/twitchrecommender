@@ -1,0 +1,1 @@
+{"channel": "pheylop", "avg_viewers": 85, "followers_gained": 61, "peak_viewers": 1000, "hours_streamed": 67, "streams": 13, "mature": 0, "language": "English", "account_age": 3916800.0}

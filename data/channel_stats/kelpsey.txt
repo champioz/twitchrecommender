@@ -1,0 +1,1 @@
+{"channel": "kelpsey", "avg_viewers": 159, "followers_gained": 710, "peak_viewers": 1322, "hours_streamed": 133, "streams": 25, "mature": 0, "language": "English", "account_age": 3408480.0}

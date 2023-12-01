@@ -1,0 +1,1 @@
+{"channel": "schneeieopard", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 13, "streams": 4, "mature": 1, "language": "German", "account_age": 1062720.0}

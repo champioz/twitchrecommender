@@ -1,0 +1,1 @@
+{"channel": "whitekhonovis", "avg_viewers": 26, "followers_gained": 49, "peak_viewers": 49, "hours_streamed": 7, "streams": 3, "mature": 1, "language": "Arabic", "account_age": 699840.0}

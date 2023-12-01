@@ -1,0 +1,1 @@
+{"channel": "giganterichard", "avg_viewers": 60, "followers_gained": 0, "peak_viewers": 60, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "Portuguese", "account_age": 2812320.0}

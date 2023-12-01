@@ -1,0 +1,1 @@
+{"channel": "aweglib", "avg_viewers": 14, "followers_gained": 18, "peak_viewers": 178, "hours_streamed": 61, "streams": 15, "mature": 0, "language": "English", "account_age": 3830400.0}

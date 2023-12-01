@@ -1,0 +1,1 @@
+{"channel": "ymna", "avg_viewers": 25, "followers_gained": 20, "peak_viewers": 41, "hours_streamed": 13, "streams": 5, "mature": 0, "language": "English", "account_age": 3414240.0}

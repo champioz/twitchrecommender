@@ -1,0 +1,1 @@
+{"channel": "forstycup", "avg_viewers": 8, "followers_gained": 12, "peak_viewers": 37, "hours_streamed": 57, "streams": 12, "mature": 1, "language": "English", "account_age": 4492800.0}

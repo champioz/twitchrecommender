@@ -1,0 +1,1 @@
+{"channel": "xchocobars", "avg_viewers": 1519, "followers_gained": 7563, "peak_viewers": 6952, "hours_streamed": 173, "streams": 20, "mature": 0, "language": "English", "account_age": 3307680.0}

@@ -1,0 +1,1 @@
+{"channel": "tolfus", "avg_viewers": 10, "followers_gained": 7, "peak_viewers": 21, "hours_streamed": 31, "streams": 8, "mature": 0, "language": "German", "account_age": 1272960.0}

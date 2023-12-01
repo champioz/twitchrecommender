@@ -1,0 +1,1 @@
+{"channel": "snowirbis13", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 9, "hours_streamed": 28, "streams": 7, "mature": 1, "language": "Russian", "account_age": 1641600.0}

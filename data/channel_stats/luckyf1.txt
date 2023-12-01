@@ -1,0 +1,1 @@
+{"channel": "luckyf1", "avg_viewers": 58, "followers_gained": 87, "peak_viewers": 458, "hours_streamed": 66, "streams": 15, "mature": 1, "language": "Russian", "account_age": 3797280.0}

@@ -1,0 +1,1 @@
+{"channel": "benzsontv", "avg_viewers": 52, "followers_gained": 560, "peak_viewers": 278, "hours_streamed": 140, "streams": 25, "mature": 0, "language": "German", "account_age": 505440.0}

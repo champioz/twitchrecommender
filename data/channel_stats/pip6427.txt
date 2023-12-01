@@ -1,0 +1,1 @@
+{"channel": "pip6427", "avg_viewers": 21, "followers_gained": 40, "peak_viewers": 46, "hours_streamed": 8, "streams": 11, "mature": 0, "language": "Chinese", "account_age": 905760.0}

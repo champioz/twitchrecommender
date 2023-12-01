@@ -1,0 +1,1 @@
+{"channel": "elvisayomastercard", "avg_viewers": 51, "followers_gained": 361, "peak_viewers": 83, "hours_streamed": 38, "streams": 10, "mature": 0, "language": "Spanish", "account_age": 4376160.0}

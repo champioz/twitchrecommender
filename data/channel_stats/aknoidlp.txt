@@ -1,0 +1,1 @@
+{"channel": "aknoidlp", "avg_viewers": 4, "followers_gained": 49, "peak_viewers": 19, "hours_streamed": 53, "streams": 25, "mature": 0, "language": "Spanish", "account_age": 3873600.0}

@@ -1,0 +1,1 @@
+{"channel": "al3xfallman_gr", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 7, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "Greek", "account_age": 1668960.0}

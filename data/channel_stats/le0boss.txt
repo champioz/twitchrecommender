@@ -1,0 +1,1 @@
+{"channel": "le0boss", "avg_viewers": 0, "followers_gained": 27, "peak_viewers": 1, "hours_streamed": 2, "streams": 3, "mature": 0, "language": "German", "account_age": 2662560.0}

@@ -1,0 +1,1 @@
+{"channel": "fh_tv", "avg_viewers": 8, "followers_gained": 28, "peak_viewers": 22, "hours_streamed": 61, "streams": 22, "mature": 0, "language": "French", "account_age": 1738080.0}

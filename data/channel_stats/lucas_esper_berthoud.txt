@@ -1,0 +1,1 @@
+{"channel": "lucas_esper_berthoud", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 33, "hours_streamed": 35, "streams": 20, "mature": 0, "language": "Portuguese", "account_age": 4402080.0}

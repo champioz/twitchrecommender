@@ -1,0 +1,1 @@
+{"channel": "trc_live", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 22, "hours_streamed": 46, "streams": 15, "mature": 0, "language": "Dutch", "account_age": 1054080.0}

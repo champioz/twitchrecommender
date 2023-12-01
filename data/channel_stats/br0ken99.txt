@@ -1,0 +1,1 @@
+{"channel": "br0ken99", "avg_viewers": 36, "followers_gained": 78, "peak_viewers": 261, "hours_streamed": 114, "streams": 21, "mature": 1, "language": "German", "account_age": 3503520.0}

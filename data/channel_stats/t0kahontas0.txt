@@ -1,0 +1,1 @@
+{"channel": "t0kahontas0", "avg_viewers": 3, "followers_gained": 95, "peak_viewers": 17, "hours_streamed": 128, "streams": 43, "mature": 1, "language": "English", "account_age": 378720.0}

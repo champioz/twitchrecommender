@@ -1,0 +1,1 @@
+{"channel": "jvaz8", "avg_viewers": 3, "followers_gained": 8, "peak_viewers": 10, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "Portuguese", "account_age": 2047680.0}

@@ -1,0 +1,1 @@
+{"channel": "atlgas", "avg_viewers": 3, "followers_gained": 23, "peak_viewers": 84, "hours_streamed": 258, "streams": 36, "mature": 1, "language": "English", "account_age": 908640.0}

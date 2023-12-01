@@ -1,0 +1,1 @@
+{"channel": "liljarvis", "avg_viewers": 4246, "followers_gained": 30350, "peak_viewers": 11960, "hours_streamed": 22, "streams": 5, "mature": 0, "language": "English", "account_age": 727200.0}

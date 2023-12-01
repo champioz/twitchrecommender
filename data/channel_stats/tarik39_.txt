@@ -1,0 +1,1 @@
+{"channel": "tarik39_", "avg_viewers": 23, "followers_gained": 196, "peak_viewers": 95, "hours_streamed": 84, "streams": 27, "mature": 0, "language": "French", "account_age": 2070720.0}

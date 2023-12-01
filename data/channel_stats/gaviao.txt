@@ -1,0 +1,1 @@
+{"channel": "gaviao", "avg_viewers": 10, "followers_gained": 227, "peak_viewers": 38, "hours_streamed": 185, "streams": 26, "mature": 0, "language": "Portuguese", "account_age": 1939680.0}

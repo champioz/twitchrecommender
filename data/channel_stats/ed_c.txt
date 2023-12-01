@@ -1,0 +1,1 @@
+{"channel": "ed_c", "avg_viewers": 4, "followers_gained": 7, "peak_viewers": 10, "hours_streamed": 17, "streams": 5, "mature": 0, "language": "English", "account_age": 2067840.0}

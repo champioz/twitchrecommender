@@ -1,0 +1,1 @@
+{"channel": "kugothemighty", "avg_viewers": 142, "followers_gained": 1230, "peak_viewers": 287, "hours_streamed": 28, "streams": 10, "mature": 0, "language": "English", "account_age": 3139200.0}

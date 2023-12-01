@@ -1,0 +1,1 @@
+{"channel": "fknmiracles", "avg_viewers": 25, "followers_gained": 46, "peak_viewers": 88, "hours_streamed": 72, "streams": 17, "mature": 1, "language": "English", "account_age": 1969920.0}

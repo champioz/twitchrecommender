@@ -1,0 +1,1 @@
+{"channel": "blackkrystel", "avg_viewers": 14, "followers_gained": 23, "peak_viewers": 47, "hours_streamed": 11, "streams": 4, "mature": 0, "language": "English", "account_age": 4121280.0}

@@ -1,0 +1,1 @@
+{"channel": "dimastal", "avg_viewers": 7, "followers_gained": 6, "peak_viewers": 16, "hours_streamed": 10, "streams": 4, "mature": 0, "language": "Russian", "account_age": 3251520.0}

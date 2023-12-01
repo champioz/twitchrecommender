@@ -1,0 +1,1 @@
+{"channel": "oldis", "avg_viewers": 3, "followers_gained": 11, "peak_viewers": 24, "hours_streamed": 40, "streams": 19, "mature": 0, "language": "Russian", "account_age": 1638720.0}

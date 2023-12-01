@@ -1,0 +1,1 @@
+{"channel": "shiganari", "avg_viewers": 45, "followers_gained": 14, "peak_viewers": 76, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "English", "account_age": 1196640.0}

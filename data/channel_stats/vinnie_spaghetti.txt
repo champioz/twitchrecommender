@@ -1,0 +1,1 @@
+{"channel": "vinnie_spaghetti", "avg_viewers": 12, "followers_gained": 32, "peak_viewers": 344, "hours_streamed": 90, "streams": 18, "mature": 0, "language": "English", "account_age": 3127680.0}

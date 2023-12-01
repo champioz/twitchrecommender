@@ -1,0 +1,1 @@
+{"channel": "emqill", "avg_viewers": 28, "followers_gained": 87, "peak_viewers": 49, "hours_streamed": 65, "streams": 18, "mature": 0, "language": "English", "account_age": 2086560.0}

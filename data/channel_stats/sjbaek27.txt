@@ -1,0 +1,1 @@
+{"channel": "sjbaek27", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "Korean", "account_age": 1275840.0}

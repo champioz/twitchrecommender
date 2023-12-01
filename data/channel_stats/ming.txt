@@ -1,0 +1,1 @@
+{"channel": "ming", "avg_viewers": 142, "followers_gained": 693, "peak_viewers": 899, "hours_streamed": 190, "streams": 30, "mature": 1, "language": "English", "account_age": 3407040.0}

@@ -1,0 +1,1 @@
+{"channel": "mypetdiary", "avg_viewers": 89, "followers_gained": 124, "peak_viewers": 172, "hours_streamed": 14, "streams": 5, "mature": 0, "language": "Korean", "account_age": 1185120.0}

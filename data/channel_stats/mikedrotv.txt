@@ -1,0 +1,1 @@
+{"channel": "mikedrotv", "avg_viewers": 36, "followers_gained": 168, "peak_viewers": 125, "hours_streamed": 51, "streams": 17, "mature": 0, "language": "English", "account_age": 910080.0}

@@ -1,0 +1,1 @@
+{"channel": "bmilitant", "avg_viewers": 1, "followers_gained": 29, "peak_viewers": 17, "hours_streamed": 100, "streams": 26, "mature": 0, "language": "English", "account_age": 3451680.0}

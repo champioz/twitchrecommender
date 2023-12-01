@@ -1,0 +1,1 @@
+{"channel": "comrichard", "avg_viewers": 19, "followers_gained": 55, "peak_viewers": 85, "hours_streamed": 36, "streams": 16, "mature": 0, "language": "Russian", "account_age": 3168000.0}

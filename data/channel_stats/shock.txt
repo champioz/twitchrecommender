@@ -1,0 +1,1 @@
+{"channel": "shock", "avg_viewers": 28, "followers_gained": 22, "peak_viewers": 221, "hours_streamed": 18, "streams": 8, "mature": 0, "language": "English", "account_age": 3453120.0}

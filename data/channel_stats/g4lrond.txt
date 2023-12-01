@@ -1,0 +1,1 @@
+{"channel": "g4lrond", "avg_viewers": 9, "followers_gained": 55, "peak_viewers": 26, "hours_streamed": 195, "streams": 33, "mature": 1, "language": "Polish", "account_age": 1697760.0}

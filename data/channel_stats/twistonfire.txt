@@ -1,0 +1,1 @@
+{"channel": "twistonfire", "avg_viewers": 443, "followers_gained": 137, "peak_viewers": 751, "hours_streamed": 176, "streams": 21, "mature": 0, "language": "German", "account_age": 2524320.0}

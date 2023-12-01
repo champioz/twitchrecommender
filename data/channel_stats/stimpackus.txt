@@ -1,0 +1,1 @@
+{"channel": "stimpackus", "avg_viewers": 3, "followers_gained": 11, "peak_viewers": 9, "hours_streamed": 96, "streams": 29, "mature": 1, "language": "French", "account_age": 1661760.0}

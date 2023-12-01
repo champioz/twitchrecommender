@@ -1,0 +1,1 @@
+{"channel": "scottyshoots", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 38, "hours_streamed": 44, "streams": 22, "mature": 0, "language": "English", "account_age": 2855520.0}

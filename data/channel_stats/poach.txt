@@ -1,0 +1,1 @@
+{"channel": "poach", "avg_viewers": 814, "followers_gained": 1598, "peak_viewers": 1199, "hours_streamed": 17, "streams": 2, "mature": 0, "language": "English", "account_age": 3209760.0}

@@ -1,0 +1,1 @@
+{"channel": "marduk879", "avg_viewers": 9, "followers_gained": 1, "peak_viewers": 13, "hours_streamed": 2, "streams": 1, "mature": 1, "language": "Czech", "account_age": 3368160.0}

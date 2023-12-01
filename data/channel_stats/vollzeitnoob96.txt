@@ -1,0 +1,1 @@
+{"channel": "vollzeitnoob96", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 6, "hours_streamed": 20, "streams": 8, "mature": 0, "language": "German", "account_age": 609120.0}

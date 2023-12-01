@@ -1,0 +1,1 @@
+{"channel": "curvyelephant", "avg_viewers": 918, "followers_gained": 1822, "peak_viewers": 4949, "hours_streamed": 237, "streams": 28, "mature": 0, "language": "English", "account_age": 1437120.0}

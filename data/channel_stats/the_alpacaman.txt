@@ -1,0 +1,1 @@
+{"channel": "the_alpacaman", "avg_viewers": 2, "followers_gained": 15, "peak_viewers": 17, "hours_streamed": 107, "streams": 71, "mature": 1, "language": "English", "account_age": 3178080.0}

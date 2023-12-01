@@ -1,0 +1,1 @@
+{"channel": "greekliongaming", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 13, "hours_streamed": 121, "streams": 21, "mature": 0, "language": "German", "account_age": 1877760.0}

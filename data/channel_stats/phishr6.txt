@@ -1,0 +1,1 @@
+{"channel": "phishr6", "avg_viewers": 33, "followers_gained": 171, "peak_viewers": 101, "hours_streamed": 43, "streams": 17, "mature": 0, "language": "English", "account_age": 1177920.0}

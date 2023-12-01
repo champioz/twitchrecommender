@@ -1,0 +1,1 @@
+{"channel": "daveconone", "avg_viewers": 3, "followers_gained": 16, "peak_viewers": 22, "hours_streamed": 131, "streams": 26, "mature": 1, "language": "German", "account_age": 1720800.0}

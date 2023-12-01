@@ -1,0 +1,1 @@
+{"channel": "patsam01", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 11, "hours_streamed": 23, "streams": 6, "mature": 0, "language": "English", "account_age": 724320.0}

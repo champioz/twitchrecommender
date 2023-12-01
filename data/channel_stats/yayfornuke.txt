@@ -1,0 +1,1 @@
+{"channel": "yayfornuke", "avg_viewers": 5, "followers_gained": 38, "peak_viewers": 12, "hours_streamed": 64, "streams": 18, "mature": 1, "language": "English", "account_age": 3072960.0}

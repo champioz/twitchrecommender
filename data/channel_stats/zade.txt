@@ -1,0 +1,1 @@
+{"channel": "zade", "avg_viewers": 1344, "followers_gained": 7333, "peak_viewers": 4853, "hours_streamed": 66, "streams": 17, "mature": 0, "language": "Turkish", "account_age": 3072960.0}

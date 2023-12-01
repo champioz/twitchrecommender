@@ -1,0 +1,1 @@
+{"channel": "nobor", "avg_viewers": 23, "followers_gained": 183, "peak_viewers": 69, "hours_streamed": 140, "streams": 43, "mature": 1, "language": "Hungarian", "account_age": 1098720.0}

@@ -1,0 +1,1 @@
+{"channel": "mirakysa", "avg_viewers": 48, "followers_gained": 788, "peak_viewers": 122, "hours_streamed": 62, "streams": 18, "mature": 1, "language": "German", "account_age": 1969920.0}

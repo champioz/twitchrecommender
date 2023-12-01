@@ -1,0 +1,1 @@
+{"channel": "sopamanxx", "avg_viewers": 4, "followers_gained": 11, "peak_viewers": 13, "hours_streamed": 74, "streams": 24, "mature": 0, "language": "English", "account_age": 650880.0}

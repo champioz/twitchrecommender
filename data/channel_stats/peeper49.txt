@@ -1,0 +1,1 @@
+{"channel": "peeper49", "avg_viewers": 7, "followers_gained": 14, "peak_viewers": 39, "hours_streamed": 39, "streams": 16, "mature": 1, "language": "English", "account_age": 982080.0}

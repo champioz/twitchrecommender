@@ -1,0 +1,1 @@
+{"channel": "shadowappleslive", "avg_viewers": 135, "followers_gained": 2465, "peak_viewers": 687, "hours_streamed": 34, "streams": 19, "mature": 0, "language": "English", "account_age": 2214720.0}

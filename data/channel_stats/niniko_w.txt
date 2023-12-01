@@ -1,0 +1,1 @@
+{"channel": "niniko_w", "avg_viewers": 709, "followers_gained": 20, "peak_viewers": 1173, "hours_streamed": 24, "streams": 8, "mature": 0, "language": "Chinese", "account_age": 2063520.0}

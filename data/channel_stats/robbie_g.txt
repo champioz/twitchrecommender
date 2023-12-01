@@ -1,0 +1,1 @@
+{"channel": "robbie_g", "avg_viewers": 18, "followers_gained": 124, "peak_viewers": 60, "hours_streamed": 174, "streams": 22, "mature": 0, "language": "Romanian", "account_age": 1216800.0}

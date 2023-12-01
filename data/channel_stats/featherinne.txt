@@ -1,0 +1,1 @@
+{"channel": "featherinne", "avg_viewers": 19, "followers_gained": 26, "peak_viewers": 66, "hours_streamed": 67, "streams": 12, "mature": 1, "language": "English", "account_age": 1121760.0}

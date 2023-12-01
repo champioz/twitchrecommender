@@ -1,0 +1,1 @@
+{"channel": "frenchgirlgaming", "avg_viewers": 8, "followers_gained": 35, "peak_viewers": 26, "hours_streamed": 70, "streams": 18, "mature": 0, "language": "English", "account_age": 2367360.0}

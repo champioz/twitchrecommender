@@ -1,0 +1,1 @@
+{"channel": "brodatv", "avg_viewers": 44, "followers_gained": 20, "peak_viewers": 176, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Polish", "account_age": 3440160.0}

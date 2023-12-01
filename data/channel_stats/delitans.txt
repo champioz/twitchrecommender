@@ -1,0 +1,1 @@
+{"channel": "delitans", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 38, "hours_streamed": 89, "streams": 22, "mature": 1, "language": "Russian", "account_age": 2417760.0}

@@ -1,0 +1,1 @@
+{"channel": "boomsterjoe", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 68, "streams": 9, "mature": 0, "language": "English", "account_age": 4612320.0}

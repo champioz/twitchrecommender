@@ -1,0 +1,1 @@
+{"channel": "misterfuma", "avg_viewers": 7, "followers_gained": 70, "peak_viewers": 26, "hours_streamed": 66, "streams": 25, "mature": 0, "language": "German", "account_age": 1471680.0}

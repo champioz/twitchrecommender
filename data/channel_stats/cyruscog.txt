@@ -1,0 +1,1 @@
+{"channel": "cyruscog", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 15, "hours_streamed": 58, "streams": 25, "mature": 1, "language": "Chinese", "account_age": 852480.0}

@@ -1,0 +1,1 @@
+{"channel": "chainstay1209", "avg_viewers": 15, "followers_gained": 59, "peak_viewers": 35, "hours_streamed": 29, "streams": 11, "mature": 1, "language": "Chinese", "account_age": 4121280.0}

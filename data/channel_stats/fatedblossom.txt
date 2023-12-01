@@ -1,0 +1,1 @@
+{"channel": "fatedblossom", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 18, "hours_streamed": 56, "streams": 26, "mature": 1, "language": "English", "account_age": 1340640.0}

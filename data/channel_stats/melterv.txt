@@ -1,0 +1,1 @@
+{"channel": "melterv", "avg_viewers": 20, "followers_gained": 30, "peak_viewers": 57, "hours_streamed": 17, "streams": 6, "mature": 1, "language": "Spanish", "account_age": 2764800.0}

@@ -1,0 +1,1 @@
+{"channel": "the_gaming_galleon", "avg_viewers": 9, "followers_gained": 26, "peak_viewers": 32, "hours_streamed": 35, "streams": 18, "mature": 0, "language": "English", "account_age": 2198880.0}

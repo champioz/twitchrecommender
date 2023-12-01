@@ -1,0 +1,1 @@
+{"channel": "yoroonim", "avg_viewers": 18, "followers_gained": 30, "peak_viewers": 26, "hours_streamed": 6, "streams": 5, "mature": 0, "language": "Korean", "account_age": 1044000.0}

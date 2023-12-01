@@ -1,0 +1,1 @@
+{"channel": "stylishnoob4", "avg_viewers": 7183, "followers_gained": 5905, "peak_viewers": 13154, "hours_streamed": 101, "streams": 20, "mature": 0, "language": "Japanese", "account_age": 3021120.0}

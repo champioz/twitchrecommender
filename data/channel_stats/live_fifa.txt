@@ -1,0 +1,1 @@
+{"channel": "live_fifa", "avg_viewers": 9, "followers_gained": 116, "peak_viewers": 36, "hours_streamed": 340, "streams": 50, "mature": 0, "language": "Russian", "account_age": 465120.0}

@@ -1,0 +1,1 @@
+{"channel": "julivavilova", "avg_viewers": 33, "followers_gained": 230, "peak_viewers": 95, "hours_streamed": 84, "streams": 27, "mature": 0, "language": "English", "account_age": 2491200.0}

@@ -1,0 +1,1 @@
+{"channel": "bluekandy", "avg_viewers": 29, "followers_gained": 25, "peak_viewers": 92, "hours_streamed": 31, "streams": 7, "mature": 0, "language": "English", "account_age": 3404160.0}

@@ -1,0 +1,1 @@
+{"channel": "wayward", "avg_viewers": 112, "followers_gained": 657, "peak_viewers": 464, "hours_streamed": 18, "streams": 5, "mature": 1, "language": "English", "account_age": 2707200.0}

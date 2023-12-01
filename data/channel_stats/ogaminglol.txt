@@ -1,0 +1,1 @@
+{"channel": "ogaminglol", "avg_viewers": 1744, "followers_gained": 4062, "peak_viewers": 14643, "hours_streamed": 736, "streams": 11, "mature": 0, "language": "French", "account_age": 2551680.0}

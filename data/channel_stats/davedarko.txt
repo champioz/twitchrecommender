@@ -1,0 +1,1 @@
+{"channel": "davedarko", "avg_viewers": 22, "followers_gained": 45, "peak_viewers": 53, "hours_streamed": 87, "streams": 38, "mature": 0, "language": "Italian", "account_age": 2031840.0}

@@ -1,0 +1,1 @@
+{"channel": "finnix95", "avg_viewers": 4, "followers_gained": 21, "peak_viewers": 17, "hours_streamed": 98, "streams": 14, "mature": 1, "language": "German", "account_age": 1844640.0}

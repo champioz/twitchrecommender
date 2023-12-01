@@ -1,0 +1,1 @@
+{"channel": "khazeo", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 21, "streams": 6, "mature": 1, "language": "French", "account_age": 2376000.0}

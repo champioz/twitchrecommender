@@ -1,0 +1,1 @@
+{"channel": "jagui89", "avg_viewers": 3, "followers_gained": 43, "peak_viewers": 13, "hours_streamed": 61, "streams": 16, "mature": 1, "language": "Spanish", "account_age": 4891680.0}

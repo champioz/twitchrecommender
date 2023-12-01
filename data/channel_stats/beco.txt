@@ -1,0 +1,1 @@
+{"channel": "beco", "avg_viewers": 59, "followers_gained": 22, "peak_viewers": 102, "hours_streamed": 43, "streams": 14, "mature": 0, "language": "English", "account_age": 3268800.0}

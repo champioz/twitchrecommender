@@ -1,0 +1,1 @@
+{"channel": "d4rw1n", "avg_viewers": 14, "followers_gained": 31, "peak_viewers": 46, "hours_streamed": 45, "streams": 11, "mature": 0, "language": "English", "account_age": 3720960.0}

@@ -1,0 +1,1 @@
+{"channel": "luciddream", "avg_viewers": 50, "followers_gained": 49, "peak_viewers": 127, "hours_streamed": 122, "streams": 25, "mature": 1, "language": "English", "account_age": 1069920.0}

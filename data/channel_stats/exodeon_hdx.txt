@@ -1,0 +1,1 @@
+{"channel": "exodeon_hdx", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 6, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "German", "account_age": 2746080.0}

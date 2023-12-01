@@ -1,0 +1,1 @@
+{"channel": "nyquillis_dillwad", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 2, "hours_streamed": 2, "streams": 3, "mature": 1, "language": "English", "account_age": 2570400.0}

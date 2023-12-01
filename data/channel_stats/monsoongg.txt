@@ -1,0 +1,1 @@
+{"channel": "monsoongg", "avg_viewers": 47, "followers_gained": 955, "peak_viewers": 1508, "hours_streamed": 104, "streams": 30, "mature": 1, "language": "English", "account_age": 1411200.0}

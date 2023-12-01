@@ -1,0 +1,1 @@
+{"channel": "fatguyfuntime", "avg_viewers": 23, "followers_gained": 50, "peak_viewers": 55, "hours_streamed": 120, "streams": 36, "mature": 0, "language": "English", "account_age": 1402560.0}

@@ -1,0 +1,1 @@
+{"channel": "cathisrad", "avg_viewers": 57, "followers_gained": 216, "peak_viewers": 109, "hours_streamed": 94, "streams": 21, "mature": 1, "language": "English", "account_age": 4052160.0}

@@ -1,0 +1,1 @@
+{"channel": "helixflame", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 16, "hours_streamed": 16, "streams": 7, "mature": 0, "language": "English", "account_age": 2681280.0}

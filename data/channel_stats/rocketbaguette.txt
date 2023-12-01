@@ -1,0 +1,1 @@
+{"channel": "rocketbaguette", "avg_viewers": 300, "followers_gained": 634, "peak_viewers": 1494, "hours_streamed": 22, "streams": 7, "mature": 0, "language": "French", "account_age": 1435680.0}

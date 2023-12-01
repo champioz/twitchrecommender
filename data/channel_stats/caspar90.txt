@@ -1,0 +1,1 @@
+{"channel": "caspar90", "avg_viewers": 12, "followers_gained": 27, "peak_viewers": 31, "hours_streamed": 62, "streams": 19, "mature": 1, "language": "German", "account_age": 3286080.0}

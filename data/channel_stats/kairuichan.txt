@@ -1,0 +1,1 @@
+{"channel": "kairuichan", "avg_viewers": 93, "followers_gained": 370, "peak_viewers": 160, "hours_streamed": 55, "streams": 14, "mature": 1, "language": "English", "account_age": 3450240.0}

@@ -1,0 +1,1 @@
+{"channel": "searchdesu", "avg_viewers": 35, "followers_gained": 5, "peak_viewers": 82, "hours_streamed": 135, "streams": 25, "mature": 0, "language": "Japanese", "account_age": 1545120.0}

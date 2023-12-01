@@ -1,0 +1,1 @@
+{"channel": "gtamen", "avg_viewers": 88, "followers_gained": 1621, "peak_viewers": 960, "hours_streamed": 102, "streams": 26, "mature": 0, "language": "English", "account_age": 5924160.0}

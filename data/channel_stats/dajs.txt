@@ -1,0 +1,1 @@
+{"channel": "dajs", "avg_viewers": 8, "followers_gained": 79, "peak_viewers": 29, "hours_streamed": 23, "streams": 19, "mature": 0, "language": "English", "account_age": 1447200.0}

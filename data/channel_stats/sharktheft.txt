@@ -1,0 +1,1 @@
+{"channel": "sharktheft", "avg_viewers": 9, "followers_gained": 21, "peak_viewers": 229, "hours_streamed": 61, "streams": 9, "mature": 0, "language": "English", "account_age": 2088000.0}

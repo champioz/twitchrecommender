@@ -1,0 +1,1 @@
+{"channel": "goldbirds", "avg_viewers": 8, "followers_gained": 53, "peak_viewers": 34, "hours_streamed": 41, "streams": 13, "mature": 0, "language": "English", "account_age": 1625760.0}

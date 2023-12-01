@@ -1,0 +1,1 @@
+{"channel": "franzcorr", "avg_viewers": 7, "followers_gained": 14, "peak_viewers": 19, "hours_streamed": 16, "streams": 12, "mature": 0, "language": "English", "account_age": 1743840.0}

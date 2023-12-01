@@ -1,0 +1,1 @@
+{"channel": "sand_wic", "avg_viewers": 8, "followers_gained": 29, "peak_viewers": 34, "hours_streamed": 7, "streams": 6, "mature": 0, "language": "English", "account_age": 835200.0}

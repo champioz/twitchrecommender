@@ -1,0 +1,1 @@
+{"channel": "tobacco29", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 11, "hours_streamed": 64, "streams": 22, "mature": 1, "language": "Russian", "account_age": 2001600.0}

@@ -1,0 +1,1 @@
+{"channel": "zerogaming", "avg_viewers": 97, "followers_gained": 95, "peak_viewers": 153, "hours_streamed": 84, "streams": 14, "mature": 1, "language": "Czech", "account_age": 3026880.0}

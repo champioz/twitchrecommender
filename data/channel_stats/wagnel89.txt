@@ -1,0 +1,1 @@
+{"channel": "wagnel89", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 11, "hours_streamed": 17, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 564480.0}

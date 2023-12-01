@@ -1,0 +1,1 @@
+{"channel": "xlaur3n", "avg_viewers": 26, "followers_gained": 272, "peak_viewers": 58, "hours_streamed": 33, "streams": 11, "mature": 0, "language": "Italian", "account_age": 1353600.0}

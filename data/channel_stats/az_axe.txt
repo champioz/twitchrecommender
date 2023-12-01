@@ -1,0 +1,1 @@
+{"channel": "az_axe", "avg_viewers": 336, "followers_gained": 978, "peak_viewers": 2089, "hours_streamed": 80, "streams": 26, "mature": 0, "language": "English", "account_age": 2167200.0}

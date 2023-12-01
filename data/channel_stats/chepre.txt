@@ -1,0 +1,1 @@
+{"channel": "chepre", "avg_viewers": 6, "followers_gained": 28, "peak_viewers": 20, "hours_streamed": 136, "streams": 22, "mature": 1, "language": "German", "account_age": 1620000.0}

@@ -1,0 +1,1 @@
+{"channel": "slavik_odessit", "avg_viewers": 22, "followers_gained": 2, "peak_viewers": 38, "hours_streamed": 13, "streams": 4, "mature": 0, "language": "Russian", "account_age": 3497760.0}

@@ -1,0 +1,1 @@
+{"channel": "drlovi", "avg_viewers": 3, "followers_gained": 1545, "peak_viewers": 12, "hours_streamed": 270, "streams": 52, "mature": 1, "language": "German", "account_age": 2603520.0}

@@ -1,0 +1,1 @@
+{"channel": "chithena", "avg_viewers": 5, "followers_gained": 5, "peak_viewers": 13, "hours_streamed": 30, "streams": 11, "mature": 1, "language": "English", "account_age": 1776960.0}

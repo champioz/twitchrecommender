@@ -1,0 +1,1 @@
+{"channel": "krampott", "avg_viewers": 2, "followers_gained": 32, "peak_viewers": 10, "hours_streamed": 80, "streams": 34, "mature": 0, "language": "French", "account_age": 1055520.0}

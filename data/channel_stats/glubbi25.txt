@@ -1,0 +1,1 @@
+{"channel": "glubbi25", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 12, "hours_streamed": 42, "streams": 24, "mature": 1, "language": "German", "account_age": 2188800.0}

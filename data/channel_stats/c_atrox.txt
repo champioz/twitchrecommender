@@ -1,0 +1,1 @@
+{"channel": "c_atrox", "avg_viewers": 57, "followers_gained": 91, "peak_viewers": 236, "hours_streamed": 72, "streams": 14, "mature": 1, "language": "English", "account_age": 1169280.0}

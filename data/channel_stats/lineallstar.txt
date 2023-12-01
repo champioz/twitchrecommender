@@ -1,0 +1,1 @@
+{"channel": "lineallstar", "avg_viewers": 32, "followers_gained": 613, "peak_viewers": 216, "hours_streamed": 187, "streams": 31, "mature": 1, "language": "Portuguese", "account_age": 2865600.0}

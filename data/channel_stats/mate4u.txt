@@ -1,0 +1,1 @@
+{"channel": "mate4u", "avg_viewers": 7, "followers_gained": 23, "peak_viewers": 32, "hours_streamed": 25, "streams": 8, "mature": 1, "language": "German", "account_age": 1877760.0}

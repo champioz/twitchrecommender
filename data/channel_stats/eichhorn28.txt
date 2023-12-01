@@ -1,0 +1,1 @@
+{"channel": "eichhorn28", "avg_viewers": 1, "followers_gained": 4, "peak_viewers": 7, "hours_streamed": 24, "streams": 8, "mature": 0, "language": "German", "account_age": 185760.0}

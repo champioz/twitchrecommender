@@ -1,0 +1,1 @@
+{"channel": "lexahraje", "avg_viewers": 9, "followers_gained": 19, "peak_viewers": 47, "hours_streamed": 27, "streams": 14, "mature": 0, "language": "Czech", "account_age": 1820160.0}

@@ -1,0 +1,1 @@
+{"channel": "how2gg", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 13, "hours_streamed": 14, "streams": 10, "mature": 0, "language": "Japanese", "account_age": 2108160.0}

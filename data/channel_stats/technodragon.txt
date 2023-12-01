@@ -1,0 +1,1 @@
+{"channel": "technodragon", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 30, "hours_streamed": 111, "streams": 13, "mature": 1, "language": "German", "account_age": 3771360.0}

@@ -1,0 +1,1 @@
+{"channel": "jaytofficiel", "avg_viewers": 4, "followers_gained": 2, "peak_viewers": 15, "hours_streamed": 15, "streams": 4, "mature": 1, "language": "French", "account_age": 721440.0}

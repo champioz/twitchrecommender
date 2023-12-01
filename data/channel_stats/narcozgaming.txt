@@ -1,0 +1,1 @@
+{"channel": "narcozgaming", "avg_viewers": 23, "followers_gained": 7169, "peak_viewers": 251, "hours_streamed": 19, "streams": 12, "mature": 0, "language": "English", "account_age": 1872000.0}

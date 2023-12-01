@@ -1,0 +1,1 @@
+{"channel": "nightpy", "avg_viewers": 1, "followers_gained": 23, "peak_viewers": 11, "hours_streamed": 134, "streams": 34, "mature": 0, "language": "Korean", "account_age": 450720.0}

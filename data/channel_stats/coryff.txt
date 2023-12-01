@@ -1,0 +1,1 @@
+{"channel": "coryff", "avg_viewers": 54, "followers_gained": 410, "peak_viewers": 332, "hours_streamed": 20, "streams": 6, "mature": 0, "language": "English", "account_age": 842400.0}

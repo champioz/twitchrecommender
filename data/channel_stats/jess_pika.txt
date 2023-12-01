@@ -1,0 +1,1 @@
+{"channel": "jess_pika", "avg_viewers": 11, "followers_gained": 2447, "peak_viewers": 28, "hours_streamed": 45, "streams": 18, "mature": 1, "language": "Italian", "account_age": 704160.0}

@@ -1,0 +1,1 @@
+{"channel": "kukuro1", "avg_viewers": 1, "followers_gained": 11, "peak_viewers": 4, "hours_streamed": 52, "streams": 46, "mature": 0, "language": "Arabic", "account_age": 450720.0}

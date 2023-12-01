@@ -1,0 +1,1 @@
+{"channel": "masterhandgaming", "avg_viewers": 94, "followers_gained": 91, "peak_viewers": 351, "hours_streamed": 14, "streams": 6, "mature": 0, "language": "English", "account_age": 1681920.0}

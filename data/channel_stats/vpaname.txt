@@ -1,0 +1,1 @@
+{"channel": "vpaname", "avg_viewers": 9, "followers_gained": 94, "peak_viewers": 49, "hours_streamed": 192, "streams": 27, "mature": 1, "language": "Russian", "account_age": 3032640.0}

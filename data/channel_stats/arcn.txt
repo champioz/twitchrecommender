@@ -1,0 +1,1 @@
+{"channel": "arcn", "avg_viewers": 66, "followers_gained": 869, "peak_viewers": 203, "hours_streamed": 82, "streams": 20, "mature": 0, "language": "English", "account_age": 2200320.0}

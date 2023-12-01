@@ -1,0 +1,1 @@
+{"channel": "onlymanda", "avg_viewers": 32, "followers_gained": 366, "peak_viewers": 104, "hours_streamed": 69, "streams": 17, "mature": 0, "language": "English", "account_age": 2164320.0}

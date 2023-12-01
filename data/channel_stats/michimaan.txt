@@ -1,0 +1,1 @@
+{"channel": "michimaan", "avg_viewers": 11, "followers_gained": 14, "peak_viewers": 69, "hours_streamed": 32, "streams": 8, "mature": 1, "language": "German", "account_age": 3862080.0}

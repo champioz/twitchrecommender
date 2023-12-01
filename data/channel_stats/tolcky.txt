@@ -1,0 +1,1 @@
+{"channel": "tolcky", "avg_viewers": 5, "followers_gained": 227, "peak_viewers": 31, "hours_streamed": 149, "streams": 26, "mature": 1, "language": "Portuguese", "account_age": 240480.0}

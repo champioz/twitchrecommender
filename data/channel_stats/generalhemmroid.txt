@@ -1,0 +1,1 @@
+{"channel": "generalhemmroid", "avg_viewers": 16, "followers_gained": 132, "peak_viewers": 47, "hours_streamed": 92, "streams": 26, "mature": 0, "language": "English", "account_age": 289440.0}

@@ -1,0 +1,1 @@
+{"channel": "buomorallez", "avg_viewers": 267, "followers_gained": 2582, "peak_viewers": 615, "hours_streamed": 154, "streams": 26, "mature": 1, "language": "Portuguese", "account_age": 599040.0}

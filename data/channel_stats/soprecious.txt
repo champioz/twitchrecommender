@@ -1,0 +1,1 @@
+{"channel": "soprecious", "avg_viewers": 146, "followers_gained": 685, "peak_viewers": 282, "hours_streamed": 181, "streams": 28, "mature": 0, "language": "Turkish", "account_age": 2449440.0}

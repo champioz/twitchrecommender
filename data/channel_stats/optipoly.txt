@@ -1,0 +1,1 @@
+{"channel": "optipoly", "avg_viewers": 9, "followers_gained": 54, "peak_viewers": 41, "hours_streamed": 74, "streams": 13, "mature": 1, "language": "English", "account_age": 1867680.0}

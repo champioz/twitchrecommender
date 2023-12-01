@@ -1,0 +1,1 @@
+{"channel": "sakaki1234", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 14, "hours_streamed": 138, "streams": 19, "mature": 0, "language": "Japanese", "account_age": 542880.0}

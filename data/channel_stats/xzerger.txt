@@ -1,0 +1,1 @@
+{"channel": "xzerger", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 13, "hours_streamed": 7, "streams": 2, "mature": 1, "language": "Russian", "account_age": 4305600.0}

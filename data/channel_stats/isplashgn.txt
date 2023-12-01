@@ -1,0 +1,1 @@
+{"channel": "isplashgn", "avg_viewers": 3, "followers_gained": 30, "peak_viewers": 20, "hours_streamed": 9, "streams": 10, "mature": 0, "language": "English", "account_age": 1255680.0}

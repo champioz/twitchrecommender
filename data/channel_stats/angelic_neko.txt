@@ -1,0 +1,1 @@
+{"channel": "angelic_neko", "avg_viewers": 8, "followers_gained": 135, "peak_viewers": 49, "hours_streamed": 255, "streams": 35, "mature": 1, "language": "English", "account_age": 2759040.0}

@@ -1,0 +1,1 @@
+{"channel": "ssozung", "avg_viewers": 23, "followers_gained": 70, "peak_viewers": 46, "hours_streamed": 126, "streams": 27, "mature": 0, "language": "Korean", "account_age": 1347840.0}

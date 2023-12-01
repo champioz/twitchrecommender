@@ -1,0 +1,1 @@
+{"channel": "joseakablanko", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 35, "hours_streamed": 14, "streams": 6, "mature": 1, "language": "English", "account_age": 2878560.0}

@@ -1,0 +1,1 @@
+{"channel": "heyguys", "avg_viewers": 133, "followers_gained": 2937, "peak_viewers": 377, "hours_streamed": 103, "streams": 40, "mature": 1, "language": "English", "account_age": 2766240.0}

@@ -1,0 +1,1 @@
+{"channel": "poni_", "avg_viewers": 131, "followers_gained": 3531, "peak_viewers": 342, "hours_streamed": 121, "streams": 24, "mature": 0, "language": "Portuguese", "account_age": 580320.0}

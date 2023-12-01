@@ -1,0 +1,1 @@
+{"channel": "littlekomquat", "avg_viewers": 10, "followers_gained": 10, "peak_viewers": 17, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "English", "account_age": 2039040.0}

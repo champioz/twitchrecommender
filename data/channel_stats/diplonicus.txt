@@ -1,0 +1,1 @@
+{"channel": "diplonicus", "avg_viewers": 79, "followers_gained": 361, "peak_viewers": 398, "hours_streamed": 125, "streams": 25, "mature": 1, "language": "English", "account_age": 3250080.0}

@@ -1,0 +1,1 @@
+{"channel": "juliostito", "avg_viewers": 575, "followers_gained": 5107, "peak_viewers": 1228, "hours_streamed": 111, "streams": 24, "mature": 0, "language": "Spanish", "account_age": 3648960.0}

@@ -1,0 +1,1 @@
+{"channel": "kenzzzor", "avg_viewers": 74, "followers_gained": 776, "peak_viewers": 231, "hours_streamed": 61, "streams": 16, "mature": 0, "language": "Russian", "account_age": 2198880.0}

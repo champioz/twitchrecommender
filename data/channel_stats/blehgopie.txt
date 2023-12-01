@@ -1,0 +1,1 @@
+{"channel": "blehgopie", "avg_viewers": 10, "followers_gained": 164, "peak_viewers": 96, "hours_streamed": 149, "streams": 27, "mature": 1, "language": "English", "account_age": 4610880.0}

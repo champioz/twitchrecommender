@@ -1,0 +1,1 @@
+{"channel": "haga", "avg_viewers": 24, "followers_gained": 123, "peak_viewers": 142, "hours_streamed": 186, "streams": 37, "mature": 1, "language": "Swedish", "account_age": 2679840.0}

@@ -1,0 +1,1 @@
+{"channel": "nazframbuaz", "avg_viewers": 144, "followers_gained": 2749, "peak_viewers": 306, "hours_streamed": 58, "streams": 19, "mature": 0, "language": "Turkish", "account_age": 528480.0}

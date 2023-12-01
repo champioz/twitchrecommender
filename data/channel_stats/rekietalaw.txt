@@ -1,0 +1,1 @@
+{"channel": "rekietalaw", "avg_viewers": 195, "followers_gained": 235, "peak_viewers": 313, "hours_streamed": 23, "streams": 8, "mature": 0, "language": "English", "account_age": 774720.0}

@@ -1,0 +1,1 @@
+{"channel": "noxsportstv", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 31, "hours_streamed": 63, "streams": 16, "mature": 1, "language": "German", "account_age": 1192320.0}

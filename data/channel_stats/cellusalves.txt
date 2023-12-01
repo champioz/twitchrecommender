@@ -1,0 +1,1 @@
+{"channel": "cellusalves", "avg_viewers": 6, "followers_gained": 77, "peak_viewers": 41, "hours_streamed": 95, "streams": 17, "mature": 1, "language": "Portuguese", "account_age": 3709440.0}

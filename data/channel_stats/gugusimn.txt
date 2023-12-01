@@ -1,0 +1,1 @@
+{"channel": "gugusimn", "avg_viewers": 8, "followers_gained": 7, "peak_viewers": 27, "hours_streamed": 120, "streams": 34, "mature": 1, "language": "Chinese", "account_age": 3468960.0}

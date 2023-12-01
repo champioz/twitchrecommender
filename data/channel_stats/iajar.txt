@@ -1,0 +1,1 @@
+{"channel": "iajar", "avg_viewers": 3, "followers_gained": 37, "peak_viewers": 9, "hours_streamed": 65, "streams": 14, "mature": 0, "language": "English", "account_age": 1827360.0}

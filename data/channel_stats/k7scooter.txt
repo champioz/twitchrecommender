@@ -1,0 +1,1 @@
+{"channel": "k7scooter", "avg_viewers": 20, "followers_gained": 24, "peak_viewers": 61, "hours_streamed": 173, "streams": 23, "mature": 0, "language": "Russian", "account_age": 4010400.0}

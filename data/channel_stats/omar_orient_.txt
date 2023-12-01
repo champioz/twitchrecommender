@@ -1,0 +1,1 @@
+{"channel": "omar_orient_", "avg_viewers": 4, "followers_gained": 47, "peak_viewers": 18, "hours_streamed": 222, "streams": 52, "mature": 0, "language": "German", "account_age": 174240.0}

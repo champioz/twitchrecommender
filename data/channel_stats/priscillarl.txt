@@ -1,0 +1,1 @@
+{"channel": "priscillarl", "avg_viewers": 91, "followers_gained": 411, "peak_viewers": 332, "hours_streamed": 36, "streams": 8, "mature": 0, "language": "Portuguese", "account_age": 3307680.0}

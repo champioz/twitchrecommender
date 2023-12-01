@@ -1,0 +1,1 @@
+{"channel": "camilleunknown", "avg_viewers": 26, "followers_gained": 343, "peak_viewers": 281, "hours_streamed": 56, "streams": 21, "mature": 0, "language": "French", "account_age": 465120.0}

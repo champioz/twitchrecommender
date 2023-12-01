@@ -1,0 +1,1 @@
+{"channel": "shinju7777", "avg_viewers": 49, "followers_gained": 11, "peak_viewers": 90, "hours_streamed": 55, "streams": 8, "mature": 0, "language": "Japanese", "account_age": 3120480.0}

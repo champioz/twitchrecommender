@@ -1,0 +1,1 @@
+{"channel": "johnnigade", "avg_viewers": 212, "followers_gained": 1734, "peak_viewers": 374, "hours_streamed": 15, "streams": 11, "mature": 0, "language": "Danish", "account_age": 1399680.0}

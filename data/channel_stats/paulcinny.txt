@@ -1,0 +1,1 @@
+{"channel": "paulcinny", "avg_viewers": 30, "followers_gained": 502, "peak_viewers": 116, "hours_streamed": 180, "streams": 51, "mature": 1, "language": "English", "account_age": 1224000.0}

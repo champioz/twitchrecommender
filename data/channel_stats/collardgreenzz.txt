@@ -1,0 +1,1 @@
+{"channel": "collardgreenzz", "avg_viewers": 20, "followers_gained": 157, "peak_viewers": 632, "hours_streamed": 124, "streams": 29, "mature": 1, "language": "English", "account_age": 501120.0}

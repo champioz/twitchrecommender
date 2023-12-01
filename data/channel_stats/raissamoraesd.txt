@@ -1,0 +1,1 @@
+{"channel": "raissamoraesd", "avg_viewers": 17, "followers_gained": 11, "peak_viewers": 29, "hours_streamed": 5, "streams": 5, "mature": 1, "language": "Portuguese", "account_age": 1185120.0}

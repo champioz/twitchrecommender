@@ -1,0 +1,1 @@
+{"channel": "klimaaaa", "avg_viewers": 3, "followers_gained": 19, "peak_viewers": 13, "hours_streamed": 19, "streams": 6, "mature": 0, "language": "Greek", "account_age": 2597760.0}

@@ -1,0 +1,1 @@
+{"channel": "sorakatoper", "avg_viewers": 37, "followers_gained": 197, "peak_viewers": 88, "hours_streamed": 100, "streams": 17, "mature": 1, "language": "Russian", "account_age": 1039680.0}

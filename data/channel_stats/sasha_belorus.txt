@@ -1,0 +1,1 @@
+{"channel": "sasha_belorus", "avg_viewers": 72, "followers_gained": 366, "peak_viewers": 250, "hours_streamed": 150, "streams": 36, "mature": 0, "language": "Russian", "account_age": 361440.0}

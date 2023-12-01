@@ -1,0 +1,1 @@
+{"channel": "krede", "avg_viewers": 1, "followers_gained": 14, "peak_viewers": 7, "hours_streamed": 41, "streams": 15, "mature": 1, "language": "Russian", "account_age": 1476000.0}

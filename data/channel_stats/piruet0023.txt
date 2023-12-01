@@ -1,0 +1,1 @@
+{"channel": "piruet0023", "avg_viewers": 6, "followers_gained": 66, "peak_viewers": 20, "hours_streamed": 223, "streams": 60, "mature": 0, "language": "Hungarian", "account_age": 819360.0}

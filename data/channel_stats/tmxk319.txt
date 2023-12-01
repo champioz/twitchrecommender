@@ -1,0 +1,1 @@
+{"channel": "tmxk319", "avg_viewers": 1801, "followers_gained": 10482, "peak_viewers": 6018, "hours_streamed": 217, "streams": 26, "mature": 0, "language": "Korean", "account_age": 1288800.0}

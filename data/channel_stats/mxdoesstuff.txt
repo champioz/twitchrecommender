@@ -1,0 +1,1 @@
+{"channel": "mxdoesstuff", "avg_viewers": 14, "followers_gained": 197, "peak_viewers": 37, "hours_streamed": 27, "streams": 17, "mature": 0, "language": "English", "account_age": 777600.0}

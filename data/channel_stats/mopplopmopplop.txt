@@ -1,0 +1,1 @@
+{"channel": "mopplopmopplop", "avg_viewers": 16, "followers_gained": 5, "peak_viewers": 27, "hours_streamed": 9, "streams": 2, "mature": 0, "language": "English", "account_age": 3048480.0}

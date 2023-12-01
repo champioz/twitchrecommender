@@ -1,0 +1,1 @@
+{"channel": "radu20", "avg_viewers": 11, "followers_gained": 138, "peak_viewers": 44, "hours_streamed": 110, "streams": 50, "mature": 1, "language": "Romanian", "account_age": 3288960.0}

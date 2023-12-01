@@ -1,0 +1,1 @@
+{"channel": "lalkatwitch_official", "avg_viewers": 3, "followers_gained": 12, "peak_viewers": 11, "hours_streamed": 133, "streams": 19, "mature": 1, "language": "Russian", "account_age": 1969920.0}

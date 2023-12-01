@@ -1,0 +1,1 @@
+{"channel": "augmented_dictator_games", "avg_viewers": 43, "followers_gained": 19, "peak_viewers": 88, "hours_streamed": 25, "streams": 5, "mature": 1, "language": "English", "account_age": 1314720.0}

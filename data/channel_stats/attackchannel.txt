@@ -1,0 +1,1 @@
+{"channel": "attackchannel", "avg_viewers": 6, "followers_gained": 10, "peak_viewers": 85, "hours_streamed": 43, "streams": 18, "mature": 0, "language": "Russian", "account_age": 1821600.0}

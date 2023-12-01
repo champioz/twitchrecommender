@@ -1,0 +1,1 @@
+{"channel": "sirpumpkn", "avg_viewers": 653, "followers_gained": 298, "peak_viewers": 1341, "hours_streamed": 143, "streams": 25, "mature": 1, "language": "English", "account_age": 1146240.0}

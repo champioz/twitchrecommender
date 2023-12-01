@@ -1,0 +1,1 @@
+{"channel": "lovelyyeon", "avg_viewers": 257, "followers_gained": 730, "peak_viewers": 524, "hours_streamed": 201, "streams": 28, "mature": 0, "language": "Korean", "account_age": 1380960.0}

@@ -1,0 +1,1 @@
+{"channel": "pkmncast", "avg_viewers": 183, "followers_gained": 883, "peak_viewers": 450, "hours_streamed": 156, "streams": 27, "mature": 0, "language": "English", "account_age": 4321440.0}

@@ -1,0 +1,1 @@
+{"channel": "thebaseradio", "avg_viewers": 5, "followers_gained": 13, "peak_viewers": 45, "hours_streamed": 743, "streams": 3, "mature": 1, "language": "English", "account_age": 2403360.0}

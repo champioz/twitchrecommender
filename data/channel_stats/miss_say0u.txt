@@ -1,0 +1,1 @@
+{"channel": "miss_say0u", "avg_viewers": 4, "followers_gained": 4, "peak_viewers": 9, "hours_streamed": 11, "streams": 3, "mature": 1, "language": "French", "account_age": 1841760.0}

@@ -1,0 +1,1 @@
+{"channel": "parcivil", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 19, "hours_streamed": 152, "streams": 57, "mature": 1, "language": "English", "account_age": 1869120.0}

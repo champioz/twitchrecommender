@@ -1,0 +1,1 @@
+{"channel": "electronicdancetv", "avg_viewers": 4, "followers_gained": 70, "peak_viewers": 20, "hours_streamed": 241, "streams": 13, "mature": 0, "language": "German", "account_age": 2224800.0}

@@ -1,0 +1,1 @@
+{"channel": "chefswag06", "avg_viewers": 9, "followers_gained": 82, "peak_viewers": 41, "hours_streamed": 87, "streams": 24, "mature": 0, "language": "English", "account_age": 1530720.0}

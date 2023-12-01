@@ -1,0 +1,1 @@
+{"channel": "canaldogordim", "avg_viewers": 51, "followers_gained": 368, "peak_viewers": 141, "hours_streamed": 237, "streams": 31, "mature": 1, "language": "Portuguese", "account_age": 669600.0}

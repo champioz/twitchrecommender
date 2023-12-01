@@ -1,0 +1,1 @@
+{"channel": "plumbella", "avg_viewers": 334, "followers_gained": 924, "peak_viewers": 457, "hours_streamed": 4, "streams": 3, "mature": 1, "language": "English", "account_age": 1013760.0}

@@ -1,0 +1,1 @@
+{"channel": "fortnite_mobile_noobie", "avg_viewers": 10, "followers_gained": 278, "peak_viewers": 27, "hours_streamed": 19, "streams": 11, "mature": 0, "language": "English", "account_age": 195840.0}

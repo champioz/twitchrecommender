@@ -1,0 +1,1 @@
+{"channel": "chirs1995", "avg_viewers": 198, "followers_gained": 42, "peak_viewers": 1272, "hours_streamed": 209, "streams": 29, "mature": 1, "language": "Chinese", "account_age": 588960.0}

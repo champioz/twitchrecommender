@@ -1,0 +1,1 @@
+{"channel": "kristoferyee", "avg_viewers": 300, "followers_gained": 3423, "peak_viewers": 8774, "hours_streamed": 64, "streams": 14, "mature": 0, "language": "English", "account_age": 478080.0}

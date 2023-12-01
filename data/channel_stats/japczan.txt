@@ -1,0 +1,1 @@
+{"channel": "japczan", "avg_viewers": 54, "followers_gained": 1088, "peak_viewers": 792, "hours_streamed": 216, "streams": 33, "mature": 0, "language": "Polish", "account_age": 989280.0}

@@ -1,0 +1,1 @@
+{"channel": "oliiv3iira", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 1, "streams": 3, "mature": 0, "language": "Portuguese", "account_age": 711360.0}

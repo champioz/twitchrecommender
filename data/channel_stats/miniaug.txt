@@ -1,0 +1,1 @@
+{"channel": "miniaug", "avg_viewers": 23, "followers_gained": 77, "peak_viewers": 74, "hours_streamed": 21, "streams": 5, "mature": 0, "language": "English", "account_age": 3736800.0}

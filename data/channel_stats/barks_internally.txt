@@ -1,0 +1,1 @@
+{"channel": "barks_internally", "avg_viewers": 60, "followers_gained": 79, "peak_viewers": 480, "hours_streamed": 51, "streams": 18, "mature": 0, "language": "English", "account_age": 3044160.0}

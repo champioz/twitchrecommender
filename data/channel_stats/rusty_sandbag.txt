@@ -1,0 +1,1 @@
+{"channel": "rusty_sandbag", "avg_viewers": 0, "followers_gained": 9, "peak_viewers": 5, "hours_streamed": 44, "streams": 12, "mature": 1, "language": "English", "account_age": 3159360.0}

@@ -1,0 +1,1 @@
+{"channel": "zelph77", "avg_viewers": 3, "followers_gained": 46, "peak_viewers": 16, "hours_streamed": 73, "streams": 27, "mature": 0, "language": "English", "account_age": 995040.0}

@@ -1,0 +1,1 @@
+{"channel": "criztianotorres", "avg_viewers": 112, "followers_gained": 1019, "peak_viewers": 578, "hours_streamed": 23, "streams": 7, "mature": 0, "language": "German", "account_age": 624960.0}

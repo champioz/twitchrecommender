@@ -1,0 +1,1 @@
+{"channel": "ar12gaming", "avg_viewers": 597, "followers_gained": 3284, "peak_viewers": 1247, "hours_streamed": 19, "streams": 13, "mature": 0, "language": "English", "account_age": 3728160.0}

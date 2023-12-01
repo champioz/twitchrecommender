@@ -1,0 +1,1 @@
+{"channel": "michaelele2k", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 5, "hours_streamed": 52, "streams": 16, "mature": 0, "language": "Norwegian", "account_age": 3192480.0}

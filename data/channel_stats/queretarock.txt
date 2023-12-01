@@ -1,0 +1,1 @@
+{"channel": "queretarock", "avg_viewers": 71, "followers_gained": 651, "peak_viewers": 166, "hours_streamed": 168, "streams": 39, "mature": 0, "language": "Spanish", "account_age": 2746080.0}

@@ -1,0 +1,1 @@
+{"channel": "loganwow", "avg_viewers": 3, "followers_gained": 4, "peak_viewers": 10, "hours_streamed": 27, "streams": 14, "mature": 0, "language": "Chinese", "account_age": 1794240.0}

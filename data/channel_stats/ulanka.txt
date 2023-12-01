@@ -1,0 +1,1 @@
+{"channel": "ulanka", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 1, "streams": 3, "mature": 1, "language": "German", "account_age": 3196800.0}

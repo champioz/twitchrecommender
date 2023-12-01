@@ -1,0 +1,1 @@
+{"channel": "traveldanielle", "avg_viewers": 157, "followers_gained": 2055, "peak_viewers": 958, "hours_streamed": 56, "streams": 12, "mature": 1, "language": "English", "account_age": 990720.0}

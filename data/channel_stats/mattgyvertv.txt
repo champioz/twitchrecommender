@@ -1,0 +1,1 @@
+{"channel": "mattgyvertv", "avg_viewers": 17, "followers_gained": 11, "peak_viewers": 32, "hours_streamed": 26, "streams": 7, "mature": 0, "language": "English", "account_age": 3445920.0}

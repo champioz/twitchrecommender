@@ -1,0 +1,1 @@
+{"channel": "script", "avg_viewers": 175, "followers_gained": 780, "peak_viewers": 376, "hours_streamed": 23, "streams": 13, "mature": 0, "language": "Turkish", "account_age": 2184480.0}

@@ -1,0 +1,1 @@
+{"channel": "cubevilly", "avg_viewers": 99, "followers_gained": 466, "peak_viewers": 142, "hours_streamed": 46, "streams": 8, "mature": 1, "language": "Arabic", "account_age": 794880.0}

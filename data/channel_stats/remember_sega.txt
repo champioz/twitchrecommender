@@ -1,0 +1,1 @@
+{"channel": "remember_sega", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 5, "hours_streamed": 28, "streams": 12, "mature": 1, "language": "English", "account_age": 3624480.0}

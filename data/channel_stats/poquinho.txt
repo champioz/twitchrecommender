@@ -1,0 +1,1 @@
+{"channel": "poquinho", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 18, "streams": 10, "mature": 1, "language": "Portuguese", "account_age": 5588640.0}

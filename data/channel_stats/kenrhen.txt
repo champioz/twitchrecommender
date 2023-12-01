@@ -1,0 +1,1 @@
+{"channel": "kenrhen", "avg_viewers": 141, "followers_gained": 755, "peak_viewers": 489, "hours_streamed": 99, "streams": 30, "mature": 0, "language": "Italian", "account_age": 2354400.0}

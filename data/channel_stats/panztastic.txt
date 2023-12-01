@@ -1,0 +1,1 @@
+{"channel": "panztastic", "avg_viewers": 61, "followers_gained": 112, "peak_viewers": 176, "hours_streamed": 257, "streams": 33, "mature": 0, "language": "English", "account_age": 1945440.0}

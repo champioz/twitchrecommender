@@ -1,0 +1,1 @@
+{"channel": "ray57402", "avg_viewers": 8, "followers_gained": 1, "peak_viewers": 24, "hours_streamed": 34, "streams": 14, "mature": 0, "language": "Chinese", "account_age": 1730880.0}

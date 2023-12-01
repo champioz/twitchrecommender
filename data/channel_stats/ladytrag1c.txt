@@ -1,0 +1,1 @@
+{"channel": "ladytrag1c", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 3, "streams": 3, "mature": 1, "language": "English", "account_age": 1932480.0}

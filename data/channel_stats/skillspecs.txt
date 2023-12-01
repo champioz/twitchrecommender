@@ -1,0 +1,1 @@
+{"channel": "skillspecs", "avg_viewers": 383, "followers_gained": 41, "peak_viewers": 674, "hours_streamed": 28, "streams": 9, "mature": 0, "language": "English", "account_age": 3948480.0}

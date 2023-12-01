@@ -1,0 +1,1 @@
+{"channel": "bandainamcous", "avg_viewers": 590, "followers_gained": 133, "peak_viewers": 2149, "hours_streamed": 5, "streams": 12, "mature": 0, "language": "English", "account_age": 2524320.0}

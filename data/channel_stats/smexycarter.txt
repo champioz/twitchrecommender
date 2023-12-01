@@ -1,0 +1,1 @@
+{"channel": "smexycarter", "avg_viewers": 12, "followers_gained": 8, "peak_viewers": 26, "hours_streamed": 30, "streams": 10, "mature": 1, "language": "English", "account_age": 1870560.0}

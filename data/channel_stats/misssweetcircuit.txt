@@ -1,0 +1,1 @@
+{"channel": "misssweetcircuit", "avg_viewers": 2, "followers_gained": 22, "peak_viewers": 15, "hours_streamed": 91, "streams": 22, "mature": 1, "language": "English", "account_age": 1919520.0}

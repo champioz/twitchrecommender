@@ -1,0 +1,1 @@
+{"channel": "gracefoldssquares", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 24, "hours_streamed": 148, "streams": 27, "mature": 0, "language": "English", "account_age": 1461600.0}

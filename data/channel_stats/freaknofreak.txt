@@ -1,0 +1,1 @@
+{"channel": "freaknofreak", "avg_viewers": 53, "followers_gained": 593, "peak_viewers": 206, "hours_streamed": 350, "streams": 40, "mature": 0, "language": "Russian", "account_age": 2181600.0}

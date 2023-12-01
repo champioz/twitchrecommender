@@ -1,0 +1,1 @@
+{"channel": "akcakoca_gaming", "avg_viewers": 0, "followers_gained": 237, "peak_viewers": 6, "hours_streamed": 179, "streams": 50, "mature": 1, "language": "Turkish", "account_age": 1241280.0}

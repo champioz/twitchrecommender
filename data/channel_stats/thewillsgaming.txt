@@ -1,0 +1,1 @@
+{"channel": "thewillsgaming", "avg_viewers": 4, "followers_gained": 64, "peak_viewers": 25, "hours_streamed": 82, "streams": 28, "mature": 0, "language": "English", "account_age": 912960.0}

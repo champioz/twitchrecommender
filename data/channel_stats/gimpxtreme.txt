@@ -1,0 +1,1 @@
+{"channel": "gimpxtreme", "avg_viewers": 4, "followers_gained": 17, "peak_viewers": 14, "hours_streamed": 119, "streams": 25, "mature": 0, "language": "English", "account_age": 3306240.0}

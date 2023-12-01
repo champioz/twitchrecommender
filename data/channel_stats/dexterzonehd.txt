@@ -1,0 +1,1 @@
+{"channel": "dexterzonehd", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 10, "hours_streamed": 77, "streams": 18, "mature": 1, "language": "Greek", "account_age": 2165760.0}

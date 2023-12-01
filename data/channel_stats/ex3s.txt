@@ -1,0 +1,1 @@
+{"channel": "ex3s", "avg_viewers": 11, "followers_gained": 80, "peak_viewers": 80, "hours_streamed": 137, "streams": 23, "mature": 0, "language": "Czech", "account_age": 3440160.0}

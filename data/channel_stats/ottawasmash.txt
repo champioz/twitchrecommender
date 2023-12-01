@@ -1,0 +1,1 @@
+{"channel": "ottawasmash", "avg_viewers": 11, "followers_gained": 28, "peak_viewers": 24, "hours_streamed": 30, "streams": 6, "mature": 0, "language": "English", "account_age": 1457280.0}

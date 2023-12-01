@@ -1,0 +1,1 @@
+{"channel": "mohicans", "avg_viewers": 8, "followers_gained": 32, "peak_viewers": 78, "hours_streamed": 183, "streams": 36, "mature": 1, "language": "German", "account_age": 2116800.0}

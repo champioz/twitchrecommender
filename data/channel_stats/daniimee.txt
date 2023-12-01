@@ -1,0 +1,1 @@
+{"channel": "daniimee", "avg_viewers": 45, "followers_gained": 1103, "peak_viewers": 99, "hours_streamed": 60, "streams": 19, "mature": 0, "language": "English", "account_age": 385920.0}

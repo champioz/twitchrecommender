@@ -1,0 +1,1 @@
+{"channel": "dodsworth", "avg_viewers": 10, "followers_gained": 31, "peak_viewers": 41, "hours_streamed": 66, "streams": 17, "mature": 0, "language": "English", "account_age": 2995200.0}

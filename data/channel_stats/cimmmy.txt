@@ -1,0 +1,1 @@
+{"channel": "cimmmy", "avg_viewers": 93, "followers_gained": 362, "peak_viewers": 227, "hours_streamed": 34, "streams": 11, "mature": 1, "language": "Turkish", "account_age": 954720.0}

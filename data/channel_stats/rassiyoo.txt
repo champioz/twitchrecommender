@@ -1,0 +1,1 @@
+{"channel": "rassiyoo", "avg_viewers": 50, "followers_gained": 797, "peak_viewers": 163, "hours_streamed": 95, "streams": 24, "mature": 0, "language": "German", "account_age": 2069280.0}

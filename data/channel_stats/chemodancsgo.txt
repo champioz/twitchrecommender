@@ -1,0 +1,1 @@
+{"channel": "chemodancsgo", "avg_viewers": 62, "followers_gained": 551, "peak_viewers": 161, "hours_streamed": 104, "streams": 18, "mature": 0, "language": "Russian", "account_age": 468000.0}

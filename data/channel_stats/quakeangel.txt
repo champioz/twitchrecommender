@@ -1,0 +1,1 @@
+{"channel": "quakeangel", "avg_viewers": 21, "followers_gained": 34, "peak_viewers": 74, "hours_streamed": 56, "streams": 15, "mature": 1, "language": "English", "account_age": 3140640.0}

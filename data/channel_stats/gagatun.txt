@@ -1,0 +1,1 @@
+{"channel": "gagatun", "avg_viewers": 27, "followers_gained": 138, "peak_viewers": 77, "hours_streamed": 76, "streams": 26, "mature": 0, "language": "Russian", "account_age": 4315680.0}

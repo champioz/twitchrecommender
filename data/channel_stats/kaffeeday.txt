@@ -1,0 +1,1 @@
+{"channel": "kaffeeday", "avg_viewers": 7, "followers_gained": 2, "peak_viewers": 11, "hours_streamed": 6, "streams": 1, "mature": 1, "language": "German", "account_age": 3539520.0}

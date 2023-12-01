@@ -1,0 +1,1 @@
+{"channel": "miranaandthediamonds", "avg_viewers": 1, "followers_gained": 46, "peak_viewers": 33, "hours_streamed": 313, "streams": 60, "mature": 1, "language": "English", "account_age": 233280.0}

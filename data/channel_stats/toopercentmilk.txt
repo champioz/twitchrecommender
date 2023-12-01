@@ -1,0 +1,1 @@
+{"channel": "toopercentmilk", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 17, "hours_streamed": 29, "streams": 12, "mature": 1, "language": "English", "account_age": 1758240.0}

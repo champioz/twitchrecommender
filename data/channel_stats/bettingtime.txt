@@ -1,0 +1,1 @@
+{"channel": "bettingtime", "avg_viewers": 7, "followers_gained": 40, "peak_viewers": 64, "hours_streamed": 69, "streams": 11, "mature": 1, "language": "German", "account_age": 2252160.0}

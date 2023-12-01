@@ -1,0 +1,1 @@
+{"channel": "resynn", "avg_viewers": 94, "followers_gained": 715, "peak_viewers": 336, "hours_streamed": 171, "streams": 41, "mature": 0, "language": "French", "account_age": 2416320.0}

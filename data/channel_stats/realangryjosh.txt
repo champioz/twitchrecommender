@@ -1,0 +1,1 @@
+{"channel": "realangryjosh", "avg_viewers": 20, "followers_gained": 82, "peak_viewers": 129, "hours_streamed": 106, "streams": 16, "mature": 1, "language": "German", "account_age": 3687840.0}

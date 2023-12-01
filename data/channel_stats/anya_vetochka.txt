@@ -1,0 +1,1 @@
+{"channel": "anya_vetochka", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 10, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "Russian", "account_age": 1860480.0}

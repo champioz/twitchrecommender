@@ -1,0 +1,1 @@
+{"channel": "vanillamew", "avg_viewers": 13, "followers_gained": 121, "peak_viewers": 75, "hours_streamed": 54, "streams": 25, "mature": 1, "language": "Hungarian", "account_age": 2208960.0}

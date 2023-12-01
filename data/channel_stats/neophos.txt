@@ -1,0 +1,1 @@
+{"channel": "neophos", "avg_viewers": 9, "followers_gained": 41, "peak_viewers": 85, "hours_streamed": 82, "streams": 18, "mature": 0, "language": "Swedish", "account_age": 3676320.0}

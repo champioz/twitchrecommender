@@ -1,0 +1,1 @@
+{"channel": "roksi_oksi", "avg_viewers": 64, "followers_gained": 2, "peak_viewers": 209, "hours_streamed": 13, "streams": 6, "mature": 1, "language": "Russian", "account_age": 819360.0}

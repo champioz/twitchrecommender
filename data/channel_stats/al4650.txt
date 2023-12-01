@@ -1,0 +1,1 @@
+{"channel": "al4650", "avg_viewers": 29, "followers_gained": 5, "peak_viewers": 55, "hours_streamed": 49, "streams": 23, "mature": 0, "language": "Korean", "account_age": 1221120.0}

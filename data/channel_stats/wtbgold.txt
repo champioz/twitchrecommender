@@ -1,0 +1,1 @@
+{"channel": "wtbgold", "avg_viewers": 62, "followers_gained": 200, "peak_viewers": 101, "hours_streamed": 45, "streams": 12, "mature": 0, "language": "English", "account_age": 3212640.0}

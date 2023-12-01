@@ -1,0 +1,1 @@
+{"channel": "crooku", "avg_viewers": 53, "followers_gained": 723, "peak_viewers": 251, "hours_streamed": 63, "streams": 16, "mature": 0, "language": "Polish", "account_age": 540000.0}

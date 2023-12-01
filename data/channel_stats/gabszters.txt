@@ -1,0 +1,1 @@
+{"channel": "gabszters", "avg_viewers": 22, "followers_gained": 14, "peak_viewers": 34, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "English", "account_age": 900000.0}

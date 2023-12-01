@@ -1,0 +1,1 @@
+{"channel": "gray_stash", "avg_viewers": 5, "followers_gained": 12, "peak_viewers": 18, "hours_streamed": 41, "streams": 7, "mature": 0, "language": "English", "account_age": 2921760.0}

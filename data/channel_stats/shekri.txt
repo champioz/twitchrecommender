@@ -1,0 +1,1 @@
+{"channel": "shekri", "avg_viewers": 13, "followers_gained": 40, "peak_viewers": 53, "hours_streamed": 41, "streams": 30, "mature": 1, "language": "English", "account_age": 152640.0}

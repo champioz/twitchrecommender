@@ -1,0 +1,1 @@
+{"channel": "mcduckz", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 17, "hours_streamed": 90, "streams": 43, "mature": 1, "language": "Finnish", "account_age": 2187360.0}

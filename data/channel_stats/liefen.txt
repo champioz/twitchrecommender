@@ -1,0 +1,1 @@
+{"channel": "liefen", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 11, "hours_streamed": 127, "streams": 53, "mature": 1, "language": "French", "account_age": 2877120.0}

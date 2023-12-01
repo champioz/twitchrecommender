@@ -1,0 +1,1 @@
+{"channel": "simerik", "avg_viewers": 19, "followers_gained": 124, "peak_viewers": 76, "hours_streamed": 74, "streams": 11, "mature": 0, "language": "Dutch", "account_age": 3356640.0}

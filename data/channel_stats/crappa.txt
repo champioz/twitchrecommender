@@ -1,0 +1,1 @@
+{"channel": "crappa", "avg_viewers": 97, "followers_gained": 816, "peak_viewers": 275, "hours_streamed": 142, "streams": 30, "mature": 1, "language": "Hungarian", "account_age": 1572480.0}

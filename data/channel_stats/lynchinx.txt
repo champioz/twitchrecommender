@@ -1,0 +1,1 @@
+{"channel": "lynchinx", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 27, "streams": 8, "mature": 1, "language": "French", "account_age": 1540800.0}

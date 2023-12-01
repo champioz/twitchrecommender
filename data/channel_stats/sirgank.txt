@@ -1,0 +1,1 @@
+{"channel": "sirgank", "avg_viewers": 31, "followers_gained": 136, "peak_viewers": 1879, "hours_streamed": 153, "streams": 26, "mature": 1, "language": "Portuguese", "account_age": 1823040.0}

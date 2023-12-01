@@ -1,0 +1,1 @@
+{"channel": "nitenightkid", "avg_viewers": 7, "followers_gained": 43, "peak_viewers": 43, "hours_streamed": 182, "streams": 29, "mature": 1, "language": "English", "account_age": 3093120.0}

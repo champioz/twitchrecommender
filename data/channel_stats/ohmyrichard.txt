@@ -1,0 +1,1 @@
+{"channel": "ohmyrichard", "avg_viewers": 23, "followers_gained": 115, "peak_viewers": 62, "hours_streamed": 88, "streams": 18, "mature": 1, "language": "English", "account_age": 871200.0}

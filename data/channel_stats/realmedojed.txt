@@ -1,0 +1,1 @@
+{"channel": "realmedojed", "avg_viewers": 38, "followers_gained": 208, "peak_viewers": 94, "hours_streamed": 35, "streams": 11, "mature": 0, "language": "Czech", "account_age": 3101760.0}

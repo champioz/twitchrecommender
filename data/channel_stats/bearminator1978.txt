@@ -1,0 +1,1 @@
+{"channel": "bearminator1978", "avg_viewers": 1, "followers_gained": 13, "peak_viewers": 7, "hours_streamed": 40, "streams": 25, "mature": 0, "language": "English", "account_age": 708480.0}

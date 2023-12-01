@@ -1,0 +1,1 @@
+{"channel": "dizzys_lane", "avg_viewers": 4, "followers_gained": 23, "peak_viewers": 22, "hours_streamed": 178, "streams": 33, "mature": 1, "language": "German", "account_age": 1690560.0}

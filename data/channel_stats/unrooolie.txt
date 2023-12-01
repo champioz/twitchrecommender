@@ -1,0 +1,1 @@
+{"channel": "unrooolie", "avg_viewers": 305, "followers_gained": 561, "peak_viewers": 6335, "hours_streamed": 73, "streams": 17, "mature": 0, "language": "English", "account_age": 4487040.0}

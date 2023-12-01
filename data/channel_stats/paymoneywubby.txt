@@ -1,0 +1,1 @@
+{"channel": "paymoneywubby", "avg_viewers": 3099, "followers_gained": 4221, "peak_viewers": 4740, "hours_streamed": 43, "streams": 11, "mature": 0, "language": "English", "account_age": 3499200.0}

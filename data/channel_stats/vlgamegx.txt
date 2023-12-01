@@ -1,0 +1,1 @@
+{"channel": "vlgamegx", "avg_viewers": 18, "followers_gained": 54, "peak_viewers": 631, "hours_streamed": 292, "streams": 21, "mature": 0, "language": "Chinese", "account_age": 3677760.0}

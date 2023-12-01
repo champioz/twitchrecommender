@@ -1,0 +1,1 @@
+{"channel": "rainbow6kr", "avg_viewers": 267, "followers_gained": 411, "peak_viewers": 546, "hours_streamed": 43, "streams": 10, "mature": 1, "language": "Korean", "account_age": 764640.0}

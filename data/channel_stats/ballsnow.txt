@@ -1,0 +1,1 @@
+{"channel": "ballsnow", "avg_viewers": 7, "followers_gained": 7, "peak_viewers": 13, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "English", "account_age": 3195360.0}

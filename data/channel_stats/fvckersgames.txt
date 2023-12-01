@@ -1,0 +1,1 @@
+{"channel": "fvckersgames", "avg_viewers": 3, "followers_gained": 63, "peak_viewers": 25, "hours_streamed": 72, "streams": 31, "mature": 0, "language": "Spanish", "account_age": 1316160.0}

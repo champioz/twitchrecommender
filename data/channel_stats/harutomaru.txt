@@ -1,0 +1,1 @@
+{"channel": "harutomaru", "avg_viewers": 19, "followers_gained": 3, "peak_viewers": 61, "hours_streamed": 37, "streams": 11, "mature": 0, "language": "Japanese", "account_age": 2528640.0}

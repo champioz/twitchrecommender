@@ -1,0 +1,1 @@
+{"channel": "digianni", "avg_viewers": 71, "followers_gained": 559, "peak_viewers": 351, "hours_streamed": 47, "streams": 12, "mature": 0, "language": "Italian", "account_age": 2363040.0}

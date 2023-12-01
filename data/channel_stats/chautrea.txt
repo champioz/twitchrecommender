@@ -1,0 +1,1 @@
+{"channel": "chautrea", "avg_viewers": 3, "followers_gained": 9, "peak_viewers": 29, "hours_streamed": 85, "streams": 27, "mature": 1, "language": "German", "account_age": 2459520.0}

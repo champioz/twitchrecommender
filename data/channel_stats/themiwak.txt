@@ -1,0 +1,1 @@
+{"channel": "themiwak", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 10, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "Spanish", "account_age": 2109600.0}

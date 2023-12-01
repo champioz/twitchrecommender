@@ -1,0 +1,1 @@
+{"channel": "bigblue_andre", "avg_viewers": 19, "followers_gained": 94, "peak_viewers": 102, "hours_streamed": 126, "streams": 41, "mature": 1, "language": "German", "account_age": 2131200.0}

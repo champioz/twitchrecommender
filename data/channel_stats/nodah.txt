@@ -1,0 +1,1 @@
+{"channel": "nodah", "avg_viewers": 78, "followers_gained": 6, "peak_viewers": 114, "hours_streamed": 6, "streams": 2, "mature": 0, "language": "Korean", "account_age": 4494240.0}

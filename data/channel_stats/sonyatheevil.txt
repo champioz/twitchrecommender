@@ -1,0 +1,1 @@
+{"channel": "sonyatheevil", "avg_viewers": 107, "followers_gained": 139, "peak_viewers": 228, "hours_streamed": 59, "streams": 11, "mature": 1, "language": "English", "account_age": 2908800.0}

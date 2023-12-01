@@ -1,0 +1,1 @@
+{"channel": "caydeow", "avg_viewers": 6, "followers_gained": 34, "peak_viewers": 15, "hours_streamed": 130, "streams": 20, "mature": 1, "language": "English", "account_age": 1463040.0}

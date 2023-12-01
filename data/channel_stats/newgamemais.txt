@@ -1,0 +1,1 @@
+{"channel": "newgamemais", "avg_viewers": 10, "followers_gained": 35, "peak_viewers": 37, "hours_streamed": 65, "streams": 32, "mature": 0, "language": "Portuguese", "account_age": 2082240.0}

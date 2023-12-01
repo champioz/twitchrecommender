@@ -1,0 +1,1 @@
+{"channel": "stkildafan", "avg_viewers": 13, "followers_gained": 20, "peak_viewers": 77, "hours_streamed": 106, "streams": 22, "mature": 0, "language": "English", "account_age": 1982880.0}

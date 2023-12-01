@@ -1,0 +1,1 @@
+{"channel": "vpswede", "avg_viewers": 7, "followers_gained": 10, "peak_viewers": 17, "hours_streamed": 17, "streams": 3, "mature": 0, "language": "Swedish", "account_age": 4332960.0}

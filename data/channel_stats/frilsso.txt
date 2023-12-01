@@ -1,0 +1,1 @@
+{"channel": "frilsso", "avg_viewers": 0, "followers_gained": 8, "peak_viewers": 3, "hours_streamed": 35, "streams": 26, "mature": 0, "language": "Spanish", "account_age": 210240.0}

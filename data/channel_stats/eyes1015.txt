@@ -1,0 +1,1 @@
+{"channel": "eyes1015", "avg_viewers": 354, "followers_gained": 220, "peak_viewers": 917, "hours_streamed": 158, "streams": 15, "mature": 0, "language": "Japanese", "account_age": 3660480.0}

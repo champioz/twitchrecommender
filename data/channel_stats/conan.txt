@@ -1,0 +1,1 @@
+{"channel": "conan", "avg_viewers": 21, "followers_gained": 6, "peak_viewers": 76, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "German", "account_age": 1566720.0}

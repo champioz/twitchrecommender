@@ -1,0 +1,1 @@
+{"channel": "carlinrx", "avg_viewers": 1, "followers_gained": 70, "peak_viewers": 59, "hours_streamed": 182, "streams": 38, "mature": 0, "language": "Portuguese", "account_age": 1238400.0}

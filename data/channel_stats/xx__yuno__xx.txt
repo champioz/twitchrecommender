@@ -1,0 +1,1 @@
+{"channel": "xx__yuno__xx", "avg_viewers": 2, "followers_gained": 13, "peak_viewers": 9, "hours_streamed": 70, "streams": 38, "mature": 1, "language": "German", "account_age": 1873440.0}

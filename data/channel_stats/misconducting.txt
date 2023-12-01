@@ -1,0 +1,1 @@
+{"channel": "misconducting", "avg_viewers": 12, "followers_gained": 196, "peak_viewers": 36, "hours_streamed": 127, "streams": 34, "mature": 0, "language": "English", "account_age": 508320.0}

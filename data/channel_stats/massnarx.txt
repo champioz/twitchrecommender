@@ -1,0 +1,1 @@
+{"channel": "massnarx", "avg_viewers": 198, "followers_gained": 729, "peak_viewers": 566, "hours_streamed": 78, "streams": 20, "mature": 0, "language": "English", "account_age": 528480.0}

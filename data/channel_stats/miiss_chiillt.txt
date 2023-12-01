@@ -1,0 +1,1 @@
+{"channel": "miiss_chiillt", "avg_viewers": 5, "followers_gained": 32, "peak_viewers": 15, "hours_streamed": 72, "streams": 33, "mature": 1, "language": "German", "account_age": 861120.0}

@@ -1,0 +1,1 @@
+{"channel": "xear", "avg_viewers": 17, "followers_gained": 26, "peak_viewers": 100, "hours_streamed": 106, "streams": 21, "mature": 1, "language": "Turkish", "account_age": 2175840.0}

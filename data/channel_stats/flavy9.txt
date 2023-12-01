@@ -1,0 +1,1 @@
+{"channel": "flavy9", "avg_viewers": 9, "followers_gained": 26, "peak_viewers": 99, "hours_streamed": 60, "streams": 23, "mature": 0, "language": "English", "account_age": 2329920.0}

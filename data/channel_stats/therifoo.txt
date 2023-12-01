@@ -1,0 +1,1 @@
+{"channel": "therifoo", "avg_viewers": 84, "followers_gained": 546, "peak_viewers": 303, "hours_streamed": 267, "streams": 37, "mature": 0, "language": "Russian", "account_age": 1880640.0}

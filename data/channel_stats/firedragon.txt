@@ -1,0 +1,1 @@
+{"channel": "firedragon", "avg_viewers": 353, "followers_gained": 352, "peak_viewers": 2677, "hours_streamed": 147, "streams": 27, "mature": 0, "language": "English", "account_age": 3411360.0}

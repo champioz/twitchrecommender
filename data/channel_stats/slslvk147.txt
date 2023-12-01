@@ -1,0 +1,1 @@
+{"channel": "slslvk147", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 24, "streams": 4, "mature": 0, "language": "Korean", "account_age": 1640160.0}

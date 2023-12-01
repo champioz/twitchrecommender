@@ -1,0 +1,1 @@
+{"channel": "orduluumut", "avg_viewers": 4, "followers_gained": 34, "peak_viewers": 15, "hours_streamed": 92, "streams": 22, "mature": 1, "language": "English", "account_age": 3193920.0}

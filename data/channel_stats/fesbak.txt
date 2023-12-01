@@ -1,0 +1,1 @@
+{"channel": "fesbak", "avg_viewers": 325, "followers_gained": 3288, "peak_viewers": 2011, "hours_streamed": 68, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 3512160.0}

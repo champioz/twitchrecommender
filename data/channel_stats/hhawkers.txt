@@ -1,0 +1,1 @@
+{"channel": "hhawkers", "avg_viewers": 93, "followers_gained": 350, "peak_viewers": 140, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "French", "account_age": 1281600.0}

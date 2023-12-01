@@ -1,0 +1,1 @@
+{"channel": "felixgen", "avg_viewers": 22, "followers_gained": 11, "peak_viewers": 26, "hours_streamed": 2, "streams": 4, "mature": 0, "language": "Swedish", "account_age": 904320.0}

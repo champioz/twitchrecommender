@@ -1,0 +1,1 @@
+{"channel": "fbbtv", "avg_viewers": 28, "followers_gained": 43, "peak_viewers": 39, "hours_streamed": 2, "streams": 2, "mature": 0, "language": "Turkish", "account_age": 1527840.0}

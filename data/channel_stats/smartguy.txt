@@ -1,0 +1,1 @@
+{"channel": "smartguy", "avg_viewers": 266, "followers_gained": 1106, "peak_viewers": 1583, "hours_streamed": 109, "streams": 20, "mature": 1, "language": "English", "account_age": 2914560.0}

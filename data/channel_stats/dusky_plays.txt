@@ -1,0 +1,1 @@
+{"channel": "dusky_plays", "avg_viewers": 31, "followers_gained": 26, "peak_viewers": 71, "hours_streamed": 128, "streams": 21, "mature": 1, "language": "German", "account_age": 2309760.0}

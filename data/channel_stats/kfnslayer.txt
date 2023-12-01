@@ -1,0 +1,1 @@
+{"channel": "kfnslayer", "avg_viewers": 11, "followers_gained": 32, "peak_viewers": 36, "hours_streamed": 41, "streams": 19, "mature": 1, "language": "English", "account_age": 3726720.0}

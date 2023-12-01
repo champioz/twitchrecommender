@@ -1,0 +1,1 @@
+{"channel": "jonakinho", "avg_viewers": 4, "followers_gained": 64, "peak_viewers": 20, "hours_streamed": 195, "streams": 36, "mature": 0, "language": "Portuguese", "account_age": 339840.0}

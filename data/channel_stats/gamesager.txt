@@ -1,0 +1,1 @@
+{"channel": "gamesager", "avg_viewers": 162, "followers_gained": 185, "peak_viewers": 1364, "hours_streamed": 90, "streams": 15, "mature": 0, "language": "English", "account_age": 4381920.0}

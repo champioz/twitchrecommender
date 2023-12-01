@@ -1,0 +1,1 @@
+{"channel": "zadeqtv", "avg_viewers": 11, "followers_gained": 130, "peak_viewers": 22, "hours_streamed": 53, "streams": 18, "mature": 0, "language": "French", "account_age": 367200.0}

@@ -1,0 +1,1 @@
+{"channel": "clumzyhq", "avg_viewers": 31, "followers_gained": 58, "peak_viewers": 87, "hours_streamed": 27, "streams": 8, "mature": 0, "language": "Spanish", "account_age": 3517920.0}

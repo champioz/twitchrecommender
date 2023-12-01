@@ -1,0 +1,1 @@
+{"channel": "scrabble890", "avg_viewers": 10, "followers_gained": 33, "peak_viewers": 31, "hours_streamed": 27, "streams": 8, "mature": 0, "language": "English", "account_age": 1180800.0}

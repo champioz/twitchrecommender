@@ -1,0 +1,1 @@
+{"channel": "sunsura_", "avg_viewers": 13, "followers_gained": 154, "peak_viewers": 51, "hours_streamed": 130, "streams": 21, "mature": 1, "language": "French", "account_age": 1441440.0}

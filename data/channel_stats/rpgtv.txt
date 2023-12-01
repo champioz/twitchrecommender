@@ -1,0 +1,1 @@
+{"channel": "rpgtv", "avg_viewers": 87, "followers_gained": 214, "peak_viewers": 213, "hours_streamed": 122, "streams": 20, "mature": 1, "language": "Portuguese", "account_age": 972000.0}

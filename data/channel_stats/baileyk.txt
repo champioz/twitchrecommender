@@ -1,0 +1,1 @@
+{"channel": "baileyk", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 12, "hours_streamed": 124, "streams": 27, "mature": 0, "language": "English", "account_age": 1882080.0}

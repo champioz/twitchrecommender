@@ -1,0 +1,1 @@
+{"channel": "ilow", "avg_viewers": 4, "followers_gained": 35, "peak_viewers": 18, "hours_streamed": 15, "streams": 13, "mature": 0, "language": "Portuguese", "account_age": 1176480.0}

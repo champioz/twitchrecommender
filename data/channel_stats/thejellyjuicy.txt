@@ -1,0 +1,1 @@
+{"channel": "thejellyjuicy", "avg_viewers": 21, "followers_gained": 997, "peak_viewers": 53, "hours_streamed": 104, "streams": 26, "mature": 0, "language": "English", "account_age": 492480.0}

@@ -1,0 +1,1 @@
+{"channel": "zget", "avg_viewers": 0, "followers_gained": 9, "peak_viewers": 6, "hours_streamed": 169, "streams": 33, "mature": 1, "language": "German", "account_age": 3893760.0}

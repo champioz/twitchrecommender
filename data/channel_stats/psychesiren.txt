@@ -1,0 +1,1 @@
+{"channel": "psychesiren", "avg_viewers": 12, "followers_gained": 56, "peak_viewers": 29, "hours_streamed": 114, "streams": 46, "mature": 1, "language": "English", "account_age": 2057760.0}

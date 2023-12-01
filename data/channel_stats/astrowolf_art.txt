@@ -1,0 +1,1 @@
+{"channel": "astrowolf_art", "avg_viewers": 8, "followers_gained": 45, "peak_viewers": 28, "hours_streamed": 51, "streams": 23, "mature": 0, "language": "English", "account_age": 1491840.0}

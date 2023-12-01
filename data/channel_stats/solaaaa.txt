@@ -1,0 +1,1 @@
+{"channel": "solaaaa", "avg_viewers": 1577, "followers_gained": 2686, "peak_viewers": 4282, "hours_streamed": 69, "streams": 14, "mature": 0, "language": "German", "account_age": 3219840.0}

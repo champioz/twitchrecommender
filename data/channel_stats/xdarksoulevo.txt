@@ -1,0 +1,1 @@
+{"channel": "xdarksoulevo", "avg_viewers": 204, "followers_gained": 256, "peak_viewers": 389, "hours_streamed": 113, "streams": 15, "mature": 1, "language": "Spanish", "account_age": 1929600.0}

@@ -1,0 +1,1 @@
+{"channel": "h9mpeow", "avg_viewers": 2, "followers_gained": 12, "peak_viewers": 13, "hours_streamed": 41, "streams": 9, "mature": 0, "language": "English", "account_age": 3031200.0}

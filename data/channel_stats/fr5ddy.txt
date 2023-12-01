@@ -1,0 +1,1 @@
+{"channel": "fr5ddy", "avg_viewers": 17, "followers_gained": 92, "peak_viewers": 99, "hours_streamed": 67, "streams": 27, "mature": 0, "language": "English", "account_age": 2937600.0}

@@ -1,0 +1,1 @@
+{"channel": "luddiie", "avg_viewers": 60, "followers_gained": 320, "peak_viewers": 272, "hours_streamed": 149, "streams": 32, "mature": 0, "language": "Swedish", "account_age": 3396960.0}

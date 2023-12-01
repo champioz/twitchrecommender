@@ -1,0 +1,1 @@
+{"channel": "nimolala", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 20, "hours_streamed": 46, "streams": 34, "mature": 1, "language": "Chinese", "account_age": 1732320.0}

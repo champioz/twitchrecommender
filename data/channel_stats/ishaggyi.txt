@@ -1,0 +1,1 @@
+{"channel": "ishaggyi", "avg_viewers": 5, "followers_gained": 68, "peak_viewers": 47, "hours_streamed": 135, "streams": 69, "mature": 0, "language": "Italian", "account_age": 2819520.0}

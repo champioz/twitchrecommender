@@ -1,0 +1,1 @@
+{"channel": "bubul_ow", "avg_viewers": 6, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 1, "streams": 1, "mature": 1, "language": "French", "account_age": 1035360.0}

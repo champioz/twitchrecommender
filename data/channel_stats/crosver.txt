@@ -1,0 +1,1 @@
+{"channel": "crosver", "avg_viewers": 4, "followers_gained": 31, "peak_viewers": 11, "hours_streamed": 145, "streams": 37, "mature": 0, "language": "Spanish", "account_age": 1005120.0}

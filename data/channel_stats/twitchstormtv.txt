@@ -1,0 +1,1 @@
+{"channel": "twitchstormtv", "avg_viewers": 9, "followers_gained": 1026, "peak_viewers": 62, "hours_streamed": 256, "streams": 60, "mature": 0, "language": "English", "account_age": 1795680.0}

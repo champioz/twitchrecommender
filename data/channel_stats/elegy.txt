@@ -1,0 +1,1 @@
+{"channel": "elegy", "avg_viewers": 131, "followers_gained": 71, "peak_viewers": 416, "hours_streamed": 135, "streams": 31, "mature": 0, "language": "English", "account_age": 4364640.0}

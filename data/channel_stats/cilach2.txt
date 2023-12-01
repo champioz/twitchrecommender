@@ -1,0 +1,1 @@
+{"channel": "cilach2", "avg_viewers": 48, "followers_gained": 170, "peak_viewers": 111, "hours_streamed": 148, "streams": 16, "mature": 1, "language": "Russian", "account_age": 853920.0}

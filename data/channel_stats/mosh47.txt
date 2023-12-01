@@ -1,0 +1,1 @@
+{"channel": "mosh47", "avg_viewers": 3, "followers_gained": 50, "peak_viewers": 9, "hours_streamed": 62, "streams": 12, "mature": 0, "language": "English", "account_age": 3902400.0}

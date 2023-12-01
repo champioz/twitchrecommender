@@ -1,0 +1,1 @@
+{"channel": "maskofmustafa", "avg_viewers": 4, "followers_gained": 1, "peak_viewers": 9, "hours_streamed": 9, "streams": 4, "mature": 0, "language": "Turkish", "account_age": 820800.0}

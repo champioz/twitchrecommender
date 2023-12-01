@@ -1,0 +1,1 @@
+{"channel": "abarryj", "avg_viewers": 16, "followers_gained": 53, "peak_viewers": 32, "hours_streamed": 86, "streams": 12, "mature": 0, "language": "English", "account_age": 1120320.0}

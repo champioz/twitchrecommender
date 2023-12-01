@@ -1,0 +1,1 @@
+{"channel": "rhffkddl96", "avg_viewers": 25, "followers_gained": 222, "peak_viewers": 329, "hours_streamed": 135, "streams": 20, "mature": 0, "language": "Korean", "account_age": 247680.0}

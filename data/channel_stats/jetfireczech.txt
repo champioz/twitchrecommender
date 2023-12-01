@@ -1,0 +1,1 @@
+{"channel": "jetfireczech", "avg_viewers": 11, "followers_gained": 59, "peak_viewers": 46, "hours_streamed": 86, "streams": 35, "mature": 1, "language": "Czech", "account_age": 2504160.0}

@@ -1,0 +1,1 @@
+{"channel": "arislash", "avg_viewers": 100, "followers_gained": 490, "peak_viewers": 1094, "hours_streamed": 200, "streams": 34, "mature": 1, "language": "English", "account_age": 3771360.0}

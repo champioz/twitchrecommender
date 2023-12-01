@@ -1,0 +1,1 @@
+{"channel": "nimortv", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 14, "hours_streamed": 10, "streams": 5, "mature": 0, "language": "Romanian", "account_age": 2625120.0}

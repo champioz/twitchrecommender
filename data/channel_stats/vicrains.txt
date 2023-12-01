@@ -1,0 +1,1 @@
+{"channel": "vicrains", "avg_viewers": 128, "followers_gained": 2664, "peak_viewers": 1209, "hours_streamed": 43, "streams": 17, "mature": 1, "language": "Turkish", "account_age": 2034720.0}

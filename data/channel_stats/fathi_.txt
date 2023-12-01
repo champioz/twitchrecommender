@@ -1,0 +1,1 @@
+{"channel": "fathi_", "avg_viewers": 4, "followers_gained": 28, "peak_viewers": 14, "hours_streamed": 69, "streams": 16, "mature": 1, "language": "French", "account_age": 722880.0}

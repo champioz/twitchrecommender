@@ -1,0 +1,1 @@
+{"channel": "last_soldjer", "avg_viewers": 3, "followers_gained": 17, "peak_viewers": 24, "hours_streamed": 32, "streams": 6, "mature": 1, "language": "German", "account_age": 1738080.0}

@@ -1,0 +1,1 @@
+{"channel": "rivenzi", "avg_viewers": 74, "followers_gained": 593, "peak_viewers": 251, "hours_streamed": 47, "streams": 17, "mature": 0, "language": "French", "account_age": 3710880.0}

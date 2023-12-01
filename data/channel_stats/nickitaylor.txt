@@ -1,0 +1,1 @@
+{"channel": "nickitaylor", "avg_viewers": 287, "followers_gained": 543, "peak_viewers": 1256, "hours_streamed": 90, "streams": 20, "mature": 0, "language": "English", "account_age": 3445920.0}

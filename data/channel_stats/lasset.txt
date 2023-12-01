@@ -1,0 +1,1 @@
+{"channel": "lasset", "avg_viewers": 40, "followers_gained": 65, "peak_viewers": 121, "hours_streamed": 131, "streams": 24, "mature": 1, "language": "German", "account_age": 2046240.0}

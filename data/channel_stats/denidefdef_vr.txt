@@ -1,0 +1,1 @@
+{"channel": "denidefdef_vr", "avg_viewers": 4, "followers_gained": 16, "peak_viewers": 59, "hours_streamed": 85, "streams": 21, "mature": 1, "language": "German", "account_age": 2216160.0}

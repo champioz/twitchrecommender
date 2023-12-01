@@ -1,0 +1,1 @@
+{"channel": "asia_games_it", "avg_viewers": 2, "followers_gained": 27, "peak_viewers": 10, "hours_streamed": 33, "streams": 12, "mature": 0, "language": "Italian", "account_age": 1761120.0}

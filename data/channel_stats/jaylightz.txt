@@ -1,0 +1,1 @@
+{"channel": "jaylightz", "avg_viewers": 24, "followers_gained": 37, "peak_viewers": 73, "hours_streamed": 51, "streams": 17, "mature": 1, "language": "", "account_age": 3265920.0}

@@ -1,0 +1,1 @@
+{"channel": "gethynator", "avg_viewers": 10, "followers_gained": 9, "peak_viewers": 27, "hours_streamed": 12, "streams": 7, "mature": 1, "language": "English", "account_age": 1055520.0}

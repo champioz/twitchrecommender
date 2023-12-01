@@ -1,0 +1,1 @@
+{"channel": "choobysanoka", "avg_viewers": 8, "followers_gained": 72, "peak_viewers": 44, "hours_streamed": 136, "streams": 27, "mature": 1, "language": "English", "account_age": 2966400.0}

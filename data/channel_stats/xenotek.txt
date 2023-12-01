@@ -1,0 +1,1 @@
+{"channel": "xenotek", "avg_viewers": 60, "followers_gained": 145, "peak_viewers": 391, "hours_streamed": 187, "streams": 27, "mature": 0, "language": "English", "account_age": 3026880.0}

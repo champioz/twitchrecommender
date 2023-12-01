@@ -1,0 +1,1 @@
+{"channel": "nirvana985", "avg_viewers": 6, "followers_gained": 10, "peak_viewers": 16, "hours_streamed": 88, "streams": 26, "mature": 0, "language": "English", "account_age": 4818240.0}

@@ -1,0 +1,1 @@
+{"channel": "caro821", "avg_viewers": 10, "followers_gained": 211, "peak_viewers": 43, "hours_streamed": 57, "streams": 43, "mature": 0, "language": "Spanish", "account_age": 2649600.0}

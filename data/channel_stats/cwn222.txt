@@ -1,0 +1,1 @@
+{"channel": "cwn222", "avg_viewers": 424, "followers_gained": 67, "peak_viewers": 817, "hours_streamed": 213, "streams": 30, "mature": 0, "language": "Korean", "account_age": 1452960.0}

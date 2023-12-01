@@ -1,0 +1,1 @@
+{"channel": "denijoga", "avg_viewers": 382, "followers_gained": 5203, "peak_viewers": 677, "hours_streamed": 34, "streams": 15, "mature": 0, "language": "Portuguese", "account_age": 1059840.0}

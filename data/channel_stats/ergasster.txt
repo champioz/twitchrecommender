@@ -1,0 +1,1 @@
+{"channel": "ergasster", "avg_viewers": 59, "followers_gained": 49, "peak_viewers": 100, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "Spanish", "account_age": 1910880.0}

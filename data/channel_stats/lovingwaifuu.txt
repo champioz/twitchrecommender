@@ -1,0 +1,1 @@
+{"channel": "lovingwaifuu", "avg_viewers": 19, "followers_gained": 68, "peak_viewers": 50, "hours_streamed": 16, "streams": 7, "mature": 1, "language": "English", "account_age": 1676160.0}

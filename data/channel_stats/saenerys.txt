@@ -1,0 +1,1 @@
+{"channel": "saenerys", "avg_viewers": 22, "followers_gained": 84, "peak_viewers": 70, "hours_streamed": 86, "streams": 20, "mature": 0, "language": "Spanish", "account_age": 3195360.0}

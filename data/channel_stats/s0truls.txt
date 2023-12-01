@@ -1,0 +1,1 @@
+{"channel": "s0truls", "avg_viewers": 6, "followers_gained": 13, "peak_viewers": 12, "hours_streamed": 23, "streams": 5, "mature": 1, "language": "Norwegian", "account_age": 2414880.0}

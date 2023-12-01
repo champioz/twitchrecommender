@@ -1,0 +1,1 @@
+{"channel": "klasik_", "avg_viewers": 30, "followers_gained": 271, "peak_viewers": 116, "hours_streamed": 70, "streams": 31, "mature": 0, "language": "Czech", "account_age": 2687040.0}

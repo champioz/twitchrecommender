@@ -1,0 +1,1 @@
+{"channel": "jay_tb", "avg_viewers": 689, "followers_gained": 465, "peak_viewers": 3199, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "Russian", "account_age": 1908000.0}

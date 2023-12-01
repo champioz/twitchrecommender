@@ -1,0 +1,1 @@
+{"channel": "neuskies", "avg_viewers": 3, "followers_gained": 41, "peak_viewers": 14, "hours_streamed": 46, "streams": 24, "mature": 1, "language": "English", "account_age": 714240.0}

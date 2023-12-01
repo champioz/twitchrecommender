@@ -1,0 +1,1 @@
+{"channel": "maxalibur", "avg_viewers": 501, "followers_gained": 7791, "peak_viewers": 2370, "hours_streamed": 143, "streams": 40, "mature": 0, "language": "French", "account_age": 2662560.0}

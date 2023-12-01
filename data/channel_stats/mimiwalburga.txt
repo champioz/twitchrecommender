@@ -1,0 +1,1 @@
+{"channel": "mimiwalburga", "avg_viewers": 26, "followers_gained": 86, "peak_viewers": 67, "hours_streamed": 70, "streams": 18, "mature": 1, "language": "German", "account_age": 1537920.0}

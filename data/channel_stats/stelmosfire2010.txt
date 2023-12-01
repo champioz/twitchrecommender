@@ -1,0 +1,1 @@
+{"channel": "stelmosfire2010", "avg_viewers": 5, "followers_gained": 13, "peak_viewers": 22, "hours_streamed": 54, "streams": 16, "mature": 0, "language": "Japanese", "account_age": 1025280.0}

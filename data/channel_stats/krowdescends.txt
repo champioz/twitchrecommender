@@ -1,0 +1,1 @@
+{"channel": "krowdescends", "avg_viewers": 20, "followers_gained": 12, "peak_viewers": 101, "hours_streamed": 64, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 2892960.0}

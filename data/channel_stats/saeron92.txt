@@ -1,0 +1,1 @@
+{"channel": "saeron92", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 68, "streams": 20, "mature": 1, "language": "Finnish", "account_age": 4282560.0}

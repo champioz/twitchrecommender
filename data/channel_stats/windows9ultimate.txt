@@ -1,0 +1,1 @@
+{"channel": "windows9ultimate", "avg_viewers": 43, "followers_gained": 166, "peak_viewers": 891, "hours_streamed": 152, "streams": 24, "mature": 1, "language": "Chinese", "account_age": 1657440.0}

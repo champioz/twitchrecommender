@@ -1,0 +1,1 @@
+{"channel": "flydragx", "avg_viewers": 86, "followers_gained": 316, "peak_viewers": 220, "hours_streamed": 142, "streams": 29, "mature": 0, "language": "Russian", "account_age": 4397760.0}

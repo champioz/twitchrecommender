@@ -1,0 +1,1 @@
+{"channel": "sandays", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 10, "hours_streamed": 9, "streams": 3, "mature": 0, "language": "English", "account_age": 3307680.0}

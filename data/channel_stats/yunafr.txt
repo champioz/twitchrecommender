@@ -1,0 +1,1 @@
+{"channel": "yunafr", "avg_viewers": 9, "followers_gained": 82, "peak_viewers": 22, "hours_streamed": 66, "streams": 21, "mature": 1, "language": "French", "account_age": 741600.0}

@@ -1,0 +1,1 @@
+{"channel": "sordiway", "avg_viewers": 25, "followers_gained": 113, "peak_viewers": 46, "hours_streamed": 42, "streams": 16, "mature": 0, "language": "English", "account_age": 3775680.0}

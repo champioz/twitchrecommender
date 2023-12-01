@@ -1,0 +1,1 @@
+{"channel": "grotebeer", "avg_viewers": 16, "followers_gained": 221, "peak_viewers": 87, "hours_streamed": 92, "streams": 40, "mature": 1, "language": "Dutch", "account_age": 3921120.0}

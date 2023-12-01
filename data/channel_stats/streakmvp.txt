@@ -1,0 +1,1 @@
+{"channel": "streakmvp", "avg_viewers": 74, "followers_gained": 844, "peak_viewers": 154, "hours_streamed": 116, "streams": 39, "mature": 1, "language": "Romanian", "account_age": 2244960.0}

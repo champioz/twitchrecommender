@@ -1,0 +1,1 @@
+{"channel": "marlonx", "avg_viewers": 12, "followers_gained": 13, "peak_viewers": 24, "hours_streamed": 9, "streams": 1, "mature": 0, "language": "German", "account_age": 1830240.0}

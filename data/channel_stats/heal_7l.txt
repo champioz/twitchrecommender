@@ -1,0 +1,1 @@
+{"channel": "heal_7l", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 7, "hours_streamed": 17, "streams": 11, "mature": 0, "language": "Portuguese", "account_age": 1681920.0}

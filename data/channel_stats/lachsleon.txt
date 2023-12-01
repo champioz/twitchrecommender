@@ -1,0 +1,1 @@
+{"channel": "lachsleon", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 11, "hours_streamed": 28, "streams": 6, "mature": 0, "language": "German", "account_age": 2147040.0}

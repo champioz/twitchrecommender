@@ -1,0 +1,1 @@
+{"channel": "jussraul", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 4, "hours_streamed": 15, "streams": 14, "mature": 0, "language": "English", "account_age": 747360.0}

@@ -1,0 +1,1 @@
+{"channel": "blasuski", "avg_viewers": 77, "followers_gained": 385, "peak_viewers": 244, "hours_streamed": 89, "streams": 23, "mature": 1, "language": "Spanish", "account_age": 1350720.0}

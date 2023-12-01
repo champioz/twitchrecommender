@@ -1,0 +1,1 @@
+{"channel": "mimi00618", "avg_viewers": 79, "followers_gained": 154, "peak_viewers": 216, "hours_streamed": 9, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 1147680.0}

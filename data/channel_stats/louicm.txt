@@ -1,0 +1,1 @@
+{"channel": "louicm", "avg_viewers": 37, "followers_gained": 17, "peak_viewers": 148, "hours_streamed": 17, "streams": 8, "mature": 0, "language": "English", "account_age": 1493280.0}

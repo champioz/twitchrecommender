@@ -1,0 +1,1 @@
+{"channel": "koutea216", "avg_viewers": 10, "followers_gained": 1, "peak_viewers": 68, "hours_streamed": 8, "streams": 3, "mature": 0, "language": "Japanese", "account_age": 1009440.0}

@@ -1,0 +1,1 @@
+{"channel": "trs_natch", "avg_viewers": 8, "followers_gained": 793, "peak_viewers": 39, "hours_streamed": 171, "streams": 69, "mature": 1, "language": "French", "account_age": 2940480.0}

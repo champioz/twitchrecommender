@@ -1,0 +1,1 @@
+{"channel": "sweetnaillik", "avg_viewers": 9, "followers_gained": 80, "peak_viewers": 26, "hours_streamed": 59, "streams": 16, "mature": 0, "language": "French", "account_age": 1373760.0}

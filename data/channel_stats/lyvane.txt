@@ -1,0 +1,1 @@
+{"channel": "lyvane", "avg_viewers": 27, "followers_gained": 35, "peak_viewers": 55, "hours_streamed": 36, "streams": 15, "mature": 0, "language": "Italian", "account_age": 1933920.0}

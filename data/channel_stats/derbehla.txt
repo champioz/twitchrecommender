@@ -1,0 +1,1 @@
+{"channel": "derbehla", "avg_viewers": 71, "followers_gained": 1774, "peak_viewers": 1452, "hours_streamed": 97, "streams": 24, "mature": 0, "language": "German", "account_age": 2259360.0}

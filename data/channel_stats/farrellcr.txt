@@ -1,0 +1,1 @@
+{"channel": "farrellcr", "avg_viewers": 67, "followers_gained": 866, "peak_viewers": 131, "hours_streamed": 123, "streams": 36, "mature": 0, "language": "Spanish", "account_age": 1059840.0}

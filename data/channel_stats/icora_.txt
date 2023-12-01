@@ -1,0 +1,1 @@
+{"channel": "icora_", "avg_viewers": 135, "followers_gained": 418, "peak_viewers": 303, "hours_streamed": 19, "streams": 6, "mature": 1, "language": "Spanish", "account_age": 3781440.0}

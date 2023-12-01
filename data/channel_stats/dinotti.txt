@@ -1,0 +1,1 @@
+{"channel": "dinotti", "avg_viewers": 32, "followers_gained": 286, "peak_viewers": 139, "hours_streamed": 60, "streams": 22, "mature": 1, "language": "English", "account_age": 2655360.0}

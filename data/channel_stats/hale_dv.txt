@@ -1,0 +1,1 @@
+{"channel": "hale_dv", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 78, "streams": 14, "mature": 1, "language": "English", "account_age": 1710720.0}

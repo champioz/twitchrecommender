@@ -1,0 +1,1 @@
+{"channel": "moneymike2k18", "avg_viewers": 4, "followers_gained": 3, "peak_viewers": 9, "hours_streamed": 3, "streams": 2, "mature": 1, "language": "English", "account_age": 642240.0}

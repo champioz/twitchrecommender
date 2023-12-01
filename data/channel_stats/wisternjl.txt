@@ -1,0 +1,1 @@
+{"channel": "wisternjl", "avg_viewers": 47, "followers_gained": 216, "peak_viewers": 211, "hours_streamed": 144, "streams": 26, "mature": 1, "language": "English", "account_age": 491040.0}

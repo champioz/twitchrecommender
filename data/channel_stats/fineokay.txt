@@ -1,0 +1,1 @@
+{"channel": "fineokay", "avg_viewers": 263, "followers_gained": 761, "peak_viewers": 542, "hours_streamed": 60, "streams": 17, "mature": 0, "language": "English", "account_age": 1962720.0}

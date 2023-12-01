@@ -1,0 +1,1 @@
+{"channel": "chillzor", "avg_viewers": 10, "followers_gained": 14, "peak_viewers": 33, "hours_streamed": 67, "streams": 19, "mature": 0, "language": "English", "account_age": 1716480.0}

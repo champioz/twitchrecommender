@@ -1,0 +1,1 @@
+{"channel": "bureen", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 0, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "Spanish", "account_age": 1029600.0}

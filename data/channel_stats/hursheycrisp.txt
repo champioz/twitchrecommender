@@ -1,0 +1,1 @@
+{"channel": "hursheycrisp", "avg_viewers": 19, "followers_gained": 24, "peak_viewers": 66, "hours_streamed": 9, "streams": 3, "mature": 1, "language": "English", "account_age": 2139840.0}

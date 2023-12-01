@@ -1,0 +1,1 @@
+{"channel": "enma0311", "avg_viewers": 93, "followers_gained": 1151, "peak_viewers": 277, "hours_streamed": 49, "streams": 12, "mature": 0, "language": "Korean", "account_age": 1484640.0}

@@ -1,0 +1,1 @@
+{"channel": "oesparta", "avg_viewers": 6, "followers_gained": 168, "peak_viewers": 44, "hours_streamed": 98, "streams": 33, "mature": 0, "language": "Portuguese", "account_age": 804960.0}

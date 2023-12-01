@@ -1,0 +1,1 @@
+{"channel": "emlux", "avg_viewers": 5, "followers_gained": 14, "peak_viewers": 17, "hours_streamed": 31, "streams": 7, "mature": 0, "language": "English", "account_age": 1409760.0}

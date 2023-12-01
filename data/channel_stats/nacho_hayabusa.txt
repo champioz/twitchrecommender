@@ -1,0 +1,1 @@
+{"channel": "nacho_hayabusa", "avg_viewers": 0, "followers_gained": 6, "peak_viewers": 3, "hours_streamed": 23, "streams": 11, "mature": 0, "language": "Spanish", "account_age": 547200.0}

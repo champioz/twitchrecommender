@@ -1,0 +1,1 @@
+{"channel": "nam2839", "avg_viewers": 4, "followers_gained": 9, "peak_viewers": 16, "hours_streamed": 116, "streams": 30, "mature": 0, "language": "Korean", "account_age": 342720.0}

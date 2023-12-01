@@ -1,0 +1,1 @@
+{"channel": "anbu", "avg_viewers": 62, "followers_gained": 127, "peak_viewers": 179, "hours_streamed": 25, "streams": 9, "mature": 0, "language": "English", "account_age": 2638080.0}

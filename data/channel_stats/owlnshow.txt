@@ -1,0 +1,1 @@
+{"channel": "owlnshow", "avg_viewers": 3, "followers_gained": 5, "peak_viewers": 9, "hours_streamed": 37, "streams": 20, "mature": 0, "language": "English", "account_age": 1176480.0}

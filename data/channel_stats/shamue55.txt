@@ -1,0 +1,1 @@
+{"channel": "shamue55", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 23, "hours_streamed": 32, "streams": 11, "mature": 1, "language": "English", "account_age": 2864160.0}

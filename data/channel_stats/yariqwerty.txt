@@ -1,0 +1,1 @@
+{"channel": "yariqwerty", "avg_viewers": 4, "followers_gained": 35, "peak_viewers": 25, "hours_streamed": 208, "streams": 53, "mature": 1, "language": "English", "account_age": 1632960.0}

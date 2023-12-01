@@ -1,0 +1,1 @@
+{"channel": "imartz3", "avg_viewers": 10, "followers_gained": 16, "peak_viewers": 28, "hours_streamed": 47, "streams": 12, "mature": 0, "language": "English", "account_age": 2354400.0}

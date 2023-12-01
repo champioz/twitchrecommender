@@ -1,0 +1,1 @@
+{"channel": "madsmea", "avg_viewers": 9, "followers_gained": 22, "peak_viewers": 26, "hours_streamed": 43, "streams": 9, "mature": 1, "language": "English", "account_age": 2170080.0}

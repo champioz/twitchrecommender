@@ -1,0 +1,1 @@
+{"channel": "jenniferjess", "avg_viewers": 83, "followers_gained": 322, "peak_viewers": 272, "hours_streamed": 33, "streams": 10, "mature": 0, "language": "English", "account_age": 1713600.0}

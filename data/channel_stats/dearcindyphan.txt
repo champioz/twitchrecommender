@@ -1,0 +1,1 @@
+{"channel": "dearcindyphan", "avg_viewers": 92, "followers_gained": 222, "peak_viewers": 157, "hours_streamed": 70, "streams": 14, "mature": 1, "language": "English", "account_age": 1732320.0}

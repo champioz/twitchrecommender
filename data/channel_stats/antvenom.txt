@@ -1,0 +1,1 @@
+{"channel": "antvenom", "avg_viewers": 876, "followers_gained": 12711, "peak_viewers": 6802, "hours_streamed": 57, "streams": 11, "mature": 0, "language": "English", "account_age": 4259520.0}

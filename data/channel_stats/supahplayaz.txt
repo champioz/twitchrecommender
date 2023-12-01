@@ -1,0 +1,1 @@
+{"channel": "supahplayaz", "avg_viewers": 65, "followers_gained": 64, "peak_viewers": 179, "hours_streamed": 14, "streams": 4, "mature": 0, "language": "English", "account_age": 921600.0}

@@ -1,0 +1,1 @@
+{"channel": "papy347", "avg_viewers": 11, "followers_gained": 114, "peak_viewers": 42, "hours_streamed": 145, "streams": 34, "mature": 0, "language": "French", "account_age": 1258560.0}

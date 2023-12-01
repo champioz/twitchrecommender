@@ -1,0 +1,1 @@
+{"channel": "percently", "avg_viewers": 23, "followers_gained": 1453, "peak_viewers": 79, "hours_streamed": 153, "streams": 34, "mature": 0, "language": "English", "account_age": 329760.0}

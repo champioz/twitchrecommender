@@ -1,0 +1,1 @@
+{"channel": "thehotdish", "avg_viewers": 52, "followers_gained": 1267, "peak_viewers": 150, "hours_streamed": 158, "streams": 24, "mature": 1, "language": "English", "account_age": 2243520.0}

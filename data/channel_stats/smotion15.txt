@@ -1,0 +1,1 @@
+{"channel": "smotion15", "avg_viewers": 19, "followers_gained": 47, "peak_viewers": 64, "hours_streamed": 25, "streams": 8, "mature": 1, "language": "German", "account_age": 1463040.0}

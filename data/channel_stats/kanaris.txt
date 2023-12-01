@@ -1,0 +1,1 @@
+{"channel": "kanaris", "avg_viewers": 12, "followers_gained": 16, "peak_viewers": 40, "hours_streamed": 59, "streams": 12, "mature": 1, "language": "English", "account_age": 2959200.0}

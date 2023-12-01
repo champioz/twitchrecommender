@@ -1,0 +1,1 @@
+{"channel": "emberlunalesca", "avg_viewers": 95, "followers_gained": 25, "peak_viewers": 145, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "English", "account_age": 2560320.0}

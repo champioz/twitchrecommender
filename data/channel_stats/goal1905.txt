@@ -1,0 +1,1 @@
+{"channel": "goal1905", "avg_viewers": 36, "followers_gained": 35, "peak_viewers": 71, "hours_streamed": 113, "streams": 25, "mature": 1, "language": "German", "account_age": 2939040.0}

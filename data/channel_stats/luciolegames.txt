@@ -1,0 +1,1 @@
+{"channel": "luciolegames", "avg_viewers": 17, "followers_gained": 81, "peak_viewers": 32, "hours_streamed": 28, "streams": 8, "mature": 0, "language": "French", "account_age": 2508480.0}

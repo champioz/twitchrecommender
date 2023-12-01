@@ -1,0 +1,1 @@
+{"channel": "berph_san", "avg_viewers": 26, "followers_gained": 28, "peak_viewers": 58, "hours_streamed": 157, "streams": 24, "mature": 1, "language": "German", "account_age": 1686240.0}

@@ -1,0 +1,1 @@
+{"channel": "paranormalqq", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 12, "hours_streamed": 4, "streams": 4, "mature": 1, "language": "English", "account_age": 2571840.0}

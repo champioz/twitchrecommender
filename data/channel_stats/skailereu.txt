@@ -1,0 +1,1 @@
+{"channel": "skailereu", "avg_viewers": 130, "followers_gained": 1336, "peak_viewers": 545, "hours_streamed": 44, "streams": 14, "mature": 1, "language": "Czech", "account_age": 576000.0}

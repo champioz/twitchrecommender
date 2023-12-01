@@ -1,0 +1,1 @@
+{"channel": "kr1ptonplayer", "avg_viewers": 31, "followers_gained": 298, "peak_viewers": 200, "hours_streamed": 71, "streams": 23, "mature": 1, "language": "Spanish", "account_age": 1219680.0}

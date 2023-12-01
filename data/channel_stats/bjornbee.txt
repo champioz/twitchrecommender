@@ -1,0 +1,1 @@
+{"channel": "bjornbee", "avg_viewers": 446, "followers_gained": 332, "peak_viewers": 1073, "hours_streamed": 47, "streams": 12, "mature": 1, "language": "English", "account_age": 2478240.0}

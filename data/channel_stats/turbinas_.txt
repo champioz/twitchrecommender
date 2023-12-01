@@ -1,0 +1,1 @@
+{"channel": "turbinas_", "avg_viewers": 4, "followers_gained": 30, "peak_viewers": 22, "hours_streamed": 34, "streams": 17, "mature": 1, "language": "Portuguese", "account_age": 892800.0}

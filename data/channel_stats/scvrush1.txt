@@ -1,0 +1,1 @@
+{"channel": "scvrush1", "avg_viewers": 12, "followers_gained": 5, "peak_viewers": 23, "hours_streamed": 16, "streams": 6, "mature": 0, "language": "English", "account_age": 4180320.0}

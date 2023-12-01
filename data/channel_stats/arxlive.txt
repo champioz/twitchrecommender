@@ -1,0 +1,1 @@
+{"channel": "arxlive", "avg_viewers": 31, "followers_gained": 81, "peak_viewers": 58, "hours_streamed": 174, "streams": 41, "mature": 0, "language": "Bulgarian", "account_age": 1103040.0}

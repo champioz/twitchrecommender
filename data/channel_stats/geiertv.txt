@@ -1,0 +1,1 @@
+{"channel": "geiertv", "avg_viewers": 74, "followers_gained": 2347, "peak_viewers": 148, "hours_streamed": 177, "streams": 29, "mature": 1, "language": "German", "account_age": 2747520.0}

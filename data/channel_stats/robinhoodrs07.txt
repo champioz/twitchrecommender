@@ -1,0 +1,1 @@
+{"channel": "robinhoodrs07", "avg_viewers": 40, "followers_gained": 15, "peak_viewers": 181, "hours_streamed": 8, "streams": 3, "mature": 1, "language": "English", "account_age": 3398400.0}

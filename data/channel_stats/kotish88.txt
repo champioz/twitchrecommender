@@ -1,0 +1,1 @@
+{"channel": "kotish88", "avg_viewers": 305, "followers_gained": 90, "peak_viewers": 1387, "hours_streamed": 4, "streams": 1, "mature": 0, "language": "Russian", "account_age": 1851840.0}

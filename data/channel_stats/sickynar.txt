@@ -1,0 +1,1 @@
+{"channel": "sickynar", "avg_viewers": 8, "followers_gained": 24, "peak_viewers": 77, "hours_streamed": 74, "streams": 36, "mature": 0, "language": "English", "account_age": 2868480.0}

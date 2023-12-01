@@ -1,0 +1,1 @@
+{"channel": "youhey_k", "avg_viewers": 14, "followers_gained": 23, "peak_viewers": 45, "hours_streamed": 27, "streams": 14, "mature": 0, "language": "Japanese", "account_age": 1290240.0}

@@ -1,0 +1,1 @@
+{"channel": "mensiaga", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 6, "hours_streamed": 50, "streams": 21, "mature": 1, "language": "English", "account_age": 800640.0}

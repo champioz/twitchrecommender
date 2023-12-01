@@ -1,0 +1,1 @@
+{"channel": "xwiebzx", "avg_viewers": 3, "followers_gained": 50, "peak_viewers": 19, "hours_streamed": 81, "streams": 28, "mature": 0, "language": "English", "account_age": 2053440.0}

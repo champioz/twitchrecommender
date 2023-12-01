@@ -1,0 +1,1 @@
+{"channel": "marley_barbie", "avg_viewers": 173, "followers_gained": 1920, "peak_viewers": 412, "hours_streamed": 216, "streams": 23, "mature": 1, "language": "English", "account_age": 3395520.0}

@@ -1,0 +1,1 @@
+{"channel": "inlawzz", "avg_viewers": 6, "followers_gained": 32, "peak_viewers": 23, "hours_streamed": 88, "streams": 19, "mature": 1, "language": "English", "account_age": 2649600.0}

@@ -1,0 +1,1 @@
+{"channel": "eglorian", "avg_viewers": 11, "followers_gained": 26, "peak_viewers": 35, "hours_streamed": 73, "streams": 21, "mature": 1, "language": "English", "account_age": 3516480.0}

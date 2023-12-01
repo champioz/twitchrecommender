@@ -1,0 +1,1 @@
+{"channel": "binaryloop", "avg_viewers": 32, "followers_gained": 42, "peak_viewers": 81, "hours_streamed": 62, "streams": 13, "mature": 0, "language": "English", "account_age": 1055520.0}

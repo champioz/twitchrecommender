@@ -1,0 +1,1 @@
+{"channel": "mouchoutv", "avg_viewers": 86, "followers_gained": 31, "peak_viewers": 176, "hours_streamed": 35, "streams": 10, "mature": 1, "language": "French", "account_age": 1781280.0}

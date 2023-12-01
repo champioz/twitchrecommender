@@ -1,0 +1,1 @@
+{"channel": "moonfk12231995", "avg_viewers": 33, "followers_gained": 10, "peak_viewers": 55, "hours_streamed": 15, "streams": 6, "mature": 1, "language": "Chinese (Hong Kong SAR)", "account_age": 704160.0}

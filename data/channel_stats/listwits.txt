@@ -1,0 +1,1 @@
+{"channel": "listwits", "avg_viewers": 5, "followers_gained": 9, "peak_viewers": 14, "hours_streamed": 46, "streams": 14, "mature": 0, "language": "English", "account_age": 1134720.0}

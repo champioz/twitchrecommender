@@ -1,0 +1,1 @@
+{"channel": "smaxxxxxx", "avg_viewers": 10, "followers_gained": 96, "peak_viewers": 64, "hours_streamed": 194, "streams": 27, "mature": 1, "language": "Thai", "account_age": 588960.0}

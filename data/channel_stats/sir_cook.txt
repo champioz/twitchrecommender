@@ -1,0 +1,1 @@
+{"channel": "sir_cook", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 13, "hours_streamed": 15, "streams": 6, "mature": 1, "language": "Russian", "account_age": 1175040.0}

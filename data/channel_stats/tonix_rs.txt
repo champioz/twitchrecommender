@@ -1,0 +1,1 @@
+{"channel": "tonix_rs", "avg_viewers": 14, "followers_gained": 88, "peak_viewers": 46, "hours_streamed": 32, "streams": 11, "mature": 0, "language": "English", "account_age": 721440.0}

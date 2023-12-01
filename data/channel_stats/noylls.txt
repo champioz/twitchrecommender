@@ -1,0 +1,1 @@
+{"channel": "noylls", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 11, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "French", "account_age": 2404800.0}

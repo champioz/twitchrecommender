@@ -1,0 +1,1 @@
+{"channel": "zeisenn", "avg_viewers": 1, "followers_gained": 16, "peak_viewers": 8, "hours_streamed": 30, "streams": 13, "mature": 0, "language": "Korean", "account_age": 2134080.0}

@@ -1,0 +1,1 @@
+{"channel": "m4jedftw", "avg_viewers": 15, "followers_gained": 283, "peak_viewers": 65, "hours_streamed": 131, "streams": 30, "mature": 0, "language": "Arabic", "account_age": 2328480.0}

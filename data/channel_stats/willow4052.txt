@@ -1,0 +1,1 @@
+{"channel": "willow4052", "avg_viewers": 4, "followers_gained": 27, "peak_viewers": 18, "hours_streamed": 195, "streams": 38, "mature": 0, "language": "Korean", "account_age": 1180800.0}

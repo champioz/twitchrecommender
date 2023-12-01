@@ -1,0 +1,1 @@
+{"channel": "snjes_", "avg_viewers": 32, "followers_gained": 0, "peak_viewers": 32, "hours_streamed": 0, "streams": 1, "mature": 1, "language": "English", "account_age": 1807200.0}

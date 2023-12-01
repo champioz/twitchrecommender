@@ -1,0 +1,1 @@
+{"channel": "comfey", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 26, "hours_streamed": 82, "streams": 23, "mature": 0, "language": "English", "account_age": 1861920.0}

@@ -1,0 +1,1 @@
+{"channel": "dbc_teocruz", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 3, "hours_streamed": 28, "streams": 12, "mature": 1, "language": "English", "account_age": 822240.0}

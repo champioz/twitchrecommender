@@ -1,0 +1,1 @@
+{"channel": "xsiiri", "avg_viewers": 26, "followers_gained": 46, "peak_viewers": 48, "hours_streamed": 31, "streams": 8, "mature": 0, "language": "Dutch", "account_age": 1674720.0}

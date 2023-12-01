@@ -1,0 +1,1 @@
+{"channel": "r_fl3x", "avg_viewers": 18, "followers_gained": 150, "peak_viewers": 57, "hours_streamed": 222, "streams": 25, "mature": 1, "language": "German", "account_age": 1732320.0}

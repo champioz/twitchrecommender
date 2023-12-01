@@ -1,0 +1,1 @@
+{"channel": "albertsm28", "avg_viewers": 46, "followers_gained": 97, "peak_viewers": 120, "hours_streamed": 14, "streams": 8, "mature": 1, "language": "Spanish", "account_age": 845280.0}

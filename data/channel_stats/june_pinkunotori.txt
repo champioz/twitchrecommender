@@ -1,0 +1,1 @@
+{"channel": "june_pinkunotori", "avg_viewers": 49, "followers_gained": 274, "peak_viewers": 121, "hours_streamed": 14, "streams": 9, "mature": 0, "language": "Thai", "account_age": 895680.0}

@@ -1,0 +1,1 @@
+{"channel": "pjplusle", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 1, "hours_streamed": 5, "streams": 4, "mature": 0, "language": "Thai", "account_age": 227520.0}

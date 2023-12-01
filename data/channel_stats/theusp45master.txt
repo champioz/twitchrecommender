@@ -1,0 +1,1 @@
+{"channel": "theusp45master", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 10, "hours_streamed": 13, "streams": 7, "mature": 0, "language": "English", "account_age": 378720.0}

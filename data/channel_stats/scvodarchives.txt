@@ -1,0 +1,1 @@
+{"channel": "scvodarchives", "avg_viewers": 53, "followers_gained": 446, "peak_viewers": 117, "hours_streamed": 739, "streams": 5, "mature": 0, "language": "English", "account_age": 1435680.0}

@@ -1,0 +1,1 @@
+{"channel": "azoxx_r6s", "avg_viewers": 7, "followers_gained": 68, "peak_viewers": 18, "hours_streamed": 46, "streams": 15, "mature": 0, "language": "French", "account_age": 764640.0}

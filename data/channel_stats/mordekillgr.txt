@@ -1,0 +1,1 @@
+{"channel": "mordekillgr", "avg_viewers": 4, "followers_gained": 9, "peak_viewers": 9, "hours_streamed": 19, "streams": 8, "mature": 1, "language": "Greek", "account_age": 1844640.0}

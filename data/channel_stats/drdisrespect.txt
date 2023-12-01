@@ -1,0 +1,1 @@
+{"channel": "drdisrespect", "avg_viewers": 23037, "followers_gained": 72940, "peak_viewers": 76798, "hours_streamed": 99, "streams": 16, "mature": 0, "language": "English", "account_age": 4599360.0}

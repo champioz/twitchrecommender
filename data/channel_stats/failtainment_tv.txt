@@ -1,0 +1,1 @@
+{"channel": "failtainment_tv", "avg_viewers": 36, "followers_gained": 18, "peak_viewers": 81, "hours_streamed": 140, "streams": 23, "mature": 1, "language": "German", "account_age": 2106720.0}

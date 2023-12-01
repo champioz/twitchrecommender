@@ -1,0 +1,1 @@
+{"channel": "gornagal", "avg_viewers": 37, "followers_gained": 31, "peak_viewers": 82, "hours_streamed": 30, "streams": 7, "mature": 0, "language": "Czech", "account_age": 3903840.0}

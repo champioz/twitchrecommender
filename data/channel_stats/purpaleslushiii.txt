@@ -1,0 +1,1 @@
+{"channel": "purpaleslushiii", "avg_viewers": 27, "followers_gained": 80, "peak_viewers": 264, "hours_streamed": 77, "streams": 27, "mature": 0, "language": "English", "account_age": 3139200.0}

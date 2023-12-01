@@ -1,0 +1,1 @@
+{"channel": "pajotreq", "avg_viewers": 13, "followers_gained": 254, "peak_viewers": 66, "hours_streamed": 108, "streams": 18, "mature": 0, "language": "Polish", "account_age": 2325600.0}

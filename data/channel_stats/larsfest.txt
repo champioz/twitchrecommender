@@ -1,0 +1,1 @@
+{"channel": "larsfest", "avg_viewers": 393, "followers_gained": 230, "peak_viewers": 837, "hours_streamed": 147, "streams": 21, "mature": 0, "language": "English", "account_age": 3238560.0}

@@ -1,0 +1,1 @@
+{"channel": "macanaesp", "avg_viewers": 56, "followers_gained": 428, "peak_viewers": 106, "hours_streamed": 35, "streams": 16, "mature": 0, "language": "Spanish", "account_age": 1641600.0}

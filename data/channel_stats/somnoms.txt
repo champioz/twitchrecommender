@@ -1,0 +1,1 @@
+{"channel": "somnoms", "avg_viewers": 29, "followers_gained": 220, "peak_viewers": 93, "hours_streamed": 104, "streams": 16, "mature": 1, "language": "English", "account_age": 1676160.0}

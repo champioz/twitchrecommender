@@ -1,0 +1,1 @@
+{"channel": "istinto_86", "avg_viewers": 3, "followers_gained": 62, "peak_viewers": 19, "hours_streamed": 178, "streams": 31, "mature": 1, "language": "Italian", "account_age": 1065600.0}

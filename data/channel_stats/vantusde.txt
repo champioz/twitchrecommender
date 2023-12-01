@@ -1,0 +1,1 @@
+{"channel": "vantusde", "avg_viewers": 6, "followers_gained": 11, "peak_viewers": 18, "hours_streamed": 61, "streams": 15, "mature": 1, "language": "German", "account_age": 1344960.0}

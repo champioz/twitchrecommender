@@ -1,0 +1,1 @@
+{"channel": "banned_wipe", "avg_viewers": 327, "followers_gained": 8181, "peak_viewers": 2172, "hours_streamed": 137, "streams": 24, "mature": 1, "language": "English", "account_age": 1817280.0}

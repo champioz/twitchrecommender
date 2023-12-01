@@ -1,0 +1,1 @@
+{"channel": "jawbreakeeer", "avg_viewers": 2, "followers_gained": 178, "peak_viewers": 16, "hours_streamed": 81, "streams": 18, "mature": 1, "language": "German", "account_age": 3133440.0}

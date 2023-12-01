@@ -1,0 +1,1 @@
+{"channel": "maldiva", "avg_viewers": 528, "followers_gained": 2014, "peak_viewers": 1659, "hours_streamed": 163, "streams": 26, "mature": 1, "language": "English", "account_age": 4183200.0}

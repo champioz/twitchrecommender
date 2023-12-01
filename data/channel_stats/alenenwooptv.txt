@@ -1,0 +1,1 @@
+{"channel": "alenenwooptv", "avg_viewers": 1405, "followers_gained": 1550, "peak_viewers": 2813, "hours_streamed": 290, "streams": 32, "mature": 0, "language": "Korean", "account_age": 1457280.0}

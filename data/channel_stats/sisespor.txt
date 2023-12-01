@@ -1,0 +1,1 @@
+{"channel": "sisespor", "avg_viewers": 6, "followers_gained": 114, "peak_viewers": 20, "hours_streamed": 74, "streams": 35, "mature": 0, "language": "Turkish", "account_age": 381600.0}

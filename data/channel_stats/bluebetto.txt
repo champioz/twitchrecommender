@@ -1,0 +1,1 @@
+{"channel": "bluebetto", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 8, "hours_streamed": 28, "streams": 10, "mature": 1, "language": "Portuguese", "account_age": 2988000.0}

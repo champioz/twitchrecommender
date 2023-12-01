@@ -1,0 +1,1 @@
+{"channel": "tortugatt", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 14, "streams": 5, "mature": 1, "language": "English", "account_age": 216000.0}

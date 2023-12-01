@@ -1,0 +1,1 @@
+{"channel": "fail_senpai", "avg_viewers": 9, "followers_gained": 358, "peak_viewers": 28, "hours_streamed": 123, "streams": 28, "mature": 0, "language": "Spanish", "account_age": 594720.0}

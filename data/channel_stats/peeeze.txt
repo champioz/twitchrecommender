@@ -1,0 +1,1 @@
+{"channel": "peeeze", "avg_viewers": 42, "followers_gained": 40, "peak_viewers": 141, "hours_streamed": 174, "streams": 22, "mature": 0, "language": "German", "account_age": 1465920.0}

@@ -1,0 +1,1 @@
+{"channel": "slotspinner", "avg_viewers": 286, "followers_gained": 820, "peak_viewers": 1006, "hours_streamed": 127, "streams": 39, "mature": 1, "language": "English", "account_age": 1866240.0}

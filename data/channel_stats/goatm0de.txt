@@ -1,0 +1,1 @@
+{"channel": "goatm0de", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 25, "hours_streamed": 64, "streams": 34, "mature": 1, "language": "German", "account_age": 442080.0}

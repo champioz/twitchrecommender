@@ -1,0 +1,1 @@
+{"channel": "pruna_show", "avg_viewers": 28, "followers_gained": 101, "peak_viewers": 91, "hours_streamed": 32, "streams": 17, "mature": 1, "language": "Spanish", "account_age": 2240640.0}

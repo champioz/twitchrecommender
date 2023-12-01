@@ -1,0 +1,1 @@
+{"channel": "hutantak", "avg_viewers": 7, "followers_gained": 22, "peak_viewers": 20, "hours_streamed": 6, "streams": 2, "mature": 1, "language": "Czech", "account_age": 2308320.0}

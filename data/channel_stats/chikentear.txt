@@ -1,0 +1,1 @@
+{"channel": "chikentear", "avg_viewers": 13, "followers_gained": 70, "peak_viewers": 40, "hours_streamed": 109, "streams": 23, "mature": 1, "language": "French", "account_age": 1872000.0}

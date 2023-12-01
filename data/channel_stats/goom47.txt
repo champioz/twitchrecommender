@@ -1,0 +1,1 @@
+{"channel": "goom47", "avg_viewers": 21, "followers_gained": 150, "peak_viewers": 56, "hours_streamed": 427, "streams": 38, "mature": 1, "language": "Polish", "account_age": 1213920.0}

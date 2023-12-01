@@ -1,0 +1,1 @@
+{"channel": "bookyboos", "avg_viewers": 6, "followers_gained": 89, "peak_viewers": 20, "hours_streamed": 166, "streams": 32, "mature": 0, "language": "English", "account_age": 2977920.0}

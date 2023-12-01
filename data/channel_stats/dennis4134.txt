@@ -1,0 +1,1 @@
+{"channel": "dennis4134", "avg_viewers": 12, "followers_gained": 20, "peak_viewers": 31, "hours_streamed": 162, "streams": 34, "mature": 1, "language": "Chinese", "account_age": 4684320.0}

@@ -1,0 +1,1 @@
+{"channel": "pqueen", "avg_viewers": 1183, "followers_gained": 20194, "peak_viewers": 4714, "hours_streamed": 122, "streams": 26, "mature": 0, "language": "Turkish", "account_age": 950400.0}

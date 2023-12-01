@@ -1,0 +1,1 @@
+{"channel": "prideee_", "avg_viewers": 11, "followers_gained": 95, "peak_viewers": 55, "hours_streamed": 133, "streams": 40, "mature": 1, "language": "English", "account_age": 1221120.0}

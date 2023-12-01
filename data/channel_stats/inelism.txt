@@ -1,0 +1,1 @@
+{"channel": "inelism", "avg_viewers": 11, "followers_gained": 34, "peak_viewers": 29, "hours_streamed": 314, "streams": 31, "mature": 0, "language": "Korean", "account_age": 876960.0}

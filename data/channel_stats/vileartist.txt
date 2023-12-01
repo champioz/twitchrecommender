@@ -1,0 +1,1 @@
+{"channel": "vileartist", "avg_viewers": 10, "followers_gained": 12, "peak_viewers": 24, "hours_streamed": 62, "streams": 10, "mature": 1, "language": "English", "account_age": 2616480.0}

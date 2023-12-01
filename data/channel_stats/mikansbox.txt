@@ -1,0 +1,1 @@
+{"channel": "mikansbox", "avg_viewers": 6, "followers_gained": 21, "peak_viewers": 23, "hours_streamed": 75, "streams": 22, "mature": 0, "language": "English", "account_age": 3291840.0}

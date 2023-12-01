@@ -1,0 +1,1 @@
+{"channel": "ivanz1to", "avg_viewers": 16, "followers_gained": 24, "peak_viewers": 104, "hours_streamed": 12, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 1229760.0}

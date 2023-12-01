@@ -1,0 +1,1 @@
+{"channel": "alexderkoenich", "avg_viewers": 15, "followers_gained": 53, "peak_viewers": 55, "hours_streamed": 77, "streams": 19, "mature": 1, "language": "German", "account_age": 1069920.0}

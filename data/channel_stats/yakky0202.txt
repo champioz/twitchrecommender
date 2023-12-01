@@ -1,0 +1,1 @@
+{"channel": "yakky0202", "avg_viewers": 45, "followers_gained": 93, "peak_viewers": 106, "hours_streamed": 51, "streams": 21, "mature": 0, "language": "Japanese", "account_age": 2187360.0}

@@ -1,0 +1,1 @@
+{"channel": "fox_face", "avg_viewers": 13, "followers_gained": 100, "peak_viewers": 35, "hours_streamed": 149, "streams": 29, "mature": 1, "language": "English", "account_age": 2367360.0}

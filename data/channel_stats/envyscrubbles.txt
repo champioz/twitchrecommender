@@ -1,0 +1,1 @@
+{"channel": "envyscrubbles", "avg_viewers": 5, "followers_gained": 26, "peak_viewers": 19, "hours_streamed": 49, "streams": 22, "mature": 0, "language": "English", "account_age": 4027680.0}

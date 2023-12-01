@@ -1,0 +1,1 @@
+{"channel": "abou_", "avg_viewers": 371, "followers_gained": 865, "peak_viewers": 744, "hours_streamed": 54, "streams": 13, "mature": 1, "language": "Swedish", "account_age": 725760.0}

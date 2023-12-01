@@ -1,0 +1,1 @@
+{"channel": "soddrek", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 11, "hours_streamed": 4, "streams": 6, "mature": 1, "language": "Portuguese", "account_age": 381600.0}

@@ -1,0 +1,1 @@
+{"channel": "alexaliliumrose", "avg_viewers": 5, "followers_gained": 36, "peak_viewers": 14, "hours_streamed": 20, "streams": 14, "mature": 0, "language": "English", "account_age": 240480.0}

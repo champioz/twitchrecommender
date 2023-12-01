@@ -1,0 +1,1 @@
+{"channel": "atanend", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 22, "streams": 8, "mature": 0, "language": "Turkish", "account_age": 2793600.0}

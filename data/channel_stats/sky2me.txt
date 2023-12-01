@@ -1,0 +1,1 @@
+{"channel": "sky2me", "avg_viewers": 1, "followers_gained": 3, "peak_viewers": 8, "hours_streamed": 33, "streams": 11, "mature": 1, "language": "German", "account_age": 302400.0}

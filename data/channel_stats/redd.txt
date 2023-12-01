@@ -1,0 +1,1 @@
+{"channel": "redd", "avg_viewers": 14, "followers_gained": 19, "peak_viewers": 102, "hours_streamed": 67, "streams": 17, "mature": 1, "language": "English", "account_age": 5220000.0}

@@ -1,0 +1,1 @@
+{"channel": "shattermage", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 11, "hours_streamed": 38, "streams": 11, "mature": 1, "language": "English", "account_age": 2918880.0}

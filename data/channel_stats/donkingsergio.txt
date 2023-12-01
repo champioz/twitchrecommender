@@ -1,0 +1,1 @@
+{"channel": "donkingsergio", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 21, "hours_streamed": 16, "streams": 3, "mature": 1, "language": "German", "account_age": 2829600.0}

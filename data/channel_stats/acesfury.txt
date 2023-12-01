@@ -1,0 +1,1 @@
+{"channel": "acesfury", "avg_viewers": 94, "followers_gained": 8, "peak_viewers": 230, "hours_streamed": 8, "streams": 1, "mature": 0, "language": "English", "account_age": 3867840.0}

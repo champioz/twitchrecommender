@@ -1,0 +1,1 @@
+{"channel": "katyushaf", "avg_viewers": 5, "followers_gained": 12, "peak_viewers": 15, "hours_streamed": 75, "streams": 26, "mature": 0, "language": "Russian", "account_age": 1920960.0}

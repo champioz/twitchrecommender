@@ -1,0 +1,1 @@
+{"channel": "roxancs", "avg_viewers": 5, "followers_gained": 25, "peak_viewers": 20, "hours_streamed": 28, "streams": 12, "mature": 1, "language": "Hungarian", "account_age": 2943360.0}

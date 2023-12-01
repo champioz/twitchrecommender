@@ -1,0 +1,1 @@
+{"channel": "creeleu", "avg_viewers": 5, "followers_gained": 3, "peak_viewers": 13, "hours_streamed": 20, "streams": 15, "mature": 1, "language": "Norwegian", "account_age": 771840.0}

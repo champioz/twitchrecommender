@@ -1,0 +1,1 @@
+{"channel": "crowder", "avg_viewers": 415, "followers_gained": 3585, "peak_viewers": 1433, "hours_streamed": 134, "streams": 32, "mature": 0, "language": "English", "account_age": 3163680.0}

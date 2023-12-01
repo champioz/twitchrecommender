@@ -1,0 +1,1 @@
+{"channel": "zygoretv", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 10, "streams": 6, "mature": 0, "language": "French", "account_age": 2730240.0}

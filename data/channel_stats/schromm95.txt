@@ -1,0 +1,1 @@
+{"channel": "schromm95", "avg_viewers": 10, "followers_gained": 17, "peak_viewers": 21, "hours_streamed": 43, "streams": 13, "mature": 1, "language": "German", "account_age": 1355040.0}

@@ -1,0 +1,1 @@
+{"channel": "chefkochx", "avg_viewers": 91, "followers_gained": 757, "peak_viewers": 319, "hours_streamed": 98, "streams": 28, "mature": 0, "language": "German", "account_age": 1756800.0}

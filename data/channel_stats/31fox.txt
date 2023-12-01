@@ -1,0 +1,1 @@
+{"channel": "31fox", "avg_viewers": 56, "followers_gained": 52, "peak_viewers": 200, "hours_streamed": 43, "streams": 7, "mature": 0, "language": "English", "account_age": 3314880.0}

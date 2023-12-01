@@ -1,0 +1,1 @@
+{"channel": "gabibbotv", "avg_viewers": 35, "followers_gained": 124, "peak_viewers": 110, "hours_streamed": 62, "streams": 18, "mature": 1, "language": "Italian", "account_age": 2373120.0}

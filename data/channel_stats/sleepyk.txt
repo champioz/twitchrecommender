@@ -1,0 +1,1 @@
+{"channel": "sleepyk", "avg_viewers": 25, "followers_gained": 102, "peak_viewers": 242, "hours_streamed": 86, "streams": 23, "mature": 1, "language": "English", "account_age": 5178240.0}

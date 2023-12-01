@@ -1,0 +1,1 @@
+{"channel": "frizko94", "avg_viewers": 185, "followers_gained": 130, "peak_viewers": 2198, "hours_streamed": 54, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 3503520.0}

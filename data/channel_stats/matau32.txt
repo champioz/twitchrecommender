@@ -1,0 +1,1 @@
+{"channel": "matau32", "avg_viewers": 1, "followers_gained": 11, "peak_viewers": 9, "hours_streamed": 54, "streams": 14, "mature": 1, "language": "English", "account_age": 5123520.0}

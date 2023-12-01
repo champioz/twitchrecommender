@@ -1,0 +1,1 @@
+{"channel": "diego_littlelion", "avg_viewers": 6, "followers_gained": 71, "peak_viewers": 19, "hours_streamed": 145, "streams": 41, "mature": 1, "language": "Spanish", "account_age": 2628000.0}

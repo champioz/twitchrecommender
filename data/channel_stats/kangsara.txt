@@ -1,0 +1,1 @@
+{"channel": "kangsara", "avg_viewers": 6, "followers_gained": 43, "peak_viewers": 26, "hours_streamed": 114, "streams": 36, "mature": 0, "language": "Korean", "account_age": 380160.0}

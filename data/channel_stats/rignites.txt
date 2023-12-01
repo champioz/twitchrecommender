@@ -1,0 +1,1 @@
+{"channel": "rignites", "avg_viewers": 4, "followers_gained": 25, "peak_viewers": 15, "hours_streamed": 44, "streams": 18, "mature": 1, "language": "English", "account_age": 1235520.0}

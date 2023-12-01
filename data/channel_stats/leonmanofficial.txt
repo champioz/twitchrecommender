@@ -1,0 +1,1 @@
+{"channel": "leonmanofficial", "avg_viewers": 41, "followers_gained": 572, "peak_viewers": 164, "hours_streamed": 223, "streams": 32, "mature": 1, "language": "Spanish", "account_age": 237600.0}

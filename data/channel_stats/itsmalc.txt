@@ -1,0 +1,1 @@
+{"channel": "itsmalc", "avg_viewers": 2, "followers_gained": 5, "peak_viewers": 8, "hours_streamed": 14, "streams": 8, "mature": 0, "language": "English", "account_age": 2589120.0}

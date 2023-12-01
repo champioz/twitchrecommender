@@ -1,0 +1,1 @@
+{"channel": "h34vpf9998", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 0, "hours_streamed": 0, "streams": 0, "mature": 1, "language": "German", "account_age": 2331360.0}

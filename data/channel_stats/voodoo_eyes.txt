@@ -1,0 +1,1 @@
+{"channel": "voodoo_eyes", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 6, "hours_streamed": 135, "streams": 54, "mature": 1, "language": "English", "account_age": 2044800.0}

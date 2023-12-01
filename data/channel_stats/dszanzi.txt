@@ -1,0 +1,1 @@
+{"channel": "dszanzi", "avg_viewers": 75, "followers_gained": 1903, "peak_viewers": 187, "hours_streamed": 126, "streams": 44, "mature": 0, "language": "Russian", "account_age": 2920320.0}

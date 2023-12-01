@@ -1,0 +1,1 @@
+{"channel": "pimpeano", "avg_viewers": 988, "followers_gained": 8971, "peak_viewers": 2605, "hours_streamed": 39, "streams": 17, "mature": 1, "language": "Spanish", "account_age": 1353600.0}

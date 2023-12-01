@@ -1,0 +1,1 @@
+{"channel": "reichelcroft", "avg_viewers": 9, "followers_gained": 118, "peak_viewers": 103, "hours_streamed": 77, "streams": 26, "mature": 1, "language": "Spanish", "account_age": 3088800.0}

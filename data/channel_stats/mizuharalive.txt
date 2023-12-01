@@ -1,0 +1,1 @@
+{"channel": "mizuharalive", "avg_viewers": 34, "followers_gained": 8, "peak_viewers": 47, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 2423520.0}

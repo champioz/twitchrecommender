@@ -1,0 +1,1 @@
+{"channel": "muussie", "avg_viewers": 7, "followers_gained": 40, "peak_viewers": 26, "hours_streamed": 91, "streams": 20, "mature": 0, "language": "Dutch", "account_age": 2767680.0}

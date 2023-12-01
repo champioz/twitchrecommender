@@ -1,0 +1,1 @@
+{"channel": "adrianaeliseg", "avg_viewers": 27, "followers_gained": 106, "peak_viewers": 210, "hours_streamed": 54, "streams": 21, "mature": 1, "language": "English", "account_age": 2272320.0}

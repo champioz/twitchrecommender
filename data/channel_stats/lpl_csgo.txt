@@ -1,0 +1,1 @@
+{"channel": "lpl_csgo", "avg_viewers": 111, "followers_gained": 129, "peak_viewers": 1032, "hours_streamed": 31, "streams": 13, "mature": 0, "language": "English", "account_age": 1812960.0}

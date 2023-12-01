@@ -1,0 +1,1 @@
+{"channel": "amurphcs", "avg_viewers": 11, "followers_gained": 108, "peak_viewers": 63, "hours_streamed": 98, "streams": 31, "mature": 1, "language": "English", "account_age": 2067840.0}

@@ -1,0 +1,1 @@
+{"channel": "duckmanzch", "avg_viewers": 638, "followers_gained": 9298, "peak_viewers": 3204, "hours_streamed": 157, "streams": 38, "mature": 0, "language": "Thai", "account_age": 1134720.0}

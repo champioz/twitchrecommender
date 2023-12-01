@@ -1,0 +1,1 @@
+{"channel": "ottertalegaming", "avg_viewers": 3, "followers_gained": 21, "peak_viewers": 21, "hours_streamed": 89, "streams": 24, "mature": 1, "language": "English", "account_age": 3515040.0}

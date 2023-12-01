@@ -1,0 +1,1 @@
+{"channel": "ninjalink", "avg_viewers": 7, "followers_gained": 3, "peak_viewers": 23, "hours_streamed": 54, "streams": 6, "mature": 0, "language": "English", "account_age": 4875840.0}

@@ -1,0 +1,1 @@
+{"channel": "ifebag", "avg_viewers": 3, "followers_gained": 198, "peak_viewers": 16, "hours_streamed": 26, "streams": 22, "mature": 0, "language": "Italian", "account_age": 3254400.0}

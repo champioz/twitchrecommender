@@ -1,0 +1,1 @@
+{"channel": "qhq520", "avg_viewers": 61, "followers_gained": 23, "peak_viewers": 144, "hours_streamed": 16, "streams": 5, "mature": 0, "language": "Chinese", "account_age": 1864800.0}

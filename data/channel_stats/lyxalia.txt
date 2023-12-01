@@ -1,0 +1,1 @@
+{"channel": "lyxalia", "avg_viewers": 188, "followers_gained": 1580, "peak_viewers": 604, "hours_streamed": 73, "streams": 20, "mature": 1, "language": "German", "account_age": 303840.0}

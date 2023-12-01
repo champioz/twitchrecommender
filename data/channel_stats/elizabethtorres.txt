@@ -1,0 +1,1 @@
+{"channel": "elizabethtorres", "avg_viewers": 2, "followers_gained": 28, "peak_viewers": 16, "hours_streamed": 16, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 671040.0}

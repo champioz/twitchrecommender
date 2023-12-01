@@ -1,0 +1,1 @@
+{"channel": "fruitbats", "avg_viewers": 113, "followers_gained": 29, "peak_viewers": 313, "hours_streamed": 69, "streams": 11, "mature": 0, "language": "English", "account_age": 2537280.0}

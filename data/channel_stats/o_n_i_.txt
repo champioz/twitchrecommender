@@ -1,0 +1,1 @@
+{"channel": "o_n_i_", "avg_viewers": 2, "followers_gained": 36, "peak_viewers": 16, "hours_streamed": 244, "streams": 33, "mature": 1, "language": "Russian", "account_age": 593280.0}

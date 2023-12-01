@@ -1,0 +1,1 @@
+{"channel": "aculite", "avg_viewers": 602, "followers_gained": 3657, "peak_viewers": 1156, "hours_streamed": 64, "streams": 14, "mature": 1, "language": "English", "account_age": 3165120.0}

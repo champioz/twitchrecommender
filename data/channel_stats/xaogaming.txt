@@ -1,0 +1,1 @@
+{"channel": "xaogaming", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Thai", "account_age": 1235520.0}

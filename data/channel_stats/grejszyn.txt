@@ -1,0 +1,1 @@
+{"channel": "grejszyn", "avg_viewers": 23, "followers_gained": 148, "peak_viewers": 64, "hours_streamed": 91, "streams": 23, "mature": 0, "language": "Polish", "account_age": 1964160.0}

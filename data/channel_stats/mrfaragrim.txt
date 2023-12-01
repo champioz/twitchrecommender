@@ -1,0 +1,1 @@
+{"channel": "mrfaragrim", "avg_viewers": 7, "followers_gained": 12, "peak_viewers": 36, "hours_streamed": 51, "streams": 14, "mature": 0, "language": "Russian", "account_age": 2969280.0}

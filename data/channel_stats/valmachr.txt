@@ -1,0 +1,1 @@
+{"channel": "valmachr", "avg_viewers": 3, "followers_gained": 33, "peak_viewers": 11, "hours_streamed": 68, "streams": 13, "mature": 1, "language": "Czech", "account_age": 322560.0}

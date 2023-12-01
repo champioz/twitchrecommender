@@ -1,0 +1,1 @@
+{"channel": "onybur98", "avg_viewers": 1, "followers_gained": 23, "peak_viewers": 7, "hours_streamed": 45, "streams": 30, "mature": 0, "language": "Italian", "account_age": 982080.0}

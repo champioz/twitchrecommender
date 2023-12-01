@@ -1,0 +1,1 @@
+{"channel": "doomnote", "avg_viewers": 12, "followers_gained": 25, "peak_viewers": 28, "hours_streamed": 39, "streams": 12, "mature": 1, "language": "English", "account_age": 3741120.0}

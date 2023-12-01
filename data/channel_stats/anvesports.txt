@@ -1,0 +1,1 @@
+{"channel": "anvesports", "avg_viewers": 37, "followers_gained": 217, "peak_viewers": 87, "hours_streamed": 34, "streams": 12, "mature": 0, "language": "Spanish", "account_age": 1468800.0}

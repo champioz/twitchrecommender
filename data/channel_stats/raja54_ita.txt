@@ -1,0 +1,1 @@
+{"channel": "raja54_ita", "avg_viewers": 2, "followers_gained": 28, "peak_viewers": 19, "hours_streamed": 180, "streams": 52, "mature": 0, "language": "Italian", "account_age": 1156320.0}

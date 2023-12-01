@@ -1,0 +1,1 @@
+{"channel": "zumanix", "avg_viewers": 10, "followers_gained": 130, "peak_viewers": 24, "hours_streamed": 38, "streams": 21, "mature": 1, "language": "Portuguese", "account_age": 3304800.0}

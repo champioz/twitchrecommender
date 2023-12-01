@@ -1,0 +1,1 @@
+{"channel": "pakrninja", "avg_viewers": 14, "followers_gained": 95, "peak_viewers": 92, "hours_streamed": 181, "streams": 19, "mature": 1, "language": "English", "account_age": 1200960.0}

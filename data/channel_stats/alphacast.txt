@@ -1,0 +1,1 @@
+{"channel": "alphacast", "avg_viewers": 2199, "followers_gained": 7214, "peak_viewers": 10004, "hours_streamed": 116, "streams": 19, "mature": 1, "language": "French", "account_age": 2157120.0}

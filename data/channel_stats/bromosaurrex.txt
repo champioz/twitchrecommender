@@ -1,0 +1,1 @@
+{"channel": "bromosaurrex", "avg_viewers": 10, "followers_gained": 43, "peak_viewers": 34, "hours_streamed": 102, "streams": 18, "mature": 1, "language": "English", "account_age": 3080160.0}

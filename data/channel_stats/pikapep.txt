@@ -1,0 +1,1 @@
+{"channel": "pikapep", "avg_viewers": 14, "followers_gained": 60, "peak_viewers": 63, "hours_streamed": 75, "streams": 13, "mature": 1, "language": "English", "account_age": 2521440.0}

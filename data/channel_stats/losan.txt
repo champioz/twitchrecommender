@@ -1,0 +1,1 @@
+{"channel": "losan", "avg_viewers": 13, "followers_gained": 46, "peak_viewers": 32, "hours_streamed": 28, "streams": 17, "mature": 0, "language": "Spanish", "account_age": 1225440.0}

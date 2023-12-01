@@ -1,0 +1,1 @@
+{"channel": "sensoria", "avg_viewers": 59, "followers_gained": 835, "peak_viewers": 206, "hours_streamed": 85, "streams": 19, "mature": 0, "language": "French", "account_age": 3366720.0}

@@ -1,0 +1,1 @@
+{"channel": "tuko322", "avg_viewers": 3, "followers_gained": 79, "peak_viewers": 15, "hours_streamed": 133, "streams": 37, "mature": 1, "language": "Russian", "account_age": 2200320.0}

@@ -1,0 +1,1 @@
+{"channel": "erreurnature0", "avg_viewers": 12, "followers_gained": 22, "peak_viewers": 38, "hours_streamed": 86, "streams": 16, "mature": 0, "language": "French", "account_age": 2289600.0}

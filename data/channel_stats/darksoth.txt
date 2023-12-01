@@ -1,0 +1,1 @@
+{"channel": "darksoth", "avg_viewers": 15, "followers_gained": 62, "peak_viewers": 52, "hours_streamed": 202, "streams": 33, "mature": 1, "language": "Chinese", "account_age": 3391200.0}

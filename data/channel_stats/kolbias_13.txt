@@ -1,0 +1,1 @@
+{"channel": "kolbias_13", "avg_viewers": 4, "followers_gained": 15, "peak_viewers": 12, "hours_streamed": 34, "streams": 7, "mature": 1, "language": "English", "account_age": 3002400.0}

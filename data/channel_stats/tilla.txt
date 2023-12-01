@@ -1,0 +1,1 @@
+{"channel": "tilla", "avg_viewers": 7, "followers_gained": 8, "peak_viewers": 25, "hours_streamed": 25, "streams": 16, "mature": 0, "language": "Finnish", "account_age": 4131360.0}

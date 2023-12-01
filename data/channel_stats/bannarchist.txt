@@ -1,0 +1,1 @@
+{"channel": "bannarchist", "avg_viewers": 8, "followers_gained": 22, "peak_viewers": 17, "hours_streamed": 31, "streams": 8, "mature": 1, "language": "English", "account_age": 2720160.0}

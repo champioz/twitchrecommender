@@ -1,0 +1,1 @@
+{"channel": "estirada", "avg_viewers": 14, "followers_gained": 5, "peak_viewers": 30, "hours_streamed": 31, "streams": 10, "mature": 1, "language": "Russian", "account_age": 1319040.0}

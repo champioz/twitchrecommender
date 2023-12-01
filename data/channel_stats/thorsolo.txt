@@ -1,0 +1,1 @@
+{"channel": "thorsolo", "avg_viewers": 0, "followers_gained": 3, "peak_viewers": 7, "hours_streamed": 156, "streams": 50, "mature": 0, "language": "Italian", "account_age": 2815200.0}

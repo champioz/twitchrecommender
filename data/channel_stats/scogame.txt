@@ -1,0 +1,1 @@
+{"channel": "scogame", "avg_viewers": 6, "followers_gained": 18, "peak_viewers": 21, "hours_streamed": 21, "streams": 7, "mature": 1, "language": "French", "account_age": 1473120.0}

@@ -1,0 +1,1 @@
+{"channel": "pandaglobal", "avg_viewers": 741, "followers_gained": 777, "peak_viewers": 4997, "hours_streamed": 38, "streams": 14, "mature": 0, "language": "English", "account_age": 2132640.0}

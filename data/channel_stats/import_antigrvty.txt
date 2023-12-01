@@ -1,0 +1,1 @@
+{"channel": "import_antigrvty", "avg_viewers": 1, "followers_gained": 14, "peak_viewers": 7, "hours_streamed": 133, "streams": 36, "mature": 0, "language": "English", "account_age": 2573280.0}

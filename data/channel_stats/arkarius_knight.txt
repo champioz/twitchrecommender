@@ -1,0 +1,1 @@
+{"channel": "arkarius_knight", "avg_viewers": 6, "followers_gained": 29, "peak_viewers": 21, "hours_streamed": 48, "streams": 15, "mature": 1, "language": "Portuguese", "account_age": 2144160.0}

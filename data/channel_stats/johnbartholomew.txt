@@ -1,0 +1,1 @@
+{"channel": "johnbartholomew", "avg_viewers": 219, "followers_gained": 202, "peak_viewers": 265, "hours_streamed": 3, "streams": 2, "mature": 0, "language": "English", "account_age": 905760.0}

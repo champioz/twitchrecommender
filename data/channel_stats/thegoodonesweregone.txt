@@ -1,0 +1,1 @@
+{"channel": "thegoodonesweregone", "avg_viewers": 6, "followers_gained": 9, "peak_viewers": 15, "hours_streamed": 24, "streams": 9, "mature": 1, "language": "English", "account_age": 689760.0}

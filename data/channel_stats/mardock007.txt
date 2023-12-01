@@ -1,0 +1,1 @@
+{"channel": "mardock007", "avg_viewers": 7, "followers_gained": 16, "peak_viewers": 43, "hours_streamed": 90, "streams": 21, "mature": 1, "language": "German", "account_age": 3844800.0}

@@ -1,0 +1,1 @@
+{"channel": "pretoxky", "avg_viewers": 54, "followers_gained": 2271, "peak_viewers": 222, "hours_streamed": 53, "streams": 16, "mature": 1, "language": "Portuguese", "account_age": 665280.0}

@@ -1,0 +1,1 @@
+{"channel": "moneymoneylol", "avg_viewers": 15, "followers_gained": 19, "peak_viewers": 54, "hours_streamed": 65, "streams": 20, "mature": 1, "language": "Chinese", "account_age": 3844800.0}

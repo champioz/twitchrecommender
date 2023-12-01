@@ -1,0 +1,1 @@
+{"channel": "djfreeman", "avg_viewers": 6, "followers_gained": 8, "peak_viewers": 41, "hours_streamed": 22, "streams": 6, "mature": 1, "language": "German", "account_age": 1738080.0}

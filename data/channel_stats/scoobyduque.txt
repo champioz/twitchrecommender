@@ -1,0 +1,1 @@
+{"channel": "scoobyduque", "avg_viewers": 4, "followers_gained": 69, "peak_viewers": 28, "hours_streamed": 54, "streams": 33, "mature": 1, "language": "Spanish", "account_age": 1975680.0}

@@ -1,0 +1,1 @@
+{"channel": "muczaczoslive", "avg_viewers": 7, "followers_gained": 12, "peak_viewers": 24, "hours_streamed": 97, "streams": 35, "mature": 1, "language": "Polish", "account_age": 3402720.0}

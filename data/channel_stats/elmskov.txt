@@ -1,0 +1,1 @@
+{"channel": "elmskov", "avg_viewers": 3, "followers_gained": 10, "peak_viewers": 14, "hours_streamed": 22, "streams": 2, "mature": 1, "language": "Danish", "account_age": 1539360.0}

@@ -1,0 +1,1 @@
+{"channel": "mallepk", "avg_viewers": 9, "followers_gained": 2, "peak_viewers": 23, "hours_streamed": 12, "streams": 3, "mature": 0, "language": "English", "account_age": 1182240.0}

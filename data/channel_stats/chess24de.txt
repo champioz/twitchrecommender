@@ -1,0 +1,1 @@
+{"channel": "chess24de", "avg_viewers": 616, "followers_gained": 652, "peak_viewers": 2703, "hours_streamed": 76, "streams": 27, "mature": 0, "language": "German", "account_age": 171360.0}

@@ -1,0 +1,1 @@
+{"channel": "dobroruslan", "avg_viewers": 37, "followers_gained": 77, "peak_viewers": 62, "hours_streamed": 106, "streams": 23, "mature": 0, "language": "Russian", "account_age": 722880.0}

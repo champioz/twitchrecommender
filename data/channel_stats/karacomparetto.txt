@@ -1,0 +1,1 @@
+{"channel": "karacomparetto", "avg_viewers": 84, "followers_gained": 15, "peak_viewers": 103, "hours_streamed": 2, "streams": 1, "mature": 0, "language": "English", "account_age": 264960.0}

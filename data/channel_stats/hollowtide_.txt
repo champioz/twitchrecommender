@@ -1,0 +1,1 @@
+{"channel": "hollowtide_", "avg_viewers": 8, "followers_gained": 3, "peak_viewers": 26, "hours_streamed": 38, "streams": 12, "mature": 1, "language": "English", "account_age": 1905120.0}

@@ -1,0 +1,1 @@
+{"channel": "siraza", "avg_viewers": 17, "followers_gained": 11, "peak_viewers": 36, "hours_streamed": 143, "streams": 29, "mature": 1, "language": "French", "account_age": 3888000.0}

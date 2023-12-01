@@ -1,0 +1,1 @@
+{"channel": "horsey", "avg_viewers": 125, "followers_gained": 612, "peak_viewers": 1959, "hours_streamed": 83, "streams": 13, "mature": 0, "language": "English", "account_age": 3581280.0}

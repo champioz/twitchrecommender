@@ -1,0 +1,1 @@
+{"channel": "smexxin", "avg_viewers": 334, "followers_gained": 405, "peak_viewers": 799, "hours_streamed": 45, "streams": 11, "mature": 1, "language": "English", "account_age": 3119040.0}

@@ -1,0 +1,1 @@
+{"channel": "crayzbeats", "avg_viewers": 6, "followers_gained": 8, "peak_viewers": 20, "hours_streamed": 12, "streams": 4, "mature": 0, "language": "English", "account_age": 705600.0}

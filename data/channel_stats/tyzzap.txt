@@ -1,0 +1,1 @@
+{"channel": "tyzzap", "avg_viewers": 4, "followers_gained": 93, "peak_viewers": 107, "hours_streamed": 101, "streams": 40, "mature": 0, "language": "French", "account_age": 1977120.0}

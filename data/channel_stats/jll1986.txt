@@ -1,0 +1,1 @@
+{"channel": "jll1986", "avg_viewers": 2, "followers_gained": 28, "peak_viewers": 12, "hours_streamed": 238, "streams": 42, "mature": 0, "language": "English", "account_age": 426240.0}

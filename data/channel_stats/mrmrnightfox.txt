@@ -1,0 +1,1 @@
+{"channel": "mrmrnightfox", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 20, "hours_streamed": 98, "streams": 27, "mature": 0, "language": "German", "account_age": 3600000.0}

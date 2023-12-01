@@ -1,0 +1,1 @@
+{"channel": "carsonbekket", "avg_viewers": 2, "followers_gained": 19, "peak_viewers": 18, "hours_streamed": 66, "streams": 18, "mature": 1, "language": "English", "account_age": 3146400.0}

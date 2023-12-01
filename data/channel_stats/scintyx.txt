@@ -1,0 +1,1 @@
+{"channel": "scintyx", "avg_viewers": 2, "followers_gained": 377, "peak_viewers": 20, "hours_streamed": 8, "streams": 7, "mature": 0, "language": "Arabic", "account_age": 2547360.0}

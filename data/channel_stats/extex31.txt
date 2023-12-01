@@ -1,0 +1,1 @@
+{"channel": "extex31", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 15, "hours_streamed": 41, "streams": 16, "mature": 0, "language": "German", "account_age": 2769120.0}

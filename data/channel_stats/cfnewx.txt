@@ -1,0 +1,1 @@
+{"channel": "cfnewx", "avg_viewers": 40, "followers_gained": 4, "peak_viewers": 62, "hours_streamed": 17, "streams": 4, "mature": 1, "language": "German", "account_age": 2462400.0}

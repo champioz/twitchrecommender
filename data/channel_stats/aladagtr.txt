@@ -1,0 +1,1 @@
+{"channel": "aladagtr", "avg_viewers": 2, "followers_gained": 28, "peak_viewers": 9, "hours_streamed": 10, "streams": 13, "mature": 0, "language": "Turkish", "account_age": 1634400.0}

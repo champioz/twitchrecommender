@@ -1,0 +1,1 @@
+{"channel": "egnys", "avg_viewers": 17, "followers_gained": 13, "peak_viewers": 159, "hours_streamed": 73, "streams": 18, "mature": 1, "language": "English", "account_age": 3153600.0}

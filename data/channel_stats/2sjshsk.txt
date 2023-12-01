@@ -1,0 +1,1 @@
+{"channel": "2sjshsk", "avg_viewers": 61, "followers_gained": 318, "peak_viewers": 346, "hours_streamed": 79, "streams": 14, "mature": 0, "language": "Korean", "account_age": 593280.0}

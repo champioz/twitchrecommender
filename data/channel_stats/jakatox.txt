@@ -1,0 +1,1 @@
+{"channel": "jakatox", "avg_viewers": 14, "followers_gained": 39, "peak_viewers": 63, "hours_streamed": 86, "streams": 15, "mature": 0, "language": "English", "account_age": 4472640.0}

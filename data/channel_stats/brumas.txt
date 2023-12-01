@@ -1,0 +1,1 @@
+{"channel": "brumas", "avg_viewers": 44, "followers_gained": 124, "peak_viewers": 105, "hours_streamed": 37, "streams": 14, "mature": 0, "language": "Spanish", "account_age": 747360.0}

@@ -1,0 +1,1 @@
+{"channel": "fullsend_ricky", "avg_viewers": 17, "followers_gained": 452, "peak_viewers": 56, "hours_streamed": 67, "streams": 15, "mature": 0, "language": "English", "account_age": 747360.0}

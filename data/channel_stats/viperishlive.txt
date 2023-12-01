@@ -1,0 +1,1 @@
+{"channel": "viperishlive", "avg_viewers": 6, "followers_gained": 13, "peak_viewers": 18, "hours_streamed": 21, "streams": 7, "mature": 0, "language": "English", "account_age": 2040480.0}

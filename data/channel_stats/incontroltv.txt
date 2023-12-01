@@ -1,0 +1,1 @@
+{"channel": "incontroltv", "avg_viewers": 210, "followers_gained": 397, "peak_viewers": 1045, "hours_streamed": 113, "streams": 27, "mature": 0, "language": "English", "account_age": 4459680.0}

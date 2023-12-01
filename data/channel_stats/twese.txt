@@ -1,0 +1,1 @@
+{"channel": "twese", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 23, "hours_streamed": 82, "streams": 18, "mature": 0, "language": "Chinese", "account_age": 3405600.0}

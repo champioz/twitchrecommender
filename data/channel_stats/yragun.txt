@@ -1,0 +1,1 @@
+{"channel": "yragun", "avg_viewers": 45, "followers_gained": 981, "peak_viewers": 165, "hours_streamed": 347, "streams": 36, "mature": 0, "language": "Russian", "account_age": 2478240.0}

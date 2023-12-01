@@ -1,0 +1,1 @@
+{"channel": "gabstar17", "avg_viewers": 6, "followers_gained": 53, "peak_viewers": 26, "hours_streamed": 53, "streams": 14, "mature": 1, "language": "Portuguese", "account_age": 812160.0}

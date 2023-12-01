@@ -1,0 +1,1 @@
+{"channel": "avast", "avg_viewers": 1801, "followers_gained": 1343, "peak_viewers": 3180, "hours_streamed": 57, "streams": 9, "mature": 1, "language": "English", "account_age": 3667680.0}

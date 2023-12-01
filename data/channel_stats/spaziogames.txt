@@ -1,0 +1,1 @@
+{"channel": "spaziogames", "avg_viewers": 75, "followers_gained": 38, "peak_viewers": 201, "hours_streamed": 21, "streams": 22, "mature": 0, "language": "Italian", "account_age": 3218400.0}

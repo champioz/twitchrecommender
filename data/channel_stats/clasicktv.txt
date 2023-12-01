@@ -1,0 +1,1 @@
+{"channel": "clasicktv", "avg_viewers": 14, "followers_gained": 249, "peak_viewers": 415, "hours_streamed": 152, "streams": 25, "mature": 1, "language": "English", "account_age": 2047680.0}

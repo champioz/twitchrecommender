@@ -1,0 +1,1 @@
+{"channel": "sirfenryr", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 9, "hours_streamed": 9, "streams": 3, "mature": 0, "language": "English", "account_age": 1330560.0}

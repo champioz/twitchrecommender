@@ -1,0 +1,1 @@
+{"channel": "ramasabeee", "avg_viewers": 6, "followers_gained": 165, "peak_viewers": 63, "hours_streamed": 181, "streams": 34, "mature": 1, "language": "Spanish", "account_age": 1281600.0}

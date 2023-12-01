@@ -1,0 +1,1 @@
+{"channel": "teptr0n", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 5, "streams": 5, "mature": 1, "language": "German", "account_age": 731520.0}

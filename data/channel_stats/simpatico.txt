@@ -1,0 +1,1 @@
+{"channel": "simpatico", "avg_viewers": 12, "followers_gained": 7, "peak_viewers": 17, "hours_streamed": 5, "streams": 1, "mature": 0, "language": "Portuguese", "account_age": 653760.0}

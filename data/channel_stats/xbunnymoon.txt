@@ -1,0 +1,1 @@
+{"channel": "xbunnymoon", "avg_viewers": 14, "followers_gained": 108, "peak_viewers": 86, "hours_streamed": 89, "streams": 16, "mature": 1, "language": "English", "account_age": 243360.0}

@@ -1,0 +1,1 @@
+{"channel": "daebongs", "avg_viewers": 93, "followers_gained": 128, "peak_viewers": 608, "hours_streamed": 234, "streams": 29, "mature": 0, "language": "Korean", "account_age": 2260800.0}

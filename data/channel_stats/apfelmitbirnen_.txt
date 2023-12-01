@@ -1,0 +1,1 @@
+{"channel": "apfelmitbirnen_", "avg_viewers": 5, "followers_gained": 26, "peak_viewers": 17, "hours_streamed": 13, "streams": 9, "mature": 0, "language": "German", "account_age": 1517760.0}

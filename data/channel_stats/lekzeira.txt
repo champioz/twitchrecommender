@@ -1,0 +1,1 @@
+{"channel": "lekzeira", "avg_viewers": 5, "followers_gained": 102, "peak_viewers": 28, "hours_streamed": 226, "streams": 40, "mature": 1, "language": "Portuguese", "account_age": 655200.0}

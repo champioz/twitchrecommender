@@ -1,0 +1,1 @@
+{"channel": "mantasstyle", "avg_viewers": 12, "followers_gained": 80, "peak_viewers": 28, "hours_streamed": 93, "streams": 23, "mature": 0, "language": "English", "account_age": 2679840.0}

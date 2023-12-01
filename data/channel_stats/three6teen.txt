@@ -1,0 +1,1 @@
+{"channel": "three6teen", "avg_viewers": 9, "followers_gained": 22, "peak_viewers": 29, "hours_streamed": 94, "streams": 16, "mature": 1, "language": "English", "account_age": 1270080.0}

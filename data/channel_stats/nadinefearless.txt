@@ -1,0 +1,1 @@
+{"channel": "nadinefearless", "avg_viewers": 10, "followers_gained": 25, "peak_viewers": 34, "hours_streamed": 45, "streams": 14, "mature": 1, "language": "English", "account_age": 809280.0}

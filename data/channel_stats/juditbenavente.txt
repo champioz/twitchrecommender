@@ -1,0 +1,1 @@
+{"channel": "juditbenavente", "avg_viewers": 33, "followers_gained": 1386, "peak_viewers": 199, "hours_streamed": 68, "streams": 19, "mature": 1, "language": "Spanish", "account_age": 138240.0}

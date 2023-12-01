@@ -1,0 +1,1 @@
+{"channel": "kemuda", "avg_viewers": 276, "followers_gained": 2449, "peak_viewers": 672, "hours_streamed": 54, "streams": 19, "mature": 0, "language": "Arabic", "account_age": 1571040.0}

@@ -1,0 +1,1 @@
+{"channel": "chintor_", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 9, "streams": 7, "mature": 0, "language": "Spanish", "account_age": 243360.0}

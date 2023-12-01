@@ -1,0 +1,1 @@
+{"channel": "wadedmcginnis", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 12, "hours_streamed": 116, "streams": 34, "mature": 0, "language": "English", "account_age": 3951360.0}

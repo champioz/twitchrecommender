@@ -1,0 +1,1 @@
+{"channel": "cboardss", "avg_viewers": 0, "followers_gained": 2, "peak_viewers": 7, "hours_streamed": 42, "streams": 17, "mature": 0, "language": "English", "account_age": 1414080.0}

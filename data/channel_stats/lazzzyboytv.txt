@@ -1,0 +1,1 @@
+{"channel": "lazzzyboytv", "avg_viewers": 4, "followers_gained": 28, "peak_viewers": 20, "hours_streamed": 130, "streams": 31, "mature": 0, "language": "Russian", "account_age": 999360.0}

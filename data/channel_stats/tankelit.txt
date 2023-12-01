@@ -1,0 +1,1 @@
+{"channel": "tankelit", "avg_viewers": 66, "followers_gained": 116, "peak_viewers": 137, "hours_streamed": 55, "streams": 12, "mature": 0, "language": "Hungarian", "account_age": 2090880.0}

@@ -1,0 +1,1 @@
+{"channel": "pirateztv", "avg_viewers": 12, "followers_gained": 190, "peak_viewers": 84, "hours_streamed": 34, "streams": 32, "mature": 0, "language": "English", "account_age": 623520.0}

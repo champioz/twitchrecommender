@@ -1,0 +1,1 @@
+{"channel": "datvoiceguy", "avg_viewers": 80, "followers_gained": 1035, "peak_viewers": 345, "hours_streamed": 63, "streams": 19, "mature": 1, "language": "English", "account_age": 2940480.0}

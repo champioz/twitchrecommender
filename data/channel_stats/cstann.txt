@@ -1,0 +1,1 @@
+{"channel": "cstann", "avg_viewers": 11, "followers_gained": 102, "peak_viewers": 32, "hours_streamed": 11, "streams": 7, "mature": 0, "language": "English", "account_age": 1218240.0}

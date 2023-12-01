@@ -1,0 +1,1 @@
+{"channel": "fleeur", "avg_viewers": 154, "followers_gained": 1157, "peak_viewers": 588, "hours_streamed": 137, "streams": 25, "mature": 1, "language": "Portuguese", "account_age": 3288960.0}

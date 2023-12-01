@@ -1,0 +1,1 @@
+{"channel": "krizzigod", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 4, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "Portuguese", "account_age": 799200.0}

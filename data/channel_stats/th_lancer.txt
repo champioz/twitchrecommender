@@ -1,0 +1,1 @@
+{"channel": "th_lancer", "avg_viewers": 45, "followers_gained": 150, "peak_viewers": 178, "hours_streamed": 100, "streams": 26, "mature": 0, "language": "Chinese", "account_age": 1941120.0}

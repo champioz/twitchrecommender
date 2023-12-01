@@ -1,0 +1,1 @@
+{"channel": "ditedragon", "avg_viewers": 6, "followers_gained": 4, "peak_viewers": 11, "hours_streamed": 5, "streams": 2, "mature": 1, "language": "Greek", "account_age": 2269440.0}

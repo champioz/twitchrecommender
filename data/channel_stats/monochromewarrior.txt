@@ -1,0 +1,1 @@
+{"channel": "monochromewarrior", "avg_viewers": 8, "followers_gained": 79, "peak_viewers": 20, "hours_streamed": 132, "streams": 29, "mature": 0, "language": "Danish", "account_age": 557280.0}

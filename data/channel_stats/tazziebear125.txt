@@ -1,0 +1,1 @@
+{"channel": "tazziebear125", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 8, "hours_streamed": 14, "streams": 7, "mature": 1, "language": "English", "account_age": 1670400.0}

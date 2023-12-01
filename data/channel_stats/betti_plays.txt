@@ -1,0 +1,1 @@
+{"channel": "betti_plays", "avg_viewers": 16, "followers_gained": 204, "peak_viewers": 44, "hours_streamed": 86, "streams": 30, "mature": 1, "language": "Hungarian", "account_age": 2358720.0}

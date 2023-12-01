@@ -1,0 +1,1 @@
+{"channel": "zillemannen", "avg_viewers": 5, "followers_gained": 87, "peak_viewers": 40, "hours_streamed": 309, "streams": 46, "mature": 1, "language": "Swedish", "account_age": 1683360.0}

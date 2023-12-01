@@ -1,0 +1,1 @@
+{"channel": "woowakgood", "avg_viewers": 2936, "followers_gained": 10280, "peak_viewers": 8360, "hours_streamed": 194, "streams": 23, "mature": 0, "language": "Korean", "account_age": 3090240.0}

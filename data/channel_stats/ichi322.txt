@@ -1,0 +1,1 @@
+{"channel": "ichi322", "avg_viewers": 11, "followers_gained": 22, "peak_viewers": 54, "hours_streamed": 58, "streams": 20, "mature": 1, "language": "Russian", "account_age": 2577600.0}

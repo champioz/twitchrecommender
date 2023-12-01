@@ -1,0 +1,1 @@
+{"channel": "souchan", "avg_viewers": 3, "followers_gained": 9, "peak_viewers": 15, "hours_streamed": 197, "streams": 40, "mature": 0, "language": "Japanese", "account_age": 1808640.0}

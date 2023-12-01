@@ -1,0 +1,1 @@
+{"channel": "babidiii", "avg_viewers": 40, "followers_gained": 271, "peak_viewers": 119, "hours_streamed": 93, "streams": 23, "mature": 0, "language": "Portuguese", "account_age": 2844000.0}

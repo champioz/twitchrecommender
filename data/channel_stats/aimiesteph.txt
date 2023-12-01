@@ -1,0 +1,1 @@
+{"channel": "aimiesteph", "avg_viewers": 4, "followers_gained": 12, "peak_viewers": 10, "hours_streamed": 4, "streams": 5, "mature": 1, "language": "English", "account_age": 286560.0}

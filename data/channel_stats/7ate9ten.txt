@@ -1,0 +1,1 @@
+{"channel": "7ate9ten", "avg_viewers": 3, "followers_gained": 7, "peak_viewers": 12, "hours_streamed": 59, "streams": 20, "mature": 1, "language": "English", "account_age": 1218240.0}

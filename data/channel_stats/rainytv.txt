@@ -1,0 +1,1 @@
+{"channel": "rainytv", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 9, "hours_streamed": 7, "streams": 3, "mature": 0, "language": "Swedish", "account_age": 2931840.0}

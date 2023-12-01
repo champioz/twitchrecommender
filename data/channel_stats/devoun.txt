@@ -1,0 +1,1 @@
+{"channel": "devoun", "avg_viewers": 22, "followers_gained": 350, "peak_viewers": 38, "hours_streamed": 53, "streams": 19, "mature": 0, "language": "English", "account_age": 663840.0}

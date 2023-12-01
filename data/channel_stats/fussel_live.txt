@@ -1,0 +1,1 @@
+{"channel": "fussel_live", "avg_viewers": 42, "followers_gained": 44, "peak_viewers": 95, "hours_streamed": 197, "streams": 37, "mature": 1, "language": "German", "account_age": 3614400.0}

@@ -1,0 +1,1 @@
+{"channel": "gagai1v69", "avg_viewers": 20, "followers_gained": 3, "peak_viewers": 39, "hours_streamed": 3, "streams": 1, "mature": 0, "language": "Greek", "account_age": 1880640.0}

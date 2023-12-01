@@ -1,0 +1,1 @@
+{"channel": "barrowsboy", "avg_viewers": 11, "followers_gained": 49, "peak_viewers": 205, "hours_streamed": 187, "streams": 29, "mature": 1, "language": "English", "account_age": 4161600.0}

@@ -1,0 +1,1 @@
+{"channel": "babydolllo", "avg_viewers": 8, "followers_gained": 54, "peak_viewers": 25, "hours_streamed": 26, "streams": 7, "mature": 1, "language": "English", "account_age": 1681920.0}

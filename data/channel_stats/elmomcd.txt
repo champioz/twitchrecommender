@@ -1,0 +1,1 @@
+{"channel": "elmomcd", "avg_viewers": 6, "followers_gained": 37, "peak_viewers": 15, "hours_streamed": 51, "streams": 13, "mature": 0, "language": "English", "account_age": 4417920.0}

@@ -1,0 +1,1 @@
+{"channel": "goddy_lp", "avg_viewers": 4, "followers_gained": 5, "peak_viewers": 13, "hours_streamed": 38, "streams": 11, "mature": 0, "language": "German", "account_age": 2736000.0}

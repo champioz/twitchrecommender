@@ -1,0 +1,1 @@
+{"channel": "chi777_", "avg_viewers": 48, "followers_gained": 507, "peak_viewers": 92, "hours_streamed": 200, "streams": 20, "mature": 0, "language": "Chinese", "account_age": 129600.0}

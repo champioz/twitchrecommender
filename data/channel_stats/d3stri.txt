@@ -1,0 +1,1 @@
+{"channel": "d3stri", "avg_viewers": 246, "followers_gained": 5867, "peak_viewers": 775, "hours_streamed": 141, "streams": 58, "mature": 0, "language": "Spanish", "account_age": 3623040.0}

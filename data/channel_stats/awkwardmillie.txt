@@ -1,0 +1,1 @@
+{"channel": "awkwardmillie", "avg_viewers": 10, "followers_gained": 63, "peak_viewers": 64, "hours_streamed": 55, "streams": 13, "mature": 1, "language": "English", "account_age": 3706560.0}

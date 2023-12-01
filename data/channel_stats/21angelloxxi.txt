@@ -1,0 +1,1 @@
+{"channel": "21angelloxxi", "avg_viewers": 2, "followers_gained": 44, "peak_viewers": 17, "hours_streamed": 76, "streams": 22, "mature": 0, "language": "Spanish", "account_age": 436320.0}

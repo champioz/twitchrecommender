@@ -1,0 +1,1 @@
+{"channel": "pyllero", "avg_viewers": 22, "followers_gained": 37, "peak_viewers": 132, "hours_streamed": 137, "streams": 35, "mature": 1, "language": "Danish", "account_age": 4256640.0}

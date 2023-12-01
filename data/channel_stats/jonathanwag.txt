@@ -1,0 +1,1 @@
+{"channel": "jonathanwag", "avg_viewers": 0, "followers_gained": 26, "peak_viewers": 5, "hours_streamed": 72, "streams": 28, "mature": 0, "language": "Portuguese", "account_age": 1859040.0}

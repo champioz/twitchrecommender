@@ -1,0 +1,1 @@
+{"channel": "dansnoop", "avg_viewers": 3, "followers_gained": 29, "peak_viewers": 12, "hours_streamed": 109, "streams": 16, "mature": 0, "language": "Italian", "account_age": 2787840.0}

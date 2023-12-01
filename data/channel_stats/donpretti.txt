@@ -1,0 +1,1 @@
+{"channel": "donpretti", "avg_viewers": 16, "followers_gained": 6, "peak_viewers": 115, "hours_streamed": 19, "streams": 7, "mature": 1, "language": "German", "account_age": 2939040.0}

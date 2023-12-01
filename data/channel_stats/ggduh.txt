@@ -1,0 +1,1 @@
+{"channel": "ggduh", "avg_viewers": 8, "followers_gained": 120, "peak_viewers": 29, "hours_streamed": 86, "streams": 16, "mature": 0, "language": "English", "account_age": 1182240.0}

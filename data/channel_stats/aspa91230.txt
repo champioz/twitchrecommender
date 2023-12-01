@@ -1,0 +1,1 @@
+{"channel": "aspa91230", "avg_viewers": 0, "followers_gained": 24, "peak_viewers": 3, "hours_streamed": 58, "streams": 16, "mature": 0, "language": "French", "account_age": 544320.0}

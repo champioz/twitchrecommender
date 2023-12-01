@@ -1,0 +1,1 @@
+{"channel": "ayamex3", "avg_viewers": 3, "followers_gained": 27, "peak_viewers": 13, "hours_streamed": 82, "streams": 23, "mature": 0, "language": "English", "account_age": 3104640.0}

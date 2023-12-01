@@ -1,0 +1,1 @@
+{"channel": "pinkguschu", "avg_viewers": 210, "followers_gained": 3564, "peak_viewers": 928, "hours_streamed": 242, "streams": 40, "mature": 0, "language": "Thai", "account_age": 2175840.0}

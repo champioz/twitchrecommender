@@ -1,0 +1,1 @@
+{"channel": "magenta62", "avg_viewers": 404, "followers_gained": 3936, "peak_viewers": 1357, "hours_streamed": 123, "streams": 31, "mature": 1, "language": "Korean", "account_age": 370080.0}

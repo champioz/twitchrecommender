@@ -1,0 +1,1 @@
+{"channel": "lafillebrouillon", "avg_viewers": 5, "followers_gained": 1, "peak_viewers": 14, "hours_streamed": 5, "streams": 2, "mature": 0, "language": "French", "account_age": 810720.0}

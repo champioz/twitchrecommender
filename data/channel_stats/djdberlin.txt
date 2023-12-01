@@ -1,0 +1,1 @@
+{"channel": "djdberlin", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 46, "hours_streamed": 174, "streams": 22, "mature": 1, "language": "German", "account_age": 2466720.0}

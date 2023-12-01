@@ -1,0 +1,1 @@
+{"channel": "ocore1126", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 22, "hours_streamed": 136, "streams": 28, "mature": 0, "language": "Chinese", "account_age": 2571840.0}

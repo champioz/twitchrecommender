@@ -1,0 +1,1 @@
+{"channel": "perrythepig", "avg_viewers": 31, "followers_gained": 58, "peak_viewers": 102, "hours_streamed": 197, "streams": 28, "mature": 0, "language": "English", "account_age": 1861920.0}

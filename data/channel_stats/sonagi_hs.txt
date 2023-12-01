@@ -1,0 +1,1 @@
+{"channel": "sonagi_hs", "avg_viewers": 198, "followers_gained": 584, "peak_viewers": 421, "hours_streamed": 109, "streams": 22, "mature": 0, "language": "Korean", "account_age": 1457280.0}

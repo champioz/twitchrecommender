@@ -1,0 +1,1 @@
+{"channel": "hark0_", "avg_viewers": 8, "followers_gained": 22, "peak_viewers": 19, "hours_streamed": 77, "streams": 20, "mature": 1, "language": "English", "account_age": 1908000.0}

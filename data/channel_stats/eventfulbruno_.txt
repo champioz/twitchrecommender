@@ -1,0 +1,1 @@
+{"channel": "eventfulbruno_", "avg_viewers": 10, "followers_gained": 73, "peak_viewers": 19, "hours_streamed": 54, "streams": 13, "mature": 1, "language": "French", "account_age": 2917440.0}

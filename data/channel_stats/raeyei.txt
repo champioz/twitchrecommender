@@ -1,0 +1,1 @@
+{"channel": "raeyei", "avg_viewers": 408, "followers_gained": 2292, "peak_viewers": 3383, "hours_streamed": 185, "streams": 20, "mature": 0, "language": "English", "account_age": 1513440.0}

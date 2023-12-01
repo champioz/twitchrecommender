@@ -1,0 +1,1 @@
+{"channel": "knueppelpaste", "avg_viewers": 242, "followers_gained": 730, "peak_viewers": 889, "hours_streamed": 126, "streams": 22, "mature": 1, "language": "German", "account_age": 2651040.0}

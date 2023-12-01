@@ -1,0 +1,1 @@
+{"channel": "vane_escamilla", "avg_viewers": 40, "followers_gained": 609, "peak_viewers": 75, "hours_streamed": 54, "streams": 19, "mature": 0, "language": "Spanish", "account_age": 718560.0}

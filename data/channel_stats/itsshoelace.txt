@@ -1,0 +1,1 @@
+{"channel": "itsshoelace", "avg_viewers": 14, "followers_gained": 39, "peak_viewers": 92, "hours_streamed": 35, "streams": 12, "mature": 0, "language": "English", "account_age": 1491840.0}

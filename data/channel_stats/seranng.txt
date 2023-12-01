@@ -1,0 +1,1 @@
+{"channel": "seranng", "avg_viewers": 7, "followers_gained": 37, "peak_viewers": 15, "hours_streamed": 21, "streams": 5, "mature": 0, "language": "Korean", "account_age": 596160.0}

@@ -1,0 +1,1 @@
+{"channel": "rosswenn", "avg_viewers": 31, "followers_gained": 240, "peak_viewers": 105, "hours_streamed": 64, "streams": 7, "mature": 0, "language": "Spanish", "account_age": 439200.0}

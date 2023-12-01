@@ -1,0 +1,1 @@
+{"channel": "blindseer", "avg_viewers": 17, "followers_gained": 40, "peak_viewers": 38, "hours_streamed": 90, "streams": 8, "mature": 1, "language": "English", "account_age": 901440.0}

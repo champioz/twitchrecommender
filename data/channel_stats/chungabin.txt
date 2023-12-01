@@ -1,0 +1,1 @@
+{"channel": "chungabin", "avg_viewers": 20, "followers_gained": 1, "peak_viewers": 41, "hours_streamed": 2, "streams": 3, "mature": 1, "language": "Chinese", "account_age": 3699360.0}

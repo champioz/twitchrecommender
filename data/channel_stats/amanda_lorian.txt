@@ -1,0 +1,1 @@
+{"channel": "amanda_lorian", "avg_viewers": 39, "followers_gained": 59, "peak_viewers": 122, "hours_streamed": 47, "streams": 9, "mature": 1, "language": "English", "account_age": 574560.0}

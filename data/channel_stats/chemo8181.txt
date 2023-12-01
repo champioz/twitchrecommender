@@ -1,0 +1,1 @@
+{"channel": "chemo8181", "avg_viewers": 17, "followers_gained": 109, "peak_viewers": 33, "hours_streamed": 88, "streams": 31, "mature": 0, "language": "Spanish", "account_age": 2136960.0}

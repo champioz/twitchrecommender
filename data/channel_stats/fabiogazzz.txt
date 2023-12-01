@@ -1,0 +1,1 @@
+{"channel": "fabiogazzz", "avg_viewers": 55, "followers_gained": 169, "peak_viewers": 333, "hours_streamed": 16, "streams": 9, "mature": 0, "language": "Italian", "account_age": 865440.0}

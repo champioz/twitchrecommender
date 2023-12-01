@@ -1,0 +1,1 @@
+{"channel": "ki11ersix", "avg_viewers": 475, "followers_gained": 4731, "peak_viewers": 859, "hours_streamed": 81, "streams": 19, "mature": 0, "language": "English", "account_age": 3738240.0}

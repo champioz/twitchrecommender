@@ -1,0 +1,1 @@
+{"channel": "proloyal", "avg_viewers": 8, "followers_gained": 28, "peak_viewers": 22, "hours_streamed": 73, "streams": 17, "mature": 1, "language": "German", "account_age": 2440800.0}

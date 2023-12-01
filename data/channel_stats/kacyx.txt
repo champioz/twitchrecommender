@@ -1,0 +1,1 @@
+{"channel": "kacyx", "avg_viewers": 10, "followers_gained": 26, "peak_viewers": 61, "hours_streamed": 241, "streams": 45, "mature": 1, "language": "Russian", "account_age": 3830400.0}

@@ -1,0 +1,1 @@
+{"channel": "cartoonbanshee", "avg_viewers": 5, "followers_gained": 6, "peak_viewers": 13, "hours_streamed": 19, "streams": 9, "mature": 0, "language": "Russian", "account_age": 747360.0}

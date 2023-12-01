@@ -1,0 +1,1 @@
+{"channel": "chozaytv", "avg_viewers": 30, "followers_gained": 1079, "peak_viewers": 340, "hours_streamed": 118, "streams": 24, "mature": 0, "language": "Arabic", "account_age": 666720.0}

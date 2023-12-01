@@ -1,0 +1,1 @@
+{"channel": "triosk", "avg_viewers": 555, "followers_gained": 124, "peak_viewers": 804, "hours_streamed": 23, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 2836800.0}

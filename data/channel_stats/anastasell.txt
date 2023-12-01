@@ -1,0 +1,1 @@
+{"channel": "anastasell", "avg_viewers": 2, "followers_gained": 0, "peak_viewers": 6, "hours_streamed": 15, "streams": 6, "mature": 0, "language": "Russian", "account_age": 1219680.0}

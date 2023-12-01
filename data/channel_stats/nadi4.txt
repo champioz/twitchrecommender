@@ -1,0 +1,1 @@
+{"channel": "nadi4", "avg_viewers": 48, "followers_gained": 491, "peak_viewers": 723, "hours_streamed": 28, "streams": 9, "mature": 0, "language": "Spanish", "account_age": 711360.0}

@@ -1,0 +1,1 @@
+{"channel": "darthlaeyes", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 26, "streams": 11, "mature": 1, "language": "German", "account_age": 1408320.0}

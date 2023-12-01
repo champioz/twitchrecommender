@@ -1,0 +1,1 @@
+{"channel": "bonnetv", "avg_viewers": 2, "followers_gained": 24, "peak_viewers": 8, "hours_streamed": 30, "streams": 5, "mature": 1, "language": "German", "account_age": 3052800.0}

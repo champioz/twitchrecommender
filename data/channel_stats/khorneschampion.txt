@@ -1,0 +1,1 @@
+{"channel": "khorneschampion", "avg_viewers": 89, "followers_gained": 74, "peak_viewers": 219, "hours_streamed": 158, "streams": 24, "mature": 1, "language": "English", "account_age": 2917440.0}

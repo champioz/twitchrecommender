@@ -1,0 +1,1 @@
+{"channel": "mikeradm", "avg_viewers": 5, "followers_gained": 31, "peak_viewers": 19, "hours_streamed": 79, "streams": 16, "mature": 0, "language": "English", "account_age": 1281600.0}

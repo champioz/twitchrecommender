@@ -1,0 +1,1 @@
+{"channel": "thatguymike", "avg_viewers": 14, "followers_gained": 100, "peak_viewers": 65, "hours_streamed": 13, "streams": 5, "mature": 1, "language": "English", "account_age": 1189440.0}

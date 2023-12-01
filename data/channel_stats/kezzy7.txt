@@ -1,0 +1,1 @@
+{"channel": "kezzy7", "avg_viewers": 5, "followers_gained": 153, "peak_viewers": 53, "hours_streamed": 175, "streams": 91, "mature": 0, "language": "Polish", "account_age": 516960.0}

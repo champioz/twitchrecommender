@@ -1,0 +1,1 @@
+{"channel": "cceliktv", "avg_viewers": 7, "followers_gained": 25, "peak_viewers": 21, "hours_streamed": 8, "streams": 5, "mature": 0, "language": "Turkish", "account_age": 917280.0}

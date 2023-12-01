@@ -1,0 +1,1 @@
+{"channel": "drlachs", "avg_viewers": 12, "followers_gained": 20, "peak_viewers": 36, "hours_streamed": 85, "streams": 22, "mature": 0, "language": "German", "account_age": 552960.0}

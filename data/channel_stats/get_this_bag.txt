@@ -1,0 +1,1 @@
+{"channel": "get_this_bag", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 23, "hours_streamed": 71, "streams": 18, "mature": 1, "language": "English", "account_age": 161280.0}

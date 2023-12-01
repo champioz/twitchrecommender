@@ -1,0 +1,1 @@
+{"channel": "ennopp112", "avg_viewers": 446, "followers_gained": 447, "peak_viewers": 919, "hours_streamed": 145, "streams": 25, "mature": 0, "language": "English", "account_age": 3726720.0}

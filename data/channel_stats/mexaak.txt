@@ -1,0 +1,1 @@
+{"channel": "mexaak", "avg_viewers": 238, "followers_gained": 1577, "peak_viewers": 6034, "hours_streamed": 240, "streams": 26, "mature": 0, "language": "Russian", "account_age": 1404000.0}

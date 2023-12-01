@@ -1,0 +1,1 @@
+{"channel": "whoozaa", "avg_viewers": 59, "followers_gained": 174, "peak_viewers": 176, "hours_streamed": 211, "streams": 27, "mature": 1, "language": "English", "account_age": 2098080.0}

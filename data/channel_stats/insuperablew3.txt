@@ -1,0 +1,1 @@
+{"channel": "insuperablew3", "avg_viewers": 104, "followers_gained": 205, "peak_viewers": 264, "hours_streamed": 120, "streams": 25, "mature": 0, "language": "English", "account_age": 1536480.0}

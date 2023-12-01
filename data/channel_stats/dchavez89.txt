@@ -1,0 +1,1 @@
+{"channel": "dchavez89", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 18, "streams": 15, "mature": 1, "language": "English", "account_age": 731520.0}

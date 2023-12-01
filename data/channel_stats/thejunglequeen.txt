@@ -1,0 +1,1 @@
+{"channel": "thejunglequeen", "avg_viewers": 110, "followers_gained": 131, "peak_viewers": 868, "hours_streamed": 55, "streams": 19, "mature": 0, "language": "English", "account_age": 2789280.0}

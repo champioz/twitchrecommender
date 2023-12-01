@@ -1,0 +1,1 @@
+{"channel": "wkerrick", "avg_viewers": 12, "followers_gained": 87, "peak_viewers": 106, "hours_streamed": 91, "streams": 25, "mature": 0, "language": "English", "account_age": 2220480.0}

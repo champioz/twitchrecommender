@@ -1,0 +1,1 @@
+{"channel": "cuchuquito", "avg_viewers": 18, "followers_gained": 181, "peak_viewers": 45, "hours_streamed": 91, "streams": 24, "mature": 1, "language": "Spanish", "account_age": 578880.0}

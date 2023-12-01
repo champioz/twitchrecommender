@@ -1,0 +1,1 @@
+{"channel": "federico_leo88", "avg_viewers": 78, "followers_gained": 808, "peak_viewers": 481, "hours_streamed": 28, "streams": 13, "mature": 0, "language": "Italian", "account_age": 433440.0}

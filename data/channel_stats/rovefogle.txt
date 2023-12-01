@@ -1,0 +1,1 @@
+{"channel": "rovefogle", "avg_viewers": 11, "followers_gained": 15, "peak_viewers": 88, "hours_streamed": 15, "streams": 4, "mature": 0, "language": "English", "account_age": 2407680.0}

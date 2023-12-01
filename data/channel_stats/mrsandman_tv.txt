@@ -1,0 +1,1 @@
+{"channel": "mrsandman_tv", "avg_viewers": 4, "followers_gained": 6, "peak_viewers": 17, "hours_streamed": 80, "streams": 15, "mature": 0, "language": "English", "account_age": 3185280.0}

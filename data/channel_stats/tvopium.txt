@@ -1,0 +1,1 @@
+{"channel": "tvopium", "avg_viewers": 3, "followers_gained": 27, "peak_viewers": 15, "hours_streamed": 42, "streams": 21, "mature": 0, "language": "French", "account_age": 790560.0}

@@ -1,0 +1,1 @@
+{"channel": "d0mnasser", "avg_viewers": 1, "followers_gained": 9, "peak_viewers": 10, "hours_streamed": 32, "streams": 11, "mature": 0, "language": "Portuguese", "account_age": 2636640.0}

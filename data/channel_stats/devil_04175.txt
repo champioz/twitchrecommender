@@ -1,0 +1,1 @@
+{"channel": "devil_04175", "avg_viewers": 14, "followers_gained": 17, "peak_viewers": 28, "hours_streamed": 52, "streams": 16, "mature": 1, "language": "Chinese", "account_age": 1605600.0}

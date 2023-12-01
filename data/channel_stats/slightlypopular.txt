@@ -1,0 +1,1 @@
+{"channel": "slightlypopular", "avg_viewers": 6, "followers_gained": 29, "peak_viewers": 19, "hours_streamed": 43, "streams": 15, "mature": 1, "language": "English", "account_age": 2783520.0}

@@ -1,0 +1,1 @@
+{"channel": "soladorn", "avg_viewers": 5, "followers_gained": 31, "peak_viewers": 36, "hours_streamed": 58, "streams": 18, "mature": 0, "language": "English", "account_age": 1141920.0}

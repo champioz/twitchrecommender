@@ -1,0 +1,1 @@
+{"channel": "geekstuebli", "avg_viewers": 10, "followers_gained": 18, "peak_viewers": 29, "hours_streamed": 33, "streams": 10, "mature": 1, "language": "German", "account_age": 1304640.0}

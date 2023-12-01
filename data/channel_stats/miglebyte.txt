@@ -1,0 +1,1 @@
+{"channel": "miglebyte", "avg_viewers": 7, "followers_gained": 12, "peak_viewers": 15, "hours_streamed": 15, "streams": 7, "mature": 0, "language": "English", "account_age": 545760.0}

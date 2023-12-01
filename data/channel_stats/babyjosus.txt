@@ -1,0 +1,1 @@
+{"channel": "babyjosus", "avg_viewers": 36, "followers_gained": 78, "peak_viewers": 186, "hours_streamed": 30, "streams": 6, "mature": 1, "language": "English", "account_age": 1794240.0}

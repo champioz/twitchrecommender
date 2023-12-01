@@ -1,0 +1,1 @@
+{"channel": "dionibi", "avg_viewers": 45, "followers_gained": 87, "peak_viewers": 80, "hours_streamed": 6, "streams": 4, "mature": 1, "language": "Spanish", "account_age": 485280.0}

@@ -1,0 +1,1 @@
+{"channel": "coloradaxx", "avg_viewers": 20, "followers_gained": 370, "peak_viewers": 56, "hours_streamed": 18, "streams": 10, "mature": 0, "language": "Spanish", "account_age": 298080.0}

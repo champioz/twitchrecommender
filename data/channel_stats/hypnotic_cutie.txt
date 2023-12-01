@@ -1,0 +1,1 @@
+{"channel": "hypnotic_cutie", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 4, "hours_streamed": 3, "streams": 1, "mature": 1, "language": "English", "account_age": 933120.0}

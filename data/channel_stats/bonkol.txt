@@ -1,0 +1,1 @@
+{"channel": "bonkol", "avg_viewers": 776, "followers_gained": 2792, "peak_viewers": 1254, "hours_streamed": 237, "streams": 33, "mature": 1, "language": "Polish", "account_age": 4322880.0}

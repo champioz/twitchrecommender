@@ -1,0 +1,1 @@
+{"channel": "zmalipsn", "avg_viewers": 19, "followers_gained": 99, "peak_viewers": 85, "hours_streamed": 39, "streams": 26, "mature": 0, "language": "English", "account_age": 1251360.0}

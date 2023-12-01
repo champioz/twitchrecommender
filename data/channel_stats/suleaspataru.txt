@@ -1,0 +1,1 @@
+{"channel": "suleaspataru", "avg_viewers": 22, "followers_gained": 96, "peak_viewers": 57, "hours_streamed": 84, "streams": 15, "mature": 1, "language": "English", "account_age": 2136960.0}

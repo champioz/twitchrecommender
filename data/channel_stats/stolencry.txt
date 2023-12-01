@@ -1,0 +1,1 @@
+{"channel": "stolencry", "avg_viewers": 2, "followers_gained": 24, "peak_viewers": 70, "hours_streamed": 105, "streams": 25, "mature": 0, "language": "English", "account_age": 502560.0}

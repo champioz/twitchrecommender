@@ -1,0 +1,1 @@
+{"channel": "regibang", "avg_viewers": 190, "followers_gained": 205, "peak_viewers": 1544, "hours_streamed": 89, "streams": 18, "mature": 0, "language": "German", "account_age": 3915360.0}

@@ -1,0 +1,1 @@
+{"channel": "sariahsaurus", "avg_viewers": 10, "followers_gained": 20, "peak_viewers": 40, "hours_streamed": 20, "streams": 4, "mature": 1, "language": "German", "account_age": 1844640.0}

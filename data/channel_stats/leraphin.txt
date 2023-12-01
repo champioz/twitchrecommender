@@ -1,0 +1,1 @@
+{"channel": "leraphin", "avg_viewers": 8, "followers_gained": 8, "peak_viewers": 17, "hours_streamed": 4, "streams": 3, "mature": 0, "language": "German", "account_age": 2289600.0}

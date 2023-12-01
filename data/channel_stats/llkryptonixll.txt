@@ -1,0 +1,1 @@
+{"channel": "llkryptonixll", "avg_viewers": 6, "followers_gained": 11, "peak_viewers": 20, "hours_streamed": 35, "streams": 13, "mature": 0, "language": "German", "account_age": 1481760.0}

@@ -1,0 +1,1 @@
+{"channel": "einz145", "avg_viewers": 6, "followers_gained": 2, "peak_viewers": 19, "hours_streamed": 42, "streams": 22, "mature": 0, "language": "Korean", "account_age": 1457280.0}

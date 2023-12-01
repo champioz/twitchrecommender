@@ -1,0 +1,1 @@
+{"channel": "mkprod", "avg_viewers": 98, "followers_gained": 878, "peak_viewers": 207, "hours_streamed": 36, "streams": 14, "mature": 0, "language": "French", "account_age": 1882080.0}

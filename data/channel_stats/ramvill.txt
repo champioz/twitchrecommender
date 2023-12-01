@@ -1,0 +1,1 @@
+{"channel": "ramvill", "avg_viewers": 4, "followers_gained": 66, "peak_viewers": 28, "hours_streamed": 148, "streams": 29, "mature": 1, "language": "Spanish", "account_age": 876960.0}

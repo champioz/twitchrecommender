@@ -1,0 +1,1 @@
+{"channel": "hinduqsh", "avg_viewers": 5, "followers_gained": 7, "peak_viewers": 48, "hours_streamed": 115, "streams": 29, "mature": 0, "language": "Polish", "account_age": 3335040.0}

@@ -1,0 +1,1 @@
+{"channel": "synthia_umbra", "avg_viewers": 6, "followers_gained": 32, "peak_viewers": 16, "hours_streamed": 90, "streams": 25, "mature": 1, "language": "English", "account_age": 1376640.0}

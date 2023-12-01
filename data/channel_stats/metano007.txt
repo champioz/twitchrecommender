@@ -1,0 +1,1 @@
+{"channel": "metano007", "avg_viewers": 39, "followers_gained": 634, "peak_viewers": 132, "hours_streamed": 69, "streams": 21, "mature": 0, "language": "Italian", "account_age": 3261600.0}

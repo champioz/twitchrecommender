@@ -1,0 +1,1 @@
+{"channel": "havenfusky", "avg_viewers": 28, "followers_gained": 283, "peak_viewers": 59, "hours_streamed": 100, "streams": 29, "mature": 0, "language": "English", "account_age": 2484000.0}

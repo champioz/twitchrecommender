@@ -1,0 +1,1 @@
+{"channel": "tamizhan", "avg_viewers": 2, "followers_gained": 35, "peak_viewers": 10, "hours_streamed": 105, "streams": 61, "mature": 0, "language": "English", "account_age": 573120.0}

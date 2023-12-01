@@ -1,0 +1,1 @@
+{"channel": "gamonymous__", "avg_viewers": 4, "followers_gained": 15, "peak_viewers": 12, "hours_streamed": 13, "streams": 10, "mature": 0, "language": "French", "account_age": 1238400.0}

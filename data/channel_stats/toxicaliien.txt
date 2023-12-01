@@ -1,0 +1,1 @@
+{"channel": "toxicaliien", "avg_viewers": 5, "followers_gained": 23, "peak_viewers": 15, "hours_streamed": 97, "streams": 24, "mature": 1, "language": "Spanish", "account_age": 624960.0}

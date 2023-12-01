@@ -1,0 +1,1 @@
+{"channel": "real_hardrainer", "avg_viewers": 18, "followers_gained": 70, "peak_viewers": 72, "hours_streamed": 31, "streams": 7, "mature": 0, "language": "Korean", "account_age": 1016640.0}

@@ -1,0 +1,1 @@
+{"channel": "nila_1234", "avg_viewers": 54, "followers_gained": 71, "peak_viewers": 101, "hours_streamed": 29, "streams": 7, "mature": 0, "language": "French", "account_age": 1660320.0}

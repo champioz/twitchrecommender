@@ -1,0 +1,1 @@
+{"channel": "stoaxtv", "avg_viewers": 23, "followers_gained": 175, "peak_viewers": 143, "hours_streamed": 27, "streams": 8, "mature": 1, "language": "English", "account_age": 1738080.0}

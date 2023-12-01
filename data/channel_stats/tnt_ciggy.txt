@@ -1,0 +1,1 @@
+{"channel": "tnt_ciggy", "avg_viewers": 10, "followers_gained": 39, "peak_viewers": 35, "hours_streamed": 36, "streams": 5, "mature": 1, "language": "English", "account_age": 1090080.0}

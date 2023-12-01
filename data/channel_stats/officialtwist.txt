@@ -1,0 +1,1 @@
+{"channel": "officialtwist", "avg_viewers": 21, "followers_gained": 3, "peak_viewers": 34, "hours_streamed": 7, "streams": 2, "mature": 0, "language": "Swedish", "account_age": 2759040.0}

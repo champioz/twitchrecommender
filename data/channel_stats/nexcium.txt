@@ -1,0 +1,1 @@
+{"channel": "nexcium", "avg_viewers": 26, "followers_gained": 960, "peak_viewers": 238, "hours_streamed": 240, "streams": 60, "mature": 0, "language": "English", "account_age": 1779840.0}

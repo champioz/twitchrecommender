@@ -1,0 +1,1 @@
+{"channel": "dilzik", "avg_viewers": 37, "followers_gained": 33, "peak_viewers": 124, "hours_streamed": 73, "streams": 20, "mature": 1, "language": "English", "account_age": 4171680.0}

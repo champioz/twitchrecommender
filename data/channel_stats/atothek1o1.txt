@@ -1,0 +1,1 @@
+{"channel": "atothek1o1", "avg_viewers": 27, "followers_gained": 53, "peak_viewers": 76, "hours_streamed": 61, "streams": 13, "mature": 1, "language": "English", "account_age": 1337760.0}

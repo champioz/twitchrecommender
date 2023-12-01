@@ -1,0 +1,1 @@
+{"channel": "papapawian", "avg_viewers": 193, "followers_gained": 654, "peak_viewers": 501, "hours_streamed": 198, "streams": 39, "mature": 1, "language": "Polish", "account_age": 2918880.0}

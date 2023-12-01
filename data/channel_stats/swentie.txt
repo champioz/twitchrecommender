@@ -1,0 +1,1 @@
+{"channel": "swentie", "avg_viewers": 0, "followers_gained": 4, "peak_viewers": 2, "hours_streamed": 3, "streams": 3, "mature": 0, "language": "English", "account_age": 2028960.0}

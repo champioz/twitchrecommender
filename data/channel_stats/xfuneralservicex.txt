@@ -1,0 +1,1 @@
+{"channel": "xfuneralservicex", "avg_viewers": 17, "followers_gained": 109, "peak_viewers": 58, "hours_streamed": 260, "streams": 56, "mature": 1, "language": "English", "account_age": 2602080.0}

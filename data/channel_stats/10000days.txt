@@ -1,0 +1,1 @@
+{"channel": "10000days", "avg_viewers": 1076, "followers_gained": 11448, "peak_viewers": 1799, "hours_streamed": 110, "streams": 28, "mature": 0, "language": "Turkish", "account_age": 3273120.0}

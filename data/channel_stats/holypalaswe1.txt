@@ -1,0 +1,1 @@
+{"channel": "holypalaswe1", "avg_viewers": 16, "followers_gained": 172, "peak_viewers": 43, "hours_streamed": 59, "streams": 17, "mature": 0, "language": "English", "account_age": 4053600.0}

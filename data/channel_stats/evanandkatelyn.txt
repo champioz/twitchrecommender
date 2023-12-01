@@ -1,0 +1,1 @@
+{"channel": "evanandkatelyn", "avg_viewers": 61, "followers_gained": 560, "peak_viewers": 88, "hours_streamed": 13, "streams": 8, "mature": 0, "language": "English", "account_age": 1193760.0}

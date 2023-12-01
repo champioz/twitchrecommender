@@ -1,0 +1,1 @@
+{"channel": "krashplay", "avg_viewers": 21, "followers_gained": 108, "peak_viewers": 43, "hours_streamed": 17, "streams": 7, "mature": 1, "language": "Bulgarian", "account_age": 2322720.0}

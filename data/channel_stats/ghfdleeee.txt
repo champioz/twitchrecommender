@@ -1,0 +1,1 @@
+{"channel": "ghfdleeee", "avg_viewers": 5, "followers_gained": 2, "peak_viewers": 17, "hours_streamed": 18, "streams": 8, "mature": 0, "language": "Chinese", "account_age": 1020960.0}

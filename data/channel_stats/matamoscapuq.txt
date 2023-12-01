@@ -1,0 +1,1 @@
+{"channel": "matamoscapuq", "avg_viewers": 2, "followers_gained": 17, "peak_viewers": 11, "hours_streamed": 158, "streams": 32, "mature": 1, "language": "Spanish", "account_age": 1851840.0}

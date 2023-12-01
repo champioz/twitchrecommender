@@ -1,0 +1,1 @@
+{"channel": "jjoteacher", "avg_viewers": 17, "followers_gained": 119, "peak_viewers": 107, "hours_streamed": 214, "streams": 60, "mature": 0, "language": "Korean", "account_age": 1438560.0}

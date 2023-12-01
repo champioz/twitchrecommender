@@ -1,0 +1,1 @@
+{"channel": "ded_grobovshik", "avg_viewers": 7, "followers_gained": 28, "peak_viewers": 19, "hours_streamed": 81, "streams": 11, "mature": 1, "language": "Russian", "account_age": 1221120.0}

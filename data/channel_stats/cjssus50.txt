@@ -1,0 +1,1 @@
+{"channel": "cjssus50", "avg_viewers": 16, "followers_gained": 30, "peak_viewers": 42, "hours_streamed": 81, "streams": 21, "mature": 0, "language": "Korean", "account_age": 681120.0}

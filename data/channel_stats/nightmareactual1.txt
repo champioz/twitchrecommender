@@ -1,0 +1,1 @@
+{"channel": "nightmareactual1", "avg_viewers": 2, "followers_gained": 8, "peak_viewers": 17, "hours_streamed": 64, "streams": 13, "mature": 1, "language": "English", "account_age": 1429920.0}

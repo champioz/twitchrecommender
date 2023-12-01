@@ -1,0 +1,1 @@
+{"channel": "orcamis", "avg_viewers": 128, "followers_gained": 4652, "peak_viewers": 1949, "hours_streamed": 142, "streams": 22, "mature": 1, "language": "Portuguese", "account_age": 2344320.0}

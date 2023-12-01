@@ -1,0 +1,1 @@
+{"channel": "c0wler", "avg_viewers": 10, "followers_gained": 129, "peak_viewers": 133, "hours_streamed": 36, "streams": 13, "mature": 0, "language": "English", "account_age": 688320.0}

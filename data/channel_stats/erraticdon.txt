@@ -1,0 +1,1 @@
+{"channel": "erraticdon", "avg_viewers": 4, "followers_gained": 18, "peak_viewers": 12, "hours_streamed": 28, "streams": 21, "mature": 0, "language": "English", "account_age": 3633120.0}

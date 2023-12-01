@@ -1,0 +1,1 @@
+{"channel": "shockndrop", "avg_viewers": 2, "followers_gained": 10, "peak_viewers": 11, "hours_streamed": 59, "streams": 18, "mature": 1, "language": "English", "account_age": 3938400.0}

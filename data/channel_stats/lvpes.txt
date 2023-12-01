@@ -1,0 +1,1 @@
+{"channel": "lvpes", "avg_viewers": 5038, "followers_gained": 6651, "peak_viewers": 16860, "hours_streamed": 192, "streams": 18, "mature": 0, "language": "Spanish", "account_age": 4325760.0}

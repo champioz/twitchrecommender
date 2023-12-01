@@ -1,0 +1,1 @@
+{"channel": "hinapls", "avg_viewers": 1, "followers_gained": 2, "peak_viewers": 3, "hours_streamed": 13, "streams": 6, "mature": 1, "language": "English", "account_age": 2001600.0}

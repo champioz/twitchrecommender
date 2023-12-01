@@ -1,0 +1,1 @@
+{"channel": "singl3", "avg_viewers": 3, "followers_gained": 29, "peak_viewers": 15, "hours_streamed": 48, "streams": 24, "mature": 0, "language": "English", "account_age": 696960.0}

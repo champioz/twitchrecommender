@@ -1,0 +1,1 @@
+{"channel": "rilaccoco", "avg_viewers": 339, "followers_gained": 317, "peak_viewers": 1442, "hours_streamed": 17, "streams": 6, "mature": 0, "language": "English", "account_age": 938880.0}

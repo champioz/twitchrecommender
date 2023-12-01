@@ -1,0 +1,1 @@
+{"channel": "texasthunderstorm", "avg_viewers": 2, "followers_gained": 1, "peak_viewers": 5, "hours_streamed": 8, "streams": 5, "mature": 1, "language": "English", "account_age": 3810240.0}

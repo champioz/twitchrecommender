@@ -1,0 +1,1 @@
+{"channel": "reddysh", "avg_viewers": 33, "followers_gained": 1003, "peak_viewers": 98, "hours_streamed": 131, "streams": 27, "mature": 0, "language": "English", "account_age": 591840.0}

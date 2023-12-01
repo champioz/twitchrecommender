@@ -1,0 +1,1 @@
+{"channel": "grimmnebulin", "avg_viewers": 13, "followers_gained": 8, "peak_viewers": 39, "hours_streamed": 83, "streams": 21, "mature": 1, "language": "German", "account_age": 2904480.0}

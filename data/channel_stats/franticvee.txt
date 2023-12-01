@@ -1,0 +1,1 @@
+{"channel": "franticvee", "avg_viewers": 7, "followers_gained": 19, "peak_viewers": 16, "hours_streamed": 36, "streams": 11, "mature": 0, "language": "Spanish", "account_age": 1784160.0}

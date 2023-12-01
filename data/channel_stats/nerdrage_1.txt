@@ -1,0 +1,1 @@
+{"channel": "nerdrage_1", "avg_viewers": 50, "followers_gained": 13, "peak_viewers": 73, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "French", "account_age": 1766880.0}

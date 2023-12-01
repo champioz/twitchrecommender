@@ -1,0 +1,1 @@
+{"channel": "ricsidark", "avg_viewers": 60, "followers_gained": 256, "peak_viewers": 153, "hours_streamed": 47, "streams": 23, "mature": 0, "language": "Hungarian", "account_age": 1149120.0}

@@ -1,0 +1,1 @@
+{"channel": "eposlol", "avg_viewers": 370, "followers_gained": 648, "peak_viewers": 914, "hours_streamed": 131, "streams": 33, "mature": 0, "language": "Russian", "account_age": 3497760.0}

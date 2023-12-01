@@ -1,0 +1,1 @@
+{"channel": "belulitagamer", "avg_viewers": 17, "followers_gained": 294, "peak_viewers": 381, "hours_streamed": 127, "streams": 17, "mature": 1, "language": "Spanish", "account_age": 2057760.0}

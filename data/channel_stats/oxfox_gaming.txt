@@ -1,0 +1,1 @@
+{"channel": "oxfox_gaming", "avg_viewers": 3, "followers_gained": 0, "peak_viewers": 16, "hours_streamed": 39, "streams": 5, "mature": 0, "language": "German", "account_age": 1402560.0}

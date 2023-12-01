@@ -1,0 +1,1 @@
+{"channel": "l3om4nc3r", "avg_viewers": 19, "followers_gained": 22, "peak_viewers": 28, "hours_streamed": 52, "streams": 18, "mature": 1, "language": "Russian", "account_age": 3329280.0}

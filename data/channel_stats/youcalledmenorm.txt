@@ -1,0 +1,1 @@
+{"channel": "youcalledmenorm", "avg_viewers": 4, "followers_gained": 21, "peak_viewers": 17, "hours_streamed": 63, "streams": 27, "mature": 0, "language": "English", "account_age": 1026720.0}

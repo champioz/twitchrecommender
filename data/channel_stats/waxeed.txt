@@ -1,0 +1,1 @@
+{"channel": "waxeed", "avg_viewers": 3, "followers_gained": 32, "peak_viewers": 13, "hours_streamed": 13, "streams": 5, "mature": 0, "language": "Arabic", "account_age": 3058560.0}

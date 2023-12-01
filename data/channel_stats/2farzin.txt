@@ -1,0 +1,1 @@
+{"channel": "2farzin", "avg_viewers": 31, "followers_gained": 4, "peak_viewers": 104, "hours_streamed": 191, "streams": 24, "mature": 0, "language": "Korean", "account_age": 1817280.0}

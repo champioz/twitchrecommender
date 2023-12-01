@@ -1,0 +1,1 @@
+{"channel": "warcraftru", "avg_viewers": 476, "followers_gained": 378, "peak_viewers": 732, "hours_streamed": 31, "streams": 6, "mature": 0, "language": "Russian", "account_age": 856800.0}

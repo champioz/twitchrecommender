@@ -1,0 +1,1 @@
+{"channel": "back1tup", "avg_viewers": 12, "followers_gained": 54, "peak_viewers": 27, "hours_streamed": 49, "streams": 10, "mature": 1, "language": "Greek", "account_age": 214560.0}

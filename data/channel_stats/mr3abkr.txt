@@ -1,0 +1,1 @@
+{"channel": "mr3abkr", "avg_viewers": 25, "followers_gained": 223, "peak_viewers": 48, "hours_streamed": 26, "streams": 8, "mature": 0, "language": "Arabic", "account_age": 1762560.0}

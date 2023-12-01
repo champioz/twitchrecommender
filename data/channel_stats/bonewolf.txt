@@ -1,0 +1,1 @@
+{"channel": "bonewolf", "avg_viewers": 5, "followers_gained": 53, "peak_viewers": 98, "hours_streamed": 129, "streams": 19, "mature": 1, "language": "Portuguese", "account_age": 3409920.0}

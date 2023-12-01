@@ -1,0 +1,1 @@
+{"channel": "miidgeee", "avg_viewers": 6, "followers_gained": 32, "peak_viewers": 20, "hours_streamed": 72, "streams": 23, "mature": 0, "language": "English", "account_age": 705600.0}

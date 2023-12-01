@@ -1,0 +1,1 @@
+{"channel": "iateyourpie", "avg_viewers": 1382, "followers_gained": 2307, "peak_viewers": 2842, "hours_streamed": 265, "streams": 35, "mature": 0, "language": "English", "account_age": 3949920.0}

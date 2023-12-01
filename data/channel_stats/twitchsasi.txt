@@ -1,0 +1,1 @@
+{"channel": "twitchsasi", "avg_viewers": 787, "followers_gained": 3337, "peak_viewers": 1122, "hours_streamed": 23, "streams": 6, "mature": 1, "language": "Turkish", "account_age": 2057760.0}

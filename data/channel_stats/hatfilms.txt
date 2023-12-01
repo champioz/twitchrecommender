@@ -1,0 +1,1 @@
+{"channel": "hatfilms", "avg_viewers": 935, "followers_gained": 2245, "peak_viewers": 3831, "hours_streamed": 31, "streams": 13, "mature": 1, "language": "English", "account_age": 4351680.0}

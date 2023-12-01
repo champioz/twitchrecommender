@@ -1,0 +1,1 @@
+{"channel": "mikezuluhotel", "avg_viewers": 1, "followers_gained": 5, "peak_viewers": 22, "hours_streamed": 39, "streams": 19, "mature": 0, "language": "English", "account_age": 2708640.0}

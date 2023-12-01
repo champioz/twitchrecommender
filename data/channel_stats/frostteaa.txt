@@ -1,0 +1,1 @@
+{"channel": "frostteaa", "avg_viewers": 4, "followers_gained": 36, "peak_viewers": 19, "hours_streamed": 81, "streams": 30, "mature": 1, "language": "English", "account_age": 1419840.0}

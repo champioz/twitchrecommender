@@ -1,0 +1,1 @@
+{"channel": "syphiriagabbysdk", "avg_viewers": 12, "followers_gained": 48, "peak_viewers": 49, "hours_streamed": 74, "streams": 14, "mature": 1, "language": "English", "account_age": 2070720.0}

@@ -1,0 +1,1 @@
+{"channel": "mkkch", "avg_viewers": 11, "followers_gained": 4, "peak_viewers": 217, "hours_streamed": 82, "streams": 17, "mature": 0, "language": "Thai", "account_age": 2433600.0}

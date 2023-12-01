@@ -1,0 +1,1 @@
+{"channel": "skydock29", "avg_viewers": 7, "followers_gained": 23, "peak_viewers": 39, "hours_streamed": 95, "streams": 24, "mature": 1, "language": "Korean", "account_age": 1788480.0}

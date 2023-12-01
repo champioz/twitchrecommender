@@ -1,0 +1,1 @@
+{"channel": "cignus", "avg_viewers": 25, "followers_gained": 51, "peak_viewers": 84, "hours_streamed": 29, "streams": 10, "mature": 1, "language": "English", "account_age": 2975040.0}

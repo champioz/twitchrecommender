@@ -1,0 +1,1 @@
+{"channel": "kyiolol", "avg_viewers": 13, "followers_gained": 17, "peak_viewers": 44, "hours_streamed": 80, "streams": 18, "mature": 1, "language": "German", "account_age": 970560.0}

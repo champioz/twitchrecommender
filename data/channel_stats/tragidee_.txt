@@ -1,0 +1,1 @@
+{"channel": "tragidee_", "avg_viewers": 18, "followers_gained": 106, "peak_viewers": 41, "hours_streamed": 76, "streams": 22, "mature": 0, "language": "English", "account_age": 1247040.0}

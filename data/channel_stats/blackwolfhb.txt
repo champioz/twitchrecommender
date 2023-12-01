@@ -1,0 +1,1 @@
+{"channel": "blackwolfhb", "avg_viewers": 11, "followers_gained": 131, "peak_viewers": 127, "hours_streamed": 175, "streams": 38, "mature": 1, "language": "German", "account_age": 1697760.0}

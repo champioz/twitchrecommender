@@ -1,0 +1,1 @@
+{"channel": "masterharrigan", "avg_viewers": 6, "followers_gained": 22, "peak_viewers": 31, "hours_streamed": 27, "streams": 10, "mature": 1, "language": "English", "account_age": 1558080.0}

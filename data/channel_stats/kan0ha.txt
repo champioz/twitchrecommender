@@ -1,0 +1,1 @@
+{"channel": "kan0ha", "avg_viewers": 36, "followers_gained": 129, "peak_viewers": 85, "hours_streamed": 111, "streams": 29, "mature": 0, "language": "Russian", "account_age": 1428480.0}

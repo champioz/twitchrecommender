@@ -1,0 +1,1 @@
+{"channel": "killsthemind", "avg_viewers": 4, "followers_gained": 53, "peak_viewers": 17, "hours_streamed": 75, "streams": 19, "mature": 0, "language": "Italian", "account_age": 144000.0}

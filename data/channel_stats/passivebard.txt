@@ -1,0 +1,1 @@
+{"channel": "passivebard", "avg_viewers": 8, "followers_gained": 30, "peak_viewers": 35, "hours_streamed": 92, "streams": 33, "mature": 1, "language": "English", "account_age": 652320.0}

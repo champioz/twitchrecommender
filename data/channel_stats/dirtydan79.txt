@@ -1,0 +1,1 @@
+{"channel": "dirtydan79", "avg_viewers": 590, "followers_gained": 641, "peak_viewers": 1934, "hours_streamed": 30, "streams": 4, "mature": 0, "language": "English", "account_age": 3012480.0}

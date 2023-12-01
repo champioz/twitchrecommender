@@ -1,0 +1,1 @@
+{"channel": "erobb221", "avg_viewers": 2345, "followers_gained": 6370, "peak_viewers": 5960, "hours_streamed": 113, "streams": 23, "mature": 0, "language": "English", "account_age": 2118240.0}

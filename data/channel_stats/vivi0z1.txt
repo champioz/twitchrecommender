@@ -1,0 +1,1 @@
+{"channel": "vivi0z1", "avg_viewers": 746, "followers_gained": 1123, "peak_viewers": 1178, "hours_streamed": 39, "streams": 9, "mature": 1, "language": "Chinese", "account_age": 728640.0}

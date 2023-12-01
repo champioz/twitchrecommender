@@ -1,0 +1,1 @@
+{"channel": "doolkaa", "avg_viewers": 12, "followers_gained": 192, "peak_viewers": 74, "hours_streamed": 62, "streams": 17, "mature": 0, "language": "Polish", "account_age": 705600.0}

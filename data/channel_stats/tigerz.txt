@@ -1,0 +1,1 @@
+{"channel": "tigerz", "avg_viewers": 6, "followers_gained": 4, "peak_viewers": 26, "hours_streamed": 19, "streams": 7, "mature": 1, "language": "English", "account_age": 3077280.0}

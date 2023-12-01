@@ -1,0 +1,1 @@
+{"channel": "zaiira", "avg_viewers": 5, "followers_gained": 16, "peak_viewers": 40, "hours_streamed": 85, "streams": 21, "mature": 1, "language": "German", "account_age": 2427840.0}

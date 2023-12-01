@@ -1,0 +1,1 @@
+{"channel": "cameronvengenz", "avg_viewers": 27, "followers_gained": 102, "peak_viewers": 89, "hours_streamed": 146, "streams": 31, "mature": 0, "language": "English", "account_age": 1058400.0}

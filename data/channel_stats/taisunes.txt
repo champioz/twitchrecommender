@@ -1,0 +1,1 @@
+{"channel": "taisunes", "avg_viewers": 2, "followers_gained": 11, "peak_viewers": 32, "hours_streamed": 20, "streams": 10, "mature": 0, "language": "English", "account_age": 1820160.0}

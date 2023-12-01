@@ -1,0 +1,1 @@
+{"channel": "shuultz", "avg_viewers": 36, "followers_gained": 66, "peak_viewers": 303, "hours_streamed": 27, "streams": 13, "mature": 0, "language": "French", "account_age": 2196000.0}

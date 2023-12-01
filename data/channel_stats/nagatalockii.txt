@@ -1,0 +1,1 @@
+{"channel": "nagatalockii", "avg_viewers": 30, "followers_gained": 88, "peak_viewers": 73, "hours_streamed": 58, "streams": 19, "mature": 0, "language": "English", "account_age": 4894560.0}

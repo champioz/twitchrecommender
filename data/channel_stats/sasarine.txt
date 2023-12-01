@@ -1,0 +1,1 @@
+{"channel": "sasarine", "avg_viewers": 13, "followers_gained": 37, "peak_viewers": 28, "hours_streamed": 34, "streams": 7, "mature": 0, "language": "German", "account_age": 3055680.0}

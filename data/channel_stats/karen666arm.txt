@@ -1,0 +1,1 @@
+{"channel": "karen666arm", "avg_viewers": 0, "followers_gained": 5, "peak_viewers": 4, "hours_streamed": 72, "streams": 26, "mature": 0, "language": "Russian", "account_age": 249120.0}

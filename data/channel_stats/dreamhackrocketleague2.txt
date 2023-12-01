@@ -1,0 +1,1 @@
+{"channel": "dreamhackrocketleague2", "avg_viewers": 2333, "followers_gained": 5770, "peak_viewers": 5955, "hours_streamed": 17, "streams": 2, "mature": 0, "language": "English", "account_age": 135360.0}

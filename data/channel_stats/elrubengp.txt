@@ -1,0 +1,1 @@
+{"channel": "elrubengp", "avg_viewers": 29, "followers_gained": 352, "peak_viewers": 70, "hours_streamed": 149, "streams": 21, "mature": 0, "language": "Spanish", "account_age": 1270080.0}

@@ -1,0 +1,1 @@
+{"channel": "piglet_love2011", "avg_viewers": 3, "followers_gained": 15, "peak_viewers": 14, "hours_streamed": 55, "streams": 20, "mature": 0, "language": "English", "account_age": 1349280.0}

@@ -1,0 +1,1 @@
+{"channel": "evildark0507", "avg_viewers": 136, "followers_gained": 55, "peak_viewers": 360, "hours_streamed": 69, "streams": 27, "mature": 0, "language": "Chinese", "account_age": 5222880.0}

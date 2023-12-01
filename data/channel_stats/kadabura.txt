@@ -1,0 +1,1 @@
+{"channel": "kadabura", "avg_viewers": 38, "followers_gained": 53, "peak_viewers": 53, "hours_streamed": 6, "streams": 3, "mature": 0, "language": "English", "account_age": 4249440.0}

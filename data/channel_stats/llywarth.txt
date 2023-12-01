@@ -1,0 +1,1 @@
+{"channel": "llywarth", "avg_viewers": 8, "followers_gained": 54, "peak_viewers": 32, "hours_streamed": 49, "streams": 17, "mature": 1, "language": "Spanish", "account_age": 1308960.0}

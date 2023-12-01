@@ -1,0 +1,1 @@
+{"channel": "runthefutmarket", "avg_viewers": 1717, "followers_gained": 8526, "peak_viewers": 4302, "hours_streamed": 129, "streams": 31, "mature": 0, "language": "English", "account_age": 1353600.0}

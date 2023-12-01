@@ -1,0 +1,1 @@
+{"channel": "carlacartacea", "avg_viewers": 31, "followers_gained": 50, "peak_viewers": 54, "hours_streamed": 36, "streams": 14, "mature": 0, "language": "Italian", "account_age": 1131840.0}

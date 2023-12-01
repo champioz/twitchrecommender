@@ -1,0 +1,1 @@
+{"channel": "ramonperez", "avg_viewers": 4, "followers_gained": 9, "peak_viewers": 14, "hours_streamed": 66, "streams": 17, "mature": 0, "language": "Russian", "account_age": 2211840.0}

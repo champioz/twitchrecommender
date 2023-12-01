@@ -1,0 +1,1 @@
+{"channel": "shomaru7", "avg_viewers": 121, "followers_gained": 694, "peak_viewers": 492, "hours_streamed": 197, "streams": 30, "mature": 0, "language": "Japanese", "account_age": 2325600.0}

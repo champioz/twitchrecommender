@@ -1,0 +1,1 @@
+{"channel": "mcdo111", "avg_viewers": 0, "followers_gained": 0, "peak_viewers": 3, "hours_streamed": 11, "streams": 6, "mature": 0, "language": "French", "account_age": 106560.0}

@@ -1,0 +1,1 @@
+{"channel": "mrp4triot", "avg_viewers": 10, "followers_gained": 146, "peak_viewers": 22, "hours_streamed": 57, "streams": 14, "mature": 0, "language": "English", "account_age": 489600.0}

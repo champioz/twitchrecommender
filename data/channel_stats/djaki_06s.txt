@@ -1,0 +1,1 @@
+{"channel": "djaki_06s", "avg_viewers": 198, "followers_gained": 1, "peak_viewers": 248, "hours_streamed": 1, "streams": 1, "mature": 0, "language": "Japanese", "account_age": 1284480.0}

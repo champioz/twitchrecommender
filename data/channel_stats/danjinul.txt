@@ -1,0 +1,1 @@
+{"channel": "danjinul", "avg_viewers": 5, "followers_gained": 8, "peak_viewers": 14, "hours_streamed": 20, "streams": 13, "mature": 0, "language": "Korean", "account_age": 1441440.0}

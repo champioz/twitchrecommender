@@ -1,0 +1,1 @@
+{"channel": "jermworm98", "avg_viewers": 100, "followers_gained": 1093, "peak_viewers": 315, "hours_streamed": 45, "streams": 14, "mature": 0, "language": "English", "account_age": 1326240.0}

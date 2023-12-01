@@ -1,0 +1,1 @@
+{"channel": "masacre4fun", "avg_viewers": 9, "followers_gained": 1, "peak_viewers": 12, "hours_streamed": 0, "streams": 1, "mature": 0, "language": "Spanish", "account_age": 2174400.0}

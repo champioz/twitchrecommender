@@ -1,0 +1,1 @@
+{"channel": "alles_andere_tv", "avg_viewers": 194, "followers_gained": 245, "peak_viewers": 328, "hours_streamed": 34, "streams": 10, "mature": 1, "language": "German", "account_age": 3300480.0}

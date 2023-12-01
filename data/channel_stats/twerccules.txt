@@ -1,0 +1,1 @@
+{"channel": "twerccules", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 6, "hours_streamed": 1, "streams": 1, "mature": 1, "language": "English", "account_age": 2102400.0}

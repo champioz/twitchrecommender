@@ -1,0 +1,1 @@
+{"channel": "yukkiwee", "avg_viewers": 12, "followers_gained": 7, "peak_viewers": 22, "hours_streamed": 13, "streams": 4, "mature": 1, "language": "Chinese", "account_age": 2818080.0}

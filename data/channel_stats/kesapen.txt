@@ -1,0 +1,1 @@
+{"channel": "kesapen", "avg_viewers": 141, "followers_gained": 334, "peak_viewers": 278, "hours_streamed": 181, "streams": 29, "mature": 0, "language": "Russian", "account_age": 806400.0}

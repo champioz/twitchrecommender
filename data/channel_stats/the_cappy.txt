@@ -1,0 +1,1 @@
+{"channel": "the_cappy", "avg_viewers": 14, "followers_gained": 24, "peak_viewers": 37, "hours_streamed": 63, "streams": 27, "mature": 1, "language": "Polish", "account_age": 1689120.0}

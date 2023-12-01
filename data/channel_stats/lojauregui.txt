@@ -1,0 +1,1 @@
+{"channel": "lojauregui", "avg_viewers": 15, "followers_gained": 201, "peak_viewers": 66, "hours_streamed": 85, "streams": 24, "mature": 1, "language": "Portuguese", "account_age": 455040.0}

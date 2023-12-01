@@ -1,0 +1,1 @@
+{"channel": "waffle_store", "avg_viewers": 15, "followers_gained": 11, "peak_viewers": 28, "hours_streamed": 36, "streams": 11, "mature": 0, "language": "Korean", "account_age": 345600.0}

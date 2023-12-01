@@ -1,0 +1,1 @@
+{"channel": "themax_", "avg_viewers": 95, "followers_gained": 210, "peak_viewers": 177, "hours_streamed": 22, "streams": 5, "mature": 0, "language": "English", "account_age": 3610080.0}

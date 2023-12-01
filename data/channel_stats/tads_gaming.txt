@@ -1,0 +1,1 @@
+{"channel": "tads_gaming", "avg_viewers": 10, "followers_gained": 39, "peak_viewers": 28, "hours_streamed": 53, "streams": 24, "mature": 0, "language": "English", "account_age": 1730880.0}

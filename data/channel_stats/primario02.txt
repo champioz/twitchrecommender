@@ -1,0 +1,1 @@
+{"channel": "primario02", "avg_viewers": 1, "followers_gained": 20, "peak_viewers": 7, "hours_streamed": 34, "streams": 20, "mature": 0, "language": "Portuguese", "account_age": 1176480.0}

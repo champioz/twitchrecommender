@@ -1,0 +1,1 @@
+{"channel": "z4mmpa", "avg_viewers": 90, "followers_gained": 277, "peak_viewers": 183, "hours_streamed": 230, "streams": 30, "mature": 0, "language": "Portuguese", "account_age": 1461600.0}

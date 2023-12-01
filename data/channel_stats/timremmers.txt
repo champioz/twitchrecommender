@@ -1,0 +1,1 @@
+{"channel": "timremmers", "avg_viewers": 15, "followers_gained": 70, "peak_viewers": 75, "hours_streamed": 35, "streams": 18, "mature": 0, "language": "Dutch", "account_age": 1560960.0}

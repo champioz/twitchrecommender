@@ -1,0 +1,1 @@
+{"channel": "lukeng34", "avg_viewers": 2, "followers_gained": 51, "peak_viewers": 8, "hours_streamed": 57, "streams": 17, "mature": 0, "language": "Turkish", "account_age": 1437120.0}

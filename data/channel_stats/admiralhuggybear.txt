@@ -1,0 +1,1 @@
+{"channel": "admiralhuggybear", "avg_viewers": 0, "followers_gained": 1, "peak_viewers": 3, "hours_streamed": 5, "streams": 3, "mature": 0, "language": "Norwegian", "account_age": 1414080.0}

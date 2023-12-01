@@ -1,0 +1,1 @@
+{"channel": "cptcloudsgod", "avg_viewers": 23, "followers_gained": 174, "peak_viewers": 59, "hours_streamed": 132, "streams": 45, "mature": 1, "language": "Turkish", "account_age": 2476800.0}

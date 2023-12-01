@@ -1,0 +1,1 @@
+{"channel": "tiankami", "avg_viewers": 225, "followers_gained": 662, "peak_viewers": 660, "hours_streamed": 204, "streams": 26, "mature": 0, "language": "Russian", "account_age": 2136960.0}

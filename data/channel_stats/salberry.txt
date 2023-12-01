@@ -1,0 +1,1 @@
+{"channel": "salberry", "avg_viewers": 12, "followers_gained": 85, "peak_viewers": 47, "hours_streamed": 104, "streams": 24, "mature": 0, "language": "English", "account_age": 1465920.0}

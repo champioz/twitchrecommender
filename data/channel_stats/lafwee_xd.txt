@@ -1,0 +1,1 @@
+{"channel": "lafwee_xd", "avg_viewers": 18, "followers_gained": 162, "peak_viewers": 420, "hours_streamed": 75, "streams": 21, "mature": 0, "language": "English", "account_age": 2229120.0}

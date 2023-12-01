@@ -1,0 +1,1 @@
+{"channel": "chaton336", "avg_viewers": 6, "followers_gained": 14, "peak_viewers": 16, "hours_streamed": 41, "streams": 14, "mature": 0, "language": "French", "account_age": 3612960.0}

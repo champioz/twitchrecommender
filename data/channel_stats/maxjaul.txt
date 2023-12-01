@@ -1,0 +1,1 @@
+{"channel": "maxjaul", "avg_viewers": 6, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 14, "streams": 6, "mature": 1, "language": "French", "account_age": 3892320.0}

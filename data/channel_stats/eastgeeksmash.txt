@@ -1,0 +1,1 @@
+{"channel": "eastgeeksmash", "avg_viewers": 7, "followers_gained": 33, "peak_viewers": 22, "hours_streamed": 28, "streams": 9, "mature": 0, "language": "Japanese", "account_age": 604800.0}

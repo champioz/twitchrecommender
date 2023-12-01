@@ -1,0 +1,1 @@
+{"channel": "bajheera", "avg_viewers": 337, "followers_gained": 665, "peak_viewers": 1502, "hours_streamed": 165, "streams": 43, "mature": 0, "language": "English", "account_age": 4279680.0}

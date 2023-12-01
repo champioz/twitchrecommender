@@ -1,0 +1,1 @@
+{"channel": "retrogameintros", "avg_viewers": 3, "followers_gained": 2, "peak_viewers": 244, "hours_streamed": 360, "streams": 6, "mature": 0, "language": "English", "account_age": 1897920.0}

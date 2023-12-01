@@ -1,0 +1,1 @@
+{"channel": "fumiichi", "avg_viewers": 222, "followers_gained": 88, "peak_viewers": 509, "hours_streamed": 63, "streams": 16, "mature": 0, "language": "Japanese", "account_age": 804960.0}

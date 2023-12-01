@@ -1,0 +1,1 @@
+{"channel": "galopez", "avg_viewers": 7, "followers_gained": 100, "peak_viewers": 20, "hours_streamed": 58, "streams": 9, "mature": 0, "language": "Portuguese", "account_age": 1560960.0}

@@ -1,0 +1,1 @@
+{"channel": "gorydoll0029", "avg_viewers": 2, "followers_gained": 3, "peak_viewers": 12, "hours_streamed": 94, "streams": 23, "mature": 1, "language": "English", "account_age": 2996640.0}

@@ -1,0 +1,1 @@
+{"channel": "seozo_", "avg_viewers": 17, "followers_gained": 75, "peak_viewers": 49, "hours_streamed": 36, "streams": 7, "mature": 1, "language": "Korean", "account_age": 475200.0}

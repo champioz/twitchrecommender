@@ -1,0 +1,1 @@
+{"channel": "mizukisayomi", "avg_viewers": 3, "followers_gained": 20, "peak_viewers": 12, "hours_streamed": 59, "streams": 9, "mature": 1, "language": "English", "account_age": 2558880.0}

@@ -1,0 +1,1 @@
+{"channel": "kandykills", "avg_viewers": 6, "followers_gained": 8, "peak_viewers": 22, "hours_streamed": 73, "streams": 22, "mature": 1, "language": "German", "account_age": 3231360.0}

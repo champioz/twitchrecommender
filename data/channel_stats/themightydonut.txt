@@ -1,0 +1,1 @@
+{"channel": "themightydonut", "avg_viewers": 4, "followers_gained": 10, "peak_viewers": 9, "hours_streamed": 11, "streams": 2, "mature": 1, "language": "English", "account_age": 3127680.0}

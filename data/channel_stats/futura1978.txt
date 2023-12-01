@@ -1,0 +1,1 @@
+{"channel": "futura1978", "avg_viewers": 7, "followers_gained": 1, "peak_viewers": 22, "hours_streamed": 12, "streams": 5, "mature": 1, "language": "English", "account_age": 436320.0}

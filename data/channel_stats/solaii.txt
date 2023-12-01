@@ -1,0 +1,1 @@
+{"channel": "solaii", "avg_viewers": 42, "followers_gained": 0, "peak_viewers": 66, "hours_streamed": 65, "streams": 14, "mature": 1, "language": "German", "account_age": 2628000.0}

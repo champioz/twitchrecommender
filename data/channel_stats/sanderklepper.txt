@@ -1,0 +1,1 @@
+{"channel": "sanderklepper", "avg_viewers": 1, "followers_gained": 0, "peak_viewers": 5, "hours_streamed": 4, "streams": 6, "mature": 0, "language": "English", "account_age": 200160.0}

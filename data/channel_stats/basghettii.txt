@@ -1,0 +1,1 @@
+{"channel": "basghettii", "avg_viewers": 8, "followers_gained": 20, "peak_viewers": 24, "hours_streamed": 94, "streams": 25, "mature": 0, "language": "English", "account_age": 1800000.0}

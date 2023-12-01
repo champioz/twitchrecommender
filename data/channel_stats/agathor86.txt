@@ -1,0 +1,1 @@
+{"channel": "agathor86", "avg_viewers": 18, "followers_gained": 26, "peak_viewers": 169, "hours_streamed": 38, "streams": 9, "mature": 1, "language": "English", "account_age": 1598400.0}

@@ -1,0 +1,1 @@
+{"channel": "jamiedrakehd", "avg_viewers": 485, "followers_gained": 2314, "peak_viewers": 1079, "hours_streamed": 52, "streams": 10, "mature": 0, "language": "Portuguese", "account_age": 2937600.0}

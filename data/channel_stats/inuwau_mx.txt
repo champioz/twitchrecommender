@@ -1,0 +1,1 @@
+{"channel": "inuwau_mx", "avg_viewers": 5, "followers_gained": 46, "peak_viewers": 14, "hours_streamed": 48, "streams": 23, "mature": 1, "language": "Spanish", "account_age": 336960.0}

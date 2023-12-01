@@ -1,0 +1,1 @@
+{"channel": "okamivictoria", "avg_viewers": 25, "followers_gained": 183, "peak_viewers": 108, "hours_streamed": 64, "streams": 16, "mature": 0, "language": "Spanish", "account_age": 1980000.0}

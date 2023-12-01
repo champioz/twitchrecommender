@@ -1,0 +1,1 @@
+{"channel": "candynyaa", "avg_viewers": 53, "followers_gained": 66, "peak_viewers": 90, "hours_streamed": 50, "streams": 7, "mature": 1, "language": "German", "account_age": 1700640.0}

@@ -1,0 +1,1 @@
+{"channel": "dr_doof", "avg_viewers": 41, "followers_gained": 69, "peak_viewers": 79, "hours_streamed": 95, "streams": 16, "mature": 1, "language": "English", "account_age": 2521440.0}

@@ -1,0 +1,1 @@
+{"channel": "jasonfalco", "avg_viewers": 13, "followers_gained": 93, "peak_viewers": 53, "hours_streamed": 67, "streams": 18, "mature": 0, "language": "English", "account_age": 1543680.0}

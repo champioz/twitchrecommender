@@ -1,0 +1,1 @@
+{"channel": "livedojoni", "avg_viewers": 33, "followers_gained": 8, "peak_viewers": 108, "hours_streamed": 36, "streams": 15, "mature": 0, "language": "Portuguese", "account_age": 3938400.0}

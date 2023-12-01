@@ -1,0 +1,1 @@
+{"channel": "juno_", "avg_viewers": 10, "followers_gained": 10, "peak_viewers": 30, "hours_streamed": 69, "streams": 21, "mature": 0, "language": "English", "account_age": 3290400.0}

@@ -1,0 +1,1 @@
+{"channel": "yulihong22", "avg_viewers": 656, "followers_gained": 3047, "peak_viewers": 5412, "hours_streamed": 180, "streams": 32, "mature": 0, "language": "Chinese", "account_age": 3877920.0}

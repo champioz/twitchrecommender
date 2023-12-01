@@ -1,0 +1,1 @@
+{"channel": "nieoking", "avg_viewers": 21, "followers_gained": 48, "peak_viewers": 46, "hours_streamed": 28, "streams": 9, "mature": 0, "language": "Chinese", "account_age": 3083040.0}

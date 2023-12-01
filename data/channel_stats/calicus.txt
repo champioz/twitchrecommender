@@ -1,0 +1,1 @@
+{"channel": "calicus", "avg_viewers": 49, "followers_gained": 193, "peak_viewers": 89, "hours_streamed": 27, "streams": 11, "mature": 1, "language": "English", "account_age": 751680.0}

@@ -1,0 +1,1 @@
+{"channel": "mrgashii", "avg_viewers": 40, "followers_gained": 911, "peak_viewers": 192, "hours_streamed": 89, "streams": 43, "mature": 0, "language": "English", "account_age": 1010880.0}

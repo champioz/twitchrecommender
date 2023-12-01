@@ -1,0 +1,1 @@
+{"channel": "sp00nerism", "avg_viewers": 129, "followers_gained": 97, "peak_viewers": 1364, "hours_streamed": 226, "streams": 35, "mature": 1, "language": "English", "account_age": 5712480.0}

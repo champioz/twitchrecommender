@@ -1,0 +1,1 @@
+{"channel": "elevationav", "avg_viewers": 4, "followers_gained": 8, "peak_viewers": 31, "hours_streamed": 47, "streams": 4, "mature": 0, "language": "English", "account_age": 299520.0}

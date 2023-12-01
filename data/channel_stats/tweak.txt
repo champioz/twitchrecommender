@@ -1,0 +1,1 @@
+{"channel": "tweak", "avg_viewers": 170, "followers_gained": 1326, "peak_viewers": 622, "hours_streamed": 190, "streams": 27, "mature": 0, "language": "English", "account_age": 1146240.0}

@@ -1,0 +1,1 @@
+{"channel": "sirpink", "avg_viewers": 156, "followers_gained": 27, "peak_viewers": 193, "hours_streamed": 5, "streams": 1, "mature": 1, "language": "English", "account_age": 2181600.0}

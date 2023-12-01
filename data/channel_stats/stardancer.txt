@@ -1,0 +1,1 @@
+{"channel": "stardancer", "avg_viewers": 99, "followers_gained": 384, "peak_viewers": 446, "hours_streamed": 86, "streams": 17, "mature": 0, "language": "English", "account_age": 1575360.0}

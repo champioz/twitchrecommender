@@ -1,0 +1,1 @@
+{"channel": "luxape", "avg_viewers": 19, "followers_gained": 26, "peak_viewers": 64, "hours_streamed": 61, "streams": 12, "mature": 1, "language": "German", "account_age": 3211200.0}

@@ -1,0 +1,1 @@
+{"channel": "gtimetv", "avg_viewers": 255, "followers_gained": 260, "peak_viewers": 1716, "hours_streamed": 183, "streams": 45, "mature": 0, "language": "German", "account_age": 2800800.0}

@@ -1,0 +1,1 @@
+{"channel": "ghostysmoker", "avg_viewers": 8, "followers_gained": 17, "peak_viewers": 14, "hours_streamed": 12, "streams": 3, "mature": 0, "language": "Arabic", "account_age": 776160.0}

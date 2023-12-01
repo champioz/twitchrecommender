@@ -1,0 +1,1 @@
+{"channel": "themontymole", "avg_viewers": 6, "followers_gained": 40, "peak_viewers": 102, "hours_streamed": 32, "streams": 11, "mature": 0, "language": "English", "account_age": 3402720.0}

@@ -1,0 +1,1 @@
+{"channel": "ashisawesome", "avg_viewers": 34, "followers_gained": 174, "peak_viewers": 875, "hours_streamed": 67, "streams": 15, "mature": 1, "language": "English", "account_age": 2095200.0}

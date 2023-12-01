@@ -1,0 +1,1 @@
+{"channel": "linvalin", "avg_viewers": 77, "followers_gained": 226, "peak_viewers": 465, "hours_streamed": 111, "streams": 19, "mature": 0, "language": "English", "account_age": 2358720.0}

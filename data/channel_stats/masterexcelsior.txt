@@ -1,0 +1,1 @@
+{"channel": "masterexcelsior", "avg_viewers": 1, "followers_gained": 6, "peak_viewers": 13, "hours_streamed": 121, "streams": 65, "mature": 0, "language": "English", "account_age": 1647360.0}

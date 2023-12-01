@@ -1,0 +1,1 @@
+{"channel": "mangs1337", "avg_viewers": 64, "followers_gained": 81, "peak_viewers": 110, "hours_streamed": 9, "streams": 3, "mature": 0, "language": "English", "account_age": 3218400.0}

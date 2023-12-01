@@ -1,0 +1,1 @@
+{"channel": "nothing243", "avg_viewers": 1, "followers_gained": 1, "peak_viewers": 7, "hours_streamed": 143, "streams": 30, "mature": 1, "language": "Chinese", "account_age": 2576160.0}

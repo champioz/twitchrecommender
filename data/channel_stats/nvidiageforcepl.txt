@@ -1,0 +1,1 @@
+{"channel": "nvidiageforcepl", "avg_viewers": 504, "followers_gained": 1341, "peak_viewers": 4294, "hours_streamed": 246, "streams": 50, "mature": 0, "language": "Polish", "account_age": 2178720.0}

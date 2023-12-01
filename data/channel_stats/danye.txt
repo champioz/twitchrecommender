@@ -1,0 +1,1 @@
+{"channel": "danye", "avg_viewers": 41, "followers_gained": 22, "peak_viewers": 64, "hours_streamed": 4, "streams": 2, "mature": 0, "language": "Polish", "account_age": 3324960.0}

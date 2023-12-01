@@ -1,0 +1,1 @@
+{"channel": "madcow09", "avg_viewers": 8, "followers_gained": 22, "peak_viewers": 21, "hours_streamed": 202, "streams": 26, "mature": 1, "language": "Korean", "account_age": 577440.0}

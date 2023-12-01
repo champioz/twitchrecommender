@@ -1,0 +1,1 @@
+{"channel": "nitsua_ms", "avg_viewers": 14, "followers_gained": 109, "peak_viewers": 99, "hours_streamed": 104, "streams": 25, "mature": 0, "language": "English", "account_age": 3018240.0}

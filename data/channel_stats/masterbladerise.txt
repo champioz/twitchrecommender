@@ -1,0 +1,1 @@
+{"channel": "masterbladerise", "avg_viewers": 3, "followers_gained": 1, "peak_viewers": 15, "hours_streamed": 39, "streams": 8, "mature": 1, "language": "German", "account_age": 2138400.0}

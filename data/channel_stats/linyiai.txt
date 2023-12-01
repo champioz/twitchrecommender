@@ -1,0 +1,1 @@
+{"channel": "linyiai", "avg_viewers": 25, "followers_gained": 127, "peak_viewers": 100, "hours_streamed": 142, "streams": 22, "mature": 1, "language": "Chinese", "account_age": 561600.0}

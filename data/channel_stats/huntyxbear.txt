@@ -1,0 +1,1 @@
+{"channel": "huntyxbear", "avg_viewers": 6, "followers_gained": 12, "peak_viewers": 13, "hours_streamed": 37, "streams": 11, "mature": 1, "language": "English", "account_age": 2492640.0}

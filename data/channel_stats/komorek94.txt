@@ -1,0 +1,1 @@
+{"channel": "komorek94", "avg_viewers": 0, "followers_gained": 7, "peak_viewers": 4, "hours_streamed": 53, "streams": 21, "mature": 1, "language": "Polish", "account_age": 3911040.0}

@@ -1,0 +1,1 @@
+{"channel": "squiggstheworm", "avg_viewers": 4, "followers_gained": 7, "peak_viewers": 12, "hours_streamed": 28, "streams": 14, "mature": 1, "language": "English", "account_age": 915840.0}

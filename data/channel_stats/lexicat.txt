@@ -1,0 +1,1 @@
+{"channel": "lexicat", "avg_viewers": 23, "followers_gained": 120, "peak_viewers": 94, "hours_streamed": 53, "streams": 15, "mature": 1, "language": "English", "account_age": 1068480.0}

@@ -1,0 +1,1 @@
+{"channel": "fleoxi", "avg_viewers": 17, "followers_gained": 158, "peak_viewers": 130, "hours_streamed": 31, "streams": 15, "mature": 1, "language": "French", "account_age": 378720.0}

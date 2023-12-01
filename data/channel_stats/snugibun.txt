@@ -1,0 +1,1 @@
+{"channel": "snugibun", "avg_viewers": 40, "followers_gained": 197, "peak_viewers": 174, "hours_streamed": 76, "streams": 21, "mature": 1, "language": "English", "account_age": 1638720.0}
