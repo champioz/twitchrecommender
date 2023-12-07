@@ -26,7 +26,7 @@ Recommender evaluations were performed using Julian McAuley's (UCSD) "Recommende
 
 [utils/clean_unprocessed_files.py](https://github.com/champioz/twitchrecommender/blob/main/utils/clean_unprocessed_files.py): A preliminary data cleaning step that checks the directory of web-scraped data for errors or corrupted/empty files, and deletes all files associated with channels that encountered any such errors. This prevents a channel with faulty or incomplete data from being included in the cleaned data set. Channels affected are logged for attempted re-collection.
 
-### B) Transforming thousands of historic broadcast CSVs into a high-dimensional adjacency matrix
+### B) Transforming thousands of past broadcast CSVs into a high-dimensional adjacency matrix
 
 [utils/twitch_preprocess.py](https://github.com/champioz/twitchrecommender/blob/main/utils/twitch_preprocess.py): Primary file for data cleaning. Combines all collected CSV files into a master adjacency matrix, containing a row for every channel in the data set and a column for every game or category. Each intersection indicates the proportion of total broadcast hours that channel dedicated to that game or category. Also generates a channel statistics dataset, cleaned and standardized to convert all dates to numerical time data (e.g., account creation date converted to account age in minutes).
 
