@@ -1,7 +1,12 @@
-# Twitch Recommender
+# A recommendation system for Twitch livestreams using community detection
 
-This project outlines efforts to build and evaluate a recommendation system using several different unsupervised community detection algorithms. 
-For a longer writeup, see the [report](https://github.com/champioz/twitchrecommender/blob/main/report.pdf).
+_This project outlines efforts to build and evaluate a recommendation system using several different unsupervised community detection algorithms. For a longer writeup, see the [report](https://github.com/champioz/twitchrecommender/blob/main/report.pdf)._
+
+## Problem
+Twitch.tv is an entertainment livestreaming website where channels broadcast in a variety of categories -- like games, music, sports, and art. These categories present an opportunity to identify channels that are similar to one another. I want to test whether a large historical database of past broadcasts on Twitch.tv can be used to create a robust recommendation system for future viewers. 
+
+## My solution
+I gathered this historical data manually from [SullyGnome](https://sullygnome.com/) using Python and Selenium, cleaned the results into a large matrix representing the proportion of a channel's overall bradcast time spent on each category, and evaluated several different unsupervized community detection techniques to label groups of similar channels. I then trained and evaluated a recommender system using [a dataset of past user viewing habits](https://cseweb.ucsd.edu/~jmcauley/datasets.html).
 
 ## 1) Data Collection
 
